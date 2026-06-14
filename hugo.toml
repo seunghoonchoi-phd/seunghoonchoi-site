@@ -47,7 +47,7 @@ enableEmoji = true
     weight = 2
     title = "최승훈"
     [languages.ko.params]
-      role = "계산재료과학자 · 작가"
+      role = "Computational Materials Scientist · 작가"
       tagline = "재료·제조·데이터, 그리고 그 바깥의 글."
       description = "최승훈 — 계산재료과학자. 연구, 글, 그리고 가이드를 한곳에."
 
