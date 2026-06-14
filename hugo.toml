@@ -48,7 +48,7 @@ enableEmoji = true
     title = "Seunghoon Choi"
     [languages.ko.params]
       role = "Computational Materials Scientist · 작가"
-      tagline = "데이터로 재료와 제조를 연구하고, 그 바깥의 글을 씁니다."
+      tagline = "재료를 계산으로 연구하고, 그 너머의 이야기를 씁니다."
       description = "최승훈(Seunghoon Choi) — 계산재료과학자이자 작가. 연구, 글, 가이드를 한곳에."
 
 # Section navigation (shared structure; labels via i18n)
