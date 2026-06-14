@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>귀화 종합평가 무료 연습 | 한·중 병기 모의고사</title>
+  <meta name="description" content="한국 귀화용 종합평가(사회통합프로그램 KIIP)를 실전처럼 연습하는 무료 웹앱. 객관식·작문·구술 모의고사, 기출 277문항, 한국어·중국어 병기, 설치 없이 오프라인까지." />
+  <meta name="robots" content="index,follow" />
+  <link rel="canonical" href="https://seunghoonchoi.com/gwiwha/" />
+  <!-- Open Graph -->
+  <meta property="og:title" content="귀화 종합평가 무료 연습 — 한·중 병기 모의고사" />
+  <meta property="og:description" content="기출 277문항 · 실전 모의고사(자동채점) · 오답노트 · 한국어/중국어 병기 · 설치 없이 무료." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://seunghoonchoi.com/gwiwha/" />
+  <style>
+    :root{
+      --blue:#2563eb; --blue-d:#1d4ed8; --ink:#1e293b; --muted:#64748b;
+      --bg:#f8fafc; --card:#ffffff; --line:#e2e8f0; --soft:#eff6ff;
+    }
+    *{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{
+      font-family:'Pretendard','Pretendard Variable',-apple-system,BlinkMacSystemFont,
+        'Apple SD Gothic Neo','Malgun Gothic','맑은 고딕',system-ui,sans-serif;
+      color:var(--ink); background:var(--bg); line-height:1.65;
+      -webkit-font-smoothing:antialiased;
+    }
+    .wrap{max-width:760px;margin:0 auto;padding:0 20px}
+    a{color:inherit}
+    .btn{
+      display:inline-block;padding:14px 26px;border-radius:12px;font-weight:700;
+      text-decoration:none;font-size:1.02rem;transition:transform .12s ease,box-shadow .12s ease;
+    }
+    .btn-primary{background:var(--blue);color:#fff;box-shadow:0 6px 18px rgba(37,99,235,.28)}
+    .btn-primary:hover{transform:translateY(-2px);box-shadow:0 10px 24px rgba(37,99,235,.34)}
+    .btn-ghost{background:#fff;color:var(--blue);border:1.5px solid var(--blue)}
+    .btn-ghost:hover{background:var(--soft)}
+
+    header.top{padding:18px 0;border-bottom:1px solid var(--line);background:#fff}
+    .top .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px}
+    .brand{font-weight:800;font-size:1.05rem}
+    .brand small{display:block;font-weight:500;color:var(--muted);font-size:.74rem;margin-top:2px}
+    .top .btn{padding:9px 16px;font-size:.9rem}
+
+    .hero{padding:64px 0 52px;text-align:center;background:
+      radial-gradient(1200px 400px at 50% -120px,rgba(37,99,235,.10),transparent)}
+    .pill{display:inline-block;background:var(--soft);color:var(--blue-d);font-weight:700;
+      font-size:.82rem;padding:6px 14px;border-radius:999px;margin-bottom:20px}
+    .hero h1{font-size:2.35rem;line-height:1.25;letter-spacing:-.5px;margin-bottom:18px}
+    .hero h1 .hl{color:var(--blue)}
+    .hero p.lead{font-size:1.12rem;color:#475569;max-width:560px;margin:0 auto 14px}
+    .zh{font-size:.95rem;color:var(--muted);margin-bottom:30px}
+    .cta-row{display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+    .free-note{margin-top:16px;font-size:.86rem;color:var(--muted)}
+
+    section{padding:48px 0}
+    h2{font-size:1.5rem;text-align:center;margin-bottom:8px;letter-spacing:-.3px}
+    .sub{text-align:center;color:var(--muted);margin-bottom:30px}
+
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+    .feat{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px}
+    .feat .ic{font-size:1.5rem;margin-bottom:8px}
+    .feat h3{font-size:1.04rem;margin-bottom:5px}
+    .feat p{font-size:.92rem;color:var(--muted)}
+
+    .who{background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+    .who ul{list-style:none;max-width:560px;margin:0 auto;display:grid;gap:12px}
+    .who li{display:flex;gap:12px;align-items:flex-start;font-size:1rem}
+    .who li b{color:var(--blue)}
+
+    /* signup */
+    .signup{background:linear-gradient(180deg,#fff, var(--soft));border:1px solid var(--line);
+      border-radius:18px;padding:34px 26px;text-align:center;margin:8px 0}
+    .signup h2{margin-bottom:6px}
+    .form{max-width:440px;margin:20px auto 0;text-align:left}
+    .form input[type=email]{width:100%;padding:14px 16px;border:1.5px solid var(--line);
+      border-radius:12px;font-size:1rem;font-family:inherit}
+    .form input[type=email]:focus{outline:none;border-color:var(--blue)}
+    .consent{display:flex;gap:9px;align-items:flex-start;margin:12px 2px 0;font-size:.84rem;color:#475569}
+    .consent input{margin-top:4px}
+    .consent a{color:var(--blue);text-decoration:underline}
+    .form .btn-primary{width:100%;margin-top:14px;border:0;cursor:pointer;font-family:inherit}
+    .form .tiny{font-size:.76rem;color:var(--muted);margin-top:10px;text-align:center}
+
+    .privacy{background:#fff}
+    .privacy .box{border:1px solid var(--line);border-radius:14px;padding:22px;font-size:.88rem;color:#475569}
+    .privacy h3{font-size:1rem;color:var(--ink);margin:14px 0 6px}
+    .privacy h3:first-child{margin-top:0}
+    .privacy table{width:100%;border-collapse:collapse;margin-top:6px}
+    .privacy td,.privacy th{border:1px solid var(--line);padding:8px 10px;text-align:left;font-size:.85rem}
+    .privacy th{background:var(--bg)}
+
+    footer{background:#0f172a;color:#cbd5e1;padding:34px 0;font-size:.88rem}
+    footer .wrap{display:flex;flex-wrap:wrap;gap:6px 20px;justify-content:space-between;align-items:center}
+    footer a{color:#93c5fd}
+    footer .op{line-height:1.9}
+
+    @media(max-width:560px){
+      .hero h1{font-size:1.85rem}
+      .grid{grid-template-columns:1fr}
+    }
+  </style>
+</head>
+<body>
+
+  <header class="top">
+    <div class="wrap">
+      <div class="brand">귀화시험 종합평가 연습<small>무료 · 한국어/中文 · made by 최승훈</small></div>
+      <a class="btn btn-primary" href="https://herring2141.github.io/gwiwha/">앱 열기</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <span class="pill">사회통합프로그램(KIIP) 종합평가 대비</span>
+        <h1>귀화 종합평가,<br><span class="hl">실전처럼</span> 무료로 연습하세요</h1>
+        <p class="lead">객관식·작문·구술 모의고사, 기출 277문항, 오답노트와 학습통계까지.
+          한국어 문제에 <b>중국어 풀이</b>를 함께 달아, 설치 없이 브라우저에서 바로.</p>
+        <p class="zh">韩国归化综合评测练习 · 中韩双语 · 免费 · 免安装</p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="https://herring2141.github.io/gwiwha/">무료로 시작하기</a>
+          <a class="btn btn-ghost" href="#signup">새 문제 소식 받기</a>
+        </div>
+        <p class="free-note">로그인 없음 · 광고 없음 · 오프라인 작동(PWA)</p>
+      </div>
+    </section>
+
+    <section>
+      <div class="wrap">
+        <h2>무엇이 들어 있나</h2>
+        <p class="sub">혼자서도 실제 시험 구조 그대로 연습할 수 있게 만들었습니다.</p>
+        <div class="grid">
+          <div class="feat"><div class="ic">📝</div><h3>실전 모의고사</h3><p>객관식 36 + 작문 + 구술, 60분 타이머. 객관식 자동 채점에 60점 합격선 바로 표시.</p></div>
+          <div class="feat"><div class="ic">📚</div><h3>영역별 연습</h3><p>8개 영역으로 나눠 한 문제씩, 풀자마자 해설 확인.</p></div>
+          <div class="feat"><div class="ic">✍️</div><h3>작문·구술</h3><p>주제별 모범답안을 보며 스스로 점검.</p></div>
+          <div class="feat"><div class="ic">🔁</div><h3>오답 노트 · 통계</h3><p>틀린 문제만 모아 다시 풀기, 영역별 약점 추적.</p></div>
+          <div class="feat"><div class="ic">🀄</div><h3>한국어 · 中文 병기</h3><p>한국어 본문 아래 중국어 풀이. 한국어가 아직 어려워도 OK.</p></div>
+          <div class="feat"><div class="ic">📴</div><h3>설치 없이 · 오프라인</h3><p>브라우저에서 바로, 홈 화면에 추가하면 앱처럼. 인터넷 없이도 작동.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="who">
+      <div class="wrap">
+        <h2>이런 분께</h2>
+        <p class="sub" style="margin-bottom:22px">277문항 무료, 지금 바로 시작할 수 있습니다.</p>
+        <ul>
+          <li>🇰🇷 <span><b>귀화용 종합평가</b>(필기·작문·구술)를 준비하는 분</span></li>
+          <li>🎓 <span>사회통합프로그램(KIIP) <b>5단계 종합평가</b>를 앞둔 분</span></li>
+          <li>🀄 <span>한국어가 아직 어려운 <b>중국어권</b> 응시자 — 문제와 언어를 분리해 공부</span></li>
+          <li>👪 <span>가족·배우자의 시험 준비를 <b>도와주려는 분</b></span></li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <div class="wrap">
+        <div class="signup" id="signup">
+          <h2>새 문제 · 업데이트 소식을 이메일로</h2>
+          <p class="sub" style="margin-bottom:4px">문제가 추가되거나 기능이 개선되면 알려드립니다. (스팸 없음, 언제든 해지)</p>
+          <!-- ▼▼▼ 이메일 서비스 연동 자리: 가입 후 form ID를 받아 action에 넣으면 작동합니다 (권장: Kit/ConvertKit, 무료 1만 구독) ▼▼▼ -->
+          <form class="form" action="https://app.kit.com/forms/__KIT_FORM_ID__/subscriptions" method="post" data-sv-form="__KIT_FORM_ID__">
+            <input type="email" name="email_address" required placeholder="이메일 주소를 입력하세요" aria-label="이메일 주소" />
+            <label class="consent">
+              <input type="checkbox" required />
+              <span>[필수] 개인정보(이메일) 수집·이용에 동의합니다. 수집된 이메일은 앱 소식·업데이트 발송 목적으로만 사용되며, 구독 해지 시 즉시 파기됩니다. (<a href="#privacy">자세히</a>)</span>
+            </label>
+            <button type="submit" class="btn btn-primary">소식 받기</button>
+            <p class="tiny">또는 지금 바로 <a href="https://herring2141.github.io/gwiwha/" style="color:var(--blue)">앱을 무료로 시작</a>하세요.</p>
+          </form>
+        </div>
+      </div>
+    </section>
+
+    <section class="privacy" id="privacy">
+      <div class="wrap">
+        <h2>개인정보 처리방침 · 운영자 안내</h2>
+        <p class="sub">개인 운영 무료 서비스입니다.</p>
+        <div class="box">
+          <h3>운영자</h3>
+          <p>최승훈 (Seunghoon Choi) · 문의: <a href="mailto:herring2141@gmail.com">herring2141@gmail.com</a><br>
+          본 사이트와 앱은 개인이 비영리로 제작·운영하는 무료 학습 도구입니다.</p>
+
+          <h3>개인정보 수집 항목 및 목적</h3>
+          <table>
+            <tr><th>수집 항목</th><th>수집 목적</th><th>보유 기간</th></tr>
+            <tr><td>이메일 주소(선택적 구독 시)</td><td>앱 업데이트·신규 문제·학습 자료 소식 발송</td><td>구독 해지 시까지(해지 시 즉시 파기)</td></tr>
+          </table>
+          <p style="margin-top:8px">이메일은 위 목적 외에 사용하거나 제3자에게 제공하지 않습니다. 구독은 메일 하단의 ‘구독 해지’ 링크 또는 운영자 이메일로 언제든 철회할 수 있으며, 동의를 거부해도 앱의 모든 기능은 무료로 그대로 이용할 수 있습니다.</p>
+
+          <h3>이용 데이터</h3>
+          <p>앱의 학습 기록(오답·통계 등)은 이용자 기기(브라우저)에만 저장되며 서버로 전송·수집되지 않습니다. 방문 통계는 가명화된 집계 수준에서만 확인합니다.</p>
+
+          <h3>문제 출처 및 면책</h3>
+          <p>기본 제공 문제는 공개된 사실과 공식 견본 구조(사회통합정보망 socinet.go.kr, 한국이민재단 kiiptest.org 등)를 바탕으로 작성한 <b>연습용</b>입니다. 실제 시험 문제와 다를 수 있으며, 합격을 보장하지 않습니다.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <div class="op">
+        <b style="color:#fff">귀화시험 종합평가 연습</b> · 무료 학습 도구<br>
+        운영: 최승훈 · <a href="mailto:herring2141@gmail.com">herring2141@gmail.com</a>
+      </div>
+      <div>
+        <a href="https://herring2141.github.io/gwiwha/">앱 열기</a> ·
+        <a href="https://seunghoonchoi.com/">seunghoonchoi.com</a> ·
+        <a href="#privacy">개인정보 처리방침</a>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
