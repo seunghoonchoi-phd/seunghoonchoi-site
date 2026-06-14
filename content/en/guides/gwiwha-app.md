@@ -4,9 +4,10 @@ date: 2026-06-14
 categories: ["Tools"]
 tags: ["app"]
 subtitle: "Practice the written, essay & oral test — free"
+image: /images/gwiwha-card.svg
 ---
 <div class="appcard">
-  <img class="appcard__icon" src="/images/gwiwha-icon.png" alt="Naturalization practice app icon">
+  <img class="appcard__icon" src="/images/gwiwha-card.svg" alt="Naturalization practice app icon">
   <div class="appcard__body">
     <span class="appcard__free">Free · Installable web app (PWA)</span>
     <h3>귀화시험 종합평가 연습</h3>

@@ -4,9 +4,10 @@ date: 2026-06-14
 categories: ["도구"]
 tags: ["귀화", "앱"]
 subtitle: "필기·작문·구술을 한 곳에서, 무료로"
+image: /images/gwiwha-card.svg
 ---
 <div class="appcard">
-  <img class="appcard__icon" src="/images/gwiwha-icon.png" alt="귀화시험 연습 앱 아이콘">
+  <img class="appcard__icon" src="/images/gwiwha-card.svg" alt="귀화시험 연습 앱 아이콘">
   <div class="appcard__body">
     <span class="appcard__free">무료 · 설치형 웹앱(PWA)</span>
     <h3>귀화시험 종합평가 연습</h3>

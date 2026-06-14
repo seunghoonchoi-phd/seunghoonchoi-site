@@ -1,0 +1,42 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="gwTitle gwDesc">
+  <title id="gwTitle">귀화 종합평가 연습</title>
+  <desc id="gwDesc">답안지에 정답 체크 표시가 있고 오른쪽 아래에 태극 배지가 있는 아이콘</desc>
+
+  <rect width="512" height="512" fill="#2563eb"/>
+
+  <!-- clipboard shadow -->
+  <rect x="150" y="120" width="212" height="272" rx="24" fill="#1e3a8a" opacity="0.35"/>
+  <!-- clipboard -->
+  <rect x="142" y="112" width="212" height="272" rx="24" fill="#ffffff"/>
+  <!-- clip -->
+  <rect x="216" y="92" width="64" height="38" rx="13" fill="#bcccdc"/>
+  <rect x="228" y="100" width="40" height="22" rx="11" fill="#8aa0b8"/>
+
+  <!-- row 1 (correct) -->
+  <circle cx="180" cy="180" r="14" fill="#16a34a"/>
+  <path d="M173 180 l5 5 l9 -11" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="204" y="172" width="120" height="16" rx="8" fill="#dbeafe"/>
+  <!-- row 2 -->
+  <circle cx="180" cy="224" r="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="4"/>
+  <rect x="204" y="216" width="104" height="16" rx="8" fill="#e8edf3"/>
+  <!-- row 3 (correct) -->
+  <circle cx="180" cy="268" r="14" fill="#16a34a"/>
+  <path d="M173 268 l5 5 l9 -11" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="204" y="260" width="112" height="16" rx="8" fill="#dbeafe"/>
+  <!-- row 4 -->
+  <circle cx="180" cy="312" r="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="4"/>
+  <rect x="204" y="304" width="88" height="16" rx="8" fill="#e8edf3"/>
+
+  <!-- taegeuk badge -->
+  <g transform="translate(372,372)">
+    <circle r="60" fill="#ffffff"/>
+    <circle r="60" fill="none" stroke="#e2e8f0" stroke-width="2"/>
+    <g transform="rotate(-56)">
+      <clipPath id="tgClip"><circle r="46"/></clipPath>
+      <g clip-path="url(#tgClip)">
+        <path d="M0,-46 A46,46 0 0 1 0,46 A23,23 0 0 1 0,0 A23,23 0 0 0 0,-46 Z" fill="#cd2e3a"/>
+        <path d="M0,-46 A46,46 0 0 0 0,46 A23,23 0 0 0 0,0 A23,23 0 0 1 0,-46 Z" fill="#0047a0"/>
+      </g>
+    </g>
+  </g>
+</svg>
