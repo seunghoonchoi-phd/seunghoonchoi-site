@@ -240,3 +240,11 @@ body.lang-ko .lede h2,body.lang-ko .post__body h2{font-weight:700;letter-spacing
 body.lang-ko .lede h3,body.lang-ko .post__body h3,body.lang-ko .tl__body h4{font-weight:600;letter-spacing:-.01em}
 body.lang-ko .eyebrow,body.lang-ko .stat__label,body.lang-ko .subhead,body.lang-ko .appcard__free,body.lang-ko .featured__tag{letter-spacing:.01em}
 body.lang-ko .nav__link{font-weight:500}
+
+/* ---------- App promo card: keep light text inside .post__body ---------- */
+/* .post__body h3/p/a rules above would otherwise darken the card text to ink/navy
+   (invisible on the navy card). Re-assert with higher specificity + later source. */
+.appcard .appcard__free{color:var(--copper-soft)}
+.appcard .appcard__body h3{color:#fff;font-size:24px;margin:0 0 6px}
+.appcard .appcard__body p{color:#C7C9D6}
+.appcard .cta,.appcard .cta:hover{color:#fff;border-bottom:0}
