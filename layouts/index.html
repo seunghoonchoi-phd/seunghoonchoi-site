@@ -1,0 +1,44 @@
+{{ define "main" }}
+<section class="hero">
+  <svg class="hero__molecule" viewBox="0 0 600 600" aria-hidden="true" preserveAspectRatio="xMidYMid slice">
+    <g class="mol">
+      <line x1="120" y1="150" x2="300" y2="90"/><line x1="300" y1="90" x2="470" y2="170"/>
+      <line x1="300" y1="90" x2="320" y2="280"/><line x1="120" y1="150" x2="160" y2="330"/>
+      <line x1="160" y1="330" x2="320" y2="280"/><line x1="320" y1="280" x2="480" y2="360"/>
+      <line x1="160" y1="330" x2="240" y2="500"/><line x1="320" y1="280" x2="400" y2="500"/>
+      <line x1="240" y1="500" x2="400" y2="500"/><line x1="480" y1="360" x2="400" y2="500"/>
+      <circle cx="120" cy="150" r="7"/><circle cx="300" cy="90" r="10"/><circle cx="470" cy="170" r="6"/>
+      <circle cx="320" cy="280" r="9"/><circle cx="160" cy="330" r="7"/><circle cx="480" cy="360" r="6"/>
+      <circle cx="240" cy="500" r="8"/><circle cx="400" cy="500" r="7" class="mol__cu"/>
+    </g>
+  </svg>
+  <div class="hero__inner reveal">
+    <p class="eyebrow"><span class="eyebrow__rule"></span> {{ .Site.Params.role }}</p>
+    <h1 class="hero__name">{{ .Site.Title }}</h1>
+    <p class="hero__tagline">{{ .Site.Params.tagline }}</p>
+    <div class="hero__intro">{{ .Content }}</div>
+  </div>
+</section>
+
+{{ $home := . }}
+{{ $sections := slice "research" "writing" "guides" }}
+{{ range $sections }}
+  {{ $key := . }}
+  {{ with $home.Site.GetPage (printf "/%s" $key) }}
+  <section class="home-sec reveal">
+    <header class="section__head">
+      <h2 class="section__title">{{ i18n $key }}</h2>
+      <a class="link" href="{{ .RelPermalink }}">{{ i18n "view_all" }} →</a>
+    </header>
+    {{ with .Content }}<p class="lede">{{ . | plainify | truncate 160 }}</p>{{ end }}
+    <div class="cards">
+      {{ range (first 3 (.RegularPagesRecursive.ByDate.Reverse)) }}
+        {{ partial "post-card.html" . }}
+      {{ else }}
+        <p class="muted">{{ i18n "no_posts" }}</p>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
+{{ end }}

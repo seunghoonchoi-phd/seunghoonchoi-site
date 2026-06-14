@@ -1,0 +1,21 @@
+{{ define "main" }}
+<article class="post">
+  <header class="post__head reveal">
+    {{ if not .Date.IsZero }}
+    <div class="post__meta">
+      {{ if ne .Section "" }}<a class="post__back" href="{{ .CurrentSection.RelPermalink }}">← {{ i18n .Section }}</a>{{ end }}
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006.01.02" }}</time>
+      {{ range .Params.categories }}<span class="post__cat">{{ . }}</span>{{ end }}
+    </div>
+    {{ end }}
+    <h1 class="post__title">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="post__subtitle">{{ . }}</p>{{ end }}
+  </header>
+  <div class="post__body reveal">
+    {{ .Content }}
+  </div>
+  {{ with .Params.tags }}
+  <div class="post__tags">{{ range . }}<a class="tag" href="{{ "tags/" | relLangURL }}{{ . | urlize }}/">#{{ . }}</a>{{ end }}</div>
+  {{ end }}
+</article>
+{{ end }}

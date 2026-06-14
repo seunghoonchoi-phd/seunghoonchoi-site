@@ -1,0 +1,49 @@
+# Navigation (keyed by menu identifier)
+[research]
+other = "연구"
+[writing]
+other = "글"
+[guides]
+other = "가이드"
+[about]
+other = "소개"
+
+# UI
+[home]
+other = "홈"
+[latest]
+other = "최근 글"
+[read_more]
+other = "읽기"
+[view_all]
+other = "전체 보기"
+[no_posts]
+other = "아직 글이 없습니다 — 곧 채워집니다."
+[posted_on]
+other = "작성"
+[categories]
+other = "카테고리"
+[tags]
+other = "태그"
+[all]
+other = "전체"
+[contact]
+other = "연락하기"
+[connect_linkedin]
+other = "링크드인에서 연결 ↗"
+[email_university]
+other = "대학"
+[email_personal]
+other = "개인"
+[skip_to_content]
+other = "본문으로 건너뛰기"
+[explore]
+other = "둘러보기"
+[reading_in]
+other = "한국어로 보는 중"
+[switch_lang]
+other = "English"
+[footer_rights]
+other = "All rights reserved."
+[search_placeholder]
+other = "검색…"

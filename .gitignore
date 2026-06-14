@@ -2,3 +2,8 @@ Thumbs.db
 .DS_Store
 desktop.ini
 *.tmp
+
+# Hugo build artifacts
+/public/
+/resources/_gen/
+.hugo_build.lock

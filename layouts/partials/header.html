@@ -1,0 +1,18 @@
+{{ $p := . }}
+{{ $sections := slice "research" "writing" "guides" "about" }}
+<header class="topbar">
+  <a href="{{ "" | relLangURL }}" class="brand">
+    <span class="brand__mark">SC</span>
+    <span class="brand__name">{{ .Site.Title }}</span>
+  </a>
+  <nav class="nav" aria-label="Primary">
+    {{ range $sections }}
+      {{ $url := (printf "%s/" .) | relLangURL }}
+      <a href="{{ $url }}" class="nav__link{{ if and (ne $p.RelPermalink ($p.Site.Home.RelPermalink)) (hasPrefix $p.RelPermalink $url) }} is-active{{ end }}">{{ i18n . }}</a>
+    {{ end }}
+  </nav>
+  <div class="topbar__right">
+    {{ partial "langswitch.html" . }}
+    <button class="hamburger" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </div>
+</header>

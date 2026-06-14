@@ -1,0 +1,13 @@
+<footer class="foot">
+  <div class="foot__inner">
+    <div class="foot__brand">
+      <span class="foot__name">{{ .Site.Title }}</span>
+      <span class="foot__role">{{ .Site.Params.role }}</span>
+    </div>
+    <div class="foot__links">
+      <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
+      <a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">LinkedIn ↗</a>
+    </div>
+    <div class="foot__legal">© {{ now.Year }} {{ .Site.Title }}. {{ i18n "footer_rights" }}</div>
+  </div>
+</footer>

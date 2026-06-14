@@ -1,0 +1,29 @@
+{{ define "main" }}
+<section class="section">
+  <header class="section__head section__head--page reveal">
+    <h1 class="section__title">{{ .Title }}</h1>
+    {{ with .Content }}<div class="lede">{{ . }}</div>{{ end }}
+  </header>
+
+  {{ $pages := .RegularPagesRecursive.ByDate.Reverse }}
+  {{ $cats := slice }}
+  {{ range $pages }}{{ range .Params.categories }}{{ $cats = $cats | append . }}{{ end }}{{ end }}
+  {{ $cats = ($cats | uniq) }}
+  {{ if gt (len $cats) 1 }}
+  <div class="filterbar" data-filter>
+    <button class="chip is-active" data-cat="*">{{ i18n "all" }}</button>
+    {{ range $cats }}<button class="chip" data-cat="{{ . | urlize }}">{{ . }}</button>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ $paginator := .Paginate $pages }}
+  <div class="cards cards--list" data-list>
+    {{ range $paginator.Pages }}
+      {{ partial "post-card.html" . }}
+    {{ else }}
+      <p class="muted">{{ i18n "no_posts" }}</p>
+    {{ end }}
+  </div>
+  {{ if gt $paginator.TotalPages 1 }}{{ template "_internal/pagination.html" . }}{{ end }}
+</section>
+{{ end }}

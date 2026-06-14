@@ -1,0 +1,49 @@
+# Navigation (keyed by menu identifier)
+[research]
+other = "Research"
+[writing]
+other = "Writing"
+[guides]
+other = "Guides"
+[about]
+other = "About"
+
+# UI
+[home]
+other = "Home"
+[latest]
+other = "Latest"
+[read_more]
+other = "Read"
+[view_all]
+other = "View all"
+[no_posts]
+other = "Nothing here yet — coming soon."
+[posted_on]
+other = "Posted"
+[categories]
+other = "Categories"
+[tags]
+other = "Tags"
+[all]
+other = "All"
+[contact]
+other = "Let’s connect"
+[connect_linkedin]
+other = "Connect on LinkedIn ↗"
+[email_university]
+other = "University"
+[email_personal]
+other = "Personal"
+[skip_to_content]
+other = "Skip to content"
+[explore]
+other = "Explore"
+[reading_in]
+other = "Reading in English"
+[switch_lang]
+other = "한국어"
+[footer_rights]
+other = "All rights reserved."
+[search_placeholder]
+other = "Filter…"

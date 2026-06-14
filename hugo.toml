@@ -1,0 +1,74 @@
+baseURL = "https://seunghoonchoi.com/"
+title = "Seunghoon Choi"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+enableEmoji = true
+
+[pagination]
+  pagerSize = 8
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    noClasses = false
+    style = "github"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[params]
+  author = "Seunghoon Choi"
+  email = "schoi2@ufl.edu"
+  emailPersonal = "herring2141@gmail.com"
+  linkedin = "https://www.linkedin.com/in/seunghoon-choi-18218a178"
+
+[languages]
+  [languages.en]
+    label = "English"
+    locale = "en-US"
+    contentDir = "content/en"
+    weight = 1
+    title = "Seunghoon Choi"
+    [languages.en.params]
+      role = "Computational Materials Scientist"
+      tagline = "Bridging materials, manufacturing, and data-driven methods."
+      description = "Seunghoon Choi — Computational Materials Scientist at the University of Florida. Research, writing, and guides."
+  [languages.ko]
+    label = "한국어"
+    locale = "ko-KR"
+    contentDir = "content/ko"
+    weight = 2
+    title = "최승훈"
+    [languages.ko.params]
+      role = "계산재료과학자 · 작가"
+      tagline = "재료·제조·데이터, 그리고 그 바깥의 글."
+      description = "최승훈 — 계산재료과학자. 연구, 글, 그리고 가이드를 한곳에."
+
+# Section navigation (shared structure; labels via i18n)
+[[menus.main]]
+  identifier = "research"
+  name = "Research"
+  pageRef = "/research"
+  weight = 10
+[[menus.main]]
+  identifier = "writing"
+  name = "Writing"
+  pageRef = "/writing"
+  weight = 20
+[[menus.main]]
+  identifier = "guides"
+  name = "Guides"
+  pageRef = "/guides"
+  weight = 30
+[[menus.main]]
+  identifier = "about"
+  name = "About"
+  pageRef = "/about"
+  weight = 40

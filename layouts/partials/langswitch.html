@@ -1,0 +1,17 @@
+{{ $page := . }}
+{{ $langs := slice (dict "lang" "en" "label" "English") (dict "lang" "ko" "label" "한국어") }}
+<div class="langswitch" role="group" aria-label="Language">
+  {{ range $langs }}
+    {{ $lang := .lang }}
+    {{ if eq $lang $page.Site.Language.Lang }}
+      <span class="langswitch__item is-current" aria-current="true">{{ .label }}</span>
+    {{ else }}
+      {{ $href := "" }}
+      {{ range $page.AllTranslations }}
+        {{ if eq .Language.Lang $lang }}{{ $href = .RelPermalink }}{{ end }}
+      {{ end }}
+      {{ if not $href }}{{ $href = cond (eq $lang "en") "/" (printf "/%s/" $lang) }}{{ end }}
+      <a class="langswitch__item" href="{{ $href }}" hreflang="{{ $lang }}">{{ .label }}</a>
+    {{ end }}
+  {{ end }}
+</div>
