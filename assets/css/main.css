@@ -3,7 +3,7 @@
    ============================================================ */
 :root{
   --paper:#F8F6F3; --paper-2:#FCFBF9; --ink:#1B1B1A; --ink-soft:#44423E;
-  --muted:#8A857C; --navy:#0D1B4C; --navy-soft:#2C3A78; --copper:#B87333; --copper-soft:#C98F54;
+  --muted:#8A857C; --navy:#0D1B4C; --navy-soft:#2C3A78; --copper:#C0703C; --copper-soft:#D08A4E;
   --hair:rgba(13,27,76,.12); --hair-2:rgba(13,27,76,.07);
   --shadow:0 1px 2px rgba(27,27,26,.04),0 12px 40px rgba(13,27,76,.06);
   --serif:"Playfair Display",Georgia,serif;
