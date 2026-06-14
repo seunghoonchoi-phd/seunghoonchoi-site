@@ -1,5 +1,5 @@
 {{ $p := . }}
-{{ $sections := slice "research" "writing" "guides" "about" }}
+{{ $sections := slice "home" "research" "writing" "guides" "about" }}
 <header class="topbar">
   <a href="{{ "" | relLangURL }}" class="brand">
     <span class="brand__mark">SC</span>
@@ -7,8 +7,12 @@
   </a>
   <nav class="nav" aria-label="Primary">
     {{ range $sections }}
-      {{ $url := (printf "%s/" .) | relLangURL }}
-      <a href="{{ $url }}" class="nav__link{{ if and (ne $p.RelPermalink ($p.Site.Home.RelPermalink)) (hasPrefix $p.RelPermalink $url) }} is-active{{ end }}">{{ i18n . }}</a>
+      {{ if eq . "home" }}
+        <a href="{{ "" | relLangURL }}" class="nav__link{{ if eq $p.RelPermalink $p.Site.Home.RelPermalink }} is-active{{ end }}">{{ i18n "home" }}</a>
+      {{ else }}
+        {{ $url := (printf "%s/" .) | relLangURL }}
+        <a href="{{ $url }}" class="nav__link{{ if and (ne $p.RelPermalink ($p.Site.Home.RelPermalink)) (hasPrefix $p.RelPermalink $url) }} is-active{{ end }}">{{ i18n . }}</a>
+      {{ end }}
     {{ end }}
   </nav>
   <div class="topbar__right">
