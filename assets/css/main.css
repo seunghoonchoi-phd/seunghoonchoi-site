@@ -173,3 +173,27 @@ img{max-width:100%;height:auto}
 .cta:hover{background:var(--copper-soft);transform:translateY(-2px)}
 .post__body .cta{border-bottom:0}
 @media (max-width:560px){ .appcard{flex-direction:column;text-align:center;align-items:center} }
+
+/* ---------- Typographic color & richness ---------- */
+.section__title{color:var(--navy)}
+.home-sec .section__title{color:var(--navy)}
+.contact__title{color:var(--navy)}
+/* rich markdown content (section intros in .lede + posts in .post__body) */
+.lede h2,.post__body h2{font-family:var(--serif);font-weight:600;font-size:clamp(23px,2.8vw,30px);color:var(--navy);letter-spacing:-.01em;margin:1.8em 0 .55em;padding-bottom:.32em;border-bottom:1px solid var(--hair)}
+.lede h3,.post__body h3{font-family:var(--serif);font-weight:600;font-size:20px;color:var(--ink);margin:1.4em 0 .4em}
+.lede h2:first-child,.post__body h2:first-child{margin-top:.2em}
+.lede strong,.post__body strong{color:var(--navy);font-weight:600}
+.lede em,.post__body em{color:var(--copper);font-style:italic}
+.lede a,.post__body a{color:var(--navy);border-bottom:1px solid var(--copper);transition:color .2s,border-color .2s}
+.lede a:hover,.post__body a:hover{color:var(--copper)}
+.lede a:has(img),.post__body a:has(img){border:0;display:inline-block}
+.lede ol,.lede ul,.post__body ol,.post__body ul{margin:.6em 0 1.2em 1.4em}
+.lede li,.post__body li{margin-bottom:.5em}
+.lede p,.post__body p{color:var(--ink-soft)}
+.lede ol li::marker,.post__body ol li::marker{color:var(--copper);font-family:var(--mono);font-weight:500}
+.lede ul li::marker,.post__body ul li::marker{color:var(--copper)}
+.lede img,.post__body img{border-radius:12px;box-shadow:var(--shadow);margin:.6em 0 1em}
+.lede blockquote,.post__body blockquote{border-left:3px solid var(--copper);background:linear-gradient(90deg,rgba(184,115,51,.06),transparent);padding:14px 20px;margin:1.3em 0;font-family:var(--serif);font-style:italic;color:var(--ink);border-radius:0 8px 8px 0}
+/* card titles pick up navy on hover, copper meta already */
+.card__title a:hover{color:var(--copper)}
+.tl__body h4{color:var(--navy)}
