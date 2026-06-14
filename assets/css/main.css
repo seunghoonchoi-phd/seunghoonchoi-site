@@ -248,3 +248,10 @@ body.lang-ko .nav__link{font-weight:500}
 .appcard .appcard__body h3{color:#fff;font-size:24px;margin:0 0 6px}
 .appcard .appcard__body p{color:#C7C9D6}
 .appcard .cta,.appcard .cta:hover{color:#fff;border-bottom:0}
+
+/* ---------- Poem / literature ---------- */
+.poem{text-align:center;max-width:560px;margin:8px auto}
+.poem p{color:var(--ink);font-size:1.08rem;line-height:2;margin:0 0 1.9em}
+.poem p:last-child{margin-bottom:0}
+.post__body .poem p{color:var(--ink)}
+body.lang-ko .poem p{word-break:keep-all}

@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 enableEmoji = true
+buildFuture = true   # publish same-day/future-dated posts (avoid timezone-boundary skips)
 
 [pagination]
   pagerSize = 8
