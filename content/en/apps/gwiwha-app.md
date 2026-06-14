@@ -4,6 +4,7 @@ date: 2026-06-14
 categories: ["Tools"]
 tags: ["app"]
 subtitle: "Practice the written, essay & oral test — free"
+description: "Free installable web app to practice Korea's naturalization comprehensive evaluation (written, essay, oral). 277 questions, Korean–Chinese, works offline."
 image: /images/gwiwha-card.svg
 ---
 <div class="appcard">
@@ -23,5 +24,7 @@ A **free practice app** for Korea's naturalization comprehensive evaluation (wri
 - **100% free**
 
 [Start free →](https://herring2141.github.io/gwiwha/)
+
+A full overview with exam info (test types, essay topics, sample questions) is on the landing page → [Korean naturalization mock exam — free](/gwiwha/)
 
 > **Install**: open the link on your phone browser and tap **"Add to Home Screen"**, or click the install icon in your desktop browser's address bar.
