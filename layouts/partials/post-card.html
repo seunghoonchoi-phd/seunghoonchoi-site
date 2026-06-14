@@ -1,9 +1,18 @@
-<article class="card reveal" data-cat="{{ range .Params.categories }}{{ . | urlize }} {{ end }}">
-  <div class="card__meta">
-    {{ with .Date }}{{ if not .IsZero }}<time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2006.01.02" }}</time>{{ end }}{{ end }}
-    {{ with .Params.categories }}<span class="card__cat">{{ index . 0 }}</span>{{ end }}
+{{ $img := .Params.image }}
+{{ if not $img }}{{ $mm := findRESubmatch `<img[^>]+?src=["']([^"']+)["']` .Content }}{{ if gt (len $mm) 0 }}{{ $img = index (index $mm 0) 1 }}{{ end }}{{ end }}
+<article class="card reveal{{ if $img }} card--has-thumb{{ end }}" data-cat="{{ range .Params.categories }}{{ . | urlize }} {{ end }}">
+  {{ with $img }}
+  <a class="card__thumb" href="{{ $.RelPermalink }}" tabindex="-1" aria-hidden="true">
+    <img src="{{ . }}" alt="" loading="lazy">
+  </a>
+  {{ end }}
+  <div class="card__body">
+    <div class="card__meta">
+      {{ with .Date }}{{ if not .IsZero }}<time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2006.01.02" }}</time>{{ end }}{{ end }}
+      {{ with .Params.categories }}<span class="card__cat">{{ index . 0 }}</span>{{ end }}
+    </div>
+    <h3 class="card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    {{ with .Params.subtitle }}<p class="card__excerpt">{{ . }}</p>{{ else }}<p class="card__excerpt">{{ .Summary | plainify | truncate 130 }}</p>{{ end }}
+    <a class="link" href="{{ .RelPermalink }}">{{ i18n "read_more" }} →</a>
   </div>
-  <h3 class="card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-  {{ with .Params.subtitle }}<p class="card__excerpt">{{ . }}</p>{{ else }}<p class="card__excerpt">{{ .Summary | plainify | truncate 130 }}</p>{{ end }}
-  <a class="link" href="{{ .RelPermalink }}">{{ i18n "read_more" }} →</a>
 </article>
