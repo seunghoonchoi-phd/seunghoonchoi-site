@@ -4,12 +4,16 @@
 <header class="topbar">
   <a href="{{ "" | relLangURL }}" class="brand" aria-label="{{ .Site.Title }} — {{ i18n "home" }}">
     <svg class="brand__logo" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
-      <g class="brand__mol">
-        <line x1="6" y1="10" x2="24" y2="7"/><line x1="6" y1="10" x2="13" y2="22"/>
-        <line x1="24" y1="7" x2="13" y2="22"/><line x1="24" y1="7" x2="26" y2="23"/>
-        <line x1="13" y1="22" x2="26" y2="23"/>
-        <circle cx="6" cy="10" r="2.3"/><circle cx="24" cy="7" r="2.6"/>
-        <circle cx="13" cy="22" r="2.3"/><circle cx="26" cy="23" r="2.6" class="cu"/>
+      <g class="brand__lattice">
+        <line x1="12" y1="8" x2="25" y2="8"/><line x1="25" y1="8" x2="25" y2="21"/>
+        <line x1="25" y1="21" x2="12" y2="21"/><line x1="12" y1="21" x2="12" y2="8"/>
+        <line x1="6" y1="14" x2="19" y2="14"/><line x1="19" y1="14" x2="19" y2="27"/>
+        <line x1="19" y1="27" x2="6" y2="27"/><line x1="6" y1="27" x2="6" y2="14"/>
+        <line x1="6" y1="14" x2="12" y2="8"/><line x1="19" y1="14" x2="25" y2="8"/>
+        <line x1="19" y1="27" x2="25" y2="21"/><line x1="6" y1="27" x2="12" y2="21"/>
+        <circle cx="12" cy="8" r="1.4"/><circle cx="25" cy="8" r="1.4"/><circle cx="25" cy="21" r="1.4"/><circle cx="12" cy="21" r="1.4"/>
+        <circle cx="6" cy="14" r="1.4"/><circle cx="19" cy="14" r="1.4"/><circle cx="19" cy="27" r="1.4"/><circle cx="6" cy="27" r="1.4"/>
+        <circle cx="15.5" cy="17.5" r="2.4" class="cu"/>
       </g>
     </svg>
   </a>
