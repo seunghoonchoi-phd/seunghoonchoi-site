@@ -6,6 +6,9 @@
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <link rel="canonical" href="{{ .Permalink }}">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" href="/favicon.svg" sizes="any">
+<link rel="mask-icon" href="/favicon.svg" color="#0D1B4C">
 {{ range .AllTranslations }}<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
 {{ end }}
 <link rel="preconnect" href="https://fonts.googleapis.com">
