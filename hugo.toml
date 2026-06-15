@@ -29,6 +29,9 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
   email = "schoi2@ufl.edu"
   emailPersonal = "herring2141@gmail.com"
   linkedin = "https://www.linkedin.com/in/seunghoon-choi-18218a178"
+  # Fill these once the accounts exist — they auto-link into the Person schema (sameAs).
+  orcid = ""          # e.g. https://orcid.org/0000-0000-0000-0000
+  googleScholar = ""  # e.g. https://scholar.google.com/citations?user=XXXX
 
 [languages]
   [languages.en]

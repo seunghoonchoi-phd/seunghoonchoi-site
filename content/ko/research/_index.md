@@ -13,12 +13,12 @@ title: "연구"
 
 ## 대표 논문
 
-[![Advanced Functional Materials — Back Cover](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201970344)
+[![Advanced Functional Materials — Back Cover](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
 **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor**
 *Advanced Functional Materials* 29, no. 50 (2019): 1905808 · **Back Cover · 138회+ 피인용**
 
-섬유 표면에 계층적 전도성 미세구조를 도입해 큰 기계적 변형에서도 안정적인 전기 응답을 구현하고, 미세구조 형상이 신축성 고분자 나노복합체의 전기 전도를 어떻게 지배하는지 보인 연구입니다. [논문 보기 ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201970344)
+섬유 표면에 계층적 전도성 미세구조를 도입해 큰 기계적 변형에서도 안정적인 전기 응답을 구현하고, 미세구조 형상이 신축성 고분자 나노복합체의 전기 전도를 어떻게 지배하는지 보인 연구입니다. [논문 보기 ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
 ## 논문
 

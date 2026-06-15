@@ -13,13 +13,13 @@ Computational materials design using first-principles calculations and machine l
 
 ## Featured Publication
 
-[![Advanced Functional Materials — Back Cover](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201970344)
+[![Advanced Functional Materials — Back Cover](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
 **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor**
 Seunghoon Choi\*, Kukro Yoon\*, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee, Changhyun Pang.
 *Advanced Functional Materials* 29, no. 50 (2019): 1905808 · **Back Cover · 138+ citations**
 
-This work introduced hierarchical conductive microstructures on fiber surfaces to achieve stable electrical responses under large mechanical deformation, demonstrating how microstructure geometry governs electrical transport in stretchable polymer nanocomposites. [View the article ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201970344)
+This work introduced hierarchical conductive microstructures on fiber surfaces to achieve stable electrical responses under large mechanical deformation, demonstrating how microstructure geometry governs electrical transport in stretchable polymer nanocomposites. [View the article ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
 ## Publications
 

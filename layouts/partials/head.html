@@ -19,3 +19,37 @@
 {{ $css := resources.Get "css/main.css" | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">{{ end }}
+{{- /* Structured data (schema.org) for search engines */ -}}
+{{ if .IsHome }}
+{{ $same := slice }}
+{{ with .Site.Params.linkedin }}{{ $same = $same | append . }}{{ end }}
+{{ with .Site.Params.orcid }}{{ $same = $same | append . }}{{ end }}
+{{ with .Site.Params.googleScholar }}{{ $same = $same | append . }}{{ end }}
+<script type="application/ld+json">
+{{ dict
+  "@context" "https://schema.org"
+  "@type" "Person"
+  "name" "Seunghoon Choi"
+  "alternateName" "최승훈"
+  "url" .Site.BaseURL
+  "jobTitle" .Site.Params.role
+  "affiliation" (dict "@type" "Organization" "name" "University of Florida")
+  "sameAs" $same
+  | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{ end }}
+{{ with .Params.doi }}
+<script type="application/ld+json">
+{{ dict
+  "@context" "https://schema.org"
+  "@type" "ScholarlyArticle"
+  "headline" $.Params.articleTitle
+  "name" $.Params.articleTitle
+  "author" (dict "@type" "Person" "name" "Seunghoon Choi" "url" "https://seunghoonchoi.com")
+  "datePublished" (printf "%v" $.Params.pubyear)
+  "isPartOf" (dict "@type" "Periodical" "name" $.Params.journal)
+  "sameAs" (printf "https://doi.org/%s" .)
+  "identifier" (dict "@type" "PropertyValue" "propertyID" "DOI" "value" .)
+  | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{ end }}
