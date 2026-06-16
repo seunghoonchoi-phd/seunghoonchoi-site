@@ -1,8 +1,6 @@
 ---
 title: "About"
 ---
-<img src="/images/profile.jpg" alt="Seunghoon Choi" width="180" style="border-radius:12px;float:right;margin:0.2rem 0 1rem 1.5rem;">
-
 I am a computational materials scientist and incoming Ph.D. student at the University of Florida (Computational Materials Science). My background spans microstructure-engineered materials, interfacial phenomena, soft material systems, and industrial process environments. Across academic research and engineering practice, I have worked on problems where structure, processing conditions, and system-level constraints determine functional performance.
 
 My broader goal is to develop computational and AI-enabled approaches that improve predictability, quality, and scalability in traditional manufacturing and materials industries.
