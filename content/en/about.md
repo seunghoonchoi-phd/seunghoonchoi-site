@@ -22,6 +22,7 @@ Outside research, I write — essays, stories, and guides drawn from an unusual 
 
 ## Contact
 
+- **Curriculum Vitae** — [Download CV (PDF) ↗](/cv/Seunghoon_Choi_CV.pdf)
 - **University** — [schoi2@ufl.edu](mailto:schoi2@ufl.edu)
 - **Personal** — [herring2141@gmail.com](mailto:herring2141@gmail.com)
 - **LinkedIn** — [Connect ↗](https://www.linkedin.com/in/seunghoon-choi-18218a178)

@@ -3,6 +3,8 @@ title: "Research"
 ---
 Computational materials design using first-principles calculations and machine learning; multi-fidelity modeling for accelerated discovery; structure–processing–property relationships in complex energy materials; and data-driven optimization of microstructure formation and interfacial phenomena.
 
+[**Download full CV (PDF) ↗**](/cv/Seunghoon_Choi_CV.pdf)
+
 ## Research Interests
 
 1. Computational materials design using first-principles calculations and machine learning
@@ -35,9 +37,10 @@ This work introduced hierarchical conductive microstructures on fiber surfaces t
 - **Fiber-Type Sensor and Its Manufacturing Method** — KR 10-2026011 · Registered Sep 20, 2019
 - **Functional Surgical Suture with Micro-structured Surface and Its Manufacturing Method** — KR 10-2019-0061944 · Registered Jun 5, 2019
 
-## Presentations & Recognition
+## Awards & Presentations
 
-- **Best Poster Award** — Octopus-Inspired Adhesive Patch for Bio-Signal Monitoring · *Materials Research Society (MRS) Fall Meeting, 2018*
+- **Government Scholarship — Integrated B.S.–M.S. Program** · *Sungkyunkwan University, 2017* — full merit scholarship, including an 8-week research residency at ESPCI Paris.
+- **Best Poster Award** — Octopus-Inspired Adhesive Patch for Bio-Signal Monitoring · *Materials Research Society (MRS) Fall Meeting, Boston, 2018*
 - **A Fiber-Based Multimodal Sensor Using Hybrid Nanocomposites for Human Motion Monitoring** · *The Polymer Society of Korea Fall Meeting, Busan, 2017*
 
 ## Technical Skills

@@ -22,6 +22,7 @@ title: "소개"
 
 ## 연락처
 
+- **이력서(CV)** — [PDF 다운로드 ↗](/cv/Seunghoon_Choi_CV.pdf)
 - **대학** — [schoi2@ufl.edu](mailto:schoi2@ufl.edu)
 - **개인** — [herring2141@gmail.com](mailto:herring2141@gmail.com)
 - **링크드인** — [연결하기 ↗](https://www.linkedin.com/in/seunghoon-choi-18218a178)

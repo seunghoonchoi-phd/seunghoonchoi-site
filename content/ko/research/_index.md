@@ -3,6 +3,8 @@ title: "연구"
 ---
 제일원리 계산과 머신러닝으로 재료를 설계하고, multi-fidelity 모델링으로 소재 탐색을 가속합니다. 복잡한 에너지 소재의 구조–공정–물성 관계, 그리고 미세구조·계면 현상의 데이터 기반 최적화를 연구하고 있습니다.
 
+[**이력서(CV) 전체 PDF ↗**](/cv/Seunghoon_Choi_CV.pdf)
+
 ## 연구 관심사
 
 1. 제일원리 계산·머신러닝 기반 계산재료 설계
@@ -34,9 +36,10 @@ title: "연구"
 - **섬유형 센서 및 그 제조방법** — KR 10-2026011 · 2019.09.20 등록
 - **미세구조 표면을 갖는 기능성 수술용 봉합사 및 그 제조방법** — KR 10-2019-0061944 · 2019.06.05 등록
 
-## 발표 및 수상
+## 수상 및 발표
 
-- **Best Poster Award** — Octopus-Inspired Adhesive Patch for Bio-Signal Monitoring · *MRS Fall Meeting, 2018*
+- **정부 장학금 — 학·석사 연계과정** · *성균관대학교, 2017* — 성적우수 전액 장학, ESPCI Paris 8주 연구 연수 포함.
+- **Best Poster Award** — Octopus-Inspired Adhesive Patch for Bio-Signal Monitoring · *MRS Fall Meeting, Boston, 2018*
 - **하이브리드 나노복합체 기반 섬유형 멀티모달 센서** · *한국고분자학회 추계학술대회, 부산, 2017*
 
 ## 기술 스택
