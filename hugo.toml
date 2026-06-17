@@ -52,7 +52,7 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     title = "Seunghoon Choi"
     [languages.ko.params]
       role = "Computational Materials Scientist · 작가"
-      tagline = "재료를 계산으로 연구하고, 그 너머의 이야기를 씁니다."
+      tagline = "재료는 계산으로 연구하고, 그 바깥의 이야기는 글로 씁니다."
       description = "최승훈(Seunghoon Choi) — 계산재료과학자이자 작가. 연구, 글, 가이드를 한곳에."
 
 # Primary navigation is defined in layouts/partials/header.html with hover
