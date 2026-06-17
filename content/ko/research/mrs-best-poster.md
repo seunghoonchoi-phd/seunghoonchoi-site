@@ -2,7 +2,7 @@
 title: "2018 MRS Fall Meeting — Best Poster Award 수상"
 date: 2018-11-25
 categories: ["수상·소식"]
-tags: ["바이오영감"]
+tags: ["생체모사"]
 ---
 ![Best Poster Award — 2018 MRS Fall Meeting](/images/mrs-event.jpeg)
 

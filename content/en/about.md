@@ -1,9 +1,9 @@
 ---
 title: "About"
 ---
-I am a computational materials scientist and incoming Ph.D. student at the University of Florida (Computational Materials Science). My background spans microstructure-engineered materials, interfacial phenomena, soft material systems, and industrial process environments. Across academic research and engineering practice, I have worked on problems where structure, processing conditions, and system-level constraints determine functional performance.
+I'm a computational materials scientist and incoming Ph.D. student at the University of Florida (Computational Materials Science). My work spans microstructure-engineered materials, interfacial phenomena, soft materials, and industrial process environments. Across academic research and engineering practice, I have worked on problems where structure, processing conditions, and system-level constraints determine functional performance.
 
-My broader goal is to develop computational and AI-enabled approaches that improve predictability, quality, and scalability in traditional manufacturing and materials industries.
+My broader goal is to build computational and AI methods that make traditional manufacturing and materials industries more predictable and reliable.
 
 Outside research, I write — essays, stories, and guides drawn from an unusual path through engineering, academia, and immigration.
 

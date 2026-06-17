@@ -2,7 +2,7 @@
 title: "건·습 환경 EMG 제어용 문어 영감 점착 전극 — IJIBC"
 date: 2026-02-28
 categories: ["논문"]
-tags: ["바이오영감", "전극", "EMG", "웨어러블", "생체신호", "문어"]
+tags: ["생체모사", "전극", "EMG", "웨어러블", "생체신호", "문어"]
 doi: "10.7236/IJIBC.2026.18.1.274"
 articleTitle: "Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions"
 journal: "International Journal of Internet, Broadcasting and Communication"

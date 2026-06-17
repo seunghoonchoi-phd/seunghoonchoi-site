@@ -2,7 +2,7 @@
 title: "문어에서 영감받은 소프트 그리퍼 — Biomimetics 리뷰"
 date: 2025-12-04
 categories: ["논문"]
-tags: ["바이오영감", "소프트로봇", "문어", "그리퍼", "AI"]
+tags: ["생체모사", "소프트로봇", "문어", "그리퍼", "AI"]
 doi: "10.3390/biomimetics10120813"
 articleTitle: "Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence"
 journal: "Biomimetics"

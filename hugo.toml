@@ -42,7 +42,7 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     title = "Seunghoon Choi"
     [languages.en.params]
       role = "Computational Materials Scientist"
-      tagline = "Bridging materials, manufacturing, and data-driven methods."
+      tagline = "I research materials through computation, and write the stories beyond the lab."
       description = "Seunghoon Choi — Computational Materials Scientist at the University of Florida. Research, writing, and guides."
   [languages.ko]
     label = "한국어"
