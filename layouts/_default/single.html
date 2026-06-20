@@ -12,11 +12,11 @@
     <h1 class="post__title">{{ .Title }}</h1>
     {{ with .Params.subtitle }}<p class="post__subtitle">{{ . }}</p>{{ end }}
   </header>
+  {{ $toc := printf "%s" .TableOfContents }}
+  {{ if ge (len (findRE "<li" $toc)) 4 }}
+  <details class="post__toc" open><summary>{{ i18n "toc_title" }}</summary>{{ .TableOfContents }}</details>
+  {{ end }}
   <div class="post__body reveal">
-    {{ $toc := printf "%s" .TableOfContents }}
-    {{ if ge (len (findRE "<li" $toc)) 4 }}
-    <details class="post__toc" open><summary>{{ i18n "toc_title" }}</summary>{{ .TableOfContents }}</details>
-    {{ end }}
     {{ .Content }}
   </div>
   {{ with .Params.tags }}

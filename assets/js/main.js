@@ -53,7 +53,7 @@
       entries.forEach(function (e) {
         if (e.isIntersecting) { e.target.classList.add("is-visible"); ro.unobserve(e.target); }
       });
-    }, { threshold: 0.1, rootMargin: "0px 0px -6% 0px" });
+    }, { threshold: 0, rootMargin: "0px 0px -6% 0px" });
     reveals.forEach(function (el, i) {
       el.style.transitionDelay = (Math.min(i % 6, 5) * 0.05) + "s";
       ro.observe(el);
