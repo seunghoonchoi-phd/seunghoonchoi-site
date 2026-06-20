@@ -5,9 +5,9 @@ categories: ["에세이"]
 tags: ["손기술", "ai", "자동화", "전문성", "커리어"]
 subtitle: "손기술은 정확한 동작이 아니라, 변하는 접촉을 실시간으로 읽고 힘과 각도를 고쳐 나가는 능력이다"
 seoTitle: "손기술이란 — AI·로봇이 단번에 못 따라오는 폐루프 미세제어"
-image: /images/col-hand-skill.png
+image: /images/col-hand-skill.jpg
 ---
-![중심 노드를 도는 구리색 피드백 루프 — 손기술의 폐루프 감각](/images/col-hand-skill.png)
+![닳은 손도구들이 가지런히 놓인 작업대](/images/col-hand-skill.jpg)
 
 요리, 용접, 수술, 악기, 도색, 조립. 분야는 달라도 '손기술 좋은 사람'은 한 가지를 공유한다. 기계처럼 같은 동작을 반복하는 게 아니라, 손끝에 닿는 반응을 매 순간 읽고 힘을 고쳐 나간다는 것이다.
 

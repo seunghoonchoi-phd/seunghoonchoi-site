@@ -5,9 +5,9 @@ categories: ["Essays"]
 tags: ["strategy", "decision-making", "focus", "career"]
 subtitle: "扭转劣势的不是总实力，而是对手最弱那一刻的局部差距"
 seoTitle: "局部优势 —— 如何在决定性时刻集中力量"
-image: /images/col-localized-advantage.png
+image: /images/col-localized-advantage.jpg
 ---
-![散落的点汇聚成一点 —— 局部优势的集中](/images/col-localized-advantage.png)
+![棋盘上被将倒的王 —— 决定胜负的一步](/images/col-localized-advantage.jpg)
 
 看李永浩（人称 Flash 的星际争霸选手）扭转一盘几乎必输的比赛，你会发现他并不去把整支部队养大。他调整自己的运营节奏，让对手最弱的那 30 秒里，在那一个点上自己最强。从全局看他是落后的；可在那一刻、那一处，他形成碾压。而这一下，就把整局赢了回来。
 

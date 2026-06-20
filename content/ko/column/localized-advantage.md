@@ -5,9 +5,9 @@ categories: ["에세이"]
 tags: ["전략", "의사결정", "집중", "커리어"]
 subtitle: "불리한 판을 뒤집는 건 전체 전력이 아니라, 상대가 가장 약한 순간의 국소 격차다"
 seoTitle: "국소 우위 전략 — 결정적 순간에 전력을 집중하는 법"
-image: /images/col-localized-advantage.png
+image: /images/col-localized-advantage.jpg
 ---
-![흩어진 점들이 한 점으로 모여드는 그림 — 국소 우위의 집중](/images/col-localized-advantage.png)
+![체스판 위 쓰러진 킹 — 승부를 가른 결정적 한 수](/images/col-localized-advantage.jpg)
 
 이영호가 말도 안 되게 불리한 스타크래프트 게임을 뒤집는 걸 보면, 그는 전력을 통째로 키우지 않는다. 상대가 가장 약해지는 30초에, 바로 그 지점에서만 자기가 가장 세지도록 빌드를 맞춘다. 판 전체로 보면 지고 있는데, 그 한 순간 그 한 자리에서는 압도한다. 그리고 그 한 번으로 경기를 가져온다.
 

@@ -5,9 +5,9 @@ categories: ["Essays"]
 tags: ["hand-skill", "ai", "automation", "expertise", "career"]
 subtitle: "手上功夫不是精确的动作，而是实时读出变化的接触、边做边修正力度与角度的能力"
 seoTitle: "手上功夫是什么 —— AI 和机器人一时学不会的闭环微操"
-image: /images/col-hand-skill.png
+image: /images/col-hand-skill.jpg
 ---
-![一条绕着中心节点的铜色反馈回路 —— 手上功夫的闭环手感](/images/col-hand-skill.png)
+![摆放在木台上的旧手工工具](/images/col-hand-skill.jpg)
 
 做菜、焊接、手术、乐器、喷漆、装配。领域不同，但"手上功夫好"的人有一个共同点：他们不像机器那样重复同一个动作，而是每时每刻读着指尖传来的反应，边做边修正。
 

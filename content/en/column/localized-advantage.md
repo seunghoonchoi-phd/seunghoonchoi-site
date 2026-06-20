@@ -5,9 +5,9 @@ categories: ["Essays"]
 tags: ["strategy", "decision-making", "focus", "career"]
 subtitle: "What turns a losing game isn't your total strength — it's the local gap at the moment your opponent is weakest"
 seoTitle: "Localized Advantage — How to Concentrate Force at the Decisive Moment"
-image: /images/col-localized-advantage.png
+image: /images/col-localized-advantage.jpg
 ---
-![Scattered points converging into one — the concentration of localized advantage](/images/col-localized-advantage.png)
+![A toppled king on a chessboard — the move that decided the game](/images/col-localized-advantage.jpg)
 
 When you watch Lee Young-ho — the StarCraft player they called Flash — turn around a hopelessly losing game, he doesn't try to grow his whole army. He tunes his build so that in the 30 seconds when his opponent is weakest, at that one spot, he is strongest. Look at the whole map and he's behind. At that one moment, in that one place, he overwhelms. And that single exchange wins him the game.
 

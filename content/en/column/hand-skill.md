@@ -5,9 +5,9 @@ categories: ["Essays"]
 tags: ["hand-skill", "ai", "automation", "expertise", "career"]
 subtitle: "Hand skill isn't precise motion; it's reading a changing contact in real time and correcting force and angle as you go"
 seoTitle: "What Hand Skill Really Is — The Closed-Loop Control AI and Robots Can't Copy at Once"
-image: /images/col-hand-skill.png
+image: /images/col-hand-skill.jpg
 ---
-![A copper feedback loop circling a focal node — the closed loop of hand skill](/images/col-hand-skill.png)
+![Well-worn hand tools laid out on a wooden workbench](/images/col-hand-skill.jpg)
 
 Cooking, welding, surgery, a musical instrument, spray-painting, assembly. The fields differ, but people with good hands share one thing. They don't repeat the same motion like a machine — they read the response at their fingertips moment to moment and keep correcting.
 
