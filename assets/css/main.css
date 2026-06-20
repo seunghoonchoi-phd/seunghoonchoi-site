@@ -301,7 +301,7 @@ body.lang-ko .cite__text{word-break:keep-all}
 @media(max-width:460px){.home-dir__grid{grid-template-columns:1fr}}
 
 /* ---------- Home: identity-led portal (wide left identity + narrow right feed) ---------- */
-.portal{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:76px;align-items:start;max-width:1340px;margin:0 auto;padding:28px clamp(20px,5vw,56px) 72px}
+.portal{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:80px;align-items:start;max-width:1480px;margin:0 auto;padding:16px clamp(20px,5vw,56px) 60px}
 .portal__rail{display:flex;flex-direction:column;min-width:0}
 .portal__id .eyebrow{margin:0 0 16px}
 .portal__name{font-family:var(--serif-en);font-weight:700;font-size:clamp(3rem,6.8vw,6rem);line-height:.96;letter-spacing:-.02em;color:var(--navy);margin:0 0 16px}
@@ -315,11 +315,11 @@ body.lang-en .portal__tag{font-family:var(--serif);font-style:italic}
 .portal__mol circle.mol__cu{fill:var(--copper)}
 .portal__intro{font-size:1.06rem;color:var(--ink-soft);line-height:1.62;margin:0 0 8px;max-width:660px}
 .portal__intro p{margin:0 0 14px}
-.portal__contact{background:var(--navy);border-radius:12px;padding:26px;margin-top:28px}
-.portal__ch{font-size:1.3rem;color:#fff;margin:0 0 18px;font-weight:700}
+.portal__contact{background:var(--navy);border-radius:12px;padding:20px 24px;margin-top:20px}
+.portal__ch{font-size:1.3rem;color:#fff;margin:0 0 12px;font-weight:700}
 body.lang-en .portal__ch{font-family:var(--serif)}
 .clist{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:0 36px}
-.clist li{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 0;border-bottom:1px solid rgba(255,255,255,.13);font-size:.9rem}
+.clist li{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:8px 0;border-bottom:1px solid rgba(255,255,255,.13);font-size:.9rem}
 .clist li:nth-last-child(-n+2){border-bottom:0}
 .clist span{color:#AEB2C8;flex:none}
 .clist a{color:#fff;border-bottom:0;word-break:break-all;text-align:right}

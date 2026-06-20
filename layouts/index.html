@@ -16,10 +16,10 @@
       <ul class="clist">
         <li><span>{{ i18n "email_university" }}</span><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
         <li><span>{{ i18n "email_personal" }}</span><a href="mailto:{{ .Site.Params.emailPersonal }}">{{ .Site.Params.emailPersonal }}</a></li>
-        <li><span>LinkedIn</span><a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">↗</a></li>
-        <li><span>ORCID</span><a href="{{ .Site.Params.orcid }}" target="_blank" rel="noopener">↗</a></li>
-        <li><span>Scholar</span><a href="{{ .Site.Params.googleScholar }}" target="_blank" rel="noopener">↗</a></li>
-        <li><span>GitHub</span><a href="{{ .Site.Params.github }}" target="_blank" rel="noopener">↗</a></li>
+        <li><span>LinkedIn</span><a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">seunghoon-choi ↗</a></li>
+        <li><span>ORCID</span><a href="{{ .Site.Params.orcid }}" target="_blank" rel="noopener">{{ path.Base .Site.Params.orcid }} ↗</a></li>
+        <li><span>Scholar</span><a href="{{ .Site.Params.googleScholar }}" target="_blank" rel="noopener">{{ i18n "profile" }} ↗</a></li>
+        <li><span>GitHub</span><a href="{{ .Site.Params.github }}" target="_blank" rel="noopener">{{ path.Base .Site.Params.github }} ↗</a></li>
       </ul>
     </aside>
   </div>
