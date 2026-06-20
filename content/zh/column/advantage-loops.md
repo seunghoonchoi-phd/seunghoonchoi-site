@@ -1,5 +1,5 @@
 ---
-title: "微小优势变成另一种游戏的那一刻"
+title: "把微小优势养成复利的方法"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["compounding","cumulative advantage","feedback loops","growth systems","leverage"]

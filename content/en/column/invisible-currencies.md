@@ -1,5 +1,5 @@
 ---
-title: "Only Verified Skill Sells Dear"
+title: "Only Verified Skill Sells Dear — The Invisible Currencies of Trust and Access"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["career","trust capital","reputation","credibility","opportunity"]

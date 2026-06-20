@@ -1,5 +1,5 @@
 ---
-title: "摸清一个新领域的轮廓，到底需要看多少个案例？"
+title: "一个新领域，要看多少个案例才摸得清——学习的“魔法数字”"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["learning","metacognition","expertise","chunking","feedback"]

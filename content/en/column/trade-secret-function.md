@@ -1,5 +1,5 @@
 ---
-title: "Why Some Know-How Refuses to Be Copied"
+title: "What Makes Know-How Impossible to Copy — The Real Moat in the AI Era"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["know-how","competitive moat","AI era","tacit knowledge","value of failure"]

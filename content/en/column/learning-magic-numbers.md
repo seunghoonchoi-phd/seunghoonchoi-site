@@ -1,5 +1,5 @@
 ---
-title: "The 'Magic Number' of Cases You Need to Grasp a New Field"
+title: "How Many Cases Until a New Field Clicks — The Magic Numbers of Learning"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["learning","metacognition","expertise","chunking","feedback"]

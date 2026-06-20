@@ -1,5 +1,5 @@
 ---
-title: "Why Effort Doesn't Add Up"
+title: "Why Your Effort Doesn't Add Up — Change the Form of Value"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["value conversion","compounding","leverage","assets","market economy"]

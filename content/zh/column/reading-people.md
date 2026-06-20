@@ -1,5 +1,5 @@
 ---
-title: "人，并不只靠逻辑而动"
+title: "人不只靠逻辑而动——读懂损失、面子与责任"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["persuasion","negotiation","leadership","human behavior","loss aversion"]

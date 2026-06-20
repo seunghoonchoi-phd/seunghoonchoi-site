@@ -1,5 +1,5 @@
 ---
-title: "评判规则之前，先读懂奖惩"
+title: "读懂一个制度——先看奖惩，再看规则"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["incentives","institutions","organizational behavior","decision making","social systems"]

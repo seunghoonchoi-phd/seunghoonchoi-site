@@ -1,5 +1,5 @@
 ---
-title: "When Words Get Cheap, Trust Gets Expensive"
+title: "When AI Makes Writing Free, Trust Gets Expensive"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["branding","trust","AI era","personal branding","positioning"]

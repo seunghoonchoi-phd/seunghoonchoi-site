@@ -1,5 +1,5 @@
 ---
-title: "忍受自己做不好的力量"
+title: "实力，来自“做不好却硬撑”的那段"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["growth","learning","skill building","practice","self-improvement"]

@@ -1,5 +1,5 @@
 ---
-title: "Every Rule Comes in Two Layers"
+title: "Formal Rules vs. the Rules That Actually Run an Organization"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["organizational dynamics","decision making","workplace wisdom","understanding people","leadership"]

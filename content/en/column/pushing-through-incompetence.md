@@ -1,5 +1,5 @@
 ---
-title: "The Strength to Be Bad at Something"
+title: "Real Skill Is Built in the Stretch Where You're Still Bad"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["growth","learning","skill building","practice","self-improvement"]

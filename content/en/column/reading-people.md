@@ -1,5 +1,5 @@
 ---
-title: "People Don't Move on Logic Alone"
+title: "People Don't Move on Logic — Read Loss, Face, and Blame"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["persuasion","negotiation","leadership","human behavior","loss aversion"]

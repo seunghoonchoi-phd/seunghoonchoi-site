@@ -1,5 +1,5 @@
 ---
-title: "当文字变便宜，昂贵的是信任"
+title: "当AI让写作变得免费，昂贵的是信任"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["branding","trust","AI era","personal branding","positioning"]

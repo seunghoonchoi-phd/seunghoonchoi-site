@@ -1,5 +1,5 @@
 ---
-title: "你所站的棋盘,会把你的实力相乘"
+title: "为什么选对棋盘比埋头苦练更重要"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["environment design","compounding","career strategy","decision making","leverage"]

@@ -1,5 +1,5 @@
 ---
-title: "The Board You Stand On Multiplies Your Skill"
+title: "Why Choosing the Right Board Beats Grinding on Skill"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["environment design","compounding","career strategy","decision making","leverage"]

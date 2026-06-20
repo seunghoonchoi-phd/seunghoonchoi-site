@@ -1,5 +1,5 @@
 ---
-title: "Read the Rewards Before You Judge the Rules"
+title: "How to Read an Institution — Look at Rewards and Penalties First"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["incentives","institutions","organizational behavior","decision making","social systems"]

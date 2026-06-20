@@ -1,5 +1,5 @@
 ---
-title: "规则永远有两层"
+title: "写下来的规则与真正运作的规则——驱动组织的两层"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["organizational dynamics","decision making","workplace wisdom","understanding people","leadership"]

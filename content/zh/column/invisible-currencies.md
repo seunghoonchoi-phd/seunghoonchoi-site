@@ -1,5 +1,5 @@
 ---
-title: "只有被验证的本事才卖得贵"
+title: "只有被验证的本事才卖得贵——信任与门路这些看不见的货币"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["career","trust capital","reputation","credibility","opportunity"]

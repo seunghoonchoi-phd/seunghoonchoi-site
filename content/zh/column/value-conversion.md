@@ -1,5 +1,5 @@
 ---
-title: "努力为什么攒不下来"
+title: "努力为什么攒不下来——改变价值的形态"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["value conversion","compounding","leverage","assets","market economy"]

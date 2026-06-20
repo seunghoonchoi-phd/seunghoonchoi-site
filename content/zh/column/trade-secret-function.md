@@ -1,5 +1,5 @@
 ---
-title: "为什么有些本事抄不走"
+title: "抄不走的本事，究竟差在哪——AI时代真正的护城河"
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["know-how","competitive moat","AI era","tacit knowledge","value of failure"]
