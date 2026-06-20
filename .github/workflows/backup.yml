@@ -1,0 +1,67 @@
+name: Backup snapshot to mirror repo
+
+# Runs on every publish (push to main — including edits made via /admin/).
+# Mirrors the source into a SEPARATE private backup repo as a timestamped commit,
+# so every version is preserved even if the main repo's content is vandalized.
+#
+# To enable: create a private repo `seunghoonchoi-site-backup`, make a
+# fine-grained PAT (Contents: Read and write on that backup repo), and add it as
+# the Actions secret `BACKUP_TOKEN` on THIS repo. See BACKUP.md.
+# Until BACKUP_TOKEN is set, this job no-ops (safe).
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: backup
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Snapshot to backup repo
+        env:
+          BACKUP_TOKEN: ${{ secrets.BACKUP_TOKEN }}
+          BACKUP_REPO: seunghoonchoi-phd/seunghoonchoi-site-backup
+          SRC_SHA: ${{ github.sha }}
+        run: |
+          set -e
+          if [ -z "$BACKUP_TOKEN" ]; then
+            echo "BACKUP_TOKEN not set — skipping backup (see BACKUP.md to enable)."
+            exit 0
+          fi
+          ts="$(date -u +'%Y-%m-%d %H:%M UTC')"
+          tmp="$(mktemp -d)"
+          url="https://x-access-token:${BACKUP_TOKEN}@github.com/${BACKUP_REPO}.git"
+
+          # keep the backup repo's existing history; init if it's brand new/empty
+          if git clone --depth 1 "$url" "$tmp" 2>/dev/null && [ -d "$tmp/.git" ]; then
+            echo "cloned existing backup repo"
+          else
+            rm -rf "$tmp"; mkdir -p "$tmp"; ( cd "$tmp" && git init -b main )
+          fi
+
+          # mirror current source over it (exclude VCS + workflows so a minimal,
+          # Contents-only backup token is sufficient)
+          rsync -a --delete --exclude='.git' --exclude='.github' ./ "$tmp/"
+
+          cd "$tmp"
+          git add -A
+          if git -c user.name='backup-bot' -c user.email='backup@users.noreply.github.com' \
+                 commit -m "snapshot ${ts} (${SRC_SHA:0:7})"; then
+            git push "$url" HEAD:main
+            echo "backup pushed: $ts"
+          else
+            echo "no changes to back up"
+          fi
