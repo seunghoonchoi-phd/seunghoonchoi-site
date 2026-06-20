@@ -1,57 +1,75 @@
 {{ define "main" }}
 <div class="portal">
 
-  {{/* LEFT RAIL — identity + contact (single grid cell, flex column) */}}
+  {{/* LEFT RAIL — identity + contact */}}
   <div class="portal__rail">
+    <aside class="portal__id">
+      <p class="eyebrow"><span class="eyebrow__rule"></span> {{ .Site.Params.role }}</p>
+      {{ $n := split .Site.Title " " }}
+      <h1 class="portal__name">{{ index $n 0 }}<br><span class="hero__name-accent">{{ delimit (after 1 $n) " " }}</span></h1>
+      <p class="portal__tag">{{ .Site.Params.tagline }}</p>
+      <div class="portal__intro">{{ .Content }}</div>
+    </aside>
 
-  {{/* identity */}}
-  <aside class="portal__id">
-    <p class="eyebrow"><span class="eyebrow__rule"></span> {{ .Site.Params.role }}</p>
-    {{ $n := split .Site.Title " " }}
-    <h1 class="portal__name">{{ index $n 0 }}<br><span class="hero__name-accent">{{ delimit (after 1 $n) " " }}</span></h1>
-    <p class="portal__tag">{{ .Site.Params.tagline }}</p>
-    <div class="portal__intro">{{ .Content }}</div>
-  </aside>
+    <aside class="portal__contact">
+      <h2 class="portal__ch">{{ i18n "contact" }}</h2>
+      <ul class="clist">
+        <li><span>{{ i18n "email_university" }}</span><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
+        <li><span>{{ i18n "email_personal" }}</span><a href="mailto:{{ .Site.Params.emailPersonal }}">{{ .Site.Params.emailPersonal }}</a></li>
+        <li><span>LinkedIn</span><a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">↗</a></li>
+        <li><span>ORCID</span><a href="{{ .Site.Params.orcid }}" target="_blank" rel="noopener">↗</a></li>
+        <li><span>Scholar</span><a href="{{ .Site.Params.googleScholar }}" target="_blank" rel="noopener">↗</a></li>
+        <li><span>GitHub</span><a href="{{ .Site.Params.github }}" target="_blank" rel="noopener">↗</a></li>
+      </ul>
+    </aside>
+  </div>
 
-  {{/* contact card — sits at the bottom of the left rail */}}
-  <aside class="portal__contact">
-    <h2 class="portal__ch">{{ i18n "contact" }}</h2>
-    <ul class="clist">
-      <li><span>{{ i18n "email_university" }}</span><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
-      <li><span>{{ i18n "email_personal" }}</span><a href="mailto:{{ .Site.Params.emailPersonal }}">{{ .Site.Params.emailPersonal }}</a></li>
-      <li><span>LinkedIn</span><a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">↗</a></li>
-      <li><span>ORCID</span><a href="{{ .Site.Params.orcid }}" target="_blank" rel="noopener">↗</a></li>
-      <li><span>Scholar</span><a href="{{ .Site.Params.googleScholar }}" target="_blank" rel="noopener">↗</a></li>
-      <li><span>GitHub</span><a href="{{ .Site.Params.github }}" target="_blank" rel="noopener">↗</a></li>
-    </ul>
-  </aside>
-
-  </div>{{/* /portal__rail */}}
-
-  {{/* RIGHT — latest writing + section bands */}}
+  {{/* RIGHT — Highlighted (research achievements, cover-rich) */}}
   <main class="portal__main">
     <header class="portal__head">
-      <h2 class="portal__h2">{{ i18n "latest" }}</h2>
-      <a class="portal__more" href="{{ "column/" | relLangURL }}">{{ i18n "view_all" }} ›</a>
+      <h2 class="portal__h2">Highlighted</h2>
+      <a class="portal__more" href="{{ "research/" | relLangURL }}">{{ i18n "view_all" }} ›</a>
     </header>
-    {{ $sections := slice "research" "column" "books" "literature" "youtube" "apps" "career" }}
-    {{ $feed := (where .Site.RegularPages "Section" "in" $sections).ByDate.Reverse }}
+    {{ $hl := (where .Site.RegularPages "Section" "research").ByDate.Reverse }}
     <div class="cards portal__cards">
-      {{ range first 6 $feed }}{{ partial "post-card.html" . }}{{ end }}
-    </div>
-    <div class="portal__bands">
-      <a class="band" href="{{ "column/" | relLangURL }}">
-        <h3>{{ i18n "writing" }}</h3>
-        <p>{{ i18n "dir_writing" }}</p>
-        <span class="band__sub">{{ i18n "column" }} · {{ i18n "books" }} · {{ i18n "literature" }} →</span>
-      </a>
-      <a class="band" href="{{ "apps/" | relLangURL }}">
-        <h3>{{ i18n "resources" }}</h3>
-        <p>{{ i18n "dir_apps" }} · {{ i18n "dir_career" }}</p>
-        <span class="band__sub">{{ i18n "apps" }} · {{ i18n "career" }} · {{ i18n "youtube" }} →</span>
-      </a>
+      {{ range first 6 $hl }}{{ partial "post-card.html" . }}{{ end }}
     </div>
   </main>
+
+</div>
+
+{{/* ===== full content — sections reveal on scroll ===== */}}
+<div class="home-full">
+
+  <section class="hsec reveal">
+    <div class="hsec__head">
+      <h2 class="hsec__h">Writing</h2>
+      <a class="hsec__more" href="{{ "column/" | relLangURL }}">{{ i18n "view_all" }} ›</a>
+    </div>
+    <div class="cards hsec__grid">
+      {{ range first 6 (where .Site.RegularPages "Section" "in" (slice "column" "books" "literature")).ByDate.Reverse }}{{ partial "post-card.html" . }}{{ end }}
+    </div>
+  </section>
+
+  <section class="hsec reveal">
+    <div class="hsec__head">
+      <h2 class="hsec__h">Apps &amp; Tools</h2>
+      <a class="hsec__more" href="{{ "apps/" | relLangURL }}">{{ i18n "view_all" }} ›</a>
+    </div>
+    <div class="cards hsec__grid">
+      {{ range (where .Site.RegularPages "Section" "apps").ByDate.Reverse }}{{ partial "post-card.html" . }}{{ end }}
+    </div>
+  </section>
+
+  <section class="hsec reveal">
+    <div class="hsec__head">
+      <h2 class="hsec__h">Career</h2>
+      <a class="hsec__more" href="{{ "career/" | relLangURL }}">{{ i18n "view_all" }} ›</a>
+    </div>
+    <div class="cards hsec__grid">
+      {{ range first 6 (where .Site.RegularPages "Section" "career").ByDate.Reverse }}{{ partial "post-card.html" . }}{{ end }}
+    </div>
+  </section>
 
 </div>
 {{ end }}
