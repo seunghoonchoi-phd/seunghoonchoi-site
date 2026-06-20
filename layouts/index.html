@@ -1,7 +1,10 @@
 {{ define "main" }}
 <div class="portal">
 
-  {{/* LEFT — identity */}}
+  {{/* LEFT RAIL — identity + contact (single grid cell, flex column) */}}
+  <div class="portal__rail">
+
+  {{/* identity */}}
   <aside class="portal__id">
     <p class="eyebrow"><span class="eyebrow__rule"></span> {{ .Site.Params.role }}</p>
     {{ $n := split .Site.Title " " }}
@@ -20,13 +23,24 @@
       </svg>
     </div>
     <div class="portal__intro">{{ .Content }}</div>
-    <nav class="portal__quick" aria-label="{{ i18n "explore" }}">
-      <a href="{{ "research/" | relLangURL }}">{{ i18n "research" }}<span aria-hidden="true">→</span></a>
-      <a href="{{ "about/" | relLangURL }}">{{ i18n "about" }}<span aria-hidden="true">→</span></a>
-    </nav>
   </aside>
 
-  {{/* CENTER — latest writing + section bands */}}
+  {{/* contact card — sits at the bottom of the left rail */}}
+  <aside class="portal__contact">
+    <h2 class="portal__ch">{{ i18n "contact" }}</h2>
+    <ul class="clist">
+      <li><span>{{ i18n "email_university" }}</span><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
+      <li><span>{{ i18n "email_personal" }}</span><a href="mailto:{{ .Site.Params.emailPersonal }}">{{ .Site.Params.emailPersonal }}</a></li>
+      <li><span>LinkedIn</span><a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">↗</a></li>
+      <li><span>ORCID</span><a href="{{ .Site.Params.orcid }}" target="_blank" rel="noopener">↗</a></li>
+      <li><span>Scholar</span><a href="{{ .Site.Params.googleScholar }}" target="_blank" rel="noopener">↗</a></li>
+      <li><span>GitHub</span><a href="{{ .Site.Params.github }}" target="_blank" rel="noopener">↗</a></li>
+    </ul>
+  </aside>
+
+  </div>{{/* /portal__rail */}}
+
+  {{/* RIGHT — latest writing + section bands */}}
   <main class="portal__main">
     <header class="portal__head">
       <h2 class="portal__h2">{{ i18n "latest" }}</h2>
@@ -50,19 +64,6 @@
       </a>
     </div>
   </main>
-
-  {{/* RIGHT — contact card */}}
-  <aside class="portal__contact">
-    <h2 class="portal__ch">{{ i18n "contact" }}</h2>
-    <ul class="clist">
-      <li><span>{{ i18n "email_university" }}</span><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
-      <li><span>{{ i18n "email_personal" }}</span><a href="mailto:{{ .Site.Params.emailPersonal }}">{{ .Site.Params.emailPersonal }}</a></li>
-      <li><span>LinkedIn</span><a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">↗</a></li>
-      <li><span>ORCID</span><a href="{{ .Site.Params.orcid }}" target="_blank" rel="noopener">↗</a></li>
-      <li><span>Scholar</span><a href="{{ .Site.Params.googleScholar }}" target="_blank" rel="noopener">↗</a></li>
-      <li><span>GitHub</span><a href="{{ .Site.Params.github }}" target="_blank" rel="noopener">↗</a></li>
-    </ul>
-  </aside>
 
 </div>
 {{ end }}

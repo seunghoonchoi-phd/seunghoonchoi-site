@@ -299,8 +299,10 @@ body.lang-ko .cite__text{word-break:keep-all}
 @media(max-width:760px){.home-dir__grid{grid-template-columns:1fr 1fr}}
 @media(max-width:460px){.home-dir__grid{grid-template-columns:1fr}}
 
-/* ---------- Home: 3-column portal ---------- */
-.portal{display:grid;grid-template-columns:300px minmax(0,1fr) 252px;gap:34px;align-items:start;padding:12px 0 52px}
+/* ---------- Home: 2-column portal (left rail + main) ---------- */
+.portal{display:grid;grid-template-columns:320px minmax(0,1fr);gap:40px;align-items:start;padding:12px 0 52px}
+/* left rail: identity at top, contact directly below identity — single grid cell so no auto-row bloat */
+.portal__rail{display:flex;flex-direction:column;min-width:0}
 .portal__id .eyebrow{margin:0 0 14px}
 .portal__name{font-family:var(--serif);font-weight:700;font-size:clamp(2.3rem,4.4vw,3rem);line-height:1.04;letter-spacing:-.02em;color:var(--navy);margin:0 0 14px}
 .portal__name .hero__name-accent{color:var(--copper)}
@@ -313,11 +315,6 @@ body.lang-en .portal__tag{font-family:var(--serif);font-style:italic}
 .portal__mol circle.mol__cu{fill:var(--copper)}
 .portal__intro{font-size:.92rem;color:var(--ink-soft);line-height:1.6;margin:0 0 14px}
 .portal__intro p{margin:0 0 12px}
-.portal__quick{display:flex;flex-direction:column;border-top:1px solid var(--hair);margin-top:4px}
-.portal__quick a{display:flex;align-items:center;justify-content:space-between;padding:13px 2px;border-bottom:1px solid var(--hair);font-weight:600;font-size:1.05rem;color:var(--navy)}
-.portal__quick a span{color:var(--copper);transition:transform .2s}
-.portal__quick a:hover{color:var(--copper)}
-.portal__quick a:hover span{transform:translateX(4px)}
 .portal__head{display:flex;align-items:baseline;justify-content:space-between;border-bottom:2px solid var(--navy);padding-bottom:10px;margin:0 0 20px}
 .portal__h2{font-size:1.5rem;font-weight:700;color:var(--navy);margin:0}
 body.lang-en .portal__h2{font-family:var(--serif)}
@@ -332,7 +329,8 @@ body.lang-en .band h3{font-family:var(--serif)}
 .band p{font-size:.9rem;color:var(--ink-soft);margin:0 0 12px;line-height:1.45}
 .band__sub{font-size:.85rem;color:var(--muted);font-weight:500}
 .band:hover .band__sub{color:var(--copper)}
-.portal__contact{background:var(--navy);border-radius:11px;padding:24px 22px}
+/* contact card sits directly under the identity block; fixed 28px gap below the identity block */
+.portal__contact{background:var(--navy);border-radius:11px;padding:24px 22px;margin-top:28px}
 .portal__ch{font-size:1.24rem;color:#fff;margin:0 0 16px;font-weight:700}
 body.lang-en .portal__ch{font-family:var(--serif)}
 .clist{list-style:none;margin:0;padding:0}
@@ -341,5 +339,16 @@ body.lang-en .portal__ch{font-family:var(--serif)}
 .clist span{color:#AEB2C8;flex:none}
 .clist a{color:#fff;border-bottom:0;word-break:break-all;text-align:right}
 .clist a:hover{color:var(--copper-soft)}
-@media(max-width:1040px){.portal{grid-template-columns:minmax(0,1fr) 240px}.portal__contact{grid-column:1/-1;order:3}.clist{display:grid;grid-template-columns:1fr 1fr;gap:0 24px}}
-@media(max-width:760px){.portal{grid-template-columns:1fr;gap:30px}.portal__cards{grid-template-columns:1fr}.portal__bands{grid-template-columns:1fr}.clist{grid-template-columns:1fr}}
+/* tablet: slightly narrower rail */
+@media(max-width:1040px){.portal{grid-template-columns:288px minmax(0,1fr);gap:32px}}
+/* single column: identity -> main -> contact. dissolve the rail so its children join the grid flow */
+@media(max-width:880px){
+  .portal{grid-template-columns:1fr;gap:30px}
+  .portal__rail{display:contents}
+  .portal__id{order:1}
+  .portal__main{order:2}
+  .portal__contact{order:3;margin-top:0}
+  .clist{display:grid;grid-template-columns:1fr 1fr;gap:0 24px}
+  .clist li:nth-last-child(2){border-bottom:0}
+}
+@media(max-width:560px){.portal__cards{grid-template-columns:1fr}.portal__bands{grid-template-columns:1fr}.clist{grid-template-columns:1fr}.clist li:nth-last-child(2){border-bottom:1px solid rgba(255,255,255,.13)}}
