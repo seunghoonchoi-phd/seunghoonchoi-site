@@ -336,5 +336,5 @@ body.lang-en .home-hero__tag{font-family:var(--serif);font-style:italic;font-siz
 @media(max-width:760px){.hsec--contact .contact-list{grid-template-columns:1fr}}
 
 /* publication author-marking legend — quiet note, not a callout */
-.publication-note{margin:.2rem 0 1.4rem;font-size:.9rem;color:var(--muted);font-style:normal;line-height:1.6}
+.lede .publication-note,.publication-note{margin:.1rem 0 1.5rem;font-size:.88rem;color:var(--muted);font-style:normal;line-height:1.6;letter-spacing:0}
 .publication-note strong{color:var(--ink-soft)}
