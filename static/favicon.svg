@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <rect width="64" height="64" rx="14" fill="#0D1B4C"/>
-  <g stroke="#F8F6F3" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.92">
-    <path d="M26 18 H52 V40 H26 Z"/>
-    <path d="M14 30 H40 V52 H14 Z"/>
-    <line x1="14" y1="30" x2="26" y2="18"/><line x1="40" y1="30" x2="52" y2="18"/>
-    <line x1="40" y1="52" x2="52" y2="40"/><line x1="14" y1="52" x2="26" y2="40"/>
+  <g stroke="#F8F6F3" stroke-width="2.6" stroke-linecap="round" opacity="0.95">
+    <line x1="41" y1="32" x2="50" y2="32"/><line x1="38.36" y1="38.36" x2="44.73" y2="44.73"/>
+    <line x1="32" y1="41" x2="32" y2="50"/><line x1="25.64" y1="38.36" x2="19.27" y2="44.73"/>
+    <line x1="23" y1="32" x2="14" y2="32"/><line x1="25.64" y1="25.64" x2="19.27" y2="19.27"/>
+    <line x1="32" y1="23" x2="32" y2="14"/><line x1="38.36" y1="25.64" x2="44.73" y2="19.27"/>
   </g>
   <g fill="#F8F6F3">
-    <circle cx="26" cy="18" r="2.6"/><circle cx="52" cy="18" r="2.6"/><circle cx="52" cy="40" r="2.6"/><circle cx="26" cy="40" r="2.6"/>
-    <circle cx="14" cy="30" r="2.6"/><circle cx="40" cy="30" r="2.6"/><circle cx="40" cy="52" r="2.6"/><circle cx="14" cy="52" r="2.6"/>
+    <circle cx="54" cy="32" r="3"/><circle cx="47.55" cy="47.55" r="3"/><circle cx="32" cy="54" r="3"/><circle cx="16.45" cy="47.55" r="3"/>
+    <circle cx="10" cy="32" r="3"/><circle cx="16.45" cy="16.45" r="3"/><circle cx="32" cy="10" r="3"/><circle cx="47.55" cy="16.45" r="3"/>
   </g>
-  <circle cx="33" cy="35" r="4.4" fill="#B87333"/>
+  <circle cx="32" cy="32" r="6.4" fill="#B87333"/>
 </svg>
