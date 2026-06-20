@@ -1,5 +1,5 @@
 ---
-title: "Octopus-Inspired Soft Grippers — Review in Biomimetics"
+title: "Octopus-Mimicking Soft Grippers — Review in Biomimetics"
 date: 2025-12-04
 categories: ["Publication"]
 tags: ["bio-inspired", "soft robotics", "octopus", "gripper", "AI"]

@@ -1,5 +1,5 @@
 ---
-title: "문어에서 영감받은 소프트 그리퍼 — Biomimetics 리뷰"
+title: "문어 모사 소프트 그리퍼 — Biomimetics 리뷰"
 date: 2025-12-04
 categories: ["논문"]
 tags: ["생체모사", "소프트로봇", "문어", "그리퍼", "AI"]

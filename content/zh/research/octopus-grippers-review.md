@@ -1,5 +1,5 @@
 ---
-title: "受章鱼启发的软体抓手 — 发表于 Biomimetics 的综述"
+title: "仿章鱼软体抓手 — 发表于 Biomimetics 的综述"
 date: 2025-12-04
 categories: ["Publication"]
 tags: ["bio-inspired", "soft robotics", "octopus", "gripper", "AI"]
