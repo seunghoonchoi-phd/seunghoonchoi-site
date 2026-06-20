@@ -5,6 +5,9 @@ categories: ["Life in the US"]
 tags: ["Gainesville","housing","healthcare","student life"]
 subtitle: "美国研究生留学落地指南 第五部——UF 城市生活的方方面面"
 ---
+
+![Sunny university campus](/images/uf5-life.jpg)
+
 当美国研究生录取、签证和行政手续都办妥之后，真正的"生活"才刚刚开始。住在哪里、怎么出行、一个月要花多少钱——还有生病了去哪儿、飓风来了该备些什么。这篇文章把在佛罗里达盖恩斯维尔（University of Florida）的真实生活，拆分成住房、交通、生活费、健康、气候、社区、旅行几个板块，整理成一份落地指南。
 
 ## 住房——几乎所有人都住校外

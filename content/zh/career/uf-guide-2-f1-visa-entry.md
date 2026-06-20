@@ -5,6 +5,9 @@ categories: ["Immigration"]
 tags: ["F-1 visa","immigration","port of entry","SEVIS"]
 subtitle: "登机随身携带的文件、抵达后 30 天内的 ISSS 在线报到、政府规费，以及从机场到盖恩斯维尔的路线"
 ---
+
+![Passport and travel documents](/images/uf2-visa.jpg)
+
 F-1 身份并不是拿到录取通知书那一刻就结束的事，而是你在美国期间始终要守住的一项条件。通过签证面谈后很容易松一口气，但真正的开始在于：登机前你怎么备齐文件，以及抵达后这 30 天怎么过。本篇按顺序梳理身份维持的总体原则、机场入境（POE）、抵达后立即要做的 ISSS 在线报到、政府规费，以及从机场到盖恩斯维尔的行程动线。
 
 ## F-1 身份维持的五大原则

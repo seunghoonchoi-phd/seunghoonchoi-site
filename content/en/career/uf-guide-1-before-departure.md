@@ -5,6 +5,9 @@ categories: ["Study Abroad"]
 tags: ["grad school","study abroad","F-1","relocation"]
 subtitle: "A practical, step-by-step checklist of everything to finish between the day you are admitted to a U.S. grad program and the day you board the plane"
 ---
+
+![Airplane at the departure gate](/images/uf1-departure.jpg)
+
 Admission to a U.S. STEM graduate program is not the finish line — it is a new starting line. The months between getting your acceptance and leaving the country hold more tasks, tighter deadlines, and higher stakes than most people expect, and a single missed step can derail enrollment, registration, or your visa. This post is Part 1 of a guide to admission and settling in at the University of Florida (UF), walking you through what to handle, in order, from acceptance through departure. It covers how to read your funding (offer letter) accurately, the key date calendar, the placement exam and course registration process, pre-arrival research preparation, and finally wrapping up your Korean paperwork and sending money abroad.
 
 ## The Big Picture — From Acceptance to Departure

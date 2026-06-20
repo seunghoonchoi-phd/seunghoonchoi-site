@@ -5,6 +5,9 @@ categories: ["Immigration"]
 tags: ["F-1 visa","immigration","port of entry","SEVIS"]
 subtitle: "Documents to carry on board, ISSS check-in within 30 days, government fees, and getting from the airport to Gainesville"
 ---
+
+![Passport and travel documents](/images/uf2-visa.jpg)
+
 F-1 status doesn't end the moment you receive your admission letter — it's a condition you have to maintain the entire time you're in the U.S. It's easy to relax once you pass the visa interview, but the real test is how you pack your documents before boarding the plane and how you spend your first 30 days after arrival. This post walks through the whole sequence in order: the core rules for keeping your status, entry at the Port of Entry (POE), the ISSS online check-in right after arrival, the government fees, and the route from the airport to Gainesville.
 
 ## The Five Rules for Maintaining F-1 Status

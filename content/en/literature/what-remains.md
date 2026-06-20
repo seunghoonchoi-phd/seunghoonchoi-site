@@ -4,6 +4,9 @@ date: 2026-06-15
 categories: ["Poem"]
 tags: ["stars"]
 ---
+
+![Raindrops on a window](/images/lit-remains.jpg)
+
 <div class="poem">
 <p>Perhaps what matters most<br>
 is that tonight, too, a star—on the wind,<br>

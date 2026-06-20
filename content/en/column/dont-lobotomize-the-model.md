@@ -6,6 +6,9 @@ tags: ["ai", "tools", "LLM"]
 subtitle: "A checker should catch mistakes, not enforce taste"
 description: "Most QA tools for AI-generated PowerPoint, Excel, and Word enforce style and make the output worse — why a checker should catch objective mistakes, not enforce taste. The thinking behind llm-office-qa."
 ---
+
+![A magnifying glass beside a laptop](/images/col-qa.jpg)
+
 I kept hitting the same small humiliations with AI-generated files. A text box whose words ran clean off the edge of a slide. A spreadsheet where my own manual edits had been quietly reverted to a version the model made an hour earlier. Borders that survived on three cells out of five. None of it was a matter of taste. It was just wrong, and I wanted something that caught it before I sent the file out.
 
 So I tried the AI-output checkers that already exist. Almost every one did something I never asked for: it enforced taste. Cap the fonts. Limit the words per slide. Stay inside this palette. Six bullets, no more. They weren't catching mistakes — they were imposing a house style and calling it quality.

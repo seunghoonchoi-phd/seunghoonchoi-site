@@ -5,6 +5,9 @@ categories: ["Taxes"]
 tags: ["US taxes","F-1","tax treaty","1040-NR","8843"]
 subtitle: "Florida 0% state income tax, the $2,000/year treaty exemption, and Form 8843, 1040-NR, and the deadlines"
 ---
+
+![US tax forms with a pen](/images/uf4-taxes.jpg)
+
 Once your admission and most of your relocation prep are settled, one area tends to leave nearly everyone stuck: taxes. The rules for F-1 students differ from those for U.S. citizens and permanent residents, and in many cases those differences work in a student's favor. This post lays out just the essentials. Because tax law and policy change often, confirm with UFIC and a tax professional before you actually file.
 
 ## Your status and your exemptions — starting as a nonresident

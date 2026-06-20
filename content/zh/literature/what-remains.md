@@ -4,6 +4,9 @@ date: 2026-06-15
 categories: ["Poem"]
 tags: ["stars"]
 ---
+
+![Raindrops on a window](/images/lit-remains.jpg)
+
 <div class="poem">
 <p>或许最要紧的，<br>
 是今夜星辰也乘着风，<br>

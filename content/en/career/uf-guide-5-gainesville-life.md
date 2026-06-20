@@ -5,6 +5,9 @@ categories: ["Life in the US"]
 tags: ["Gainesville","housing","healthcare","student life"]
 subtitle: "U.S. Grad School Settlement Guide, Part 5 — Everything About City Life at UF"
 ---
+
+![Sunny university campus](/images/uf5-life.jpg)
+
 Once your admission, visa, and administrative setup are done, real life begins. Where to live, how to get around, how much it costs per month — and where to go when you're sick, what to grab when a hurricane is coming. This guide breaks down actual day-to-day life in Gainesville, Florida (University of Florida) into housing, transit, monthly budget, health, climate, community, and travel.
 
 ## Housing — Almost Everyone Lives Off-Campus

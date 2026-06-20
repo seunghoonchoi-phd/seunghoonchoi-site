@@ -5,6 +5,9 @@ categories: ["Settling In"]
 tags: ["SSN","bank account","driver license","credit score"]
 subtitle: "From your phone to a bank account, SSN, a Florida license (Korea reciprocity), and building credit — the post-arrival admin checklist to follow in sequence"
 ---
+
+![Moving boxes and luggage at a new place](/images/uf3-arrival.jpg)
+
 By the time you land for U.S. grad school, the big mountains — visa, housing, accounts — are already behind you. What comes next is the everyday admin that makes daily life actually work, and getting the order wrong makes each step trip over the next. No phone makes opening a bank account a hassle; no bank means no card; no SSN delays your license and your credit. So this post walks through the University of Florida (UF) settlement sequence exactly as it runs — **phone → bank → SSN → Florida driver's license → building credit** — and spells out what to bring and what to watch at each stage.
 
 > Recommended order: **phone → bank → I-94/check-in → SSN → license → credit card.** Each earlier step is often a prerequisite for the next, so keeping the sequence makes everything smoother.

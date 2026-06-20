@@ -5,6 +5,9 @@ categories: ["Essay"]
 tags: ["start"]
 subtitle: "What this space is"
 ---
+
+![A hand writing in a notebook](/images/col-start.jpg)
+
 This is where the writing that doesn't fit in a paper goes. Essays, short stories, the occasional video. My job says computational materials scientist, but that one line doesn't hold everything — so the rest lands here.
 
 No grand manifesto. Whether I can pick a good story, write it so it feels real, and make something people actually enjoy — I won't know until I write it. So I just write, one piece at a time.
