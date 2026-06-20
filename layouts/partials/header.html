@@ -20,10 +20,6 @@
     {{/* Home */}}
     <a href="{{ "" | relLangURL }}" class="nav__link{{ if eq $cur $home }} is-active{{ end }}">{{ i18n "home" }}</a>
 
-    {{/* Research */}}
-    {{ $research := "research/" | relLangURL }}
-    <a href="{{ $research }}" class="nav__link{{ if and (ne $cur $home) (hasPrefix $cur $research) }} is-active{{ end }}">{{ i18n "research" }}</a>
-
     {{/* Writing — dropdown */}}
     {{ $writingKids := slice "column" "books" "literature" }}
     {{ $writingActive := false }}
@@ -38,23 +34,17 @@
       </div>
     </div>
 
-    {{/* YouTube */}}
-    {{ $youtube := "youtube/" | relLangURL }}
-    <a href="{{ $youtube }}" class="nav__link{{ if and (ne $cur $home) (hasPrefix $cur $youtube) }} is-active{{ end }}">{{ i18n "youtube" }}</a>
+    {{/* Apps & Tools */}}
+    {{ $apps := "apps/" | relLangURL }}
+    <a href="{{ $apps }}" class="nav__link{{ if and (ne $cur $home) (hasPrefix $cur $apps) }} is-active{{ end }}">{{ i18n "apps" }}</a>
 
-    {{/* Resources — dropdown */}}
-    {{ $resKids := slice "apps" "career" }}
-    {{ $resActive := false }}
-    {{ range $resKids }}{{ if and (ne $cur $home) (hasPrefix $cur ((printf "%s/" .) | relLangURL)) }}{{ $resActive = true }}{{ end }}{{ end }}
-    <div class="nav__group">
-      <button type="button" class="nav__link nav__toggle{{ if $resActive }} is-active{{ end }}" aria-haspopup="true" aria-expanded="false">{{ i18n "resources" }}<span class="nav__caret" aria-hidden="true">▾</span></button>
-      <div class="nav__menu" role="menu">
-        {{ range $resKids }}
-          {{ $u := (printf "%s/" .) | relLangURL }}
-          <a role="menuitem" href="{{ $u }}" class="nav__sublink{{ if and (ne $cur $home) (hasPrefix $cur $u) }} is-active{{ end }}">{{ i18n . }}</a>
-        {{ end }}
-      </div>
-    </div>
+    {{/* Settling In / Career */}}
+    {{ $career := "career/" | relLangURL }}
+    <a href="{{ $career }}" class="nav__link{{ if and (ne $cur $home) (hasPrefix $cur $career) }} is-active{{ end }}">{{ i18n "career" }}</a>
+
+    {{/* Research */}}
+    {{ $research := "research/" | relLangURL }}
+    <a href="{{ $research }}" class="nav__link{{ if and (ne $cur $home) (hasPrefix $cur $research) }} is-active{{ end }}">{{ i18n "research" }}</a>
 
     {{/* About */}}
     {{ $about := "about/" | relLangURL }}

@@ -7,6 +7,7 @@
     <div class="foot__links">
       <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
       <a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">LinkedIn ↗</a>
+      <a href="{{ "youtube/" | relLangURL }}">{{ i18n "youtube" }}</a>
     </div>
     <div class="foot__legal">© {{ now.Year }} {{ .Site.Title }}. {{ i18n "footer_rights" }}</div>
   </div>

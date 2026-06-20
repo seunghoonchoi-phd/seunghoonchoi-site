@@ -91,9 +91,9 @@ body.lang-en .nav__link{text-transform:uppercase;letter-spacing:.05em}
 .hero__tagline{font-family:var(--serif);font-style:italic;font-size:clamp(19px,2.8vw,27px);color:var(--navy);margin-bottom:22px}
 .hero__intro{font-size:18px;color:var(--ink-soft);max-width:640px}
 .hero__intro p{margin-bottom:.8em}
-.stats{display:flex;flex-wrap:wrap;gap:clamp(22px,5vw,52px);margin-top:32px}
-.stat{display:flex;flex-direction:column;gap:3px}
-.stat__num{font-family:var(--serif);font-weight:600;font-size:clamp(30px,4vw,42px);color:var(--copper);line-height:1}
+.stats{display:flex;flex-wrap:wrap;justify-content:center;gap:clamp(22px,5vw,52px);margin-top:32px}
+.stat{display:flex;flex-direction:column;align-items:center;gap:3px}
+.stat__num{font-family:var(--serif-en);font-weight:600;font-size:clamp(30px,4vw,42px);color:var(--copper);line-height:1}
 .stat__label{font-size:12px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted)}
 
 /* ---------- Home sections ---------- */

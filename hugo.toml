@@ -42,7 +42,7 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     weight = 1
     title = "Seunghoon Choi"
     [languages.en.params]
-      role = "Engineer · Writer · Tool Builder"
+      role = "Engineer · Content Creator"
       tagline = "Clearing the path I stumbled through, so the next person walks it easier."
       description = "Seunghoon Choi — Computational Materials Scientist at the University of Florida. Research, writing, and guides."
   [languages.ko]
@@ -52,7 +52,7 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     weight = 2
     title = "Seunghoon Choi"
     [languages.ko.params]
-      role = "공학자 · 지식 크리에이터 · 도구 제작자"
+      role = "공학자 · 콘텐츠 크리에이터"
       tagline = "먼저 헤맨 길을, 다음 사람은 덜 헤매게."
       description = "최승훈(Seunghoon Choi) — 계산재료과학자이자 작가. 연구, 글, 가이드를 한곳에."
   [languages.zh]
@@ -62,7 +62,7 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     weight = 3
     title = "Seunghoon Choi"
     [languages.zh.params]
-      role = "工程师 · 知识创作者 · 工具开发者"
+      role = "工程师 · 内容创作者"
       tagline = "把我先走过的弯路梳理出来，让后来的人少走一些。"
       description = "崔承勋（Seunghoon Choi）— 计算材料科学家、作家。研究、写作与实用指南，汇于一处。"
 

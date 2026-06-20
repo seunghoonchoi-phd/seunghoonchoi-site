@@ -1,6 +1,6 @@
 # Navigation (keyed by menu identifier)
 [research]
-other = "연구"
+other = "연구·성과"
 # parent dropdown labels
 [writing]
 other = "글"
@@ -16,9 +16,9 @@ other = "문학집"
 [youtube]
 other = "유튜브"
 [apps]
-other = "앱"
+other = "앱·도구"
 [career]
-other = "커리어가이드"
+other = "유학·정착"
 [about]
 other = "소개"
 
