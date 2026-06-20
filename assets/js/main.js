@@ -79,4 +79,44 @@
       });
     });
   }
+
+  /* Copy attribution — append source line when copying article text */
+  var post = document.querySelector(".post");
+  if (post && window.SC) {
+    document.addEventListener("copy", function (e) {
+      var sel = window.getSelection ? String(window.getSelection()) : "";
+      if (sel.length < 40) return;
+      var an = window.getSelection().anchorNode;
+      if (!an || !post.contains(an)) return;
+      var note = "\n\n— " + SC.author + ", " + SC.title + "\n" + SC.srcLabel + ": " + SC.url;
+      try {
+        (e.clipboardData || window.clipboardData).setData("text/plain", sel + note);
+        e.preventDefault();
+      } catch (err) {}
+    });
+  }
+
+  /* Cite-this copy button */
+  var citeBtn = document.querySelector("[data-cite-copy]");
+  var citeText = document.getElementById("cite-text");
+  if (citeBtn && citeText) {
+    citeBtn.addEventListener("click", function () {
+      var t = (citeText.textContent || "").trim();
+      var done = function () {
+        var orig = citeBtn.getAttribute("data-label") || citeBtn.textContent;
+        citeBtn.setAttribute("data-label", orig);
+        citeBtn.textContent = citeBtn.getAttribute("data-copied") || "Copied";
+        setTimeout(function () { citeBtn.textContent = orig; }, 1600);
+      };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(t).then(done, done);
+      } else {
+        var ta = document.createElement("textarea");
+        ta.value = t; ta.style.position = "fixed"; ta.style.opacity = "0";
+        document.body.appendChild(ta); ta.select();
+        try { document.execCommand("copy"); } catch (err) {}
+        document.body.removeChild(ta); done();
+      }
+    });
+  }
 })();

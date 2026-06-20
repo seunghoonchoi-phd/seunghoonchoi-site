@@ -61,3 +61,15 @@ other = "English"
 other = "All rights reserved."
 [search_placeholder]
 other = "검색…"
+[by]
+other = "글쓴이"
+[author_name]
+other = "최승훈"
+[cite_this]
+other = "이 글 인용하기"
+[cite_copy]
+other = "인용 복사"
+[cite_copied]
+other = "복사됨!"
+[copy_source]
+other = "출처"

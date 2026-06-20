@@ -32,6 +32,7 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
   # Fill these once the accounts exist — they auto-link into the Person schema (sameAs).
   orcid = "https://orcid.org/0009-0007-8324-2943"
   googleScholar = "https://scholar.google.com/citations?user=TRtHbDwAAAAJ"
+  github = "https://github.com/seunghoonchoi-phd"
 
 [languages]
   [languages.en]

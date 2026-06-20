@@ -61,3 +61,15 @@ other = "English"
 other = "All rights reserved."
 [search_placeholder]
 other = "搜索…"
+[by]
+other = "作者"
+[author_name]
+other = "崔承勋"
+[cite_this]
+other = "引用本文"
+[cite_copy]
+other = "复制引用"
+[cite_copied]
+other = "已复制！"
+[copy_source]
+other = "来源"

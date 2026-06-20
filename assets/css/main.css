@@ -264,3 +264,14 @@ body.lang-ko .nav__link{font-weight:500}
 .poem p:last-child{margin-bottom:0}
 .post__body .poem p{color:var(--ink)}
 body.lang-ko .poem p{word-break:keep-all}
+
+/* ---------- Author byline + Cite this ---------- */
+.post__author{color:var(--muted)}
+.post__author a{color:var(--copper);border-bottom:1px solid transparent}
+.post__author a:hover{border-bottom-color:var(--copper)}
+.cite{margin:52px 0 4px;padding:20px 22px;border:1px solid var(--hair);border-left:3px solid var(--copper);background:var(--paper-2);border-radius:4px}
+.cite__head{font-size:.8rem;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+.cite__text{color:var(--ink-soft);font-size:.92rem;line-height:1.65;margin:0 0 14px;word-break:break-word}
+.cite__btn{font:inherit;font-size:.85rem;color:var(--navy);background:transparent;border:1px solid var(--navy-soft);border-radius:3px;padding:6px 14px;cursor:pointer;transition:background .15s,color .15s}
+.cite__btn:hover{background:var(--navy);color:#fff}
+body.lang-ko .cite__text{word-break:keep-all}

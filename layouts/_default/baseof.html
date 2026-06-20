@@ -10,6 +10,7 @@
     {{ block "main" . }}{{ end }}
   </main>
   {{ partial "footer.html" . }}
+  <script>window.SC={author:{{ i18n "author_name" }},srcLabel:{{ i18n "copy_source" }},title:{{ .Title }},url:{{ .Permalink }}};</script>
   {{ $js := resources.Get "js/main.js" | resources.Minify | resources.Fingerprint }}
   <script src="{{ $js.RelPermalink }}" defer></script>
 </body>

@@ -6,6 +6,7 @@
       {{ if ne .Section "" }}<a class="post__back" href="{{ .CurrentSection.RelPermalink }}">← {{ i18n .Section }}</a>{{ end }}
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006.01.02" }}</time>
       {{ range .Params.categories }}<span class="post__cat">{{ . }}</span>{{ end }}
+      <span class="post__author">{{ i18n "by" }} <a href="{{ "about" | relLangURL }}" rel="author">{{ i18n "author_name" }}</a></span>
     </div>
     {{ end }}
     <h1 class="post__title">{{ .Title }}</h1>
@@ -16,6 +17,17 @@
   </div>
   {{ with .Params.tags }}
   <div class="post__tags">{{ range . }}<a class="tag" href="{{ "tags/" | relLangURL }}{{ . | urlize }}/">#{{ . }}</a>{{ end }}</div>
+  {{ end }}
+  {{ if and (not .Date.IsZero) (ne .Section "") }}
+  {{ $cite := "" }}
+  {{ if eq .Site.Language.Lang "ko" }}{{ $cite = printf "최승훈. 「%s」. Seunghoon Choi (seunghoonchoi.com), %s. %s" .Title (.Date.Format "2006") .Permalink }}
+  {{ else if eq .Site.Language.Lang "zh" }}{{ $cite = printf "崔承勋. 《%s》. Seunghoon Choi (seunghoonchoi.com), %s. %s" .Title (.Date.Format "2006") .Permalink }}
+  {{ else }}{{ $cite = printf `Choi, Seunghoon. "%s." Seunghoon Choi (seunghoonchoi.com), %s. %s` .Title (.Date.Format "2006") .Permalink }}{{ end }}
+  <aside class="cite reveal" aria-label="{{ i18n "cite_this" }}">
+    <div class="cite__head">{{ i18n "cite_this" }}</div>
+    <p class="cite__text" id="cite-text">{{ $cite }}</p>
+    <button class="cite__btn" type="button" data-cite-copy data-copied="{{ i18n "cite_copied" }}">{{ i18n "cite_copy" }}</button>
+  </aside>
   {{ end }}
 </article>
 {{ end }}

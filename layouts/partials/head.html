@@ -34,22 +34,43 @@
 {{ $css := resources.Get "css/main.css" | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">{{ end }}
-{{- /* Structured data (schema.org) for search engines */ -}}
-{{ if .IsHome }}
+{{- /* Structured data (schema.org) — one disambiguated Person, reused as author everywhere */ -}}
 {{ $same := slice }}
 {{ with .Site.Params.linkedin }}{{ $same = $same | append . }}{{ end }}
 {{ with .Site.Params.orcid }}{{ $same = $same | append . }}{{ end }}
 {{ with .Site.Params.googleScholar }}{{ $same = $same | append . }}{{ end }}
-<script type="application/ld+json">
-{{ dict
-  "@context" "https://schema.org"
+{{ with .Site.Params.github }}{{ $same = $same | append . }}{{ end }}
+{{ $person := dict
   "@type" "Person"
+  "@id" (printf "%s#person" .Site.BaseURL)
   "name" "Seunghoon Choi"
   "alternateName" "최승훈"
   "url" .Site.BaseURL
-  "jobTitle" .Site.Params.role
+  "jobTitle" "Computational Materials Scientist"
   "affiliation" (dict "@type" "Organization" "name" "University of Florida")
-  "sameAs" $same
+  "alumniOf" (dict "@type" "Organization" "name" "Sungkyunkwan University")
+  "knowsAbout" (slice "Computational Materials Science" "Materials Engineering" "Artificial Intelligence" "Battery Materials" "Simulation")
+  "email" (printf "mailto:%s" .Site.Params.email)
+  "sameAs" $same }}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{{ merge (dict "@context" "https://schema.org") $person | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{ end }}
+{{ if and .IsPage (not .Date.IsZero) (not .Params.doi) }}
+<script type="application/ld+json">
+{{ dict
+  "@context" "https://schema.org"
+  "@type" "BlogPosting"
+  "headline" .Title
+  "url" .Permalink
+  "datePublished" (.Date.Format "2006-01-02")
+  "dateModified" (.Lastmod.Format "2006-01-02")
+  "inLanguage" .Site.Language.Lang
+  "keywords" (delimit (.Params.tags | default slice) ", ")
+  "author" $person
+  "publisher" $person
+  "mainEntityOfPage" .Permalink
   | jsonify (dict "indent" "  ") | safeJS }}
 </script>
 {{ end }}

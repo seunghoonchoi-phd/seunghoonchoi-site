@@ -61,3 +61,15 @@ other = "한국어"
 other = "All rights reserved."
 [search_placeholder]
 other = "Filter…"
+[by]
+other = "By"
+[author_name]
+other = "Seunghoon Choi"
+[cite_this]
+other = "Cite this"
+[cite_copy]
+other = "Copy citation"
+[cite_copied]
+other = "Copied!"
+[copy_source]
+other = "Source"
