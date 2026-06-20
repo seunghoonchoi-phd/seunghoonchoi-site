@@ -43,7 +43,7 @@ body.lang-en .nav__link{text-transform:uppercase;letter-spacing:.05em}
 /* dropdown groups */
 .nav__group{position:relative;display:inline-flex;align-items:center}
 .nav__toggle{background:none;border:0;cursor:pointer;display:inline-flex;align-items:center;gap:5px}
-.nav__caret{font-size:9px;line-height:1;color:var(--muted);transition:transform .25s var(--ease),color .25s}
+.nav__caret{display:none}
 .nav__group:hover .nav__caret,.nav__group:focus-within .nav__caret,.nav__group.is-open .nav__caret{transform:rotate(180deg);color:var(--copper)}
 .nav__menu{position:absolute;top:100%;left:50%;transform:translateX(-50%) translateY(8px);min-width:184px;
   background:var(--navy);border:0;border-radius:11px;box-shadow:0 16px 38px rgba(13,27,76,.30);
@@ -325,12 +325,12 @@ body.lang-en .home-hero__tag{font-family:var(--serif);font-style:italic;font-siz
 .hsec{max-width:var(--maxw);margin:0 auto;padding:clamp(40px,5vw,60px) clamp(20px,5vw,56px);border-top:1px solid var(--hair)}
 .home-full > .hsec:first-child{border-top:0}
 .hsec__head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin:0 0 28px}
-.hsec__h{font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:clamp(1.45rem,2.3vw,1.85rem);font-weight:700;letter-spacing:-.01em;color:var(--navy);margin:0}
+.hsec__h{font-family:var(--serif-en);font-size:clamp(1.6rem,2.6vw,2.1rem);font-weight:600;letter-spacing:-.01em;color:var(--navy);margin:0}
 .hsec__more{font-size:.92rem;color:var(--muted);white-space:nowrap}
 .hsec__more:hover{color:var(--copper)}
-.hsec--contact .contact-list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,1fr);gap:2px 44px;max-width:860px}
+.hsec--contact .contact-list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:2px 56px;max-width:760px}
 .contact-list li{display:flex;align-items:baseline;justify-content:space-between;gap:14px;padding:13px 0;border-bottom:1px solid var(--hair);font-size:.95rem}
 .contact-list span{color:var(--muted);flex:none}
-.contact-list a{color:var(--navy);font-weight:500;word-break:break-all;text-align:right}
+.contact-list a{color:var(--navy);font-weight:500;word-break:keep-all;text-align:right}
 .contact-list a:hover{color:var(--copper)}
 @media(max-width:760px){.hsec--contact .contact-list{grid-template-columns:1fr}}
