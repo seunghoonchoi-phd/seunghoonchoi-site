@@ -1,7 +1,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="5h_1hvrNbXYfdfI3_LSVPdx4zljugAFwu2eFw9YcXnA">
-<title>{{ if .IsHome }}{{ .Site.Title }} · {{ .Site.Params.role }}{{ else }}{{ with .Params.seoTitle }}{{ . }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}{{ end }}</title>
+<title>{{ if .IsHome }}{{ .Site.Title }} · {{ .Site.Params.role }}{{ else }}{{ with .Params.seoTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }} · {{ i18n "brand" }}{{ end }}</title>
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Params.seoTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">

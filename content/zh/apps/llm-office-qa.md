@@ -1,5 +1,6 @@
 ---
 title: "llm-office-qa — AI 生成 Office 文件的开源 QA"
+seoTitle: "自动检查 AI 生成的 PPT·Excel·Word 缺陷的开源工具 — llm-office-qa"
 date: 2026-06-16
 categories: ["Tools"]
 tags: ["open-source", "ai"]

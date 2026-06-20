@@ -1,5 +1,6 @@
 ---
 title: "把对话变成知识资产 —— 我用的三段式 AI 信息提取提示系统"
+seoTitle: "三段式 AI 信息提取提示系统 — 把对话变成 Notion 知识资产"
 date: 2026-06-20
 categories: ["Guide"]
 tags: ["ai", "llm", "prompt-engineering", "knowledge-management", "notion"]

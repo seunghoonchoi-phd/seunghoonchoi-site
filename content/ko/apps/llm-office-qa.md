@@ -1,5 +1,6 @@
 ---
 title: "llm-office-qa — AI 산출물 QA 오픈소스"
+seoTitle: "AI가 만든 PPT·엑셀·워드 결함 자동 검사 오픈소스 — llm-office-qa"
 date: 2026-06-16
 categories: ["도구"]
 tags: ["오픈소스", "ai"]

@@ -1,5 +1,6 @@
 ---
 title: "Advanced Functional Materials 백커버 선정"
+seoTitle: "전도성 헤어리 파이버 멀티모달 센서 — AFM 백커버 선정 연구"
 date: 2019-12-10
 categories: ["수상·소식"]
 tags: ["센서", "AFM"]

@@ -1,5 +1,6 @@
 ---
 title: "Turning Conversations into Knowledge — My 3-Stage AI Extraction Prompt System"
+seoTitle: "A 3-Stage AI Extraction Prompt System — Turn Chats into Knowledge"
 date: 2026-06-20
 categories: ["Guide"]
 tags: ["ai", "llm", "prompt-engineering", "knowledge-management", "notion"]

@@ -1,5 +1,6 @@
 ---
 title: "Korean Naturalization Exam — Free Practice App"
+seoTitle: "Korean Naturalization Exam Practice — Free Written, Essay & Oral App"
 date: 2026-06-14
 categories: ["Tools"]
 tags: ["app"]

@@ -1,5 +1,6 @@
 ---
 title: "llm-office-qa — open-source QA for AI-generated Office files"
+seoTitle: "Auto-QA for AI-Generated PowerPoint, Excel & Word — Open-Source Linter"
 date: 2026-06-16
 categories: ["Tools"]
 tags: ["open-source", "ai"]

@@ -1,5 +1,6 @@
 ---
 title: "Selected as a Back Cover in Advanced Functional Materials"
+seoTitle: "Conductive Hairy-Fiber Multimodal Sensor — AFM Back Cover"
 date: 2019-12-10
 categories: ["Recognition"]
 tags: ["sensors", "AFM"]

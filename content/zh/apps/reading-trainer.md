@@ -1,5 +1,6 @@
 ---
 title: "ReadFast — 基于证据的外语阅读训练（免费应用）"
+seoTitle: "更快读英文·中文的免费阅读训练 App — 基于证据的 ReadFast"
 date: 2026-06-16
 categories: ["Tools"]
 tags: ["reading", "speed-reading", "app", "english", "chinese"]

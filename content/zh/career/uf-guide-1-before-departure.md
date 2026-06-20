@@ -1,5 +1,6 @@
 ---
 title: "从录取到出国——从读懂录取通知到完成海外汇款"
+seoTitle: "美国研究生录取后到出国的准备清单 — 从录取通知到海外汇款"
 date: 2026-06-17T17:00:00+09:00
 categories: ["Study Abroad"]
 tags: ["grad school","study abroad","F-1","relocation"]

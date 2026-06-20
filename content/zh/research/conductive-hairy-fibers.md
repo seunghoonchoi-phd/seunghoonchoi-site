@@ -1,5 +1,6 @@
 ---
 title: "入选《Advanced Functional Materials》封底"
+seoTitle: "导电纤毛纤维多模态传感器 — 入选 AFM 封底的研究"
 date: 2019-12-10
 categories: ["Recognition"]
 tags: ["sensors", "AFM"]

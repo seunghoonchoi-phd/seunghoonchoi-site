@@ -1,5 +1,6 @@
 ---
 title: "用 AI 的公司 vs 离了 AI 就转不动的公司 —— 什么才是 AI 原生组织"
+seoTitle: "什么才是 AI 原生组织 — 离了 AI 就转不动的 6 阶段成熟度模型"
 date: 2026-06-20
 categories: ["Essay"]
 tags: ["ai", "ai-native", "organization-design", "automation", "governance"]

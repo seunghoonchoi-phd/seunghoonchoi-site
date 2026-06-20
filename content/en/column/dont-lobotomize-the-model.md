@@ -1,5 +1,6 @@
 ---
 title: "Why AI QA tools make output worse — don't lobotomize the model"
+seoTitle: "Why AI QA Tools Make Output Worse — Catch Mistakes, Not Taste"
 date: 2026-06-16
 categories: ["Essay"]
 tags: ["ai", "tools", "LLM"]

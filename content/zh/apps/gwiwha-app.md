@@ -1,5 +1,6 @@
 ---
 title: "韩国归化考试综合评价练习 — 免费应用"
+seoTitle: "韩国归化考试综合评价免费练习 App — 笔试·作文·口试 277 题"
 date: 2026-06-14
 categories: ["Tools"]
 tags: ["app"]

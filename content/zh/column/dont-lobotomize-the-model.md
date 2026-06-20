@@ -1,5 +1,6 @@
 ---
 title: "AI 校验工具为何反而拖垮成品 —— 别把模型变笨"
+seoTitle: "AI 校验工具为何反而拖垮成品 — 只抓错误，把品味留给模型"
 date: 2026-06-16
 categories: ["Essay"]
 tags: ["ai", "tools", "LLM"]

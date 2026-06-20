@@ -1,5 +1,6 @@
 ---
 title: "Using AI vs Being AI-Native — What an AI-Native Organization Actually Is"
+seoTitle: "What an AI-Native Organization Really Is — A 6-Stage Maturity Model"
 date: 2026-06-20
 categories: ["Essay"]
 tags: ["ai", "ai-native", "organization-design", "automation", "governance"]
