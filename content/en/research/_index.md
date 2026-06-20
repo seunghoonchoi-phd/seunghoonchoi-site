@@ -1,7 +1,7 @@
 ---
 title: "Research"
 ---
-Computational materials design using first-principles calculations and machine learning; multi-fidelity modeling for accelerated discovery; structure–processing–property relationships in complex energy materials; and data-driven optimization of microstructure formation and interfacial phenomena.
+I want to make materials and manufacturing processes more predictable. By combining atomic-scale calculations, machine learning, and process data, I try to explain which structures lead to which properties. This page gathers the research and industry experience behind my writing and tools.
 
 [**Download full CV (PDF) ↗**](/cv/Seunghoon_Choi_CV.pdf)
 
