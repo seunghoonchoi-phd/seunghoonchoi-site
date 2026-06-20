@@ -1,59 +1,68 @@
 {{ define "main" }}
-<section class="hero">
-  <svg class="hero__molecule" viewBox="0 0 600 600" aria-hidden="true" preserveAspectRatio="xMidYMid slice">
-    <g class="mol">
-      <line x1="120" y1="150" x2="300" y2="90"/><line x1="300" y1="90" x2="470" y2="170"/>
-      <line x1="300" y1="90" x2="320" y2="280"/><line x1="120" y1="150" x2="160" y2="330"/>
-      <line x1="160" y1="330" x2="320" y2="280"/><line x1="320" y1="280" x2="480" y2="360"/>
-      <line x1="160" y1="330" x2="240" y2="500"/><line x1="320" y1="280" x2="400" y2="500"/>
-      <line x1="240" y1="500" x2="400" y2="500"/><line x1="480" y1="360" x2="400" y2="500"/>
-      <circle cx="120" cy="150" r="7"/><circle cx="300" cy="90" r="10"/><circle cx="470" cy="170" r="6"/>
-      <circle cx="320" cy="280" r="9"/><circle cx="160" cy="330" r="7"/><circle cx="480" cy="360" r="6"/>
-      <circle cx="240" cy="500" r="8"/><circle cx="400" cy="500" r="7" class="mol__cu"/>
-    </g>
-  </svg>
-  <div class="hero__inner reveal">
+<div class="portal">
+
+  {{/* LEFT — identity */}}
+  <aside class="portal__id">
     <p class="eyebrow"><span class="eyebrow__rule"></span> {{ .Site.Params.role }}</p>
-    {{ $nameParts := split .Site.Title " " }}
-    <h1 class="hero__name">{{ index $nameParts 0 }}<br><span class="hero__name-accent">{{ delimit (after 1 $nameParts) " " }}</span></h1>
-    <p class="hero__tagline">{{ .Site.Params.tagline }}</p>
-    <div class="hero__intro">{{ .Content }}</div>
-  </div>
-</section>
+    {{ $n := split .Site.Title " " }}
+    <h1 class="portal__name">{{ index $n 0 }}<br><span class="hero__name-accent">{{ delimit (after 1 $n) " " }}</span></h1>
+    <p class="portal__tag">{{ .Site.Params.tagline }}</p>
+    <div class="portal__visual" aria-hidden="true">
+      <svg viewBox="0 40 600 470" preserveAspectRatio="xMidYMid slice" class="portal__mol">
+        <line x1="120" y1="150" x2="300" y2="90"/><line x1="300" y1="90" x2="470" y2="170"/>
+        <line x1="300" y1="90" x2="320" y2="280"/><line x1="120" y1="150" x2="160" y2="330"/>
+        <line x1="160" y1="330" x2="320" y2="280"/><line x1="320" y1="280" x2="480" y2="360"/>
+        <line x1="160" y1="330" x2="240" y2="500"/><line x1="320" y1="280" x2="400" y2="500"/>
+        <line x1="240" y1="500" x2="400" y2="500"/><line x1="480" y1="360" x2="400" y2="500"/>
+        <circle cx="120" cy="150" r="7"/><circle cx="300" cy="90" r="10"/><circle cx="470" cy="170" r="6"/>
+        <circle cx="320" cy="280" r="9"/><circle cx="160" cy="330" r="7"/><circle cx="480" cy="360" r="6"/>
+        <circle cx="240" cy="500" r="8"/><circle cx="400" cy="500" r="7" class="mol__cu"/>
+      </svg>
+    </div>
+    <div class="portal__intro">{{ .Content }}</div>
+    <nav class="portal__quick" aria-label="{{ i18n "explore" }}">
+      <a href="{{ "research/" | relLangURL }}">{{ i18n "research" }}<span aria-hidden="true">→</span></a>
+      <a href="{{ "about/" | relLangURL }}">{{ i18n "about" }}<span aria-hidden="true">→</span></a>
+    </nav>
+  </aside>
 
-{{/* Site directory — what's here, at a glance */}}
-{{ $dir := slice
-  (dict "u" "research/" "label" (i18n "research") "desc" (i18n "dir_research"))
-  (dict "u" "column/"   "label" (i18n "writing")  "desc" (i18n "dir_writing"))
-  (dict "u" "youtube/"  "label" (i18n "youtube")  "desc" (i18n "dir_youtube"))
-  (dict "u" "apps/"     "label" (i18n "apps")     "desc" (i18n "dir_apps"))
-  (dict "u" "career/"   "label" (i18n "career")   "desc" (i18n "dir_career"))
-  (dict "u" "about/"    "label" (i18n "about")    "desc" (i18n "dir_about")) }}
-<nav class="home-dir reveal" aria-label="{{ i18n "explore" }}">
-  <div class="home-dir__grid">
-    {{ range $dir }}
-    <a class="dircard" href="{{ .u | relLangURL }}">
-      <span class="dircard__label">{{ .label }}</span>
-      <span class="dircard__desc">{{ .desc }}</span>
-      <span class="dircard__arrow" aria-hidden="true">→</span>
-    </a>
-    {{ end }}
-  </div>
-</nav>
+  {{/* CENTER — latest writing + section bands */}}
+  <main class="portal__main">
+    <header class="portal__head">
+      <h2 class="portal__h2">{{ i18n "latest" }}</h2>
+      <a class="portal__more" href="{{ "column/" | relLangURL }}">{{ i18n "view_all" }} ›</a>
+    </header>
+    {{ $sections := slice "research" "column" "books" "literature" "youtube" "apps" "career" }}
+    {{ $feed := (where .Site.RegularPages "Section" "in" $sections).ByDate.Reverse }}
+    <div class="cards portal__cards">
+      {{ range first 4 $feed }}{{ partial "post-card.html" . }}{{ end }}
+    </div>
+    <div class="portal__bands">
+      <a class="band" href="{{ "column/" | relLangURL }}">
+        <h3>{{ i18n "writing" }}</h3>
+        <p>{{ i18n "dir_writing" }}</p>
+        <span class="band__sub">{{ i18n "column" }} · {{ i18n "books" }} · {{ i18n "literature" }} →</span>
+      </a>
+      <a class="band" href="{{ "apps/" | relLangURL }}">
+        <h3>{{ i18n "resources" }}</h3>
+        <p>{{ i18n "dir_apps" }} · {{ i18n "dir_career" }}</p>
+        <span class="band__sub">{{ i18n "apps" }} · {{ i18n "career" }} · {{ i18n "youtube" }} →</span>
+      </a>
+    </div>
+  </main>
 
-{{/* Recent content feed — newly added items across all sections, newest first */}}
-{{ $sections := slice "research" "column" "books" "literature" "youtube" "apps" "career" }}
-{{ $feed := (where .Site.RegularPages "Section" "in" $sections).ByDate.Reverse }}
-{{ with $feed }}
-<section class="home-sec home-feed reveal">
-  <header class="section__head">
-    <h2 class="section__title">{{ i18n "latest" }}</h2>
-  </header>
-  <div class="cards">
-    {{ range first 9 . }}
-      {{ partial "post-card.html" . }}
-    {{ end }}
-  </div>
-</section>
-{{ end }}
+  {{/* RIGHT — contact card */}}
+  <aside class="portal__contact">
+    <h2 class="portal__ch">{{ i18n "contact" }}</h2>
+    <ul class="clist">
+      <li><span>{{ i18n "email_university" }}</span><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
+      <li><span>{{ i18n "email_personal" }}</span><a href="mailto:{{ .Site.Params.emailPersonal }}">{{ .Site.Params.emailPersonal }}</a></li>
+      <li><span>LinkedIn</span><a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">↗</a></li>
+      <li><span>ORCID</span><a href="{{ .Site.Params.orcid }}" target="_blank" rel="noopener">↗</a></li>
+      <li><span>Scholar</span><a href="{{ .Site.Params.googleScholar }}" target="_blank" rel="noopener">↗</a></li>
+      <li><span>GitHub</span><a href="{{ .Site.Params.github }}" target="_blank" rel="noopener">↗</a></li>
+    </ul>
+  </aside>
+
+</div>
 {{ end }}
