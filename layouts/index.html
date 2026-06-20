@@ -1,74 +1,51 @@
 {{ define "main" }}
-<div class="portal">
 
-  {{/* LEFT RAIL — identity + contact */}}
-  <div class="portal__rail">
-    <aside class="portal__id">
-      <p class="eyebrow"><span class="eyebrow__rule"></span> {{ .Site.Params.role }}</p>
-      {{ $n := split .Site.Title " " }}
-      <h1 class="portal__name">{{ index $n 0 }}<br><span class="hero__name-accent">{{ delimit (after 1 $n) " " }}</span></h1>
-      <p class="portal__tag">{{ .Site.Params.tagline }}</p>
-      <div class="portal__intro">{{ .Content }}</div>
-    </aside>
-
-    <aside class="portal__contact">
-      <h2 class="portal__ch">Contact</h2>
-      <ul class="clist">
-        <li><span>{{ i18n "email_university" }}</span><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
-        <li><span>{{ i18n "email_personal" }}</span><a href="mailto:{{ .Site.Params.emailPersonal }}">{{ .Site.Params.emailPersonal }}</a></li>
-        <li><span>LinkedIn</span><a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">seunghoon-choi ↗</a></li>
-        <li><span>ORCID</span><a href="{{ .Site.Params.orcid }}" target="_blank" rel="noopener">{{ path.Base .Site.Params.orcid }} ↗</a></li>
-        <li><span>Scholar</span><a href="{{ .Site.Params.googleScholar }}" target="_blank" rel="noopener">{{ i18n "profile" }} ↗</a></li>
-        <li><span>GitHub</span><a href="{{ .Site.Params.github }}" target="_blank" rel="noopener">{{ path.Base .Site.Params.github }} ↗</a></li>
-      </ul>
-    </aside>
+{{/* ===== HERO — identity only (first screen) ===== */}}
+<section class="home-hero">
+  <p class="eyebrow"><span class="eyebrow__rule"></span> {{ .Site.Params.role }}</p>
+  {{ $n := split .Site.Title " " }}
+  <h1 class="home-hero__name">{{ index $n 0 }}<br><span class="hero__name-accent">{{ delimit (after 1 $n) " " }}</span></h1>
+  <p class="home-hero__tag">{{ .Site.Params.tagline }}</p>
+  <div class="home-hero__intro">{{ .Content }}</div>
+  <div class="home-hero__cta">
+    <a class="btn btn--primary" href="#contact">Contact</a>
+    <a class="btn btn--ghost" href="{{ "research/" | relLangURL }}">Research</a>
   </div>
+</section>
 
-  {{/* RIGHT — Highlighted (research achievements, cover-rich) */}}
-  <main class="portal__main">
-    <header class="portal__head">
-      <h2 class="portal__h2">Highlighted</h2>
-      <a class="portal__more" href="{{ "research/" | relLangURL }}">{{ i18n "view_all" }} ›</a>
-    </header>
-    {{ $hl := (where .Site.RegularPages "Section" "research").ByDate.Reverse }}
-    <div class="cards portal__cards">
-      {{ range first 6 $hl }}{{ partial "post-card.html" . }}{{ end }}
-    </div>
-  </main>
-
-</div>
-
-{{/* ===== full content — sections reveal on scroll ===== */}}
+{{/* ===== full content — clean paper, sections reveal on scroll ===== */}}
 <div class="home-full">
 
   <section class="hsec reveal">
-    <div class="hsec__head">
-      <h2 class="hsec__h">Writing</h2>
-      <a class="hsec__more" href="{{ "column/" | relLangURL }}">{{ i18n "view_all" }} ›</a>
-    </div>
-    <div class="cards hsec__grid">
-      {{ range first 6 (where .Site.RegularPages "Section" "in" (slice "column" "books" "literature")).ByDate.Reverse }}{{ partial "post-card.html" . }}{{ end }}
-    </div>
+    <div class="hsec__head"><h2 class="hsec__h">Highlighted</h2><a class="hsec__more" href="{{ "research/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
+    <div class="cards hsec__grid">{{ range first 3 (where .Site.RegularPages "Section" "research").ByDate.Reverse }}{{ partial "post-card.html" . }}{{ end }}</div>
   </section>
 
   <section class="hsec reveal">
-    <div class="hsec__head">
-      <h2 class="hsec__h">Apps &amp; Tools</h2>
-      <a class="hsec__more" href="{{ "apps/" | relLangURL }}">{{ i18n "view_all" }} ›</a>
-    </div>
-    <div class="cards hsec__grid">
-      {{ range (where .Site.RegularPages "Section" "apps").ByDate.Reverse }}{{ partial "post-card.html" . }}{{ end }}
-    </div>
+    <div class="hsec__head"><h2 class="hsec__h">Writing</h2><a class="hsec__more" href="{{ "column/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
+    <div class="cards hsec__grid">{{ range first 6 (where .Site.RegularPages "Section" "in" (slice "column" "books" "literature")).ByDate.Reverse }}{{ partial "post-card.html" . }}{{ end }}</div>
   </section>
 
   <section class="hsec reveal">
-    <div class="hsec__head">
-      <h2 class="hsec__h">Career</h2>
-      <a class="hsec__more" href="{{ "career/" | relLangURL }}">{{ i18n "view_all" }} ›</a>
-    </div>
-    <div class="cards hsec__grid">
-      {{ range first 6 (where .Site.RegularPages "Section" "career").ByDate.Reverse }}{{ partial "post-card.html" . }}{{ end }}
-    </div>
+    <div class="hsec__head"><h2 class="hsec__h">Apps &amp; Tools</h2><a class="hsec__more" href="{{ "apps/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
+    <div class="cards hsec__grid">{{ range (where .Site.RegularPages "Section" "apps").ByDate.Reverse }}{{ partial "post-card.html" . }}{{ end }}</div>
+  </section>
+
+  <section class="hsec reveal">
+    <div class="hsec__head"><h2 class="hsec__h">Career</h2><a class="hsec__more" href="{{ "career/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
+    <div class="cards hsec__grid">{{ range first 6 (where .Site.RegularPages "Section" "career").ByDate.Reverse }}{{ partial "post-card.html" . }}{{ end }}</div>
+  </section>
+
+  <section class="hsec reveal hsec--contact" id="contact">
+    <div class="hsec__head"><h2 class="hsec__h">Contact</h2></div>
+    <ul class="contact-list">
+      <li><span>{{ i18n "email_university" }}</span><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
+      <li><span>{{ i18n "email_personal" }}</span><a href="mailto:{{ .Site.Params.emailPersonal }}">{{ .Site.Params.emailPersonal }}</a></li>
+      <li><span>LinkedIn</span><a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">seunghoon-choi ↗</a></li>
+      <li><span>ORCID</span><a href="{{ .Site.Params.orcid }}" target="_blank" rel="noopener">{{ path.Base .Site.Params.orcid }} ↗</a></li>
+      <li><span>Scholar</span><a href="{{ .Site.Params.googleScholar }}" target="_blank" rel="noopener">{{ i18n "profile" }} ↗</a></li>
+      <li><span>GitHub</span><a href="{{ .Site.Params.github }}" target="_blank" rel="noopener">{{ path.Base .Site.Params.github }} ↗</a></li>
+    </ul>
   </section>
 
 </div>
