@@ -36,6 +36,7 @@ img{max-width:100%;height:auto}
 .brand__core{fill:var(--copper)}
 .nav{display:flex;align-items:center;gap:30px}
 .nav__link{position:relative;font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:18px;font-weight:500;letter-spacing:.01em;color:var(--ink-soft);padding:6px 0;transition:color .25s}
+body.lang-en .nav__link{text-transform:uppercase;letter-spacing:.05em}
 .nav__link::after{content:"";position:absolute;left:0;bottom:-2px;width:0;height:1.5px;background:var(--copper);transition:width .3s var(--ease)}
 .nav__link:hover{color:var(--navy)} .nav__link:hover::after{width:100%}
 .nav__link.is-active{color:var(--navy)} .nav__link.is-active::after{width:100%}
@@ -317,7 +318,7 @@ body.lang-en .portal__tag{font-family:var(--serif);font-style:italic}
 .portal__intro{font-size:1.06rem;color:var(--ink-soft);line-height:1.62;margin:0 0 8px;max-width:660px}
 .portal__intro p{margin:0 0 14px}
 .portal__contact{background:var(--navy);border-radius:12px;padding:20px 24px;margin-top:auto}
-.portal__ch{font-size:1.3rem;color:#fff;margin:0 0 12px;font-weight:700}
+.portal__ch{font-family:var(--serif-en);font-size:1.3rem;color:#fff;margin:0 0 12px;font-weight:700}
 body.lang-en .portal__ch{font-family:var(--serif)}
 .clist{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:0 36px}
 .clist li{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:8px 0;border-bottom:1px solid rgba(255,255,255,.13);font-size:.9rem}
