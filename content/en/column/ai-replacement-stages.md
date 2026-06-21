@@ -1,6 +1,7 @@
 ---
 title: "In What Order Does AI Replace Human Work? The Full 16-Stage Map"
 date: 2026-06-21T17:44:27+09:00
+draft: true
 categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "From tasks with clear right answers all the way to existence itself, a one-glance tour of the order in which AI takes over what people do"

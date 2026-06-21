@@ -1,6 +1,7 @@
 ---
 title: "AI会按什么顺序取代人类的工作——16个阶段全景图"
 date: 2026-06-21T17:44:27+09:00
+draft: true
 categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "从有标准答案的工作，一直到\"存在\"本身，一眼看清AI接管人类工作的先后次序"

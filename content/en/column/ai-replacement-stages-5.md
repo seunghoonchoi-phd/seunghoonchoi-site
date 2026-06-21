@@ -1,6 +1,7 @@
 ---
 title: "What to Do in the Age of AI — Bet on the Seat, Not the Skill"
 date: 2026-06-21T17:40:00+09:00
+draft: true
 categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "The goal isn't to become someone who's good enough not to be pushed out. It's to build something that stays in your hands even if you are."

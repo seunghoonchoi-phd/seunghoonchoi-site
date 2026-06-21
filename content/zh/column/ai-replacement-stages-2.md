@@ -1,6 +1,7 @@
 ---
 title: "身体与\"直觉\"终究也会被取代——AI时代的体力劳动与直觉（第6至8阶段）"
 date: 2026-06-21T17:43:00+09:00
+draft: true
 categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "从工厂机器人到老手的直觉：手和身体之所以能撑住的真正原因"

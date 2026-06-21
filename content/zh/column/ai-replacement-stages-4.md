@@ -1,6 +1,7 @@
 ---
 title: "AI时代的尽头——连所有权也崩塌，最后的变量是\"对齐\"（第15~16阶段）"
 date: 2026-06-21T17:41:00+09:00
+draft: true
 categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "当能力和所有权都失去力量，决定一个人能否活得好的唯一一件事"

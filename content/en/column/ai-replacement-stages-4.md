@@ -1,6 +1,7 @@
 ---
 title: "The End of the AI Era — When Ownership Crumbles, the Last Variable Is 'Alignment' (Stages 15–16)"
 date: 2026-06-21T17:41:00+09:00
+draft: true
 categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "Where skill and ownership have both lost their power, the one thing that decides whether people live well"

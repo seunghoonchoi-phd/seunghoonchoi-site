@@ -1,6 +1,7 @@
 ---
 title: "The Jobs AI Replaces First — The Mental Work With Right Answers Goes First (Stages 1–5)"
 date: 2026-06-21T17:44:00+09:00
+draft: true
 categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "From translation apps to automatic sign-offs: why the work whose answers can be checked is the first to fall"

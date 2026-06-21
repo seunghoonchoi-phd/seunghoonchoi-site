@@ -1,6 +1,7 @@
 ---
 title: "人类权限受法律保护的期限——挡住AI的不是能力，而是法律（第9～14阶段）"
 date: 2026-06-21T17:42:00+09:00
+draft: true
 categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "AI一旦做得好的事，几乎都会被交出去。决定还剩哪些位子的，不是实力，而是谁握着签字的权限。"

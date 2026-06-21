@@ -1,6 +1,7 @@
 ---
 title: "AI时代该做什么——押注\"位置\"，而不是\"能力\""
 date: 2026-06-21T17:40:00+09:00
+draft: true
 categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "目标不是让自己变得足够强、强到不被挤掉，而是即使被挤掉，也能在手里留下点东西"

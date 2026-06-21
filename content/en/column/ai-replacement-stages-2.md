@@ -1,6 +1,7 @@
 ---
 title: "The Body and the Gut Get Replaced Too — Physical Work and Intuition in the Age of AI (Stages 6–8)"
 date: 2026-06-21T17:43:00+09:00
+draft: true
 categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "From factory robots to a veteran's gut feeling: the real reason hands and bodies hold out"

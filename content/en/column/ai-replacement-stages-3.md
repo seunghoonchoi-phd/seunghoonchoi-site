@@ -1,6 +1,7 @@
 ---
 title: "How Long the Law Protects Human Authority — What Stops AI Isn't Skill, It's the Law (Stages 9–14)"
 date: 2026-06-21T17:42:00+09:00
+draft: true
 categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "Almost everything AI gets good at gets handed over. What decides which seats are left isn't talent — it's who holds the authority to sign."

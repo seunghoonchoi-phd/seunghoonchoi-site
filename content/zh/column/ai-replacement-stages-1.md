@@ -1,6 +1,7 @@
 ---
 title: "AI最先取代的工作——有标准答案的脑力活先消失（第1～5阶段）"
 date: 2026-06-21T17:44:00+09:00
+draft: true
 categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
 subtitle: "从翻译App到自动审批：为什么答案能被验证的工作最先被拿走"
