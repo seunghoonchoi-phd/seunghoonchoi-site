@@ -14,7 +14,7 @@
   </header>
   {{ $toc := printf "%s" .TableOfContents }}
   {{ if ge (len (findRE "<li" $toc)) 4 }}
-  <details class="post__toc" open><summary>{{ i18n "toc_title" }}</summary>{{ .TableOfContents }}</details>
+  <details class="post__toc reveal" open><summary>{{ i18n "toc_title" }}</summary>{{ .TableOfContents }}</details>
   {{ end }}
   <div class="post__body reveal">
     {{ .Content }}
