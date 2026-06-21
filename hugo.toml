@@ -51,6 +51,20 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
   instagram = "https://www.instagram.com/hoonchoi.mk1/"
   twitter = "https://x.com/herring2141"
 
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = true
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+  [[related.indices]]
+    name = "categories"
+    weight = 60
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
 [languages]
   [languages.en]
     label = "English"

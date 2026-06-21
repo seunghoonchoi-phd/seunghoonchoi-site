@@ -43,7 +43,8 @@
       {{ with .Site.Params.googleScholar }}<a href="{{ . }}" rel="nofollow noopener" target="_blank">Google Scholar ↗</a>{{ end }}
     </div>
   </aside>
-  {{ $rel := first 3 ((where (where .Site.RegularPages "Section" .Section) "Permalink" "!=" .Permalink).ByDate.Reverse) }}
+  {{ $rel := first 3 (where (.Site.RegularPages.Related .) "Section" .Section) }}
+  {{ if not $rel }}{{ $rel = first 3 ((where (where .Site.RegularPages "Section" .Section) "Permalink" "!=" .Permalink).ByDate.Reverse) }}{{ end }}
   {{ with $rel }}
   <nav class="post__more reveal" aria-label="{{ i18n "more_posts" }}">
     <h2 class="post__more-h">{{ i18n "more_posts" }}</h2>

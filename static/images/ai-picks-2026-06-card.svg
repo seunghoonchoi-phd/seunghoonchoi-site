@@ -1,0 +1,35 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="apTitle apDesc">
+  <title id="apTitle">AI 신작 큐레이션</title>
+  <desc id="apDesc">A curator's gallery wall of AI-made works — a grid of framed tiles with one highlighted in copper, marking a hand-picked selection.</desc>
+
+  <rect width="512" height="512" fill="#0D1B4C"/>
+
+  <!-- faint dot grid (brand texture) -->
+  <g fill="#ffffff" opacity="0.05">
+    <circle cx="64" cy="64" r="2"/><circle cx="128" cy="64" r="2"/><circle cx="192" cy="64" r="2"/><circle cx="320" cy="64" r="2"/><circle cx="384" cy="64" r="2"/><circle cx="448" cy="64" r="2"/>
+    <circle cx="64" cy="448" r="2"/><circle cx="128" cy="448" r="2"/><circle cx="320" cy="448" r="2"/><circle cx="384" cy="448" r="2"/><circle cx="448" cy="448" r="2"/>
+  </g>
+
+  <!-- gallery wall panel -->
+  <rect x="86" y="86" width="340" height="340" rx="20" fill="#F8F6F3"/>
+
+  <!-- framed tiles (curated works) -->
+  <g>
+    <!-- row 1 -->
+    <rect x="120" y="120" width="120" height="120" rx="10" fill="#E2DFD9"/>
+    <rect x="134" y="134" width="92" height="92" rx="6" fill="#2C3A78"/>
+    <rect x="272" y="120" width="120" height="120" rx="10" fill="#E2DFD9"/>
+    <rect x="286" y="134" width="92" height="92" rx="6" fill="#0D1B4C"/>
+    <!-- row 2 -->
+    <rect x="120" y="272" width="120" height="120" rx="10" fill="#E2DFD9"/>
+    <rect x="134" y="286" width="92" height="92" rx="6" fill="#0D1B4C"/>
+    <!-- highlighted pick (copper) -->
+    <rect x="272" y="272" width="120" height="120" rx="10" fill="#B87333"/>
+    <rect x="286" y="286" width="92" height="92" rx="6" fill="#C98F54"/>
+    <!-- curator star on the pick -->
+    <path d="M332 312 l9 18 l20 3 l-15 14 l4 20 l-18 -10 l-18 10 l4 -20 l-15 -14 l20 -3 z" fill="#F8F6F3"/>
+  </g>
+
+  <!-- copper accent corner tie -->
+  <circle cx="404" cy="108" r="11" fill="#B87333"/>
+</svg>
