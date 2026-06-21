@@ -51,6 +51,7 @@
     .badge-rev{font-size:.7rem;font-weight:700;color:#1b7a3d;background:#E7F6EC;border:1px solid #B7E4C7;border-radius:6px;padding:1px 7px;margin-left:8px;vertical-align:1px}
     .badge-unrev{font-size:.7rem;font-weight:700;color:#9a7b1f;background:#FBF1D6;border:1px solid #E8D6A8;border-radius:6px;padding:1px 7px;margin-left:8px;vertical-align:1px}
     .badge-partial{font-size:.7rem;font-weight:700;color:#8a6d1f;background:#FFF3D9;border:1px solid #EBD9B0;border-radius:6px;padding:1px 7px;margin-left:8px;vertical-align:1px}
+    .badge-sec{font-size:.7rem;font-weight:700;color:var(--navy);background:#EEF2FF;border:1px solid #C9D4F5;border-radius:6px;padding:1px 7px;margin-left:8px;vertical-align:1px}
     .lbtn.rev{background:#F2F0EC;color:#8A857C;border-color:#E1DCD3}
     .lbtn.rev:hover{border-color:#1b7a3d}
     .lbtn.rev.on{background:#E7F6EC;color:#1b7a3d;border-color:#B7E4C7}
@@ -229,7 +230,7 @@
         <div id="list"><p class="empty"><span class="spin"></span> 불러오는 중…</p></div>
       </section>
 
-      <p class="note">언어별 파일을 따로 편집합니다(<b>KO·EN·ZH</b>). 섹션 소개(_index)와 홈은 목록에 나오지 않습니다. 삭제는 모든 언어 파일을 함께 지웁니다.</p>
+      <p class="note">언어별 파일을 따로 편집합니다(<b>KO·EN·ZH</b>). <b>섹션 소개</b>(앱·도구/유학·정착 등 랜딩 본문)도 목록에 나오며 <span class="badge-sec" style="margin:0">섹션 소개</span> 배지가 붙습니다. 홈만 제외됩니다. 삭제는 모든 언어 파일을 함께 지웁니다.</p>
     </main>
   </div>
 
@@ -385,7 +386,7 @@
         for (const t of (data.tree||[])){
           if (t.type !== 'blob') continue;
           const m = t.path.match(re); if (!m) continue;
-          const rel = m[2]; if (/(^|\/)_index\.md$/.test(rel)) continue;
+          const rel = m[2]; if (rel === '_index.md') continue; // 홈(루트 _index)만 제외 — 섹션 소개(apps/_index 등)는 편집 허용
           (map[rel] = map[rel] || { rel, section: rel.split('/')[0], langs:{}, title:null });
           map[rel].langs[m[1]] = { path: t.path, sha: t.sha };
         }
@@ -423,7 +424,8 @@
           const revBadge = revN===0 ? '<span class="badge-unrev">미검수</span>'
             : (revN===order.length ? '<span class="badge-rev">검수완료</span>'
             : `<span class="badge-partial">검수 ${revN}/${order.length}</span>`);
-          const badge = (p.hidden ? '<span class="badge-hidden">숨김</span>' : '') + revBadge;
+          const secIntro = /\/_index\.md$/.test(p.rel) ? '<span class="badge-sec">섹션 소개</span>' : '';
+          const badge = secIntro + (p.hidden ? '<span class="badge-hidden">숨김</span>' : '') + revBadge;
           const hideBtn = `<button class="lbtn" style="background:#FFF3D9;color:#8a6d1f" data-hide="${idx}">${p.hidden?'표시':'숨기기'}</button>`;
           html += `<div class="post${p.hidden?' is-hidden':''}"><div class="post__main">
               <div class="post__title">${p.title?escapeHtml(p.title):'(제목 없음)'}${badge}</div>
