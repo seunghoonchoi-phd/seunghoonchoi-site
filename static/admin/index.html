@@ -237,7 +237,7 @@
        seunghoonchoi.com). The real secret — the GitHub token — lives only in the Cloudflare
        Worker secret, never here. localStorage still overrides these if you ever redeploy. */
     const DEFAULT_WORKER = 'https://misty-rain-d482.herring2141.workers.dev';
-    const DEFAULT_CLIENT = '163243749638-qqrpcq37umcbmvghidkfpuk0tffc875k.apps.googleusercontent.com';
+    const DEFAULT_CLIENT = '762378822293-i94suhfa5c3eq326h9ess6bt5b3t2kto.apps.googleusercontent.com';
     function worker(){ return (localStorage.getItem(WKEY) || DEFAULT_WORKER).replace(/\/+$/, ''); }
     function clientId(){ return (localStorage.getItem(CKEY) || DEFAULT_CLIENT).trim(); }
 
