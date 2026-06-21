@@ -1,0 +1,11 @@
+{{- with .File -}}
+<script>
+window.SC_EDIT = { path: "content/{{ $.Site.Language.Lang }}/{{ replace .Path "\\" "/" }}", lang: "{{ $.Site.Language.Lang }}" };
+(function(){ try{
+  if (localStorage.getItem('sc_admin_worker') && localStorage.getItem('sc_admin_google_client')) {
+    var s = document.createElement('script'); s.src = {{ (printf "admin/edit.js" ) | relURL | jsonify }}; s.defer = true;
+    document.body.appendChild(s);
+  }
+}catch(e){} })();
+</script>
+{{- end -}}
