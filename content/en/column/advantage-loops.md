@@ -7,6 +7,8 @@ tags: ["compounding","cumulative advantage","feedback loops","growth systems","l
 subtitle: "Starting from an even footing, how to grow a tiny advantage into a system that runs itself"
 seoTitle: "How a Small Edge Compounds: 7 Steps to a Real Advantage"
 image: /images/col-advantage-loops.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 ![A single domino tipping mid-fall in a long curving line, about to topple the next piece](/images/col-advantage-loops.jpg)
 

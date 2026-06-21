@@ -7,6 +7,8 @@ tags: ["environment design","compounding","career strategy","decision making","l
 subtitle: "The gap between extraordinary and ordinary outcomes is far wider than the gap in raw talent"
 seoTitle: "Choosing the Right Environment Beats Grinding on Skill"
 image: /images/col-choose-the-board.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 ![An empty go board with scattered black and white stones on a wooden table in soft window light](/images/col-choose-the-board.jpg)
 

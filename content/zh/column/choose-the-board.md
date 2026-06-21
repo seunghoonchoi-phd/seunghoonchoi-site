@@ -7,6 +7,8 @@ tags: ["environment design","compounding","career strategy","decision making","l
 subtitle: "非凡与平庸之间的差距,远大于天赋本身的差距"
 seoTitle: "选对环境比埋头苦练更重要 — 复利的棋盘"
 image: /images/col-choose-the-board.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 ![木桌上一块空棋盘,黑白棋子散落其上,窗光柔和洒落](/images/col-choose-the-board.jpg)
 

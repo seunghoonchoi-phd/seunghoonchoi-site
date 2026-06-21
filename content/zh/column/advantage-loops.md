@@ -7,6 +7,8 @@ tags: ["compounding","cumulative advantage","feedback loops","growth systems","l
 subtitle: "从同一起跑线出发，如何把一点点优势养成能自我运转的系统"
 seoTitle: "复利效应：把微小优势养成系统的7步"
 image: /images/col-advantage-loops.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 ![一排弯曲排列的多米诺骨牌中，一块正倾倒并即将推倒下一块](/images/col-advantage-loops.jpg)
 

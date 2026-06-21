@@ -7,6 +7,8 @@ tags: ["복리","누적우위","피드백 루프","성장 시스템","자산화"
 subtitle: "비슷한 출발선에서 시작해, 미세한 우위를 스스로 굴러가는 시스템으로 키우는 법"
 seoTitle: "복리 효과로 작은 우위를 키우는 7단계"
 image: /images/col-advantage-loops.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 ![긴 곡선으로 늘어선 도미노 중 하나가 쓰러지며 다음 조각을 향해 기울어지는 모습](/images/col-advantage-loops.jpg)
 

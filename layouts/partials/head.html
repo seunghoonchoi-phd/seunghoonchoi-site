@@ -1,6 +1,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="5h_1hvrNbXYfdfI3_LSVPdx4zljugAFwu2eFw9YcXnA">
+{{- /* Hidden pages: kept reachable (and listed in /admin/) but dropped from search + public listings. Pair `hidden: true` with `build: {list: never}` in front-matter. */ -}}
+{{ if .Params.hidden }}<meta name="robots" content="noindex, nofollow">{{ end }}
 <title>{{ if .IsHome }}{{ .Site.Title }} · {{ .Site.Params.role }}{{ else }}{{ with .Params.seoTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }} · {{ i18n "brand" }}{{ end }}</title>
 {{- /* Per-page meta description: explicit front-matter, else first-paragraph summary (pages), else site default. Helps AI search engines lift a clean snippet. */ -}}
 {{- $metadesc := .Site.Params.description -}}

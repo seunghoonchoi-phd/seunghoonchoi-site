@@ -47,6 +47,8 @@
     .editbtns{display:flex;gap:6px;flex-wrap:wrap}
     .lbtn{font-size:.76rem;font-weight:700;padding:5px 10px;border-radius:8px;border:1.5px solid var(--line);background:#EEF2FF;color:var(--navy);cursor:pointer}
     .lbtn:hover{border-color:var(--navy)}
+    .badge-hidden{font-size:.7rem;font-weight:700;color:#8a6d1f;background:#FFF3D9;border:1px solid #EBD9B0;border-radius:6px;padding:1px 7px;margin-left:8px;vertical-align:1px}
+    .post.is-hidden .post__title{color:var(--muted)}
     .sec{font-size:.78rem;font-weight:700;color:var(--copper);text-transform:uppercase;letter-spacing:.04em;margin:18px 0 2px}
     .empty{color:var(--muted);padding:18px 0;text-align:center}
     .spin{display:inline-block;width:15px;height:15px;border:2px solid #ccc;border-top-color:var(--navy);border-radius:50%;animation:r .8s linear infinite;vertical-align:-2px}
@@ -262,6 +264,16 @@
       if(key==='subtitle'){ const tre=/^(title:.*)$/m; if(tre.test(fmFull)) return fmFull.replace(tre, '$1\n'+line); }
       return fmFull.replace(/(\r?\n---\r?\n)$/, '\n'+line+'$1');
     }
+    /* hide/show: pair `hidden: true` with Hugo `build:{list:never}` so the page drops from every
+       public listing + sitemap + search (head.html adds noindex) yet stays reachable and editable
+       here in /admin/. Unhiding strips both lines. */
+    function isHiddenRaw(raw){ return /^hidden:[ \t]*true\b/m.test(splitDoc(raw).fmFull); }
+    function setHidden(raw, hide){
+      const d = splitDoc(raw); if(!d.hasFm) return raw;
+      let fm = d.fmFull.replace(/^hidden:[ \t]*.*\r?\n/m,'').replace(/^build:[ \t]*\{[^}]*\}[ \t]*\r?\n/m,'');
+      if(hide) fm = fm.replace(/(\r?\n---\r?\n)$/, '\nhidden: true\nbuild: {list: never, render: always}$1');
+      return fm + d.body;
+    }
 
     /* ---------- Google one-click ---------- */
     let ID_TOKEN = null;
@@ -352,7 +364,7 @@
         POSTS = Object.values(map).sort((a,b)=>a.rel.localeCompare(b.rel));
         await Promise.all(POSTS.map(async p => {
           const src = p.langs.ko || p.langs.en || p.langs.zh;
-          try{ const cr = await api('GET','file',{path:src.path}); if (cr.ok){ const cj=await cr.json(); p.title=titleFromMd(b64utf8(cj.content)); } }catch(e){}
+          try{ const cr = await api('GET','file',{path:src.path}); if (cr.ok){ const cj=await cr.json(); const txt=b64utf8(cj.content); p.title=titleFromMd(txt); p.hidden=isHiddenRaw(txt); } }catch(e){}
         }));
         render();
       }catch(e){ if (e.message!=='401'){ $('#list').innerHTML=''; setStatus(e.message,'err'); } }
@@ -371,15 +383,37 @@
         bySec[sec].forEach(p=>{
           const idx = POSTS.indexOf(p);
           const lbtns = ['ko','en','zh'].filter(l=>p.langs[l]).map(l=>`<button class="lbtn" data-idx="${idx}" data-lang="${l}">${l.toUpperCase()} 편집</button>`).join('');
-          html += `<div class="post"><div class="post__main">
-              <div class="post__title">${p.title?escapeHtml(p.title):'(제목 없음)'}</div>
+          const badge = p.hidden ? '<span class="badge-hidden">숨김</span>' : '';
+          const hideBtn = `<button class="lbtn" style="background:#FFF3D9;color:#8a6d1f" data-hide="${idx}">${p.hidden?'표시':'숨기기'}</button>`;
+          html += `<div class="post${p.hidden?' is-hidden':''}"><div class="post__main">
+              <div class="post__title">${p.title?escapeHtml(p.title):'(제목 없음)'}${badge}</div>
               <div class="post__path">${escapeHtml(p.rel)}</div></div>
-            <div class="editbtns">${lbtns}<button class="lbtn" style="background:#FDECEA;color:var(--danger)" data-del="${idx}">삭제</button></div></div>`;
+            <div class="editbtns">${lbtns}${hideBtn}<button class="lbtn" style="background:#FDECEA;color:var(--danger)" data-del="${idx}">삭제</button></div></div>`;
         });
       });
       list.innerHTML = html;
       list.querySelectorAll('button[data-lang]').forEach(b=>b.addEventListener('click',()=>openEditor(parseInt(b.dataset.idx,10),b.dataset.lang)));
       list.querySelectorAll('button[data-del]').forEach(b=>b.addEventListener('click',()=>delPost(parseInt(b.dataset.del,10),b)));
+      list.querySelectorAll('button[data-hide]').forEach(b=>b.addEventListener('click',()=>toggleHide(parseInt(b.dataset.hide,10),b)));
+    }
+
+    async function toggleHide(idx, btn){
+      const p = POSTS[idx]; const hide = !p.hidden;
+      if(!confirm(hide ? `"${p.title||p.rel}" 을(를) 공개 사이트에서 숨길까요?\n모든 언어(KO·EN·ZH)에서 숨겨지고, 관리자 페이지에서만 보입니다.` : `"${p.title||p.rel}" 을(를) 다시 공개할까요?`)) return;
+      const old = btn.textContent; btn.disabled=true; btn.innerHTML='<span class="spin"></span>';
+      try{
+        for(const l of ['ko','en','zh'].filter(l=>p.langs[l])){
+          const f = p.langs[l];
+          const gr = await api('GET','file',{path:f.path}); if(!gr.ok) throw new Error(l.toUpperCase()+' 읽기 실패('+gr.status+')');
+          const gj = await gr.json(); const raw = b64utf8(gj.content);
+          const next = setHidden(raw, hide); if(next===raw) continue;
+          const pr = await api('PUT','file',{ path:f.path, body:{ content:utf8b64(next), sha:gj.sha, message:(hide?'admin: hide ':'admin: unhide ')+f.path } });
+          if(!pr.ok) throw new Error(l.toUpperCase()+' 저장 실패('+pr.status+')');
+        }
+        p.hidden = hide;
+        setStatus((hide?'🙈 숨김 처리했습니다':'👁 다시 공개했습니다')+' — 1~2분 뒤 사이트에 반영됩니다.','ok');
+        render();
+      }catch(e){ if(e.message!=='401') setStatus(e.message,'err'); btn.disabled=false; btn.innerHTML=old; }
     }
 
     /* ---------- editor state ---------- */

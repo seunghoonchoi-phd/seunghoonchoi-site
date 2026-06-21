@@ -7,6 +7,8 @@ tags: ["환경설계","복리효과","커리어전략","의사결정","성장"]
 subtitle: "비범한 결과와 평범한 결과의 차이는, 재능의 차이보다 훨씬 크다"
 seoTitle: "실력보다 환경 선택이 먼저인 이유 — 복리의 판"
 image: /images/col-choose-the-board.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 ![나무 탁자 위에 흑백 바둑돌이 흩어진 빈 바둑판, 창으로 든 부드러운 빛](/images/col-choose-the-board.jpg)
 
