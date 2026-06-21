@@ -228,11 +228,18 @@
   </div>
 
   <script>
-    /* ---------- config (entered once, stored locally) ---------- */
+    /* ---------- config ---------- */
     const WKEY = 'sc_admin_worker', CKEY = 'sc_admin_google_client';
     const ALLOWED_EMAIL = 'herring2141@gmail.com';
-    function worker(){ return (localStorage.getItem(WKEY) || '').replace(/\/+$/, ''); }
-    function clientId(){ return (localStorage.getItem(CKEY) || '').trim(); }
+    /* Built-in defaults so it's "just Google login" on every device — no one-time setup screen.
+       Both are PUBLIC, non-secret values: the OAuth client id is meant to ship to the browser,
+       and the Worker is guarded server-side (verifies the Google token + email + CORS to
+       seunghoonchoi.com). The real secret — the GitHub token — lives only in the Cloudflare
+       Worker secret, never here. localStorage still overrides these if you ever redeploy. */
+    const DEFAULT_WORKER = 'https://misty-rain-d482.herring2141.workers.dev';
+    const DEFAULT_CLIENT = '163243749638-qqrpcq37umcbmvghidkfpuk0tffc875k.apps.googleusercontent.com';
+    function worker(){ return (localStorage.getItem(WKEY) || DEFAULT_WORKER).replace(/\/+$/, ''); }
+    function clientId(){ return (localStorage.getItem(CKEY) || DEFAULT_CLIENT).trim(); }
 
     const $ = s => document.querySelector(s);
     const statusEl = $('#status');
@@ -326,7 +333,12 @@
       if (!/apps\.googleusercontent\.com$/.test(c)){ alert('클라이언트 ID 형식이 올바르지 않습니다 (…apps.googleusercontent.com).'); return; }
       localStorage.setItem(WKEY, w); localStorage.setItem(CKEY, c); showGateStage();
     });
-    $('#changeCfg').addEventListener('click', () => { localStorage.removeItem(WKEY); localStorage.removeItem(CKEY); $('#deny').classList.remove('show'); showGateStage(); });
+    $('#changeCfg').addEventListener('click', () => {
+      // force the setup form open, pre-filled with the current effective values (defaults or overrides)
+      $('#wurl').value = worker(); $('#cid').value = clientId();
+      $('#deny').classList.remove('show'); $('#gateLoading').classList.add('hidden');
+      $('#setup').classList.remove('hidden'); $('#login').classList.add('hidden');
+    });
     $('#logout').addEventListener('click', () => { if (dirty && !confirm('저장 안 한 변경이 있습니다. 로그아웃할까요?')) return; if (window.google) google.accounts.id.disableAutoSelect(); location.reload(); });
 
     /* ---------- API via Worker ---------- */
