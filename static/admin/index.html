@@ -375,6 +375,19 @@
     const SEC_KO = {research:'연구',column:'칼럼',books:'책',literature:'문학집',youtube:'유튜브',apps:'앱',career:'커리어가이드',about:'소개'};
     let POSTS = [], CUR = null, dirty = false, view = 'edit', rawMode = false, draftTimer = null;
 
+    /* 검수 상태를 localStorage에 미러 → 같은 도메인 라이브 사이트가 카드에 '나만 보이는' 배지를 그림.
+       검수 상태가 공개 HTML엔 절대 안 들어감(소스 누출 0). 키 = 섹션/슬러그(rel에서 .md 제거). */
+    function writeReviewCache(){
+      try{
+        const map = {};
+        for(const p of POSTS){
+          const key = p.rel.replace(/\.md$/,'');
+          for(const l of Object.keys(p.langs)){ (map[key] = map[key] || {})[l] = !!p.langs[l].reviewed; }
+        }
+        localStorage.setItem('sc_review_status', JSON.stringify({ at: Date.now(), map }));
+      }catch(e){}
+    }
+
     async function loadPosts(){
       $('#list').innerHTML = '<p class="empty"><span class="spin"></span> 불러오는 중…</p>'; clearStatus();
       try{
@@ -401,7 +414,7 @@
             } }catch(e){}
           }));
         }));
-        render();
+        render(); writeReviewCache();
       }catch(e){ if (e.message!=='401'){ $('#list').innerHTML=''; setStatus(e.message,'err'); } }
     }
 
@@ -476,7 +489,7 @@
           const pj = await pr.json(); if(pj.content && pj.content.sha) f.sha = pj.content.sha;
         } else { f.sha = gj.sha; }
         f.reviewed = val;
-        render();
+        render(); writeReviewCache();
         setStatus((val?'✓ 검수 완료로 표시':'○ 미검수로 변경')+': <b>'+lang.toUpperCase()+'</b> '+escapeHtml(p.rel)+' — 외부 사이트엔 영향 없음.','ok');
       }catch(e){ if(e.message!=='401'){ setStatus(e.message,'err'); } btn.disabled=false; btn.innerHTML=old; }
     }

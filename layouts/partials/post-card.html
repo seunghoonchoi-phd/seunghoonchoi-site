@@ -1,6 +1,6 @@
 {{ $img := .Params.image }}
 {{ if not $img }}{{ $mm := findRESubmatch `<img[^>]+?src=["']([^"']+)["']` .Content }}{{ if gt (len $mm) 0 }}{{ $img = index (index $mm 0) 1 }}{{ end }}{{ end }}
-<article class="card reveal{{ if $img }} card--has-thumb{{ end }}" data-cat="{{ range .Params.categories }}{{ . | urlize }} {{ end }}">
+<article class="card reveal{{ if $img }} card--has-thumb{{ end }}" data-cat="{{ range .Params.categories }}{{ . | urlize }} {{ end }}"{{ with .File }} data-rk="{{ $.Section }}/{{ .ContentBaseName }}"{{ end }}>
   {{ with $img }}
   <a class="card__thumb" href="{{ $.RelPermalink }}" tabindex="-1" aria-hidden="true">
     <img src="{{ . }}" alt="" loading="lazy">

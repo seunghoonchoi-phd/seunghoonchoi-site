@@ -145,4 +145,36 @@
       }
     });
   }
+
+  /* Private review badges — admin-only. Status comes from localStorage (written by /admin/ on the
+     same origin), NEVER from page HTML, so non-admin visitors see nothing and the source never
+     leaks review state. Keyed by section/slug via [data-rk] on each card. */
+  function paintReviewBadges() {
+    var raw;
+    try { raw = localStorage.getItem("sc_review_status"); } catch (e) { return; }
+    if (!raw) return;
+    var map;
+    try { map = (JSON.parse(raw) || {}).map || {}; } catch (e) { return; }
+    document.querySelectorAll("[data-rk]").forEach(function (card) {
+      if (card.querySelector(".rv-badge")) return;
+      var st = map[card.getAttribute("data-rk")];
+      if (!st) return;
+      var langs = Object.keys(st);
+      if (!langs.length) return;
+      var n = 0; langs.forEach(function (l) { if (st[l]) n++; });
+      var total = langs.length, color, bg, bd, label;
+      if (n === 0) { label = "미검수"; color = "#9a7b1f"; bg = "#FBF1D6"; bd = "#E8D6A8"; }
+      else if (n === total) { label = "검수완료"; color = "#1b7a3d"; bg = "#E7F6EC"; bd = "#B7E4C7"; }
+      else { label = "검수 " + n + "/" + total; color = "#8a6d1f"; bg = "#FFF3D9"; bd = "#EBD9B0"; }
+      var meta = card.querySelector(".card__meta") || card;
+      var b = document.createElement("span");
+      b.className = "rv-badge";
+      b.textContent = label;
+      b.title = "검수 상태 · 나만 보임(외부 비공개)";
+      b.style.cssText = "display:inline-block;font-size:.66rem;font-weight:700;letter-spacing:.02em;padding:1px 7px;border-radius:6px;margin-left:8px;vertical-align:1px;color:" + color + ";background:" + bg + ";border:1px solid " + bd + ";";
+      meta.appendChild(b);
+    });
+  }
+  paintReviewBadges();
+  window.addEventListener("storage", function (e) { if (e.key === "sc_review_status") paintReviewBadges(); });
 })();
