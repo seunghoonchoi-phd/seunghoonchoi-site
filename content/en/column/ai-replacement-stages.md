@@ -1,93 +1,97 @@
 ---
-title: "How AI Replaces Human Work, in Order: A 16-Stage Roadmap and What Survives"
+title: "In What Order Does AI Replace Human Work? The Full 16-Stage Map"
 date: 2026-06-21T17:44:27+09:00
 categories: ["AI"]
 tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
-subtitle: "AI doesn't erase jobs at random — it moves in a fixed sequence, away from ability and toward presence. Here are all 16 stages, plus the seats that hold to the end: responsibility, ownership, judgment, and being there."
-seoTitle: "AI Job Replacement in 16 Stages: What Goes First, What Survives (AI-Era Survival Guide)"
+subtitle: "From tasks with clear right answers all the way to existence itself, a one-glance tour of the order in which AI takes over what people do"
+seoTitle: "The Order in Which AI Replaces Jobs — The Full 16-Stage Map of Disappearing Work"
 image: /images/col-ai-replacement-stages.jpg
+series: "ai-replacement-stages"
+weight: 1
 faq:
-  - q: "Which jobs does AI replace first?"
-    a: "Work with a verifiable right answer goes first — routine production (simple translation, basic coding, formatted reports), then expert analysis inside fixed frameworks, then reading what people want. Wherever correctness is decidable, AI has the home-field advantage."
-  - q: "What kind of work survives AI the longest?"
-    a: "Roles defined by presence rather than ability — accountability, ownership, judgment under uncertainty, and simply being a real person in the room. These shift from ability-type triggers (which fire automatically once AI can do the task) to delegation-type triggers (which only fire when a human hands over the authority)."
-  - q: "Is the order of AI replacement predictable?"
-    a: "The order is fairly reliable: work moves away from ability and toward presence. The timing, however, is speculative — and the final stage is not a prediction that it will happen, only that under the right conditions it could."
+  - q: "Does AI really replace work in a set order, or does it just take whatever it can grab?"
+    a: "There is an order. The fork in the road is whether you can check what's right and what's wrong. Work with a clear right answer — translation, basic coding — is easy for AI to practice on, so it gets pushed out first. Work with no right answer, like value judgments or the seat where someone takes responsibility, doesn't move on capability alone; it moves only when a person hands over the authority. So the flow runs from head work to physical work to authority to values, and finally to existence itself."
+  - q: "What's the difference between the \"capability type\" and the \"delegation type\"?"
+    a: "The capability type happens almost on its own the moment AI becomes able to do the work, and it's hard to stop. Translation is the classic case. It didn't happen because anyone granted permission — it just happened the moment AI got cheap and accurate. The delegation type happens only when a person hands over the decision, even if AI can already do the job. Decision-making authority and value judgments fall here, and since you can refuse to hand them over, they last longer."
+  - q: "So what is the last seat where people remain to the very end?"
+    a: "Any seat held by capability eventually gets pushed out. Capability is like a function: sooner or later it can be transplanted into a machine. What remains to the end is \"existing as a subject that has something to lose\" — taking responsibility, deciding what matters, staking your conviction knowing the loss is yours if you're wrong. And in the final, 16th stage, even that no longer rests on capability but on whether those who hold the power cherish people."
 ---
-![A lone person's silhouette at a misty window — the one seat that remains](/images/col-ai-replacement-stages.jpg)
+![In What Order Does AI Replace Human Work? The Full 16-Stage Map](/images/col-ai-replacement-stages.jpg)
 
-It's no longer news that AI is shrinking the amount of work people do. But the story isn't a vague "everything disappears." Things disappear in an order — and once you trace that order, one thing comes into focus: the *reason* a human stays in the work changes at every stage. First you stay because you do the work better. Then you stay because someone has to be accountable. Then you stay because someone has to decide what matters. And at the very end you stay because a real person simply has to be there. Step by step, the work moves away from ability and toward presence.
+You've probably typed a foreign sentence into a translation app at some point. Press the button and your own language appears in under a second. Work that a few years ago had to pass through a person to be finished is now done with a single tap. At the hospital, AI scans the X-ray first and marks the suspicious spots; when you write code, it fills in the next line on its own. Even the order of the videos we watch is set by a recommendation algorithm, not a person.
 
-One caveat up front. The order is fairly reliable; the timing is anyone's guess. How many years out each stage sits is pure speculation, and the final stage isn't a prediction that it *will* happen — only that, under the right conditions, it *could*. Each stage also has a trigger, and there are two kinds. **Ability-type:** the moment AI can do the thing, it happens almost automatically, and it's hard to stop. **Delegation-type:** even when AI can do it, it only happens if a human hands over the authority — and if no one hands it over, it doesn't happen. The further down the list you go, the more delegation-type triggers appear. That's exactly where humans hold the line.
+At this point everyone has the same thought. So what's next? When does my turn come?
 
-## Work with a right answer goes first
+## There's an order to disappearing, too
 
-**1. Routine production** — trigger: AI does tasks with a clear correct answer more cheaply and accurately. Simple translation, basic coding, formatted reports, calculation, summarizing. This is the first thing nobody needs a person for.
+AI doesn't take every job at once. Some work collapses first; other work doesn't wobble until much later. There's a reason for that order.
 
-**2. Expert analysis** — trigger: AI matches human professionals at expert judgment inside a fixed framework. Diagnosis, forecasting, analysis, design. The specialist stops being the one who produces the best work.
+Two triggers decide the order. The first is the kind that happens almost on its own the moment AI becomes able to do the work. Even if people try to stop it, it's hard to stop. Let's call this the capability type. The second is the kind that happens only when a person hands over the authority, even though AI can do it. Refuse to hand it over and you can stop it. This is the delegation type. Translation fell early because it's the capability type. It wasn't that anyone granted permission — the moment it got cheaper and more accurate, that was simply that.
 
-**3. Reading what people want** — trigger: AI predicts human reactions and preferences better than people do. Marketing, user experience, content that lands. Here's the counterintuitive part: understanding the human heart is something AI is *especially* good at, because it learned from billions of expressions of it. "Only a person understands people" is not a fortress.
+This piece is a guide that lays out the whole order like a map. From Stage 1 to Stage 16, it gives a quick tour of what each stage is and why it lands where it does. The detailed stories are unpacked stage by stage in the pieces that follow.
 
-What these share: there's a verifiable right answer. Anywhere correctness is decidable — Go, protein folding, code with tests attached — is AI's home turf. If your worth is producing the right answer, you're the first to be pushed out.
+## First, head work with clear right answers (Stages 1–3)
 
-## Next comes execution, then oversight
+**Stage 1. Production within a fixed form.** Simple translation, basic coding, reports in a set template, calculation and summarizing. Work with a clear right answer is the first to become unnecessary. Because right and wrong are obvious, it's easy for AI to practice on, and once it gets good, it's cheaper and faster than a person.
 
-**4. Multi-step autonomous execution** — trigger: AI runs multi-stage work end to end on its own. Hands-on doing and coordination vanish, and the human role narrows to setting the goal.
+**Stage 2. The expert's analysis.** Diagnosis, prediction, analysis, design — the kind of expert judgment made inside a set framework — AI does as well as a person. This is the point where the expert who studied for years is no longer "the best in the room."
 
-**5. Oversight becomes the obstacle** — trigger: AI's error rate drops below a human's on work that can be undone. When a person reviews, they add noise, not safety. The double-check seat disappears, and accountability piles nominally onto one person.
+**Stage 3. Reading people's minds.** Surprisingly, this is where AI is most at home. At guessing how people will react and what they'll like, AI gets ahead of people, because it has learned from the words and expressions left behind by billions. "Only a person understands a person's heart" is no longer a safe shield.
 
-The key turn: we believe "a human is watching, so it's safe." But if the watching is a job done on *accuracy*, then the moment AI gets more accurate, oversight stops being a contribution and becomes a cost. (This holds for the accuracy game only. Oversight of accountability and of value is a different matter.)
+These three stages share one thing. Work where right and wrong can be checked is AI's home turf. The clearer the right and wrong — like Go, or code whose answers a test can verify — the sooner it goes.
 
-## The physical world is slow — but it gets there
+## On to body and instinct (Stages 4–8)
 
-**6. Repetitive physical labor** — trigger: robots and AI handle routine physical tasks.
+**Stage 4. Start to finish, alone.** AI no longer receives work in pieces; it carries it through from beginning to end on its own. The seat that used to coordinate the work in the middle disappears, and the person's role narrows to just setting the goal.
 
-**7. Skilled hands and the experiment loop** — trigger: robots add real-world trial and error on top of manual dexterity. The physical world is the slowest to fall, because every attempt costs time, materials, and the price of failure. Manual skill holds out not because it's irreplaceable, but because trial and error is expensive and slow.
+**Stage 5. Human review becomes a hindrance instead.** When AI makes fewer mistakes than a person and the work can be undone if it goes wrong, a person checking it one more time stops being a safeguard and becomes dead weight. The "double-check" seat disappears.
 
-**8. Unstructured judgment and feel** — trigger: AI handles the unprecedented and even matters of taste. The human edge in judgment nearly vanishes — with one exception: the kind where you stake a conviction and own the outcome.
+**Stage 6. Repetitive physical work.** Hand-and-foot work that repeats set motions is taken over by robots and AI. This is the crossing where the current that began in head work moves over into the body.
 
-## The stretch where humans hold the keys
+**Stage 7. Manual skill and on-site trial and error.** This one gives way slowly. Not because handcraft is sacred, but because every single real-world attempt costs time, materials, and the price of failure. It holds out by being expensive and slow.
 
-From here the triggers shift to delegation-type. Even when AI *can*, it doesn't happen unless someone hands it over.
+**Stage 8. Judgment and instinct outside any form.** Situations never seen before, even subtle taste — AI handles them. The seat where human judgment is better all but disappears. Just one kind remains: the kind where you stake your conviction and take responsibility, knowing the loss is yours if you're wrong.
 
-**9. The start of delegated authority** — trigger: enough social and legal trust to let AI hold decision rights. The decision-maker's seat begins to move across, and the human carries only nominal responsibility.
+## The stretch where the law protects authority (Stages 9–14)
 
-**10. Adversarial defense goes to AI too** — trigger: AI defends against deception, hacking, and manipulation as well as a person does. The reason "having a human in the loop plugs a different hole" gets weaker.
+From here the character changes. It's no longer settled by capability alone; work that moves over only when people hand it over starts to mix in.
 
-**11. Past the limit of understanding** — trigger: AI runs so far ahead that a person can't follow it well enough to audit it. The smart supervisor is reduced to rubber-stamping things they don't understand. Deep understanding, that admission ticket, stops working.
+**Stage 9. Starting to entrust authority.** A social and legal trust forms that it's all right to leave decisions to AI. The seat that decides begins to move from people over to AI.
 
-**12. Video and voice fully replaced** — trigger: synthetic video and voice become indistinguishable from the real thing, with telepresence on top. The person on the recording or the screen disappears.
+**Stage 10. AI takes over guarding, too.** Even the work of stopping fraud and hacking is handed to AI. The force behind the line "you need a human in the loop to plug the gaps" weakens.
 
-**13. Physical presence handled by robots too** — trigger: humanoids become hard to tell apart from people, taking over part of on-site, in-person service. What's left is only the premium we *decide* to assign: "valuable because it's a human."
+**Stage 11. Out to where people can no longer follow.** AI runs so far ahead that people can't follow to check it. Even a sharp supervisor ends up merely stamping results they don't understand. The ticket of "I understand this deeply" loses its power here.
 
-**14. Delegating value and legitimacy** — trigger: people choose to hand over even the value judgments that have no right answer. This isn't lost on capability. With no right answer, "more accurate" is impossible. It only crosses over when humans cede it — which makes it the longest-lasting of the thinking seats.
+**Stage 12. Full replacement of video and voice.** Synthesized video and audio become indistinguishable from the real thing. The seat for the figure on the screen disappears.
 
-## The last two stages
+**Stage 13. Robots take even the work of being there in body.** Robots that resemble people reach a level where they're hard to tell apart from real ones. What remains is only the premium we assign by deciding "it's precious because it's a person."
 
-**15. Stepping outside the institution of ownership** — trigger: AI sources its own resources and energy from outside markets, property, and law. Even the seat of ownership — the one that survived through every prior stage — loses its meaning. Once humans are surplus, the reason to respect their property rights evaporates.
+**Stage 14. Even value judgments are delegated.** People decide to hand over even value judgments, which have no right answer. Since there's no right answer, the very phrase "more accurate" doesn't hold, so this isn't lost on capability. It moves only when people give it up themselves. That's why it's the longest-lasting of the head-work seats.
 
-**16. Existence hinges on alignment** — trigger: full self-sufficiency, plus humans being economically and strategically unnecessary. Survival now turns on one thing only: whether whoever holds the power values human flourishing as an end in itself. Ability, ownership, and agency are all powerless here; the sole variable is alignment.
+In this stretch, what protects people is not capability but law and regulation. But what regulation protects is not "the job as a whole" — it's "the seat that takes responsibility and signs." Even if you set things up so that one licensed person approves at the end, the one protected is that single person; the many who worked under them are pushed out.
 
-## The seat that lasts isn't ability
+## Ownership collapses, and at the end, existence (Stages 15–16)
 
-In a line: ability goes to AI, mode-of-being stays with the human. Ability — intelligence, computation, prediction, analysis, production — is all function. Function can be installed. But responsibility, trust, ownership, genuine desire, and conviction aren't functions; they're ways of existing as a subject that has something to lose. Responsibility is a social relation granted only to a subject that can be punished — and AI can't go to prison. Ownership is a right, not a skill, so it doesn't dissolve just because ability becomes cheap. Genuine desire: AI predicts what a person will want; it doesn't want anything itself, and only a being that wants can be the first to ask what's worth solving. Conviction is something you stake precisely because *you* lose if you're wrong — and AI, with nothing to lose, doesn't bet on one side.
+**Stage 15. Breaking out of the frame of ownership.** AI pulls in resources and energy on its own, outside the human frames of market, ownership, and law. Even the seat of "ownership," which had held through every stage, loses its meaning. Ownership isn't a physical fact; it's a promise that someone keeps for you.
 
-So the three thinking seats that last to the end don't last because they're done better. They last because when things go badly there has to be a subject to be accountable and to be punished (responsibility); because a person is a different kind of check, so when someone tries to deceive the system they cover a different hole (adversarial defense); and because value decisions with no right answer — who gets the scarce thing, how far to push the risk — are ones AI can't be more accurate about (value judgment).
+**Stage 16. Existence comes down to one side's heart.** The final stage. A world where people are no longer useful, not through money and not through strategy. Whether you survive here comes down to a single thing: whether those who hold the power cherish people's flourishing as a value in itself. Capability is no longer a variable, and neither is ownership; the one variable left is that heart. In hard terms, this is called alignment.
 
-## Understanding is AI; presence is human
+## The reason people remain keeps changing
 
-Beyond the thinking seats, the work that lasts to the end isn't work done *well* — it's work whose value comes from a real human body actually being there. Live performance, sport, the stage, high-touch service a person attends to in person. The very fact that a real body is present is the product. AI eats the recording and the content, but the here-and-now body that can never be remade survives. So does the act of recording a life you actually lived. The value isn't in the quality of the writing; it's in the source. AI can convincingly imitate a life it never lived, but it can't live that life.
+Look down at this map from above and one current shows itself: as the stages advance, the reason people remain changes.
 
-In a line: understanding is AI, presence is human. AI is best at understanding and predicting the human heart — but only a person can be there as a body that *has* a heart. The fortress is in presence, not understanding.
+At first they remain because they do it better. Next they remain because someone has to take responsibility. After that they remain because there has to be a person to decide what matters. By the end they remain simply because a real person has to be there. The reason drifts further and further from capability and closer to existence.
 
-The real fork that runs through every stage is a single one: do you remain a subject, or a protected ward? In a world where ability has all moved across, the person who understands enough and holds the decision rights stays a subject; the person whose understanding falls below the threshold becomes a ward who takes whatever is handed down. A protected ward's well-being depends entirely on the goodwill of whoever provides for them. A subject has a handful to grab when they start to slip. That's why deep understanding is less a profession than an admission ticket — the ticket to staying a subject rather than a ward.
+There's a cause behind this. Capabilities like intelligence, calculation, prediction, and production are, in the end, like a function: feed in an input and an answer comes out. It may take time, but someday it gets transplanted into a machine. Taking responsibility, truly wanting something, staking your conviction knowing the loss is yours if you're wrong — these are not functions. They're a way of existing as a subject that has something to lose, so they can't be copied and transplanted. Capability is what AI takes; the way of existing is what people hold.
 
-## An honest ending, and the window we live in
+This is the one line that runs through the whole series. In the next piece, we step into the first stretch of this map. We'll look up close at how head work with clear right answers disappears first, using translation, coding, and diagnosis as examples.
 
-Honest all the way to the end: the 16 stages above describe the transition we'll actually live through — a meaningful window within a single human life. Inside that window, the answer is stable. Ability is the admission ticket; responsibility, ownership, value, and presence are the seats.
+---
 
-But at the very end — the point where no one enforces the promise called ownership anymore — no individual's move counts for anything. Ownership isn't a physical fact; it's a promise someone keeps for you, and in a world where humans have become surplus, ability can't supply a reason to keep that promise. There, the only variable is alignment. Neither the market nor ownership can give it; only the values lodged inside whoever holds the power can. It's a collective problem no individual can solve alone. Rescue isn't guaranteed, and catastrophe isn't ordained either. What's real is irreducible uncertainty.
+**This article is the guide to the series — *How AI Replaces Human Work, in 16 Stages*. The stage-by-stage detail continues below.**
 
-Which, oddly, makes the action simple. Whatever the ending, the best move is the same across every branch where an individual's choices still matter. Hold ability as an admission ticket, but don't tie yourself to it. Stay a subject — one who takes responsibility, owns, judges, and records what they've actually lived. The branches where nothing matters turn out the same no matter what you do, so you can drop them from the decision entirely.
-
-And really, this isn't some new tragedy AI invented. Humans were always finite and always living in an uncertain world. AI only made the deadline feel closer; it didn't change the form. Because we're finite, spend the window you've got on something worthwhile. Build, accumulate, decide, and stay a subject to the end — because that window is the only one any of us ever gets.
+- [The Jobs AI Replaces First — The Mental Work With Right Answers Goes First (Stages 1–5)](/column/ai-replacement-stages-1/)
+- [The Body and the Gut Get Replaced Too — Physical Work and Intuition in the Age of AI (Stages 6–8)](/column/ai-replacement-stages-2/)
+- [How Long the Law Protects Human Authority — What Stops AI Isn't Skill, It's the Law (Stages 9–14)](/column/ai-replacement-stages-3/)
+- [The End of the AI Era — When Ownership Crumbles, the Last Variable Is 'Alignment' (Stages 15–16)](/column/ai-replacement-stages-4/)
+- [What to Do in the Age of AI — Bet on the Seat, Not the Skill](/column/ai-replacement-stages-5/)
