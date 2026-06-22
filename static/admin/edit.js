@@ -59,10 +59,11 @@
   function gisCallback(resp){
     try { var c = decodeJwt(resp.credential);
       if (!((c.email||'').toLowerCase()===ALLOWED && String(c.email_verified)==='true')){
-        if (pendingAuth){ pendingAuth.reject(new Error('이 계정('+(c.email||'?')+')은 권한이 없습니다 — '+ALLOWED+' 로 로그인하세요')); pendingAuth=null; }
+        hideLogin();
+        if (pendingAuth){ pendingAuth.reject(new Error('이 계정('+(c.email||'?')+')은 권한이 없습니다. '+ALLOWED+' 로 로그인하세요')); pendingAuth=null; }
         return;
       }
-      var done = function(){ onReady(); if (pendingAuth){ pendingAuth.resolve(); pendingAuth=null; } };
+      var done = function(){ hideLogin(); onReady(); if (pendingAuth){ pendingAuth.resolve(); pendingAuth=null; } };
       // 구글 ID 토큰(약 1시간)을 30일 세션 토큰으로 교환(Worker /session). 실패하면 구글 토큰 그대로 사용(하위호환 — 구 Worker에서도 동작).
       fetch(WORKER + '/session', { method:'POST', headers:{ 'Authorization':'Bearer '+resp.credential } })
         .then(function(r){ return r.ok ? r.json() : null; })
@@ -70,14 +71,35 @@
         .catch(function(){ saveToken(resp.credential, c.exp); done(); });
     } catch(e){ if (pendingAuth){ pendingAuth.reject(e); pendingAuth=null; } }
   }
+  /* 보이는 로그인 카드 + 실제 구글 버튼(원탭 prompt는 조용히 안 뜨는 경우가 많아 신뢰 불가 → renderButton을 항상 노출). */
+  function showLogin(){
+    var ov = document.getElementById('scLogin');
+    if (ov){ ov.style.display='flex'; return; }
+    ov = document.createElement('div'); ov.id='scLogin';
+    ov.style.cssText='position:fixed;inset:0;z-index:9100;background:rgba(13,27,76,.34);display:flex;align-items:center;justify-content:center;padding:20px';
+    var card = document.createElement('div');
+    card.style.cssText='background:#fff;border-radius:16px;padding:26px 28px 20px;max-width:340px;text-align:center;box-shadow:0 24px 64px rgba(13,27,76,.34);font-family:"Kumbh Sans",system-ui,sans-serif';
+    card.innerHTML='<div style="font-weight:700;font-size:16px;color:#0D1B4C;margin-bottom:6px">편집하려면 로그인</div>'+
+      '<div style="font-size:12.5px;color:#777;line-height:1.5;margin-bottom:16px">'+ALLOWED+' 계정으로만 가능합니다.</div>'+
+      '<div id="scGbtn" style="display:flex;justify-content:center;min-height:44px"></div>'+
+      '<button id="scLoginX" type="button" style="margin-top:14px;border:0;background:transparent;color:#999;font-weight:600;font-size:12px;cursor:pointer">취소</button>';
+    ov.appendChild(card); document.body.appendChild(ov);
+    function cancel(){ hideLogin(); if(pendingAuth){ pendingAuth.reject(new Error('로그인 취소됨')); pendingAuth=null; } }
+    ov.addEventListener('click', function(e){ if(e.target===ov) cancel(); });
+    card.querySelector('#scLoginX').addEventListener('click', cancel);
+  }
+  function hideLogin(){ var ov=document.getElementById('scLogin'); if(ov) ov.style.display='none'; }
   function ensureAuth(){
     return new Promise(function(resolve, reject){
       if (tokenValid()){ resolve(); return; }
       pendingAuth = { resolve: resolve, reject: reject };
       ensureGIS().then(function(){
-        if (!gisInit){ google.accounts.id.initialize({ client_id: CLIENT, auto_select: true, cancel_on_tap_outside: false, callback: gisCallback }); gisInit = true; }
-        google.accounts.id.prompt();
-      }).catch(function(e){ pendingAuth=null; reject(e); });
+        if (!gisInit){ google.accounts.id.initialize({ client_id: CLIENT, auto_select: true, cancel_on_tap_outside: true, callback: gisCallback }); gisInit = true; }
+        showLogin();
+        var c = document.getElementById('scGbtn');
+        if (c){ c.innerHTML=''; try { google.accounts.id.renderButton(c, { type:'standard', theme:'filled_blue', size:'large', text:'signin_with', shape:'pill', logo_alignment:'left', width:240 }); } catch(e){} }
+        try { google.accounts.id.prompt(); } catch(e){}
+      }).catch(function(e){ pendingAuth=null; hideLogin(); reject(e); });
     });
   }
   function authInit(){
