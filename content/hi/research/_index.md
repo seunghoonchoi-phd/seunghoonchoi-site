@@ -23,7 +23,7 @@ title: "अनुसंधान और उपलब्धियाँ"
 
 मैंने फाइबर की सतह पर सूक्ष्म स्तरीय संरचना बनाई और उस पर चालकता चढ़ाई, जिससे एक ऐसा मल्टीमॉडल सेंसर बना जो अच्छी तरह खिंचता है और पानी में भी मज़बूत रहता है। बड़े विरूपण में भी विद्युत संकेत स्थिर बना रहा, और इसने दिखाया कि सूक्ष्म-संरचना का आकार खिंचने वाले नैनो-कम्पोजिट की विद्युत चालकता और सेंसर के प्रदर्शन को कैसे बदलता है। यह अनुसंधान *Advanced Functional Materials* के 2019 के अंक 50 के बैक कवर पर छपा, और Google Scholar के अनुसार इसे 140 से ज़्यादा बार उद्धृत किया गया है।
 
-<p class="pub-cite">Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. <strong>Seunghoon Choi</strong>, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee*, Changhyun Pang*. <em>Advanced Functional Materials</em> 29(50), 2019, 1905808. · प्रथम लेखक · Back Cover</p>
+<p class="pub-cite">Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. <strong>Seunghoon Choi</strong>†, Kukro Yoon†, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee*, Changhyun Pang*. <em>Advanced Functional Materials</em> 29(50), 2019, 1905808. · सह-प्रथम लेखक · Back Cover</p>
 
 [शोधपत्र देखें ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
@@ -42,7 +42,7 @@ title: "अनुसंधान और उपलब्धियाँ"
 <p class="publication-note">संकेत: † सह-प्रथम लेखक · * संवादी लेखक · मोटे अक्षर Seunghoon Choi हैं</p>
 
 1. **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor.**
-   **Seunghoon Choi**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — **प्रथम लेखक**
+   **Seunghoon Choi**†, Kukro Yoon†, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — **सह-प्रथम लेखक**
 2. **Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence.**
    **Seunghoon Choi**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. *Biomimetics* 2025, 10(12), 813. — **सह-प्रथम लेखक**
 3. **Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions.**

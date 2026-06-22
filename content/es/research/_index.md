@@ -23,7 +23,7 @@ De aquí en adelante quiero seguir investigando cómo reducir la distancia entre
 
 Creamos una microestructura jerárquica sobre la superficie de una fibra y le dimos conductividad, para fabricar un sensor multimodal que se estira bien y resiste el agua. La señal eléctrica se mantuvo estable incluso con grandes deformaciones, y el trabajo mostró cómo la forma de la microestructura cambia la conducción eléctrica y el rendimiento del sensor en un nanocompuesto elástico. Esta investigación apareció como contraportada (Back Cover) del número 50 de *Advanced Functional Materials* en 2019 y, según Google Scholar, se ha citado más de 140 veces.
 
-<p class="pub-cite">Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. <strong>Seunghoon Choi</strong>, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee*, Changhyun Pang*. <em>Advanced Functional Materials</em> 29(50), 2019, 1905808. · Primer autor · Back Cover</p>
+<p class="pub-cite">Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. <strong>Seunghoon Choi</strong>†, Kukro Yoon†, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee*, Changhyun Pang*. <em>Advanced Functional Materials</em> 29(50), 2019, 1905808. · Coprimer autor · Back Cover</p>
 
 [Ver el artículo ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
@@ -42,7 +42,7 @@ Es una reseña que resume la investigación sobre pinzas blandas inspiradas en l
 <p class="publication-note">Notación: † coprimer autor · * autor de correspondencia · en negrita, Seunghoon Choi</p>
 
 1. **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor.**
-   **Seunghoon Choi**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — **Primer autor**
+   **Seunghoon Choi**†, Kukro Yoon†, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — **Coprimer autor**
 2. **Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence.**
    **Seunghoon Choi**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. *Biomimetics* 2025, 10(12), 813. — **Coprimer autor**
 3. **Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions.**
