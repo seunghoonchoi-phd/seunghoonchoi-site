@@ -1,9 +1,10 @@
 {{- with .File -}}
+{{- $ev := substr (crypto.SHA256 (os.ReadFile "static/admin/edit.js")) 0 10 -}}
 <script>
 window.SC_EDIT = { path: "content/{{ $.Site.Language.Lang }}/{{ replace .Path "\\" "/" }}", lang: "{{ $.Site.Language.Lang }}" };
 (function(){ try{
   if (localStorage.getItem('sc_admin_worker') && localStorage.getItem('sc_admin_google_client')) {
-    var s = document.createElement('script'); s.src = "/admin/edit.js"; s.defer = true;
+    var s = document.createElement('script'); s.src = "/admin/edit.js?v={{ $ev }}"; s.defer = true;
     document.body.appendChild(s);
   }
 }catch(e){} })();
