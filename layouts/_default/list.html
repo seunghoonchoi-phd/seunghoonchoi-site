@@ -6,6 +6,25 @@
   </header>
 
   {{ $pages := .RegularPagesRecursive.ByDate.Reverse }}
+  {{ $pinned := where $pages "Params.pinned" true }}
+  {{ $rest := where $pages "Params.pinned" "!=" true }}
+
+  {{ with $pinned }}
+  <div class="pinned-wrap">
+    {{ range . }}
+    <a class="pinned reveal" href="{{ .RelPermalink }}">
+      {{ with .Params.image }}<span class="pinned__thumb"><img src="{{ . }}" alt="" loading="lazy"></span>{{ end }}
+      <span class="pinned__body">
+        <span class="pinned__tag">{{ i18n "pinned_label" }}</span>
+        <span class="pinned__title">{{ .Title }}</span>
+        {{ with .Params.subtitle }}<span class="pinned__desc">{{ . }}</span>{{ end }}
+        <span class="pinned__cta">{{ i18n "read_more" }} →</span>
+      </span>
+    </a>
+    {{ end }}
+  </div>
+  {{ end }}
+
   {{ $cats := slice }}
   {{ range $pages }}{{ range .Params.categories }}{{ $cats = $cats | append . }}{{ end }}{{ end }}
   {{ $cats = ($cats | uniq) }}
@@ -17,12 +36,12 @@
   </div>
   {{ end }}
 
-  {{ $paginator := .Paginate $pages }}
+  {{ $paginator := .Paginate $rest }}
   <div class="cards cards--list" data-list>
     {{ range $paginator.Pages }}
       {{ partial "post-card.html" . }}
     {{ else }}
-      <p class="muted">{{ i18n "no_posts" }}</p>
+      {{ if not $pinned }}<p class="muted">{{ i18n "no_posts" }}</p>{{ end }}
     {{ end }}
   </div>
   {{ if gt $paginator.TotalPages 1 }}{{ template "_internal/pagination.html" . }}{{ end }}

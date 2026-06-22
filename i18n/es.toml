@@ -127,3 +127,6 @@ other = "Preguntas frecuentes"
 other = "Autor"
 [author_bio]
 other = "Investigador en materiales computacionales y estudiante de doctorado en la Universidad de Florida (UF). Tras pasar por la fabricación de baterías y la investigación de materiales, ahora estudio y documento cómo una persona puede salir adelante en la era de la inteligencia artificial. Creo más en la estructura que en la autoridad, más en los modelos que en la intuición y más en los sistemas que en el esfuerzo."
+
+[pinned_label]
+other = "Destacado"

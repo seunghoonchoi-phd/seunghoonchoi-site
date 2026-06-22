@@ -127,3 +127,6 @@ other = "Frequently asked questions"
 other = "Written by"
 [author_bio]
 other = "Computational materials scientist and PhD researcher at the University of Florida. After battery manufacturing and materials research, he now experiments with and documents how individuals can survive in the age of AI. He believes in structure over authority, models over intuition, and systems over effort."
+
+[pinned_label]
+other = "Featured"
