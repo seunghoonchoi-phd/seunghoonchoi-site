@@ -4,6 +4,8 @@ date: 2026-06-14
 categories: ["에세이"]
 tags: ["시작"]
 subtitle: "이 공간은 뭐 하는 곳인가"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![노트에 손으로 글을 쓰는 모습](/images/col-start.jpg)
