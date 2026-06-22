@@ -58,8 +58,9 @@ body.lang-en .nav__link{text-transform:uppercase;letter-spacing:.05em}
 .nav__sublink.is-active{color:var(--copper-soft)}
 .topbar__right{display:flex;align-items:center;gap:16px}
 .langswitch{position:relative;font-size:13.5px;font-family:var(--sans)}
-.langswitch__toggle{display:inline-flex;align-items:center;gap:6px;background:transparent;border:1.5px solid var(--hair);border-radius:999px;padding:6px 12px;font:inherit;font-weight:600;color:var(--ink-soft);cursor:pointer;line-height:1;white-space:nowrap;transition:border-color .2s,color .2s}
-.langswitch__toggle:hover{border-color:var(--navy);color:var(--navy)}
+.langswitch__toggle{display:inline-flex;align-items:center;gap:6px;background:var(--navy);border:1.5px solid var(--navy);border-radius:999px;padding:6px 13px;font:inherit;font-weight:600;color:#fff;cursor:pointer;line-height:1;white-space:nowrap;transition:background .2s,border-color .2s}
+.langswitch__toggle:hover{background:var(--navy-soft);border-color:var(--navy-soft)}
+.langswitch__globe{filter:grayscale(1) brightness(2)}
 .langswitch__globe{font-size:.95em;opacity:.85}
 .langswitch__caret{font-size:.78em;opacity:.6;transition:transform .2s}
 .langswitch[data-open] .langswitch__caret{transform:rotate(180deg)}
