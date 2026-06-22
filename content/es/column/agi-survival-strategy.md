@@ -6,6 +6,8 @@ categories: ["IA"]
 tags: ["agi", "ia", "estrategia de supervivencia", "carrera", "estrategia"]
 subtitle: "Cuando decido qué hacer cada día, lo filtro con estos doce"
 description: "Doce principios para sobrevivir en la era de la IA. No intentes ser más listo que la IA; deja activos reales que la sociedad humana reconozca. Estrategia de creación de activos, posicionamiento y uso de la IA."
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Una cuesta cubierta de niebla; una partida larga que se aguanta con un solo principio](/images/col-agi-strategy.jpg)
