@@ -84,9 +84,9 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     weight = 2
     title = "Seunghoon Choi"
     [languages.ko.params]
-      role = "공학자 · 콘텐츠 크리에이터"
+      role = "엔지니어 · 콘텐츠 크리에이터"
       tagline = "먼저 헤맨 길을, 다음 사람은 덜 헤매게."
-      description = "최승훈(Seunghoon Choi) — 공학자이자 콘텐츠 크리에이터. 연구, 글, 앱, 가이드를 한곳에."
+      description = "최승훈(Seunghoon Choi) — 엔지니어이자 콘텐츠 크리에이터. 연구, 글, 앱, 가이드를 한곳에."
   [languages.zh]
     label = "中文"
     locale = "zh-CN"
