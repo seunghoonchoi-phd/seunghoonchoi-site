@@ -121,6 +121,31 @@
   function rvSave(map){ try{ localStorage.setItem('sc_review_status', JSON.stringify({ at: Date.now(), map: map })); }catch(e){} }
   function rvStyle(b, status){ var s=RV[status]||RV.none; b.textContent=s.l; b.setAttribute('data-rv', status); b.style.cssText='cursor:pointer;display:inline-block;font-size:.66rem;font-weight:700;letter-spacing:.02em;padding:2px 8px;border-radius:6px;margin-left:8px;vertical-align:1px;color:'+s.c+';background:'+s.bg+';border:1px solid '+s.bd+';'; }
   function rvSetStatusRaw(raw, status){ var d=splitDoc(raw); if(!d.hasFm) return raw; var fm=d.fmFull.replace(/^reviewStatus:[ \t]*.*\r?\n/m,'').replace(/^reviewed:[ \t]*.*\r?\n/m,''); if(status==='reviewing'||status==='done') fm=fm.replace(/(\r?\n---\r?\n)$/,'\nreviewStatus: "'+status+'"$1'); return fm + d.body; }
+  /* ---- 숨김: hidden:true + Hugo build로 공개 목록/사이트맵/검색에서 빠지되 URL은 살림. 전 언어 적용(관리자 setHidden과 동일 포맷). 복구는 관리자 페이지. ---- */
+  function setHiddenRaw(raw, hide){ var d=splitDoc(raw); if(!d.hasFm) return raw; var fm=d.fmFull.replace(/^hidden:[ \t]*.*\r?\n/m,'').replace(/^build:[ \t]*\{[^}]*\}[ \t]*\r?\n/m,''); if(hide) fm=fm.replace(/(\r?\n---\r?\n)$/,'\nhidden: true\nbuild: {list: never, render: always}$1'); return fm + d.body; }
+  function hideCard(rk, card, hb){
+    if (!tokenValid()){ ensureAuth().then(function(){ hideCard(rk, card, hb); }).catch(function(e){ if(e&&e.message) alert('로그인 필요: '+e.message); }); return; }
+    if (!confirm('이 글을 공개 목록에서 숨길까요?\n모든 언어에서 숨겨집니다. 복구는 관리자 페이지(/admin/)에서 할 수 있어요.')) return;
+    var langs=['ko','en','zh','es','hi','ar'], done=0, i=0;
+    hb.textContent='숨기는 중…'; hb.style.opacity='.6'; hb.style.pointerEvents='none';
+    function finish(){ card.style.opacity='.42'; card.style.filter='grayscale(.45)'; hb.textContent='숨김됨 ('+done+'개 언어) · 배포되면 사라짐'; hb.style.color='#1b7a3d'; hb.style.background='#E7F6EC'; hb.style.borderColor='#B7E4C7'; }
+    function fail(lang, m){ hb.textContent='숨기기'; hb.style.opacity='1'; hb.style.pointerEvents='auto'; alert('숨김 실패('+lang+'): '+m); }
+    function step(){
+      if (i>=langs.length){ finish(); return; }
+      var lang=langs[i++], path='content/'+lang+'/'+rk+'.md';
+      api('GET','file',{path:path}).then(function(r){
+        if (r.status===404){ step(); return; } // 그 언어 파일 없음 → 건너뜀
+        if (r.status===401){ clearToken(); throw new Error('세션 만료 — 다시 누르세요'); }
+        if (!r.ok) throw new Error('읽기 '+r.status);
+        return r.json().then(function(j){
+          var raw=b64utf8(j.content), next=setHiddenRaw(raw, true);
+          if (next===raw){ done++; step(); return; } // 이미 숨김
+          return api('PUT','file',{ path:path, body:{ content:utf8b64(next), sha:j.sha, message:'admin: hide '+path } }).then(function(pr){ if(!pr.ok) throw new Error('저장 '+pr.status); done++; step(); });
+        });
+      }).catch(function(e){ fail(lang, e.message); });
+    }
+    step();
+  }
   function rvSet(rk, lang, status, badge){
     if (!tokenValid()){ ensureAuth().then(function(){ rvSet(rk, lang, status, badge); }).catch(function(e){ if(e&&e.message) alert('로그인 필요: '+e.message); }); return; }
     rvStyle(badge, status); // optimistic
@@ -156,6 +181,11 @@
       var b=document.createElement('span'); b.className='rv-badge'; rvStyle(b, status); b.title='검수 상태 — 클릭해서 변경(나만 보임)';
       b.addEventListener('click', function(e){ e.preventDefault(); e.stopPropagation(); rvMenu(b, rk, lang); });
       meta.appendChild(b);
+      var hb=document.createElement('span'); hb.className='sc-hide';
+      hb.textContent='숨기기'; hb.title='이 글을 공개 목록에서 숨김 (전 언어 · 관리자에서 복구)';
+      hb.style.cssText='cursor:pointer;display:inline-block;font-size:.66rem;font-weight:700;padding:2px 8px;border-radius:6px;margin-left:6px;vertical-align:1px;color:#8a6d1f;background:#FFF3D9;border:1px solid #EBD9B0;';
+      hb.addEventListener('click', function(e){ e.preventDefault(); e.stopPropagation(); hideCard(rk, card, hb); });
+      meta.appendChild(hb);
     });
   }
   function onReady(){ if (bodyEl||titleEl) btn.classList.add('show'); paintCardBadges(); }
