@@ -4,6 +4,8 @@ date: 2026-06-14
 categories: ["Essay"]
 tags: ["start"]
 subtitle: "这个空间是什么"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![A hand writing in a notebook](/images/col-start.jpg)
