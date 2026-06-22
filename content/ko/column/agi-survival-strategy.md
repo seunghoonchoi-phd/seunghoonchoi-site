@@ -6,6 +6,8 @@ categories: ["AI"]
 tags: ["agi", "ai", "생존전략", "커리어", "전략"]
 subtitle: "매일 뭘 할지 정할 때, 나는 이 12개로 자른다"
 description: "AI 시대 살아남는 12원칙. AI보다 똑똑해지려 말고, 인간 사회가 인정하는 실재 자산을 남겨라. 자산화·포지셔닝·AI 활용 전략."
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![안개 낀 오르막길, 원칙 하나로 버티는 장기전](/images/col-agi-strategy.jpg)
