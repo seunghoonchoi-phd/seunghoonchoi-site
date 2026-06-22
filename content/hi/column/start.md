@@ -4,6 +4,8 @@ date: 2026-06-14
 categories: ["निबंध"]
 tags: ["शुरुआत"]
 subtitle: "यह जगह किस काम के लिए है"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![हाथ से नोटबुक में लिखते हुए](/images/col-start.jpg)
