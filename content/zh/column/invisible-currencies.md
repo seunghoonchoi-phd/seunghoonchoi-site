@@ -2,7 +2,7 @@
 title: "本事不值钱，被验证的本事才卖得贵：没人告诉你的隐形货币"
 description: "为什么被验证的本事比本事本身卖得贵。信任、名声、人脉是看不见的货币，本文用市场的比方讲清怎么刻意把它们攒起来、把实力证明给别人看。"
 date: 2026-06-21
-categories: ["Essays"]
+categories: ["随笔"]
 tags: ["career","trust capital","reputation","credibility","opportunity"]
 subtitle: "钱只是众多货币里的一种，信任和门路是你可以刻意攒出来的"
 seoTitle: "只有被验证的本事才卖得贵：信任这种货币怎么攒"

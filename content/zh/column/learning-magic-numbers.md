@@ -2,7 +2,7 @@
 title: "进入新领域，看几个案例才摸得清？学习的魔法数字 3、7、30、100"
 description: "摸清一个新领域到底要看多少案例？用工作记忆 7±2、组块化和反馈原理讲透 3、7、30、100 学习法。画出轮廓的是角度和反馈，不是单纯的数量。"
 date: 2026-06-21
-categories: ["Essays"]
+categories: ["随笔"]
 tags: ["learning","metacognition","expertise","chunking","feedback"]
 subtitle: "别去走一百条小巷，看三个方向就够了。轮廓不是靠数量，是靠角度和反馈画出来的"
 seoTitle: "学新领域的魔法数字 3、7、30、100 与组块化"

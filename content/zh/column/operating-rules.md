@@ -2,7 +2,7 @@
 title: "最好的方案为什么在会上落选，真正的原因"
 description: "会上最好的方案为什么落选？同时读懂驱动组织的正式规则和隐藏的运作规则，不改方案也能让它通过。"
 date: 2026-06-21
-categories: ["Essays"]
+categories: ["随笔"]
 tags: ["organizational dynamics","decision making","workplace wisdom","understanding people","leadership"]
 subtitle: "别只读写在纸上的规则，学会一起读懂真正驱动人的那层规则"
 seoTitle: "职场政治：好方案为什么总是通不过的真正原因"

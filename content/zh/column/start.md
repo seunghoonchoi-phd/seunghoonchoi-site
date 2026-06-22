@@ -1,7 +1,7 @@
 ---
 title: "写在开头 : :  研究之外的文字"
 date: 2026-06-14
-categories: ["Essay"]
+categories: ["随笔"]
 tags: ["start"]
 subtitle: "这个空间是什么"
 hidden: true

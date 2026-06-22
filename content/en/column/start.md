@@ -1,7 +1,7 @@
 ---
 title: "Starting out: writing beyond research"
 date: 2026-06-14
-categories: ["Essay"]
+categories: ["Essays"]
 tags: ["start"]
 subtitle: "What this space is"
 hidden: true

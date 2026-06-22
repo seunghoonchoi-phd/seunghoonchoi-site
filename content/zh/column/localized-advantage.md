@@ -2,7 +2,7 @@
 title: "李永浩为什么不全程赢，只赢那30秒：用局部优势只抓决定性瞬间"
 description: "别想着处处都赢、结果力量分散。学会把力气攒到一个决定全局的点上。从星际争霸李永浩的逆转里，提炼出取舍、集中、局部优势的打法。"
 date: 2026-06-21
-categories: ["Essays"]
+categories: ["随笔"]
 tags: ["strategy", "decision-making", "focus", "career"]
 subtitle: "扭转劣势的，从来不是总实力。是对手最弱的那一瞬间，那一个点上的差距。"
 seoTitle: "取舍与集中：用局部优势，只赢下决定性的那一刻"

@@ -2,7 +2,7 @@
 title: "读懂一个制度：别先看规则，先看奖什么、罚什么"
 description: "制度不是寻找真相的机器，而是驯化行为的装置。用市场、呼叫中心、资格证三个例子，看奖赏和惩罚怎么左右一个人，以及怪人之前先读懂结构的方法。"
 date: 2026-06-21
-categories: ["Essays"]
+categories: ["随笔"]
 tags: ["incentives","institutions","organizational behavior","decision making","social systems"]
 subtitle: "法律、公司、市场，都不是寻找真相的机器，而是驯化行为的装置。"
 seoTitle: "读懂激励结构的方法：别盯着人，先看奖赏和惩罚"

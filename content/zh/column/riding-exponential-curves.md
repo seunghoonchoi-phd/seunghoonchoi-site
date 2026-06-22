@@ -2,7 +2,7 @@
 title: "指数增长曲线，用劳动去骑，账户只能线性涨"
 description: "赢过有天赋的人，不是把活干得更好，而是骑上一条指数增长的曲线。怎么分清什么是真指数、什么是假象，以及为什么「骑的方式」决定了你能拿走多少。"
 date: 2026-06-21T19:20:00+09:00
-categories: ["Essays"]
+categories: ["随笔"]
 tags: ["exponential growth", "ownership", "compounding", "career strategy", "decision-making"]
 subtitle: "找到曲线是容易的那一半。真正难的，是用所有权骑上去。用劳动骑，浪是指数，钱却线性地漏光。"
 seoTitle: "指数增长 vs 线性增长怎么分辨、怎么骑：用所有权骑，回报才不外漏"
