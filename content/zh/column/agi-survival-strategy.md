@@ -6,6 +6,8 @@ categories: ["AI"]
 tags: ["agi", "ai", "career", "strategy", "positioning"]
 subtitle: "每天决定做什么的时候，我就用这十二条来砍"
 description: "活过 AI 时代的 12 条原则。别想着比 AI 更聪明，要留下人类社会认可的真实资产。资产化、定位、用 AI 的策略。"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![雾里的上坡路，靠一条原则撑过的持久战](/images/col-agi-strategy.jpg)
