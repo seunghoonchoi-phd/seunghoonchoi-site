@@ -7,6 +7,8 @@ tags: ["open-source", "ai"]
 subtitle: "Catch an LLM's objective mistakes — without capping the model"
 description: "Open-source Python linter that catches objective defects in AI-generated PowerPoint, Excel & Word — off-slide text, #REF! errors, leftover markdown. Deterministic, MIT-licensed, runs as a Claude Code hook."
 image: /images/llm-office-qa-card.svg
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/llm-office-qa-card.svg" alt="llm-office-qa icon">
