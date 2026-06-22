@@ -1,17 +1,28 @@
 {{ $page := . }}
-{{ $langs := slice (dict "lang" "en" "label" "English") (dict "lang" "ko" "label" "한국어") (dict "lang" "zh" "label" "中文") }}
-<div class="langswitch" role="group" aria-label="Language">
-  {{ range $langs }}
-    {{ $lang := .lang }}
-    {{ if eq $lang $page.Site.Language.Lang }}
-      <span class="langswitch__item is-current" aria-current="true">{{ .label }}</span>
-    {{ else }}
-      {{ $href := "" }}
-      {{ range $page.AllTranslations }}
-        {{ if eq .Language.Lang $lang }}{{ $href = .RelPermalink }}{{ end }}
+{{ $cur := $page.Site.Language.Lang }}
+{{/* fixed display order + native labels; only languages enabled in hugo.toml are shown */}}
+{{ $order := slice "en" "zh" "es" "hi" "ar" "ko" }}
+{{ $labels := dict "en" "English" "zh" "中文" "es" "Español" "hi" "हिन्दी" "ar" "العربية" "ko" "한국어" }}
+{{ $avail := slice }}
+{{ range $page.Site.Languages }}{{ $avail = $avail | append .Lang }}{{ end }}
+<div class="langswitch" data-langswitch>
+  <button type="button" class="langswitch__toggle" aria-haspopup="true" aria-expanded="false" aria-label="Language">
+    <span class="langswitch__globe" aria-hidden="true">🌐</span><span class="langswitch__cur">{{ index $labels $cur }}</span><span class="langswitch__caret" aria-hidden="true">▾</span>
+  </button>
+  <div class="langswitch__menu" role="menu">
+    {{ range $order }}
+      {{ $lang := . }}
+      {{ if in $avail $lang }}
+        {{ $label := index $labels $lang }}
+        {{ if eq $lang $cur }}
+        <span class="langswitch__opt is-current" role="menuitem" aria-current="true">{{ $label }}</span>
+        {{ else }}
+          {{ $href := "" }}
+          {{ range $page.AllTranslations }}{{ if eq .Language.Lang $lang }}{{ $href = .RelPermalink }}{{ end }}{{ end }}
+          {{ if not $href }}{{ $href = cond (eq $lang "en") "/" (printf "/%s/" $lang) }}{{ end }}
+        <a class="langswitch__opt" role="menuitem" href="{{ $href }}" hreflang="{{ $lang }}">{{ $label }}</a>
+        {{ end }}
       {{ end }}
-      {{ if not $href }}{{ $href = cond (eq $lang "en") "/" (printf "/%s/" $lang) }}{{ end }}
-      <a class="langswitch__item" href="{{ $href }}" hreflang="{{ $lang }}">{{ .label }}</a>
     {{ end }}
-  {{ end }}
+  </div>
 </div>

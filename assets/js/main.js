@@ -46,6 +46,22 @@
     });
   });
 
+  /* Language switcher — toggle button opens a vertical dropdown */
+  var ls = document.querySelector("[data-langswitch]");
+  if (ls) {
+    var lsBtn = ls.querySelector(".langswitch__toggle");
+    if (lsBtn) {
+      lsBtn.addEventListener("click", function (e) {
+        e.stopPropagation();
+        var open = ls.hasAttribute("data-open");
+        if (open) { ls.removeAttribute("data-open"); lsBtn.setAttribute("aria-expanded", "false"); }
+        else { ls.setAttribute("data-open", ""); lsBtn.setAttribute("aria-expanded", "true"); }
+      });
+      document.addEventListener("click", function (e) { if (!ls.contains(e.target)) { ls.removeAttribute("data-open"); lsBtn.setAttribute("aria-expanded", "false"); } });
+      document.addEventListener("keydown", function (e) { if (e.key === "Escape") { ls.removeAttribute("data-open"); lsBtn.setAttribute("aria-expanded", "false"); } });
+    }
+  }
+
   /* Reveal on scroll */
   var reveals = document.querySelectorAll(".reveal");
   if ("IntersectionObserver" in window && reveals.length) {

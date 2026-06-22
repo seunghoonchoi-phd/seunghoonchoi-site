@@ -57,10 +57,19 @@ body.lang-en .nav__link{text-transform:uppercase;letter-spacing:.05em}
 .nav__sublink:hover{background:rgba(255,255,255,.12);color:#fff}
 .nav__sublink.is-active{color:var(--copper-soft)}
 .topbar__right{display:flex;align-items:center;gap:16px}
-.langswitch{display:flex;align-items:center;gap:12px;font-size:13.5px;font-family:var(--sans)}
-.langswitch__item{color:var(--muted);font-weight:600;line-height:1;padding:4px 1px;white-space:nowrap;transition:color .2s}
-.langswitch__item:hover{color:var(--ink)}
-.langswitch__item.is-current{color:var(--navy)}
+.langswitch{position:relative;font-size:13.5px;font-family:var(--sans)}
+.langswitch__toggle{display:inline-flex;align-items:center;gap:6px;background:transparent;border:1.5px solid var(--hair);border-radius:999px;padding:6px 12px;font:inherit;font-weight:600;color:var(--ink-soft);cursor:pointer;line-height:1;white-space:nowrap;transition:border-color .2s,color .2s}
+.langswitch__toggle:hover{border-color:var(--navy);color:var(--navy)}
+.langswitch__globe{font-size:.95em;opacity:.85}
+.langswitch__caret{font-size:.78em;opacity:.6;transition:transform .2s}
+.langswitch[data-open] .langswitch__caret{transform:rotate(180deg)}
+.langswitch__menu{position:absolute;top:calc(100% + 8px);right:0;display:none;flex-direction:column;min-width:128px;background:#fff;border:1px solid var(--hair);border-radius:12px;box-shadow:0 14px 34px rgba(13,27,76,.16);padding:6px;z-index:60}
+.langswitch[data-open] .langswitch__menu{display:flex}
+.langswitch__opt{display:block;padding:9px 12px;border-radius:8px;color:var(--ink-soft);font-weight:600;line-height:1.2;white-space:nowrap;text-align:left;transition:background .15s,color .15s}
+.langswitch__opt:hover{background:#EEF2FF;color:var(--navy)}
+.langswitch__opt.is-current{color:var(--navy);background:#F4F6FC}
+html[dir="rtl"] .langswitch__menu{right:auto;left:0}
+html[dir="rtl"] .langswitch__opt{text-align:right}
 .hamburger{display:none;background:none;border:0;width:38px;height:38px;flex-direction:column;justify-content:center;gap:5px;cursor:pointer}
 .hamburger span{height:2px;background:var(--ink);border-radius:2px;transition:transform .3s var(--ease),opacity .3s}
 

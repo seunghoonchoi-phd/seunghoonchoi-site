@@ -40,7 +40,7 @@
   + '#scHint.show{display:block}';
   var st = document.createElement('style'); st.textContent = css; document.head.appendChild(st);
 
-  var btn = document.createElement('button'); btn.id = 'scEditBtn'; btn.type = 'button'; btn.textContent = '✎ 편집'; btn.title = '이 페이지 편집';
+  var btn = document.createElement('button'); btn.id = 'scEditBtn'; btn.type = 'button'; btn.textContent = '✎ 편집'; btn.title = '이 페이지 편집 (Ctrl/⌘+E)';
   document.body.appendChild(btn);
 
   var ID_TOKEN = null, CUR = null, editing = false, td = null;
@@ -147,5 +147,9 @@
   }
 
   btn.addEventListener('click', enterEdit);
-  document.addEventListener('keydown', function(e){ if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==='s' && editing){ e.preventDefault(); save(); } });
+  document.addEventListener('keydown', function(e){
+    var mod = (e.ctrlKey||e.metaKey);
+    if (mod && e.key.toLowerCase()==='s' && editing){ e.preventDefault(); save(); }
+    else if (mod && e.key.toLowerCase()==='e' && !editing && btn.classList.contains('show')){ e.preventDefault(); enterEdit(); } // 단축키로 편집 진입
+  });
 })();
