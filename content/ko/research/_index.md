@@ -61,7 +61,7 @@ Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificia
 - **Best Poster Award** — Octopus-Inspired Adhesive Patch for Bio-Signal Monitoring · _MRS Fall Meeting, Boston, 2018_
 - **하이브리드 나노복합체 기반 섬유형 멀티모달 센서** · _한국고분자학회 추계학술대회, 부산, 2017_
 
-## 기술 스택
+## 보유 기술
 
 - **분석·구조 평가** — SEM (EDS) · AFM · 광학현미경 · XRD · FT-IR · UV-Vis · 접촉각
 - **공정·미세구조 제작** — 미세구조 임프린팅 · 고분자 표면 패터닝 · 신축성 복합체 제작 · 표면 코팅
