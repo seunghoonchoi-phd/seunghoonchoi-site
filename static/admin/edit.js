@@ -80,10 +80,10 @@
       }).catch(function(e){ pendingAuth=null; reject(e); });
     });
   }
-  (function authInit(){
+  function authInit(){
     try { var t = JSON.parse(localStorage.getItem('sc_edit_tok') || 'null'); if (t && t.token && t.exp*1000 > Date.now()+60000){ ID_TOKEN = t.token; TOKEN_EXP = t.exp; } } catch(e){}
     onReady(); // 로그인 팝업 없이 바로 배지·편집버튼 노출(소유 브라우저). 인증은 편집/검수 저장 누를 때.
-  })();
+  }
 
   function api(method, seg, opts){
     opts = opts || {};
@@ -223,4 +223,5 @@
     if (mod && e.key.toLowerCase()==='s' && editing){ e.preventDefault(); save(); }
     else if (mod && e.key.toLowerCase()==='e' && !editing && btn.classList.contains('show')){ e.preventDefault(); enterEdit(); } // 단축키로 편집 진입
   });
+  authInit(); // ★ 맨 끝에서 실행 — 위 모든 var(RV 등)·함수가 정의·할당된 뒤라야 paintCardBadges가 에러 없이 동작
 })();
