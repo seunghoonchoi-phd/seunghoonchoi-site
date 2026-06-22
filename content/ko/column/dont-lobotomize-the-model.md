@@ -6,6 +6,7 @@ categories: ["AI"]
 tags: ["ai", "도구", "LLM"]
 subtitle: "명백한 오류는 막고, 판단이 필요한 선택은 남겨둔다."
 description: "AI가 만든 파워포인트·엑셀·워드를 검수할 때 오류와 취향을 어떻게 구분해야 할까. 객관적 결함은 잡되 스타일을 강제하지 않는 llm-office-qa의 설계 원칙을 소개합니다."
+reviewStatus: "done"
 ---
 ![A magnifying glass beside a laptop](/images/col-qa.jpg)
 
