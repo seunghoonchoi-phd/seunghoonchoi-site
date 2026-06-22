@@ -50,16 +50,31 @@
   function ensureTurndown(){ return window.TurndownService?Promise.resolve():loadScript('https://cdn.jsdelivr.net/npm/turndown@7/dist/turndown.min.js'); }
   function decodeJwt(t){ return JSON.parse(b64utf8(t.split('.')[1].replace(/-/g,'+').replace(/_/g,'/'))); }
 
-  /* ---- 인증: 본인 구글 로그인 확인되면 버튼 노출(아니면 숨김) ---- */
-  function useToken(tok, exp){ ID_TOKEN = tok; try{ sessionStorage.setItem('sc_edit_tok', JSON.stringify({ token: tok, exp: exp })); }catch(e){} onAuthed(); }
+  /* ---- 인증: 토큰을 localStorage에 보관(새로고침·탭·메뉴 이동에도 유지). 페이지 로드 때는 로그인 팝업을 띄우지 않는다.
+     배지·편집버튼은 소유 브라우저면 바로 보이고, 실제 편집/검수 저장을 누를 때만(토큰 없거나 만료면) ensureAuth()로 한 번 로그인. ---- */
+  var TOKEN_EXP = 0, pendingAuth = null, gisInit = false;
+  function saveToken(tok, exp){ ID_TOKEN = tok; TOKEN_EXP = exp || 0; try{ localStorage.setItem('sc_edit_tok', JSON.stringify({ token: tok, exp: exp })); }catch(e){} }
+  function tokenValid(){ return !!(ID_TOKEN && TOKEN_EXP*1000 > Date.now()+60000); }
+  function clearToken(){ ID_TOKEN = null; TOKEN_EXP = 0; try{ localStorage.removeItem('sc_edit_tok'); }catch(e){} }
+  function gisCallback(resp){
+    try { var c = decodeJwt(resp.credential);
+      if ((c.email||'').toLowerCase()===ALLOWED && String(c.email_verified)==='true'){ saveToken(resp.credential, c.exp); onReady(); if (pendingAuth){ pendingAuth.resolve(); pendingAuth=null; } }
+      else { if (pendingAuth){ pendingAuth.reject(new Error('이 계정('+(c.email||'?')+')은 권한이 없습니다 — '+ALLOWED+' 로 로그인하세요')); pendingAuth=null; } }
+    } catch(e){ if (pendingAuth){ pendingAuth.reject(e); pendingAuth=null; } }
+  }
+  function ensureAuth(){
+    return new Promise(function(resolve, reject){
+      if (tokenValid()){ resolve(); return; }
+      pendingAuth = { resolve: resolve, reject: reject };
+      ensureGIS().then(function(){
+        if (!gisInit){ google.accounts.id.initialize({ client_id: CLIENT, auto_select: true, cancel_on_tap_outside: false, callback: gisCallback }); gisInit = true; }
+        google.accounts.id.prompt();
+      }).catch(function(e){ pendingAuth=null; reject(e); });
+    });
+  }
   (function authInit(){
-    try { var t = JSON.parse(sessionStorage.getItem('sc_edit_tok') || 'null'); if (t && t.exp*1000 > Date.now()+60000) { ID_TOKEN = t.token; onAuthed(); return; } } catch(e){}
-    ensureGIS().then(function(){
-      google.accounts.id.initialize({ client_id: CLIENT, auto_select: true, cancel_on_tap_outside: true, callback: function(resp){
-        try { var c = decodeJwt(resp.credential); if ((c.email||'').toLowerCase()===ALLOWED && String(c.email_verified)==='true') useToken(resp.credential, c.exp); } catch(e){}
-      }});
-      google.accounts.id.prompt(); // 본인이 구글에 로그인돼 있으면 조용히 자동 인증 → 버튼 노출. 아니면 버튼 안 뜸.
-    }).catch(function(){});
+    try { var t = JSON.parse(localStorage.getItem('sc_edit_tok') || 'null'); if (t && t.token && t.exp*1000 > Date.now()+60000){ ID_TOKEN = t.token; TOKEN_EXP = t.exp; } } catch(e){}
+    onReady(); // 로그인 팝업 없이 바로 배지·편집버튼 노출(소유 브라우저). 인증은 편집/검수 저장 누를 때.
   })();
 
   function api(method, seg, opts){
@@ -77,9 +92,10 @@
   function rvStyle(b, status){ var s=RV[status]||RV.none; b.textContent=s.l; b.setAttribute('data-rv', status); b.style.cssText='cursor:pointer;display:inline-block;font-size:.66rem;font-weight:700;letter-spacing:.02em;padding:2px 8px;border-radius:6px;margin-left:8px;vertical-align:1px;color:'+s.c+';background:'+s.bg+';border:1px solid '+s.bd+';'; }
   function rvSetStatusRaw(raw, status){ var d=splitDoc(raw); if(!d.hasFm) return raw; var fm=d.fmFull.replace(/^reviewStatus:[ \t]*.*\r?\n/m,'').replace(/^reviewed:[ \t]*.*\r?\n/m,''); if(status==='reviewing'||status==='done') fm=fm.replace(/(\r?\n---\r?\n)$/,'\nreviewStatus: "'+status+'"$1'); return fm + d.body; }
   function rvSet(rk, lang, status, badge){
+    if (!tokenValid()){ ensureAuth().then(function(){ rvSet(rk, lang, status, badge); }).catch(function(e){ if(e&&e.message) alert('로그인 필요: '+e.message); }); return; }
     rvStyle(badge, status); // optimistic
     var path='content/'+lang+'/'+rk+'.md';
-    api('GET','file',{path:path}).then(function(r){ if(r.status===401){ throw new Error('세션 만료 — 새로고침 후 다시'); } if(!r.ok) throw new Error('읽기 '+r.status); return r.json(); }).then(function(j){
+    api('GET','file',{path:path}).then(function(r){ if(r.status===401){ clearToken(); throw new Error('세션 만료 — 배지를 다시 클릭'); } if(!r.ok) throw new Error('읽기 '+r.status); return r.json(); }).then(function(j){
       var next=rvSetStatusRaw(b64utf8(j.content), status);
       return api('PUT','file',{ path:path, body:{ content:utf8b64(next), sha:j.sha, message:'admin: review '+status+' '+path } });
     }).then(function(r){ if(!r.ok) throw new Error('저장 '+r.status); var map=rvCache(); (map[rk]=map[rk]||{})[lang]=status; rvSave(map); }).catch(function(e){ alert('검수 상태 저장 실패: '+e.message); });
@@ -112,7 +128,7 @@
       meta.appendChild(b);
     });
   }
-  function onAuthed(){ if (bodyEl||titleEl) btn.classList.add('show'); paintCardBadges(); }
+  function onReady(){ if (bodyEl||titleEl) btn.classList.add('show'); paintCardBadges(); }
 
   function bar(){
     var b = document.getElementById('scBar');
@@ -128,10 +144,11 @@
 
   function enterEdit(){
     if (editing) return;
+    if (!tokenValid()){ ensureAuth().then(enterEdit).catch(function(e){ if(e&&e.message) alert('로그인 필요: '+e.message); }); return; }
     bar();
     msg('불러오는 중…'); document.getElementById('scBar').classList.add('show');
     api('GET','file',{path:CFG.path}).then(function(r){
-      if (r.status===401){ ID_TOKEN=null; try{sessionStorage.removeItem('sc_edit_tok');}catch(e){} throw new Error('세션 만료 — 새로고침 후 다시'); }
+      if (r.status===401){ clearToken(); throw new Error('세션 만료 — 편집을 다시 시작'); }
       if (!r.ok) throw new Error('불러오기 실패 ('+r.status+')');
       return r.json();
     }).then(function(j){
