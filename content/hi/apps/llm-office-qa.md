@@ -7,6 +7,8 @@ tags: ["ओपन सोर्स", "ai"]
 subtitle: "ज़्यादा होशियार मॉडल को नहीं रोकता, सिर्फ़ साफ़ दिखने वाली गलतियाँ पकड़ता है"
 description: "AI से बने PPT, Excel, Word में टेक्स्ट का बाहर निकलना, #REF! एरर, बचा हुआ मार्कडाउन जैसी साफ़ गलतियाँ ही पकड़ने वाला ओपन सोर्स पायथन लिंटर। नतीजा हमेशा एक जैसा, MIT लाइसेंस, Claude Code हुक।"
 image: /images/llm-office-qa-card.svg
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/llm-office-qa-card.svg" alt="llm-office-qa आइकन">

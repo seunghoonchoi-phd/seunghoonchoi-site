@@ -1,4 +1,5 @@
 ---
 title: "Apps"
 ---
-Apps and tools I've built — made because I needed them, and to make the road I've already walked a little easier for whoever's on it now.
+My goal is to remove the bottlenecks I have experienced.<br>
+The road I have already walked should not be this hard for you too.

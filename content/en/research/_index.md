@@ -52,7 +52,7 @@ A review of soft grippers inspired by the octopus — its arms, suction cups, an
 
 ## Manuscripts Under Review
 
-- Pilot clinical study of a biomimetic suction patch for enhanced topical delivery. *Journal of Cosmetic Dermatology* (under review), 2026.
+- Pilot clinical study of a biomimetic suction patch for transdermal delivery. *Journal of Cosmetic Dermatology* (under review), 2026.
 
 ## Patents
 
@@ -63,7 +63,7 @@ A review of soft grippers inspired by the octopus — its arms, suction cups, an
 
 - **Government Scholarship — Integrated B.S.–M.S. Program** · *Sungkyunkwan University, 2017* — full merit scholarship, including an 8-week research residency at ESPCI Paris.
 - **Best Poster Award** — Octopus-Inspired Adhesive Patch for Bio-Signal Monitoring · *Materials Research Society (MRS) Fall Meeting, Boston, 2018*
-- **A Fiber-Based Multimodal Sensor Using Hybrid Nanocomposites for Human Motion Monitoring** · *The Polymer Society of Korea Fall Meeting, Busan, 2017*
+- **A Fiber-Based Multimodal Sensor Using Hybrid Nanocomposites** · *The Polymer Society of Korea Fall Meeting, Busan, 2017*
 
 ## Technical Skills
 
@@ -75,4 +75,4 @@ A review of soft grippers inspired by the octopus — its arms, suction cups, an
 
 ---
 
-### Highlights
+### News

@@ -1,4 +1,5 @@
 ---
 title: "Aplicaciones"
 ---
-Aplicaciones y herramientas que hice yo mismo. Las creé porque las necesitaba, y quiero que el camino que ya recorrí sea más fácil para ti.
+Mi objetivo es eliminar los cuellos de botella que he vivido en carne propia.<br>
+El camino que yo ya recorrí no debería ser igual de difícil para ti.

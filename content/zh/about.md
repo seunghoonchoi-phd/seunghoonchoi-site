@@ -14,7 +14,7 @@ title: "关于"
 ## 履历
 
 - **2026 –** · 博士生（录取待入学），计算材料科学 — *佛罗里达大学 (University of Florida)*，盖恩斯维尔，FL
-- **2025 – 2026** · 访问研究员，仿生传感器 — *韩国交通大学 (Korea National University of Transportation)*，忠州
+- **2025 – 2026** · 访问研究员，电气电子与机器人工程 — *韩国交通大学 (Korea National University of Transportation)*，忠州
 - **2023 – 2025** · 电极工艺技术顾问 — *电动车电池合资公司*，中国盐城 — 高端电动车产线投产
 - **2021 – 2023** · 电极工艺工程师 — *大型电动车电池制造商*，瑞山 — 量产管理
 - **2017 – 2019** · 工学硕士，纳米科学与工程 — *成均馆大学 (Sungkyunkwan University, SKKU)*，水原

@@ -7,6 +7,8 @@ tags: ["مفتوح المصدر", "ذكاء اصطناعي"]
 subtitle: "لا تعيق النماذج الأذكى، بل تكتشف الأخطاء الواضحة فقط"
 description: "أداة فحص بلغة بايثون مفتوحة المصدر تكتشف العيوب الموضوعية فقط في ملفات PPT وExcel وWord التي ينشئها الذكاء الاصطناعي، مثل النص الذي يتجاوز حدود الشريحة وأخطاء #REF! وبقايا تنسيق ماركداون. حتمية، برخصة MIT، وتعمل بخطاف Claude Code."
 image: /images/llm-office-qa-card.svg
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/llm-office-qa-card.svg" alt="أيقونة llm-office-qa">

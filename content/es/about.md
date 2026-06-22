@@ -14,7 +14,7 @@ Espero que el camino que ya recorrí sea un poco menos difícil para quien venga
 ## Trayectoria
 
 - **2026 –** · Ingreso previsto al doctorado, ciencia de materiales computacional — _Universidad de Florida (UF)_, Gainesville, FL
-- **2025 – 2026** · Investigador visitante, sensores biomiméticos — _Universidad Nacional de Transporte de Corea_, Chungju
+- **2025 – 2026** · Investigador visitante, ingeniería eléctrica-electrónica y robótica — _Universidad Nacional de Transporte de Corea_, Chungju
 - **2023 – 2025** · Asesor técnico de procesos de electrodos — _empresa conjunta de baterías para vehículos eléctricos_, Yancheng, China — lanzamiento de una línea premium de vehículos eléctricos
 - **2021 – 2023** · Ingeniero de procesos de electrodos — _gran fabricante de baterías para vehículos eléctricos_, Seosan — gestión de producción en serie
 - **2017 – 2019** · Máster en Ingeniería, nanociencia e ingeniería — _Universidad Sungkyunkwan (SKKU)_, Suwon

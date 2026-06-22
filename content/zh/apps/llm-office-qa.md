@@ -7,6 +7,8 @@ tags: ["open-source", "ai"]
 subtitle: "不封住模型的上限，只揪出明显的错误"
 description: "只揪出 AI 生成 PPT、Excel、Word 客观缺陷的开源 Python linter：文字溢出、#REF! 错误、残留 markdown。确定性、MIT 许可、Claude Code 钩子。"
 image: /images/llm-office-qa-card.svg
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/llm-office-qa-card.svg" alt="llm-office-qa 图标">

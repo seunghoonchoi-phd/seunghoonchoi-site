@@ -7,6 +7,8 @@ tags: ["código abierto", "ia"]
 subtitle: "No frena a los modelos más inteligentes; solo detecta los errores evidentes"
 description: "Un linter de Python de código abierto que detecta solo defectos objetivos en archivos PPT, Excel y Word hechos por IA: texto que se desborda, errores #REF!, markdown sin borrar y más. Determinista, MIT, hook de Claude Code."
 image: /images/llm-office-qa-card.svg
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/llm-office-qa-card.svg" alt="Ícono de llm-office-qa">
