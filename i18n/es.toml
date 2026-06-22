@@ -3,7 +3,7 @@
 other = "Investigación y resultados"
 # parent dropdown labels
 [writing]
-other = "Textos"
+other = "Contenido"
 [resources]
 other = "Recursos"
 # leaf sections

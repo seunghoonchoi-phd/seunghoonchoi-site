@@ -3,7 +3,7 @@
 other = "研究"
 # parent dropdown labels
 [writing]
-other = "文章"
+other = "内容"
 [resources]
 other = "资料"
 # leaf sections

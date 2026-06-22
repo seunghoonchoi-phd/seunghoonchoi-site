@@ -3,7 +3,7 @@
 other = "الأبحاث والإنجازات"
 # parent dropdown labels
 [writing]
-other = "الكتابة"
+other = "محتوى"
 [resources]
 other = "الموارد"
 # leaf sections

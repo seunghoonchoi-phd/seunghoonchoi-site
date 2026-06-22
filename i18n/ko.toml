@@ -3,7 +3,7 @@
 other = "연구·성과"
 # parent dropdown labels
 [writing]
-other = "글"
+other = "콘텐츠"
 [resources]
 other = "자료"
 # leaf sections

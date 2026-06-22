@@ -9,9 +9,9 @@
   var ALLOWED = 'herring2141@gmail.com';
   if (!WORKER || !CLIENT || !CFG.path) return;
 
-  var titleEl = document.querySelector('.post__title');
+  var titleEl = document.querySelector('.post__title') || document.querySelector('.section__title');
   var subEl = document.querySelector('.post__subtitle');
-  var bodyEl = document.querySelector('.post__body') || document.querySelector('.home-hero__intro');
+  var bodyEl = document.querySelector('.post__body') || document.querySelector('.lede') || document.querySelector('.home-hero__intro');
   var hasCards = !!document.querySelector('[data-rk]');
   if (!bodyEl && !titleEl && !hasCards) return; // 편집 대상도 카드도 없으면 아무것도 안 함
   // 본문은 항상 인라인 편집. 단 raw HTML 특수 블록(앱 카드·시·표·통계)은 편집을 잠가 구조를 보호하고 저장 때 그대로 보존(turndown keep).

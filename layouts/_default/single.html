@@ -21,18 +21,7 @@
   </div>
   {{ with .Params.tags }}
   <div class="post__tags">{{ range . }}<a class="tag" href="{{ "tags/" | relLangURL }}{{ . | urlize }}/">#{{ . }}</a>{{ end }}</div>
-  {{ end }}
-  <aside class="post__authorbox reveal">
-    <div class="post__authorbox-label">{{ i18n "written_by" }}</div>
-    <a class="post__authorbox-name" href="{{ "about" | relLangURL }}" rel="author">{{ i18n "author_name" }}</a>
-    <p class="post__authorbox-bio">{{ i18n "author_bio" }}</p>
-    <div class="post__authorbox-links">
-      <a href="{{ "about" | relLangURL }}">{{ i18n "about" }}</a>
-      {{ with .Site.Params.orcid }}<a href="{{ . }}" rel="nofollow noopener" target="_blank">ORCID ↗</a>{{ end }}
-      {{ with .Site.Params.googleScholar }}<a href="{{ . }}" rel="nofollow noopener" target="_blank">Google Scholar ↗</a>{{ end }}
-    </div>
-  </aside>
-  {{ $rel := first 3 (where (.Site.RegularPages.Related .) "Section" .Section) }}
+  {{ end }}  {{ $rel := first 3 (where (.Site.RegularPages.Related .) "Section" .Section) }}
   {{ if not $rel }}{{ $rel = first 3 ((where (where .Site.RegularPages "Section" .Section) "Permalink" "!=" .Permalink).ByDate.Reverse) }}{{ end }}
   {{ with $rel }}
   <nav class="post__more reveal" aria-label="{{ i18n "more_posts" }}">
