@@ -1,7 +1,7 @@
 ---
 title: "연구·성과"
 ---
-저는 소재와 제조 공정을 더 예측 가능하게 만드는 방법에 관심이 있습니다. 석사 과정에서는 미세구조와 계면이 센서 성능을 어떻게 바꾸는지 연구했고, 이후 배터리 전극 공정 현장에서는 슬러리, 코팅, 캘린더링 같은 공정 조건이 실제 품질로 이어지는 과정을 가까이에서 봤습니다.
+소재와 제조 공정을 더 예측 가능하게 만드는 방법에 관심이 있습니다. 석사 과정에서는 미세구조와 계면이 센서 성능을 어떻게 바꾸는지 연구했고, 이후 배터리 전극 공정 현장에서는 슬러리, 코팅, 같은 공정들의 조건이 품질에 어떤 영향을 미치는지 연구했습니다.
 
 앞으로는 계산재료과학과 머신러닝으로 원자 단위 특성과 실제 공정·성능 사이의 간격을 줄이는 연구를 이어가려 합니다.
 
@@ -21,9 +21,9 @@ title: "연구·성과"
 
 [![Advanced Functional Materials 백커버 — 전도성 계층형 헤어리 파이버 센서](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
-섬유 표면에 미세한 계층 구조를 만들고 전도성을 입혀, 잘 늘어나면서도 물에 강한 멀티모달 센서를 만들었습니다. 큰 변형에서도 전기 신호가 안정적으로 유지됐고, 미세구조의 형상이 신축성 나노복합체의 전기 전도와 센서 성능을 어떻게 바꾸는지 보였습니다. 이 연구는 *Advanced Functional Materials* 2019년 50호 Back Cover로 실렸고, Google Scholar 기준 140회 넘게 인용됐습니다.
+섬유 표면에 미세한 계층 구조를 만들고 전도성을 입혀, 잘 늘어나면서도 물에 강한 멀티모달 센서를 만들었습니다. 큰 변형에서도 전기 신호가 안정적으로 유지됐고, 미세구조의 형상이 신축성 나노복합체의 전기 전도와 센서 성능을 어떻게 바꾸는지 보였습니다. 이 연구는 _Advanced Functional Materials_ 2019년 50호 Back Cover로 실렸고, Google Scholar 기준 140회 넘게 인용됐습니다.
 
-<p class="pub-cite">Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. <strong>Seunghoon Choi</strong>, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee*, Changhyun Pang*. <em>Advanced Functional Materials</em> 29(50), 2019, 1905808. · 제1저자 · Back Cover</p>
+Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. **Seunghoon Choi**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. _Advanced Functional Materials_ 29(50), 2019, 1905808. · 제1저자 · Back Cover
 
 [논문 보기 ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
@@ -33,26 +33,22 @@ title: "연구·성과"
 
 문어의 팔, 흡착컵, 유연한 몸에서 영감을 받은 소프트 그리퍼 연구를 정리한 리뷰입니다. 구조 설계, 센싱 소자, 제어 전략, AI 응용을 함께 다루며, 기하 구조와 소재 선택이 흡착·센싱 성능을 어떻게 좌우하는지 분석했습니다. 생체모사 구조를 공학 설계의 언어로 옮긴 작업이고, 이후 제가 미세구조·계면·센싱 문제를 바라보는 방식과도 이어집니다.
 
-<p class="pub-cite">Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence. <strong>Seunghoon Choi</strong>†, Junwon Jang†, Junho Lee, Da Wan Kim*. <em>Biomimetics</em> 2025, 10(12), 813. · 공동 1저자</p>
+Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence. **Seunghoon Choi**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. _Biomimetics_ 2025, 10(12), 813. · 공동 1저자
 
 [논문 보기 ↗](https://doi.org/10.3390/biomimetics10120813)
 
 ## 논문
 
-<p class="publication-note">표기: † 공동 1저자 · * 교신저자 · 굵은 글씨는 Seunghoon Choi</p>
+표기: † 공동 1저자 · \* 교신저자 · 굵은 글씨는 Seunghoon Choi
 
-1. **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor.**
-   **Seunghoon Choi**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. *Advanced Functional Materials* 29(50), 2019, 1905808. — **제1저자**
-2. **Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence.**
-   **Seunghoon Choi**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. *Biomimetics* 2025, 10(12), 813. — **공동 1저자**
-3. **Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions.**
-   Subi Jeon†, **Seunghoon Choi**†, Junwon Jang, Jun Young Shim, Da Wan Kim\*. *International Journal of Internet, Broadcasting and Communication* 18(1), 2026, 274–284. — **공동 1저자**
-4. **Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.**
-   Subi Jeon†, **Seunghoon Choi**†, Da Wan Kim\*. *International Journal of Advanced Smart Convergence* 15(1), 2026, 241–253. — **공동 1저자**
+1.  **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor.** **Seunghoon Choi**, Kukro Yoon, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. _Advanced Functional Materials_ 29(50), 2019, 1905808. — **제1저자**
+2.  **Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence.** **Seunghoon Choi**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. _Biomimetics_ 2025, 10(12), 813. — **공동 1저자**
+3.  **Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions.** Subi Jeon†, **Seunghoon Choi**†, Junwon Jang, Jun Young Shim, Da Wan Kim\*. _International Journal of Internet, Broadcasting and Communication_ 18(1), 2026, 274–284. — **공동 1저자**
+4.  **Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.** Subi Jeon†, **Seunghoon Choi**†, Da Wan Kim\*. _International Journal of Advanced Smart Convergence_ 15(1), 2026, 241–253. — **공동 1저자**
 
 ## 심사 중 원고
 
-- Pilot clinical study of a biomimetic suction patch for transdermal delivery. *Journal of Cosmetic Dermatology* 심사 중, 2026.
+- Pilot clinical study of a biomimetic suction patch for transdermal delivery. _Journal of Cosmetic Dermatology_ 심사 중, 2026.
 
 ## 특허
 
@@ -61,9 +57,9 @@ title: "연구·성과"
 
 ## 수상 및 발표
 
-- **정부 장학금 — 학·석사 연계과정** · *성균관대학교, 2017* — 성적우수 전액 장학, ESPCI Paris 8주 연구 연수 포함.
-- **Best Poster Award** — Octopus-Inspired Adhesive Patch for Bio-Signal Monitoring · *MRS Fall Meeting, Boston, 2018*
-- **하이브리드 나노복합체 기반 섬유형 멀티모달 센서** · *한국고분자학회 추계학술대회, 부산, 2017*
+- **정부 장학금 — 학·석사 연계과정** · _성균관대학교, 2017_ — 성적우수 전액 장학, ESPCI Paris 8주 연구 연수 포함.
+- **Best Poster Award** — Octopus-Inspired Adhesive Patch for Bio-Signal Monitoring · _MRS Fall Meeting, Boston, 2018_
+- **하이브리드 나노복합체 기반 섬유형 멀티모달 센서** · _한국고분자학회 추계학술대회, 부산, 2017_
 
 ## 기술 스택
 
