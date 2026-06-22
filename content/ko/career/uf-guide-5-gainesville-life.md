@@ -54,7 +54,7 @@ UF 대학원생은 거의 다 **오프캠퍼스**에 삽니다. 온캠퍼스 대
 | 기타 | $150~$250 |
 | **합계** | **약 $1,300~$1,850** |
 
-세후 실수령은 **월 ~$2,200~$2,400** 정도라, 혼자 살기는 **가능하지만 빠듯합니다**. 돈을 아끼는 핵심은 **룸메이트 공유 + RTS 무료**입니다. 스튜디오 단독으로 가면 stipend의 절반이 주거비로 나갑니다.
+세후 실수령은 **월 ~$2,200~$2,400** 정도라, 혼자 살기는 **가능하지만 빠듯합니다**. 세금·조약 적용·보험 공제·fee 납부 시점에 따라 달라지므로, 이 숫자는 대략적인 체감 범위로만 보세요. 돈을 아끼는 핵심은 **룸메이트 공유 + RTS 무료**입니다. 스튜디오 단독으로 가면 stipend의 절반이 주거비로 나갑니다.
 
 ## 식료품·쇼핑
 
@@ -69,18 +69,18 @@ UF 대학원생은 거의 다 **오프캠퍼스**에 삽니다. 온캠퍼스 대
 
 UF 의료비는 **두 주머니**로 나뉩니다.
 
-- **(A) Student Health Fee** — 등록금에 포함됩니다. 재학생은 **SHCC 진료실 방문(office visit) 자체가 무료·무제한**입니다(의사 진찰, 전화상담 등).
+- **(A) Student Health Fee** — 등록금에 포함됩니다. Student Health Fee는 대부분의 SHCC office visit 본인부담을 보조하지만, 검사·영상·시술·처방·예방접종 등은 별도 비용이 날 수 있습니다.
 - **(B) 보험(GatorGradCare)** — **별도로 청구되는 것**(검사·영상·시술·예방접종·처방약·물리치료 등)을 결제합니다. SHCC는 GatorGradCare **Tier 1(가장 저렴)** 기관이라 본인부담이 가장 적습니다.
 
-결론은 간단합니다. **GatorGradCare 가입자는 가급적 SHCC에서 진료받는 게 거의 항상 가장 쌉니다.** 청구 문의는 SHCC PFS **(352) 273-4546 / insurance@shcc.ufl.edu**.
+결론은 간단합니다. 일반 진료는 **SHCC와 GatorCare Tier 1 네트워크를 먼저 확인하는 것이 보통 비용을 줄이는 데 유리합니다.** 청구 문의는 SHCC PFS **(352) 273-4546 / insurance@shcc.ufl.edu**.
 
 ### Waiver 방향 — 거꾸로 알면 괜한 돈을 냅니다
 
-GA(.25 FTE 이상, 주 10시간 이상)는 **GatorGradCare**(BlueCross BlueShield FL)에 신규 적격 시 **자동 가입(Employee Only)**됩니다. 본인부담은 **월 약 $12**(급여공제)이고 나머지는 UF가 부담합니다.
+GA(.25 FTE 이상, 주 10시간 이상)는 **GatorGradCare**(BlueCross BlueShield FL)에 신규 적격 시 **자동 가입(Employee Only)**됩니다. 본인부담은 **Employee Only 기준 월 $17.65**(급여공제)이고 나머지는 UF가 부담합니다.
 
 여기서 가장 흔한 실수가 waiver 방향을 거꾸로 이해하는 것입니다.
 
-> **⚠️ 핵심**: waiver를 안 하면 학교 의무플랜(**UnitedHealthcare StudentResources**)에 **자동 등록되어 학생계정에 보험료(학기당 $1,000+)가 청구**됩니다. 그래서 GatorGradCare를 가진 GA는 **"GatorGradCare로 waive"하는 절차**를 밟아 UHC 자동등록과 청구를 막아야 합니다.
+> **⚠️ 핵심**: waiver를 안 하면 UF 학생보험으로 자동 등록되어 term당 $1,000+ 비용이 청구될 수 있습니다. GatorGradCare가 있어도 waiver는 별도로 해야 합니다. 그래서 GatorGradCare를 가진 GA는 **"GatorGradCare로 waive"하는 절차**를 밟아 UHC 자동등록과 청구를 막아야 합니다.
 
 waiver는 한 번 하면 **약 3개 연속 학기(≈1년)** 유효하니, 만료 전 갱신 알림을 꼭 확인하세요. 절차: [How to Waive (GatorGradCare)](https://healthcompliance.shcc.ufl.edu/health-insurance-requirement/gatorgradcare/how-to-waive-with-gatorgradcare/) · [GatorGradCare](https://gatorcare.org/gatorgradcare/) · [보험요건/요율·마감](https://healthcompliance.shcc.ufl.edu/uf-plan-rates-dates/)
 
