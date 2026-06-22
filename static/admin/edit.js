@@ -123,24 +123,41 @@
   function rvSetStatusRaw(raw, status){ var d=splitDoc(raw); if(!d.hasFm) return raw; var fm=d.fmFull.replace(/^reviewStatus:[ \t]*.*\r?\n/m,'').replace(/^reviewed:[ \t]*.*\r?\n/m,''); if(status==='reviewing'||status==='done') fm=fm.replace(/(\r?\n---\r?\n)$/,'\nreviewStatus: "'+status+'"$1'); return fm + d.body; }
   /* ---- 숨김: hidden:true + Hugo build로 공개 목록/사이트맵/검색에서 빠지되 URL은 살림. 전 언어 적용(관리자 setHidden과 동일 포맷). 복구는 관리자 페이지. ---- */
   function setHiddenRaw(raw, hide){ var d=splitDoc(raw); if(!d.hasFm) return raw; var fm=d.fmFull.replace(/^hidden:[ \t]*.*\r?\n/m,'').replace(/^build:[ \t]*\{[^}]*\}[ \t]*\r?\n/m,''); if(hide) fm=fm.replace(/(\r?\n---\r?\n)$/,'\nhidden: true\nbuild: {list: never, render: always}$1'); return fm + d.body; }
-  function hideCard(rk, card, hb){
-    if (!tokenValid()){ ensureAuth().then(function(){ hideCard(rk, card, hb); }).catch(function(e){ if(e&&e.message) alert('로그인 필요: '+e.message); }); return; }
-    if (!confirm('이 글을 공개 목록에서 숨길까요?\n모든 언어에서 숨겨집니다. 복구는 관리자 페이지(/admin/)에서 할 수 있어요.')) return;
-    var langs=['ko','en','zh','es','hi','ar'], done=0, i=0;
-    hb.textContent='숨기는 중…'; hb.style.opacity='.6'; hb.style.pointerEvents='none';
-    function finish(){ card.style.opacity='.42'; card.style.filter='grayscale(.45)'; hb.textContent='숨김됨 ('+done+'개 언어) · 배포되면 사라짐'; hb.style.color='#1b7a3d'; hb.style.background='#E7F6EC'; hb.style.borderColor='#B7E4C7'; }
-    function fail(lang, m){ hb.textContent='숨기기'; hb.style.opacity='1'; hb.style.pointerEvents='auto'; alert('숨김 실패('+lang+'): '+m); }
+  /* 숨긴 글 미러(소유 브라우저 localStorage). 숨긴 글은 공개 목록에서 빠져 라이브에 안 떠 → 여기에 기억해 소유자에게만 '유령 카드'로 다시 띄워 원클릭 해제. 공개 HTML엔 절대 안 들어감. */
+  function hidGet(){ try{ return (JSON.parse(localStorage.getItem('sc_hidden')||'{}')||{}).items||{}; }catch(e){ return {}; } }
+  function hidSave(items){ try{ localStorage.setItem('sc_hidden', JSON.stringify({ at: Date.now(), items: items })); }catch(e){} }
+  function hidHas(rk){ return !!hidGet()[rk]; }
+  function hidAdd(rk, info){ var it=hidGet(); it[rk]=info; hidSave(it); }
+  function hidDel(rk){ var it=hidGet(); delete it[rk]; hidSave(it); }
+  function hideBtnStyle(hb, hidden){
+    hb.textContent = hidden ? '숨김 해제' : '숨기기';
+    hb.title = hidden ? '이 글을 다시 공개 (전 언어)' : '이 글을 공개 목록에서 숨김 (전 언어 · 나만 보임)';
+    var c = hidden ? 'color:#1b7a3d;background:#E7F6EC;border-color:#B7E4C7' : 'color:#8a6d1f;background:#FFF3D9;border-color:#EBD9B0';
+    hb.style.cssText='cursor:pointer;display:inline-block;font-size:.66rem;font-weight:700;padding:2px 8px;border-radius:6px;margin-left:6px;vertical-align:1px;border:1px solid;'+c;
+  }
+  /* 숨기기/해제를 한 함수로: 전 언어 hidden 토글 + sc_hidden 미러 + UI. 해제도 원클릭. */
+  function setCardHidden(rk, card, hb, hide, info){
+    if (!tokenValid()){ ensureAuth().then(function(){ setCardHidden(rk, card, hb, hide, info); }).catch(function(e){ if(e&&e.message) alert('로그인 필요: '+e.message); }); return; }
+    if (hide && !confirm('이 글을 공개 목록에서 숨길까요?\n모든 언어에서 숨겨집니다. (이 버튼으로 언제든 다시 공개할 수 있어요.)')) return;
+    var langs=['ko','en','zh','es','hi','ar'], i=0;
+    hb.textContent = hide ? '숨기는 중…' : '해제하는 중…'; hb.style.opacity='.6'; hb.style.pointerEvents='none';
+    function finish(){
+      hb.style.opacity='1'; hb.style.pointerEvents='auto';
+      if (hide){ hidAdd(rk, info||{}); if(card){ card.style.opacity='.5'; card.style.filter='grayscale(.5)'; } hideBtnStyle(hb, true); }
+      else { hidDel(rk); if(card && card.classList.contains('sc-ghost')){ card.remove(); } else if(card){ card.style.opacity=''; card.style.filter=''; hideBtnStyle(hb, false); } }
+    }
+    function fail(lang, m){ hb.style.opacity='1'; hb.style.pointerEvents='auto'; hideBtnStyle(hb, !hide); alert((hide?'숨김':'해제')+' 실패('+lang+'): '+m); }
     function step(){
       if (i>=langs.length){ finish(); return; }
       var lang=langs[i++], path='content/'+lang+'/'+rk+'.md';
       api('GET','file',{path:path}).then(function(r){
-        if (r.status===404){ step(); return; } // 그 언어 파일 없음 → 건너뜀
+        if (r.status===404){ step(); return; }
         if (r.status===401){ clearToken(); throw new Error('세션 만료 — 다시 누르세요'); }
         if (!r.ok) throw new Error('읽기 '+r.status);
         return r.json().then(function(j){
-          var raw=b64utf8(j.content), next=setHiddenRaw(raw, true);
-          if (next===raw){ done++; step(); return; } // 이미 숨김
-          return api('PUT','file',{ path:path, body:{ content:utf8b64(next), sha:j.sha, message:'admin: hide '+path } }).then(function(pr){ if(!pr.ok) throw new Error('저장 '+pr.status); done++; step(); });
+          var raw=b64utf8(j.content), next=setHiddenRaw(raw, hide);
+          if (next===raw){ step(); return; }
+          return api('PUT','file',{ path:path, body:{ content:utf8b64(next), sha:j.sha, message:'admin: '+(hide?'hide':'show')+' '+path } }).then(function(pr){ if(!pr.ok) throw new Error('저장 '+pr.status); step(); });
         });
       }).catch(function(e){ fail(lang, e.message); });
     }
@@ -182,13 +199,42 @@
       b.addEventListener('click', function(e){ e.preventDefault(); e.stopPropagation(); rvMenu(b, rk, lang); });
       meta.appendChild(b);
       var hb=document.createElement('span'); hb.className='sc-hide';
-      hb.textContent='숨기기'; hb.title='이 글을 공개 목록에서 숨김 (전 언어 · 관리자에서 복구)';
-      hb.style.cssText='cursor:pointer;display:inline-block;font-size:.66rem;font-weight:700;padding:2px 8px;border-radius:6px;margin-left:6px;vertical-align:1px;color:#8a6d1f;background:#FFF3D9;border:1px solid #EBD9B0;';
-      hb.addEventListener('click', function(e){ e.preventDefault(); e.stopPropagation(); hideCard(rk, card, hb); });
+      var isHid=hidHas(rk); hideBtnStyle(hb, isHid);
+      if (isHid){ card.style.opacity='.5'; card.style.filter='grayscale(.5)'; }
+      hb.addEventListener('click', function(e){ e.preventDefault(); e.stopPropagation();
+        var hide=!hidHas(rk);
+        var ta=card.querySelector('.card__title a')||card.querySelector('a[href]'), tt=card.querySelector('.card__title');
+        var info={ title:(tt?tt.textContent:rk).trim(), url:ta?ta.getAttribute('href'):'', lang:rvLang() };
+        setCardHidden(rk, card, hb, hide, info);
+      });
       meta.appendChild(hb);
     });
   }
-  function onReady(){ if (bodyEl||titleEl) btn.classList.add('show'); paintCardBadges(); }
+  function pageSectionLang(){ var m=(CFG.path||'').match(/^content\/([a-z]+)\/([^/]+)\//); return m ? { lang:m[1], section:m[2] } : null; }
+  /* 숨긴 글을 소유자에게만 '유령 카드'로 목록에 다시 띄움(공개 HTML엔 없음) → 배포 후에도 원클릭 해제 가능. */
+  function paintHiddenGhosts(){
+    if(!hasCards) return;
+    var pl=pageSectionLang(); if(!pl) return;
+    var list=document.querySelector('[data-list]')||document.querySelector('.cards'); if(!list) return;
+    var items=hidGet();
+    Object.keys(items).forEach(function(rk){
+      var info=items[rk]||{};
+      if (info.lang && info.lang!==pl.lang) return;        // 이 언어에서 숨긴 것만
+      if (rk.split('/')[0]!==pl.section) return;            // 이 섹션 글만
+      if (document.querySelector('[data-rk="'+rk+'"]')) return; // 미배포라 아직 DOM에 있으면 스킵
+      var g=document.createElement('article'); g.className='card sc-ghost'; g.setAttribute('data-rk', rk);
+      g.style.cssText='opacity:.66;border:1px dashed #B7E4C7;border-radius:14px;padding:8px 6px';
+      var body=document.createElement('div'); body.className='card__body';
+      var meta=document.createElement('div'); meta.className='card__meta';
+      var lbl=document.createElement('span'); lbl.textContent='숨김됨(나만 보임)'; lbl.style.cssText='font-size:.66rem;font-weight:700;color:#1b7a3d;background:#E7F6EC;border:1px solid #B7E4C7;border-radius:6px;padding:2px 8px';
+      var hb=document.createElement('span'); hb.className='sc-hide'; hideBtnStyle(hb, true);
+      hb.addEventListener('click', function(e){ e.preventDefault(); e.stopPropagation(); setCardHidden(rk, g, hb, false, info); });
+      meta.appendChild(lbl); meta.appendChild(hb);
+      var h=document.createElement('h3'); h.className='card__title'; var a=document.createElement('a'); a.href=info.url||'#'; a.textContent=info.title||rk; h.appendChild(a);
+      body.appendChild(meta); body.appendChild(h); g.appendChild(body); list.appendChild(g);
+    });
+  }
+  function onReady(){ if (bodyEl||titleEl) btn.classList.add('show'); paintCardBadges(); paintHiddenGhosts(); }
 
   function bar(){
     var b = document.getElementById('scBar');
