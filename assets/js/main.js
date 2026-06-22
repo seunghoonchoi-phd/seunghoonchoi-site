@@ -171,23 +171,19 @@
     if (!raw) return;
     var map;
     try { map = (JSON.parse(raw) || {}).map || {}; } catch (e) { return; }
+    var lm = (document.body.className || "").match(/lang-([a-z]+)/); var lang = lm ? lm[1] : "en";
+    var RVL = { none: ["미검수", "#9a7b1f", "#FBF1D6", "#E8D6A8"], reviewing: ["검수중", "#8a6d1f", "#FFF3D9", "#EBD9B0"], done: ["검수완료", "#1b7a3d", "#E7F6EC", "#B7E4C7"] };
     document.querySelectorAll("[data-rk]").forEach(function (card) {
       if (card.querySelector(".rv-badge")) return;
       var st = map[card.getAttribute("data-rk")];
-      if (!st) return;
-      var langs = Object.keys(st);
-      if (!langs.length) return;
-      var n = 0; langs.forEach(function (l) { if (st[l]) n++; });
-      var total = langs.length, color, bg, bd, label;
-      if (n === 0) { label = "미검수"; color = "#9a7b1f"; bg = "#FBF1D6"; bd = "#E8D6A8"; }
-      else if (n === total) { label = "검수완료"; color = "#1b7a3d"; bg = "#E7F6EC"; bd = "#B7E4C7"; }
-      else { label = "검수 " + n + "/" + total; color = "#8a6d1f"; bg = "#FFF3D9"; bd = "#EBD9B0"; }
+      if (!st || !(lang in st)) return;
+      var v = RVL[st[lang]] || RVL.none;
       var meta = card.querySelector(".card__meta") || card;
       var b = document.createElement("span");
       b.className = "rv-badge";
-      b.textContent = label;
+      b.textContent = v[0];
       b.title = "검수 상태 · 나만 보임(외부 비공개)";
-      b.style.cssText = "display:inline-block;font-size:.66rem;font-weight:700;letter-spacing:.02em;padding:1px 7px;border-radius:6px;margin-left:8px;vertical-align:1px;color:" + color + ";background:" + bg + ";border:1px solid " + bd + ";";
+      b.style.cssText = "display:inline-block;font-size:.66rem;font-weight:700;letter-spacing:.02em;padding:1px 7px;border-radius:6px;margin-left:8px;vertical-align:1px;color:" + v[1] + ";background:" + v[2] + ";border:1px solid " + v[3] + ";";
       meta.appendChild(b);
     });
   }

@@ -12,7 +12,8 @@
   var titleEl = document.querySelector('.post__title');
   var subEl = document.querySelector('.post__subtitle');
   var bodyEl = document.querySelector('.post__body') || document.querySelector('.home-hero__intro');
-  if (!bodyEl && !titleEl) return; // 편집 대상 없는 페이지(목록 등)면 버튼 안 만듦
+  var hasCards = !!document.querySelector('[data-rk]');
+  if (!bodyEl && !titleEl && !hasCards) return; // 편집 대상도 카드도 없으면 아무것도 안 함
   // 본문은 항상 인라인 편집. 단 raw HTML 특수 블록(앱 카드·시·표·통계)은 편집을 잠가 구조를 보호하고 저장 때 그대로 보존(turndown keep).
   var SPECIAL = '.appcard, .poem, table, iframe, .stats';
   var bodyHasRawHtml = bodyEl ? !!bodyEl.querySelector('.appcard, .poem, table, iframe, .cta, script, style, .stats') : false;
@@ -50,9 +51,9 @@
   function decodeJwt(t){ return JSON.parse(b64utf8(t.split('.')[1].replace(/-/g,'+').replace(/_/g,'/'))); }
 
   /* ---- 인증: 본인 구글 로그인 확인되면 버튼 노출(아니면 숨김) ---- */
-  function useToken(tok, exp){ ID_TOKEN = tok; try{ sessionStorage.setItem('sc_edit_tok', JSON.stringify({ token: tok, exp: exp })); }catch(e){} btn.classList.add('show'); }
+  function useToken(tok, exp){ ID_TOKEN = tok; try{ sessionStorage.setItem('sc_edit_tok', JSON.stringify({ token: tok, exp: exp })); }catch(e){} onAuthed(); }
   (function authInit(){
-    try { var t = JSON.parse(sessionStorage.getItem('sc_edit_tok') || 'null'); if (t && t.exp*1000 > Date.now()+60000) { ID_TOKEN = t.token; btn.classList.add('show'); return; } } catch(e){}
+    try { var t = JSON.parse(sessionStorage.getItem('sc_edit_tok') || 'null'); if (t && t.exp*1000 > Date.now()+60000) { ID_TOKEN = t.token; onAuthed(); return; } } catch(e){}
     ensureGIS().then(function(){
       google.accounts.id.initialize({ client_id: CLIENT, auto_select: true, cancel_on_tap_outside: true, callback: function(resp){
         try { var c = decodeJwt(resp.credential); if ((c.email||'').toLowerCase()===ALLOWED && String(c.email_verified)==='true') useToken(resp.credential, c.exp); } catch(e){}
@@ -67,6 +68,51 @@
     return fetch(u, { method: method, headers: Object.assign({ 'Authorization': 'Bearer ' + ID_TOKEN }, opts.body ? { 'Content-Type': 'application/json' } : {}), body: opts.body ? JSON.stringify(opts.body) : undefined });
   }
   function msg(m){ var e=document.querySelector('#scBar .m'); if(e) e.textContent=m||''; }
+
+  /* ---- review-status badges on card lists (owner-only, interactive 3-state) ---- */
+  var RV = { none:{l:'미검수',c:'#9a7b1f',bg:'#FBF1D6',bd:'#E8D6A8'}, reviewing:{l:'검수중',c:'#8a6d1f',bg:'#FFF3D9',bd:'#EBD9B0'}, done:{l:'검수완료',c:'#1b7a3d',bg:'#E7F6EC',bd:'#B7E4C7'} };
+  function rvLang(){ var m=(document.body.className||'').match(/lang-([a-z]+)/); return m?m[1]:'en'; }
+  function rvCache(){ try{ return (JSON.parse(localStorage.getItem('sc_review_status')||'{}')||{}).map||{}; }catch(e){ return {}; } }
+  function rvSave(map){ try{ localStorage.setItem('sc_review_status', JSON.stringify({ at: Date.now(), map: map })); }catch(e){} }
+  function rvStyle(b, status){ var s=RV[status]||RV.none; b.textContent=s.l; b.setAttribute('data-rv', status); b.style.cssText='cursor:pointer;display:inline-block;font-size:.66rem;font-weight:700;letter-spacing:.02em;padding:2px 8px;border-radius:6px;margin-left:8px;vertical-align:1px;color:'+s.c+';background:'+s.bg+';border:1px solid '+s.bd+';'; }
+  function rvSetStatusRaw(raw, status){ var d=splitDoc(raw); if(!d.hasFm) return raw; var fm=d.fmFull.replace(/^reviewStatus:[ \t]*.*\r?\n/m,'').replace(/^reviewed:[ \t]*.*\r?\n/m,''); if(status==='reviewing'||status==='done') fm=fm.replace(/(\r?\n---\r?\n)$/,'\nreviewStatus: "'+status+'"$1'); return fm + d.body; }
+  function rvSet(rk, lang, status, badge){
+    rvStyle(badge, status); // optimistic
+    var path='content/'+lang+'/'+rk+'.md';
+    api('GET','file',{path:path}).then(function(r){ if(r.status===401){ throw new Error('세션 만료 — 새로고침 후 다시'); } if(!r.ok) throw new Error('읽기 '+r.status); return r.json(); }).then(function(j){
+      var next=rvSetStatusRaw(b64utf8(j.content), status);
+      return api('PUT','file',{ path:path, body:{ content:utf8b64(next), sha:j.sha, message:'admin: review '+status+' '+path } });
+    }).then(function(r){ if(!r.ok) throw new Error('저장 '+r.status); var map=rvCache(); (map[rk]=map[rk]||{})[lang]=status; rvSave(map); }).catch(function(e){ alert('검수 상태 저장 실패: '+e.message); });
+  }
+  function rvMenu(badge, rk, lang){
+    var ex=document.querySelector('.rv-menu'); if(ex) ex.remove();
+    var menu=document.createElement('div'); menu.className='rv-menu';
+    menu.style.cssText='position:absolute;z-index:9005;background:#fff;border:1px solid #e3e0d8;border-radius:8px;box-shadow:0 10px 26px rgba(13,27,76,.2);padding:4px;display:flex;flex-direction:column;min-width:104px';
+    ['none','reviewing','done'].forEach(function(stt){
+      var it=document.createElement('button'); it.type='button'; it.textContent=RV[stt].l;
+      it.style.cssText='text-align:left;border:0;background:transparent;font:700 12px/1.4 sans-serif;color:'+RV[stt].c+';padding:7px 12px;border-radius:6px;cursor:pointer';
+      it.onmouseover=function(){ it.style.background='#EEF2FF'; }; it.onmouseout=function(){ it.style.background='transparent'; };
+      it.addEventListener('click', function(ev){ ev.stopPropagation(); rvSet(rk, lang, stt, badge); menu.remove(); });
+      menu.appendChild(it);
+    });
+    document.body.appendChild(menu);
+    var r=badge.getBoundingClientRect();
+    menu.style.left=(window.pageXOffset+r.left)+'px'; menu.style.top=(window.pageYOffset+r.bottom+5)+'px';
+    setTimeout(function(){ document.addEventListener('click', function cls(e){ if(!menu.contains(e.target)){ menu.remove(); document.removeEventListener('click', cls); } }); }, 0);
+  }
+  function paintCardBadges(){
+    if(!hasCards) return;
+    var lang=rvLang(), map=rvCache();
+    document.querySelectorAll('[data-rk]').forEach(function(card){
+      var rk=card.getAttribute('data-rk'), meta=card.querySelector('.card__meta'); if(!meta) return;
+      var old=card.querySelector('.rv-badge'); if(old) old.remove(); // main.js 표시본 제거하고 인터랙티브로 교체
+      var status=(map[rk]&&map[rk][lang])||'none';
+      var b=document.createElement('span'); b.className='rv-badge'; rvStyle(b, status); b.title='검수 상태 — 클릭해서 변경(나만 보임)';
+      b.addEventListener('click', function(e){ e.preventDefault(); e.stopPropagation(); rvMenu(b, rk, lang); });
+      meta.appendChild(b);
+    });
+  }
+  function onAuthed(){ if (bodyEl||titleEl) btn.classList.add('show'); paintCardBadges(); }
 
   function bar(){
     var b = document.getElementById('scBar');

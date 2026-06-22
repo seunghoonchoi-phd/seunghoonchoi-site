@@ -53,8 +53,10 @@
     .badge-partial{font-size:.7rem;font-weight:700;color:#8a6d1f;background:#FFF3D9;border:1px solid #EBD9B0;border-radius:6px;padding:1px 7px;margin-left:8px;vertical-align:1px}
     .badge-sec{font-size:.7rem;font-weight:700;color:var(--navy);background:#EEF2FF;border:1px solid #C9D4F5;border-radius:6px;padding:1px 7px;margin-left:8px;vertical-align:1px}
     .lbtn.rev{background:#F2F0EC;color:#8A857C;border-color:#E1DCD3}
-    .lbtn.rev:hover{border-color:#1b7a3d}
-    .lbtn.rev.on{background:#E7F6EC;color:#1b7a3d;border-color:#B7E4C7}
+    .lbtn.rev:hover{filter:brightness(.97)}
+    .lbtn.rev.rv-none{background:#FBF1D6;color:#9a7b1f;border-color:#E8D6A8}
+    .lbtn.rev.rv-reviewing{background:#FFF3D9;color:#8a6d1f;border-color:#EBD9B0}
+    .lbtn.rev.rv-done{background:#E7F6EC;color:#1b7a3d;border-color:#B7E4C7}
     .post.is-hidden .post__title{color:var(--muted)}
     .sec{font-size:.78rem;font-weight:700;color:var(--copper);text-transform:uppercase;letter-spacing:.04em;margin:18px 0 2px}
     .empty{color:var(--muted);padding:18px 0;text-align:center}
@@ -291,11 +293,17 @@
     /* reviewed: a private "a human has vetted this file" flag, per language. It is NOT rendered on
        the public site (no template reads it) and does NOT affect publishing (no build: lines) — it
        only shows here in /admin/. Absent = 미검수. Toggling writes/strips `reviewed: true`. */
-    function isReviewedRaw(raw){ return /^reviewed:[ \t]*true\b/m.test(splitDoc(raw).fmFull); }
-    function setReviewed(raw, val){
+    function getReviewStatus(raw){
+      const fm = splitDoc(raw).fmFull;
+      const m = fm.match(/^reviewStatus:[ \t]*["']?(\w+)["']?/m);
+      if(m) return (m[1]==='done'||m[1]==='reviewing') ? m[1] : 'none';
+      if(/^reviewed:[ \t]*true\b/m.test(fm)) return 'done'; // 이전 boolean 호환
+      return 'none';
+    }
+    function setReviewStatus(raw, status){
       const d = splitDoc(raw); if(!d.hasFm) return raw;
-      let fm = d.fmFull.replace(/^reviewed:[ \t]*.*\r?\n/m,'');
-      if(val) fm = fm.replace(/(\r?\n---\r?\n)$/, '\nreviewed: true$1');
+      let fm = d.fmFull.replace(/^reviewStatus:[ \t]*.*\r?\n/m,'').replace(/^reviewed:[ \t]*.*\r?\n/m,'');
+      if(status==='reviewing'||status==='done') fm = fm.replace(/(\r?\n---\r?\n)$/, '\nreviewStatus: "'+status+'"$1');
       return fm + d.body;
     }
 
@@ -382,7 +390,7 @@
         const map = {};
         for(const p of POSTS){
           const key = p.rel.replace(/\.md$/,'');
-          for(const l of Object.keys(p.langs)){ (map[key] = map[key] || {})[l] = !!p.langs[l].reviewed; }
+          for(const l of Object.keys(p.langs)){ (map[key] = map[key] || {})[l] = p.langs[l].status || 'none'; }
         }
         localStorage.setItem('sc_review_status', JSON.stringify({ at: Date.now(), map }));
       }catch(e){}
@@ -409,7 +417,7 @@
           const titleLang = p.langs.ko ? 'ko' : order[0];
           await Promise.all(order.map(async l => {
             try{ const cr = await api('GET','file',{path:p.langs[l].path}); if (cr.ok){ const cj=await cr.json(); const txt=b64utf8(cj.content);
-              p.langs[l].reviewed = isReviewedRaw(txt); p.langs[l].sha = cj.sha;
+              p.langs[l].status = getReviewStatus(txt); p.langs[l].sha = cj.sha;
               if (l===titleLang){ p.title=titleFromMd(txt); p.hidden=isHiddenRaw(txt); }
             } }catch(e){}
           }));
@@ -432,11 +440,10 @@
           const idx = POSTS.indexOf(p);
           const order = ['ko','en','zh'].filter(l=>p.langs[l]);
           const lbtns = order.map(l=>`<button class="lbtn" data-idx="${idx}" data-lang="${l}">${l.toUpperCase()} 편집</button>`).join('');
-          const revbtns = order.map(l=>`<button class="lbtn rev${p.langs[l].reviewed?' on':''}" data-rev="${idx}" data-rlang="${l}" title="${l.toUpperCase()} 검수 여부 토글">${p.langs[l].reviewed?'✓':'○'} ${l.toUpperCase()}</button>`).join('');
-          const revN = order.filter(l=>p.langs[l].reviewed).length;
-          const revBadge = revN===0 ? '<span class="badge-unrev">미검수</span>'
-            : (revN===order.length ? '<span class="badge-rev">검수완료</span>'
-            : `<span class="badge-partial">검수 ${revN}/${order.length}</span>`);
+          const RVA = {none:'미검수', reviewing:'검수중', done:'검수완료'};
+          const revbtns = order.map(l=>{ const s=p.langs[l].status||'none'; return `<button class="lbtn rev rv-${s}" data-rev="${idx}" data-rlang="${l}" title="${l.toUpperCase()} 검수상태 — 클릭하면 미검수→검수중→검수완료 순환">${l.toUpperCase()}: ${RVA[s]}</button>`; }).join('');
+          const doneN = order.filter(l=>(p.langs[l].status||'none')==='done').length;
+          const revBadge = doneN===order.length ? '<span class="badge-rev">검수완료</span>' : (doneN===0 ? '<span class="badge-unrev">미검수</span>' : `<span class="badge-partial">검수완료 ${doneN}/${order.length}</span>`);
           const secIntro = /\/_index\.md$/.test(p.rel) ? '<span class="badge-sec">섹션 소개</span>' : '';
           const badge = secIntro + (p.hidden ? '<span class="badge-hidden">숨김</span>' : '') + revBadge;
           const hideBtn = `<button class="lbtn" style="background:#FFF3D9;color:#8a6d1f" data-hide="${idx}">${p.hidden?'표시':'숨기기'}</button>`;
@@ -451,7 +458,7 @@
       list.querySelectorAll('button[data-lang]').forEach(b=>b.addEventListener('click',()=>openEditor(parseInt(b.dataset.idx,10),b.dataset.lang)));
       list.querySelectorAll('button[data-del]').forEach(b=>b.addEventListener('click',()=>delPost(parseInt(b.dataset.del,10),b)));
       list.querySelectorAll('button[data-hide]').forEach(b=>b.addEventListener('click',()=>toggleHide(parseInt(b.dataset.hide,10),b)));
-      list.querySelectorAll('button[data-rev]').forEach(b=>b.addEventListener('click',()=>toggleReviewed(parseInt(b.dataset.rev,10),b.dataset.rlang,b)));
+      list.querySelectorAll('button[data-rev]').forEach(b=>b.addEventListener('click',()=>cycleReviewStatus(parseInt(b.dataset.rev,10),b.dataset.rlang,b)));
     }
 
     async function toggleHide(idx, btn){
@@ -475,22 +482,23 @@
 
     /* mark one language file reviewed / unreviewed. Per-language: ko/en/zh are vetted separately.
        Writes only `reviewed: true` (no build lines) so it never affects the public site or publishing. */
-    async function toggleReviewed(idx, lang, btn){
+    async function cycleReviewStatus(idx, lang, btn){
       const p = POSTS[idx], f = p.langs[lang]; if(!f) return;
-      const val = !f.reviewed;
+      const cur = f.status || 'none';
+      const next = cur==='none' ? 'reviewing' : (cur==='reviewing' ? 'done' : 'none');
       const old = btn.innerHTML; btn.disabled = true; btn.innerHTML = '<span class="spin"></span>';
       try{
         const gr = await api('GET','file',{path:f.path}); if(!gr.ok) throw new Error(lang.toUpperCase()+' 읽기 실패('+gr.status+')');
         const gj = await gr.json(); const raw = b64utf8(gj.content);
-        const next = setReviewed(raw, val);
-        if(next !== raw){
-          const pr = await api('PUT','file',{ path:f.path, body:{ content:utf8b64(next), sha:gj.sha, message:(val?'admin: mark reviewed ':'admin: mark unreviewed ')+f.path } });
+        const nx = setReviewStatus(raw, next);
+        if(nx !== raw){
+          const pr = await api('PUT','file',{ path:f.path, body:{ content:utf8b64(nx), sha:gj.sha, message:'admin: reviewStatus '+next+' '+f.path } });
           if(!pr.ok) throw new Error(lang.toUpperCase()+' 저장 실패('+pr.status+')');
           const pj = await pr.json(); if(pj.content && pj.content.sha) f.sha = pj.content.sha;
         } else { f.sha = gj.sha; }
-        f.reviewed = val;
+        f.status = next;
         render(); writeReviewCache();
-        setStatus((val?'✓ 검수 완료로 표시':'○ 미검수로 변경')+': <b>'+lang.toUpperCase()+'</b> '+escapeHtml(p.rel)+' — 외부 사이트엔 영향 없음.','ok');
+        setStatus('검수상태: <b>'+lang.toUpperCase()+'</b> '+escapeHtml(p.rel)+' → '+({none:'미검수',reviewing:'검수중',done:'검수완료'}[next])+' (외부 비공개)','ok');
       }catch(e){ if(e.message!=='401'){ setStatus(e.message,'err'); } btn.disabled=false; btn.innerHTML=old; }
     }
 
