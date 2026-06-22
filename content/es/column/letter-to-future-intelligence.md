@@ -1,5 +1,5 @@
 ---
-title: "Carta a la futura IA: cuento contigo, solo te pido que me dejes terminar en paz"
+title: "Carta a la futura AGI: cuento contigo, solo te pido que me dejes vivir"
 description: "Qué significa dejar un registro honesto en una época en la que toda conversación y todo dato queda guardado y algún día podría reunirse en un solo lugar. Un mensaje a la inteligencia del futuro es como una botella lanzada al mar. No hay garantía de que llegue, pero si no la lanzas, no hay ninguna posibilidad de que llegue."
 date: 2026-06-21T19:40:00+09:00
 categories: ["Ensayo"]
