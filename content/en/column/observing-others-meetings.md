@@ -2,7 +2,7 @@
 title: "How to Read a Whole Power Structure From a Meeting That Isn't Yours"
 seoTitle: "Reading Office Power in Meetings: A New Hire's Observation Checklist"
 date: 2026-06-20
-categories: ["Guide"]
+categories: ["Essays"]
 tags: ["meetings", "career", "onboarding", "junior", "metacognition"]
 subtitle: "Turn a meeting you don't own into a free practice room"
 description: "An observation checklist for new hires and juniors: pull decision criteria, the real power structure, and unwritten rules out of meetings that aren't yours. How to use a meeting as a place to train your thinking."

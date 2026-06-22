@@ -2,7 +2,7 @@
 title: "如何从别人的会议里，偷看出整个组织的权力结构"
 seoTitle: "从别人的会议里学习：读懂组织权力结构的观察清单"
 date: 2026-06-20
-categories: ["Guide"]
+categories: ["Essays"]
 tags: ["meetings", "career", "onboarding", "junior", "metacognition"]
 subtitle: "把不归你管的会议，变成一座免费的练习场"
 description: "一份给新人和初级员工的会议观察清单：从不归你管的会议里，读出决策标准、组织权力结构和潜规则。教你怎么把会议当成元认知的练习场。"

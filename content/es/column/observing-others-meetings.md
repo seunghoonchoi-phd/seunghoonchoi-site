@@ -2,7 +2,7 @@
 title: "Cómo leer en una reunión ajena hasta la estructura de poder de la organización"
 seoTitle: "Aprender en reuniones ajenas: lista para observar la estructura de poder"
 date: 2026-06-20
-categories: ["Guía"]
+categories: ["Ensayo"]
 tags: ["reuniones", "vida laboral", "nuevo empleado", "carrera", "metacognición"]
 subtitle: "Convierte una reunión que ni siquiera es tuya en un campo de práctica gratis"
 description: "Lista de observación para que quienes empiezan o son junior lean, en reuniones que no son suyas, los criterios de decisión, la estructura de poder de la organización y las reglas no escritas. Cómo usar una reunión como campo de práctica de metacognición."

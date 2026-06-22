@@ -2,7 +2,7 @@
 title: "How to Crush Any New Concept in 10 Minutes: The 9-Box Comprehension Template"
 seoTitle: "Understand a New Concept in 10 Minutes: 9-Box Study Method"
 date: 2026-06-20
-categories: ["Guide"]
+categories: ["Essays"]
 tags: ["study method", "learning", "metacognition", "comprehension", "ai"]
 subtitle: "A summary is food someone else already chewed. Understanding has to be a frame you build with your own hands."
 description: "A 9-box template to take over any unfamiliar concept, paper, or meeting in 10 minutes. Instead of summarizing, break it down by essence, mechanism, and boundaries, then end with the questions to verify. Ready to use prompt included."

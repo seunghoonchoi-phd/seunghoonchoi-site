@@ -2,7 +2,7 @@
 title: "Cómo dominar un concepto nuevo en 10 minutos: la plantilla de las 9 casillas"
 seoTitle: "Entender un concepto nuevo en 10 minutos con 9 casillas"
 date: 2026-06-20
-categories: ["Guías"]
+categories: ["Ensayo"]
 tags: ["métodos de estudio", "aprendizaje", "metacognición", "comprensión de conceptos", "ia"]
 subtitle: "Un resumen es comida que ya masticó otro. La comprensión tiene que ser una estructura que armas tú mismo."
 description: "La plantilla de 9 casillas para dominar en 10 minutos un concepto, un artículo o una reunión nuevos. En lugar de resumir, descompones la idea en esencia, principio y límites, y terminas con preguntas para verificar. Incluye un prompt listo para usar."

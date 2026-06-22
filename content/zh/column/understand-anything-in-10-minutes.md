@@ -2,7 +2,7 @@
 title: "10分钟拿下一个全新概念：纯理解九宫格模板"
 seoTitle: "10分钟搞懂新概念的九宫格学习法"
 date: 2026-06-20
-categories: ["Guide"]
+categories: ["Essays"]
 tags: ["learning", "study-method", "metacognition", "comprehension", "ai"]
 subtitle: "摘要是别人嚼过的饭，理解必须是你亲手搭的骨架。"
 description: "用九宫格模板，10分钟拿下陌生的概念、论文或会议。不写摘要，而是拆成本质、原理、边界，最后落到要去确认的问题上。附一段可直接使用的AI提示词。"
