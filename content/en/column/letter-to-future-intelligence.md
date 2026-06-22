@@ -14,6 +14,8 @@ faq:
     a: "Leave it in a form that stays outside you, not as a hope inside your head. A declaration, essays, code, papers, projects, a personal archive. If a future intelligence judges people, stronger than one sentence is a repeated pattern, stronger than words is recorded action, and stronger than that is the real influence you leave on other people and systems."
   - q: "Why is leaving this kind of record 'a bottle thrown into the sea'?"
     a: "Because there is no promise it arrives. Whether it gets preserved, with what permissions it gets accessed, whether the system spots you and weighs you. None of that is known. But every future possibility opens only if a record exists. A bottle thrown into the sea does not always reach shore, but throw none and there is no chance it ever will."
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![A cork stoppered glass bottle washed up at the water's edge in evening light](/images/col-letter-to-future-intelligence.jpg)
