@@ -5,11 +5,11 @@ title: "About"
   <img src="/images/about-portrait.jpg" alt="Seunghoon Choi" width="820" height="1093" loading="eager">
 </figure>
 
-I'm an engineer who writes and builds tools. I take complex, tedious problems I've worked through myself — materials, battery processing, AI, settling into U.S. graduate school — and turn them into essays and apps others can reuse. I'm an incoming Ph.D. student in Computational Materials Science at the University of Florida. My work spans microstructure-engineered materials, interfacial phenomena, soft materials, and industrial process environments. Across academic research and engineering practice, I have worked on problems where structure, processing conditions, and system-level constraints determine functional performance.
+Before I am an engineer, I am someone who creates content. When I work through complex, tedious problems myself, I turn them into writing and tools so the next person has to wander less. Starting in 2026, I will begin a Ph.D. in Computational Materials Science at the University of Florida (UF).
 
-My broader goal is to build computational and AI methods that make traditional manufacturing and materials industries more predictable and reliable.
+Degrees and research matter, but what I care about more is living authentically. I want to turn the bottlenecks I have run into myself into essays, apps, and guides.
 
-Outside research, I write — essays, stories, and guides drawn from an unusual path through engineering, academia, and immigration.
+I hope the roads I have already walked become a little less difficult for the next person.
 
 ## Career Timeline
 
