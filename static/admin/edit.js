@@ -120,6 +120,7 @@
   function rvCache(){ try{ return (JSON.parse(localStorage.getItem('sc_review_status')||'{}')||{}).map||{}; }catch(e){ return {}; } }
   function rvSave(map){ try{ localStorage.setItem('sc_review_status', JSON.stringify({ at: Date.now(), map: map })); }catch(e){} }
   function rvStyle(b, status){ var s=RV[status]||RV.none; b.textContent=s.l; b.setAttribute('data-rv', status); b.style.cssText='cursor:pointer;display:inline-block;font-size:.66rem;font-weight:700;letter-spacing:.02em;padding:2px 8px;border-radius:6px;margin-left:8px;vertical-align:1px;color:'+s.c+';background:'+s.bg+';border:1px solid '+s.bd+';'; }
+  function rvStatusFromRaw(raw){ var m=(raw||'').match(/^reviewStatus:[ \t]*["']?(none|reviewing|done)["']?[ \t]*$/m); if(m) return m[1]; var legacy=(raw||'').match(/^reviewed:[ \t]*(true|false)[ \t]*$/m); return legacy&&legacy[1]==='true'?'done':'none'; }
   function rvSetStatusRaw(raw, status){ var d=splitDoc(raw); if(!d.hasFm) return raw; var fm=d.fmFull.replace(/^reviewStatus:[ \t]*.*\r?\n/m,'').replace(/^reviewed:[ \t]*.*\r?\n/m,''); if(status==='reviewing'||status==='done') fm=fm.replace(/(\r?\n---\r?\n)$/,'\nreviewStatus: "'+status+'"$1'); return fm + d.body; }
   /* ---- 숨김: hidden:true + Hugo build로 공개 목록/사이트맵/검색에서 빠지되 URL은 살림. 전 언어 적용(관리자 setHidden과 동일 포맷). 복구는 관리자 페이지. ---- */
   function setHiddenRaw(raw, hide){ var d=splitDoc(raw); if(!d.hasFm) return raw; var fm=d.fmFull.replace(/^hidden:[ \t]*.*\r?\n/m,'').replace(/^build:[ \t]*\{[^}]*\}[ \t]*\r?\n/m,''); if(hide) fm=fm.replace(/(\r?\n---\r?\n)$/,'\nhidden: true\nbuild: {list: never, render: always}$1'); return fm + d.body; }
@@ -188,6 +189,21 @@
     menu.style.left=(window.pageXOffset+r.left)+'px'; menu.style.top=(window.pageYOffset+r.bottom+5)+'px';
     setTimeout(function(){ document.addEventListener('click', function cls(e){ if(!menu.contains(e.target)){ menu.remove(); document.removeEventListener('click', cls); } }); }, 0);
   }
+  function rvSyncFromSource(rk, lang, badge){
+    if(!tokenValid() || !badge || badge.getAttribute('data-rv-syncing')) return;
+    var started=badge.getAttribute('data-rv')||'none';
+    badge.setAttribute('data-rv-syncing','1');
+    api('GET','file',{path:'content/'+lang+'/'+rk+'.md'}).then(function(r){
+      if(r.status===401){ clearToken(); return null; }
+      if(!r.ok) return null;
+      return r.json();
+    }).then(function(j){
+      if(!j || !j.content) return;
+      var status=rvStatusFromRaw(b64utf8(j.content));
+      var map=rvCache(); (map[rk]=map[rk]||{})[lang]=status; rvSave(map);
+      if((badge.getAttribute('data-rv')||'none')===started) rvStyle(badge, status);
+    }).catch(function(){}).then(function(){ badge.removeAttribute('data-rv-syncing'); });
+  }
   function paintCardBadges(){
     if(!hasCards) return;
     var lang=rvLang(), map=rvCache();
@@ -198,6 +214,7 @@
       var b=document.createElement('span'); b.className='rv-badge'; rvStyle(b, status); b.title='검수 상태 — 클릭해서 변경(나만 보임)';
       b.addEventListener('click', function(e){ e.preventDefault(); e.stopPropagation(); rvMenu(b, rk, lang); });
       meta.appendChild(b);
+      rvSyncFromSource(rk, lang, b);
       var hb=document.createElement('span'); hb.className='sc-hide';
       var isHid=hidHas(rk); hideBtnStyle(hb, isHid);
       if (isHid){ card.style.opacity='.5'; card.style.filter='grayscale(.5)'; }
