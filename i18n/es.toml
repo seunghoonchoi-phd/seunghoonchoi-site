@@ -1,0 +1,129 @@
+# Navigation (keyed by menu identifier)
+[research]
+other = "Investigación y resultados"
+# parent dropdown labels
+[writing]
+other = "Textos"
+[resources]
+other = "Recursos"
+# leaf sections
+[column]
+other = "Columnas"
+[books]
+other = "Libros"
+[literature]
+other = "Literatura"
+[youtube]
+other = "YouTube"
+[apps]
+other = "Apps y herramientas"
+[career]
+other = "Estudiar y vivir en el extranjero"
+[about]
+other = "Sobre mí"
+
+# UI
+[home]
+other = "Inicio"
+[latest]
+other = "Textos recientes"
+[read_more]
+other = "Leer"
+[view_all]
+other = "Ver todo"
+[no_posts]
+other = "Todavía no hay textos. Pronto los habrá."
+[posted_on]
+other = "Publicado"
+[categories]
+other = "Categorías"
+[tags]
+other = "Etiquetas"
+[all]
+other = "Todo"
+[contact]
+other = "Contacto"
+[connect_linkedin]
+other = "Conéctate en LinkedIn ↗"
+[email_university]
+other = "Universidad"
+[email_personal]
+other = "Personal"
+[skip_to_content]
+other = "Ir al contenido"
+[explore]
+other = "Explorar"
+[reading_in]
+other = "Estás leyendo en coreano"
+[switch_lang]
+other = "English"
+[footer_rights]
+other = "Todos los derechos reservados."
+[search_placeholder]
+other = "Buscar…"
+[by]
+other = "Autor"
+[author_name]
+other = "Seunghoon Choi"
+[cite_this]
+other = "Citar este texto"
+[cite_copy]
+other = "Copiar la cita"
+[cite_copied]
+other = "¡Copiado!"
+[copy_source]
+other = "Fuente"
+[rf_heading]
+other = "Investigación destacada"
+[rf_gripper]
+other = "Pinza blanda inspirada en el pulpo"
+[rf_electrode]
+other = "Electrodo adhesivo de EMG para piel seca y húmeda"
+[rf_plant]
+other = "Electrodo de hidrogel para hojas de plantas"
+[dir_research]
+other = "Artículos, patentes e investigación en materiales computacionales"
+[dir_writing]
+other = "Columnas, ensayos, libros y literatura"
+[dir_youtube]
+other = "Vídeos"
+[dir_apps]
+other = "Herramientas gratuitas que he creado"
+[dir_career]
+other = "Guía práctica para estudiar y asentarse en Estados Unidos"
+[dir_about]
+other = "Trayectoria, experiencia y contacto"
+
+[profile]
+other = "Perfil"
+
+[cta_writing]
+other = "Leer textos"
+[cta_tools]
+other = "Herramientas que he creado"
+[cta_research]
+other = "Investigación y resultados"
+
+[toc_title]
+other = "Índice"
+[more_posts]
+other = "Más sobre el mismo tema"
+
+[brand]
+other = "Seunghoon Choi"
+
+[cta_cv]
+other = "Descargar el currículum (CV) ↓"
+
+[cta_contact]
+other = "Propuestas de colaboración"
+
+[copied_email]
+other = "Se ha copiado el correo"
+
+[faq_title]
+other = "Preguntas frecuentes"
+[written_by]
+other = "Autor"
+[author_bio]
+other = "Investigador en materiales computacionales y estudiante de doctorado en la Universidad de Florida (UF). Tras pasar por la fabricación de baterías y la investigación de materiales, ahora estudio y documento cómo una persona puede salir adelante en la era de la inteligencia artificial. Creo más en la estructura que en la autoridad, más en los modelos que en la intuición y más en los sistemas que en el esfuerzo."

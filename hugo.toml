@@ -97,6 +97,16 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
       role = "工程师 · 内容创作者"
       tagline = "把我先走过的弯路梳理出来，让后来的人少走一些。"
       description = "崔胜勋（Seunghoon Choi）— 工程师与内容创作者。研究、文章、应用与指南，汇于一处。"
+  [languages.es]
+    label = "Español"
+    locale = "es-ES"
+    contentDir = "content/es"
+    weight = 4
+    title = "Seunghoon Choi"
+    [languages.es.params]
+      role = "Ingeniero · Creador de contenido"
+      tagline = "Aclaro lo que aprendí con dificultad, para que el siguiente avance más fácil."
+      description = "Seunghoon Choi — ingeniero y creador de contenido. Investigación, ensayos, apps y guías, todo en un solo lugar."
 
 # Primary navigation is defined in layouts/partials/header.html with hover
 # dropdowns (홈 · 연구 · 글▾[칼럼·책·문학집] · 유튜브 · 자료▾[앱·커리어가이드] · 소개).
