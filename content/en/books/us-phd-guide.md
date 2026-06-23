@@ -13,6 +13,7 @@ image: /images/book-us-phd-guide-card.jpg
     <p style="margin:.25em 0;color:#44423E">eBook (ePUB) · KRW 16,000</p>
     <p style="margin:1.1em 0 0">
       <a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:13px 24px;border-radius:999px">View on Kyobo Book Centre ↗</a>
+      <a href="https://smartstore.naver.com/bellunix/products/13640954951" target="_blank" rel="noopener" style="display:inline-block;background:#B87333;color:#fff;font-weight:700;padding:13px 24px;border-radius:999px;margin:6px 0 0 8px">Naver Smartstore ↗</a>
     </p>
   </div>
 </div>
@@ -38,4 +39,5 @@ I kept the feelings and the missteps in, just as they were. Turning that lost fe
 
 <p style="margin:1.6em 0 .4em">
   <a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:13px 24px;border-radius:999px">View on Kyobo Book Centre ↗</a>
+      <a href="https://smartstore.naver.com/bellunix/products/13640954951" target="_blank" rel="noopener" style="display:inline-block;background:#B87333;color:#fff;font-weight:700;padding:13px 24px;border-radius:999px;margin:6px 0 0 8px">Naver Smartstore ↗</a>
 </p>

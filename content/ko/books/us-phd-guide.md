@@ -12,7 +12,7 @@ image: /images/book-us-phd-guide-card.jpg
 
 eBook(ePUB) · 16,000원
 
-[교보문고에서 보기 ↗](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412)
+[교보문고에서 보기 ↗](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412) · [네이버 스마트스토어 ↗](https://smartstore.naver.com/bellunix/products/13640954951)
 
 토플 점수가 필요하다는 것 빼고는 아무것도 몰랐습니다. 노베이스부터 Offer Letter를 받기까지 18개월 동안의 모든 경험과 시행착오를 한권에 담았습니다. 그리고 미국 플로리다대학교(UF) 재료공학 박사과정에 전액 펀딩으로 합격했고, F-1 비자까지 받았습니다.
 
@@ -33,4 +33,4 @@ eBook(ePUB) · 16,000원
 
 느꼈던 감정과 시행착오까지 그대로 담았습니다. 막막함을 체크리스트와 시스템으로 명확하게 바꾸는 것, 그게 이 책의 목표입니다.
 
-[교보문고에서 보기 ↗](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412)
+[교보문고에서 보기 ↗](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412) · [네이버 스마트스토어 ↗](https://smartstore.naver.com/bellunix/products/13640954951)
