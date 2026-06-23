@@ -49,10 +49,8 @@ title: "研究"
    Subi Jeon†, **Seunghoon Choi**†, Junwon Jang, Jun Young Shim, Da Wan Kim\*. *International Journal of Internet, Broadcasting and Communication* 18(1), 2026, 274–284. — **共同第一作者**
 4. **Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.**
    Subi Jeon†, **Seunghoon Choi**†, Da Wan Kim\*. *International Journal of Advanced Smart Convergence* 15(1), 2026, 241–253. — **共同第一作者**
-
-## 审稿中的稿件
-
-- Pilot clinical study of a biomimetic suction patch（仿生吸附贴片经皮递送）. *Journal of Cosmetic Dermatology*（审稿中），2026.
+5. **Pilot Clinical Study of a Biomimetic Suction Patch for Improving Wrinkles, Elasticity, Hydration, and Pigmentation via Enhanced Topical Delivery.**
+   **Seunghoon Choi**, Hyung-ki Park, Jaehwan Ahn, Keun Ho Lee, Da Wan Kim\*. *Journal of Cosmetic Dermatology*（已录用），2026. — **第一作者**
 
 ## 专利
 
