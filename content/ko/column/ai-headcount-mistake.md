@@ -1,5 +1,5 @@
 ---
-title: "AI 샀다고 사람 줄이면 회사가 느려진다: 진짜 일은 사라지지 않는다"
+title: "AI 가 일을 한다고 사람 줄이면 회사가 느려진다: 사회적 동물만이 아는 맥락"
 date: 2026-06-21T17:56:30+09:00
 categories: ["AI"]
 tags: ["AI 도입", "인력 감축", "조직 운영", "AI 검수", "생산성", "리더십"]
@@ -8,7 +8,6 @@ seoTitle: "AI 도입 후 사람을 줄이면 회사가 느려지는 이유"
 image: /images/col-ai-headcount-mistake.jpg
 reviewStatus: "done"
 ---
-
 ![아침 햇살이 비치는 사무실에 비어 있는 의자들이 책상 앞에 줄지어 놓여 있다](/images/col-ai-headcount-mistake.jpg)
 
 회사에서 AI 도구를 도입하면 꼭 나오는 말이 있다.
