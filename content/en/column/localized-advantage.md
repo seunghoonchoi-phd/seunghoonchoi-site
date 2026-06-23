@@ -7,6 +7,8 @@ tags: ["strategy", "decision-making", "focus", "career"]
 subtitle: "What flips a losing game isn't your total strength. It's the gap at the one moment your opponent is weakest, at the one spot that matters."
 seoTitle: "Pick Your Battle: Win the Local Edge at the Decisive Moment"
 image: /images/col-localized-advantage.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![A toppled king on a chessboard. The single move that decided the game](/images/col-localized-advantage.jpg)
