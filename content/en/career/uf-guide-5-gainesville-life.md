@@ -6,6 +6,8 @@ date: 2026-06-17T13:00:00+09:00
 categories: ["Life in the US"]
 tags: ["Gainesville","housing","healthcare","student life"]
 subtitle: "U.S. Grad School Settlement Guide, Part 5 — Everything About City Life at UF"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Sunny university campus](/images/uf5-life.jpg)
