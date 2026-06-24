@@ -6,6 +6,8 @@ date: 2026-06-17T13:00:00+09:00
 categories: ["Vida"]
 tags: ["Gainesville","vivienda","UF","vida estudiantil","comunidad coreana"]
 subtitle: "Guía para instalarse como estudiante en Estados Unidos Parte 5: todo sobre la vida en la ciudad de la UF"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Campus universitario soleado](/images/uf5-life.jpg)
