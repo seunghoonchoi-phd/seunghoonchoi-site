@@ -6,6 +6,9 @@
   </header>
 
   {{ $pages := .RegularPagesRecursive.ByDate.Reverse }}
+  {{ if in (slice "column" "books" "literature") .Section }}
+    {{ $pages = partial "sort-by-ko-order.html" .RegularPagesRecursive }}
+  {{ end }}
   {{ $pinned := where $pages "Params.pinned" true }}
   {{ $rest := where $pages "Params.pinned" "!=" true }}
 

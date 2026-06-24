@@ -2,6 +2,38 @@
 (function () {
   "use strict";
 
+  var langScrollKey = "sc_langswitch_scroll";
+  function normalizePath(path) {
+    return (path || "/").replace(/\/+$/, "") || "/";
+  }
+  function restoreLanguageScroll() {
+    var raw;
+    try { raw = sessionStorage.getItem(langScrollKey); } catch (e) { return; }
+    if (!raw) return;
+    var state;
+    try { state = JSON.parse(raw); } catch (e) { sessionStorage.removeItem(langScrollKey); return; }
+    if (!state || state.expires < Date.now() || normalizePath(state.path) !== normalizePath(location.pathname)) {
+      try { sessionStorage.removeItem(langScrollKey); } catch (e) {}
+      return;
+    }
+    if ("scrollRestoration" in history) history.scrollRestoration = "manual";
+    var y = Math.max(0, Number(state.y) || 0);
+    var tries = 0;
+    var scrollToSavedPosition = function () {
+      var maxY = Math.max(0, document.documentElement.scrollHeight - window.innerHeight);
+      window.scrollTo(0, Math.min(y, maxY));
+      tries += 1;
+      if (tries < 16 && maxY < y) {
+        setTimeout(scrollToSavedPosition, 90);
+      } else {
+        try { sessionStorage.removeItem(langScrollKey); } catch (e) {}
+      }
+    };
+    requestAnimationFrame(scrollToSavedPosition);
+    window.addEventListener("load", scrollToSavedPosition, { once: true });
+  }
+  restoreLanguageScroll();
+
   /* Mobile nav toggle */
   var burger = document.querySelector(".hamburger");
   var nav = document.querySelector(".nav");
@@ -60,6 +92,18 @@
       document.addEventListener("click", function (e) { if (!ls.contains(e.target)) { ls.removeAttribute("data-open"); lsBtn.setAttribute("aria-expanded", "false"); } });
       document.addEventListener("keydown", function (e) { if (e.key === "Escape") { ls.removeAttribute("data-open"); lsBtn.setAttribute("aria-expanded", "false"); } });
     }
+    ls.querySelectorAll("[data-preserve-scroll]").forEach(function (link) {
+      link.addEventListener("click", function () {
+        try {
+          var target = new URL(link.href, location.href);
+          sessionStorage.setItem(langScrollKey, JSON.stringify({
+            path: target.pathname,
+            y: window.scrollY || window.pageYOffset || 0,
+            expires: Date.now() + 30000
+          }));
+        } catch (e) {}
+      });
+    });
   }
 
   /* Reveal on scroll */

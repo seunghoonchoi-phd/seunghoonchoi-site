@@ -5,6 +5,13 @@
 {{ $labels := dict "en" "English" "zh" "中文" "es" "Español" "hi" "हिन्दी" "ar" "العربية" "ko" "한국어" }}
 {{ $avail := slice }}
 {{ range $page.Site.Languages }}{{ $avail = $avail | append .Lang }}{{ end }}
+{{ $tail := $page.RelPermalink }}
+{{ if eq $cur "en" }}
+  {{ $tail = strings.TrimPrefix "/" $tail }}
+{{ else }}
+  {{ $tail = strings.TrimPrefix (printf "/%s/" $cur) $tail }}
+  {{ $tail = strings.TrimPrefix "/" $tail }}
+{{ end }}
 <div class="langswitch" data-langswitch>
   <button type="button" class="langswitch__toggle" aria-haspopup="true" aria-expanded="false" aria-label="Language">
     <span class="langswitch__globe" aria-hidden="true">🌐</span><span class="langswitch__cur">{{ index $labels $cur }}</span><span class="langswitch__caret" aria-hidden="true">▾</span>
@@ -19,8 +26,10 @@
         {{ else }}
           {{ $href := "" }}
           {{ range $page.AllTranslations }}{{ if eq .Language.Lang $lang }}{{ $href = .RelPermalink }}{{ end }}{{ end }}
-          {{ if not $href }}{{ $href = cond (eq $lang "en") "/" (printf "/%s/" $lang) }}{{ end }}
-        <a class="langswitch__opt" role="menuitem" href="{{ $href }}" hreflang="{{ $lang }}">{{ $label }}</a>
+          {{ if not $href }}
+            {{ $href = cond (eq $lang "en") (printf "/%s" $tail) (printf "/%s/%s" $lang $tail) }}
+          {{ end }}
+        <a class="langswitch__opt" role="menuitem" href="{{ $href }}" hreflang="{{ $lang }}" data-lang-target="{{ $lang }}" data-preserve-scroll>{{ $label }}</a>
         {{ end }}
       {{ end }}
     {{ end }}

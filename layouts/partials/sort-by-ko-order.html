@@ -1,0 +1,16 @@
+{{- $items := slice -}}
+{{- range . -}}
+  {{- $page := . -}}
+  {{- $ko := . -}}
+  {{- range .AllTranslations -}}
+    {{- if eq .Language.Lang "ko" -}}{{- $ko = . -}}{{- end -}}
+  {{- end -}}
+  {{- $sortDate := $page.Date -}}
+  {{- if and $ko (not $ko.Date.IsZero) -}}{{- $sortDate = $ko.Date -}}{{- end -}}
+  {{- $items = $items | append (dict "page" $page "koDate" $sortDate "koTitle" $ko.Title) -}}
+{{- end -}}
+{{- $ordered := slice -}}
+{{- range sort (sort $items "koTitle" "asc") "koDate" "desc" -}}
+  {{- $ordered = $ordered | append .page -}}
+{{- end -}}
+{{- return $ordered -}}
