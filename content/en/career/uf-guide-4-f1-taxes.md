@@ -6,6 +6,8 @@ date: 2026-06-17T14:00:00+09:00
 categories: ["Taxes"]
 tags: ["US taxes","F-1","tax treaty","1040-NR","8843"]
 subtitle: "Florida 0% state income tax, the $2,000/year treaty exemption, and Form 8843, 1040-NR, and the deadlines"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![US tax forms with a pen](/images/uf4-taxes.jpg)
