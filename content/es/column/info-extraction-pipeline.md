@@ -6,6 +6,8 @@ categories: ["IA"]
 tags: ["ia", "llm", "ingeniería de prompts", "extracción de información", "gestión del conocimiento"]
 subtitle: "No una herramienta que saca mucho, sino una que descarta sin piedad"
 description: "Tres prompts para extraer información de tus charlas con ChatGPT y otras IA, elegir solo lo que vale la pena y pasarlo a Notion. La clave no es extraer, sino el criterio para descartar. Incluye los prompts listos para copiar y pegar."
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Un cajón con tarjetas donde solo quedan las que tienen etiqueta. Elegir es el sistema en sí](/images/col-info-extraction.jpg)
