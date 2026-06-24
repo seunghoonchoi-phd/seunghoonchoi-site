@@ -6,6 +6,8 @@ tags: ["단편소설"]
 subtitle: "번역가였던 한 사람이, 끝까지 손에서 놓지 않은 단 하나."
 image: /images/col-ai-replacement-stages.jpg
 aliases: ["/literature/the-window/"]
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![바다가 보이는 창가에 앉은 사람의 실루엣](/images/col-ai-replacement-stages.jpg)
