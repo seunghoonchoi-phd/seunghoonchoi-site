@@ -1,19 +1,20 @@
 ---
 title: "연구·성과"
+reviewStatus: "done"
 ---
-소재와 제조 공정을 더 예측 가능하게 만드는 방법에 관심이 있습니다. 석사 과정에서는 미세구조와 계면이 센서 성능을 어떻게 바꾸는지 연구했고, 이후 배터리 전극 공정 현장에서는 슬러리, 코팅 같은 공정 조건이 품질에 어떤 영향을 미치는지 연구했습니다.
+소재의 구조, 공정 조건, 실제 성능 사이의 관계를 더 예측 가능하게 만드는 방법을 연구합니다. 석사 과정에서는 미세구조와 계면이 센서 성능을 어떻게 바꾸는지 연구했고, 이후 배터리 전극 공정 현장에서는 슬러리, 코팅 같은 공정 조건이 품질에 어떤 영향을 미치는지 연구했습니다.
 
-앞으로는 계산재료과학과 머신러닝으로 원자 단위 특성과 실제 공정·성능 사이의 간격을 줄이는 연구를 이어가려 합니다.
+계산재료과학과 머신러닝을 바탕으로, 원자 단위 특성과 실제 공정·성능 사이의 간격을 줄이는 방향으로 연구를 확장하고 있습니다.
 
 [**이력서(CV) 전체 PDF ↗**](/cv/Seunghoon_Choi_CV.pdf) · [Google Scholar ↗](https://scholar.google.com/citations?user=TRtHbDwAAAAJ) · [ORCID ↗](https://orcid.org/0009-0007-8324-2943)
 
 ## 연구 방향
 
-- 계산과 AI로 소재 후보를 더 빨리 좁히는 방법
-- 원자 단위 특성과 실제 성능을 연결하는 지표 설계
-- 에너지 소재의 구조·공정·성능이 어떻게 이어지는지 분석
-- 미세구조와 계면이 센서·전극 성능에 미치는 영향
-- 배터리 전극 공정을 데이터로 읽고 조건을 좁히는 방법
+- 계산과 AI로 소재 후보를 더 빨리 좁히는 연구
+- 원자 단위 특성과 실제 성능을 연결하는 지표 연구
+- 에너지 소재의 구조·공정·성능 관계 분석
+- 미세구조와 계면이 센서·전극 성능에 미치는 영향 분석
+- 배터리 전극 공정을 데이터로 읽고 조건을 좁히는 연구
 
 ## 대표 연구
 
@@ -21,13 +22,13 @@ title: "연구·성과"
 
 [![Advanced Functional Materials 백커버 — 전도성 계층형 헤어리 파이버 센서](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
-섬유 표면에 미세한 계층 구조를 만들고 전도성을 입혀, 잘 늘어나면서도 물에 강한 멀티모달 센서를 만들었습니다. 큰 변형에서도 전기 신호가 안정적으로 유지됐고, 미세구조의 형상이 신축성 나노복합체의 전기 전도와 센서 성능을 어떻게 바꾸는지 보였습니다. 이 연구는 _Advanced Functional Materials_ 2019년 50호 Back Cover로 실렸고, Google Scholar 기준 140회 넘게 인용됐습니다.
+섬유 표면에 미세한 계층 구조를 만들고 전도성 코팅을 더해, 잘 늘어나면서도 물에 강한 멀티모달 센서를 만들었습니다. 여러 종류의 움직임과 신호를 구분할 수 있었고, 큰 변형에서도 전기 신호가 안정적으로 유지됐습니다. 또 미세구조의 형상이 신축성 나노복합체의 전기 전도와 센서 성능을 어떻게 바꾸는지 보였습니다. 이 연구는 _Advanced Functional Materials_ 2019년 50호 Back Cover로 실렸고, Google Scholar 기준 140회 이상 인용됐습니다.
 
 Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. **Seunghoon Choi**†, Kukro Yoon†, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. _Advanced Functional Materials_ 29(50), 2019, 1905808. · 공동 1저자 · Back Cover
 
 [논문 보기 ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
-### 문어 영감 소프트 그리퍼 — Biomimetics Review
+### 문어 모사 소프트 그리퍼 — Biomimetics Review
 
 [![문어 영감 소프트 그리퍼 — 흡착컵·팔·하이브리드 구조와 센싱](/images/octopus-grippers-review.jpg)](https://doi.org/10.3390/biomimetics10120813)
 
@@ -39,7 +40,7 @@ Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificia
 
 ## 논문
 
-표기: † 공동 1저자 · \* 교신저자 · 굵은 글씨는 Seunghoon Choi
+표기: † 공동 1저자 · \* 교신저자
 
 1.  **Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor.** **Seunghoon Choi**†, Kukro Yoon†, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. _Advanced Functional Materials_ 29(50), 2019, 1905808. — **공동 1저자**
 2.  **Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence.** **Seunghoon Choi**†, Junwon Jang†, Junho Lee, Da Wan Kim\*. _Biomimetics_ 2025, 10(12), 813. — **공동 1저자**
@@ -60,11 +61,11 @@ Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificia
 
 ## 보유 기술
 
-- **분석·구조 평가** — SEM (EDS) · AFM · 광학현미경 · XRD · FT-IR · UV-Vis · Contact-angle Measurement 
+- **분석·구조 평가** — SEM (EDS) · AFM · 광학현미경 · XRD · FT-IR · UV-Vis · Contact angle measurement
 - **공정·미세구조 제작** — 미세구조 임프린팅 · 고분자 표면 패터닝 · 신축성 복합체 제작 · 표면 코팅
 - **슬러리·콜로이드** — 슬러리 유변학 · 콜로이드 분산 안정성 · 입자 현탁 · 산업용 믹싱
 - **모델링·데이터 분석** — COMSOL Multiphysics (FEM) · MATLAB · Minitab (SPC) · OriginPro · Excel VBA
-- **프로그래밍·시스템** — Python (PyTorch) · C++ · SPC · FAT / SAT
+- **프로그래밍·시스템** — Python (PyTorch) · C++ · FAT(Factory Acceptance Test, 공장 인수시험) / SAT(Site Acceptance Test, 현장 인수시험)
 
 ---
 
