@@ -75,8 +75,8 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     title = "Seunghoon Choi"
     [languages.en.params]
       role = "Engineer · Content Creator"
-      tagline = "Clearing the path I stumbled through, so the next person walks it easier."
-      description = "Seunghoon Choi — engineer and content creator. Research, essays, apps, and guides in one place."
+      tagline = "I clear the paths I stumbled through first, so the next person wanders less."
+      description = "Seunghoon Choi — engineer and content creator. Research, writing, apps, and guides in one place."
   [languages.ko]
     label = "한국어"
     locale = "ko-KR"
@@ -95,8 +95,8 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     title = "Seunghoon Choi"
     [languages.zh.params]
       role = "工程师 · 内容创作者"
-      tagline = "把我先走过的弯路梳理出来，让后来的人少走一些。"
-      description = "崔胜勋（Seunghoon Choi）— 工程师与内容创作者。研究、文章、应用与指南，汇于一处。"
+      tagline = "把我先摸索过的路整理清楚，让后来的人少走弯路。"
+      description = "崔胜勋（Seunghoon Choi）— 工程师、内容创作者。研究、文章、应用和指南，都在这里。"
   [languages.es]
     label = "Español"
     locale = "es-ES"
@@ -104,9 +104,9 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     weight = 4
     title = "Seunghoon Choi"
     [languages.es.params]
-      role = "Ingeniero · Creador de contenido"
-      tagline = "Aclaro lo que aprendí con dificultad, para que el siguiente avance más fácil."
-      description = "Seunghoon Choi · ingeniero y creador de contenido. Investigación, ensayos, apps y guías, todo en un solo lugar."
+      role = "Ingeniero · creador de contenido"
+      tagline = "Ordeno los caminos en los que primero me perdí, para que quien venga después se pierda menos."
+      description = "Seunghoon Choi — ingeniero y creador de contenido. Investigación, artículos, apps y guías en un solo lugar."
   [languages.hi]
     label = "हिन्दी"
     locale = "hi-IN"
@@ -115,8 +115,8 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     title = "Seunghoon Choi"
     [languages.hi.params]
       role = "इंजीनियर · कंटेंट क्रिएटर"
-      tagline = "जो रास्ता मैंने मुश्किल से पार किया, उसे मैं आसान बनाता हूँ, ताकि अगला व्यक्ति कम भटके."
-      description = "Seunghoon Choi · इंजीनियर और कंटेंट क्रिएटर. शोध, लेख, ऐप्स और गाइड, सब एक ही जगह."
+      tagline = "जिन रास्तों पर मैं पहले भटका, उन्हें साफ़ कर देता हूँ ताकि अगला व्यक्ति कम भटके।"
+      description = "Seunghoon Choi — इंजीनियर और कंटेंट क्रिएटर। शोध, लेख, ऐप्स और गाइड एक जगह।"
   [languages.ar]
     label = "العربية"
     locale = "ar"
@@ -126,8 +126,8 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
     title = "Seunghoon Choi"
     [languages.ar.params]
       role = "مهندس · صانع محتوى"
-      tagline = "أُمهّد الطريق الذي قطعته بصعوبة، ليسير عليه من يأتي بعدي بسهولة أكبر."
-      description = "Seunghoon Choi · مهندس وصانع محتوى. الأبحاث والمقالات والتطبيقات والأدلة في مكان واحد."
+      tagline = "أوضّح الطريق الذي تهت فيه أولًا، حتى لا يضيع من يأتي بعدي كثيرًا."
+      description = "Seunghoon Choi — مهندس وصانع محتوى. أبحاث وكتابات وتطبيقات وأدلة في مكان واحد."
 
 # Primary navigation is defined in layouts/partials/header.html with hover
 # dropdowns (홈 · 연구 · 글▾[칼럼·책·문학집] · 유튜브 · 자료▾[앱·커리어가이드] · 소개).

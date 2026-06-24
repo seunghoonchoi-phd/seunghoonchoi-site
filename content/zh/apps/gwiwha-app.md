@@ -2,12 +2,14 @@
 title: "韩国归化考试综合评价练习"
 seoTitle: "韩国归化考试综合评价模拟练习 — 笔试·作文·口试"
 date: 2026-06-14
-categories: ["Tools"]
-tags: ["app"]
+categories: ["工具"]
+tags: ["入籍", "应用"]
 subtitle: "笔试·作文·口试，一站搞定"
 description: "练习韩国归化（入籍）综合评价笔试·作文·口试的免费可安装网页应用。277 道模拟题，韩文·中文对照，支持离线使用，无需注册。"
 image: /images/gwiwha-card.svg
+reviewStatus: "done"
 ---
+
 <div class="appcard">
   <img class="appcard__icon" src="/images/gwiwha-card.svg" alt="归化考试练习应用图标">
   <div class="appcard__body">

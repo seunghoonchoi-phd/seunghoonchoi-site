@@ -3,12 +3,13 @@ title: "اختيار غلاف خلفي في مجلة Advanced Functional Materia
 seoTitle: "مستشعر متعدد الوسائط من ألياف موصلة مشعرة — بحث مختار كغلاف خلفي في AFM"
 date: 2019-12-10
 categories: ["جوائز وأخبار"]
-tags: ["مستشعر", "AFM"]
+tags: ["مستشعرات", "AFM"]
 subtitle: "Adv. Funct. Mater. 50/2019"
 doi: "10.1002/adfm.201905808"
 articleTitle: "Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor, VR Applications"
 journal: "Advanced Functional Materials"
 pubyear: 2019
+reviewStatus: "done"
 ---
 ![Advanced Functional Materials — الغلاف الخلفي](/images/afm-backcover.jpeg)
 

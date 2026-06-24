@@ -1,6 +1,6 @@
 # Navigation (keyed by menu identifier)
 [research]
-other = "Research"
+other = "Research & Achievements"
 # parent dropdown labels
 [writing]
 other = "Content"
@@ -8,17 +8,17 @@ other = "Content"
 other = "Resources"
 # leaf sections
 [column]
-other = "Column"
+other = "Columns"
 [books]
 other = "Books"
 [literature]
-other = "Literature"
+other = "Literary Works"
 [youtube]
 other = "YouTube"
 [apps]
-other = "Apps"
+other = "Apps & Tools"
 [career]
-other = "Settling In"
+other = "Study Abroad & Settling In"
 [about]
 other = "About"
 
@@ -26,15 +26,15 @@ other = "About"
 [home]
 other = "Home"
 [latest]
-other = "Latest"
+other = "Recent Posts"
 [read_more]
 other = "Read"
 [view_all]
 other = "View all"
 [no_posts]
-other = "Nothing here yet — coming soon."
+other = "No posts yet — more coming soon."
 [posted_on]
-other = "Posted"
+other = "Written"
 [categories]
 other = "Categories"
 [tags]
@@ -42,7 +42,7 @@ other = "Tags"
 [all]
 other = "All"
 [contact]
-other = "Let’s connect"
+other = "Contact"
 [connect_linkedin]
 other = "Connect on LinkedIn ↗"
 [email_university]
@@ -60,7 +60,7 @@ other = "한국어"
 [footer_rights]
 other = "All rights reserved."
 [search_placeholder]
-other = "Filter…"
+other = "Search…"
 [by]
 other = "By"
 [author_name]
@@ -74,62 +74,62 @@ other = "Copied!"
 [copy_source]
 other = "Source"
 [rf_heading]
-other = "Selected research"
+other = "Featured Research"
 [rf_gripper]
 other = "Octopus-inspired soft gripper"
 [rf_electrode]
-other = "Dry/wet EMG adhesive electrode"
+other = "EMG adhesive electrode for dry and wet environments"
 [rf_plant]
 other = "Plant-leaf hydrogel electrode"
 [dir_research]
-other = "Papers, patents, computational materials"
+other = "Papers, patents, and computational materials research"
 [dir_writing]
-other = "Columns, essays, books, literature"
+other = "Columns, essays, books, and literary works"
 [dir_youtube]
 other = "Video"
 [dir_apps]
 other = "Free tools I built"
 [dir_career]
-other = "Study-abroad & US settling guides"
+other = "Practical guides to studying abroad and settling in the U.S."
 [dir_about]
-other = "Bio, experience, contact"
+other = "Background, career, and contact"
 
 [profile]
 other = "Profile"
 
 [cta_writing]
-other = "Read essays"
+other = "Read writing"
 [cta_tools]
-other = "Tools"
+other = "Tools I built"
 [cta_research]
-other = "Research"
+other = "Research & Achievements"
 
 [toc_title]
 other = "Contents"
 [more_posts]
-other = "More like this"
+other = "More on the same topic"
 
 [brand]
 other = "Seunghoon Choi"
 
 [cta_cv]
-other = "Download CV (PDF) ↓"
+other = "Download CV ↓"
 
 [cta_contact]
-other = "Get in touch"
+other = "Work with me"
 
 [copied_email]
-other = "Email copied"
+other = "Email address copied"
 
 [faq_title]
 other = "Frequently asked questions"
 [written_by]
 other = "Written by"
 [author_bio]
-other = "Computational materials scientist and PhD researcher at the University of Florida. After battery manufacturing and materials research, he now experiments with and documents how individuals can survive in the age of AI. He believes in structure over authority, models over intuition, and systems over effort."
+other = "Computational materials researcher and PhD student at the University of Florida (UF). After working in battery manufacturing and materials research, he now experiments with and documents how individuals can survive in the AI era. He trusts structure over authority, models over gut feeling, and systems over effort."
 
 [pinned_label]
-other = "Featured"
+other = "Recommended"
 
 [cta_instagram]
 other = "Instagram DM"

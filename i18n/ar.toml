@@ -3,22 +3,22 @@
 other = "الأبحاث والإنجازات"
 # parent dropdown labels
 [writing]
-other = "محتوى"
+other = "المحتوى"
 [resources]
 other = "الموارد"
 # leaf sections
 [column]
-other = "المقالات"
+other = "مقالات"
 [books]
 other = "الكتب"
 [literature]
-other = "الأعمال الأدبية"
+other = "نصوص أدبية"
 [youtube]
 other = "يوتيوب"
 [apps]
 other = "التطبيقات والأدوات"
 [career]
-other = "الدراسة بالخارج والاستقرار"
+other = "الدراسة في الخارج والاستقرار"
 [about]
 other = "نبذة"
 
@@ -28,13 +28,13 @@ other = "الرئيسية"
 [latest]
 other = "أحدث المقالات"
 [read_more]
-other = "اقرأ المزيد"
+other = "اقرأ"
 [view_all]
 other = "عرض الكل"
 [no_posts]
-other = "لا توجد مقالات بعد. سننشرها قريبًا."
+other = "لا توجد مقالات بعد — سنضيفها قريبًا."
 [posted_on]
-other = "نُشر في"
+other = "كُتب"
 [categories]
 other = "التصنيفات"
 [tags]
@@ -42,33 +42,33 @@ other = "الوسوم"
 [all]
 other = "الكل"
 [contact]
-other = "تواصل معي"
+other = "تواصل"
 [connect_linkedin]
-other = "تواصل عبر لينكدإن ↗"
+other = "تواصل على LinkedIn ↗"
 [email_university]
 other = "الجامعة"
 [email_personal]
 other = "شخصي"
 [skip_to_content]
-other = "انتقل إلى المحتوى"
+other = "تخطَ إلى المحتوى"
 [explore]
 other = "تصفّح"
 [reading_in]
-other = "أنت تقرأ بالعربية"
+other = "تقرأ بالعربية"
 [switch_lang]
-other = "English"
+other = "한국어"
 [footer_rights]
 other = "جميع الحقوق محفوظة."
 [search_placeholder]
-other = "ابحث…"
+other = "بحث…"
 [by]
 other = "بقلم"
 [author_name]
-other = "سيونغ هون تشوي"
+other = "Seunghoon Choi"
 [cite_this]
-other = "اقتبس هذه المقالة"
+other = "الاستشهاد بهذا المقال"
 [cite_copy]
-other = "نسخ الاقتباس"
+other = "نسخ الاستشهاد"
 [cite_copied]
 other = "تم النسخ!"
 [copy_source]
@@ -76,21 +76,21 @@ other = "المصدر"
 [rf_heading]
 other = "أبرز الأبحاث"
 [rf_gripper]
-other = "ماسك ناعم مستوحى من الأخطبوط"
+other = "ماسك ليّن مستوحى من الأخطبوط"
 [rf_electrode]
-other = "قطب لاصق لتخطيط العضلات في البيئات الجافة والرطبة"
+other = "قطب EMG لاصق للبيئات الجافة والرطبة"
 [rf_plant]
-other = "قطب هيدروجيلي على أوراق النبات"
+other = "قطب هيدروجيل لأوراق النباتات"
 [dir_research]
-other = "أبحاث في الأوراق العلمية وبراءات الاختراع والمواد الحاسوبية"
+other = "أوراق علمية وبراءات اختراع وأبحاث مواد حاسوبية"
 [dir_writing]
-other = "مقالات ومقالات قصيرة وكتب وأعمال أدبية"
+other = "مقالات ومقالات قصيرة وكتب ونصوص أدبية"
 [dir_youtube]
-other = "مقاطع فيديو"
+other = "فيديو"
 [dir_apps]
-other = "أدوات مجانية صنعتها بنفسي"
+other = "أدوات مجانية صنعتها"
 [dir_career]
-other = "دليل عملي للدراسة بالخارج والاستقرار في أمريكا"
+other = "أدلة عملية للدراسة في الخارج والاستقرار في أمريكا"
 [dir_about]
 other = "السيرة والخبرة والتواصل"
 
@@ -107,29 +107,29 @@ other = "الأبحاث والإنجازات"
 [toc_title]
 other = "المحتويات"
 [more_posts]
-other = "مزيد من المقالات في الموضوع نفسه"
+other = "المزيد في الموضوع نفسه"
 
 [brand]
-other = "سيونغ هون تشوي"
+other = "Seunghoon Choi"
 
 [cta_cv]
-other = "حمّل السيرة الذاتية ↓"
+other = "تنزيل السيرة الذاتية (CV) ↓"
 
 [cta_contact]
-other = "للتعاون والاستفسار"
+other = "استفسار عن تعاون"
 
 [copied_email]
-other = "تم نسخ البريد الإلكتروني"
+other = "تم نسخ عنوان البريد الإلكتروني"
 
 [faq_title]
-other = "الأسئلة الشائعة"
+other = "أسئلة شائعة"
 [written_by]
-other = "بقلم"
+other = "كتبه"
 [author_bio]
-other = "باحث في المواد الحاسوبية وطالب دكتوراه في جامعة فلوريدا (UF). عملت في مصانع البطاريات وفي أبحاث المواد، وأركّز الآن على تجربة وتوثيق كيف يمكن للفرد أن ينجح في عصر الذكاء الاصطناعي. أؤمن بالبنية أكثر من السلطة، وبالنماذج أكثر من الحدس، وبالأنظمة أكثر من بذل الجهد وحده."
+other = "باحث في المواد الحاسوبية وطالب دكتوراه في جامعة فلوريدا (UF). بعد العمل في تصنيع البطاريات وأبحاث المواد، يجرّب الآن ويوثّق كيف يمكن للفرد أن ينجو في عصر الذكاء الاصطناعي. يؤمن بالبنية أكثر من السلطة، وبالنماذج أكثر من الحدس، وبالأنظمة أكثر من الجهد."
 
 [pinned_label]
-other = "مميّز"
+other = "موصى به"
 
 [cta_instagram]
 other = "Instagram DM"

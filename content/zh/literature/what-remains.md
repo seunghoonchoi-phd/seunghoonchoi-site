@@ -1,8 +1,9 @@
 ---
 title: "余下的"
 date: 2026-06-15
-categories: ["Poem"]
-tags: ["stars"]
+categories: ["诗"]
+tags: ["星星"]
+reviewStatus: "done"
 ---
 
 ![Raindrops on a window](/images/lit-remains.jpg)

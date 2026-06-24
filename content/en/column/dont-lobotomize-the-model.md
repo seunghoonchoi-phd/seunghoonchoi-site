@@ -1,63 +1,69 @@
 ---
-title: "AI QA Tools Ruin Good Work. Don't Lobotomize the Model"
-seoTitle: "Why AI PowerPoint and Excel QA Tools Wreck Your Output"
+title: "The Trap in Reviewing AI Outputs: Do Not Lower the Ceiling While Catching Errors"
+seoTitle: "Why AI PowerPoint and Excel Review Tools Can Lower the Ceiling"
 date: 2026-06-16
 categories: ["AI"]
 tags: ["ai", "tools", "LLM"]
-subtitle: "Catch the mistakes. Leave the taste alone."
-description: "QA tools for AI-generated PowerPoint, Excel, and Word force their own style and wreck the result. The open-source llm-office-qa catches only objective errors."
+subtitle: "Block obvious defects, but do not block the chance of a better result."
+description: "How to separate obvious defects from style choices when reviewing AI-generated PowerPoint, Excel, and Word files. The design principle behind Office File Inspector."
+reviewStatus: "done"
 ---
-
 ![A magnifying glass beside a laptop](/images/col-qa.jpg)
 
-Text was spilling off the edge of the slide. I was one click from sending it.
+The text was sticking out past the slide. I noticed it only right before sending.
 
-There was more. My own Excel edits had quietly snapped back to an old version the model made an hour earlier. The table had borders on three cells out of five. That isn't taste. It's just wrong. I needed something to catch this before I hit send.
+In Excel, a `#REF!` error was still sitting there, and table borders appeared in some cells but not in others. In a Word document, markdown symbols that should have been removed were still visible. These are not matters of taste. The output is simply broken.
 
-So I installed the AI QA tools that already exist.
+AI-generated office files often contain mistakes like this. Review tools are necessary. The question is how far a review tool should intervene.
 
-## They skip the mistakes and force a format
+## Review raises the floor
 
-Almost all of them did things I never asked for. Only this many fonts. Only this much text on one slide. Color only inside this set. No more than six bullets.
+The job of a review tool is to raise the floor of the output. It should catch things that are clearly wrong no matter who sees them: text pushed outside a slide, broken formulas, unresolved placeholders, markdown left inside a document.
 
-They weren't catching mistakes. They forced their own format on me and called it "quality."
+The faster these defects are caught, the better. They are too small for a person to reliably notice at the end, but too serious to ship. If AI created the file, there should be a mechanism that automatically checks the obvious defects AI missed.
 
-## The smarter the model, the more the checker cuts it down
+But this is where the line is easy to cross. A tool made to catch errors starts enforcing style.
 
-Here's the problem. One day a better model arrives. A model that breaks all those rules on purpose and still builds a dense, genuinely great slide.
+## Turning style into error lowers the ceiling
 
-Then that checker punishes the model for doing better.
+Some review tools treat the number of fonts, bullets, words, margins, colors, and information density as if each had one correct answer. "Use only two fonts on a slide." "No more than six bullets." Rules like that can help sometimes.
 
-A rule about taste becomes a shackle on the next model. It locks your output to that one moment, to the level of the weak model the rule was written for.
+But they are not always right. A technical document, an investment report, a lecture deck, and a one-page presentation slide do not all need the same density or shape.
 
-## This tool catches only clear mistakes
+When these rules become absolute standards, something strange happens. Even if the model made a better output, it gets penalized for differing from an old model answer. Then the review tool is no longer raising the floor. It is lowering the ceiling.
 
-It removes only the clear mistakes. It steps out of the way for everything else.
+## The question that separates errors from choices
 
-So I gave every check two tests it has to pass.
+Before adding a check, ask two questions.
 
-**First. Is it objectively wrong, no matter your taste?** Text that runs off the canvas is wrong. A `#REF!` error is wrong. A table where rows have different numbers of cells is wrong. There's no room for taste here.
+**First, is this almost always a defect even if user intent or taste changes?** A `#REF!` formula error, a shape pushed outside the slide, and an unresolved placeholder are rarely things anyone should deliver as-is.
 
-**Second. Would a more capable model always avoid it too?** If a smarter model might break the rule on purpose to do better work, that rule doesn't get into this tool. Not as an error, not even as a warning.
+**Second, would a more capable model also try to avoid this problem?** If a better output might intentionally break the rule, do not call it an error. Information density, color combinations, number of fonts, margins, and sentence length belong here.
 
-Density, color, font count, margins, prose quality. All of it fails the second test. So none of it went in.
+The core is simple. If a stronger model would also want to avoid the failure, catch it. But if a stronger model might deliberately choose that expression, the review tool should not block it.
 
-That isn't a mistake. It's the ceiling. Raising the ceiling was never the checker's job in the first place.
+## Not every issue is black and white
 
-## The model gives orders it can't see, and never checks
+In real file review, not every judgment splits cleanly. Overlapping text boxes, overflowing text, tiny type, and changed image ratios are likely to be defects, but they can also be intentional design choices.
 
-One idea sits under all of this.
+So review results need categories. Clear structural defects should be marked `ERROR`. Items that need a human look should stay as `WARN`.
 
-Every defect comes from the same place. The model gives orders for something it can't see: the rendered slide, the real shape of a cell. It fills in a guess instead of the truth, and never checks the result.
+`WARN` is not a guilty verdict. It is a request to check. Without that distinction, the tool becomes either too weak or too forceful.
 
-The fix isn't a style rule. *Read the truth before you write, and verify after you write.*
+## Automated checks do not replace final judgment
 
-A smarter model does this better. That's the whole point. The discipline doesn't fight the model. It grows with the model.
+Many defects in AI-generated office files happen because the model cannot fully inspect the final result. It writes coordinates and cell values, but may not see the final rendered screen well enough. It may also fail to reflect the latest version the user just edited.
 
-## I put it on GitHub for free
+That is why automated checks matter. Right after creation, the file should be read again and measurable defects should be caught. Formula errors, canvas overflow, and leftover markdown should be filtered by a machine before a person has to hunt for them at the end.
 
-I put it on GitHub under an MIT license.
+But automated checks cannot replace final judgment. Context, intent, audience, and presentation setting cannot be fully known from one file alone. A good review tool has to be clear about the boundary of what it truly knows.
 
-If you build things with LLMs, I'd love to know which of my checks are secretly about taste. Those are exactly the ones that shouldn't be in here.
+## Why I made Office File Inspector
 
-→ [llm-office-qa on GitHub](https://github.com/seunghoonchoi-phd/llm-office-qa)
+I organized **Office File Inspector** around this principle. It is an open-source tool that finds obvious defects in AI-generated PowerPoint, Excel, and Word files.
+
+The goal is not to force every output into one shape. The goal is to stop clear failures early and leave room for better choices by the model and the person.
+
+A review tool should not reduce the model's possibilities. Good review raises the floor. It does not lower the ceiling.
+
+-> [Office File Inspector on GitHub](https://github.com/seunghoonchoi-phd/llm-office-qa)

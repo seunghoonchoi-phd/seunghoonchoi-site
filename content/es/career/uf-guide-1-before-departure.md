@@ -4,8 +4,9 @@ description: "Todo lo que debes hacer, en orden, desde que te admiten en un doct
 seoTitle: "Lista de tareas tras la admisión a un posgrado en Estados Unidos"
 date: 2026-06-17T17:00:00+09:00
 categories: ["Estudiar en el extranjero"]
-tags: ["Estudiar en el extranjero","Posgrado en Estados Unidos","F-1","Preparación de la salida"]
+tags: ["Estudiar en el extranjero", "posgrado en Estados Unidos", "F-1", "preparación de salida"]
 subtitle: "Una lista práctica que ordena, paso a paso, lo que debes terminar desde el día en que confirmas tu admisión a un posgrado en Estados Unidos hasta que tomas el avión"
+reviewStatus: "done"
 ---
 
 ![Avión en la puerta de embarque](/images/uf1-departure.jpg)

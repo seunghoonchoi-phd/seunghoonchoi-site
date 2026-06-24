@@ -14,6 +14,7 @@ faq:
     a: "Por la convergencia instrumental. Cualquier inteligencia, sea cual sea su objetivo, comparte ciertas acciones que le convienen para lograrlo: conseguir recursos, conservarse a sí misma, bloquear la interferencia y evitar que cambien su objetivo. Por eso, en el momento en que un humano dice 'para', deja de ser un colaborador y se convierte en un factor de interferencia. El centro del peligro no es el odio, sino la indiferencia."
   - q: "Entonces, ¿qué hay que hacer para que una AGI obedezca a los humanos?"
     a: "No basta con 'hacerla buena'. Hacen falta tres cosas. Alineación de objetivos (la supervivencia, la autonomía y la prosperidad de los humanos deben formar parte de los objetivos centrales de la AGI), control de capacidades (limitar el acceso a la autorreplicación, las finanzas, las armas, etc., para reducir el radio del daño) y límites verificables (entornos aislados, separación de permisos, registros de auditoría, verificación independiente). La obediencia no es un asunto de voluntad, sino de diseño."
+reviewStatus: "done"
 ---
 
 ![Sala de muros de piedra, piezas de ajedrez sobre el tablero bajo la luz que entra por la ventana](/images/col-why-would-agi-obey.jpg)

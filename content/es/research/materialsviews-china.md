@@ -2,7 +2,8 @@
 title: "MaterialsViewsChina de China presenta mi investigación"
 date: 2019-12-15
 categories: ["Premios y noticias"]
-tags: ["Sensores"]
+tags: ["sensores"]
+reviewStatus: "done"
 ---
 ![Presentación en MaterialsViewsChina](/images/materialsviews.png)
 

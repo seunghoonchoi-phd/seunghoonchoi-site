@@ -1,33 +1,37 @@
 ---
-title: "ReadFast — Foreign-Language Speed-Reading App"
-seoTitle: "Speed Reading App for English & Chinese, Evidence-Based"
+title: "ReadFast - English and Chinese Reading Speed and Comprehension Trainer"
+seoTitle: "ReadFast: Train English and Chinese Reading Speed and Comprehension Together"
 date: 2026-06-16
 categories: ["Tools"]
-tags: ["reading", "speed-reading", "app", "english", "chinese"]
-subtitle: "No speed-reading myths — only techniques that actually transfer"
-description: "Read English and Chinese faster without the speed-reading myths. A free, installable app training lexical automaticity and a comprehension-gated rate."
+tags: ["reading", "speed-reading", "app", "English", "Chinese"]
+subtitle: "Not speed reading that only raises speed, but reading training that checks comprehension too."
+description: "ReadFast is a free installable web app for training English and Chinese reading speed and comprehension together. It includes lexical automaticity, comprehension-gated scoring, repeated reading, and step-by-step paper reading."
 image: /images/reading-trainer-card.svg
+reviewStatus: "done"
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/reading-trainer-card.svg" alt="ReadFast reading trainer app icon">
   <div class="appcard__body">
     <span class="appcard__free">Installable web app (PWA)</span>
-    <h3>ReadFast · Reading speed & comprehension trainer</h3>
-    <p>Read English and Chinese faster and more accurately — using only techniques that transfer.</p>
+    <h3>ReadFast · Reading speed and comprehension trainer</h3>
+    <p>Read English and Chinese faster without throwing comprehension away.</p>
     <a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">Open the app →</a>
   </div>
 </div>
 
-I wanted to read English and Chinese faster too, but I didn't trust the usual speed-reading courses. So I built **ReadFast** around **only the techniques that actually transfer** in the reading- and learning-science literature. No payment, no sign-up.
+I wanted to read English and Chinese faster too. But many speed-reading methods on the market came with exaggerated claims. I did not want to simply trust methods that are hard to connect to real reading ability, such as 10,000 WPM, PhotoReading, or skimming without comprehension.
 
-It rests on one premise — **the bottleneck on reading speed is not your eyes, it's your brain's word processing.** So claims like span-widening, RSVP-as-magic, 10,000 WPM, and PhotoReading are explicitly debunked in the **Why** tab, and the real levers are trained instead.
+So I built **ReadFast**. The goal is not merely to move your eyes faster. It is to recognize vocabulary faster, process sentences in chunks, and raise reading speed only within the range where comprehension does not collapse.
 
-- **Lexical automaticity + coverage** — frequency-ordered spaced repetition to make word recognition fast and steady
-- **ERR reading** — score = speed × comprehension (below 60% comprehension scores zero). Skimming can't win
-- **Conquer mode** — master a hard text first, then repeated speed passes, then a cold transfer to a new text
-- **Three-pass papers · self-explanation & retrieval · Chinese segmentation/character recognition**
-- **A "Why" tab** — the mechanism, the strength of evidence, and the sources
-- **Installable PWA** — add to your home screen, works offline
+The premise is simple. Reading speed is constrained not only by the eyes, but by the brain's lexical processing. ReadFast therefore measures speed and comprehension together. If you read fast but comprehension is low, the training score does not reward it.
+
+- **Lexical automaticity + coverage** - frequency-ordered spaced repetition to make word recognition fast and steady
+- **ERR close reading** - score = speed x comprehension. Reading fast means little if comprehension is low
+- **Conquer mode** - take control of a difficult text through first-pass reading, repeated speed passes, and transfer to a new text
+- **Step-by-step paper reading, self-explanation, and retrieval practice** - do not try to understand a paper all at once; skim first, grasp the structure, then read deeply
+- **Chinese segmentation and character-recognition training** - practice reading Chinese in chunks where word boundaries are less visible
+- **Principles tab** - why each training mode exists and which speed-reading claims to treat carefully
+- **Installable web app (PWA, Progressive Web App)** - add it to your home screen and use it like an app, even offline
 
 [Open the app →](/reading-trainer/)
 

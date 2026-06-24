@@ -1,63 +1,69 @@
 ---
-title: "Las herramientas de revisión con IA arruinan los buenos resultados. No mutiles al modelo"
-seoTitle: "Por qué las herramientas de revisión de PPT y Excel con IA arruinan el resultado"
+title: "La trampa de revisar resultados de IA: no bajes el techo mientras corriges errores"
+seoTitle: "Por qué las herramientas que revisan PowerPoint y Excel hechos con IA pueden bajar el techo del resultado"
 date: 2026-06-16
-categories: ["IA"]
-tags: ["ia", "herramientas", "LLM"]
-subtitle: "Solo detecta los errores. No toca el gusto."
-description: "Las herramientas que revisan PowerPoint, Excel y Word generados por IA imponen un estilo y arruinan el resultado. llm-office-qa, de código abierto, solo detecta errores objetivos."
+categories: ["AI"]
+tags: ["ai", "herramientas", "LLM"]
+subtitle: "Hay que bloquear los errores claros sin bloquear también la posibilidad de un resultado mejor."
+description: "Al revisar PowerPoint, Excel o Word creados por IA, ¿cómo distinguimos defectos reales de decisiones de estilo? Presento los principios de diseño de Office File Inspector."
+reviewStatus: "done"
 ---
-
 ![Una lupa junto a un portátil](/images/col-qa.jpg)
 
-El texto se salía del borde de la diapositiva. Estaba a punto de enviarla.
+El texto se salía de la diapositiva. Lo vi justo antes de enviarla.
 
-Había otro problema. Una hora antes, el modelo había hecho una versión vieja, y mis cambios en Excel habían vuelto a esa versión sin que yo lo notara. La tabla tenía borde en solo tres de cinco celdas. No es cuestión de gusto. Está mal, sin más. Necesitaba algo que detectara esto antes de enviar el archivo.
+En Excel todavía quedaba un error `#REF!`, y los bordes de la tabla aparecían en unas celdas sí y en otras no. En un documento de Word seguían visibles símbolos de Markdown que debían haber desaparecido. Eso no es una cuestión de gusto. El resultado está roto.
 
-Así que instalé las herramientas de revisión con IA que ya existen.
+En los archivos de Office creados por IA aparecen a menudo errores así. Por eso hacen falta herramientas de revisión. El problema es decidir hasta dónde deben intervenir.
 
-## No detectan los errores y solo imponen un formato
+## Revisar es subir el piso
 
-La mayoría hacía cosas que yo no había pedido. Cuántas fuentes como máximo. Cuántas letras por diapositiva. Qué colores se pueden usar. Cuántas viñetas como máximo, seis.
+Una herramienta de revisión debe subir el piso del resultado. Debe detectar texto que se sale de una diapositiva, fórmulas rotas, placeholders sin resolver o restos de Markdown en el documento. Cosas que serían un problema para casi cualquier destinatario.
 
-No detectaban errores. Imponían su propio formato y a eso lo llamaban "calidad".
+Cuanto antes se detecten esos errores, mejor. Son demasiado pequeños para que una persona los encuentre siempre al final, pero demasiado graves si salen tal cual. Si la IA creó el archivo, tiene sentido que otra capa automática vuelva a revisar los defectos evidentes que la IA dejó pasar.
 
-## Cuanto más inteligente es el modelo, más lo recorta el revisor
+Pero aquí es fácil cruzar la línea. Una herramienta creada para detectar errores empieza, sin darse cuenta, a imponer estilo.
 
-El problema está aquí. Algún día saldrá un modelo mejor. Un modelo que rompa todas esas reglas a propósito y aun así arme una diapositiva densa y muy buena.
+## Si conviertes el estilo en error, bajas el techo
 
-Entonces ese revisor castiga al modelo justamente por haberlo hecho mejor.
+Algunas herramientas tratan el número de fuentes, la cantidad de bullets, la extensión del texto, los márgenes, los colores o la densidad de información como si existiera una única respuesta correcta. "Una diapositiva solo debe usar dos fuentes", "no debe haber más de seis bullets", y así.
 
-Las reglas sobre el gusto se convierten en una cadena para el siguiente modelo. Atan el resultado al nivel de aquel momento, al nivel de aquel modelo débil con el que se hicieron las reglas.
+Claro que esas reglas pueden ayudar a veces. Pero no son siempre correctas. Un documento técnico, un informe de inversión, una clase y una diapositiva de una sola página no tienen por qué tener la misma densidad ni la misma forma.
 
-## Esta herramienta solo detecta los errores claros
+Cuando esas reglas se vuelven criterios absolutos, pasa algo raro. Aunque el modelo produzca un resultado mejor, recibe una penalización porque se aparta del ejemplo antiguo. Entonces la herramienta de revisión deja de subir el piso y empieza a bajar el techo.
 
-Solo elimina los errores claros. Con lo demás, se aparta.
+## La pregunta para separar error de elección
 
-Por eso a cada control le puse dos pruebas que tiene que pasar.
+Antes de agregar una comprobación, hay que hacerse dos preguntas.
 
-**Primera. ¿Está mal de forma objetiva, sin importar el gusto?** El texto que se sale del lienzo está mal. El error `#REF!` está mal. Una tabla con distinto número de celdas en cada fila está mal. Aquí no entra el gusto.
+**Primera: aunque cambien la intención o el gusto del usuario, ¿casi siempre sería un defecto?** Un `#REF!` en una fórmula, una forma fuera de la diapositiva o un placeholder sin resolver casi nunca deberían entregarse así.
 
-**Segunda. ¿Es algo que incluso un modelo más capaz evitaría siempre?** Si un modelo más inteligente podría romper esa regla a propósito para hacerlo mejor, esa regla no entra en esta herramienta. Ni como error, ni como advertencia.
+**Segunda: ¿un modelo más competente también querría evitar este problema?** Si una regla puede romperse a propósito para lograr un resultado mejor, no conviene declararla error. La densidad de información, la combinación de colores, el número de fuentes, los márgenes o la longitud de las frases entran aquí.
 
-La densidad, el color, el número de fuentes, los márgenes, la calidad de las frases. Todo eso falla la segunda prueba. Por eso no incluí nada de esto.
+La idea es simple. Si hasta un modelo mejor intentaría evitar ese fallo, hay que detectarlo. Pero si un modelo mejor podría elegirlo deliberadamente, la herramienta no debe bloquearlo.
 
-Eso no es un error. Es el techo. Subir el techo nunca fue tarea de un revisor.
+## No todo se divide en blanco y negro
 
-## El modelo da órdenes sobre algo que no ve y tampoco lo comprueba
+En la revisión real de archivos no todo se separa con limpieza. Cajas de texto que se pisan, letras que se desbordan, texto pequeño o una imagen estirada tienen mucha probabilidad de ser defectos, pero también pueden ser decisiones intencionales.
 
-Debajo de todo esto hay una sola idea.
+Por eso el resultado de la revisión debe dividirse. Los defectos estructurales claros se marcan como `ERROR`. Lo que requiere mirada humana se deja como `WARN`.
 
-Todos los defectos vienen del mismo lugar. El modelo da órdenes sobre cosas que no puede ver. La diapositiva ya renderizada, la forma real de la celda. Llena ese vacío con suposiciones en vez de con la verdad, y no comprueba el resultado.
+`WARN` no es una condena. Es una solicitud de revisión. Sin esta diferencia, la herramienta se vuelve demasiado débil o demasiado agresiva.
 
-La solución no son las reglas de estilo. *Lee la verdad antes de escribir, y verifica después de escribir.*
+## La revisión automática no reemplaza el juicio final
 
-Cuanto más inteligente es el modelo, mejor cumple esto. Ese es el punto. La disciplina no pelea contra el modelo, sino que crece junto con él.
+Muchos defectos de los archivos de Office creados por IA nacen porque el modelo no ve bien el resultado final. Escribe coordenadas y valores de celdas, pero quizá no comprueba con suficiente detalle la pantalla renderizada. También puede no reflejar el estado más reciente del archivo que el usuario acaba de corregir.
 
-## Lo publiqué gratis en GitHub
+Por eso la revisión automática es necesaria. Después de crear el archivo, hay que volver a leerlo y detectar defectos medibles. Errores de fórmula, salida del lienzo o restos de Markdown deben caer en una revisión mecánica antes de que una persona los busque al final.
 
-Lo subí a GitHub con licencia MIT.
+Pero esa revisión automática no puede reemplazar el juicio final. El contexto, la intención, el público y la situación de presentación no se entienden por completo mirando un archivo aislado. Una buena herramienta de revisión debe dejar claro qué sabe con seguridad.
 
-Si construyes algo con un LLM, me gustaría que me dijeras cuáles de mis controles son en realidad cuestión de gusto. Justamente esos son los que no deberían estar aquí.
+## Por qué hice Office File Inspector
 
-→ [llm-office-qa en GitHub](https://github.com/seunghoonchoi-phd/llm-office-qa)
+Con ese principio ordené **Office File Inspector**. Es una herramienta open source que busca defectos claros en archivos de PowerPoint, Excel y Word creados por IA.
+
+El objetivo no es hacer que todos los resultados tengan la misma forma. Es bloquear pronto los fallos evidentes y dejar espacio para que el modelo y la persona tomen mejores decisiones.
+
+Una herramienta de revisión no debe reducir las posibilidades del modelo. Una buena revisión sube el piso. No baja el techo.
+
+→ [Office File Inspector en GitHub](https://github.com/seunghoonchoi-phd/llm-office-qa)

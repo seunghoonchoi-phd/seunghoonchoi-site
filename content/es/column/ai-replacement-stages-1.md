@@ -1,65 +1,95 @@
 ---
-title: "Tu trabajo desaparece primero: las tareas con respuesta fija pasan antes a la IA (etapas 1 a 5)"
+title: "Primero se reemplazan los trabajos con respuesta: etapas 1 a 5 de cómo la IA toma el trabajo"
 date: 2026-06-21T17:44:00+09:00
 draft: false
-categories: ["IA"]
-tags: ["IA", "automatización", "empleo", "futuro", "estrategia de supervivencia", "carrera profesional"]
-subtitle: "De las apps de traducción a las aprobaciones automáticas: por qué los trabajos cuya respuesta se puede comprobar pasan primero"
-seoTitle: "El orden en que la IA reemplaza el trabajo, parte 1: las tareas con respuesta fija desaparecen primero (etapas 1 a 5)"
+categories: ["AI"]
+tags: ["AI", "automatización", "empleo", "futuro", "estrategia de supervivencia", "carrera"]
+subtitle: "Los trabajos cuyo resultado se puede comprobar, como traducción, programación, análisis y predicción de reacción masiva, pasan primero a la IA."
+seoTitle: "Orden de reemplazo laboral por IA, parte 1: primero caen los trabajos con respuesta"
 image: /images/col-ai-replacement-stages-1.jpg
 series: "ai-replacement-stages"
 weight: 2
-faq:
-  - q: "¿Por qué la IA toma primero los trabajos 'con respuesta fija'?"
-    a: "Porque se puede comprobar al instante si están bien o mal. En tareas donde la corrección es clara, como el Go, el código que pasa una prueba o una proteína cuya estructura se confirma, la IA prueba muchísimas veces, corrige enseguida y mejora rápido. Aquí entran la traducción simple, la programación básica, los informes con formato fijo, y también el diagnóstico y la predicción."
-  - q: "¿No leemos las personas la mente de los demás mejor que una máquina?"
-    a: "Es justo lo contrario de lo que parece. Los algoritmos de recomendación y los anuncios aciertan bien qué haremos después porque la IA aprendió, a partir de lo que dejaron escrito miles de millones de personas, qué atrae y qué aburre. Ve una cantidad de huellas imposible de comparar con lo que una persona vive en toda su vida, así que leer la mente ajena está más cerca de ser algo en lo que la IA es fuerte."
-  - q: "¿No es más seguro que una persona lo revise una vez más?"
-    a: "Casi siempre sí, pero hay dos condiciones que, juntas, lo invierten: que la IA se equivoque menos que la persona y que, aunque algo salga mal, se pueda deshacer. En ese caso la revisión humana se vuelve ruido, porque corrige sin necesidad resultados que estaban bien o ralentiza el trabajo. Esto vale solo para tareas donde se compite por 'precisión'; la supervisión que decide quién responde o qué importa más dura mucho más."
----
-![El trabajo que la IA reemplaza primero: las tareas mentales con respuesta fija desaparecen antes (etapas 1 a 5)](/images/col-ai-replacement-stages-1.jpg)
-
-Aquello que haces bien pronto se vuelve común. Y además, antes que nada. El orden en que la IA toma el trabajo de las personas sigue una regla, y en la primera fila se coloca justamente "el trabajo cuya respuesta está fijada".
-
-En un restaurante en el extranjero apuntas la cámara a la carta y ahí mismo se traduce al coreano. Hace diez años habrías abierto el diccionario y descifrado palabra por palabra. Al principio te sorprende y, sin darte cuenta, lo usas como algo normal. En esa pequeña escena está el primer botón de ese orden. Empieza por el trabajo cuya respuesta cualquiera reconoce como fija, el trabajo en el que se comprueba al momento si está bien o mal.
-
-Este texto recorre esas primeras cinco etapas. Las tres primeras son trabajos en los que se confirma "esto es correcto"; las dos últimas son el puesto de quien hace el trabajo hasta el final por sí mismo y el puesto de quien lo vigila.
-
-## La IA es más fuerte donde el resultado se corrige
-
-Conviene dejar algo claro de entrada. Los trabajos en los que la IA es especialmente fuerte tienen algo en común: son trabajos cuyo resultado se corrige ahí mismo, donde se ve si la respuesta acierta.
-
-En el Go se gana o se pierde. Cómo se pliega una proteína se sabe al compararla con la estructura real. El código que tiene una prueba pasa o salta en rojo. En estos trabajos la IA prueba sin parar, si falla corrige enseguida y vuelve a intentarlo. La persona necesita dormir y, si falla una vez, pierde el ánimo; la máquina, en cambio, mientras la corrección sea clara, corre toda la noche hacia esa corrección. Por eso, cuanto más nítida es la respuesta, más rápido pasa a la IA. Las tres etapas que siguen entran todas aquí.
-
-**Etapa 1, el trabajo con formato fijo.** Traducción simple, programación básica, informes con formato fijo, cálculo, resumen de textos largos. Trabajos con respuesta clara que pedían mucho esfuerzo manual. Es el caso de la traducción de la carta de antes, y el del autocompletado que, cuando el programador escribe una línea, rellena solo la siguiente. En estos trabajos, "yo hago esto rápido y bien" era el mérito, y ese mérito se vuelve común antes que ningún otro.
-
-**Etapa 2, el análisis del experto.** A partir de aquí la gente se sorprende. El médico que mira una radiografía o un TAC y detecta la enfermedad, o quien prevé la demanda y elabora una propuesta de diseño. Son juicios que solo hacía quien había estudiado mucho. Pero el diagnóstico y la predicción son, en el fondo, "mirar los datos dados y elegir la respuesta correcta dentro de un formato fijo". Que el formato esté fijado significa que se puede corregir, y si se puede corregir, se vuelve un trabajo en el que la IA es fuerte. El experto no desaparece. Solo cede el puesto de "la persona que mejor hace ese trabajo".
-
-**Etapa 3, leer la mente de las personas.** Es lo más inesperado. Se suele creer que "los datos no, pero la mente de las personas solo la entiende otra persona". Sin embargo, el algoritmo de recomendación acierta bastante bien qué vas a pulsar a continuación. La publicidad detecta el punto donde dudas, y cada vez acierta mejor qué contenido va a estallar. No es nada raro. La IA aprendió, a partir de lo que escribieron miles de millones de personas, qué les atrae y qué les aburre. Una persona conoce a unos pocos miles a lo largo de su vida; la IA ve una cantidad de huellas de la mente que no admite comparación. Lejos de ser el último bastión, leer la mente de las personas está más cerca de ser algo que la IA hace muy bien, precisamente porque la corrección es nítida.
-
-Las tres etapas se resumen en una línea: si mi valor está en producir respuestas, ese valor es el primero que queda desplazado.
-
-## También se tambalea el puesto de llevar el trabajo hasta el final
-
-Hasta aquí era la historia de "la IA da la respuesta". Las dos etapas siguientes son distintas. Ya no se trata solo de dar la respuesta, sino de ver qué les pasa al puesto que lleva el trabajo por sí mismo y al puesto que lo vigila.
-
-**Etapa 4, hacer varios pasos hasta el final por su cuenta.** La IA de antes era un ayudante que preguntabas una vez y respondía una vez. Ahora, con solo darle un objetivo, recorre los pasos intermedios sola. Busca datos, los ordena, rellena el formato, los procesa y pasa al siguiente paso. Es fácil imaginarlo como el flujo en el que, dentro de una empresa, un documento avanza solo por las etapas de aprobación. El trabajo intermedio que la persona tocaba uno a uno se reduce, y la persona queda limitada a decidir solo "qué hacer". Es como subir del puesto de hacer el trabajo al puesto de marcar la dirección.
-
-**Etapa 5, el momento en que la supervisión más bien estorba.** Este es el giro más importante de este texto. Normalmente creemos que es más seguro que una persona revise una vez más. Muchas veces es cierto. Pero cuando se cumplen dos condiciones a la vez, la historia se invierte: que la IA se equivoque menos que la persona y, además, que aunque algo salga mal se pueda deshacer.
-
-En ese caso la revisión humana no es un seguro, sino ruido. Cuando una persona mira un resultado que está casi todo bien, corrige sin necesidad algo que estaba correcto, ralentiza el trabajo o mete un error nuevo que no existía. Piensa en el revisor que, queriendo cazar erratas en un texto escrito sin fallos, toca una frase que estaba bien y lo deja todo más lento. Por eso el puesto de "comprobar una vez más" desaparece de forma silenciosa. Lo único que no desaparece es la responsabilidad. Sin llegar a mirar nada de verdad, queda solo el nombre de una persona como responsable nominal por si algo ocurre.
-
-A esto va unida una salvedad. La etapa 5 es, en todo caso, una historia limitada a los trabajos en los que se compite por "quién es más preciso". Donde se compite por precisión, la revisión humana se vuelve ruido. Pero la supervisión que no decide la precisión, sino "quién asume la responsabilidad" o "qué importa más", es de otra naturaleza. Eso no es algo que se gane con precisión, así que perdura mucho más tiempo. Esa historia se trata aparte en las etapas posteriores.
-
-## Por eso, a la siguiente parte
-
-Hasta aquí, el paisaje inicial del trabajo de escritorio, el que se hace con la cabeza. Cuanto más nítida es la respuesta, más rápido pasa a la IA, y allí donde la revisión humana se vuelve ruido, el puesto se vacía en silencio.
-
-Queda una réplica natural: "Entonces, el trabajo que se hace con las manos, el tacto aprendido con el cuerpo, ¿no está a salvo?". La segunda parte sigue esa pregunta. Desde las tareas repetitivas de la fábrica hasta la destreza manual, y hasta esa "intuición" que parece capaz de aguantar mucho: en las etapas 6 a 8 veremos por qué el mundo físico pasa más despacio, pero al final también pasa.
-
+reviewStatus: "done"
 ---
 
-**Serie 〈Las 16 etapas en que la IA reemplaza el empleo〉 · Parte 1**
+![Los trabajos que la IA reemplaza primero: desaparece antes el trabajo mental con respuesta](/images/col-ai-replacement-stages-1.jpg)
 
-- Mapa completo: [¿En qué orden reemplaza la IA el trabajo humano? (mapa completo)](/es/column/ai-replacement-stages/)
-- Siguiente texto: [Parte 2: el cuerpo y la 'intuición' también acaban siendo reemplazados (etapas 6 a 8)](/es/column/ai-replacement-stages-2/)
+¿La IA se llevará mi trabajo? Para responder, primero hay que mirar el orden. La IA no se lleva cualquier trabajo al azar. Hay trabajos que se reemplazan primero y otros que tiemblan mucho después. Entre ellos, lo primero que se mueve es el trabajo con respuesta.
+
+Si una traducción es correcta, si el código corre, si el cálculo cierra, si el diagnóstico fue acertado, si un anuncio provocó clics. Ese tipo de trabajo permite comprobar el resultado. Si el resultado se comprueba, se puede puntuar; si se puntúa, la IA aprende rápido.
+
+Cuando una persona se equivoca, pierde tiempo, ánimo y tarda en aprender otra vez. La IA es distinta. Intenta muchas veces, corrige cuando falla y vuelve a intentar. Cuanto más claro es el criterio de evaluación, más rápido alcanza a los humanos, y en algún momento hace lo mismo más barato y más rápido.
+
+Este texto trata las primeras cinco etapas en que la IA toma el trabajo.
+
+La etapa 1 son tareas con respuesta definida. La etapa 2 es el análisis experto. La etapa 3 es predecir la reacción del público. La etapa 4 es procesar un trabajo de principio a fin por cuenta propia. La etapa 5 es el trabajo donde la revisión humana empieza a volverlo más lento.
+
+Hasta aquí todo se mueve en la misma dirección. Crear una respuesta, comprobarla, corregirla y volver a procesar pasa cada vez más a la IA.
+
+## Etapa 1, tareas con respuesta definida
+
+Lo primero que se reemplaza son tareas cuya respuesta está relativamente definida: traducción, resumen, programación básica, informes con formato fijo, cálculos simples, documentación repetitiva. Tienen una entrada y una salida bastante claras. ¿Por qué se reemplazan primero? Porque es fácil comprobar si están bien o mal.
+
+Una traducción se compara con el original. El código se ejecuta. Un cálculo se verifica. En un resumen se mira si falta lo importante. En un informe con formato fijo se ve si están los campos necesarios.
+
+Son trabajos cómodos para que la IA practique. Puede comprobar rápido si se acercó a la respuesta. Una vez que lo hace lo bastante bien, es más barata y rápida que una persona. Eso no significa que desaparezca todo valor humano. Pero sí baja rápido el valor de "la persona que produce rápido algo en un formato fijo". Antes, traducir rápido, ordenar documentos rápido o sacar código rápido era una ventaja clara. Ahora se vuelve casi una base.
+
+Lo que desaparece en esta etapa no es toda la creatividad. Es el papel de producir rápido una respuesta definida.
+
+## Etapa 2, análisis experto
+
+Después viene el análisis experto: diagnóstico, predicción, análisis de riesgo, revisión de diseño, interpretación de datos. Por fuera parece trabajo profesional de alto nivel, pero muchas partes son repetición de reconocimiento de patrones y juicio.
+
+Un médico mira una imagen y encuentra una lesión. Un abogado revisa jurisprudencia. Un ingeniero ve datos y detecta una anomalía. Un analista mira números y predice dirección.
+
+Es trabajo de gente que estudió mucho, y por eso parece seguro. Pero desde el punto de vista de la IA no siempre lo es. Si hay muchos casos pasados, los datos de entrada están ordenados y después puede comprobarse el resultado, la IA avanza rápido. Con el tiempo se confirma si el diagnóstico era correcto, si la predicción acertó, si el diseño falló o si el riesgo se materializó. Es decir, el análisis experto también recibe presión en las zonas donde la respuesta converge.
+
+No significa que quien estudió mucho deje de importar. Significa que ya no basta con estar en el lugar de "la persona que analiza mejor". Lo que se vuelve más importante para el experto no es entregar el análisis sin más, sino elegir qué problema debe resolverse, interpretar el análisis de la IA en el contexto real y asumir una decisión si se equivoca. Cuanto más analiza la IA, más sube la persona desde analista hacia responsable y definidor de problemas.
+
+## Etapa 3, predecir la reacción del público
+
+La tercera etapa es predecir la reacción del público. Hay que tener cuidado aquí. No significa que la IA lea el corazón humano por magia. Tampoco significa que entienda perfectamente el deseo profundo de una persona. Lo que la IA hace bien es mirar datos reales de comportamiento y predecir estadísticamente la siguiente reacción.
+
+Qué título se hizo clic, en qué frase alguien abandonó, qué producto compró, a qué tono respondió, en qué video se quedó más tiempo. La IA ve una escala de datos de comportamiento que una persona no podría observar en toda su vida. Por eso lo primero que se reemplaza no es "entender profundamente a las personas". Es predecir qué hará clic el público, qué comprará y dónde abandonará. Elegir copys de anuncio, comparar títulos y miniaturas, segmentar clientes, armar recomendaciones, predecir respuesta a precios y promociones: todo eso pasa rápido a la IA. Antes se hacía con la intuición de marketers o planificadores; ahora la IA lo procesa con datos.
+
+Lo que desaparece en esta etapa es el puesto de "yo sé por intuición qué le gustará a la gente". Pero hay límites claros. Acertar estadísticamente no es lo mismo que ofrecer a una persona un servicio de 100 puntos justo a su medida. Que la IA conozca muchos datos de gustos alimentarios no significa que pruebe el sabor. Sigue siendo difícil saber qué ánimo tiene hoy una persona, qué textura y aroma quiere ahora, y qué comida la dejará realmente satisfecha.
+
+Así que lo que se reemplaza aquí no es la capacidad de entender por completo a una persona. Es el trabajo de predecir reacciones de mucha gente y optimizar contenido, anuncios y recomendaciones con esa predicción.
+
+La reacción del público no tiene una única respuesta exacta. Pero métricas como clics, compras, tiempo de visualización y abandono dan feedback continuo. Cuando la respuesta converge, la IA se vuelve fuerte.
+
+## Etapa 4, procesar un trabajo completo de principio a fin
+
+La IA inicial tomaba piezas pequeñas: una frase, una línea de código, un resumen. Pero cada vez más procesa trabajos completos. Le das un objetivo, arma un plan, busca materiales, crea un borrador, corrige y entrega un resultado. En esta etapa la IA deja de ser solo una herramienta que responde y se vuelve ejecutora de varias etapas conectadas.
+
+Antes la persona dividía el trabajo: buscar materiales, ordenarlos, crear el documento, ajustar formato, enviar, pasar al siguiente paso. Ahora la IA puede procesar ese flujo junto. Dentro de una empresa, eso reduce trabajo operativo intermedio. Pequeños pasos que una persona tocaba uno por uno se agrupan y se automatizan. La persona se mueve hacia decidir qué hacer y con qué criterio se considera terminado. Es el cambio de "escribe esta frase" a "alcanza este objetivo".
+
+Lo inquietante no es que desaparezcan una o dos tareas. Es que se tambalea el puesto de quien unía muchas tareas pequeñas. Disminuye el trabajo de buscar, ordenar, meter en formato y convertir en algo presentable. Por supuesto, la IA no puede terminar todo por completo. Quedan autoridad, seguridad, responsabilidad, contexto organizacional y aprobación final. Pero el número de personas que hace girar las etapas intermedias puede disminuir.
+
+## Etapa 5, trabajos donde revisar con humanos vuelve más lento
+
+Al principio, la persona revisa el resultado de la IA. Es lógico. La IA puede equivocarse. Pero en algunos trabajos la situación cambia con el tiempo. Si la tasa de error de la IA cae por debajo de la humana y un error se puede revertir con facilidad, que una persona revise cada vez deja de ser un seguro y se vuelve un cuello de botella. Por ejemplo, clasificación repetitiva, aprobaciones simples o procesamiento automático de tareas de bajo riesgo. Si se puede comprobar rápido si estuvo mal y revertir sin gran daño, la revisión humana disminuye.
+
+En ese momento, la persona puede dejar de hacer el trabajo más seguro y empezar a hacerlo más lento. Mirar cada resultado casi correcto puede terminar corrigiendo de más, retrasando o incluso introduciendo errores. Por eso se reduce el puesto de "alguien que mira una vez más". Pero aquí hay una condición importante.
+
+La etapa 5 se limita a trabajos donde la precisión y la reversibilidad son centrales. La revisión humana disminuye solo cuando la IA es más precisa y el error se recupera fácil. Los trabajos con gran responsabilidad son distintos. Si una falla puede herir a alguien, mover mucho dinero, crear responsabilidad legal o romper la confianza de la organización, la persona no sale tan fácil. Es decir, no desaparecen todos los supervisores. Primero desaparece el revisor que solo comprobaba precisión.
+
+La persona que responde, decide qué importa y asume el daño si algo sale mal permanece hasta etapas posteriores. Por eso el centro de la etapa 5 es este: si la IA se equivoca menos que una persona y el error se puede revertir, la revisión humana deja de ser seguridad y se vuelve costo.
+
+En ese momento, el puesto del revisor se reduce en silencio.
+
+## Por qué los trabajos con respuesta tiemblan primero
+
+Si unimos las etapas 1 a 5 en una frase, queda así: los trabajos con respuesta se reemplazan primero. Tener respuesta no significa que exista una única respuesta. Significa que se puede comprobar el resultado, dar feedback y estrechar con el tiempo la dirección de una respuesta mejor.
+
+Traducción, resumen, programación, diagnóstico, análisis, recomendación, publicidad, predicción de reacción masiva, aprobación repetitiva y procesamiento automático de bajo riesgo. Todos tienen, en distintos grados, una respuesta que converge. Cuando la respuesta converge, la IA aprende por repetición. Cuando aprende por repetición, se vuelve barata y rápida. Cuando se vuelve barata y rápida, el lugar de la persona se reduce. Los lugares humanos se mueven a otra parte: elegir problemas, asumir responsabilidad, leer contexto real, tener autoridad y aceptar pérdidas cuando algo sale mal.
+
+Por eso "soy bueno en mi trabajo" no basta. Si ese trabajo tiene una respuesta que converge, las personas buenas son las primeras comparadas con la IA. Y cuando la IA sea lo bastante barata y rápida, también se moverá el valor de quien era bueno.
+
+## En la próxima parte
+
+Hasta aquí llega la primera zona en que la IA toma el trabajo.
+
+Primero tiemblan las tareas con respuesta definida. Luego el análisis experto. Después la predicción de reacción masiva. Luego la IA procesa varias etapas por sí sola. Por último, en algunas áreas también se reduce el lugar de quien revisa una vez más.
+
+Entonces la siguiente pregunta aparece sola. ¿El trabajo físico está a salvo? ¿La destreza manual y el tacto del terreno serán difíciles de tomar para la IA? En el próximo texto veremos las etapas 6 a 8: trabajo físico repetitivo, destreza manual y prueba y error en terreno, y cómo empiezan a moverse el juicio y la sensación sin respuesta clara.

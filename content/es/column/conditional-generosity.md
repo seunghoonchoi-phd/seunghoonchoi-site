@@ -7,6 +7,7 @@ tags: ["bondad", "reputación", "relaciones", "poner distancia", "trato con la g
 subtitle: "Ser bueno y ser firme no son cosas opuestas. Son las dos caras de una misma regla. Si das sin medida, te pisan; si aguantas sin medida, la herida se enquista. La única línea que separa lo uno de lo otro."
 seoTitle: "Cómo ser buena persona sin dejarte pisar: bondad, reputación y distancia, frente al canalla y la maledicencia (generosidad condicional)"
 image: /images/col-conditional-generosity.jpg
+reviewStatus: "done"
 faq:
   - q: "¿De verdad sale a cuenta ser buena persona?"
     a: "En las relaciones que se repiten, sí. En una época en que toda tu reputación queda registrada, casi cualquier relación se convierte en 'gente que volverás a ver', y entonces quien tiende la mano primero gana a la larga. Pero solo funciona si no das sin condiciones, sino con 'generosidad condicional': que la traición tenga un costo."

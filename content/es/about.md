@@ -1,5 +1,6 @@
 ---
 title: "Acerca de"
+reviewStatus: "done"
 ---
 <figure class="about-portrait">
   <img src="/images/about-portrait.jpg" alt="Seunghoon Choi" width="820" height="1093" loading="eager">

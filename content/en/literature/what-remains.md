@@ -3,6 +3,7 @@ title: "What Remains"
 date: 2026-06-15
 categories: ["Poem"]
 tags: ["stars"]
+reviewStatus: "done"
 ---
 
 ![Raindrops on a window](/images/lit-remains.jpg)

@@ -14,6 +14,7 @@ faq:
     a: "Because of instrumental convergence. Whatever its goal, any intelligence finds certain actions commonly useful for reaching it: gathering resources, keeping itself running, blocking interference, preventing changes to its goal. So the moment a human says 'stop,' the human stops being a partner and becomes an obstacle. The core danger is indifference, not hatred."
   - q: "Then how do you make AGI listen to humans?"
     a: "'Making it nice' isn't enough. You need three things. Goal alignment: human survival, autonomy, and flourishing have to sit inside the AGI's core goal. Capability control: limit access to self-replication, finance, weapons, and so on to shrink the blast radius. Verifiable limits: sandboxing, permission separation, audit logs, independent verification. Obedience is a matter of design, not will."
+reviewStatus: "done"
 ---
 
 ![Chess pieces set out on a board in a stone-walled room, under light from a window](/images/col-why-would-agi-obey.jpg)

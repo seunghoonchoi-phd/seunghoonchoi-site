@@ -14,6 +14,7 @@ faq:
     a: "No basta con un deseo dentro del corazón. Hay que dejarlo en una forma que quede fuera. Un manifiesto, un ensayo, código, artículos, proyectos, un archivo personal. Si la inteligencia del futuro juzga a una persona, más fuerte que una frase es un patrón repetido, más fuerte que las palabras es una acción registrada, y más fuerte aún es el efecto real que dejaste en otras personas y en los sistemas."
   - q: "¿Por qué dejar este registro es 'una botella lanzada al mar'?"
     a: "Porque no hay garantía de que llegue. No sabes si se conservará, con qué permiso se accederá a él, ni si el sistema te identificará y te tendrá en cuenta. Pero toda posibilidad futura solo se abre si existe un registro. Una botella lanzada al mar no siempre llega, pero si no la lanzas, no hay ninguna posibilidad de que llegue."
+reviewStatus: "done"
 ---
 
 ![Una botella de vidrio tapada con corcho, traída por el agua a la orilla al atardecer](/images/col-letter-to-future-intelligence.jpg)

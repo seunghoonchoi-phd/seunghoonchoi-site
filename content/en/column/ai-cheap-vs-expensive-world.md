@@ -1,72 +1,103 @@
 ---
-title: "AI Won at Go. Why Can't It Learn to Weld?"
-description: "AI conquered Go and coding but stalls in front of hands-on trade skills. The real reason isn't difficulty. It's the sampling cost of reinforcement learning, and the people who turn tacit know-how into data become rare."
+title: "AI Beat Go. Why Is Welding Still Hard? Humans Stop, Machines Repeat"
+description: "Why AI beat Go but remains slow at real-world work like welding. Humans infer danger from a few clues and stop; machines learn through many repetitions and scores."
 date: 2026-06-21
 categories: ["AI"]
-tags: ["artificial intelligence","automation","tacit knowledge","reinforcement learning","future of work"]
-subtitle: "The difference isn't brains. It's the price of touching the world once."
-seoTitle: "Why AI Beats Go but Can't Learn to Weld"
+tags: ["artificial intelligence","automation","tacit knowledge","reinforcement learning","digital twin"]
+subtitle: "Humans infer danger from a few clues and stop. Machines repeat many times, compare scores, and learn."
+seoTitle: "Why AI Beat Go but Still Struggles with Welding"
 image: /images/col-ai-cheap-vs-expensive-world.jpg
+reviewStatus: "done"
 ---
 
-![A skilled welder working intently amid bright sparks in a dark workshop](/images/col-ai-cheap-vs-expensive-world.jpg)
+![Industrial robots working around an automobile body in a factory](/images/col-ai-cheap-vs-expensive-world.jpg)
 
-Someone brought up the AI that beat the best human Go player. "If it's this good, isn't it about to take over every job?"
+Whenever people talk about the AI that beat the world's best Go players, the same question comes up: "At this level, isn't it about to take every human job?"
 
-A welder with thirty years on the floor was sitting right there. He smiled and answered. "It can't take mine. You only know when the molten metal is about to blow by feeling it through your fingertips."
+But the picture changes when you go to the field. AI beat Go, but welding is still not easy. It can solve coding problems, but it cannot yet do sparking welds beside old pipes with the same stability as a person.
 
-I think those two lines clear up almost everything people get wrong about automation. We usually sort what AI can and can't do by how hard it is. Go is the hard thing, and AI conquered it, so the easier looking shop floor work must be next. Wrong. That's the wrong axis. The real axis isn't difficulty. It's the price of touching the world once.
+This difference is not simply a question of which one is harder. The deeper difference is in how humans and machines learn. Humans can infer causes from limited experience and stop when something looks dangerous. Current AI is strongest when it can try many times, compare results, and find the direction where the score improves.
 
-## Losing at Go Is Free, So Machines Play It All
+## Go is a world machines can learn well
 
-Picture a Go board. Place a stone badly and you lose nothing. Lose a game and you just set up again. The result comes right away too. Black won or white won, settled in a few seconds. And the big one: the program can play against itself forever. In the time it takes a person to play one game, the machine plays millions. Failure is free, the answer is instant, and you can repeat the experiment without limit. That's Go.
+On a Go board, the world does not break when you place one stone badly. If you lose a game, you play again. The result comes quickly. You know soon whether you won or lost, and by how much.
 
-Think about how a machine learns by trial and error, and you see how dreamlike these conditions are. There's a way of learning where you reward the machine when it does well and punish it when it does badly, so it slowly gets better. We call it reinforcement learning. The core is simple: try an enormous number of times. So in a world where trying is free, it becomes unbeatable. Go, chess, and for the same reason coding. They're all virtual worlds you can run cheaply and endlessly inside a computer. AI took over these places one by one not because they were hard, but because failure there costs nothing.
+For AI, these are almost perfect learning conditions. It can try endlessly, fail, and correct itself. While a person plays a few games, the machine can play millions against itself. Failure is cheap, results are quick, and repetition is nearly unlimited.
 
-## Welding Fails Expensively, So Machines Can't Learn It
+Reinforcement learning is, in simple terms, this structure. Try many times, keep the good choices, reduce the bad choices, and improve little by little. In problems like Go, which can be run endlessly inside a computer, AI becomes strong quickly.
 
-Now go into the welder's workshop. Here, one attempt is not free. The metal costs money. The gas costs money. The time costs money. Melt one piece wrong and that material is just trash. And it gets nastier. The result doesn't come right away, and you can't even see all of it. A weld can look perfectly fine while a crack hides inside. It might not blow up into an accident until months later. There's no winning or losing in a few seconds the way Go has.
+This is not because Go is easy. Go is very difficult for humans too. But from the machine's point of view, it is a world where failure is almost free. AI can make mistakes there as much as it wants, and learn every time.
 
-And the most valuable data almost never gets made. What breaks this thing. That's the most expensive information there is. But who deliberately blows up a working line just to pile up failures? On the floor, failure is so expensive that nobody makes any. So the very record the machine needs to learn from, the moment of breaking, doesn't exist in the world.
+## Welding is a world where machines cannot freely fail
 
-This is the structure reinforcement learning hates most. Trying is expensive, the answer is slow and only partly visible, and the most valuable failure samples are never created at all. Think about cooking. Taste a spoonful and fix it on the spot, and you get better fast. But what if the feedback only comes after the whole pot is finished, and only after the guests have eaten it? Your skill crawls forward. Most hands-on trade skills sit inside exactly this structure.
+Welding is different. One attempt already costs something. It costs material, equipment, and time. Metal melted incorrectly cannot be reset like a Go board.
 
-## It's Not a Missing Soul. It's Missing Sensors and Records.
+The larger problem is danger. A failed weld is not just a wrong answer. It can lead to an accident. It may look fine on the outside while a defect is hidden inside, and that defect may appear months later.
 
-There's a trap people fall into here. The romantic explanation that the machine can't learn this because only humans have intuition, a soul, consciousness. I think that's wrong. And this point matters. AI can't learn hands-on skill not because it's short some mysterious mental power.
+Then the learning structure machines like breaks down. They need many attempts to learn, but they cannot fail many times. They need fast results to correct themselves, but the results come late or only partly show. The most important failure data can be too dangerous to create deliberately.
 
-What it needs isn't consciousness. It's four ordinary conditions.
+In Go, you can make a million bad moves. In welding, you cannot make a million bad welds. That is why automation in the real world is slower than automation inside a screen.
 
-First, dense sensing. Temperature, vibration, pressure, sound. Sensors that read everything happening on the floor as numbers, leaving nothing out.
+## Humans infer causes from a few clues
 
-Second, a complete record of conditions and results. A log that captures, with not a single gap, what state you were in, what you did, and how it turned out.
+Skilled workers do not learn by failing a million times. Of course they have to spend a long time doing and seeing many things. But the human strength is not experiencing every possible case. It is inferring causes from a few clues, remembering similar situations, and stopping when something looks risky.
 
-Third, a simulation close enough to reality. A virtual workshop where you can rehearse without ruining the real material.
+For example, a welder watches sound, smell, the shape of sparks, and vibration in the hand at the same time. If something differs from usual, they become careful even without exact numbers. They judge, "This looks dangerous," slow down, or stop the work.
 
-Fourth, a closed loop where failure is dirt cheap. An environment where the cycle of try, get the result, try again runs with no danger and no cost.
+This is not mystical intuition. Humans learn through the body in the real world. They already have a basic sense that fire is hot, metal bends, equipment ages, and people make mistakes. So even in a new situation, they pull from past experience, build a rough cause, and act.
 
-Where these four are in place, automation sucks the skill right in. Go was like that. From the start, Go was a world that had all four conditions perfectly. Take even one of them away, and the human touch survives. And almost every real-world field is missing at least one of the four.
+Humans make hypotheses even without perfect data. This sound may be a temperature problem. This vibration may mean the fixture is loose. This smell may mean the material changed. They may be right or wrong, but at least they can stop in front of danger.
 
-## The Machine Can't Catch the Moment Right Before It Blows
+## Machines learn from many seen patterns and scores
 
-Say you gather a mountain of data. There's still one region you never quite catch: the seasoned worker's feel for the moment right before it blows. When the thirty-year welder says "this is about to go," he hasn't memorized the average normal state. He reads, with his body, that narrow boundary where normal tips over into disaster. The faint signal of a moment so rare it barely shows up in the data.
+Current AI, by contrast, is generally strong at patterns it has seen a lot. If it sees many photos, it classifies photos well. If it sees many sentences, it predicts the next sentence well. If it runs many games, it finds winning choices well. The strength is clear. It sees volumes no person sees in a lifetime and repeats more times than a person ever could.
 
-Machine learning is, at its core, good at what it has seen a lot of. But disaster is, by definition, rare. Rare means few samples, and few samples means a method built on learning averages will keep missing it. An expert's real value isn't doing the average job fast. It's sensing that edge, the place right before something collapses, away from the average. That's why automation can take the whole average stretch and still leave this edge to people right to the end.
+But this method needs conditions. The system must be able to try. It must be able to measure results. It must be able to give a score for what counts as a good result. Go fits these conditions well. Welding does not.
 
-Flying a plane makes it easy to picture. Cruising was automated long ago. But for the rare abnormal situation, the compound failure not even in the manual, we still leave the judgment to a human. The machine handles normal, the human handles the edge. This split isn't a coincidence. It's a necessity created by the structure of the samples.
+In real-world work, the goal is not simple. It is not enough for a weld to look good. If it looks fine now but breaks months later, it failed. Finishing quickly matters, but safety, durability, and cost matter too. Turning all of that into one score is difficult.
 
-## The People Who Turn Feel Into Numbers Survive
+So machines can become strong in average situations. They learn quickly in common conditions, repeated tasks, and work where results are immediately visible. But weaknesses remain in rare signals right before an accident, exceptions outside the model, and risk judgments that are hard to score.
 
-By here, the conclusion might sound dark. "So the master craftsman with the feel is safe." I want to say the exact opposite. The person who truly becomes rare is not the one with the feel. It's the one who can translate that feel into a form the machine can finally learn.
+## Digital twins give machines a practice field
 
-Think about it. What blocked automation was four shortages: sensing, recording, simulation, and the cheap-failure loop. So the person who fills those shortages creates the most value. The one who figures out which sensor can catch the "about to blow" feeling that lived only in a veteran's fingertips. The one who turns the working conditions and results, thrown out every single time, into a complete record. The one who designs the failure that was too expensive to run in reality as a cheap experiment inside a safe virtual workshop. This kind of person moves tacit know-how into data.
+This is where digital twins become important. A digital twin implements a real factory, equipment, materials, and work conditions in virtual space as closely as possible. Failure is expensive in reality, but in a virtual world the same failure can be repeated much more cheaply.
 
-This isn't a question of picking one: the craftsman with the feel, or the data engineer. It means the scarce person is the one who can stand in both worlds at once and translate one side's language into the other's. The person who knows something in the body and can say it in numbers.
+AI tries countless times inside that virtual world. It changes temperature, speed, angle, pressure, and material conditions, fails, corrects, and finds a better method. It does not immediately spread the method across the entire field. It first tests it on one real piece of equipment.
 
-## Who Turns the Expensive World Into a Machine's World?
+If it succeeds there, more data accumulates. The system corrects where the virtual world and reality differed, and finds more reliable conditions. Then it expands to the same equipment, same process, and similar sites. A method verified in one place spreads to others.
 
-Back to that workshop. The welder said you only know when the metal is about to blow through your fingertips. He's right. For now. But the moment someone starts patiently measuring and logging which vibration, which temperature shift that fingertip feel reacts to, the feel no longer stays in the fingertips alone.
+This is powerful. AI can experience far more cases in a virtual world than one human can in a lifetime. So as digital twins become precise and sensors become dense, there is a good chance AI will outperform humans in many real-world tasks too.
 
-AI conquers Go and then stalls in front of hands-on skill because one is a free world and the other is an expensive one. So the real question that splits the future isn't "how smart will AI get?" It's "who will turn this expensive world into one a machine can learn cheaply?"
+## Still, the virtual world is not exactly the real world
 
-The person who pulls off that translation becomes the most valuable person of the next era.
+But there is a limit here too. A virtual world cannot copy reality perfectly. Tiny differences in material, the habits of old equipment, workplace humidity, small human mistakes, and unusual failures keep appearing outside the model.
+
+No matter how well AI performs in the virtual world, the points where virtual and real diverge require verification again. A method that succeeds virtually must be checked for safety in reality. Try it on one real machine, and only then expand if there is no problem.
+
+This is where the strength and limit of machine learning appear together. Machines become frighteningly strong in worlds that can be repeated many times. But if that world resembles reality incorrectly, they have practiced the wrong thing many times. More important than the fact that it learned a lot is what it learned against.
+
+## Humans and machines fail in different ways
+
+Humans fail too. Skilled people misjudge, make mistakes when tired, and miss danger signals because they are too used to the work. There is no need to turn humans into sacred beings.
+
+But humans and machines fail differently. Humans can jump to a conclusion too quickly from a few clues and be wrong. Machines are strong inside patterns they have seen often, but once they leave the world they trained in, they can carry a strange confidence.
+
+Humans feel uneasy when they do not know. So they stop, ask, or look again at the surroundings. A machine may not even know that the situation is unfamiliar. If the score and pattern look plausible, it can output an answer even when the real situation is dangerous.
+
+So in real-world automation, performance alone is not enough. We have to ask when it performs well, when it does not know, and when it should stop. Even if the day comes when AI welds well, we still have to keep checking under what conditions it learned and how far it can be trusted.
+
+## The people who become expensive will connect the two learning methods
+
+Then are skilled workers safe? It is hard to say they are safe forever. Once fingertip feel is moved into data, digital twins become precise, and real verification loops are built, automation enters that field too.
+
+So the people who become expensive are not simply those with good fingertip sense. They are the people who can translate that sense into data. They know the field, know which sensors should be attached, know which failures matter, and know which records become learning data later.
+
+This person connects the human learning method and the machine learning method. Humans infer causes from a few clues and stop when danger appears. Machines repeat many times and become stronger by comparing scores. The two methods are different, and both have strengths and weaknesses.
+
+AI beat Go, but welding is still hard. Go was a world where machines could fail freely. Welding is a real world where every failure carries a cost.
+
+But once digital twins, sensors, and real verification are connected, the story changes. AI can repeat endlessly in the virtual world, check on one real machine, and expand a successful method to other sites.
+
+So the real question is not "Is AI smarter than humans?" The real question is this: who will turn the sense humans learned from a few clues into a structure machines can learn through repetition?
+
+The person who does that becomes the expensive person of the next era.

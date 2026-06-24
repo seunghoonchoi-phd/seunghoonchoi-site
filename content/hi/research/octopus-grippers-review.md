@@ -2,11 +2,12 @@
 title: "ऑक्टोपस से प्रेरित सॉफ्ट ग्रिपर — Biomimetics समीक्षा"
 date: 2025-12-04
 categories: ["शोध पत्र"]
-tags: ["जैव-अनुकरण", "सॉफ्ट रोबोट", "ऑक्टोपस", "ग्रिपर", "AI"]
+tags: ["जैव-अनुकरण", "सॉफ्ट रोबोटिक्स", "ऑक्टोपस", "ग्रिपर", "AI"]
 doi: "10.3390/biomimetics10120813"
 articleTitle: "Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence"
 journal: "Biomimetics"
 pubyear: 2025
+reviewStatus: "done"
 ---
 ![ऑक्टोपस से प्रेरित सॉफ्ट ग्रिपर — सक्शन कप, भुजा और हाइब्रिड संरचना के साथ सेंसिंग (Biomimetics 2025)](/images/octopus-grippers-review.jpg)
 

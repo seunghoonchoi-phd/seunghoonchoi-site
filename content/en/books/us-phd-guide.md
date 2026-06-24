@@ -5,6 +5,7 @@ date: 2026-06-20
 categories: ["Study Abroad"]
 tags: ["Study in the US", "PhD abroad", "TOEFL", "SOP", "F-1 visa", "Graduate school"]
 image: /images/book-us-phd-guide-card.jpg
+reviewStatus: "done"
 ---
 <div style="display:flex;gap:30px;flex-wrap:wrap;align-items:flex-start;margin:.4em 0 1.4em">
   <img src="/images/book-us-phd-guide.jpg" alt="Cover of 《You Can Prepare for a US PhD on Your Own》 (미국 박사 유학, 혼자 준비해도 됩니다)" style="width:230px;max-width:44%;border-radius:10px;box-shadow:0 16px 40px rgba(13,27,76,.24)">
@@ -18,7 +19,7 @@ image: /images/book-us-phd-guide-card.jpg
   </div>
 </div>
 
-I started with a TOEFL score of zero. I prepared for 18 months on my own, while working a full-time job, with no one around me who had taken the path before. I was admitted to the materials engineering PhD program at the University of Florida (UF) with full funding, and I got my F-1 visa.
+Other than knowing I needed a TOEFL score, I knew almost nothing. This book collects every experience and mistake from the 18 months it took me to receive an offer letter from scratch. At the end of that process, I was admitted to the materials engineering PhD program at the University of Florida (UF) with full funding, and I received my F-1 visa.
 
 This book is a record of that process, set down in order without dressing it up. It is not a success story. It is closer to a map that the next person can follow step by step.
 
@@ -26,10 +27,9 @@ This book is a record of that process, set down in order without dressing it up.
 
 - An 11-step checklist and an 18-month timeline up to admission
 - Searching for schools and programs, a strategy for contacting professors, and the actual contact emails I sent
-- The SOP (statement of purpose) that got me in, and a CV template
 - Zoom interviews, recommendation letters, applications, and waitlist strategy
 - Everything after admission, from receiving the I-20 to F-1 visa documents and the consular interview
-- 8 workflow templates for using an AI agent like a personal assistant, and 11 actual sample documents you can get by QR code
+- Workflow templates for using an AI agent like a personal assistant
 
 ## Who This Book Is For
 

@@ -2,11 +2,12 @@
 title: "Electrodo de hidrogel biomimético para registrar señales eléctricas en hojas de plantas — IJASC"
 date: 2026-02-28
 categories: ["Artículo"]
-tags: ["biomimética", "hidrogel", "electrónica vegetal", "electrodo", "pulpo"]
+tags: ["biomimética", "hidrogel", "bioseñales de plantas", "electrodo", "pulpo"]
 doi: "10.7236/IJASC.2026.15.1.241"
 articleTitle: "Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves"
 journal: "International Journal of Advanced Smart Convergence"
 pubyear: 2026
+reviewStatus: "done"
 ---
 ![Parche adhesivo de hidrogel inspirado en el pulpo que registra señales eléctricas en hojas de plantas](/images/plant-hydrogel-electrode.jpg)
 

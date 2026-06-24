@@ -7,6 +7,7 @@ doi: "10.7236/IJIBC.2026.18.1.274"
 articleTitle: "Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions"
 journal: "International Journal of Internet, Broadcasting and Communication"
 pubyear: 2026
+reviewStatus: "done"
 ---
 ![Octopus-inspired adhesive electrode for EMG-based robotic control under dry and wet conditions](/images/octopus-emg-electrode.jpg)
 

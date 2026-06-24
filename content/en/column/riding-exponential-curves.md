@@ -1,75 +1,57 @@
 ---
-title: "Labor Income Alone Won't Make You Rich: How to Grow Assets on an Exponential Curve"
-description: "Beating a more talented person isn't about doing the work better. It's about climbing onto a curve that grows exponentially. How to tell what is exponential and what is fake, and why the way you climb on decides whether the gains reach you."
+title: "Salary Alone Will Not Make You Rich. How to Build Assets That Compound"
+description: "Even if you enter a promising field, your share does not grow much if you only receive a salary. Assets that compound begin with ownership, not labor."
 date: 2026-06-21T19:20:00+09:00
 categories: ["Essays"]
-tags: ["exponential growth", "ownership", "compounding", "career strategy", "decision-making"]
-subtitle: "Finding the curve is the easy part. The hard part is climbing on as an owner. Ride it as a worker and the wave grows exponentially while your money leaks away in a straight line."
-seoTitle: "Exponential vs Linear Growth: How to Tell Them Apart and How to Ride So the Gains Don't Leak"
+tags: ["compounding", "assets", "salary", "ownership", "wealth gap"]
+subtitle: "Even in a promising field, your share does not grow much if you only receive a salary. Assets that compound begin with ownership, not labor."
+seoTitle: "How to Build Assets That Compound: Salary, Ownership, and Asset Gaps"
 image: /images/col-riding-exponential-curves.jpg
-faq:
-  - q: "How do I tell whether something grows exponentially or linearly?"
-    a: "One question is enough. When this grows by one unit, does that growth make the next unit easier, cheaper, and faster? If yes, it's exponential. A self reinforcing loop where output becomes the next input, falling marginal cost, network effects: those mean exponential. If output scales with human hands and physical resources, it's linear."
-  - q: "If I find an exponential curve, is the payoff guaranteed?"
-    a: "No. The curve being exponential and your payoff being exponential are two different things. The same curve pays exponentially if you climb on by ownership and linearly if you climb on by labor. The most common defeat is picking the right curve but riding it by labor, so the upside flows only to the owners."
-  - q: "How do I tell a real exponential from a bubble (fake exponential)?"
-    a: "Look at whether the mechanism is real. Does the product actually get better as users grow? Does success actually make the next success easier? If money piled in without a self reinforcing loop, it's a bubble. And a bubble is worse than linear, because when it bursts you go negative."
+reviewStatus: "done"
 ---
 
-![A surfer at dusk, turning a wave's force into forward thrust](/images/col-riding-exponential-curves.jpg)
+![A surfer at sunset turning the force of a wave into momentum](/images/col-riding-exponential-curves.jpg)
 
-How to beat someone better than me. For a while this is what I believed. I play a game that grows exponentially, and I make the other person play one that grows linearly. The direction is right. But it's only half right.
+Salary matters. It feeds you now and keeps life from collapsing. But it is hard to become rich on salary alone. Salary comes in only as much as the time you worked.
 
-Talented people don't stay trapped in linear either. Reputation, network, data, intellectual property. Climb onto compounding machinery like that and they shoot up exponentially just the same. So "I'm exponential, you're linear" only holds if the other person stupidly agrees to stay linear. A strategy that prays for the opponent to act dumb is weak. So I tore the question up. Not how to trap the opponent, but how I climb on so the gains don't leak.
+The problem is not only that salary may be small. Salary stops when I stop. At some point, money earned by working has to be changed into assets that keep working in my place. Assets do not mean only real estate or stocks. Writing, code, products, brand, data, and copyrights can also be assets. The key is whether they remain and create money and opportunity even when I am not working continuously.
 
-## The way you climb on decides who gets the gains
+## Salary comes in only as much as you work, while assets grow through compounding
 
-This is where almost everyone gets confused. The hard part isn't finding the exponential curve. It's how you climb onto it. The same wave can come, and depending on how you ride, your gain turns out exponential or linear. Here are four ways, in order of biggest payoff.
+Salary has to be earned again every month. Working hard last month does not automatically make this month's paycheck grow. So salary can be stable, but it is hard for it to compound. Assets are different. Once built, they help the next growth. Money earns money, writing brings readers, products gather users, and brand creates trust. What has accumulated pushes the next result without making me start from zero every time. So the game of becoming wealthy is not the game of working longer. You have to turn salary into assets, and let those assets create the next assets.
 
-Climb on by ownership. You hold a stake in the curve. Intellectual property, data, equity. When the curve rises, your share rises with it. You don't work more, and the asset rides the wave on its own. It's the only path where the curve's exponential nature feeds straight into the exponential nature of your gain.
+## Entering a big arena does not make you its owner
 
-Climb on as a complement. You build the thing the curve needs more of as it grows. As AI gets bigger, the demand to check and make sense of its output grows right alongside it. You're tied to the curve, but you grow with it.
+There are fields that will clearly grow: AI, bio, platforms, finance. But working inside a growing field does not automatically make that growth yours. Entering the big arena and owning a piece of it are different. If the only thing written in my contract is salary, then my share is salary. My assets do not become more valuable just because the company becomes more valuable. The person who takes that difference is the person with equity. So finding a promising place is not enough. What matters more is what I own there. Do I only have salary, or do I have a remaining share such as equity, copyright, or a product?
 
-Climb on by tool. You use that exponential technology as a multiplier on your own productivity. As the curve improves, your output jumps by a factor. The curve pushes you forward, but you own no share of it.
+## Salary is not money to spend, but material to turn into assets
 
-## Just take a job, and your bank account stays linear
+If you spend salary, it becomes living cost. If you keep some of it, it becomes the seed of assets. If you consume all of it, next month you have to earn from the beginning again. So what matters is not only how much salary you earn, but how much you keep and what you turn it into.
 
-The last one is the trap. Climb on by labor. You simply get a job in the field and join in. However far the curve breaks through the ceiling, your share is nailed down as a wage. The owners take all the rise, and none of it reaches you.
+The first method is simple. Keep part of your salary no matter what. Then turn what remains into ownership, not consumption. It can be stocks, an index fund, business equity, your own product, or content. The core is not to let money pass through you, but to change it into something that remains under your name.
 
-Let me be blunt: this is the most common defeat. People reassure themselves with "I got into a promising field, so I'm set." But ride by labor and the curve is exponential while your bank account is linear.
+## How to choose assets that compound
 
-So the question always has to split in two. Is this curve exponential. And am I climbing on by ownership or by labor.
+Not all assets are the same. Some stay the same over time, while others become easier to grow as time passes. A good asset makes the next growth easier. Users bring users. Data improves the product. Writing builds search and trust. Brand makes the next opportunity easier. What has accumulated must help the next growth.
 
-## If growing makes the next step easier, that's exponential
+A bad asset makes you start over every time. You sell it once and it is over. You have to work again each time, and what accumulated does not help the next growth. Something like that may look like an asset on the surface, but in reality it is close to labor.
 
-The test actually shrinks down to one thing. When this grows by one notch, does that growth make the next growth easier, cheaper, and faster. If so, exponential; if not, linear. The essence of exponential is a self reinforcing loop. Output becomes the fuel for the next output and accelerates on its own.
+So when looking at an asset, ask this: over time, does this make me work less and make the next result easier?
 
-Exponential arrives with signs like these. A result pulls in more resources (capital, data, users), and those resources produce a bigger result. The cost of making one more drops over time, and the more nearly free the copying, as in digital, the better. As users grow, value grows, and that value calls in more users. It plugs into what already exists, and the possibilities multiply.
+## Leave the result of work as an asset that does not disappear
 
-Linear is the exact opposite. Output scales directly with human hands and physical things. To make more, you have to work more. One more always costs the same. Doing well doesn't make the next time easier; you start from the bare floor every time. The market has a fixed ceiling. Loop or no loop. That's the fork in the road.
+You do not need to move large sums or build a company from the start. Leave behind outputs from the work you already do that do not disappear. If they accumulate, they later become assets that call in money and opportunity. Every kind of work has a way to become an asset. If you write, leave records. If you code, make tools. If you do research, leave data and papers. If you speak well, turn it into lectures and content. A person good at work can leave their process as a template. The result of work has to remain. If it stays under my name, is reused, is sold again, and brings the next opportunity, it is an asset. Work should not end when the work ends. The trace of the work should keep helping me.
 
-## Even an exponential curve falls into two traps
+## The most dangerous word is "later"
 
-There are two traps here you absolutely have to weed out.
+"Later" is a comfortable word. It gives you a reason not to do it now. But the later you start building assets, the more disadvantaged you become. Compounding needs time to gain force.
 
-One is the S curve. Every exponential eventually bends into an S curve. It explodes early, then someday it gets full and slows. So the real question isn't "is it exponential" but "where on the curve am I right now." You have to climb on before the inflection point to catch the force. Past the peak, the cost of entry is high and there's no room left to rise. Riding a good curve late is almost the same as riding a bad one.
+You do not need to build a large asset from the beginning. Buy a little ownership each month. Make a little remaining output each week. What matters is direction: reduce the share that disappears into consumption, and increase the share that remains and grows.
 
-The other is fake exponential, which is to say a bubble. Capital boiled over without a real loop. The way to spot it is simple. Does the product actually get better as users grow. Does success actually make the next success easier. If money piled in with no self reinforcing mechanism, it's a bubble. And a bubble is worse than linear. Because when it bursts, you go negative.
+Compounding is not visible at first. But over time, one side watches earned money disappear every month, while the other side watches small assets gradually multiply on their own. After enough time, that small difference becomes large.
 
-Compressed, it comes to this. Is the loop real (exponential?). And where on the curve am I right now (timing). You have to pass both before it's worth climbing on.
+## In the end, earn through work and use earnings to own assets
 
-## Aim and instinct: mix the answer
+Working hard is necessary. Salary is necessary too. But if it ends there, my life stays tied to my time. Money comes in only when I work, and stops when I stop.
 
-One more thing snagged me here. Life doesn't have just one or two variables. Setting a clear goal and climbing onto a curve, versus just following instinct onto it. Aren't those different.
-
-They are. Aiming and riding means grabbing one variable sharply and pouring all your resources into it. The strength is that you hold the direction and pick up speed. But when you pick the wrong variable, even that mistake compounds. Sharpness is a weapon when it's right and a trap when it's wrong. Getting pulled along and riding means staying scattered across many variables, bumping into the environment until you happen to climb onto a curve. It's slow, and it can't be controlled or repeated. In exchange, it has the toughness that even if one variable is wrong, it gets covered somewhere else.
-
-The answer isn't one or the other. It's mixing the two. Use sharpness only on the core variables. On the rest, deliberately loosen your grip and leave yourself exposed to chance, to connections, to opportunities you never saw coming. And when something pulls at you on instinct, dig into why it pulled at you afterward and feed that back as conscious input. Instinct is pattern recognition you haven't put into words yet, so it isn't something to ignore. Like a navigator who sets the broad course with the engine and catches the wind with the sail. The choppier the sea of variables, the more you lose by throwing away the sail. Only, if you're going to use sharpness, you have to build in a routine that periodically doubts one thing. Is the variable I grabbed still the right one. If the direction is wrong, you'll go faster and farther into the wrong place than someone wandering on instinct.
-
-## Don't go in bare. Carry ownership
-
-An exponential curve is a swell building far out at sea, gathering energy as it grows. Linear is a ripple about to break. Telling them apart means looking at whether this is a wave that grows itself. But even when the same big wave comes, the outcome splits. The surfer with a board turns the wave's force into their own thrust and shoots forward. The bare bodied person just gets swept along by the same wave. That energy never becomes theirs.
-
-The good waves (AI, computational science), I've already seen. So what's left is not going in bare. I go into that wave, but I go in carrying the board called ownership. And a swell gives you force only if you climb on just before it breaks. Too early and there's no force; after it's broken you only get swept into the foam.
-
-So when something surfaces that makes you think "this is new, could it be exponential," ask just two things in turn. Is there a self reinforcing loop here, for real. And am I climbing on here by ownership, or just going in by labor.
+So salary is not the destination. Use salary to protect life, then turn the remaining money and time into ownership. Build assets that remain even when I am not directly working, and that call in more opportunity over time. Salary is necessary, but salary alone is not enough. If you earn, spend, and stop there, you stay in place. Earn and keep, keep and own, and let ownership create the next assets.

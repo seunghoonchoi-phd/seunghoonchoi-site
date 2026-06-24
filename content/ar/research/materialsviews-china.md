@@ -3,6 +3,7 @@ title: "تعريف بالبحث في موقع MaterialsViewsChina الصيني"
 date: 2019-12-15
 categories: ["جوائز وأخبار"]
 tags: ["مستشعرات"]
+reviewStatus: "done"
 ---
 ![تعريف على موقع MaterialsViewsChina](/images/materialsviews.png)
 

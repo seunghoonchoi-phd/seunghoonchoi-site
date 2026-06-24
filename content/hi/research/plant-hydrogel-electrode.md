@@ -2,11 +2,12 @@
 title: "पौधों की पत्तियों के विद्युत संकेत दर्ज करने वाला जैव-प्रेरित हाइड्रोजेल इलेक्ट्रोड — IJASC"
 date: 2026-02-28
 categories: ["शोध पत्र"]
-tags: ["जैव-प्रेरित", "हाइड्रोजेल", "पादप इलेक्ट्रॉनिकी", "इलेक्ट्रोड", "ऑक्टोपस"]
+tags: ["जैव-अनुकरण", "हाइड्रोजेल", "पौधों के जैव-संकेत", "इलेक्ट्रोड", "ऑक्टोपस"]
 doi: "10.7236/IJASC.2026.15.1.241"
 articleTitle: "Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves"
 journal: "International Journal of Advanced Smart Convergence"
 pubyear: 2026
+reviewStatus: "done"
 ---
 ![ऑक्टोपस से प्रेरित हाइड्रोजेल चिपकने वाला पैच, जो पौधे की पत्ती से विद्युत संकेत दर्ज करता है](/images/plant-hydrogel-electrode.jpg)
 

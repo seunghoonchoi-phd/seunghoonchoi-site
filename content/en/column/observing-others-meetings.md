@@ -1,47 +1,93 @@
 ---
-title: "How to Read a Whole Power Structure From a Meeting That Isn't Yours"
-seoTitle: "Reading Office Power in Meetings: A New Hire's Observation Checklist"
+title: "How to Use AI to Understand a New Work Meeting from the Transcript"
+seoTitle: "How to Analyze an Unfamiliar Work Meeting Transcript with AI"
 date: 2026-06-20
 categories: ["Essays"]
-tags: ["meetings", "career", "onboarding", "junior", "metacognition"]
-subtitle: "Turn a meeting you don't own into a free practice room"
-description: "An observation checklist for new hires and juniors: pull decision criteria, the real power structure, and unwritten rules out of meetings that aren't yours. How to use a meeting as a place to train your thinking."
+tags: ["meetings", "work life", "new hire", "career", "AI"]
+subtitle: "Turn a meeting transcript into a map of how the work is structured."
+description: "How to use AI to structure the purpose, issues, decisions, open questions, decision criteria, terms, owners, and next actions from an unfamiliar work meeting."
+image: /images/col-meetings.jpg
+reviewStatus: "done"
 ---
 
-![An empty meeting table, where a meeting you don't own becomes a place to observe](/images/col-meetings.jpg)
+![An empty meeting table turned into a place for observing someone else's meeting](/images/col-meetings.jpg)
 
-Two people sit in the same meeting. One walks out having wasted an hour. The other walks out having read exactly how the whole organization works.
+When you walk into a work meeting for the first time, most of it feels foggy. You know only a few words, and everyone else talks as if they already share the context. The meeting keeps moving forward while you feel like someone dropped into the middle.
 
-If you're new, or you've just switched fields, you keep getting pulled into meetings that aren't yours and that you barely understand. Most people sit there in a fog and leave. I spend that hour differently. A meeting in someone else's field is full of buried treasure. What this organization decides things on, how it solves problems, who actually holds the power, and which rules nobody ever says out loud: it's all laid out in one room. What follows isn't a guide to running a good meeting. It's a checklist for what to carry out of one.
+If you choose the wrong goal, it gets harder. You should not try to understand everything from the start. The goal of a first meeting is not full comprehension. It is to reconstruct the structure of the work. First catch why this work exists, what it is deciding, and what the disagreement is about.
 
-## 1. What got decided, and why that's the answer
+And that work does not end during the meeting. The real study starts afterward. Use AI to analyze the transcript or minutes, and keep breaking the material down until purpose, issues, decisions, open questions, decision criteria, terms, owners, and next actions no longer overlap.
 
-- What was finally decided today?
-- What was that decision judged on? (cost, schedule, performance, reliability)
-- Why pick B and not A?
+## First, check whether this meeting can be recorded
 
-## 2. This organization's habit for solving problems
+Recording a meeting is not something you can do at any time. In Korea, the key question is whether you are a party to the conversation. The Protection of Communications Secrets Act prohibits recording or listening to a private conversation between other people. In other words, secretly recording a conversation among people when you are not participating is risky.
 
-- What were the main issues handled today?
-- What guesses about the cause came up?
-- What solution did they go with? Is it a *rule* that would hold in other situations too?
+If you are directly participating in the meeting, the situation is different. The Supreme Court has held that when one person in a three-person conversation records it, the other participants' remarks are not a "conversation between others" as to the recorder. But that does not mean you may freely publish or upload it outside.
 
-## 3. Pick up words you don't know as keywords
+Work meetings can contain company secrets, personal information, and customer information. Before recording, check company rules and security policy. If possible, tell participants that the meeting is being recorded, and do not upload the raw transcript to an external AI service. If you need to analyze it, use an approved internal AI environment, or remove names, company names, customer information, and sensitive numbers first.
 
-- One or two terms or concepts you heard for the first time?
-- The context they were used in? (keywords to study later)
+## You do not need to understand everything in the first meeting
 
-## 4. Whose words land and whose get buried
+Trying to understand every word in an unfamiliar meeting exhausts you quickly. Unknown terms appear, abbreviations fly by, and decisions from earlier meetings pass as if they are obvious. If you try to hold all of that, you miss the important structure.
 
-- Who had the most weight in the decision? (how often they spoke, comments from up top)
-- And the reverse: whose opinion got buried? (the balance of power inside the organization)
-- What got pushed again and again? (that organization's unwritten rules)
+During the meeting, focus less on details and more on leaving markers. What was this meeting trying to decide? Which words came up repeatedly? Which issue did people keep returning to? Who took the next action?
 
-## 5. Principles and patterns you can use in your own field
+It is fine if you do not fully understand at first. Instead, leave enough material to analyze later with AI. If you have a transcript, minutes, and your marked terms and questions, you can reconstruct the structure after the meeting ends.
 
-- One principle of work or research you learned today
-- One way of thinking you can carry into your own field
+## First find why this work exists
 
----
+To see the structure of the work, start with the purpose. If you do not know why this work exists, everything else scatters. If you do not know who is trying to do what and why, the numbers, documents, and terms all float separately.
 
-The real one is the fourth. Everyone chases the *content* of the meeting. But the meat is in whose words land and whose get quietly buried. That pattern is how the organization actually runs. And it isn't written down in any guide. Only you, sitting in that room, get to pick it up.
+The first thing to ask AI after the meeting is this: "What is the purpose of the work discussed in this meeting?" "What problem is this work trying to solve?" "Is it closer to a customer problem, cost problem, schedule problem, quality problem, or risk problem?"
+
+Once the purpose is clear, every remark changes meaning. A feature discussion means one thing if the goal is customer satisfaction, another if the goal is cost reduction, and another if the goal is risk management. You need the purpose before the rest of the meeting falls into place.
+
+## Separate what was decided from what remains open
+
+To understand a meeting, separate what was decided from what is still undecided. If those two mix, the meeting becomes blurry. You end up reconsidering things that are already settled, or treating open questions as if they were decisions.
+
+Do not ask AI for a simple summary and stop there. Ask for the separation explicitly. What decisions were finalized today? What remains undecided? What needs another meeting or additional confirmation?
+
+Once this split exists, the work becomes much clearer. Decisions become the basis for movement. Open questions become the issues for the next meeting. Items to confirm become your homework.
+
+## Break the issues down MECE
+
+MECE means mutually exclusive and collectively exhaustive. In plain language, it means sorting things without overlap and without leaving important items out.
+
+An unfamiliar task is hard because the issues are tangled. Cost, schedule, quality, risk, and customer requests all seem to arrive at once. After the meeting, all that remains in your head is "this is complicated."
+
+This is where AI helps. Ask it to "break down the issues in this meeting in a MECE way." Then keep asking whether any issues are missing, whether categories overlap, whether causes and solutions are being mixed, and whether decisions and to-dos are being confused.
+
+Do not trust the first AI answer as final. AI may not catch the meeting structure perfectly at once. You need to ask again, fix the categories, and have it fill missing items. Through that process, unfamiliar work starts to look like a map.
+
+## The work appears when you hear the decision criteria
+
+The important thing in a meeting is not only what people decided. Why they chose it matters more. When there are options A and B, you need to know what criteria people used to choose.
+
+When analyzing minutes with AI, extract the decision criteria separately. Did cost, schedule, performance, stability, customer response, internal resources, or responsibility affect the decision? Which criterion carried the most weight? Why was the rejected option rejected?
+
+Once you know the decision criteria, the next meeting gets easier. You can predict what people will look at when a similar agenda appears. Understanding work is not memorizing many documents. It is knowing the criteria by which the organization chooses.
+
+## Put unknown terms into the work map with AI
+
+It is normal to hear unfamiliar terms in a first meeting. The mistake is trying to understand every term on the spot. That makes you lose the flow.
+
+During the meeting, just mark unknown terms. Afterward, ask AI. But do not stop at "what does this word mean?" Ask how the term was used in the meeting, which work stage it connects to, and which decision it affects.
+
+Terms are not vocabulary cards. They are markers on a map. One term points to a customer request, another to a technical constraint, another to an internal procedure. Put each term in the right place and the work structure becomes visible.
+
+## Leave owners and next actions
+
+The last part of meeting analysis is people and action. Who took what? By when will they check it? Whose approval is needed? Which material needs to be reviewed next?
+
+If you miss this, even understanding the structure will not become actual work. A meeting is study material, but it is also a place where work instructions move. If you cannot turn what you understood into your own next action, you stay a spectator in the next meeting too.
+
+The post-meeting note does not need to be long. Six boxes are enough: what was decided, what remains open, key issues, decision criteria, unknown terms, owners and next actions. The important thing is not to let the meeting pass through you, but to turn it into the next action.
+
+## AI does not understand for you
+
+Analyzing a meeting transcript with AI does not mean AI understands for you. AI can extract structure, show missing items, and explain terms. But judging what the meeting means for your work is still yours.
+
+So do not just read the AI answer and stop. Ask again. Does this classification overlap? Are any issues missing? Are decisions mixed with tasks? What must I check before the next meeting?
+
+Unfamiliar work is not understood all at once. But if you analyze the transcript after each meeting, structure it MECE, and check what you do not know, your speed of understanding rises quickly. One hour of a meeting other people let pass can become the best material for learning how the work really runs.

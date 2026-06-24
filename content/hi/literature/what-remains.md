@@ -2,7 +2,8 @@
 title: "जो बचा रहता है"
 date: 2026-06-15
 categories: ["कविता"]
-tags: ["तारा"]
+tags: ["तारे"]
+reviewStatus: "done"
 ---
 
 ![खिड़की पर बारिश की बूँदें](/images/lit-remains.jpg)

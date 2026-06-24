@@ -1,4 +1,5 @@
 ---
 title: "Books"
+reviewStatus: "done"
 ---
-Books in progress and in print — the manuscripts I'm working on, and what's been published.
+Books I am writing and manuscripts I am preparing are collected here.

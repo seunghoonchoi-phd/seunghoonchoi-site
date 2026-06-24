@@ -3,9 +3,10 @@ title: "Doctorado en Estados Unidos: puedes prepararlo por tu cuenta"
 subtitle: "Una persona que no sabía nada, salvo que hacía falta un puntaje de TOEFL, llegó en 18 meses hasta una admisión con financiación completa. Comparto el prólogo de ese libro."
 date: 2026-06-22
 categories: ["Estudiar en el extranjero"]
-tags: ["Estudiar en Estados Unidos", "Doctorado en el extranjero", "TOEFL", "SOP", "Visa F-1", "Posgrado"]
+tags: ["Estudiar en Estados Unidos", "Doctorado en el extranjero", "TOEFL", "SOP", "visa F-1", "Posgrado"]
 image: /images/book-us-phd-guide-card.jpg
 pinned: true
+reviewStatus: "done"
 ---
 <div style="display:flex;gap:28px;flex-wrap:wrap;align-items:flex-start;margin:.2em 0 1.6em">
   <img src="/images/book-us-phd-guide.jpg" alt="Portada de «미국 박사 유학, 혼자 준비해도 됩니다» (Doctorado en Estados Unidos: puedes prepararlo por tu cuenta)" style="width:190px;max-width:40%;border-radius:10px;box-shadow:0 16px 40px rgba(13,27,76,.24)">

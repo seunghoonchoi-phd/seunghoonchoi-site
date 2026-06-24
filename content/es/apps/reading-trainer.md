@@ -7,6 +7,7 @@ tags: ["lectura", "lectura rápida", "app", "inglés", "chino"]
 subtitle: "Sin mitos sobre la lectura rápida, solo técnicas con transferencia comprobada"
 description: "Lee inglés y chino con rapidez y precisión. En lugar de mitos como las 10.000 palabras por minuto, entrena con automatización del vocabulario y un control de comprensión. App de lectura gratuita e instalable."
 image: /images/reading-trainer-card.svg
+reviewStatus: "done"
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/reading-trainer-card.svg" alt="Ícono de la app de entrenamiento de lectura ReadFast">

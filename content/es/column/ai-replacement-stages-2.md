@@ -1,64 +1,81 @@
 ---
-title: "Las manos, el cuerpo y hasta el instinto del veterano: al final la IA se lo lleva todo (etapas 6 a 8)"
+title: "Del trabajo físico repetitivo al trabajo que exige juicio y tacto: etapas 6 a 8 de cómo la IA toma el trabajo"
 date: 2026-06-21T17:43:00+09:00
 draft: false
-categories: ["IA"]
-tags: ["IA", "automatización", "empleo", "futuro", "estrategia de supervivencia", "carrera profesional"]
-subtitle: "Desde los robots de fábrica hasta el instinto del veterano: la razón real por la que las manos y el cuerpo aguantan un poco más"
-seoTitle: "Orden en que la IA reemplaza los empleos, parte 2: por qué el trabajo físico y la intuición caen más tarde, pero caen igual"
+categories: ["AI"]
+tags: ["AI", "automatización", "empleo", "futuro", "estrategia de supervivencia", "carrera"]
+subtitle: "El trabajo físico se reemplaza más tarde que el mental. Pero lo que puede repetirse, medirse y hacer converger una respuesta termina pasando a IA y robots."
+seoTitle: "Orden de reemplazo laboral por IA, parte 2: del trabajo físico repetitivo al juicio y el tacto"
 image: /images/col-ai-replacement-stages-2.jpg
 series: "ai-replacement-stages"
 weight: 3
-faq:
-  - q: "Si el trabajo físico cae más tarde frente a la IA, ¿están a salvo los oficios manuales?"
-    a: "Más que estar a salvo, solo tienen más tiempo. En el mundo físico, probar algo una vez cuesta tiempo, materiales y dinero cuando falla, así que las máquinas avanzan más despacio. No es que la habilidad manual sea sagrada; aguanta porque el proceso de probar y corregir es caro y lento. A medida que ese coste baje y se acelere, este puesto también pasará a la máquina. 'Caer más tarde' y 'no caer' no son lo mismo."
-  - q: "El 'instinto' de quien lleva muchos años en un oficio, ¿no es algo que la IA no puede igualar?"
-    a: "Hay que dividir el instinto en dos. Está el instinto que predice algo que con el tiempo se comprueba como acierto o error, por ejemplo 'este motor va a fallar pronto'; en eso la IA es mejor. Donde hay una respuesta que se puede verificar, la máquina que aprendió juega en casa. En cambio, está el instinto de la convicción, el de apostar cuando no hay respuesta correcta y, si te equivocas, pierdes tú; ese permanece. La IA acierta lo que una persona querría, pero no quiere nada por sí misma."
-  - q: "¿Cómo se conectan las etapas 6 a 8 de esta entrega con la siguiente?"
-    a: "Las etapas 6 a 8 hablan de capacidades que ocurren casi solas en cuanto la IA es capaz de hacerlas. Al final de la etapa 8 queda el puesto de quien responde y apuesta con convicción, y eso no es una cuestión de capacidad sino de autoridad. La siguiente entrega trata el tramo en que la ley y las instituciones protegen esa autoridad durante un tiempo. Lo que frena a la IA no es que la persona lo haga mejor, sino que la ley lo ha decidido así."
+reviewStatus: "done"
 ---
-![Las manos, el cuerpo y hasta el instinto de 30 años: al final la IA se lo lleva todo (etapas 6 a 8)](/images/col-ai-replacement-stages-2.jpg)
 
-Si entras en una fábrica de coches, ves brazos robóticos que repiten el mismo movimiento todo el día. El punto donde saltan las chispas de la soldadura, el punto donde levantan y mueven la carrocería, el punto donde aprietan el mismo tornillo en el mismo sitio. Antes lo hacía una persona; ahora lo hace la máquina. Nadie lo ve raro.
+![El trabajo físico que toma la IA: desde labor repetitiva hasta juicio y tacto](/images/col-ai-replacement-stages-2.jpg)
 
-Llegar hasta aquí costó bastante tiempo. El trabajo que empieza y termina en la cabeza, es decir, traducir, calcular o redactar un informe, cayó hace tiempo. La razón es que en la pantalla ves enseguida si la respuesta es correcta, y si está mal basta con pedirla otra vez, así que probar una vez sale casi gratis. Pero el trabajo que se hace con el cuerpo es distinto. En cuanto entran las manos y los pies, probar una vez cuesta dinero y tiempo de verdad. De la etapa 6 a la 8 trata sobre lo que produce esa diferencia.
+Si la IA toma primero los trabajos con respuesta, la siguiente pregunta es natural. ¿El trabajo físico está a salvo?
 
-## El mismo movimiento ya lo hace la máquina
+Traducción, código, resumen y análisis terminan dentro de una pantalla. Si salen mal, se vuelven a ejecutar. El trabajo físico es distinto. Un robot debe moverse, los objetos chocan, los materiales se dañan y una persona puede lastimarse.
 
-La etapa 6 es el trabajo físico repetitivo. La tarea de repetir un movimiento fijo en un puesto fijo se la lleva el robot. La cadena de montaje, recoger y mover objetos en un almacén logístico, limpiar o transportar siguiendo siempre el mismo recorrido. Cuando el entorno está fijo y el movimiento es siempre igual, la máquina se cansa menos y es más precisa que la persona.
+Por eso el trabajo físico se reemplaza más tarde que el mental. Pero más tarde no significa seguro. Solo tarda más porque el costo de prueba y error en el mundo físico es alto. Cuando baja el costo de que un robot vea, agarre, se mueva y aprenda de fallos, el trabajo corporal también tiembla por orden.
 
-Esto no es nada nuevo. La automatización lleva décadas cambiando las fábricas. Solo que antes una persona tenía que introducir cada coordenada y programar cada movimiento. Ahora la IA lee con una cámara lo que ve en la pantalla y ajusta sus movimientos sola. Aunque el objeto esté un poco torcido, lo recoge igual. El rango de entornos fijos que la máquina puede manejar se está ampliando, y con ello aumentan los puestos donde deja de hacer falta la mano humana.
+Este texto mira las etapas 6 a 8. La etapa 6 es el trabajo físico repetitivo. La etapa 7 es el trabajo que exige destreza manual y prueba y error en terreno. La etapa 8 es el trabajo que exige juicio y tacto. El criterio importante es uno: lo que se puede repetir, cuyo fallo se puede medir y cuya respuesta converge, termina pasando a IA y robots.
 
-## Que la destreza manual aguante no es porque sea sagrada
+## Etapa 6, trabajo físico repetitivo
 
-La etapa 7 es la destreza experta y el trabajo de probar y corregir. Aquí empieza lo difícil de verdad. No se trata de repetir un movimiento fijo, sino de ajustar las yemas de los dedos con mucha finura según la situación, y de probar una vez, ver el resultado y, a partir de ahí, volver a intentarlo. Es la zona donde solemos creer que la máquina no puede.
+Lo primero que tiembla en el trabajo del cuerpo es la labor física repetitiva. Tomar la misma pieza en una fábrica, atornillar en la misma posición, soldar el mismo punto, mover objetos en un almacén, limpiar por una ruta fija, empaquetar siguiendo un procedimiento definido.
 
-Imaginemos un laboratorio buscando un candidato a fármaco. Se mezclan sustancias, se observa la reacción y, si el resultado no convence, se cambia la proporción y se vuelve a mezclar. Cada vez hay más robots que hacen en lugar de la persona este proceso de probar y aprender. El robot diseña él mismo el experimento, traslada los reactivos por su cuenta y, viendo los datos que salen, decide el siguiente experimento. La destreza y el ensayo y error entran juntos en la máquina, como un solo paquete.
+Esto ya se automatiza desde hace mucho. Los brazos robóticos de una fábrica de autos no son una escena nueva. En trabajos que repiten el mismo movimiento todo el día, la persona no tiene ventaja frente a la máquina. La persona se cansa, pierde concentración y comete errores. La máquina repite el mismo movimiento.
 
-Aun así, el mundo físico cae más despacio que el trabajo mental. La razón es simple: probar una vez cuesta caro. El reactivo, una vez usado, desaparece; la reacción lleva tiempo; el material fallido se tira. El código en la pantalla se puede corregir miles de veces por segundo, pero un experimento real tarda varias horas cada vez. La persona no aguanta porque la habilidad manual sea sagrada. Aguanta porque el proceso de probar y corregir es lento y cuesta dinero, así que la máquina avanza más despacio. A medida que ese coste baje y se acelere, este puesto también pasará a la máquina.
+Pero los robots antiguos necesitaban entornos muy ordenados. Las piezas debían estar en posiciones fijas y el movimiento solo podía seguir rutas preprogramadas. Si algo cambiaba un poco, el robot se detenía. El cambio actual está ahí. La IA mira con cámaras, ubica objetos y ajusta el movimiento a pequeñas desviaciones. Si una pieza está algo torcida, la toma; si la ruta cambia un poco, recalcula. Así se amplía el rango de trabajo repetitivo que un robot puede manejar.
 
-## El instinto del veterano se divide en dos clases
+Lo que se reemplaza aquí no es todo el trabajo físico. Es el trabajo físico muy repetitivo, en entornos parcialmente controlables, donde un fallo se corrige rápido. Fábricas, almacenes, cocinas y centros logísticos cambian antes porque pueden diseñar el entorno. En cambio, trabajos con entornos siempre distintos, mucha interacción humana y alto costo de error llegan más tarde. Usar el cuerpo no te vuelve seguro. Entre los trabajos físicos, los repetitivos son los primeros que pasan al robot.
 
-La etapa 8 es el juicio que se toma ante una situación que no está en el manual, y el instinto. Una variable que se ve por primera vez, un juicio difícil de poner en palabras. Es eso que llamamos el instinto de quien lleva muchos años. El mecánico de 30 años que, solo con oír el motor, señala dónde está el fallo; el médico con experiencia que siente que algo va mal aunque todas las cifras de las pruebas estén normales. Esto parece el último bastión donde aguanta el juicio humano.
+## Etapa 7, destreza manual y prueba y error en terreno
 
-Pero si vemos el instinto como un solo bloque, nos confundimos. Hay que dividirlo en dos.
+Después viene el trabajo que exige destreza manual y prueba y error en terreno. Desde aquí todo se vuelve mucho más difícil, porque ya no se trata de repetir el mismo movimiento. Soldadura, tuberías, reparación, construcción, microensamble, procedimientos médicos, trabajo de laboratorio: ahí entran ajuste fino de la mano y juicio del sitio. Estos trabajos resisten mucho. No porque la destreza manual sea sagrada, sino porque fallar una vez en la realidad es caro.
 
-Por un lado está la predicción, esa que al final se comprueba como acierto o error. Este motor va a fallar pronto, este paciente tiene esta enfermedad, este cliente va a comprar este producto. Ni la propia persona sabe explicar del todo por qué lo siente así. Pero con el tiempo aparece la respuesta y se verifica si acertó o no. Donde hay verificación, la IA juega en casa. La máquina que aprendió de innumerables casos ha visto más situaciones de las que una persona vería en toda su vida, y capta en cifras hasta las señales sutiles que nadie sabe explicar con palabras. La intuición del veterano parecía admirable porque era rara, y ahora esa rareza está desapareciendo.
+Si el código está mal, lo ejecutas de nuevo. Si una frase no gusta, la reescribes. Pero si sueldas mal, dañas material. Si reparas mal una tubería, aparece una fuga. Si construyes mal, hay que desmontar. Si un procedimiento médico falla, alguien se lastima. Si un experimento sale mal, se pierden reactivos y tiempo.
 
-Por otro lado está el puesto donde no hay ninguna respuesta correcta. Apostar dinero por este negocio, creer que esta dirección es la acertada y empujarla hasta el final. Aquí el instinto no es predicción, es convicción. Si te equivocas, pierdes tú. El dinero, el tiempo y la reputación que se recortan son tuyos. La IA acierta muy bien lo que una persona querría, pero no quiere nada por sí misma. Quien no tiene nada que perder no puede apostar de verdad. Por eso, aunque termine la etapa 8, el instinto que acierta pasa todo a la máquina y solo queda el instinto que apuesta.
+El prueba y error del mundo real es caro. Por eso la IA y los robots aprenden más lento. Necesitan intentar mucho y fallar mucho, pero cada experiencia de fallo cuesta dinero, tiempo y riesgo. Eso no significa que este trabajo sea seguro para siempre. En laboratorios ya crecen flujos donde robots mezclan materiales, observan reacciones, leen datos y deciden el siguiente experimento. En manufactura, sensores y cámaras leen el estado de trabajo, y los robots aprenden movimientos más finos.
+
+Primero empiezan en entornos ordenados. Luego salen poco a poco a entornos con más variables. Cuando baja el costo del fallo y se acumulan simulación y datos reales, la destreza manual también se vuelve un área aprendible. El centro de la etapa 7 es este: la destreza manual y el prueba y error de campo se reemplazan tarde. Pero no porque no se puedan reemplazar. Llegan tarde porque aprender en la realidad cuesta caro.
+
+Cuando ese costo baja, esta zona también tiembla.
+
+## Etapa 8, trabajos que exigen juicio y tacto
+
+La última de esta parte es el trabajo que exige juicio y tacto. La gente suele decir: "esto solo lo sabe quien lo ha hecho mucho", "esto es intuición", "esto no se puede con datos".
+
+En parte es verdad. En el terreno hay sensaciones difíciles de explicar. Un mecánico que detecta una anomalía solo por el sonido del motor, un médico que nota algo raro en la expresión y el ambiente del paciente, un ingeniero que mira datos de proceso y siente una inquietud que no puede poner en números. Pero no conviene tratar esa sensación como un solo bloque. Se divide en dos.
+
+Una parte es sensación que, con el tiempo, se confirma como correcta o incorrecta. Este motor parece a punto de fallar. Este paciente probablemente tiene cierta enfermedad. Este cliente puede abandonar pronto. Con estas condiciones de proceso aparecerán defectos.
+
+Aunque sea difícil de explicar, esa sensación es una predicción. Con el tiempo se sabe si acertó. Cuando se puede comprobar, la IA se vuelve fuerte. Mira muchos casos, captura señales finas que una persona pierde y aprende qué patrón terminó en qué resultado. Una parte de lo que parecía intuición veterana se convierte al final en predicción evaluable. Esa sensación sí puede pasar a la IA.
+
+La otra parte es el tacto para leer contexto de alto nivel.
+
+Este tacto no es una simple predicción. ¿Pongo mi dinero en esta dirección? ¿Empujo este negocio? ¿Confío en esta persona? ¿Acepto este riesgo ahora? ¿Qué debo priorizar?
+
+Aquí la sensación no es solo acertar. Es leer situación, personas, responsabilidad, timing y posibilidad de pérdida, y luego elegir. Si te equivocas, pierdes tú: dinero, tiempo, reputación. No es solo acertar una respuesta; es asumir la pérdida. La IA puede predecir qué elegirá una persona. Pero no quiere nada por sí misma. Más exactamente, la IA no es sujeto legal y social que absorbe la pérdida.
+
+Por eso la conclusión de la etapa 8 no es simple. Parte del tacto pasa a la IA, sobre todo el que con el tiempo se puede comprobar como acierto o error. Pero el tacto de asumir una pérdida con tu nombre cuando te equivocas es otro problema. Ahí se abre la etapa siguiente. Ya no es solo capacidad. Es autoridad y responsabilidad.
+
+## El trabajo físico también tiembla primero donde la respuesta converge
+
+Si unimos las etapas 6 a 8, queda así: incluso el trabajo físico tiembla primero en la parte donde la respuesta converge. El trabajo físico repetitivo tiene una respuesta de movimiento. Se puede comprobar si agarró, movió o ensambló bien.
+
+La destreza manual y el prueba y error en terreno tardan, pero producen resultados. Se comprueba si la soldadura quedó bien, si la reparación funcionó, si el experimento dio resultado. Incluso parte de la intuición veterana se evalúa con el tiempo: si la falla ocurrió, si la enfermedad era esa, si el cliente abandonó, si apareció el defecto. Si se puede comprobar, se vuelve dato. Si se acumulan datos, la IA aprende.
+
+Por eso el trabajo físico y el tacto solo tiemblan más tarde que el trabajo mental. El principio es el mismo. Lo que converge hacia una respuesta, la IA lo persigue. El mundo real es más lento que la pantalla. Fallar cuesta más, el robot debe moverse, hay seguridad y responsabilidad legal. Por eso el trabajo corporal aguanta más. Pero aguantar más no significa estar a salvo.
 
 ## Ahora lo que queda no es capacidad, sino autoridad
 
-Hasta aquí llega la historia de la capacidad. Las etapas 6 a 8 son todas del tipo que ocurre casi solo en cuanto la IA es capaz de hacerlas. Cuesta frenarlas. El coste del mundo físico solo gana algo de tiempo.
+Hasta aquí hablamos de capacidad. Cuando la IA y los robots pueden hacerlo, disminuye el trabajo físico repetitivo. La destreza y el prueba y error se automatizan poco a poco. La intuición veterana también se reemplaza en la parte predecible. Entonces, ¿qué queda al final?
 
-Volvamos a la última línea que queda: apostar con convicción porque, si te equivocas, pierdes tú. Esto no es una cuestión de capacidad. Es la cuestión de si estás en ese puesto como alguien que tiene algo que perder. Por muy preciso que se vuelva la máquina, el puesto de quien carga con el resultado como cosa propia plantea una pregunta de otra clase. Quién responde, quién tiene la autoridad para decidir.
+No es acertar con precisión. Tampoco mover las manos. Ni siquiera haberlo hecho muchas veces. Lo que queda es el lugar donde alguien elige y responde.
 
-Y este puesto no se defiende con capacidad. Lo deciden la ley y las instituciones, y a quién entregan las personas esa autoridad. La siguiente entrega trata justo de esto. Lo que detiene a la IA no es que la persona lo haga mejor, sino que la ley protege el puesto de la persona durante un tiempo.
+¿Quién pierde si algo sale mal? ¿Quién toma la decisión final? ¿Quién responde legalmente? ¿Quién asume el riesgo y empuja?
 
----
-
-**Serie ⟨Las 16 etapas en que la IA reemplaza el empleo⟩ · Parte 2**
-
-- Mapa completo: [¿En qué orden reemplaza la IA el trabajo humano? (mapa completo)](/es/column/ai-replacement-stages/)
-- Entrada anterior: [Parte 1: primero desaparece el trabajo mental con respuesta correcta (etapas 1 a 5)](/es/column/ai-replacement-stages-1/)
-- Siguiente entrada: [Parte 3: el periodo en que la autoridad humana queda protegida por la ley (etapas 9 a 14)](/es/column/ai-replacement-stages-3/)
+Estas preguntas no se responden solo con capacidad de IA. Son preguntas sobre a quién la sociedad da autoridad y a quién le exige responsabilidad. Desde la siguiente etapa, el carácter cambia. Ya no se trata solo de si la IA lo hace mejor, sino de si los humanos le entregan la decisión. En el siguiente texto veremos las etapas 9 a 14: autoridad de decisión, sistemas defensivos, resultados que la persona no entiende, video y voz, trabajo físico con juicio y juicio de valor.

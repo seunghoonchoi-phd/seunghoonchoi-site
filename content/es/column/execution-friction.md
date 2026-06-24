@@ -6,6 +6,7 @@ tags: ["productividad con IA","fricción del entorno de trabajo","escritorio vir
 subtitle: "Usar bien la IA y producir resultados rápido con la IA son cosas distintas. El verdadero enemigo del empleado no es la reunión ni el jefe. Es la fricción del entorno de trabajo, que alarga cada vuelta de crear y comprobar."
 seoTitle: "Por qué los empleados no logran productividad con IA: la fricción del entorno y el VDI"
 image: /images/col-execution-friction.jpg
+reviewStatus: "done"
 ---
 
 ![Montón de cables de computadora enredados de cualquier manera sobre un escritorio](/images/col-execution-friction.jpg)

@@ -1,31 +1,33 @@
 ---
-title: "Korean Naturalization Exam — Practice App"
-seoTitle: "Korean Naturalization Test Practice — KIIP Level 5 Mock App"
+title: "Korean Citizenship Comprehensive Evaluation Practice - Written, Essay, and Oral Mock Training"
+seoTitle: "Korean Citizenship Comprehensive Evaluation Practice App: Written, Essay, and Oral Training"
 date: 2026-06-14
 categories: ["Tools"]
-tags: ["app"]
-subtitle: "Practice the written, essay & oral test in one place"
-description: "Free installable web app to practice Korea's naturalization comprehensive evaluation (KIIP Level 5) — written, essay, and oral sections. 277-question mock exam, Korean–Chinese, works offline."
+tags: ["Korean citizenship", "app"]
+subtitle: "Practice the written, essay, and oral sections repeatedly in one place."
+description: "A free installable web app for preparing for Korea's citizenship comprehensive evaluation. It supports written, essay, and oral practice, Korean-Chinese side-by-side text, and offline use."
 image: /images/gwiwha-card.svg
+reviewStatus: "done"
 ---
 <div class="appcard">
-  <img class="appcard__icon" src="/images/gwiwha-card.svg" alt="Naturalization practice app icon">
+  <img class="appcard__icon" src="/images/gwiwha-card.svg" alt="Korean citizenship practice app icon">
   <div class="appcard__body">
     <span class="appcard__free">Installable web app (PWA)</span>
-    <h3>귀화시험 종합평가 연습</h3>
-    <p>Practice Korea's naturalization comprehensive evaluation — written, essay, and oral — in one place.</p>
+    <h3>Korean Citizenship Comprehensive Evaluation Practice</h3>
+    <p>Practice the written, essay, and oral sections repeatedly in one place.</p>
     <a class="cta" href="https://seunghoonchoi-phd.github.io/gwiwha/" target="_blank" rel="noopener">Open the app →</a>
   </div>
 </div>
 
-**I started building this while my wife was preparing for Korean naturalization.** The past papers, sample questions, and essay and oral practice were scattered everywhere, so I put them in one place you can drill through. No payment, no sign-up.
+I started building this while my wife was preparing for Korean citizenship. Written questions, essay topics, and oral practice materials were scattered everywhere, so I built one place where she could practice them repeatedly. No payment, no sign-up.
 
-- Repeated practice across written, essay, and oral sections
-- Installable PWA — add to your phone's home screen and use it like an app, even offline
-- 277-question mock exam — Korean–Chinese side by side
+- **Written practice** - repeat multiple-choice questions until they feel familiar
+- **Essay and oral practice** - look at expected topics and practice writing or speaking your own answers
+- **Korean-Chinese side-by-side text** - easier for users who are still building Korean fluency
+- **Installable web app (PWA, Progressive Web App)** - add it to your phone's home screen and use it like an app, even offline
 
 [Open the app →](https://seunghoonchoi-phd.github.io/gwiwha/)
 
-A full overview with exam info (test types, essay topics, sample questions) is on the landing page → [Korean naturalization mock exam](/gwiwha/)
+I collected the app overview, test information, evaluation types, essay topics, and expected questions on the guide page → [Korean citizenship comprehensive evaluation mock test guide](/gwiwha/)
 
 > Install: open the link on your phone browser and tap "Add to Home Screen", or click the install icon in your desktop browser's address bar.

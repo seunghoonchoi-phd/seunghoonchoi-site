@@ -2,7 +2,8 @@
 title: "2018 MRS Fall Meeting — Best Poster Award (Premio al Mejor Póster)"
 date: 2018-11-25
 categories: ["Premios y noticias"]
-tags: ["Biomimética"]
+tags: ["biomimética"]
+reviewStatus: "done"
 ---
 ![Best Poster Award — 2018 MRS Fall Meeting](/images/mrs-event.jpeg)
 

@@ -1,6 +1,6 @@
 # Navigation (keyed by menu identifier)
 [research]
-other = "Investigación y resultados"
+other = "Investigación y logros"
 # parent dropdown labels
 [writing]
 other = "Contenido"
@@ -12,13 +12,13 @@ other = "Columnas"
 [books]
 other = "Libros"
 [literature]
-other = "Literatura"
+other = "Textos literarios"
 [youtube]
 other = "YouTube"
 [apps]
 other = "Apps y herramientas"
 [career]
-other = "Estudiar y vivir en el extranjero"
+other = "Estudiar fuera y asentarse"
 [about]
 other = "Sobre mí"
 
@@ -26,15 +26,15 @@ other = "Sobre mí"
 [home]
 other = "Inicio"
 [latest]
-other = "Textos recientes"
+other = "Artículos recientes"
 [read_more]
 other = "Leer"
 [view_all]
 other = "Ver todo"
 [no_posts]
-other = "Todavía no hay textos. Pronto los habrá."
+other = "Todavía no hay artículos — pronto habrá nuevos."
 [posted_on]
-other = "Publicado"
+other = "Escrito"
 [categories]
 other = "Categorías"
 [tags]
@@ -54,15 +54,15 @@ other = "Ir al contenido"
 [explore]
 other = "Explorar"
 [reading_in]
-other = "Estás leyendo en coreano"
+other = "Leyendo en español"
 [switch_lang]
-other = "English"
+other = "한국어"
 [footer_rights]
 other = "Todos los derechos reservados."
 [search_placeholder]
 other = "Buscar…"
 [by]
-other = "Autor"
+other = "Por"
 [author_name]
 other = "Seunghoon Choi"
 [cite_this]
@@ -74,7 +74,7 @@ other = "¡Copiado!"
 [copy_source]
 other = "Fuente"
 [rf_heading]
-other = "Investigación destacada"
+other = "Investigación representativa"
 [rf_gripper]
 other = "Pinza blanda inspirada en el pulpo"
 [rf_electrode]
@@ -82,15 +82,15 @@ other = "Electrodo adhesivo de EMG para piel seca y húmeda"
 [rf_plant]
 other = "Electrodo de hidrogel para hojas de plantas"
 [dir_research]
-other = "Artículos, patentes e investigación en materiales computacionales"
+other = "Artículos científicos, patentes e investigación en materiales computacionales"
 [dir_writing]
-other = "Columnas, ensayos, libros y literatura"
+other = "Columnas, ensayos, libros y textos literarios"
 [dir_youtube]
 other = "Vídeos"
 [dir_apps]
 other = "Herramientas gratuitas que he creado"
 [dir_career]
-other = "Guía práctica para estudiar y asentarse en Estados Unidos"
+other = "Guías prácticas para estudiar fuera y asentarse en Estados Unidos"
 [dir_about]
 other = "Trayectoria, experiencia y contacto"
 
@@ -100,36 +100,36 @@ other = "Perfil"
 [cta_writing]
 other = "Leer textos"
 [cta_tools]
-other = "Herramientas que he creado"
+other = "Herramientas que creé"
 [cta_research]
-other = "Investigación y resultados"
+other = "Investigación y logros"
 
 [toc_title]
 other = "Índice"
 [more_posts]
-other = "Más sobre el mismo tema"
+other = "Más artículos sobre el mismo tema"
 
 [brand]
 other = "Seunghoon Choi"
 
 [cta_cv]
-other = "Descargar el currículum (CV) ↓"
+other = "Descargar CV ↓"
 
 [cta_contact]
-other = "Propuestas de colaboración"
+other = "Consultas de colaboración"
 
 [copied_email]
-other = "Se ha copiado el correo"
+other = "Correo electrónico copiado"
 
 [faq_title]
 other = "Preguntas frecuentes"
 [written_by]
-other = "Autor"
+other = "Escrito por"
 [author_bio]
-other = "Investigador en materiales computacionales y estudiante de doctorado en la Universidad de Florida (UF). Tras pasar por la fabricación de baterías y la investigación de materiales, ahora estudio y documento cómo una persona puede salir adelante en la era de la inteligencia artificial. Creo más en la estructura que en la autoridad, más en los modelos que en la intuición y más en los sistemas que en el esfuerzo."
+other = "Investigador en materiales computacionales y estudiante de doctorado en la Universidad de Florida (UF). Tras trabajar en fabricación de baterías e investigación de materiales, ahora experimenta y documenta cómo puede sobrevivir una persona en la era de la IA. Confía más en la estructura que en la autoridad, más en los modelos que en la intuición y más en los sistemas que en el esfuerzo."
 
 [pinned_label]
-other = "Destacado"
+other = "Recomendado"
 
 [cta_instagram]
 other = "Instagram DM"

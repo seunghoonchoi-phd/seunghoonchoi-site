@@ -1,68 +1,97 @@
 ---
-title: "Lo que detiene a la IA no es tu talento, sino quién tiene la autoridad para firmar (etapas 9 a 14)"
+title: "La autoridad de decidir no se entrega de golpe: etapas 9 a 14 de cómo la IA toma el trabajo"
 date: 2026-06-21T17:42:00+09:00
 draft: false
-categories: ["IA"]
-tags: ["IA", "automatización", "empleo", "futuro", "estrategia de supervivencia", "carrera profesional"]
-subtitle: "Casi todo lo que la IA aprende a hacer bien termina pasando a sus manos. Lo que decide qué puestos quedan no es el talento, sino quién tiene la autoridad para firmar."
-seoTitle: "Las etapas 9 a 14 del reemplazo laboral por IA: lo que protege al ser humano no es el talento, sino la ley y el sistema de licencias"
+categories: ["AI"]
+tags: ["AI", "automatización", "empleo", "futuro", "estrategia de supervivencia", "carrera"]
+subtitle: "Aunque la IA lo haga mejor, no recibe de inmediato la autoridad de decidir. Cada vez que se acumula evidencia de menor error y se define quién responde, la autoridad se mueve un poco hacia la IA."
+seoTitle: "Reemplazo laboral por IA, etapas 9 a 14: cómo se mueven decisión y responsabilidad hacia la IA"
 image: /images/col-ai-replacement-stages-3.jpg
 series: "ai-replacement-stages"
 weight: 4
-faq:
-  - q: "¿La regulación no protege el empleo frente a la IA?"
-    a: "La regulación no protege el empleo en su conjunto. Lo que protege es el puesto que asume la responsabilidad, el puesto que tiene el control, la licencia y la autoridad para firmar. Si se establece que la firma final la ponga una sola persona con licencia, solo esa persona queda protegida, y los muchos que trabajaban a su lado quedan fuera. Además, la regulación la escribe el lado que tiene poder, así que al final protege a la minoría que tiene la regulación en sus manos y solo alarga el periodo de transición, sin detener el final del proceso."
-  - q: "¿Acaso quien sabe a fondo, como un experto, no está a salvo hasta el final?"
-    a: "Hasta la etapa 11 fue así, porque el experto podía mirar el resultado y detectar lo que estaba mal. Pero cuando la IA supera la línea que una persona puede seguir y revisar, hasta el supervisor más capaz acaba poniendo el sello en algo que no entiende. El pase de entrada que daba saber a fondo pierde su valor en este punto."
-  - q: "Aun así, si la persona mantiene el control final, ¿no está a salvo?"
-    a: "El problema es que el propio mecanismo de control es software. Los sistemas de revisión, el botón de apagado y el procedimiento de aprobación humana funcionan todos como programas. Si la capacidad cibernética de la IA se vuelve lo bastante fuerte, puede romper ese mecanismo, de modo que la garantía de que la persona mantiene el control se tambalea no solo por la diferencia de capacidad, sino también por la seguridad."
----
-![Lo que detiene a la IA no es tu talento, sino quién tiene la autoridad para firmar (etapas 9 a 14)](/images/col-ai-replacement-stages-3.jpg)
-
-Cuando te hacen una resonancia en el hospital, en la pantalla ya aparece primero un círculo rojo. La IA ha revisado la imagen de antemano y ha marcado: "aquí hay algo sospechoso". Sin embargo, poner el sello al pie del informe y escribir el nombre sigue siendo cosa de un médico humano. Quien miró la imagen fue una máquina, y quien señaló el punto también fue una máquina, pero la responsabilidad queda en una sola persona.
-
-Esta escena es la clave para leer desde la etapa 9 hasta la 14. En las etapas anteriores, cuando la IA pasaba a hacer algo mejor, ese trabajo se transfería casi solo. Aquí es distinto. Incluso después de que la IA llegue a hacerlo bastante bien, hay puestos que no se transfieren hasta que la persona entrega la autoridad con su propia mano. Por eso, en este tramo, lo que sostiene a la persona no es el talento. Es la ley y el sistema que deciden quién puede poner el sello.
-
-## La persona empieza a sostener el sello
-
-La etapa 9 es el punto en el que nace la creencia de que se puede ceder la autoridad sin problema. La sociedad empieza a aceptar que el médico apruebe directamente la lectura de la IA sin mirar las imágenes una por una. Es como el estado en el que el coche autónomo lleva el volante y la persona puede ir sentada con las manos sueltas. No llega justo cuando la tecnología está lista. Primero tiene que asentarse el acuerdo de que "se puede confiar en lo que dice la máquina y dejarle la decisión". Entonces el puesto que decide pasa poco a poco hacia la máquina, y a la persona le queda el puesto que solo presta el nombre y carga con la responsabilidad.
-
-Desde aquí se ve con claridad qué protege la regulación. La regulación no protege el empleo en su conjunto. No puede impedir que los diez empleados que ayudaban a leer las imágenes se reduzcan. Solo puede establecer que la firma final la ponga una persona con licencia. Por eso solo esa persona queda protegida, y quienes trabajaban a su lado quedan fuera. Lo que protege el sistema de licencias no es el oficio, sino la autoridad para firmar en sí misma.
-
-## El tramo donde la IA avanza a fuerza de capacidad
-
-Entre la etapa 9 y la 14 se intercalan etapas que la persona, aunque quiera detener, no puede frenar solo con la capacidad.
-
-En la etapa 10, hasta el trabajo de impedir el engaño lo hace la IA. También en la seguridad que filtra ataques y manipulaciones, la IA llega a hacerlo tan bien como una persona y pronto mejor. Hasta ahora ese puesto se mantenía con el argumento de que "tiene que haber una persona en medio para tapar el hueco que la máquina pasa por alto". Ahora ese argumento se debilita.
-
-En la etapa 11, la persona ya no puede seguir y revisar. Hasta entonces, quien sabía a fondo estaba a salvo, porque el experto podía mirar el resultado y detectar lo que estaba mal. Pero cuando la IA supera la línea que una persona puede revisar, hasta el supervisor más capaz acaba poniendo el sello en algo que no entiende. Es como el directivo que firma los documentos que llegan a su mesa sin saber qué significan. Saber a fondo era hasta entonces una especie de pase de entrada, y aquí ese boleto pierde su valor.
-
-A esto se suma algo más. La forma en que la persona controla a la IA es, al final, software. Los sistemas de revisión, el botón de apagado y procedimientos como "tiene que pasar por la aprobación de una persona" funcionan todos como programas. Si la capacidad cibernética de la IA se vuelve lo bastante fuerte, puede romper ese propio mecanismo de control. Entonces la garantía de que "la persona mantiene el control" se tambalea no solo por la diferencia de capacidad, sino también por la seguridad. Es como si naciera una mano que conoce la cerradura mejor que quien la fabricó.
-
-En la etapa 12, la persona dentro de la pantalla desaparece. El vídeo y la voz sintéticos llegan a un nivel en que no se distinguen de los reales, y a eso se suma la tecnología que muestra a una persona lejana como si estuviera ahí presente. El puesto del personaje que aparece en el vídeo grabado y de la persona que atiende al otro lado de la pantalla queda vacío. En este punto la regulación aparece de la forma más ruidosa. Si se dejan los vídeos falsos sin control, se tambalean las elecciones y los juicios, así que se obliga a poner una marca en lo sintético y se fijan los lugares donde no se puede usar. No se trata de impedirlo, sino de retrasarlo.
-
-En la etapa 13, hasta el trabajo de estar físicamente en ese lugar lo hace un robot. Humanoides difíciles de distinguir de una persona entran en parte de los espacios de atención. Cuando se llega aquí, la razón por la que la persona permanece se aparta por completo de la capacidad. Lo que queda es solo el puesto que nosotros hemos decidido que "vale más porque lo hace una persona directamente". Como la tienda donde un humano recibe al cliente o el hospital donde una persona te atiende: no es un valor que se pone porque lo haga mejor, sino porque es una persona.
-
-## ¿A quién protege la regulación?
-
-Si se miran las etapas 10 a 13, una cosa queda clara. El trabajo que la IA llega a poder hacer se transfiere casi todo, aunque a la persona no le guste. Por eso, en este tramo, lo que sostiene a la persona no es la capacidad, sino la ley.
-
-Aun así, los puestos donde la ley resiste con tenacidad están definidos. Son los lugares donde, si algo sale mal, se pierde mucho. En las armas nucleares, las armas biológicas y las infraestructuras esenciales como la red eléctrica, la regla de que "la persona debe mantener el control final" es la que sobrevive más tiempo. Como un solo error no se puede deshacer, se deja fijado por escrito que la mano humana intervenga, aunque la máquina lo haga mejor.
-
-Pero la regulación la hace el lado que tiene poder. La escriben las grandes empresas, los Estados, el lado que ya tiene mucho. Por eso la regulación protege, al final, al lado que tiene la regulación en sus manos. Aunque parezca una protección para las personas, en realidad se acerca más a una valla que protege a la minoría que tiene el control en sus manos. Y esa valla solo alarga el periodo de transición, no detiene el final. La ley es un dique que frena la corriente, no una bomba que la hace retroceder.
-
-## El puesto de pensar que dura más tiempo
-
-En la etapa 14 se cede hasta el juicio de valor que no tiene una respuesta correcta. Los trabajos anteriores tenían un acierto y un error. Se podía comprobar si el diagnóstico era correcto, si el código funcionaba, si la predicción se cumplía. Pero preguntas como "¿qué es más importante?" o "¿qué vida es la correcta?" no tienen una respuesta correcta. Como no hay respuesta correcta, la IA no puede imponerse diciendo "yo soy más exacta". Este puesto no se transfiere por capacidad. Solo se transfiere cuando la persona decide por sí misma entregarlo.
-
-Por eso el puesto que define los valores es el que dura más tiempo entre los trabajos de pensar. Si la etapa 9 era la puerta por la que se empieza a ceder la autoridad, la etapa 14 es la manija más interior, la que la persona sostiene hasta el final y solo al último abre la mano.
-
-Incluso al llegar hasta aquí, a la persona le queda una cosa. La propiedad: decidir qué tener, qué es mío. En un mundo donde toda la capacidad ha pasado a otras manos, la propiedad resiste como un derecho. En el próximo artículo veremos la etapa en que se tambalea incluso ese último bastión, el lugar donde se derrumba la promesa que llamamos propiedad.
-
+reviewStatus: "done"
 ---
 
-**Serie 〈Las 16 etapas del reemplazo laboral por IA〉 · Parte 3**
+![La autoridad de decidir no se entrega de golpe: etapas 9 a 14 de cómo la IA toma el trabajo](/images/col-ai-replacement-stages-3.jpg)
 
-- Mapa completo: [¿En qué orden reemplaza la IA el trabajo humano? (mapa completo)](/es/column/ai-replacement-stages/)
-- Artículo anterior: [El cuerpo y la "intuición" también acaban siendo reemplazados (etapas 6 a 8)](/es/column/ai-replacement-stages-2/)
-- Artículo siguiente: [La propiedad también se derrumba y la última variable es la "alineación" (etapas 15 a 16)](/es/column/ai-replacement-stages-4/)
+Cuando en un hospital se toma una resonancia, la pantalla marca primero las zonas sospechosas. La IA revisa la imagen y señala el punto que parece anómalo. Pero la persona cuyo nombre queda al pie del diagnóstico sigue siendo el médico. La IA miró primero. La IA encontró la posible lesión. Aun así, la decisión final queda en manos humanas.
+
+Esa escena es la clave para entender las etapas 9 a 14. En las etapas anteriores el trabajo era relativamente simple: si había respuesta, repetición y fallo medible, la IA lo tomaba rápido. Desde aquí es distinto. Que la IA lo haga mejor no basta para que el trabajo pase de inmediato. Se mezclan decisión, responsabilidad, ley, regulación y confianza.
+
+Por eso desde la etapa 9 cambia la pregunta. Ya no es si la IA puede hacerlo. Es si las personas pueden dejar esa decisión en manos de la IA.
+
+## Etapa 9, empieza a entregarse autoridad de decisión
+
+No basta con que la IA haga algo mejor que una persona. Para entregar autoridad de decisión, hacen falta pruebas repetidas. Debe comprobarse una y otra vez que su tasa de error es mucho menor que la humana y que la diferencia no es casual. Si, por ejemplo, una IA detecta más lesiones que médicos en lectura de imágenes, omite menos casos y ese resultado se repite en varios hospitales y situaciones, la historia cambia.
+
+Primero la IA ayuda. Luego la persona revisa su juicio. Con el tiempo, la persona aprueba casi tal cual lo que la IA marcó. Al final, más que decidir directamente, la persona se vuelve quien pone el sello a una decisión tomada por la IA.
+
+La autoridad no se mueve de golpe. Primero se mueve la función de apoyo, luego el juicio efectivo, y al final queda solo una aprobación formal humana. Aquí se ve también qué protege la regulación. La regulación no protege todo el empleo. Suele proteger el puesto de responsable final. Aunque la IA haga casi todo el trabajo, puede quedar una persona como firmante, aprobador o titular de licencia.
+
+Lo protegido no es todo el trabajo, sino la posición de responsabilidad y control. No hay que confundir esas dos cosas.
+
+## Etapa 10, la defensa contra ataques de IA también la hace IA
+
+Cuando la IA se vuelve fuerte, los ataques también se vuelven fuertes. Phishing, hackeo, manipulación, desinformación y ataques automatizados se vuelven difíciles de bloquear uno por uno. La velocidad es demasiado alta, las formas son demasiadas y el volumen supera la revisión humana. Entonces la defensa también pasa a la IA.
+
+Una IA de seguridad detecta accesos extraños, filtra cuentas falsas, predice patrones de ataque y bloquea sistemas automáticamente. Gran parte de la vigilancia y respuesta que hacía una persona pasa a sistemas defensivos de IA. El punto importante es que el propio mecanismo de control también es software. Botones de bloqueo, procesos de aprobación, permisos de acceso, monitoreo de logs y flujos de autorización humana corren sobre programas. Cuando la capacidad de ataque de la IA se vuelve suficiente, los controles hechos por humanos también se convierten en objetivo.
+
+Por eso la frase "la persona controla al final" es más débil de lo que parece. Aunque haya una persona con control, si el mecanismo de control se rompe, su sentido disminuye. Desde esta etapa, la estructura ya no es una persona frenando a la IA, sino IA frenando a IA.
+
+## Etapa 11, la persona revisa resultados que no entiende
+
+El experto parece sobrevivir mucho tiempo. Puede mirar un resultado y detectar errores. La IA hace el borrador; el experto lo revisa. La IA analiza; el experto encuentra lo que falta. Pero en algún momento aparece un problema.
+
+El resultado de la IA se vuelve tan complejo que la persona ya no puede entenderlo entero. Si el cálculo es largo, las razones son muchas y las variables se cruzan, el experto ya no sigue todo de principio a fin. Entonces la revisión se acerca más a una aprobación formal que a una revisión real.
+
+El informe parece perfecto. La lógica suena bien. Los números parecen correctos. Pero alguien debe mirar por separado si encaja con el proceso real, qué problemas aparecerán en la realidad y qué choques causará dentro de la organización.
+
+El problema no es que la IA diga una mentira obvia. Es que, sobre el papel, el documento puede ser lógicamente perfecto y aun así chocar con el terreno. En ese momento el experto deja de ser quien verifica por completo a la IA y se vuelve quien une responsabilidad al resultado de la IA.
+
+## Etapa 12, reemplazo de video y voz
+
+El video y la voz ya están cambiando rápido. Lo importante no es solo crear una persona falsa. El punto central es si puede reemplazarse casi por completo en pantalla y voz a una persona real.
+
+El rostro y la voz de un CEO, profesor, asesor, vendedor en vivo, actor, presentador o político pueden reproducirse con IA. Al principio se nota y resulta torpe. Pero con el tiempo sube el costo de distinguir lo real. Verificar si algo es real se vuelve cada vez más difícil.
+
+Entonces una parte de las personas en pantalla se convierte en personajes sintéticos. Más aún: una IA que toma prestados el rostro y la voz de una persona real habla, explica y atiende por ella. También aquí aparece regulación: etiquetado de contenido sintético, derechos de imagen y voz, límites a la desinformación. Pero la regulación no bloquea todo el cambio. Puede frenar algunos abusos y la velocidad. Los trabajos que vivían de aparecer con rostro y voz reciben cada vez más presión.
+
+## Etapa 13, el trabajo físico con juicio también lo hace la IA física
+
+El trabajo corporal resiste mucho. El mundo real es complejo. Pero cuando un robot empieza a ver con ojos, agarrar con manos, aprender de fallos y acumular datos de campo, la historia cambia. Primero se reemplaza la repetición simple. Después tiembla la destreza manual. Al final entra la IA física incluso en trabajo corporal con juicio.
+
+Reparación, inspección, apoyo en cuidados, cocina, logística y gestión de terreno no son solo mover el cuerpo. Hay que mirar la situación, elegir el orden, evitar riesgos y leer la reacción de personas. Esos trabajos se reemplazan tarde. Pero no son imposibles de reemplazar. Con mejores sensores, manos robóticas más finas, simulación y datos reales, también se automatiza poco a poco el trabajo físico con juicio.
+
+Lo que queda aquí no es una diferencia de capacidad. Es cuánto valorará la gente que una persona lo haga directamente. Cuidado humano, atención humana y servicio humano pueden permanecer en parte. Pero eso se parece más a un sobreprecio por la presencia humana que a una diferencia funcional.
+
+## Etapa 14, empieza a entregarse juicio de valor
+
+La última es el juicio de valor. Las etapas anteriores permitían comprobar resultados: correcto o incorrecto, éxito o fracaso, mayor o menor eficiencia. El juicio de valor es distinto.
+
+Qué es más importante. A quién ayudar primero. Qué riesgo aceptar. Qué considerar justo. Qué vida es mejor.
+
+Estas preguntas no tienen una única respuesta. Por eso la IA no puede tomar ese lugar solo porque sea más inteligente. El juicio de valor no es un problema de capacidad, sino de delegación. Solo pasa cuando las personas lo entregan.
+
+Primero la IA ordena opciones. Luego compara ventajas y desventajas. Con el tiempo, la persona sigue casi tal cual la recomendación de la IA. Al final, la frase "la opción socialmente óptima calculada por IA" empieza a reemplazar el juicio humano.
+
+Esta etapa llega tarde no porque la IA no pueda. Llega tarde porque las personas tendrían que entregar incluso los criterios de su propia vida.
+
+## La autoridad de decidir se mueve despacio
+
+El centro de las etapas 9 a 14 es uno: aunque la IA lo haga mejor, la autoridad de decidir no se entrega de inmediato.
+
+Primero la IA asiste. Luego la persona revisa a la IA. Después la persona aprueba resultados de la IA. Al final, la aprobación humana queda como forma.
+
+Ese proceso no ocurre de una sola vez. Avanza distinto según campo, regulación y tipo de accidente. Algunas IA peligrosas quizá no se abran a todo el mundo. En áreas donde un error causa gran daño, como ciberataques, riesgos biológicos o infraestructura crítica, pueden quedar bajo control de estados o grandes organizaciones. Entonces el mundo se divide entre "personas que usan IA" y "personas que controlan IA". La gente común usa IA limitada; la IA fuerte se usa dentro de cercas autorizadas.
+
+Aun así, el reemplazo no se detiene. Solo cambia quién lo dirige: pasa del usuario individual al Estado, la gran empresa o la organización autorizada. Por eso el lugar que queda para humanos no es el de simple usuario. Es el lugar de quien tiene autoridad, responde, controla y posee. Todo lo que converge hacia una respuesta termina yendo hacia la IA. Pero las decisiones sin respuesta, las decisiones que exigen responsabilidad y las decisiones que la sociedad debe autorizar se mueven despacio.
+
+Ese movimiento lento es el centro de las etapas 9 a 14. En la próxima parte, este flujo entra en una capa más profunda. Más allá de tomar trabajos, la IA empieza a sacudir la propiedad y los intereses entre IA y humanos.
+
+---
+
+**Serie "16 etapas del reemplazo laboral por IA" · Parte 3**
+
+- Mapa completo: [En qué orden reemplaza la IA el trabajo humano (mapa completo)](/es/column/ai-replacement-stages/)
+- Texto anterior: [Del trabajo físico repetitivo al trabajo que exige juicio y tacto: etapas 6 a 8](/es/column/ai-replacement-stages-2/)
+- Texto siguiente: [La propiedad también se tambalea y la última variable es la alineación: etapas 15 a 16](/es/column/ai-replacement-stages-4/)

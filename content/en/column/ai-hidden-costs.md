@@ -6,6 +6,7 @@ tags: ["AI cost","token cost","productivity","subscription illusion","decision m
 subtitle: "It looks like a flat monthly fee, but the real cost of company AI leaks out like electricity behind the wall. Tokens, verification time, decisions that arrive late: this piece bundles them all into one number called the AI intervention threshold."
 seoTitle: "Hidden Costs of Company AI: Tokens, the Subscription Illusion, and the AI Intervention Threshold"
 image: /images/col-ai-hidden-costs.jpg
+reviewStatus: "done"
 ---
 
 ![Close-up of an old analog electricity meter dial shot in dim light](/images/col-ai-hidden-costs.jpg)

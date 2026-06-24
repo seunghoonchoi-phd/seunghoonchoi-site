@@ -1,12 +1,13 @@
 ---
 title: "قطب كهربائي هلامي مستوحى من الطبيعة لتسجيل الإشارات الكهربائية في أوراق النبات — IJASC"
 date: 2026-02-28
-categories: ["أبحاث"]
-tags: ["محاكاة حيوية", "هيدروجيل", "إلكترونيات النبات", "قطب كهربائي", "أخطبوط"]
+categories: ["أوراق بحثية"]
+tags: ["محاكاة حيوية", "هيدروجيل", "إشارات النبات الحيوية", "قطب كهربائي", "أخطبوط"]
 doi: "10.7236/IJASC.2026.15.1.241"
 articleTitle: "Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves"
 journal: "International Journal of Advanced Smart Convergence"
 pubyear: 2026
+reviewStatus: "done"
 ---
 ![لاصقة هلامية مستوحاة من الأخطبوط تسجل الإشارات الكهربائية في أوراق النبات](/images/plant-hydrogel-electrode.jpg)
 

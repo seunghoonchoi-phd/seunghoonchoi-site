@@ -4,8 +4,9 @@ description: "After a fully funded PhD acceptance, what to finish before you fly
 seoTitle: "U.S. Grad School Pre-Departure Checklist (F-1)"
 date: 2026-06-17T17:00:00+09:00
 categories: ["Study Abroad"]
-tags: ["grad school","study abroad","F-1","relocation"]
+tags: ["Study Abroad", "U.S. graduate school", "F-1", "pre-departure"]
 subtitle: "A practical, step-by-step checklist of everything to finish between the day you are admitted to a U.S. grad program and the day you board the plane"
+reviewStatus: "done"
 ---
 
 ![Airplane at the departure gate](/images/uf1-departure.jpg)

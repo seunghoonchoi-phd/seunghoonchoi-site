@@ -1,80 +1,73 @@
 ---
-title: "How Politics Wins Hearts and Power, and Where the Person Who Can't Fake It Belongs"
-description: "The real mechanism behind a politician's popularity (emotion and identity), the four markets that split politics from administration, and why someone whose lies show on their face can actually win in politics."
+title: "How Politics Wins People's Hearts, and How a Person Who Cannot Fake It Can Survive"
+description: "Politics moves emotion and sides before logic. A person who cannot make empty promises should not play the game of deceiving with words, but move to the slower game of promising and keeping."
 date: 2026-06-21T19:10:00+09:00
 categories: ["Essays"]
-tags: ["politics", "power", "persuasion", "trust", "leadership", "political psychology"]
-subtitle: "Politics isn't a debating hall where you argue with your head. It's a market where feelings are bought and sold. But that market is split into separate boxes, and one of its seats can only be filled by a person whose lies show on their face."
-seoTitle: "The Mechanics of Political Popularity and the Politics vs Administration Split: How an Honest Person Wins in Politics"
+tags: ["politics", "emotion", "trust", "leadership", "political psychology"]
+subtitle: "Politics moves emotion and sides before logic. A person who cannot make empty promises should move to the slower trust game of promising and keeping."
+seoTitle: "How Politics Wins People's Hearts: Survival for the Person Who Cannot Fake It"
 image: /images/col-anatomy-of-politics.jpg
-faq:
-  - q: "How does a politician win popularity?"
-    a: "Not through better policy, but through emotion and identity. People react to 'who's on my side' before 'who's right.' A clear enemy, a story that says 'I know your pain,' an air of certainty, and the signal that 'everyone supports them' are the levers of popularity. But short-term popularity is made by emotion, while long-term survival is decided by results."
-  - q: "Can politics and administration be separated?"
-    a: "By function, yes. About a century ago, political science split them: politics decides what to do, administration carries it out (Woodrow Wilson, Max Weber). But in time they stay tangled. You can't govern if you don't get elected, and you only win again if you govern well. So the skill of winning votes and the skill of delivering results are two different things, and one person rarely holds both."
-  - q: "Is someone who can't lie well unsuited to politics?"
-    a: "They lose the fast bluffing game, but in the slow trust game it's a strength. In a market where everyone can lie, the promise of 'a person whose lies show instantly' becomes a signal you can't fake. Merkel spent 16 years using 'trustworthy dullness' as an asset. The answer isn't to learn to fake it. It's to move the game to one you can win."
+reviewStatus: "done"
 ---
 
 ![A brass microphone glowing on a dim event-hall podium](/images/col-anatomy-of-politics.jpg)
 
-When I lie, it's written all over my face. Hollow praise and soulless diplomatic lines don't stick in my mouth. Force them out and I'm the first to feel uncomfortable, and my expression falls apart. And yet I wanted to understand politics. Not simply how to win, but how to do a kind of politics that puts something real into people's hands.
+When I lie, it shows all over my face. Praise I do not mean and soulless diplomatic lines do not sit well in my mouth. If I force them out, I feel uncomfortable first, and my expression collapses. But politics is the work of winning people's hearts. Often you have to say what many people will like, what they want to hear, and what will reassure them right now. Then is someone like me, who cannot do empty talk well, simply unsuited to a game like politics?
 
-The problem is that I'm the worst-suited person on earth for that game. So I've wondered for a long time. How does politics actually run? Is there even a seat in it for someone like me? I dug into it. To say the conclusion first: there was one. In a place I didn't expect.
+I thought that for a long time. But the deeper I looked, the answer was slightly different. A person who cannot make empty talk can still win people's hearts. They just have to move the game away from deceiving with words and toward promising and keeping.
 
-## Popularity is made by emotion, not policy
+## People see sides before logic
 
-Let's admit this and move on. A politician's popularity doesn't come from good policy. It comes from the voters' emotion and identity. People react to "who's on our side" before "who's right."
+In politics, people do not read the policy table first. They ask first: is this person on our side? Do they know my pain? Can they speak my anxiety for me?
 
-Jonathan Haidt has an image that gets it exactly right. Reason is a rider sitting on an elephant. The direction is set first by the elephant (emotion and intuition). The rider (reason) only makes that choice sound good afterward. A seasoned politician isn't aiming at the rider. They aim at the elephant. So the levers that make popularity are always the same.
+That does not mean policy is unimportant. But policy is usually understood late. Emotion responds first. When someone feels like my side, I then try to understand what they say. If they do not feel like my side, I hear even a good policy defensively.
 
-First, they set up an enemy. A clear enemy. People bind together harder over what they oppose than over what they support. Then they grab the story. "I know your pain. The cause is that guy over there. I'll fix it." Because people understand the world through stories, not data. On top of that, they keep pushing one dramatic event (an accident, a crime, a scandal). Whatever the statistics say, a sense of crisis gets manufactured. That's because people mistake whatever comes easily to mind for something common and important. Finally, they perform certainty. People follow the person who is sure, not the person who is right. Hesitate and you look weak. Speak flatly and firmly and you look strong. Even when the content is wrong, say it with certainty and the votes follow. This is why an expert loses to a populist.
+So a politician's popularity is not built by logic alone. It begins with emotion and identity. People move first not by "who is accurate," but by "who recognizes me."
 
-It's bitter, but face it. Short-term popularity is made almost entirely by emotion.
+## Popular words have a structure
 
-## Good politics is a game that loses on purpose
+Words that win people's hearts have a repeated structure. First, recognize the pain: "I know you are struggling." Then point to the cause: "There is a reason for that pain." Finally, give a direction: "We can change it this way."
 
-Here's where it becomes clear why the road I want to walk is so brutal. Good politics is, by its very structure, a game that takes a loss.
+A bad politician creates an easy enemy here. They push a complex problem onto someone's fault. People respond faster to a clear enemy than to a complex explanation. When the enemy is clear, anger gathers; when anger gathers, support grows quickly.
 
-Results come late and emotion is instant. Education reform, infrastructure, institutional design: it takes years to bear fruit. The election won't wait that long. On top of that, the better the reform, the harder the small group that loses out fights for its life, while the large group that gains doesn't even care. Pain piles up in one spot, and benefit spreads thin across everyone. Add to that: truth is complicated and a lie is simple. So a person trying to do solid politics has to do twice the work of their opponent. Make good policy (the opponent doesn't even have to), and then translate it into the language of emotion on top.
+But good politics also has to win hearts. The difference is whom it names as the enemy. If it names groups of people as enemies, it becomes division. If it names problems such as corruption, waste, inefficiency, and irresponsibility as enemies, it becomes politics people can fix together.
 
-That translation has a method too. You turn an abstract result into one person's face. "Unemployment down 2%" just grazes the head and passes by. But "a day in the life of Mr. Kim, who got his job back through this policy" lodges in the chest. The human brain can't feel the statistic of a million people, but it crumbles at one person's specific story. And no matter how huge the reform, you deliberately put a small win that people can feel within six months out front. You have to give the elephant proof that "this direction is right" first, before the rider will believe the long vision. You set the enemy differently, too. Where the populist makes a person (immigrants, elites) the enemy, you turn that same uniting energy toward faceless problems like inefficiency, corruption, and waste. It's the way to make people band together without splitting into camps. Lincoln, Mandela, and Lee Kuan Yew all nailed the enemy down not as a group of people but as "a condition to overcome."
+Politics is ultimately the work of directing emotion. Anger can be aimed at people, or it can be turned toward solving problems.
 
-Certainty, too, can be delivered honestly. "I'm certain this is right. If I'm wrong, I'll take responsibility." It's a stance that throws away the hesitation but keeps the truth. Promise like that, keep it, prove it, and repeat, and the reputation that "this person does what they say" stacks up with compound interest. A populist's popularity flies off fast. Trust capital builds up.
+## Good policy does not sell itself
 
-## Winning votes and doing the job well are different things
+Good policy is usually complex. Its effects arrive late. Education, health care, infrastructure, science and technology, and administrative reform do not show results in one day. Anxiety and anger move immediately.
 
-The thing I kept getting confused about, political science had already sorted out a hundred years ago. Governing politics and the politics of winning popularity and power are different jobs. They really do split apart.
+That is why good politics is unfair. The more useful a policy is, the longer the explanation, the later the feeling of benefit, and the louder the people who oppose it. The many who benefit are quiet, and the few who lose fight hard. So a good politician cannot only make good policy. They have to translate that policy into words people can feel. They have to turn numbers into faces, and distant future gains into small changes people can feel now. `A 2% drop in unemployment` is weaker than `one day in the life of a person who got a job back`. People react first to a concrete life, not to a statistic.
 
-Woodrow Wilson drew the same line in 1887. Politics is deciding what to do, and administration is carrying it out. Max Weber split it by type of person. The politician fights for power and takes responsibility for their own decisions. The bureaucrat faithfully carries out orders even when they disagree. The two run on opposite ethics.
+## Winning popularity and doing the work are different abilities
 
-Cut it finer and politics is four markets, each with a different currency.
+The ability to win votes and the ability to carry out the work are different. In an election, you have to speak hope to many people. In governing, you have to set priorities and say no when something cannot be done. In elections, making many promises can help. In administration, reducing promises and executing them is what makes things run. Elections use the language of emotion. Administration uses the language of responsibility. So a person who speaks well does not necessarily do the work well. And a person who does the work well does not necessarily win votes well. They are different abilities.
 
-- **The market of acquisition**: where you win votes. The currency is persuasion and emotion.
-- **The market of retention**: where you manage the loyalty of your core backers.
-- **The market of administration**: where you actually deliver results.
-- **The market of legitimation**: where you make people accept "why should I be the one to hold power."
+If you enter politics, you have to admit that difference. You need to know whether you are the person who wins hearts or the person who makes work run. If one person cannot do both well, they need someone beside them who fills the weaker side.
 
-Here's one cold truth about that second market. A power-holder is, surprisingly, loyal first not to the whole public but to the core group that put them in that seat.
+## A person who cannot make empty talk is weak in the fast game
 
-The key point is this. These markets reward different behavior. Acquisition rewards "promise everything to everyone," while administration rewards "say no, set priorities, and disappoint someone." Mario Cuomo's line compresses this into a single sentence. "You campaign in poetry, but you govern in prose." The two markets speak opposite languages. So a genius of the campaign can be a fool at governing. Usually one person can't hold both. The answer is clear. Pick one core function, and fill the rest by putting people beside you. That's why the leader-and-staff structure became the standard.
+Someone like me is weak in the fast political game. It is hard to praise someone on the spot, scatter pleasing words, and throw out vague promises with confidence. It shows on my face.
 
-## A promise from someone who can't hide a lie can't be copied
+But this weakness becomes an asset in a different game. In a place where everyone can make empty talk, words become cheap. Anyone can say, "I will work for the people." So people do not believe that sentence as-is.
 
-So where should a person like me, whose lies pop up on his face at once, stand? For a long time I only saw it as a weakness. Flip it over, and it was a misplaced asset.
+A promise from someone who cannot lie easily is a little different. That person has a clear line between what they can say and what they cannot say. They cannot easily say something impossible is possible. Over time, that becomes a signal.
 
-The political market has one basic hole in it. Because anyone can lie, the value of every word has been flattened to zero. Voters don't believe anyone's promise at face value. In exactly this arena, "a person who gets caught the instant he lies" holds something rare. Verifiable honesty. For a signal to carry value, the cost of forging it has to be high, but an empty promise anyone can make is worth zero. The promise of a person who can't lie is, by structure, a more expensive signal. Angela Merkel sat in precisely this seat. Weak on charisma, weak on flashy talk, weak on emotional appeal. She turned that into "trustworthy dullness" and ran it as an asset for 16 years.
+A person who cannot make empty talk does not win by saying a lot. They win by saying less and keeping what they said.
 
-So you shouldn't spend time learning to fake it. You'll only become a clumsy liar. Instead, drag the game into the kind you can win. When a person who can't lie sits down at a bluffing game, it's a massacre. But sit them at a game where everyone plays with cards face up, and their "my hand is good" becomes the one signal that gets believed. Concrete moves follow too.
+## Honesty is not a tone. It is a repeated record.
 
-- Instead of empty praise ("you're brilliant"), say a precise observation ("holding the line on that clause to the very end in that negotiation was the decisive move"). It's true, so your mouth doesn't fight it.
-- The seats where ceremonial lines are truly required, hand off to a spokesperson and a document.
-- The words you don't have to say, don't say. "I won't answer that right now" is not a lie. Silence doesn't leak.
+An honest image is not created by saying "I am honest." It comes from a repeated record: promise only what can be done, keep what was promised, admit mistakes, and fix them again. If you cannot give empty praise, give an accurate observation. Instead of `you are wonderful`, say `holding that clause to the end in the negotiation mattered`. Do not decorate words you do not mean. Say exactly what you actually saw. Say you do not know when you do not know. If you cannot answer now, say you will not answer now. Not every silence is weakness. Sometimes silence kept honestly is better than words filled with lies.
 
-## Bet everything on the slow trust game
+A person who cannot make empty talk does not need to copy flashy speech. They have to turn the reliability of their words into an asset.
 
-After dissecting all of politics, the picture left behind is this. Politics splits cleanly by function but is tightly tangled by time. If you don't get elected you can't carry out a single line of results, and you only win again if you govern well. So the most common reason a capable person fails in politics isn't a lack of ability. It's that they looked down on the market of winning votes.
+## Bet on the slow trust game
 
-My conclusion got simple. I won't try to win the fast bluffing game. There I lose. Instead I bet everything on the slow trust game of promising, keeping, and proving. As Cuomo said, campaign in poetry, but make my poem the actual results I deliver, not words. It's not manipulating emotion. It's translating real results into the language of emotion. Lincoln and Merkel both walked that road in the end.
+Politics is ultimately the work of winning people's hearts. But there is not only one way to win hearts. Some people climb quickly by gathering anger. Some people build trust slowly by keeping promises.
 
-So if you're thinking about politics right now, before you polish your way with words, ask yourself first. Am I a person who wins votes, or a person who delivers results? If I can't do both, who will I keep beside me? That's where it starts.
+A person like me loses if they sit down at the fast bluffing game. But the slow trust game is worth trying. I have to move toward a board where records matter more than words, results matter more than image, and kept promises matter more than empty talk.
+
+Emotion cannot be avoided in politics. People move through emotion. But emotion does not have to be used to deceive. Real results can be translated into language people feel.
+
+So if you cannot make empty talk, do not try to learn it. Instead, promise less, keep it clearly, and make people feel what you kept. People's hearts can be won with words. But the hearts that remain are ultimately won by record.

@@ -7,6 +7,7 @@ tags: ["conocimiento práctico","ventaja competitiva","era de la IA","conocimien
 subtitle: "El verdadero secreto no está en el método. Está en las condiciones ocultas que hacen que ese método funcione"
 seoTitle: "Por qué el conocimiento tácito es la verdadera ventaja en la era de la IA: el saber que no se copia"
 image: /images/col-trade-secret-function.jpg
+reviewStatus: "done"
 ---
 
 ![Las manos de un alfarero moldeando barro húmedo sobre el torno, el instante en que la presión mínima de los dedos decide el resultado](/images/col-trade-secret-function.jpg)

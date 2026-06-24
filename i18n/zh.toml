@@ -1,6 +1,6 @@
 # Navigation (keyed by menu identifier)
 [research]
-other = "研究"
+other = "研究成果"
 # parent dropdown labels
 [writing]
 other = "内容"
@@ -10,15 +10,15 @@ other = "资料"
 [column]
 other = "专栏"
 [books]
-other = "书"
+other = "书籍"
 [literature]
-other = "文学"
+other = "文学作品"
 [youtube]
 other = "YouTube"
 [apps]
-other = "应用·工具"
+other = "应用与工具"
 [career]
-other = "留学·定居"
+other = "留学与定居"
 [about]
 other = "关于"
 
@@ -32,9 +32,9 @@ other = "阅读"
 [view_all]
 other = "查看全部"
 [no_posts]
-other = "还没有文章 — 即将更新。"
+other = "还没有文章，即将更新。"
 [posted_on]
-other = "发布"
+other = "撰写"
 [categories]
 other = "分类"
 [tags]
@@ -44,7 +44,7 @@ other = "全部"
 [contact]
 other = "联系"
 [connect_linkedin]
-other = "在领英上联系 ↗"
+other = "在 LinkedIn 上联系 ↗"
 [email_university]
 other = "大学"
 [email_personal]
@@ -54,11 +54,11 @@ other = "跳到正文"
 [explore]
 other = "浏览"
 [reading_in]
-other = "正在以中文阅读"
+other = "正在阅读中文"
 [switch_lang]
-other = "English"
+other = "한국어"
 [footer_rights]
-other = "All rights reserved."
+other = "保留所有权利。"
 [search_placeholder]
 other = "搜索…"
 [by]
@@ -72,42 +72,42 @@ other = "复制引用"
 [cite_copied]
 other = "已复制！"
 [copy_source]
-other = "来源"
+other = "出处"
 [rf_heading]
-other = "代表研究"
+other = "代表性研究"
 [rf_gripper]
-other = "章鱼仿生软体抓手"
+other = "章鱼启发软体夹爪"
 [rf_electrode]
 other = "干湿环境 EMG 粘附电极"
 [rf_plant]
 other = "植物叶片水凝胶电极"
 [dir_research]
-other = "论文·专利·计算材料研究"
+other = "论文、专利和计算材料研究"
 [dir_writing]
-other = "专栏·随笔·书·文学"
+other = "专栏、随笔、书籍和文学作品"
 [dir_youtube]
 other = "视频"
 [dir_apps]
 other = "我做的免费工具"
 [dir_career]
-other = "留学·美国定居实战指南"
+other = "留学和美国定居实战指南"
 [dir_about]
-other = "履历·经历·联系"
+other = "履历、经历和联系"
 
 [profile]
-other = "主页"
+other = "个人主页"
 
 [cta_writing]
 other = "阅读文章"
 [cta_tools]
-other = "工具"
+other = "我做的工具"
 [cta_research]
 other = "研究成果"
 
 [toc_title]
 other = "目录"
 [more_posts]
-other = "更多相关内容"
+other = "查看更多同主题文章"
 
 [brand]
 other = "崔胜勋"
@@ -116,17 +116,17 @@ other = "崔胜勋"
 other = "下载简历（CV）↓"
 
 [cta_contact]
-other = "联系合作"
+other = "合作咨询"
 
 [copied_email]
-other = "邮箱已复制"
+other = "邮箱地址已复制"
 
 [faq_title]
 other = "常见问题"
 [written_by]
 other = "作者"
 [author_bio]
-other = "计算材料科学家，佛罗里达大学（UF）在读博士研究生。经历过动力电池制造现场与材料研究，如今他在实验并记录：个人该如何在 AI 时代生存。他相信结构胜于权威，模型胜于直觉，系统胜于努力。"
+other = "计算材料研究者，现为佛罗里达大学（UF）博士生。经历过电池制造现场和材料研究后，他现在实验并记录个人如何在 AI 时代生存。他相信结构胜过权威，模型胜过直觉，系统胜过努力。"
 
 [pinned_label]
 other = "推荐"

@@ -3,6 +3,7 @@ title: "Best Poster Award — 2018 MRS Fall Meeting"
 date: 2018-11-25
 categories: ["Recognition"]
 tags: ["bio-inspired"]
+reviewStatus: "done"
 ---
 ![Best Poster Award — 2018 MRS Fall Meeting & Exhibition](/images/mrs-event.jpeg)
 

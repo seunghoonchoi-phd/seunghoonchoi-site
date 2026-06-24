@@ -6,6 +6,7 @@ tags: ["Costes de la IA","Coste de tokens","Productividad","Espejismo de la susc
 subtitle: "Parece una tarifa mensual fija, pero el coste real de la IA en la empresa se escapa como la electricidad que corre por dentro de la pared. Vamos a sumar tokens, tiempo de revisión y decisiones que se retrasan, y a calcularlo todo de nuevo con una sola idea: el umbral para usar la IA."
 seoTitle: "Costes ocultos de la IA en la empresa: tokens, espejismo de la suscripción y umbral de uso"
 image: /images/col-ai-hidden-costs.jpg
+reviewStatus: "done"
 ---
 
 ![Primer plano de la esfera de un viejo contador eléctrico analógico bajo una luz tenue](/images/col-ai-hidden-costs.jpg)

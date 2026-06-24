@@ -9,6 +9,7 @@ doi: "10.1002/adfm.201905808"
 articleTitle: "Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor, VR Applications"
 journal: "Advanced Functional Materials"
 pubyear: 2019
+reviewStatus: "done"
 ---
 ![Advanced Functional Materials — Back Cover](/images/afm-backcover.jpeg)
 

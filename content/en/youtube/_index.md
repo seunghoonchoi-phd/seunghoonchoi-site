@@ -1,4 +1,5 @@
 ---
 title: "YouTube"
+reviewStatus: "done"
 ---
-Notes in video form. Once the channel finds its footing, it'll be collected here.
+Records kept in video form will be collected here.

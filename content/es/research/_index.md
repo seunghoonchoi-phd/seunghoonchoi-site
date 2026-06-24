@@ -1,5 +1,6 @@
 ---
 title: "Investigación y logros"
+reviewStatus: "done"
 ---
 Me interesa encontrar maneras de hacer que los materiales y los procesos de fabricación sean más predecibles. Durante mi maestría estudié cómo la microestructura y las interfaces cambian el rendimiento de los sensores. Más tarde, trabajando en la fabricación de electrodos de baterías, vi de cerca cómo condiciones de proceso como la pasta (slurry), el recubrimiento y el calandrado se traducen en la calidad real del producto.
 

@@ -6,6 +6,7 @@ tags: ["AI productivity","execution friction","VDI virtual desktop","corporate A
 subtitle: "Using AI well and shipping fast with AI are two different things. The employee's real enemy isn't meetings or the boss. It's the execution friction that stretches the build-and-check loop."
 seoTitle: "Why Employee AI Productivity Falls Flat: Execution Friction and VDI"
 image: /images/col-execution-friction.jpg
+reviewStatus: "done"
 ---
 
 ![A tangled mess of computer cables and cords piled on a desk](/images/col-execution-friction.jpg)

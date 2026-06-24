@@ -2,12 +2,14 @@
 title: "ReadFast — 外语速读训练应用"
 seoTitle: "英文中文速读训练 App，基于证据、免费"
 date: 2026-06-16
-categories: ["Tools"]
-tags: ["reading", "speed-reading", "app", "english", "chinese"]
+categories: ["工具"]
+tags: ["阅读", "速读", "应用", "英语", "中文"]
 subtitle: "去掉速读迷信，只留经过验证、真正能迁移的技术"
 description: "想把英文、中文读得更快又不丢理解？这款免费可安装的阅读 App 不搞一万 WPM 之类的速读迷信，而是训练词汇自动化和以理解为闸门的阅读速率。"
 image: /images/reading-trainer-card.svg
+reviewStatus: "done"
 ---
+
 <div class="appcard">
   <img class="appcard__icon" src="/images/reading-trainer-card.svg" alt="ReadFast 阅读训练应用图标">
   <div class="appcard__body">

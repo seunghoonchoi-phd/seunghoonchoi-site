@@ -6,6 +6,7 @@ tags: ["AI生产力","执行环境摩擦","VDI虚拟桌面","上班族用AI","AI
 subtitle: "会用AI，和用AI快速做出成果，是两码事。上班族真正的敌人不是会议也不是上司，而是把“做和验证”这一圈拉长的执行环境摩擦。"
 seoTitle: "上班族用AI却没产出的原因：执行环境摩擦与VDI"
 image: /images/col-execution-friction.jpg
+reviewStatus: "done"
 ---
 
 ![书桌上乱成一团、缠在一起的电脑线缆和电线](/images/col-execution-friction.jpg)

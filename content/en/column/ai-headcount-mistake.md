@@ -1,101 +1,120 @@
 ---
-title: "\"We Bought AI, So Let's Cut People.\" That One Line Wrecks a Company"
+title: "If You Cut People Because AI Does the Work, the Company Gets Slower: The Context Only Social Animals Know"
 date: 2026-06-21T17:56:30+09:00
 categories: ["AI"]
-tags: ["AI adoption","organizational design","workforce planning","productivity","automation","leadership"]
-subtitle: "\"We adopted AI\" and \"we can cut people\" are two completely different sentences. The moment you glue them together, productivity doesn't rise. The organization's load just goes into hiding."
-seoTitle: "Why Cutting Staff After Adopting AI Fails, and the Right Order to Do It"
+tags: ["AI adoption","headcount cuts","organization operations","AI review","productivity","leadership"]
+subtitle: "Even when AI creates outputs, review, responsibility, and political context judgment remain human work. Headcount cuts should be the final question after pilots and measurement."
+seoTitle: "Why Cutting People After AI Adoption Makes Companies Slower"
 image: /images/col-ai-headcount-mistake.jpg
+reviewStatus: "done"
 ---
 
-![A row of empty office chairs lined up at desks in an office lit by soft morning daylight](/images/col-ai-headcount-mistake.jpg)
+![Empty chairs lined up at desks in an office lit by morning sun](/images/col-ai-headcount-mistake.jpg)
 
-## "How many can we cut?" That question is already wrong
+When a company adopts AI tools, one sentence almost always appears: "So how many people can we cut now?" On the surface, it sounds reasonable. AI writes reports, organizes minutes, researches material, writes code, and drafts plans. Some work is genuinely faster than humans.
 
-There's a scene that plays out in meeting rooms every time. Someone pays for a new AI tool. A month later, a voice from above asks: "So how many people can we cut now?"
+The problem is not that AI cannot work. It is the opposite. AI can do more than people expect. But company work does not end when an output appears. Someone has to check whether the result can actually be used, who can take responsibility, and whether it fits the organization's political and practical context. If you cut people before seeing that stage, the company does not get faster. It gets slower.
 
-It sounds reasonable. The tool does the work for you, so fewer hands are needed. That's the math.
+## Even when AI works, responsibility and context remain
 
-But this math quietly skips a step. "We bought AI" and "we can cut people" are completely different sentences. The first one being true does not make the second one true on its own. The moment you read them as a single sentence, the organization starts to crack where no one is looking.
+AI can create a large part of the output for a role. It writes reports, analyzes, makes slides, and codes. It will do more. But in a company, the important question is not only "can it make this?"
 
-Today I want to unpack what's hiding between those two sentences, and why walking them in the wrong order breaks a company.
+Can this report go up at this timing? Can this number be interpreted this way? How will a customer receive this sentence? Will another department push back if we use this expression? Is there anything legal will object to? Does it match the direction the senior person actually wants?
 
-## AI only takes one slice of the writing
+These are not simple writing problems. They are questions of whether an output can survive inside a real organization. AI can make the output. A person has to judge whether that output can live inside the company.
 
-Let's break a common misunderstanding first. The picture of AI carrying off a whole person's job is almost always wrong. What AI shrinks is not the job. It's one slice among the many tasks packed inside that job.
+## Why drafts got faster but work did not shrink
 
-Take a single report. On the surface, it's just writing. But in the head of the person actually making it, far more is running at the same time. They line up numbers that each department counted differently. They pick a tone that won't make the higher-ups uncomfortable. They find the line that legal, finance, and quality can all agree on. They check that nothing clashes with a decision the company made last year. They even gauge how a sentence will read to a customer.
+"AI can write the draft." That is true. Simple drafts, summaries, formatting, and repeated documentation really do shrink. There is no need to deny that. But a fast draft does not mean the work is finished.
 
-AI is good at one part of this: pulling out the sentences fast. Really good. But who is responsible for what, how that structure works, it cannot sort out. The map of responsibility is still a human job.
+Someone has to read that draft. They have to catch wrong numbers, add missing conditions, rewrite it in the company's internal language, check whether it can be sent to customers, and look for security or legal issues.
 
-## "AI writes the draft" just adds more work
+The more important thing is context.
 
-So "AI handles the drafts now" does not mean the same thing as "we can cut the person who wrote drafts."
+An AI-written sentence may be correct by itself, but wrong in the current organizational situation. A claim may be true, but not something to raise right now. The number may be right, but the interpretation may be risky. A proposal may be good, but budget, authority, schedule, or interests may make execution impossible.
 
-The honest translation goes like this: "AI pulls out the draft fast, so now we need someone to prepare the inputs, catch what's wrong, and adjust it to fit the context."
+An AI-created document is not just an output. It is an output that must be reviewed before it enters reality.
 
-Early on, work actually goes up. New tasks line up one after another.
+## In company work, political context often matters more than being correct
 
-- The verification work of checking whether AI's output is correct
-- The work of designing questions to pull out the answer you want
-- The work of organizing the data you feed the AI
-- The work of rebuilding old procedures to fit the AI
+Companies do not run on correct answers alone. A logically right point can fail in a meeting. A number can be correct, but the report can be rejected if the reporting order is wrong. A proposal may benefit customers, but stop if responsibility between internal departments is not settled. These days AI hallucinates obvious made-up facts less often than before. But companies often face a more ambiguous and dangerous problem.
 
-One tool came in, and the kinds of work a person has to do went up. Miss this and cut people first, and the work keeps rolling with no one left to take on the tasks that just appeared.
+On the document, the logic looks perfect. The numbers are right, the sentences are natural, and the conclusion seems plausible. But it does not fit the actual company process. The reporting order may be wrong, an approver may be missing, it may repeat an approach that failed before, or it may rest on an assumption a certain department will never accept.
 
-## When these four overlap, the organization collapses
+These errors are harder to catch than simple factual errors. The problem is not that AI said something false. It is that AI made a document that looks true without knowing enough reality. So review is not merely catching typos or hallucinations. It is checking whether the document can actually move inside the organization.
 
-There's a fixed combination that wrecks an organization. When these four overlap, you get nearly the same result every time.
+That is why company work carries political and practical context. Who will dislike this proposal, who must take responsibility, how much should be said, what should not be said now, and which wording will make the other side defensive. These things are not all written in the document. AI is very good inside the information it is given. But it does not automatically know organizational tact, responsibility structure, implicit taboos, and authority relationships.
 
-- A decision-maker who doesn't really understand AI
-- Pressure to cut costs
-- A mood that thins out the middle layer
-- The habit of shoving everything onto the people who remain with "just use AI now"
+In the end, a person has to look. Not only whether the output is correct, but whether it can be used here and now.
 
-On the outside, it looks convincing. Inside and outside the company, people say, "We pulled off an AI transformation too." But what happens inside is different. The same amount of work gets pushed onto fewer people. And on top of that, the new work of verifying and organizing gets piled on. It wears the label of transformation, but in practice it's closer to cramming the load onto a handful of people.
+## If you cut people, the reviewers disappear
 
-Here's the scary part. For a while, the numbers look fine. Output even goes up. So leadership believes it worked.
+The most dangerous misunderstanding after AI adoption is this: "AI made it, so we need fewer people." Often the opposite is true. The more AI creates, the more important reviewers become. More outputs mean more things to check.
 
-## Cut too fast, and it blows up as a quality accident
+The problem is that companies usually move the other way. They adopt AI, reduce people, and ask the remaining people to review more AI outputs. Then the remaining people no longer do their own work. They become cleanup workers for AI outputs. Seniors who should be looking at strategy become draft editors. Mid-level operators who know the organizational context spend their time removing risky sentences from every document. On the surface, documents increase. Meeting materials arrive quickly. Inside, the number of people who can take responsibility shrinks.
 
-Cut people in a hurry, and a few months later the same thing quietly repeats.
+As this gap grows, quality failures happen.
 
-The people left spend their time inspecting what the AI spat out instead of doing their own work. The juniors who handled the groundwork are gone, so no one builds the base. The seniors who should be watching strategy slump into proofreaders polishing AI drafts. With fewer people who know the company's real context, the AI's output keeps missing the point.
+## Organizational overload does not disappear. It hides.
 
-In the end, the volume of output went up, but the number of people who can take responsibility for it went down. The wider that gap grows, the more quality accidents follow. A lot comes out fast, but there aren't enough people to catch what's wrong as wrong.
+A company that adopts AI badly can look good for a while.
 
-This is not productivity rising. It's just the organization's load hidden from view for a moment. Hidden load eventually gets billed all at once, in the shape of an accident.
+Documents come out quickly. Summaries multiply. Minutes pile up automatically. Costs seem lower. Leadership feels that the AI transition succeeded.
 
-## Put cuts at the very end, not the front
+But in reality, the work may not have disappeared. It may have moved into invisible places.
 
-So what should you do? The key is order. Don't put the decision to cut people at the front. Push it to the very end.
+Someone is rereading at night. Someone is fixing wrong numbers. Someone is clearing out plausible nonsense AI produced. Someone is changing sentences that no one can take responsibility for into sentences someone can take responsibility for. Someone is judging, "This is true, but we cannot say it now."
 
-1. Break the work into task units. Don't lump a job together. Spread out the tasks inside it.
-2. Ask of each task: can AI take this, or does it still need human verification?
-3. Ask the more important question: who takes on the work AI newly created, that is, verifying, organizing data, and combining several outputs?
-4. Before you decide, run a short pilot. This is the heart of it. Measure in numbers how much the processing time actually dropped and what the error rate is. Only then do you calculate "so how much can we cut."
-5. Finally, check whether the remaining people's work really got lighter, or just got more complicated in kind.
+This work does not show up well in tables. Token cost is visible, but the time a person spends rereading is not. The number of outputs is visible, but review burden is not. So the company mistakes it for lower cost. But hidden load does not disappear. Eventually it returns as quality failures, schedule delays, and employee burnout.
 
-Keep this order, and cutting becomes the result of measurement, not a guess.
+## Headcount cuts break feedback
 
-## "Give me two weeks to test it" wins
+The frightening thing about headcount cuts is that feedback stops rising honestly. If a new tool is uncomfortable, employees can say it is uncomfortable. If a new process is inefficient, they can raise some objections. But saying that a headcount cut was wrong is much harder. "We do not have enough people" can easily sound to the CEO like "so you cannot handle your work?" The remaining employees worry that they will be next. So even when work is actually breaking, the words that move upward become softer.
 
-The more tenure you have, the easier it is to take the wrong position in this shift.
+On the surface, work continues. Documents come out, meetings happen, and customers are answered. So leadership feels things are going well. But inside, review time moves into the night, responsibility piles onto specific people, small errors accumulate, and employees wear down silently. That is why headcount cuts should not be the question thrown at the beginning. First run a pilot, check how work actually changes, and complete the new AI-involved work structure conceptually. Only then ask the final question.
 
-The most common mistake is to stand here: "AI, yeah, it doesn't really work." You think it's a careful opinion. But leadership reads it as conservative resistance to change. This position is dangerous.
+"Can we really reduce people now?" Headcount cuts should be the last question, not the starting point.
 
-There's an opposite position. The person who says this:
+## If you cut the middle, the company's memory disappears
 
-> "Let me separate the tasks AI can shrink from the ones it can't. Give me just two weeks to run a pilot, measure the time, the errors, and the verification burden, and I'll come back with the range we can safely cut."
+When companies reduce people, they often touch the middle. Juniors are cut because they are not yet mature, and seniors are cut because they are expensive. The people left are told, "Just use AI." But much of the company's real memory sits in that middle layer.
 
-This person is not an objector. They become the one holding the wheel of the AI transition. It's the strongest position in the room.
+Where numbers often go wrong, which department is sensitive to which wording, which customer dislikes which phrase, and which past decision caused trouble. These things are not perfectly written down. AI reads organized documents well. But it does not easily know the tacit knowledge that flows between people inside the company. Someone has to know that context so AI outputs can be corrected to fit reality. Cut the middle layer and that memory disappears too. Then AI outputs miss the point more often, and the people left spend more time fixing them.
 
-Same caution, but the first position gets pushed aside and the second sits at the center. The difference isn't attitude. It's the shape of the proposal.
+The company thinks it lowered cost by reducing people, but in reality it sold off its memory.
 
-## The eye to see where AI fits and where people stay
+## Headcount cuts belong at the end, not the front
 
-To sum up: the fact that you bought AI and the judgment that you can cut people are separate things. Between them sits a whole process of breaking work into tasks, deciding who takes on the newly created work, and actually measuring it. Skip that process and productivity doesn't rise. The load just hides.
+If you want to adopt AI and reduce people, change the order. Headcount cuts should be the last calculation, not the first question. First break work apart. Do not look at a person's job as one lump. Divide the tasks inside it. Then ask:
 
-So the real skill of this era is not the ability to cut people fast with AI. It's the eye to see exactly where AI fits and where people absolutely must stay. That's the skill.
+Can AI create this task? Who reviews the AI-created result? Who is responsible for this result?
 
-Buying a tool ends with one payment. Knowing where to fit that tool in is something only a person can do.
+What context judgment is needed for it to pass inside the organization? Who takes on the new review and coordination work AI creates? Then actually run it. Test small for two or four weeks. Measure how much processing time fell, how many errors appeared, and how much review time increased.
+
+Only then can you judge. "Did the work really shrink?" "Or did creation time shrink while review and responsibility moved to someone else?"
+
+A headcount cut that cannot answer these questions is not cost reduction. It is a gamble.
+
+## Leaders who handle AI transition well do not ask headcount first
+
+A good leader does not start by asking, "How many can we cut?" They ask first: "Which tasks shrank?"
+
+"Which review work increased?" "Where do errors appear?" "Who can take responsibility?"
+
+"Do we still have enough people who can read organizational context?" "Did the work of the remaining people really get lighter?" These questions are what make AI adoption run properly.
+
+AI is a tool for changing work structure before it is a cost-cutting tool. If you reduce people without changing the structure, the load concentrates in what remains. The company does not get faster. It creates more bottlenecks.
+
+## Employees should become measurers, not objectors
+
+Employees also need to take the right position. If you only say, "AI does not work," that is dangerous. Even if it is true, you can look like someone opposing change. The stronger person says this:
+
+"I will separate the tasks AI can create from the tasks people must review. Give me two weeks to test processing time, error rate, review burden, and responsibility. Then I will calculate the range we can safely reduce." This person is not an objector. They are the person driving the AI transition. In the AI era, the important person is neither someone who worships AI unconditionally nor someone who blocks it unconditionally. It is the person who distinguishes how far AI can be trusted and where people must take responsibility.
+
+## Real work does not disappear. It moves to review and responsibility.
+
+There is work AI removes. Simple drafts, summaries, formatting, and repeated documentation clearly shrink. That is why AI adoption matters. But you should not immediately translate that into "we can reduce people." Even if creation time shrinks, review remains human work. Even if draft time shrinks, responsibility remains human work. Even if research time shrinks, matching organizational context remains human work.
+
+Real work does not disappear. It moves to review and responsibility. If you reduce people before seeing that movement, the company does not get faster. It gets slower. Outputs increase but review backs up. Documents multiply but decisions slow down. Costs seem lower, but accident risk grows. The purpose of AI adoption is not to reduce people quickly. It is to redesign the work people were doing.
+
+Buying a tool is easy. Cutting people is easy too. The hard part is accounting for the responsibility and context left between them.

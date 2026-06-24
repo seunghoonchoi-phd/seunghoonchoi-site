@@ -2,7 +2,8 @@
 title: "ما يبقى"
 date: 2026-06-15
 categories: ["شعر"]
-tags: ["نجمة"]
+tags: ["نجوم"]
+reviewStatus: "done"
 ---
 
 ![قطرات المطر على النافذة](/images/lit-remains.jpg)

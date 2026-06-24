@@ -2,7 +2,8 @@
 title: "Lo que queda"
 date: 2026-06-15
 categories: ["Poesía"]
-tags: ["Estrellas"]
+tags: ["estrellas"]
+reviewStatus: "done"
 ---
 
 ![Gotas de lluvia sobre una ventana](/images/lit-remains.jpg)

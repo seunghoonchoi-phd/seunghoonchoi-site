@@ -2,11 +2,12 @@
 title: "सूखी और गीली त्वचा पर EMG नियंत्रण के लिए ऑक्टोपस से प्रेरित चिपकने वाला इलेक्ट्रोड — IJIBC"
 date: 2026-02-28
 categories: ["शोध पत्र"]
-tags: ["जैव-अनुकरण", "इलेक्ट्रोड", "EMG", "पहनने योग्य उपकरण", "जैव-संकेत"]
+tags: ["जैव-अनुकरण", "इलेक्ट्रोड", "EMG", "पहनने योग्य", "जैव-संकेत"]
 doi: "10.7236/IJIBC.2026.18.1.274"
 articleTitle: "Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions"
 journal: "International Journal of Internet, Broadcasting and Communication"
 pubyear: 2026
+reviewStatus: "done"
 ---
 ![सूखी और गीली त्वचा पर स्थिर EMG आधारित रोबोट नियंत्रण के लिए ऑक्टोपस से प्रेरित चिपकने वाला इलेक्ट्रोड](/images/octopus-emg-electrode.jpg)
 

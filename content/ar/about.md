@@ -1,5 +1,6 @@
 ---
 title: "نبذة"
+reviewStatus: "done"
 ---
 <figure class="about-portrait">
   <img src="/images/about-portrait.jpg" alt="سيونغ هون تشوي" width="820" height="1093" loading="eager">

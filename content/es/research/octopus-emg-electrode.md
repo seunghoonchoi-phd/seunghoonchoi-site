@@ -2,11 +2,12 @@
 title: "Electrodo adhesivo inspirado en el pulpo para control por EMG en piel seca y húmeda — IJIBC"
 date: 2026-02-28
 categories: ["Artículo"]
-tags: ["Biomimética", "Electrodo", "EMG", "Wearable", "Señales biológicas"]
+tags: ["biomimética", "electrodo", "EMG", "wearable", "señales biológicas"]
 doi: "10.7236/IJIBC.2026.18.1.274"
 articleTitle: "Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions"
 journal: "International Journal of Internet, Broadcasting and Communication"
 pubyear: 2026
+reviewStatus: "done"
 ---
 ![Electrodo adhesivo inspirado en el pulpo para un control robótico estable basado en EMG en piel seca y húmeda](/images/octopus-emg-electrode.jpg)
 

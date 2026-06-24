@@ -7,6 +7,7 @@ tags: ["本事","竞争力","AI时代","隐性知识","失败的价值"]
 subtitle: "真正的秘密不在方法里，而在让这个方法转得起来的那些藏起来的条件里"
 seoTitle: "隐性知识为什么是AI时代真正的护城河：抄不走的本事"
 image: /images/col-trade-secret-function.jpg
+reviewStatus: "done"
 ---
 
 ![陶艺人在转盘上揉捏湿泥的双手，指尖一丝细微的压力，决定了成败的那一刻](/images/col-trade-secret-function.jpg)

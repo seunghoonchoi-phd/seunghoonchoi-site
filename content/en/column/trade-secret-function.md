@@ -7,6 +7,7 @@ tags: ["know-how","competitive moat","AI era","tacit knowledge","value of failur
 subtitle: "The real secret isn't the method. It's the hidden conditions that make the method actually work."
 seoTitle: "Why Tacit Knowledge Is the Real Moat in the AI Era: Know-How That Can't Be Copied"
 image: /images/col-trade-secret-function.jpg
+reviewStatus: "done"
 ---
 
 ![A potter's hands shaping wet clay on the spinning wheel, the tiny pressure of the fingertips deciding the result](/images/col-trade-secret-function.jpg)

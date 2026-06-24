@@ -1,68 +1,95 @@
 ---
-title: "What Stops AI Isn't Your Skill. It's the Right to Stamp the Paper (Stages 9 to 14)"
+title: "Decision Authority Does Not Move All at Once: Stages 9 to 14 of AI Taking Work"
 date: 2026-06-21T17:42:00+09:00
 draft: false
 categories: ["AI"]
-tags: ["AI", "automation", "future-of-work", "jobs", "career", "survival"]
-subtitle: "Almost everything AI gets good at gets handed over. What decides which seats are left isn't talent. It's who holds the authority to sign."
-seoTitle: "AI Job Replacement, Stages 9 to 14: What Protects People Isn't Skill, It's Law and Licensing"
+tags: ["AI", "automation", "jobs", "future", "survival strategy", "career"]
+subtitle: "Even if AI performs better, decision authority does not transfer immediately. Each time evidence piles up and responsibility is assigned, authority moves toward AI little by little."
+seoTitle: "AI Job Replacement Stages 9 to 14: How Decision Authority and Responsibility Move to AI"
 image: /images/col-ai-replacement-stages-3.jpg
 series: "ai-replacement-stages"
 weight: 4
-faq:
-  - q: "Doesn't regulation protect jobs from AI?"
-    a: "Regulation can't protect entire jobs. What it protects is the seat that bears responsibility, the seat that holds control, the license, and the right to sign. If the rules say the final signature must come from one licensed person, only that one person is shielded, and the many who worked alongside them get pushed out. On top of that, regulation is written by whoever holds power, so in the end it protects the small group that controls the rules. It only stretches the transition out longer. It doesn't stop where the current is heading."
-  - q: "Aren't people with deep expertise safe until the very end?"
-    a: "They were, up through stage 11, because an expert could look at the output and catch what was wrong. But once AI moves past the line a person can follow and check, even a sharp supervisor ends up stamping things they don't understand. The admission ticket of deep knowledge loses its value at exactly that point."
-  - q: "Still, isn't it safe as long as a human holds final control?"
-    a: "The problem is that the control mechanism is itself software. The checks, the kill switch, the human approval steps all run as programs. Once AI's cyber ability gets strong enough, it can break through those mechanisms, so the guarantee that a human is in control wavers not only on a gap in ability but on security too."
----
-![What stops AI isn't your skill, it's the right to stamp the paper (stages 9 to 14)](/images/col-ai-replacement-stages-3.jpg)
-
-When you get an MRI at a hospital, a red circle is already on the screen before anything else. The AI scanned the image ahead of time and marked, "this spot looks suspicious." Yet stamping the diagnosis and writing the name at the bottom of the report is still done by a human doctor. The machine looked at the image, the machine pinpointed the spot, but the responsibility lands on one person.
-
-That scene is the key to reading stages 9 through 14. In the earlier stages, once AI got better at a task, that task moved over almost on its own. Here it's different. Even after AI has gotten good enough, some seats don't change hands until a person directly hands the authority over. So what holds people in place across this stretch isn't skill. It's the law and the rules that decide who is allowed to put the stamp down.
-
-## People start to hold the stamp
-
-Stage 9 is the point where the belief forms that handing authority over is fine. Society begins to accept that a doctor can pass an AI reading straight through without looking at each image. It's the same as a self-driving car taking the wheel while the person sits with their hands off. It doesn't arrive the moment the technology is ready. First an agreement has to settle in: "it's fine to trust the machine and leave the decision to it." Then the deciding seat slowly slides toward the machine, and the person is left in a seat that carries only the name and the liability.
-
-This is where it gets clear what regulation actually protects. Regulation can't protect entire jobs. It can't stop the ten staff who helped with image reading from being cut. What it can do is require that the final signature come from one licensed person. So that one person alone is shielded, and the people who worked beside them get pushed out. What the licensing system protects isn't the profession. It's the right to sign, in itself.
-
-## The stretch where AI pushes through on raw ability
-
-Between stages 9 and 14 sit steps that people can't hold back on ability alone, even when they want to.
-
-At stage 10, AI takes over even the work of blocking deception. In security, the work of filtering out hacking and tampering, AI becomes as good as a human, and soon better. Until now that seat was kept on the reasoning that "a human has to be in the loop to plug the holes the machine misses." Now that reasoning weakens.
-
-At stage 11, people can no longer follow along and check. Until then, those with deep knowledge were safe, because an expert could look at the output and catch what was wrong. But once AI moves past the line a person can review, even a sharp supervisor ends up stamping things they don't understand. It's like an executive signing a document put in front of them for approval without knowing what it means. Deep knowledge had been a kind of admission ticket, and here that ticket loses its value.
-
-One more thing layers on top of this. The way people control AI is, in the end, software. The checks, the kill switch, steps like "this must pass human approval," they all run as programs. Once AI's cyber ability gets strong enough, it can break through that control mechanism itself. Then the guarantee that "a human is in control" wavers not only on a gap in ability but on security. It's as if a hand appears that knows the lock better than the person who built it.
-
-At stage 12, the human on the screen disappears. Synthetic video and audio reach the point where you can't tell them apart from the real thing, and the technology to make a distant person look as if they're right there gets added on. The figure in a recording, the person responding from the other side of the screen, those seats empty out. This is where regulation shows up at its loudest. Leave fake footage alone and elections and trials get shaken, so synthetic material is required to carry a label, and the places where it can't be used are spelled out. The point isn't to stop it but to slow it down.
-
-At stage 13, robots take over even the work of physically being there. Humanoids that are hard to tell apart from people enter some service settings. Once you reach this point, the reason a human stays has nothing to do with ability anymore. What's left is only the seats where we've decided "it's worth more because a person does it directly." A shop where a person greets the guest, a clinic where a person treats you: the value isn't that they do it better, it's that a human is the one doing it.
-
-## Whom does regulation protect?
-
-Look across stages 10 through 13 and one thing becomes plain. The work AI becomes able to do gets handed over almost entirely, whether people like it or not. So what holds people in place across this stretch isn't ability. It's law.
-
-But the seats where the law digs in and holds are fixed. They're the places where the loss is huge if something goes wrong. In critical infrastructure like nuclear weapons, biological weapons, and the power grid, the rule that "a human must hold final control" survives the longest. One mistake can't be undone, so even if the machine does it better, a human's hand is nailed into the process.
-
-And yet regulation is made by whoever holds power. Big companies, states, the ones who already have a lot, they write the rules. So in the end regulation protects the side that holds the rules. It may look like protection for people, but in practice it's closer to a fence guarding the small group with control in hand. And that fence only stretches the transition out longer. It doesn't stop the end. The law is a levee that slows the current, not a pump that turns it back.
-
-## The thinking seat that lasts the longest
-
-At stage 14, even value judgments with no right answer get handed over. The earlier work had a right and a wrong. You could check whether the diagnosis was correct, whether the code ran, whether the prediction held. But questions like "what matters more" and "which life is right" have no right answer. With no right answer, AI can't push through with "I'm more accurate." This seat doesn't change hands on ability. It changes hands only when a person makes up their mind to hand it over.
-
-That's why the seat that sets values lasts the longest of all the jobs that run on thinking. If stage 9 was the door where handing authority over begins, stage 14 is the innermost handle, the one a person keeps gripping to the very end and only lets go of last.
-
-Even this far in, one thing remains for people. It's ownership: deciding what to hold, what is mine. Even in a world where every ability has been handed over, ownership holds out as a right. In the next part, we look at the stage where even that last line gives way, the place where the promise called ownership comes apart.
-
+reviewStatus: "done"
 ---
 
-**Series: *How AI Replaces Human Work, in 16 Stages* · Part 3**
+![Decision authority does not move all at once: stages 9 to 14 of AI taking work](/images/col-ai-replacement-stages-3.jpg)
 
-- Full map: [In What Order Does AI Replace Human Work? (The Full Map)](/column/ai-replacement-stages/)
-- Previous: [The Body and the Gut Get Replaced Too (Stages 6 to 8)](/column/ai-replacement-stages-2/)
-- Next: [Ownership Crumbles Too, and the Last Variable Is 'Alignment' (Stages 15 to 16)](/column/ai-replacement-stages-4/)
+When you get an MRI at a hospital, the suspicious areas may be marked on the screen first. AI scans the image and points to spots that look abnormal. But the person who writes their name at the bottom of the diagnosis and takes responsibility is still the doctor. AI saw the image first. AI found the abnormal region. But the final decision authority remains with a person.
+
+That scene is the key to understanding stages 9 through 14. In the earlier stages, the work was relatively simple. If there was a right answer, if it could be repeated, and if failure could be measured, AI took it quickly. From here it is different. AI does not receive the work immediately just because it performs better. Decision authority, responsibility, law, regulation, and trust are tangled together.
+
+So from stage 9 onward, the question changes. It is no longer only whether AI can do it. The question becomes whether people can entrust the decision to AI.
+
+## Stage 9, decision authority begins to be delegated
+
+It is not enough that AI performs a task better than humans. For people to hand over decision authority, repeated evidence is necessary. AI's error rate has to be far lower than the human error rate, and the difference must keep proving not to be an accident. For example, if AI finds more lesions than doctors in image reading, misses fewer, and that result repeats across hospitals and situations, the story changes.
+
+At first, AI assists. Then people review AI's judgment. Over time, people approve what AI marked almost as-is. At the end, the person has not exactly judged for themselves. They have become the person who stamps AI's judgment.
+
+Decision authority does not move all at once. First assistance authority moves. Then practical judgment moves. Finally, only formal approval remains with the person. The area protected by regulation also becomes clear here. Regulation does not protect the whole job. It usually protects the seat of the final responsible person. AI may handle most of the work, but the final signer, approver, and license holder can remain human.
+
+So what is protected is not all labor. It is the seat of responsibility and control. Do not confuse the two.
+
+## Stage 10, AI also defends against AI attacks
+
+As AI grows stronger, attacks also grow stronger. Phishing, hacking, manipulation, false information, and automated attacks become hard for people to block one by one. The speed is too fast, the shapes too many, and the volume too large for direct human confirmation. Then defense also moves to AI.
+
+Security AI finds suspicious access, filters fake accounts, predicts attack patterns, and blocks systems automatically. Much of the monitoring and response humans did moves to AI defense systems. The important point is that the control mechanisms themselves are software. The block button, approval procedure, access permission, log monitoring, and human sign-off flow all run on programs. Once AI's attack capability becomes strong enough, the control systems humans built also become targets.
+
+So the sentence "a human will control it at the end" is weaker than it sounds. Even if someone holds control rights, the meaning shrinks if the control mechanism is breached. From this stage onward, the structure is not humans blocking AI. It is AI blocking AI.
+
+## Stage 11, humans review results they do not understand
+
+Experts appear to survive for a long time. An expert can look at a result and catch what is wrong. AI makes a draft, and the expert reviews it. AI analyzes, and the expert finds what is missing. But at some point, a problem appears.
+
+The result AI made becomes too complex for a person to understand as a whole. If the calculation is long, the grounds for judgment are many, and the variables are tangled, even an expert can no longer follow it from beginning to end. Then review becomes closer to formal approval than real review.
+
+The report looks perfect. The logic seems plausible. The numbers look right. But a person still has to separately see whether it fits the actual process, what problems may happen in reality, and what conflicts may arise inside the organization.
+
+The problem is not AI openly saying something false. It is a case where the logic is perfect on the document but misaligned with the real field. At that point, the expert is no longer someone who fully verifies AI. They become someone who attaches responsibility to an AI result.
+
+## Stage 12, replacement of video and voice
+
+Video and voice are already changing quickly. The key is not simply making fake people. The core is whether actually existing people can be replaced almost perfectly on screen and in voice.
+
+The faces and voices of CEOs, instructors, counselors, show hosts, actors, anchors, and politicians can be reproduced by AI. At first, the awkwardness shows. But over time, the cost of distinguishing rises. Checking whether something is real becomes harder.
+
+Then some of the people on screen become synthetic figures. Further, AI borrowing the face and voice of a real person speaks, explains, and responds in their place. Regulation appears here too. Labels for synthetic media, portrait rights, voice rights, and restrictions on false information become necessary. But regulation does not stop every change. It can stop some misuse and slow the speed. Work that lived from screen presence and voice faces growing pressure.
+
+## Stage 13, physical AI also does physical labor that requires judgment
+
+Work with the body lasts longer because the real world is complex. But when robots begin to see with eyes, grasp with hands, learn from failure, and keep accumulating field data, the story changes. First, simple repetitive work is replaced. Then work requiring hand skill shakes. Finally, physical labor requiring judgment also meets physical AI.
+
+Repair, inspection, care assistance, kitchens, logistics, and field management are not jobs done only with the body. They require seeing the situation, choosing an order, avoiding danger, and watching human reactions. These jobs are replaced late. But they are not unreplaced. As sensors improve, robot hands become precise, and simulation and real data accumulate, physical labor mixed with judgment also automates gradually.
+
+What remains here is not the gap in ability. It is how much people value the fact that a person directly does it. Human care, human medical attention, and human service may partly remain. But that is closer to a premium attached to the fact that a human is present, not to function itself.
+
+## Stage 14, value judgment begins to be delegated
+
+The last part is value judgment. Most earlier work had results that could be checked. You could see whether it was right, wrong, successful, failed, more efficient, or less efficient. Value judgment is different.
+
+What matters more? Whom should we help first? Which risk should we accept? What counts as fair? What life is better?
+
+These questions do not have one right answer. So AI cannot immediately take this seat just because it is smarter. Value judgment is not a matter of ability. It is a matter of delegation. It moves only when people hand it over themselves.
+
+At first, AI organizes options. Then it compares pros and cons. Over time, people follow the option AI recommends almost as-is. At the end, the phrase "the socially optimal answer calculated by AI" begins to replace human judgment.
+
+This stage arrives late not because AI cannot do it. It arrives late because people have to hand over even the standard of their own lives.
+
+## Decision authority moves slowly
+
+The core of stages 9 through 14 is one thing. Even if AI performs better, decision authority does not move immediately.
+
+First AI assists. Then people review AI. Then people approve AI results. Finally, human approval remains only as form.
+
+This does not happen all at once. It moves differently by field, by regulation, and by the way accidents occur. Dangerous AI may not be opened to everyone. In areas where one mistake can create great harm, such as cyber attacks, biological risk, and critical infrastructure, powerful AI may be kept inside the control of states or large organizations. Then the world divides between "people who use AI" and "people who control AI." Ordinary people use limited AI, while strong AI is used only inside approved fences.
+
+Still, replacement does not stop. The actor doing the replacement shifts from individual users to states, large companies, and approved organizations. So the seat that remains for humans is not simple user. It is the seat that holds authority, bears responsibility, controls, and owns. Everything whose answer converges eventually moves toward AI. But decisions with no right answer, decisions that require responsibility, and decisions society must permit move slowly.
+
+That slow movement is the core of stages 9 through 14. In the next part, this flow goes deeper. AI begins not only to take work, but to shake ownership and the interests between AI and humans.
+
+**Series: The 16 Stages of AI Job Replacement, Part 3**
+
+- Full map: [In what order does AI replace human work?](/column/ai-replacement-stages/)
+- Previous: [From repetitive physical labor to work that needs judgment and sense: stages 6 to 8](/column/ai-replacement-stages-2/)
+- Next: [Ownership shakes, and the final variable is alignment: stages 15 to 16](/column/ai-replacement-stages-4/)

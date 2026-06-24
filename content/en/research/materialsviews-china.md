@@ -1,8 +1,9 @@
 ---
 title: "Research Featured in Chinese on MaterialsViewsChina"
 date: 2019-12-15
-categories: ["News"]
+categories: ["Recognition"]
 tags: ["sensors"]
+reviewStatus: "done"
 ---
 ![MaterialsViewsChina feature](/images/materialsviews.png)
 

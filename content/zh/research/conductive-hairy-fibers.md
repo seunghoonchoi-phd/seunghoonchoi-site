@@ -2,13 +2,14 @@
 title: "入选《Advanced Functional Materials》封底"
 seoTitle: "导电纤毛纤维多模态传感器 — 入选 AFM 封底的研究"
 date: 2019-12-10
-categories: ["Recognition"]
-tags: ["sensors", "AFM"]
+categories: ["获奖·消息"]
+tags: ["传感器", "AFM"]
 subtitle: "Adv. Funct. Mater. 50/2019"
 doi: "10.1002/adfm.201905808"
 articleTitle: "Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor, VR Applications"
 journal: "Advanced Functional Materials"
 pubyear: 2019
+reviewStatus: "done"
 ---
 ![Advanced Functional Materials — Back Cover](/images/afm-backcover.jpeg)
 
