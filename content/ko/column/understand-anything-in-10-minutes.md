@@ -6,6 +6,8 @@ categories: ["에세이"]
 tags: ["공부법", "학습법", "메타인지", "개념 이해", "ai"]
 subtitle: "요약은 남이 씹어준 밥이다. 이해는 내가 직접 짠 뼈대여야 한다."
 description: "낯선 개념·논문·회의를 10분에 장악하는 9칸 템플릿. 요약 대신 본질·원리·경계로 분해하고 확인할 질문으로 끝낸다. 바로 쓰는 프롬프트 포함."
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![청사진 위에서 구조를 그리는 손, 요약이 아니라 구조를 짓는다](/images/col-understand.jpg)

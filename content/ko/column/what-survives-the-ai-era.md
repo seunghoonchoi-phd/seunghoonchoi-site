@@ -6,6 +6,8 @@ categories: ["AI"]
 tags: ["ai", "agi", "커리어", "생존전략", "일자리"]
 subtitle: "AI 시대에 살아남는 사람은 더 똑똑한 사람이 아니다"
 description: "AGI가 와도 인간에게 남는 건 지능 경쟁이 아니라 현실 연결이다. AI 시대 살아남는 직업과 생존 전략을 일자리 마찰 구조로 풀었다."
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![나무를 손으로 깎는 장인. AI가 흉내 못 내는 인간의 실재성](/images/col-ai-human-craft.jpg)
