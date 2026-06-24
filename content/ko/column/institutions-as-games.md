@@ -7,6 +7,8 @@ tags: ["인센티브","제도","조직심리","의사결정","사회구조"]
 subtitle: "법도 회사도 시장도 진실을 찾는 기계가 아니다. 사람을 길들이는 장치다."
 seoTitle: "인센티브 구조 읽는 법: 사람보다 보상·벌칙을 먼저 봐라"
 image: /images/col-institutions-as-games.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![동트기 전 상인이 오기 전 텅 빈 야외 시장 좌판들](/images/col-institutions-as-games.jpg)
