@@ -6,6 +6,8 @@ date: 2026-06-17T15:00:00+09:00
 categories: ["정착"]
 tags: ["SSN","은행계좌","운전면허","신용점수","미국정착"]
 subtitle: "휴대폰부터 은행, SSN, 플로리다 면허(한국 상호인정), 신용 쌓기까지 — 순서대로 따라가는 도착 직후 행정 체크리스트"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Moving boxes and luggage at a new place](/images/uf3-arrival.jpg)
