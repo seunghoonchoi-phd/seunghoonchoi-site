@@ -6,6 +6,8 @@ date: 2026-06-17T13:00:00+09:00
 categories: ["Life in the US"]
 tags: ["Gainesville","housing","healthcare","student life"]
 subtitle: "美国研究生留学落地指南 第五部——UF 城市生活的方方面面"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Sunny university campus](/images/uf5-life.jpg)
