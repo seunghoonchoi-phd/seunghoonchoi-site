@@ -7,6 +7,8 @@ tags: ["설득","협상","리더십","사람 이해","손실 회피"]
 subtitle: "맞는 말인데 왜 자꾸 튕겨 나가나. 사람과 같이 일하려면 진짜 봐야 할 것."
 seoTitle: "사람을 움직이는 법: 논리보다 손해·체면·책임"
 image: /images/col-reading-people.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![따뜻한 조명 아래 테이블을 사이에 두고 손짓하며 대화하는 두 사람](/images/col-reading-people.jpg)
