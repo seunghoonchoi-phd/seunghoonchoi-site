@@ -6,6 +6,8 @@ date: 2026-06-17T14:00:00+09:00
 categories: ["Impuestos"]
 tags: ["impuestos en Estados Unidos","F-1","tratado fiscal Corea-Estados Unidos","1040-NR","8843"]
 subtitle: "0 % de impuesto estatal sobre la renta en Florida, exención de $2,000 al año por el artículo 21 del tratado y los formularios 8843 y 1040-NR hasta la fecha límite"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Formularios de impuestos de Estados Unidos con un bolígrafo](/images/uf4-taxes.jpg)
