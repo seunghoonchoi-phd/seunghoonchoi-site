@@ -6,6 +6,8 @@ date: 2026-06-17T13:00:00+09:00
 categories: ["생활"]
 tags: ["게인즈빌","주거","UF","유학생활","한인커뮤니티"]
 subtitle: "미국 유학 정착 가이드 5부 — UF 도시생활의 모든 것"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Sunny university campus](/images/uf5-life.jpg)
