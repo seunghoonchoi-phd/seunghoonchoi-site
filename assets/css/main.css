@@ -1143,7 +1143,7 @@ body.lang-ko .cite__text{word-break:keep-all}
   margin:calc(clamp(36px,6vw,72px) * -1) auto 0;
   padding:0 clamp(20px,5vw,56px) clamp(28px,4vw,46px);
   display:flex;
-  justify-content:flex-end;
+  justify-content:center;
   position:relative;
   z-index:2;
 }
