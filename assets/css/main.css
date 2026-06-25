@@ -1140,8 +1140,8 @@ body.lang-ko .cite__text{word-break:keep-all}
 .home-hero__copied.is-shown{opacity:1;transform:none}
 .home-search{
   max-width:var(--maxw);
-  margin:calc(clamp(36px,6vw,72px) * -1) auto 0;
-  padding:0 clamp(20px,5vw,56px) clamp(28px,4vw,46px);
+  margin:calc(clamp(50px,7.5vw,96px) * -1) auto 0;
+  padding:0 clamp(20px,5vw,56px) clamp(20px,3vw,36px);
   display:flex;
   justify-content:center;
   position:relative;
@@ -1150,7 +1150,7 @@ body.lang-ko .cite__text{word-break:keep-all}
 .home-search .search-module{width:min(374px,100%)}
 .home-search .searchbox__input{background:rgba(252,251,249,.98)}
 @media(max-width:700px){
-  .home-search{margin:-22px auto 0;justify-content:stretch}
+  .home-search{margin:-58px auto 0;justify-content:stretch}
   .home-search .search-module{width:100%}
 }
 /* FAQ block (front-matter `faq` → FAQPage schema + visible accordion) */
