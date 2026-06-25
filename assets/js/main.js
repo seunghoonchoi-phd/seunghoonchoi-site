@@ -123,22 +123,27 @@
   }
 
   /* Category filter (list pages) */
-  var bar = document.querySelector("[data-filter]");
-  var list = document.querySelector("[data-list]");
-  if (bar && list) {
+  document.querySelectorAll("[data-filter]").forEach(function (bar) {
+    var scope = bar.closest(".section") || document;
+    var list = scope.querySelector("[data-list]");
+    if (!list) return;
     bar.addEventListener("click", function (ev) {
       var btn = ev.target.closest(".chip");
       if (!btn) return;
-      bar.querySelectorAll(".chip").forEach(function (c) { c.classList.remove("is-active"); });
-      btn.classList.add("is-active");
-      var cat = btn.getAttribute("data-cat");
+      bar.querySelectorAll(".chip").forEach(function (c) {
+        var active = c === btn;
+        c.classList.toggle("is-active", active);
+        c.setAttribute("aria-pressed", active ? "true" : "false");
+      });
+      var cat = btn.getAttribute("data-cat") || "*";
       list.querySelectorAll(".card").forEach(function (card) {
-        var cats = (card.getAttribute("data-cat") || "").split(/\s+/);
-        var show = cat === "*" || cats.indexOf(cat) !== -1;
+        var cardCat = card.getAttribute("data-cat") || "";
+        var show = cat === "*" || cardCat === cat;
         card.classList.toggle("is-hidden", !show);
+        card.hidden = !show;
       });
     });
-  }
+  });
 
   /* Copy attribution — append source line when copying article text */
   var post = document.querySelector(".post");

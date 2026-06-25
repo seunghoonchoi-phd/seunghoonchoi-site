@@ -2,10 +2,10 @@
 {{ $idx := .index }}
 {{ $img := $p.Params.image }}
 {{ if not $img }}{{ $mm := findRESubmatch `<img[^>]+?src=["']([^"']+)["']` $p.Content }}{{ if gt (len $mm) 0 }}{{ $img = index (index $mm 0) 1 }}{{ end }}{{ end }}
-{{ $cat := "" }}{{ with $p.Params.categories }}{{ $cat = index . 0 }}{{ end }}
+{{ $cat := "" }}{{ with $p.Params.categories }}{{ $cat = index . (sub (len .) 1) }}{{ end }}
 {{ $source := $p.Section }}{{ with $p.CurrentSection }}{{ $source = .Title }}{{ end }}
 {{ $excerpt := "" }}{{ with $p.Params.subtitle }}{{ $excerpt = . }}{{ else }}{{ $excerpt = ($p.Summary | plainify | truncate 128) }}{{ end }}
-<article class="card content-row reveal{{ if $img }} content-row--has-thumb{{ end }}" data-cat="{{ range $p.Params.categories }}{{ . | urlize }} {{ end }}"{{ with $p.File }} data-rk="{{ $p.Section }}/{{ .ContentBaseName }}"{{ end }}>
+<article class="card content-row reveal{{ if $img }} content-row--has-thumb{{ end }}" data-cat="{{ $cat | urlize }}"{{ with $p.File }} data-rk="{{ $p.Section }}/{{ .ContentBaseName }}"{{ end }}>
   <div class="content-row__num" aria-label="List number">
     {{ if eq $idx 1 }}<span class="content-row__new">New!</span>{{ end }}
     <span>{{ $idx }}</span>

@@ -11,6 +11,8 @@
   {{ end }}
   {{ $pinned := where $pages "Params.pinned" true }}
   {{ $rest := where $pages "Params.pinned" "!=" true }}
+  {{ $paginator := .Paginate $rest }}
+  {{ $listedPages := $paginator.Pages }}
 
   {{ with $pinned }}
   <div class="pinned-wrap">
@@ -29,20 +31,19 @@
   {{ end }}
 
   {{ $cats := slice }}
-  {{ range $pages }}{{ range .Params.categories }}{{ $cats = $cats | append . }}{{ end }}{{ end }}
+  {{ range $listedPages }}{{ with .Params.categories }}{{ $cats = $cats | append (index . (sub (len .) 1)) }}{{ end }}{{ end }}
   {{ $cats = ($cats | uniq) }}
   {{ if in $cats "AI" }}{{ $ordered := slice "AI" }}{{ range $cats }}{{ if ne . "AI" }}{{ $ordered = $ordered | append . }}{{ end }}{{ end }}{{ $cats = $ordered }}{{ end }}
   {{ if gt (len $cats) 1 }}
   <div class="filterbar" data-filter>
-    <button class="chip is-active" data-cat="*">{{ i18n "all" }}</button>
-    {{ range $cats }}<button class="chip" data-cat="{{ . | urlize }}">{{ . }}</button>{{ end }}
+    <button class="chip is-active" type="button" data-cat="*" aria-pressed="true">{{ i18n "all" }}</button>
+    {{ range $cats }}<button class="chip" type="button" data-cat="{{ . | urlize }}" aria-pressed="false">{{ . }}</button>{{ end }}
   </div>
   {{ end }}
 
-  {{ $paginator := .Paginate $rest }}
   <div class="cards cards--list content-list" data-list>
     {{ $offset := mul (sub $paginator.PageNumber 1) $paginator.PagerSize }}
-    {{ range $i, $page := $paginator.Pages }}
+    {{ range $i, $page := $listedPages }}
       {{ partial "post-list-row.html" (dict "page" $page "index" (add (add $offset $i) 1)) }}
     {{ else }}
       {{ if not $pinned }}<p class="muted">{{ i18n "no_posts" }}</p>{{ end }}
