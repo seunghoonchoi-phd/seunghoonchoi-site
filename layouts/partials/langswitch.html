@@ -1,8 +1,8 @@
 {{ $page := . }}
 {{ $cur := $page.Site.Language.Lang }}
 {{/* fixed display order + native labels; only languages enabled in hugo.toml are shown */}}
-{{ $order := slice "en" "zh" "es" "hi" "ar" "ko" }}
-{{ $labels := dict "en" "English" "zh" "中文" "es" "Español" "hi" "हिन्दी" "ar" "العربية" "ko" "한국어" }}
+{{ $order := slice "en" "zh" "es" "hi" "ar" "ja" "ko" }}
+{{ $labels := dict "en" "English" "zh" "中文" "es" "Español" "hi" "हिन्दी" "ar" "العربية" "ja" "日本語" "ko" "한국어" }}
 {{ $avail := slice }}
 {{ range $page.Site.Languages }}{{ $avail = $avail | append .Lang }}{{ end }}
 {{ $tail := $page.RelPermalink }}

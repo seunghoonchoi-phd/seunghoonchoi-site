@@ -1,0 +1,143 @@
+# Navigation (keyed by menu identifier)
+[research]
+other = "研究・成果"
+# parent dropdown labels
+[writing]
+other = "コンテンツ"
+[resources]
+other = "資料"
+# leaf sections
+[column]
+other = "コラム"
+[books]
+other = "書籍"
+[literature]
+other = "文学作品"
+[youtube]
+other = "YouTube"
+[apps]
+other = "アプリ・ツール"
+[career]
+other = "留学・定住"
+[about]
+other = "紹介"
+
+# UI
+[home]
+other = "ホーム"
+[latest]
+other = "最近の記事"
+[read_more]
+other = "読む"
+[view_all]
+other = "すべて見る"
+[no_posts]
+other = "まだ記事がありません — 近日公開予定です。"
+[posted_on]
+other = "公開"
+[categories]
+other = "カテゴリ"
+[tags]
+other = "タグ"
+[all]
+other = "すべて"
+[contact]
+other = "お問い合わせ"
+[connect_linkedin]
+other = "LinkedInでつながる ↗"
+[email_university]
+other = "大学"
+[email_personal]
+other = "個人"
+[skip_to_content]
+other = "本文へスキップ"
+[explore]
+other = "見てまわる"
+[reading_in]
+other = "日本語で閲覧中"
+[switch_lang]
+other = "한국어"
+[footer_rights]
+other = "All rights reserved."
+[search_placeholder]
+other = "検索…"
+[search_label]
+other = "検索"
+[search_clear]
+other = "検索をクリア"
+[search_no_results]
+other = "一致する結果がありません。"
+[search_count_suffix]
+other = " 件"
+[by]
+other = "文"
+[author_name]
+other = "Seunghoon Choi"
+[cite_this]
+other = "この記事を引用"
+[cite_copy]
+other = "引用をコピー"
+[cite_copied]
+other = "コピーしました！"
+[copy_source]
+other = "出典"
+[rf_heading]
+other = "代表的な研究"
+[rf_gripper]
+other = "タコに着想を得たソフトグリッパー"
+[rf_electrode]
+other = "乾湿両環境向けEMG粘着電極"
+[rf_plant]
+other = "植物の葉用ハイドロゲル電極"
+[dir_research]
+other = "論文・特許・計算材料研究"
+[dir_writing]
+other = "コラム・エッセイ・書籍・文学作品"
+[dir_youtube]
+other = "動画"
+[dir_apps]
+other = "自作の無料ツール"
+[dir_career]
+other = "留学とアメリカ定住の実践ガイド"
+[dir_about]
+other = "経歴・キャリア・連絡先"
+
+[profile]
+other = "プロフィール"
+
+[cta_writing]
+other = "記事を読む"
+[cta_tools]
+other = "作ったツール"
+[cta_research]
+other = "研究・成果"
+
+[toc_title]
+other = "目次"
+[more_posts]
+other = "同じテーマの記事をもっと見る"
+
+[brand]
+other = "Seunghoon Choi"
+
+[cta_cv]
+other = "CVをダウンロード ↓"
+
+[cta_contact]
+other = "お仕事のご相談"
+
+[copied_email]
+other = "メールアドレスをコピーしました"
+
+[faq_title]
+other = "よくある質問"
+[written_by]
+other = "執筆者"
+[author_bio]
+other = "計算材料の研究者で、フロリダ大学（UF）の博士課程に在籍。バッテリー製造の現場と材料研究を経て、いまはAI時代に個人がどう生き残れるかを実験し、記録している。権威より構造を、勘よりモデルを、努力よりシステムを信じる。"
+
+[pinned_label]
+other = "おすすめ"
+
+[cta_instagram]
+other = "Instagram DM"
