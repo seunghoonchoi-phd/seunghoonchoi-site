@@ -7,6 +7,8 @@ tags: ["persuasión","negociación","liderazgo","entender a las personas","avers
 subtitle: "Tienes razón, pero tus palabras siguen rebotando. Lo que de verdad hay que ver para trabajar con la gente."
 seoTitle: "Cómo mover a las personas: más allá de la lógica, el miedo a perder, el orgullo y la responsabilidad"
 image: /images/col-reading-people.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Dos personas conversan con gestos a ambos lados de una mesa bajo una luz cálida](/images/col-reading-people.jpg)

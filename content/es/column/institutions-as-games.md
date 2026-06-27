@@ -7,6 +7,8 @@ tags: ["incentivos","instituciones","psicología organizacional","toma de decisi
 subtitle: "Ni la ley, ni la empresa, ni el mercado son máquinas que buscan la verdad. Son sistemas que moldean a las personas."
 seoTitle: "Cómo leer la estructura de incentivos: mira primero los premios y castigos, no a las personas"
 image: /images/col-institutions-as-games.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Puestos vacíos de un mercado al aire libre antes del amanecer, antes de que lleguen los vendedores](/images/col-institutions-as-games.jpg)

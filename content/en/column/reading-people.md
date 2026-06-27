@@ -7,6 +7,8 @@ tags: ["persuasion","negotiation","leadership","understanding people","loss aver
 subtitle: "You're right, so why does it keep bouncing off? What you actually have to see if you want to work with people."
 seoTitle: "How to Move People: Loss, Face, and Blame Beat Logic"
 image: /images/col-reading-people.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Two people talking across a table in warm light, hands mid gesture](/images/col-reading-people.jpg)

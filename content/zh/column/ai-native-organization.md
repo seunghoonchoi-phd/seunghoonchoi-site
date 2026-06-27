@@ -6,6 +6,8 @@ categories: ["AI"]
 tags: ["ai", "ai-native", "organization-design", "automation", "governance"]
 subtitle: "比的不是工具数量，而是把干活的路本身用 AI 重新铺了一遍。"
 description: "AI 原生组织不是会用 AI 的公司，而是被重新设计成离了 AI，速度、结构、成本就根本立不住的组织。附 6 阶段成熟度模型，以及怎么落到个人。"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![几何感的建筑结构，给组织重新接线意味着什么](/images/col-ai-native-org.jpg)

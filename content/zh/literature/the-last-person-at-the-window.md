@@ -6,6 +6,8 @@ tags: ["단편소설"]
 subtitle: "曾是翻译的她，始终没有放手的那一样东西。"
 image: /images/col-ai-replacement-stages.jpg
 aliases: ["/literature/the-window/"]
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![一个人的剪影，坐在能望见大海的窗前](/images/col-ai-replacement-stages.jpg)

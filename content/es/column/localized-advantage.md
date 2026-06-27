@@ -7,6 +7,8 @@ tags: ["estrategia", "toma de decisiones", "concentración", "carrera profesiona
 subtitle: "Lo que da la vuelta a una partida perdida no es la fuerza total. Es el único momento en que el rival está más débil, esa diferencia en un solo punto."
 seoTitle: "Estrategia de elegir y concentrar: gana solo el momento decisivo con una ventaja local"
 image: /images/col-localized-advantage.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Un rey caído sobre el tablero de ajedrez. La jugada decisiva que definió la partida](/images/col-localized-advantage.jpg)

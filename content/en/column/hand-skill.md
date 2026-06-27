@@ -7,6 +7,8 @@ tags: ["hand-skill", "ai", "automation", "expertise", "career"]
 subtitle: "An expert's hand isn't precise motion. It's the ability to read a changing contact moment by moment and keep fixing the force and the angle."
 seoTitle: "Hand Skill: The Fingertip Sense AI and Robots Can't Match"
 image: /images/col-hand-skill.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Worn hand tools laid out neatly on a workbench](/images/col-hand-skill.jpg)

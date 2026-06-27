@@ -6,6 +6,8 @@ categories: ["AI"]
 tags: ["ai", "agi", "career", "future-of-work", "survival-strategy"]
 subtitle: "AI 时代活下来的人，不是更聪明的人"
 description: "就算 AGI 来了，留给人的也不是拼智能，而是连接现实。本文用岗位摩擦的结构，讲清 AI 替代不了的工作和 AI 时代的生存策略。"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![一位工匠用手削刻木头。AI 模仿不来的，是人的实在感](/images/col-ai-human-craft.jpg)

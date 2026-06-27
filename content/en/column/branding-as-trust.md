@@ -7,6 +7,8 @@ tags: ["branding","trust","AI era","personal branding","positioning"]
 subtitle: "You'd think branding matters less now that AI cranks out drafts for free. It's the exact opposite."
 seoTitle: "Personal Branding in the AI Era: The Core Is Trust"
 image: /images/col-branding-as-trust.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![An artisan's hands pressing a maker's mark into leather, a sign of trust](/images/col-branding-as-trust.jpg)

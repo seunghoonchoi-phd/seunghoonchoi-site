@@ -7,6 +7,8 @@ tags: ["Psicología de las organizaciones","Toma de decisiones","Lo básico del 
 subtitle: "Cómo leer no las reglas escritas en el papel, sino las reglas que de verdad mueven a las personas"
 seoTitle: "Política de oficina: la verdadera razón por la que una buena propuesta no pasa"
 image: /images/col-operating-rules.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Una sala de reuniones vacía con luz suave entrando por la ventana; alrededor de la mesa, las sillas están colocadas cada una en un ángulo distinto](/images/col-operating-rules.jpg)

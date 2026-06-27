@@ -6,6 +6,8 @@ categories: ["IA"]
 tags: ["ia", "agi", "carrera", "estrategia de supervivencia", "empleo"]
 subtitle: "Quien sobrevive en la era de la IA no es la persona más inteligente"
 description: "Aunque llegue la AGI, al ser humano no le queda competir en inteligencia, sino la conexión con la realidad. Explico los trabajos que sobreviven a la era de la IA y la estrategia de supervivencia a partir de la estructura de fricción laboral."
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Un artesano talla la madera con sus manos. La presencia humana que la IA no puede imitar](/images/col-ai-human-craft.jpg)

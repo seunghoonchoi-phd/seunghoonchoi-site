@@ -7,6 +7,8 @@ tags: ["organizational psychology","decision making","workplace basics","underst
 subtitle: "How to read the rules that actually move people, not the ones written on paper"
 seoTitle: "Office Politics: The Real Reason a Good Idea Never Passes"
 image: /images/col-operating-rules.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![An empty conference room in soft window light, chairs sitting at different angles around the table](/images/col-operating-rules.jpg)

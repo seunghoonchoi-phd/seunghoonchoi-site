@@ -7,6 +7,8 @@ tags: ["marca","confianza","era de la IA","marca personal","posicionamiento"]
 subtitle: "Como la IA produce borradores gratis, parece que la marca importa menos. Es justo al revés."
 seoTitle: "Marca personal en la era de la IA: la clave es la confianza"
 image: /images/col-branding-as-trust.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Las manos de un artesano grabando su sello en el cuero, la marca de la confianza](/images/col-branding-as-trust.jpg)

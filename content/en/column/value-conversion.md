@@ -7,6 +7,7 @@ tags: ["value conversion","compounding","building assets","market economy","leve
 subtitle: "The real engine of a market isn't money. It's the work of changing the form of value."
 seoTitle: "Why Your Effort Never Piles Up: Leave Assets, Not Hours"
 image: /images/col-value-conversion.jpg
+draft: true
 ---
 
 ![A craftsman's hands holding a finished wooden chair in a workshop, lit warmly from the side](/images/col-value-conversion.jpg)

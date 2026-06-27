@@ -6,6 +6,8 @@ categories: ["AI"]
 tags: ["ai", "agi", "career", "future-of-work", "survival-strategy"]
 subtitle: "The person who survives the AI era isn't the smarter person"
 description: "Even when AGI arrives, what's left for humans isn't an intelligence contest, it's the connection to reality. Here's how to read the jobs and survival strategy of the AI era through the structure of workflow friction."
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![A craftsman carving wood by hand. The human realness AI can't fake](/images/col-ai-human-craft.jpg)

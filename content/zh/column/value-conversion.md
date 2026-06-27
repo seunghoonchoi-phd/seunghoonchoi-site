@@ -7,6 +7,7 @@ tags: ["价值转换","复利","资产化","市场经济","杠杆"]
 subtitle: "推动市场的真正引擎不是钱，是改变价值形态这件事"
 seoTitle: "努力为什么攒不下来：别留时间，留下会复利的资产"
 image: /images/col-value-conversion.jpg
+draft: true
 ---
 
 ![工坊里一位匠人布满岁月痕迹的双手，捧着一把做好的木椅，温暖的侧光](/images/col-value-conversion.jpg)

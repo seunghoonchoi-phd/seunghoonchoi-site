@@ -7,6 +7,8 @@ tags: ["incentives","institutions","organizational behavior","decision making","
 subtitle: "法律、公司、市场，都不是寻找真相的机器，而是驯化行为的装置。"
 seoTitle: "读懂激励结构的方法：别盯着人，先看奖赏和惩罚"
 image: /images/col-institutions-as-games.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![黎明前商贩还没到，空荡荡的露天市场摊位](/images/col-institutions-as-games.jpg)

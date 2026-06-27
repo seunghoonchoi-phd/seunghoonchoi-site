@@ -6,6 +6,8 @@ categories: ["AI"]
 tags: ["ai", "ai-native", "organization-design", "automation", "governance"]
 subtitle: "It's not bragging about how many tools you have. It's rebuilding the way work flows, from the ground up, around AI."
 description: "An AI-native organization isn't a company that uses AI well. It's one redesigned so that its speed, structure, and cost can't even hold without AI. A 6-stage maturity model, plus how to apply it to yourself."
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![A geometric building facade: what it means to rewire an organization](/images/col-ai-native-org.jpg)

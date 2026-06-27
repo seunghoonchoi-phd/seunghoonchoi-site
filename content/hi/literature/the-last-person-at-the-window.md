@@ -6,6 +6,8 @@ tags: ["लघुकथा"]
 subtitle: "एक इंसान जो कभी अनुवादक था, और उसने आख़िर तक एक ही चीज़ नहीं छोड़ी।"
 image: /images/col-ai-replacement-stages.jpg
 aliases: ["/literature/the-window/"]
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![समुद्र दिखती खिड़की के पास बैठे एक इंसान की छाया](/images/col-ai-replacement-stages.jpg)

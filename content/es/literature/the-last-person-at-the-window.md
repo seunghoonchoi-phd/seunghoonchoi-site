@@ -6,6 +6,8 @@ tags: ["Relato corto"]
 subtitle: "Lo único que una traductora no soltó hasta el final."
 image: /images/col-ai-replacement-stages.jpg
 aliases: ["/literature/the-window/"]
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Silueta de una persona sentada junto a una ventana con vista al mar](/images/col-ai-replacement-stages.jpg)

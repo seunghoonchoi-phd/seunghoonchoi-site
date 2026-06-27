@@ -7,6 +7,8 @@ tags: ["品牌","信任","AI时代","个人品牌","定位"]
 subtitle: "AI免费量产初稿，看着像是品牌没那么重要了。恰恰相反。"
 seoTitle: "AI时代的个人品牌，核心是信任"
 image: /images/col-branding-as-trust.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![工匠的手把自己的印记压进皮革，象征信任的标记](/images/col-branding-as-trust.jpg)

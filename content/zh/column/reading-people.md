@@ -7,6 +7,8 @@ tags: ["说服","谈判","领导力","读懂人","损失厌恶"]
 subtitle: "话明明是对的，为什么总被弹回来。想和人一起做事，真正该看的是什么。"
 seoTitle: "怎样让人动起来：比起逻辑，先看损失、面子和责任"
 image: /images/col-reading-people.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![暖光下，两个人隔着桌子，一边比划手势一边交谈](/images/col-reading-people.jpg)

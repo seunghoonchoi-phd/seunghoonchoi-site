@@ -7,6 +7,8 @@ tags: ["hand-skill", "ai", "automation", "expertise", "career"]
 subtitle: "高手的手不是动作精确，而是能实时读出变化的接触，再随时改力度和角度的本事"
 seoTitle: "手上功夫，AI和机器人追不上的指尖手感"
 image: /images/col-hand-skill.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![整齐摆放着用旧手工工具的工作台](/images/col-hand-skill.jpg)

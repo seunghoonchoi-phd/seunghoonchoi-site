@@ -7,6 +7,8 @@ tags: ["incentives","institutions","organizational behavior","decision making","
 subtitle: "Laws, companies, markets: none of them are machines for finding truth. They are devices that train people."
 seoTitle: "How to Read Incentive Structures: Look at Rewards and Penalties Before You Judge the Person"
 image: /images/col-institutions-as-games.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Empty outdoor market stalls at dawn before the vendors arrive](/images/col-institutions-as-games.jpg)

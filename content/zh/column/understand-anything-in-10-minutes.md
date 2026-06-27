@@ -6,6 +6,8 @@ categories: ["随笔"]
 tags: ["learning", "study-method", "metacognition", "comprehension", "ai"]
 subtitle: "摘要是别人嚼过的饭，理解必须是你亲手搭的骨架。"
 description: "用九宫格模板，10分钟拿下陌生的概念、论文或会议。不写摘要，而是拆成本质、原理、边界，最后落到要去确认的问题上。附一段可直接使用的AI提示词。"
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![在蓝图上勾勒结构的手，搭的是结构，不是摘要](/images/col-understand.jpg)

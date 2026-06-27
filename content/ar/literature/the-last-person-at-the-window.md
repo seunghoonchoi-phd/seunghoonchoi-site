@@ -6,6 +6,8 @@ tags: ["قصة قصيرة"]
 subtitle: "شخص كان مترجماً، وأمسك حتى النهاية بشيء واحد لم يتركه."
 image: /images/col-ai-replacement-stages.jpg
 aliases: ["/literature/the-window/"]
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![ظل شخص يجلس عند نافذة تطل على البحر](/images/col-ai-replacement-stages.jpg)

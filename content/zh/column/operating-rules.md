@@ -7,6 +7,8 @@ tags: ["organizational dynamics","decision making","workplace wisdom","understan
 subtitle: "别只读写在纸上的规则，学会一起读懂真正驱动人的那层规则"
 seoTitle: "职场政治：好方案为什么总是通不过的真正原因"
 image: /images/col-operating-rules.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![窗边洒进柔和光线的空会议室，桌子四周的椅子各自朝着不同的角度](/images/col-operating-rules.jpg)

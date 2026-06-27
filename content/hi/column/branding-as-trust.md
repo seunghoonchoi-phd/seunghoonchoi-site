@@ -7,6 +7,8 @@ tags: ["ब्रांडिंग","भरोसा","AI युग","पर्
 subtitle: "लगता है कि AI मुफ्त में पहला मसौदा बना देता है, तो ब्रांडिंग कम ज़रूरी होगी। ठीक उल्टा है।"
 seoTitle: "AI युग में पर्सनल ब्रांडिंग, असली कुंजी भरोसा है"
 image: /images/col-branding-as-trust.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![चमड़े पर अपनी छाप लगाता एक कारीगर का हाथ, भरोसे का निशान](/images/col-branding-as-trust.jpg)

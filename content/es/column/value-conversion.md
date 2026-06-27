@@ -7,6 +7,7 @@ tags: ["conversión de valor","interés compuesto","crear activos","economía de
 subtitle: "El verdadero motor que mueve el mercado no es el dinero. Es cambiar la forma del valor."
 seoTitle: "Por qué tu esfuerzo no se acumula: no dejes tiempo, deja activos"
 image: /images/col-value-conversion.jpg
+draft: true
 ---
 
 ![Las manos de un artesano sosteniendo una silla de madera terminada en el taller, con luz lateral cálida](/images/col-value-conversion.jpg)

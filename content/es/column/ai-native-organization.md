@@ -6,6 +6,8 @@ categories: ["IA"]
 tags: ["ia", "nativo de ia", "diseño organizacional", "automatización del trabajo", "gobernanza"]
 subtitle: "No se trata de presumir cuántas herramientas tienes. Es haber rediseñado con IA la forma misma de trabajar."
 description: "Una organización nativa de IA no es una empresa que usa bien la IA, sino una organización rediseñada de modo que, sin IA, no se sostienen ni la velocidad, ni la estructura, ni los costos. El modelo de madurez en 6 niveles y cómo aplicarlo a nivel personal."
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Estructura geométrica de un edificio, lo que significa volver a cablear una organización](/images/col-ai-native-org.jpg)

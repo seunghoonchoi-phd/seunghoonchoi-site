@@ -6,6 +6,8 @@ categories: ["Essays"]
 tags: ["study method", "learning", "metacognition", "comprehension", "ai"]
 subtitle: "A summary is food someone else already chewed. Understanding has to be a frame you build with your own hands."
 description: "A 9-box template to take over any unfamiliar concept, paper, or meeting in 10 minutes. Instead of summarizing, break it down by essence, mechanism, and boundaries, then end with the questions to verify. Ready to use prompt included."
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Hands drafting a structure on a blueprint: building structure, not a summary](/images/col-understand.jpg)

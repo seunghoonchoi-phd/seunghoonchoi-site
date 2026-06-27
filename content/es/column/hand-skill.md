@@ -7,6 +7,8 @@ tags: ["habilidad manual", "ia", "automatización", "experiencia profesional", "
 subtitle: "La mano del experto no hace movimientos exactos. Lee el contacto que cambia a cada instante y corrige la fuerza y el ángulo sobre la marcha"
 seoTitle: "La habilidad manual: el tacto que la IA y los robots no alcanzan"
 image: /images/col-hand-skill.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![Herramientas manuales gastadas, colocadas en orden sobre una mesa de trabajo](/images/col-hand-skill.jpg)

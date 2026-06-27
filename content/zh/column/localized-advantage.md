@@ -7,6 +7,8 @@ tags: ["strategy", "decision-making", "focus", "career"]
 subtitle: "扭转劣势的，从来不是总实力。是对手最弱的那一瞬间，那一个点上的差距。"
 seoTitle: "取舍与集中：用局部优势，只赢下决定性的那一刻"
 image: /images/col-localized-advantage.jpg
+hidden: true
+build: {list: never, render: always}
 ---
 
 ![棋盘上被将倒的王。决定胜负的那关键一步](/images/col-localized-advantage.jpg)
