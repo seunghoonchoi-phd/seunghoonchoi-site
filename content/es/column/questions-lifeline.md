@@ -14,13 +14,17 @@ reviewStatus: "done"
 
 Cuando estudie mecanica cuantica en ingenieria, en la pizarra aparecian primero ecuaciones como estas.
 
-```text
-H^ psi = E psi
-
-H^ = -(hbar^2 / 2m) nabla^2 + V(r)
-
-<phi | psi> = integral phi*(x) psi(x) dx
-```
+<div class="formula-block">
+  <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+    <mrow><mover><mi>H</mi><mo stretchy="false">^</mo></mover><mi>ψ</mi><mo>=</mo><mi>E</mi><mi>ψ</mi></mrow>
+  </math>
+  <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+    <mrow><mover><mi>H</mi><mo stretchy="false">^</mo></mover><mo>=</mo><mo>-</mo><mfrac><msup><mi>ℏ</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>m</mi></mrow></mfrac><msup><mi>∇</mi><mn>2</mn></msup><mo>+</mo><mi>V</mi><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">)</mo></mrow>
+  </math>
+  <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+    <mrow><mo stretchy="false">⟨</mo><mi>φ</mi><mo stretchy="false">|</mo><mi>ψ</mi><mo stretchy="false">⟩</mo><mo>=</mo><mo>∫</mo><msup><mi>φ</mi><mo>*</mo></msup><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mi>ψ</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mi>d</mi><mi>x</mi></mrow>
+  </math>
+</div>
 
 La clase estaba explicando fenomenos fisicos, pero lo primero que veian mis ojos era una notacion matematica extrana. Hamiltoniano, funcion de onda, valor propio, operador, notacion bra-ket. Esas palabras aparecian, y en algun momento esos simbolos se usaban como si ya fueran un idioma que todos conocian.
 

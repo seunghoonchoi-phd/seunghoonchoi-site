@@ -916,6 +916,30 @@ body.lang-zh .post__body th,body.lang-zh .post__body td{word-break:keep-all}
 html[dir="rtl"] .lede th,html[dir="rtl"] .lede td,
 html[dir="rtl"] .post__body th,html[dir="rtl"] .post__body td{text-align:right}
 
+.lede .formula-block,.post__body .formula-block{
+  --content-wide:min(760px,calc(100vw - clamp(32px,8vw,96px)));
+  width:var(--content-wide);
+  max-width:var(--content-wide);
+  margin:1.2em 0 1.55em 50%;
+  transform:translateX(-50%);
+  padding:1.05rem 1.25rem;
+  background:rgba(252,251,249,.98);
+  border:1px solid rgba(13,27,76,.14);
+  border-radius:10px;
+  box-shadow:0 12px 30px rgba(13,27,76,.08);
+  color:var(--ink);
+  overflow-x:auto;
+  -webkit-overflow-scrolling:touch;
+}
+.lede .formula-block math,.post__body .formula-block math{
+  display:block;
+  margin:.32rem auto;
+  font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;
+  font-size:clamp(1.05rem,2.1vw,1.34rem);
+  line-height:1.7;
+}
+.lede .formula-block math + math,.post__body .formula-block math + math{margin-top:.78rem}
+
 .lede pre,.post__body pre{
   background:linear-gradient(180deg,#142052,#101A43);
   color:#F7F4EE;
@@ -946,12 +970,15 @@ html[dir="rtl"] .post__body th,html[dir="rtl"] .post__body td{text-align:right}
 }
 @media (max-width:620px){
   .lede table,.post__body table,
-  .lede pre,.post__body pre{
+  .lede pre,.post__body pre,
+  .lede .formula-block,.post__body .formula-block{
     width:100%;
     max-width:100%;
     margin:1.15em 0 1.35em;
     transform:none;
   }
+  .lede .formula-block,.post__body .formula-block{padding:.9rem .95rem}
+  .lede .formula-block math,.post__body .formula-block math{font-size:1.02rem}
   .lede table,.post__body table{
     display:block;
     overflow:visible;

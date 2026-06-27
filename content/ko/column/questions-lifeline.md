@@ -14,13 +14,17 @@ reviewStatus: "done"
 
 공대에서 양자역학을 배울 때 칠판에 이런 식이 먼저 보였다.
 
-```text
-H^ psi = E psi
-
-H^ = -(hbar^2 / 2m) nabla^2 + V(r)
-
-<phi | psi> = integral phi*(x) psi(x) dx
-```
+<div class="formula-block">
+  <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+    <mrow><mover><mi>H</mi><mo stretchy="false">^</mo></mover><mi>ψ</mi><mo>=</mo><mi>E</mi><mi>ψ</mi></mrow>
+  </math>
+  <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+    <mrow><mover><mi>H</mi><mo stretchy="false">^</mo></mover><mo>=</mo><mo>-</mo><mfrac><msup><mi>ℏ</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>m</mi></mrow></mfrac><msup><mi>∇</mi><mn>2</mn></msup><mo>+</mo><mi>V</mi><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">)</mo></mrow>
+  </math>
+  <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+    <mrow><mo stretchy="false">⟨</mo><mi>φ</mi><mo stretchy="false">|</mo><mi>ψ</mi><mo stretchy="false">⟩</mo><mo>=</mo><mo>∫</mo><msup><mi>φ</mi><mo>*</mo></msup><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mi>ψ</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mi>d</mi><mi>x</mi></mrow>
+  </math>
+</div>
 
 수업은 물리 현상을 설명하고 있었지만, 내 눈에는 낯선 수학기호가 먼저 들어왔다. 해밀토니안, 파동함수, 고유값, 연산자, 브라-켓 표기 같은 말들이 나왔고, 어느 순간부터는 그 기호들을 이미 아는 언어처럼 쓰고 있었다.
 

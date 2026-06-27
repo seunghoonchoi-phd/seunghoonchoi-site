@@ -14,13 +14,17 @@ reviewStatus: "done"
 
 عندما درست ميكانيكا الكم في كلية الهندسة، كانت تظهر على السبورة أولا معادلات مثل هذه.
 
-```text
-H^ psi = E psi
-
-H^ = -(hbar^2 / 2m) nabla^2 + V(r)
-
-<phi | psi> = integral phi*(x) psi(x) dx
-```
+<div class="formula-block">
+  <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+    <mrow><mover><mi>H</mi><mo stretchy="false">^</mo></mover><mi>ψ</mi><mo>=</mo><mi>E</mi><mi>ψ</mi></mrow>
+  </math>
+  <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+    <mrow><mover><mi>H</mi><mo stretchy="false">^</mo></mover><mo>=</mo><mo>-</mo><mfrac><msup><mi>ℏ</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>m</mi></mrow></mfrac><msup><mi>∇</mi><mn>2</mn></msup><mo>+</mo><mi>V</mi><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">)</mo></mrow>
+  </math>
+  <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+    <mrow><mo stretchy="false">⟨</mo><mi>φ</mi><mo stretchy="false">|</mo><mi>ψ</mi><mo stretchy="false">⟩</mo><mo>=</mo><mo>∫</mo><msup><mi>φ</mi><mo>*</mo></msup><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mi>ψ</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mi>d</mi><mi>x</mi></mrow>
+  </math>
+</div>
 
 كانت المحاضرة تشرح ظاهرة فيزيائية، لكن عيني كانت ترى أولا رموزا رياضية غريبة. الهاملتوني، دالة الموجة، القيمة الذاتية، المؤثر، وترميز bra-ket. ظهرت هذه الكلمات، ثم صار استعمال الرموز كأنها لغة يعرفها الجميع مسبقا.
 
