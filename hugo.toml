@@ -126,7 +126,7 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
   [languages.ar]
     label = "العربية"
     locale = "ar"
-    languagedirection = "rtl"
+    direction = "rtl"
     contentDir = "content/ar"
     weight = 6
     title = "Seunghoon Choi"

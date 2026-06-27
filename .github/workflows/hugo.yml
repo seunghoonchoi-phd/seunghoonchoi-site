@@ -35,6 +35,8 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
+      - name: Run layout harness
+        run: node tools/check-rtl-layout.cjs
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
