@@ -1,0 +1,47 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tyTitle tyDesc">
+  <title id="tyTitle">한글 타자 연습</title>
+  <desc id="tyDesc">한글 자모가 적힌 키보드 위에 가운데 키에 '가'가 강조된 아이콘</desc>
+
+  <rect width="512" height="512" fill="#2563eb"/>
+
+  <!-- keyboard shadow -->
+  <rect x="64" y="170" width="384" height="220" rx="30" fill="#1e3a8a" opacity="0.35"/>
+  <!-- keyboard panel -->
+  <rect x="56" y="160" width="384" height="220" rx="30" fill="#ffffff"/>
+
+  <!-- key rows -->
+  <g>
+    <!-- row 1 -->
+    <rect x="86" y="192" width="52" height="44" rx="10" fill="#dbe3f4"/>
+    <rect x="150" y="192" width="52" height="44" rx="10" fill="#bbf7d0"/>
+    <rect x="214" y="192" width="52" height="44" rx="10" fill="#bfdbfe"/>
+    <rect x="278" y="192" width="52" height="44" rx="10" fill="#fbcfe8"/>
+    <rect x="342" y="192" width="72" height="44" rx="10" fill="#fde68a"/>
+    <!-- row 2 (middle, with 가 highlighted) -->
+    <rect x="86" y="246" width="52" height="44" rx="10" fill="#fde68a"/>
+    <rect x="150" y="246" width="52" height="44" rx="10" fill="#bbf7d0"/>
+    <rect x="214" y="246" width="52" height="44" rx="10" fill="#f59e0b"/>
+    <text x="240" y="277" font-family="'Malgun Gothic','Apple SD Gothic Neo',sans-serif" font-size="34" font-weight="800" fill="#ffffff" text-anchor="middle">가</text>
+    <rect x="278" y="246" width="52" height="44" rx="10" fill="#bfdbfe"/>
+    <rect x="342" y="246" width="72" height="44" rx="10" fill="#dbe3f4"/>
+    <!-- row 3 -->
+    <rect x="86" y="300" width="52" height="44" rx="10" fill="#bfdbfe"/>
+    <rect x="150" y="300" width="52" height="44" rx="10" fill="#fde68a"/>
+    <rect x="214" y="300" width="52" height="44" rx="10" fill="#bbf7d0"/>
+    <rect x="278" y="300" width="52" height="44" rx="10" fill="#fbcfe8"/>
+    <rect x="342" y="300" width="72" height="44" rx="10" fill="#bfdbfe"/>
+  </g>
+
+  <!-- taegeuk badge -->
+  <g transform="translate(388,388)">
+    <circle r="56" fill="#ffffff"/>
+    <circle r="56" fill="none" stroke="#e2e8f0" stroke-width="2"/>
+    <g transform="rotate(-56)">
+      <clipPath id="tgClipT"><circle r="42"/></clipPath>
+      <g clip-path="url(#tgClipT)">
+        <path d="M0,-42 A42,42 0 0 1 0,42 A21,21 0 0 1 0,0 A21,21 0 0 0 0,-42 Z" fill="#cd2e3a"/>
+        <path d="M0,-42 A42,42 0 0 0 0,42 A21,21 0 0 0 0,0 A21,21 0 0 1 0,-42 Z" fill="#0047a0"/>
+      </g>
+    </g>
+  </g>
+</svg>
