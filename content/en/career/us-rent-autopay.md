@@ -2,11 +2,14 @@
 title: "Setting Up Rent AutoPay for U.S. Grad School? Don't Use a Card Without a U.S. Bank Account"
 description: "Why I stopped halfway through setting up rent AutoPay before I even arrived in the U.S. Without a U.S. bank account, a card is your only option, and card AutoPay comes with fees, bad exchange rates, and the risk of declined payments. Here's the right order: open an account first, then set up bank transfer."
 date: 2026-06-28
-categories: ["Study Abroad"]
+categories: ["Settling In"]
+aliases: ["/column/us-rent-autopay/"]
 tags: ["Study Abroad","Rent","AutoPay","U.S. Bank Account","ACH","Student Life"]
 subtitle: "I tried to set up AutoPay before I'd even moved in, and figured out it was better not to."
 seoTitle: "Rent AutoPay for International Students: What to Watch Out for Without a U.S. Bank Account"
 ---
+
+![A fan of U.S. twenty-dollar bills](/images/uf-rent-autopay.jpg)
 
 I'd just signed the lease on my apartment in the U.S. Move-in was still more than a month out, but I wanted to get rent AutoPay set up early. If I ever forgot a payment, I'd get hit with a late fee, so handling it ahead of time felt like one less thing to worry about. Then I hit the payment screen and stopped cold. Here's what I figured out. If you're like me and thinking "let me just set up AutoPay before I move in," this should help.
 

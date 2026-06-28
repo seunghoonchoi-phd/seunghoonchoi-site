@@ -2,11 +2,14 @@
 title: "Domiciliar el alquiler al estudiar en EE. UU.: si aún no tienes cuenta americana, no lo configures con tarjeta"
 description: "Por qué me frené cuando estaba a punto de domiciliar el alquiler antes de llegar a EE. UU. Sin una cuenta bancaria americana solo te queda la tarjeta, y pagar el alquiler con tarjeta supone comisiones, pérdida por el tipo de cambio y riesgo de rechazo. Te cuento el orden correcto: primero abrir la cuenta y luego domiciliar por transferencia bancaria."
 date: 2026-06-28
-categories: ["Estudiar en el extranjero"]
+categories: ["Instalarse"]
+aliases: ["/column/us-rent-autopay/"]
 tags: ["Estudiar en Estados Unidos", "Alquiler", "Domiciliación de pagos", "Cuenta bancaria americana", "ACH", "Vida del estudiante internacional"]
 subtitle: "Quise dejar domiciliado el alquiler antes incluso de mudarme, y acabé descubriendo que era mejor no hacerlo."
 seoTitle: "Domiciliar el alquiler como estudiante en EE. UU.: qué tener en cuenta si no tienes cuenta americana"
 ---
+
+![Un abanico de billetes de veinte dólares estadounidenses](/images/uf-rent-autopay.jpg)
 
 Acababa de firmar el contrato de un apartamento en Estados Unidos. Aún faltaba más de un mes para mudarme, pero quise dejar el alquiler domiciliado por adelantado. Si se me olvidaba pagar la mensualidad me caería un recargo, así que pensé que dejarlo todo listo me quitaría preocupaciones. El caso es que llegué hasta la pantalla de pago y ahí me frené. Apunto lo que aprendí, porque le vendrá bien a cualquiera que, como yo, piense "voy a dejar el pago domiciliado" antes de mudarse.
 
