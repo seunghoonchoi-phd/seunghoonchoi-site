@@ -27,6 +27,19 @@ other = "इंजीनियरिंग"
 other = "अर्थशास्त्र"
 [fnd_law]
 other = "कानून"
+# Foundations — axis groups + relationship map (overview)
+[grp_formal]
+other = "रूप·संगणना"
+[grp_mind]
+other = "मन·अर्थ"
+[grp_nature]
+other = "प्रकृति·निर्माण"
+[grp_society]
+other = "समाज·संस्था"
+[fnd_relations]
+other = "क्षेत्रों के बीच संबंध"
+[fnd_ai_bridge]
+other = "कंप्यूटर विज्ञान × संज्ञानात्मक विज्ञान"
 # leaf sections
 [column]
 other = "कॉलम"

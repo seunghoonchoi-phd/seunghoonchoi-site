@@ -27,6 +27,19 @@ other = "공학"
 other = "경제"
 [fnd_law]
 other = "법"
+# Foundations — axis groups + relationship map (전체 지도)
+[grp_formal]
+other = "형식·계산"
+[grp_mind]
+other = "마음·의미"
+[grp_nature]
+other = "자연·구현"
+[grp_society]
+other = "사회·제도"
+[fnd_relations]
+other = "분야 간 관계"
+[fnd_ai_bridge]
+other = "컴퓨터과학 × 인지과학"
 # leaf sections
 [column]
 other = "칼럼"

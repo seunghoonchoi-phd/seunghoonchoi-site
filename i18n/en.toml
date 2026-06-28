@@ -27,6 +27,19 @@ other = "Engineering"
 other = "Economics"
 [fnd_law]
 other = "Law"
+# Foundations — axis groups + relationship map (overview)
+[grp_formal]
+other = "Form & Computation"
+[grp_mind]
+other = "Mind & Meaning"
+[grp_nature]
+other = "Nature & Making"
+[grp_society]
+other = "Society & Institutions"
+[fnd_relations]
+other = "How the fields connect"
+[fnd_ai_bridge]
+other = "computer science × cognitive science"
 # leaf sections
 [column]
 other = "Columns"

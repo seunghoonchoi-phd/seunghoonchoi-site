@@ -1140,6 +1140,27 @@ body.lang-ko .cite__text{word-break:keep-all}
 body.lang-ko .home-hero__name--native{font-family:"Noto Sans KR",var(--sans);font-weight:700}
 body.lang-zh .home-hero__name--native{font-family:"Noto Sans SC",var(--sans);font-weight:700}
 .home-hero__latin{font-family:var(--serif-en);font-weight:600;font-size:clamp(1.5rem,3.4vw,2.4rem);letter-spacing:.01em;color:var(--copper);margin:clamp(2px,1vw,8px) 0 0}
+/* ---------- Foundations: axis groups + concept map + home entry ---------- */
+.fgroup{margin:28px 0 0}
+.fgroup__title{font-family:var(--sans);font-size:15px;font-weight:700;letter-spacing:.01em;color:var(--copper);margin:0 0 12px;padding-bottom:7px;border-bottom:1px solid var(--hair)}
+body.lang-en .fgroup__title{text-transform:uppercase;letter-spacing:.07em;font-size:13px}
+.fgroup .fmap{margin-top:0}
+.fmap-rel{margin:22px auto 8px;max-width:800px}
+.fmap-rel__svg{width:100%;height:auto;display:block}
+.fmap-rel__grp{font-family:var(--sans);font-size:13.5px;font-weight:700;fill:var(--navy)}
+.fmap-rel__edges line,.fmap-rel__edges path{stroke:var(--copper);stroke-width:1.4;fill:none;opacity:.5}
+.fmap-rel__ai-edge{stroke:var(--copper);stroke-width:2.6;fill:none}
+.fmap-rel__ai-chip rect{fill:var(--copper)}
+.fmap-rel__ai-chip text{fill:#fff;font-family:var(--sans);font-size:11px;font-weight:700}
+.fmap-rel__node{fill:var(--paper-2);stroke:var(--copper);stroke-width:1.7}
+.fmap-rel__num{fill:var(--navy);font-family:var(--serif-en);font-size:16px;font-weight:600}
+.fmap-rel__cap{text-align:center;font-size:12.5px;color:var(--muted);margin-top:8px}
+.fmap-rel__cap-ai{color:var(--copper);font-weight:700}
+.fmece{margin-top:8px}
+.home-fnd{display:flex;flex-wrap:wrap;gap:10px}
+.home-fnd__chip{display:inline-flex;align-items:center;gap:7px;padding:9px 15px;border:1px solid var(--hair);border-radius:999px;background:var(--paper-2);color:var(--ink-soft);font-size:14px;font-weight:600;transition:border-color .2s,color .2s,transform .2s}
+.home-fnd__chip:hover{border-color:var(--copper);color:var(--navy);transform:translateY(-2px)}
+.home-fnd__chip span{font-family:var(--serif-en);color:var(--copper);font-size:12.5px}
 
 /* ---------- Home: full content (clean paper, scroll-reveal) ---------- */
 .home-full{position:relative;z-index:1;background:var(--paper);border-top:1px solid var(--hair)}

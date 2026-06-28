@@ -5,24 +5,37 @@
     {{ with .Params.subtitle }}<p class="section__subtitle">{{ . }}</p>{{ end }}
   </header>
 
-  {{ with .Content }}<div class="lede reveal">{{ . }}</div>{{ end }}
+  {{ if .Params.groups }}
+    {{/* ===== 전체 지도 (overview): intro+MECE → concept map → 4 axes ===== */}}
+    {{ with .Content }}<div class="lede reveal">{{ . }}</div>{{ end }}
 
-  {{ with .Params.axes }}
-  <ol class="fmap reveal" aria-label="{{ $.Title }}">
-    {{ range . }}
-    {{ $u := (printf "foundations/%s/" .slug) | relLangURL }}
-    <li class="fmap__item">
-      <a class="fmap__card" href="{{ $u }}">
-        <span class="fmap__n">{{ printf "%02d" (int .n) }}</span>
-        <span class="fmap__body">
-          <span class="fmap__title">{{ .title }}</span>
-          {{ with .concepts }}<span class="fmap__concepts">{{ . }}</span>{{ end }}
-        </span>
-        <span class="fmap__arrow" aria-hidden="true">→</span>
-      </a>
-    </li>
+    {{ partial "foundations-map.html" . }}
+
+    {{ range .Params.groups }}
+    <section class="fgroup reveal">
+      <h2 class="fgroup__title">{{ .title }}</h2>
+      <ol class="fmap">
+        {{ range .items }}
+        {{ $u := (printf "foundations/%s/" .slug) | relLangURL }}
+        <li class="fmap__item"><a class="fmap__card" href="{{ $u }}">
+          <span class="fmap__n">{{ printf "%02d" (int .n) }}</span>
+          <span class="fmap__body"><span class="fmap__title">{{ .title }}</span>{{ with .concepts }}<span class="fmap__concepts">{{ . }}</span>{{ end }}</span>
+          <span class="fmap__arrow" aria-hidden="true">→</span>
+        </a></li>
+        {{ end }}
+      </ol>
+    </section>
     {{ end }}
-  </ol>
+  {{ else }}
+    {{/* ===== discipline section — column-style list of sub-concept pages ===== */}}
+    {{ with .Content }}<div class="lede reveal">{{ . }}</div>{{ end }}
+    <div class="cards cards--list content-list" data-list>
+      {{ range $i, $p := .RegularPages.ByWeight }}
+        {{ partial "post-list-row.html" (dict "page" $p "index" (add $i 1)) }}
+      {{ else }}
+        <p class="muted">{{ i18n "no_posts" }}</p>
+      {{ end }}
+    </div>
   {{ end }}
 </section>
 {{ end }}

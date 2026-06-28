@@ -27,6 +27,19 @@ other = "工学"
 other = "経済"
 [fnd_law]
 other = "法"
+# Foundations — axis groups + relationship map (overview)
+[grp_formal]
+other = "形式・計算"
+[grp_mind]
+other = "心・意味"
+[grp_nature]
+other = "自然・実装"
+[grp_society]
+other = "社会・制度"
+[fnd_relations]
+other = "分野間のつながり"
+[fnd_ai_bridge]
+other = "コンピュータ科学 × 認知科学"
 # leaf sections
 [column]
 other = "コラム"

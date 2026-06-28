@@ -38,6 +38,15 @@
   </section>
 
   <section class="hsec reveal">
+    <div class="hsec__head"><h2 class="hsec__h">{{ i18n "foundations" }}</h2><a class="hsec__more" href="{{ "foundations/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
+    <div class="home-fnd">
+      {{ range (slice (dict "s" "math" "k" "fnd_math" "n" "01") (dict "s" "computer-science" "k" "fnd_cs" "n" "02") (dict "s" "philosophy" "k" "fnd_philosophy" "n" "03") (dict "s" "cognitive-science" "k" "fnd_cogsci" "n" "04") (dict "s" "physics" "k" "fnd_physics" "n" "05") (dict "s" "engineering" "k" "fnd_engineering" "n" "06") (dict "s" "economics" "k" "fnd_economics" "n" "07") (dict "s" "law" "k" "fnd_law" "n" "08")) }}
+      <a class="home-fnd__chip" href="{{ (printf "foundations/%s/" .s) | relLangURL }}"><span>{{ .n }}</span>{{ i18n .k }}</a>
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="hsec reveal">
     <div class="hsec__head"><h2 class="hsec__h">Apps <span class="amp">&amp;</span> Tools</h2><a class="hsec__more" href="{{ "apps/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
     <div class="cards hsec__grid">{{ range (where .Site.RegularPages "Section" "apps").ByDate.Reverse }}{{ partial "post-card.html" . }}{{ end }}</div>
   </section>

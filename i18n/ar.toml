@@ -27,6 +27,19 @@ other = "الهندسة"
 other = "الاقتصاد"
 [fnd_law]
 other = "القانون"
+# Foundations — axis groups + relationship map (overview)
+[grp_formal]
+other = "الصورة والحساب"
+[grp_mind]
+other = "العقل والمعنى"
+[grp_nature]
+other = "الطبيعة والصنع"
+[grp_society]
+other = "المجتمع والمؤسسات"
+[fnd_relations]
+other = "كيف تترابط المجالات"
+[fnd_ai_bridge]
+other = "علوم الحاسوب × العلوم المعرفية"
 # leaf sections
 [column]
 other = "مقالات"

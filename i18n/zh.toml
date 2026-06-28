@@ -27,6 +27,19 @@ other = "工程"
 other = "经济"
 [fnd_law]
 other = "法律"
+# Foundations — axis groups + relationship map (overview)
+[grp_formal]
+other = "形式·计算"
+[grp_mind]
+other = "心智·意义"
+[grp_nature]
+other = "自然·实现"
+[grp_society]
+other = "社会·制度"
+[fnd_relations]
+other = "学科之间的关系"
+[fnd_ai_bridge]
+other = "计算机科学 × 认知科学"
 # leaf sections
 [column]
 other = "专栏"

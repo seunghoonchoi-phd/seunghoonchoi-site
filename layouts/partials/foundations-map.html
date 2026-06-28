@@ -1,0 +1,37 @@
+{{/* 기초지식 개념도 — 8 numbered disciplines in 4 axes + relationship lines (AI bridge highlighted).
+     Language-safe: nodes carry the priority numbers (decoded by the 4-axis cards below); only the
+     axis labels + caption are localized via i18n. */}}
+<figure class="fmap-rel reveal">
+  <svg viewBox="0 0 920 330" class="fmap-rel__svg" role="img" aria-label="{{ i18n "fnd_relations" }}">
+    <text class="fmap-rel__grp" x="140" y="42" text-anchor="middle">{{ i18n "grp_formal" }}</text>
+    <text class="fmap-rel__grp" x="360" y="42" text-anchor="middle">{{ i18n "grp_mind" }}</text>
+    <text class="fmap-rel__grp" x="580" y="42" text-anchor="middle">{{ i18n "grp_nature" }}</text>
+    <text class="fmap-rel__grp" x="800" y="42" text-anchor="middle">{{ i18n "grp_society" }}</text>
+
+    <g class="fmap-rel__edges">
+      <line x1="140" y1="183" x2="140" y2="217"/>
+      <line x1="360" y1="183" x2="360" y2="217"/>
+      <line x1="580" y1="183" x2="580" y2="217"/>
+      <line x1="800" y1="183" x2="800" y2="217"/>
+      <path d="M140 160 Q360 96 580 160"/>
+      <path d="M360 160 Q580 112 800 240"/>
+      <path d="M360 240 Q580 300 800 160"/>
+      <path d="M580 240 Q690 292 800 240"/>
+    </g>
+
+    <path class="fmap-rel__ai-edge" d="M140 240 Q250 292 360 240"/>
+    <g class="fmap-rel__ai-chip"><rect x="231" y="261" width="38" height="20" rx="6"/><text x="250" y="275" text-anchor="middle">AI</text></g>
+
+    <g class="fmap-rel__nodes">
+      <circle class="fmap-rel__node" cx="140" cy="160" r="23"/><text class="fmap-rel__num" x="140" y="165" text-anchor="middle">01</text>
+      <circle class="fmap-rel__node" cx="140" cy="240" r="23"/><text class="fmap-rel__num" x="140" y="245" text-anchor="middle">02</text>
+      <circle class="fmap-rel__node" cx="360" cy="160" r="23"/><text class="fmap-rel__num" x="360" y="165" text-anchor="middle">03</text>
+      <circle class="fmap-rel__node" cx="360" cy="240" r="23"/><text class="fmap-rel__num" x="360" y="245" text-anchor="middle">04</text>
+      <circle class="fmap-rel__node" cx="580" cy="160" r="23"/><text class="fmap-rel__num" x="580" y="165" text-anchor="middle">05</text>
+      <circle class="fmap-rel__node" cx="580" cy="240" r="23"/><text class="fmap-rel__num" x="580" y="245" text-anchor="middle">06</text>
+      <circle class="fmap-rel__node" cx="800" cy="160" r="23"/><text class="fmap-rel__num" x="800" y="165" text-anchor="middle">07</text>
+      <circle class="fmap-rel__node" cx="800" cy="240" r="23"/><text class="fmap-rel__num" x="800" y="245" text-anchor="middle">08</text>
+    </g>
+  </svg>
+  <figcaption class="fmap-rel__cap">{{ i18n "fnd_relations" }} · <span class="fmap-rel__cap-ai">AI</span> = {{ i18n "fnd_ai_bridge" }}</figcaption>
+</figure>
