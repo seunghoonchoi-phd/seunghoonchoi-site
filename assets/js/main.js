@@ -37,15 +37,24 @@
   /* Mobile nav toggle */
   var burger = document.querySelector(".hamburger");
   var nav = document.querySelector(".nav");
+  function closeNavDropdowns() {
+    document.querySelectorAll(".nav__group.is-open").forEach(function (g) {
+      g.classList.remove("is-open");
+      var t = g.querySelector(".nav__toggle");
+      if (t) t.setAttribute("aria-expanded", "false");
+    });
+  }
   if (burger && nav) {
     burger.addEventListener("click", function () {
       var open = nav.classList.toggle("is-open");
       burger.setAttribute("aria-expanded", open ? "true" : "false");
+      if (!open) closeNavDropdowns();
     });
     nav.querySelectorAll("a").forEach(function (a) {
       a.addEventListener("click", function () {
         nav.classList.remove("is-open");
         burger.setAttribute("aria-expanded", "false");
+        closeNavDropdowns();
       });
     });
   }
@@ -63,19 +72,11 @@
   });
   document.addEventListener("click", function (e) {
     if (e.target.closest(".nav__group")) return;
-    document.querySelectorAll(".nav__group.is-open").forEach(function (g) {
-      g.classList.remove("is-open");
-      var t = g.querySelector(".nav__toggle");
-      if (t) t.setAttribute("aria-expanded", "false");
-    });
+    closeNavDropdowns();
   });
   document.addEventListener("keydown", function (e) {
     if (e.key !== "Escape") return;
-    document.querySelectorAll(".nav__group.is-open").forEach(function (g) {
-      g.classList.remove("is-open");
-      var t = g.querySelector(".nav__toggle");
-      if (t) t.setAttribute("aria-expanded", "false");
-    });
+    closeNavDropdowns();
   });
 
   /* Language switcher — toggle button opens a vertical dropdown */

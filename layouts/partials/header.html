@@ -49,11 +49,17 @@
       (dict "u" "foundations/law/" "key" "fnd_law") }}
     <div class="nav__group">
       <button type="button" class="nav__link nav__toggle{{ if $foundationsActive }} is-active{{ end }}" aria-haspopup="true" aria-expanded="false">{{ i18n "foundations" }}<span class="nav__caret" aria-hidden="true">▾</span></button>
-      <div class="nav__menu" role="menu">
-        {{ range $fnKids }}
+      <div class="nav__menu nav__menu--foundations" role="menu">
+        {{ range first 1 $fnKids }}
           {{ $u := .u | relLangURL }}
-          <a role="menuitem" href="{{ $u }}" class="nav__sublink{{ if and (ne $cur $home) (eq $cur $u) }} is-active{{ end }}">{{ i18n .key }}</a>
+          <a role="menuitem" href="{{ $u }}" class="nav__sublink nav__sublink--foundations-map{{ if and (ne $cur $home) (eq $cur $u) }} is-active{{ end }}">{{ i18n .key }}</a>
         {{ end }}
+        <div class="nav__foundations-grid">
+        {{ range after 1 $fnKids }}
+          {{ $u := .u | relLangURL }}
+          <a role="menuitem" href="{{ $u }}" class="nav__sublink nav__sublink--foundation{{ if and (ne $cur $home) (eq $cur $u) }} is-active{{ end }}">{{ i18n .key }}</a>
+        {{ end }}
+        </div>
       </div>
     </div>
 
