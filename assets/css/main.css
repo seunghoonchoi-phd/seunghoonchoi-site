@@ -1135,6 +1135,11 @@ body.lang-ko .cite__text{word-break:keep-all}
 .btn--ghost{background:transparent;color:var(--navy);border:1.5px solid var(--hair)}
 .btn--ghost:hover{border-color:var(--navy)}
 @media(max-width:560px){.home-hero__name{font-size:clamp(2.6rem,12vw,3.6rem)}}
+/* Native-name hero (ko·zh): lead with the native name, keep the Latin wordmark as a brand sub-line */
+.home-hero__name--native{letter-spacing:-.01em}
+body.lang-ko .home-hero__name--native{font-family:"Noto Sans KR",var(--sans);font-weight:700}
+body.lang-zh .home-hero__name--native{font-family:"Noto Sans SC",var(--sans);font-weight:700}
+.home-hero__latin{font-family:var(--serif-en);font-weight:600;font-size:clamp(1.5rem,3.4vw,2.4rem);letter-spacing:.01em;color:var(--copper);margin:clamp(2px,1vw,8px) 0 0}
 
 /* ---------- Home: full content (clean paper, scroll-reveal) ---------- */
 .home-full{position:relative;z-index:1;background:var(--paper);border-top:1px solid var(--hair)}
