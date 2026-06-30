@@ -1,156 +1,154 @@
 ---
-title: "Why I Cannot Explain the Report AI Wrote for Me: What Context Debt Is"
-description: "Why the person who asked AI to write a report may still be unable to explain it. How to resolve context debt, which matters more than sentences, and make the report your own."
+title: "Why I Cannot Explain the Report AI Wrote for Me: What Missing Background Knowledge Is"
+description: "Why the person who asked AI to write a report often cannot explain it. How to fill the gaps in background knowledge, which matter more than sentences, and make the report your own."
 date: 2026-06-21
 categories: ["Essays"]
 tags: ["context debt","knowledge structuring","work sense","questioning","new hire growth","AI"]
 subtitle: "AI can write the sentences for you. But the writer has to know why this argument is being made, how the work actually runs, and who will challenge what."
-seoTitle: "Why You Cannot Explain the Report AI Wrote: Context Debt and How to Ask Questions"
+seoTitle: "Why You Cannot Explain the Report AI Wrote: Missing Background Knowledge and How to Ask"
 image: /images/col-context-debt.jpg
 reviewStatus: "done"
 ---
 ![An old city map spread on a table, full of alleys but with no main roads marked](/images/col-context-debt.jpg)
 
-You feed material to AI and ask it to write a report. A few seconds later, a plausible document appears. It has a title, background, key points, and conclusion. Sentence by sentence, it looks quite decent. Then you walk into a meeting and someone asks:
+You feed material to AI and ask it to write a report. A few seconds later a plausible document appears. It has a title, background, key points, and a conclusion. Sentence by sentence it looks quite decent. Then you walk into a meeting and someone asks:
 
-"Why is this conclusion the most important one?"
-"How reliable is this number?"
-"Why did you leave out the other options?"
+"Why is this conclusion the most important one?"  
+"How reliable is this number?"  
+"Why did you leave out the other options?"  
 "Which department carries the biggest burden if we do this?"
 
-At that moment your hand stops. The report went up under your name, but you cannot explain the logic inside it to the end. Many people misunderstand what happened.
+At that moment your hand stops. The report went up under your name, but you cannot explain the logic inside it all the way through. Here many people misread the situation.
 
-Am I not smart enough?
-Did I use AI badly?
+Am I not smart enough?  
+Did I use AI badly?  
 Did I read too little?
 
-No. The problem is not the sentences. The report appeared first while you were still in debt to the context.
+No. The problem is not the sentences. The background knowledge was empty, and the report got made before that.
 
-## AI writes, but it cannot take responsibility
+## AI makes the writing, but it cannot take responsibility for you
 
-AI writes well. It organizes background, builds an outline, divides paragraphs, and produces sentences that look like conclusions. The more material you give it, the more plausible the structure becomes. But a report is not only sentences.
+AI makes good sentences. It organizes the background, sets up an outline, divides paragraphs, and produces sentences that look like conclusions. The more material you give it, the more plausible the result. But what matters in a report is not only the sentences.
 
-A report is an argument meant to persuade someone. You need to know why the argument is necessary, whom it has to persuade, which evidence is solid, where it is weak, and what the other side will challenge. AI can give plausible sentences. But if the writer does not know the background behind those sentences, the report is not theirs.
+A report is an argument meant to persuade someone. You need to know why that argument is necessary, whom it has to persuade, which evidence is solid, where it is weak, and what the other side will challenge. AI can give plausible sentences. But if the writer does not know the background behind those sentences, the report is not the writer's own.
 
-This difference appears the moment questions come in a meeting. The AI-written sentence remains on the screen, but the person who has to answer is me.
+This difference shows the moment a question comes in a meeting. The sentences AI wrote stay on the screen, but the one who has to answer the question is me.
 
-## More dangerous than not writing a report is writing a report you do not understand
+## More dangerous than a report that will not come out is a report you do not understand getting made
 
-Before AI, when a report would not come out, it was obvious. Your hands stopped. The sentences would not come. You did not know where to begin. That helplessness was painful, but at least it was honest. It revealed that you did not know.
+In the past, when a report would not come out, it showed at once. Your hand stopped, the sentences would not come, and you did not know where to start. That helplessness was painful, but at least it was honest, because it made plain that you did not know. In the AI era a more dangerous thing happens.
 
-In the AI era, something more dangerous happens.
+A report comes out even when you do not understand it.
 
-A report appears even when you do not understand.
+You put material in and AI makes the sentences. The blank page fills. A plausible structure appears. So it feels as if you understood it.
 
-Put material in and AI makes sentences. The blank page fills up. A plausible structure appears. So it feels as if you understand.
+But you may not have understood it at all. AI did not remove your helplessness; it only hid it from view. The fact that a report came out and the fact that you have a grip on that report are two different things.
 
-But you may not actually understand. AI did not remove your confusion. It only covered it so you could no longer see it. The fact that a report exists and the fact that you control the report are different.
+Miss this difference and you fall apart in the meeting.
 
-Miss that difference and the meeting exposes you.
+## Missing background knowledge is not written in the document
 
-## Context debt is the debt not written in the document
+This state can be described as a gap in background knowledge. It means there is background knowledge you have not yet filled in to make the report your own.
 
-We can call this state context debt. Context debt is the background knowledge debt you have not yet paid.
-
-Why this work began.
-Which earlier attempt failed.
-Which number can be trusted and which number needs caution.
-Who will like this conclusion and who will feel uncomfortable.
+Why this work began in the first place.  
+What earlier attempt failed.  
+Which numbers you can trust and which numbers need caution.  
+Who will like this conclusion and who will be uncomfortable with it.  
 Where the approver will push first.
 
-This information is not always written in the material.
+This kind of information is not always written in the material.
 
-The table has numbers. The minutes have decisions. The previous report has sentences. But why the number matters, why the decision was made, and why some sentence was removed often require separate questions.
+The table has numbers. The minutes have decisions. The earlier report has sentences. But why that number matters, why that decision came out, and why some sentence was left out are things you can only learn by asking separately.
 
-AI organizes what is written well. But it cannot freely know the unwritten context. So even if you feed AI a lot of material, context debt can remain. The sentences appear, but the debt remains.
+AI organizes what is written well. But it cannot know the unwritten background on its own. So even if you feed AI a lot of material, the gap in background knowledge can stay as it was. The sentences got made, but the background is empty.
 
-## Knowing fragments and knowing the argument are different
+## Knowing the pieces and knowing the argument are different
 
-Many people read the material and say, "I roughly know the content, but I freeze when asked to explain it." That happens because knowing fragments and knowing the argument are different.
+Many people read the material and say, "I roughly know the content, but I freeze when asked to explain it." The reason is that knowing the pieces and knowing the argument are different.
 
-Fragments are individual facts.
+The pieces are the individual facts.
 
-The project started in March.
-Cost rose by 20%.
-Customer churn rose by 5%.
-Options A and B were reviewed.
+This project started in March.  
+Costs rose by 20%.  
+Customer churn rose by 5%.  
+Plan A and Plan B were reviewed.
 
-AI organizes fragments well. But a report does not need a list of fragments. It needs to know which direction the fragments point.
+AI organizes pieces like these well. But what a report needs is not a list of pieces. You have to know which direction the pieces point in.
 
-Why is the 20% cost increase a problem?
-Is the 5% rise in churn temporary noise or structural risk?
-Which of A and B was discarded, and why?
-Whom does this report ultimately ask to make what decision?
+Why a 20% cost increase is a problem.  
+Whether a 5% churn rise is temporary noise or a structural risk.  
+Which of Plan A and Plan B was dropped, and why it was dropped.  
+Whom this report ultimately asks for what decision.
 
-You need that before you can explain the report. Just because AI organized the fragments does not mean the writer understood the argument. A report is not a bundle of materials. It is a directional argument.
+You have to know this to explain the report. The fact that AI organized the pieces does not mean the writer understood the argument. A report is not a bundle of material; it is an argument with a direction.
 
-## With context debt, one question can knock you down
+## When the background knowledge is empty, a single question knocks you down
 
-The scariest moment when you have context debt is being questioned.
+When the background knowledge is empty, the most frightening moment is when you get a question.
 
-"Why?"
-"What is the evidence?"
-"Can we trust that number?"
-"What about the other option?"
-"Who is burdened if we execute this?"
+"Why?"  
+"What is the basis?"  
+"Can we trust that number?"  
+"Any plan other than this one?"  
+"Who has a hard time if we carry it out?"
 
-These are not questions about writing skill. They are questions about context. No matter how smooth the report sentences are, if you cannot answer them, trust breaks.
+These questions are not asking about your writing. They are asking about the background. No matter how smoothly the report is written, if you cannot answer these, trust breaks.
 
-In fact, the smoother the sentences are, the more dangerous it becomes. The reader assumes the writer knew the content when writing it. If you cannot answer, the impression becomes, "They just submitted what AI wrote." At that moment, the issue is no longer only the report. The writer's trust is shaken.
+If anything, the more plausible the sentences, the more dangerous it is. The reader assumes the writer knew the content while writing it. But if you cannot answer the question, you give the impression, "So this person just turned in what AI wrote." At that moment it goes past a problem with the report; the writer's trust is shaken.
 
-## Ask AI to write, but dig the context with it
+## Have AI write it, but dig into the background together
 
-The solution is not to stop asking AI to write reports. AI is very useful for drafting. It is good at setting outlines, organizing sentences, and finding missing points. The problem is asking AI to "write the report" and stopping there. The sentences arrive quickly, but context debt remains.
+The solution is not to tell AI to stop writing reports. AI is very useful for drafting. It is good at setting up an outline, tidying sentences, and finding the points you missed. The problem is asking AI to "write the report" and stopping there. The sentences come out fast, but the gap in background knowledge stays as it was.
 
-You have to dig the context with AI. Put the material in and ask:
+You have to dig into the background together with AI. Put the material in and ask things like this.
 
-Who is the final decision-maker for this report?
-What is the strongest evidence and weakest evidence in this material?
-What missing premise is there?
-Where is an opposing person likely to attack?
-Which department carries the burden if this conclusion is accepted?
-What other options were there, and why were they dropped?
-What questions am I likely to receive in the meeting?
+Who is the final decision-maker for this report?  
+What is the strongest piece of evidence and the weakest piece of evidence in this material?  
+What premise is missing?  
+Where is someone who opposes it most likely to attack?  
+Which department takes on the burden if this conclusion goes through?  
+What were the other options, and why were they dropped?  
+What questions am I likely to get in the meeting?
 
-AI's answer is not the end. Take that answer and check it with people. Ask a senior colleague, the owner, the person who made the number, and the department that has to execute it.
+When AI gives an answer, that is not the end. You take that answer and check it with people. Ask a senior, ask the person in charge, ask the person who produced the numbers, ask the department that will carry it out.
 
-AI can infer context. It cannot confirm it for you.
+AI can guess at the background. But it cannot settle the background for you.
 
-## Four ways to pay down context debt
+## Four ways to fill in missing background knowledge
 
-To pay down context debt, you first need a map of the whole work and workflow in your head. You need to know where the work starts, which departments it passes through, who gives input, who judges, who executes, and where bottlenecks appear. Without that picture, the report is only a sheet of plausible sentences. The sentences may look right, but they are not connected to how the work actually runs.
+To fill the gap in background knowledge, you first have to be able to picture the whole structure and workflow of the task in your head. You have to know where the work starts, which departments it passes through, who provides input, who judges, who executes, and where the bottleneck forms. Without that picture, the report becomes paper with only plausible sentences. The sentences in the report look right, but they are not connected to how the work actually runs.
 
-If you stop at "what is this?" only the parts you do not understand will multiply. Instead, check four things. First, check the purpose.
+If you stop at "what is this?" the parts you do not understand only pile up. Instead, you should check four things. First, check the purpose.
 
-Why did this work start in the first place? Whom does this report have to persuade? What decision should the reader make after reading it? Second, check the flow.
+Why did this work start in the first place? Whom does this report have to persuade? What decision should it lead the reader to make in the end? Second, check the flow.
 
-In what order does the work move? Which departments and people are connected? What comes in at the previous step, and what goes out at the next step? Where does the bottleneck happen?
+In what order does this work move? Which departments and people are connected? What comes in at the earlier step, and what goes out at the later step? Where does the bottleneck form?
 
-Third, check strength and weakness. What is the strongest evidence? What is the weakest number? Up to where is this certain, and from where is it an estimate? Fourth, check attack points.
+Third, check the strong and weak points. What is the most solid piece of evidence? What is the weakest number? Up to where is it certain, and from where is it an estimate? Fourth, check the points of attack.
 
-Where will the reader push? What will an opposing person challenge? If this report is attacked, what will the first question be? Once you check these four things, the report changes. Not because the sentences get prettier, but because the structure of the work and the bones of the thinking appear.
+Where will the reader push? What will someone who opposes it find fault with? If this report is attacked, what will the first question be? When you check these four things, the report changes. It is not that the sentences get better; it is that the structure of the work and the frame of the thinking take shape.
 
 ## A good report is one I can explain
 
-Using a report AI wrote is not the problem. The problem is submitting a report I cannot explain under my name. The standard of a good report is not whether the sentences are smooth.
+Using a report AI wrote is not the problem. The problem is putting up a report I cannot explain under my name. The standard for a good report is not whether the sentences are smooth.
 
-Can I explain why I reached this conclusion?
-Can I say which evidence is strong and which is weak?
-Can I defend it when opposing questions come?
-Do I know who carries what burden if we execute it?
+Can I explain why I reached this conclusion?  
+Can I say which evidence is strong and which evidence is weak?  
+Can I defend it when an opposing question comes in?  
+Do I know who carries what if we carry it out?
 
-Only when you can answer these questions does the report become yours.
+You have to be able to answer these questions before the report becomes your own.
 
-AI can give a draft. It can set structure. It can find missing points. It can pull expected questions.
+AI can give you a draft. It can set up the structure. It can find the points you missed. It can pull out the expected questions too.
 
-But the person responsible at the end is the writer. Even if AI wrote the report, the questions come to a person.
+But the one who takes responsibility at the end is the writer. Even if AI wrote the report, the questions come to a person.
 
-## Empty understanding is more dangerous than an empty page
+## More dangerous than an empty page is empty understanding
 
-A blank page is frightening. But a blank page is at least honest. It shows that I do not yet know. A page filled by AI is less frightening. That is why it can be more dangerous.
+An empty page is frightening. But an empty page is at least honest. It shows that I do not yet know. A page AI has filled is less frightening. That is why it can be more dangerous.
 
-There may be sentences while understanding is empty. Do not be fooled by the fact that the report exists. Check whether you can explain it.
+There can be sentences while the understanding is empty. You must not be fooled by the fact that a report came out. You have to see whether you can explain that report.
 
-If you cannot explain it, you are not done. Only the sentences have appeared. The context debt remains. Report-writing ability in the AI era is not the ability to write faster. It is the ability to turn AI-made sentences into your own thinking.
+If you cannot explain it, it is not finished yet. Only the sentences got made; the gap in background knowledge is still there. Report-writing ability in the AI era is not the ability to write faster. It is the ability to turn the sentences AI made into your own thinking.
 
-Until that work is done, the report is not finished.
+Until you do that work, the report is not finished.
