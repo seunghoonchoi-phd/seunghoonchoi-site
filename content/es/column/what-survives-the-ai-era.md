@@ -14,7 +14,7 @@ build: {list: never, render: always}
 
 "Si te vuelves más inteligente que la IA, sobrevives." Eso dice todo el mundo. Es falso. La AGI supera al ser humano en casi cualquier tarea mental. Si intentas ganar con la cabeza, pierdes.
 
-La salida no está en la pelea de inteligencia. Está en la capacidad de tocar la realidad. La IA maneja bien el mundo que ya está capturado en datos. Pero examinar el ámbito que todavía no está capturado en datos, y unir eso a las cosas reales, a las personas y a la responsabilidad, sigue siendo tarea humana. Por eso la verdadera pregunta no es "¿la IA reemplaza al ser humano?". Es *hasta dónde llega la IA y dónde entra la persona*.
+La salida no está en la pelea de inteligencia. Está en la capacidad de tocar la realidad. La IA maneja bien el mundo que ya está capturado en datos. Pero examinar el ámbito que todavía no está capturado en datos, y unir eso a las cosas reales, a las personas y a la responsabilidad, sigue siendo tarea humana. Por eso la verdadera pregunta no es "¿la IA reemplaza al ser humano?". Es hasta dónde llega la IA y dónde entra la persona.
 
 ## La IA tampoco es gratis, todo cuesta dinero
 

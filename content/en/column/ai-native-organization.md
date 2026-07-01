@@ -52,11 +52,11 @@ The core is just one thing. AI pulls the draft and assists the judgment. The fin
 | 5 | Agent operations (human supervision plus multi-step agents) |
 | 6 | Business-model shift (the product, customer experience, and revenue model all assume AI) |
 
-Most companies stop at stages 1 to 2. The real gap starts to widen at stage 3. At the exact point where *the work was actually redrawn.*
+Most companies stop at stages 1 to 2. The real gap starts to widen at stage 3. At the exact point where the work was actually redrawn.
 
 ## Lean on a few experts and the bottleneck gets worse
 
-AI literacy is the state of *knowing* what AI is, what it's good at, what it's bad at, and where it's dangerous. AI fluency is the state of actually attaching that to your own work and *getting results.* If only a few experts handle it well, the work piles up on them. A bottleneck forms, governance breaks down, and agent accidents multiply. What you need isn't a handful of people who aced the written test. It's a state where many people can run it themselves. The order is clear, too. A broad group has to get hands-on first for governance to work, and only then do system integration and agent operations become possible.
+AI literacy is the state of knowing what AI is, what it's good at, what it's bad at, and where it's dangerous. AI fluency is the state of actually attaching that to your own work and getting results. If only a few experts handle it well, the work piles up on them. A bottleneck forms, governance breaks down, and agent accidents multiply. What you need isn't a handful of people who aced the written test. It's a state where many people can run it themselves. The order is clear, too. A broad group has to get hands-on first for governance to work, and only then do system integration and agent operations become possible.
 
 ## Get this wrong and you just burn money
 

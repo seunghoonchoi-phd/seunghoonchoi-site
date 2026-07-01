@@ -14,7 +14,7 @@ build: {list: never, render: always}
 
 "Get smarter than AI and you survive." Everyone says it. They're wrong. AGI will overwhelm humans at almost any job that runs on brainpower. Try to win on brains and you lose.
 
-The way out isn't on the brain side. It's on the side of touching reality. AI already handles the world that's been captured as data. But the work of examining the area that hasn't been captured as data yet, and tying it to physical things, to people, and to accountability, is still ours. So the real question isn't "will AI replace humans." It's *how far does AI go, and where does the human step in.*
+The way out isn't on the brain side. It's on the side of touching reality. AI already handles the world that's been captured as data. But the work of examining the area that hasn't been captured as data yet, and tying it to physical things, to people, and to accountability, is still ours. So the real question isn't "will AI replace humans." It's how far does AI go, and where does the human step in.
 
 ## AI isn't free either, it all costs money
 

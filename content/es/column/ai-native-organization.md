@@ -52,11 +52,11 @@ La clave es una sola. Sacar el borrador y ayudar a juzgar lo hace la IA; la resp
 | 5 | Operación de agentes (supervisión humana + ejecución de varios pasos por agentes) |
 | 6 | Cambio del modelo de negocio (el producto, la experiencia del cliente y el modelo de ingresos asumen la IA como base) |
 
-La mayoría se detiene en los niveles 1 y 2. La verdadera brecha se abre a partir del nivel 3. En ese punto en que *se vuelve a dibujar el trabajo de verdad*.
+La mayoría se detiene en los niveles 1 y 2. La verdadera brecha se abre a partir del nivel 3. En ese punto en que se vuelve a dibujar el trabajo de verdad.
 
 ## Si todo se concentra en unos pocos expertos, se forma un cuello de botella
 
-La alfabetización en IA es el estado de *saber* qué es la IA, qué hace bien, qué hace mal y dónde está el peligro. La fluidez en IA es el estado de aplicarla de verdad a mi trabajo y *sacar resultados*. Si solo unos pocos expertos la manejan bien, el trabajo se concentra en ellos. Aparece un cuello de botella, la gobernanza falla y ocurre algún accidente con un agente. Lo que hace falta no son unas pocas personas con nota perfecta en el examen, sino un estado en el que varias personas pueden manejarla directamente. El orden también es claro. Muchas personas tienen que tener práctica directa para que la gobernanza funcione, y solo así son posibles la integración de sistemas y la operación de agentes.
+La alfabetización en IA es el estado de saber qué es la IA, qué hace bien, qué hace mal y dónde está el peligro. La fluidez en IA es el estado de aplicarla de verdad a mi trabajo y sacar resultados. Si solo unos pocos expertos la manejan bien, el trabajo se concentra en ellos. Aparece un cuello de botella, la gobernanza falla y ocurre algún accidente con un agente. Lo que hace falta no son unas pocas personas con nota perfecta en el examen, sino un estado en el que varias personas pueden manejarla directamente. El orden también es claro. Muchas personas tienen que tener práctica directa para que la gobernanza funcione, y solo así son posibles la integración de sistemas y la operación de agentes.
 
 ## Si te confundes, solo tiras el dinero
 
