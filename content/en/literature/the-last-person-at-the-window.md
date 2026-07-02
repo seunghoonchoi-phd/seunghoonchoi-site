@@ -4,13 +4,13 @@ date: 2026-06-21
 categories: ["소설"]
 tags: ["단편소설"]
 subtitle: "The one thing a former translator never let go of."
-image: /images/col-ai-replacement-stages.jpg
+image: /images/inline/literature-the-last-person-at-window.jpg
 aliases: ["/literature/the-window/"]
 hidden: true
 build: {list: never, render: always}
 ---
 
-![The silhouette of a person sitting by a window that looks out on the sea](/images/col-ai-replacement-stages.jpg)
+![The silhouette of a person sitting by a window that looks out on the sea](/images/inline/literature-the-last-person-at-window.jpg)
 
 Every morning, Su-kyung still takes the same seat.
 

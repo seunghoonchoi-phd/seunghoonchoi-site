@@ -63,6 +63,8 @@ Take-home pay is roughly $2,200-$2,400/month, so living alone is possible but ti
 - General stores: Publix (BOGO deals), Aldi (low-cost), Walmart, Trader Joe's (3724 SW Archer Rd), Sam's Club (SW 30th Pl). Note: there's no Costco in Gainesville.
 - Korean groceries: There's no full Korean supermarket in town. Most needs are covered by pan-Asian markets like Chun Ching Market (418 NW 8th Ave) plus online Weee! ([sayweee.com](https://www.sayweee.com/)), with a once-a-month run to H-Mart Orlando (1.5-2 hours by car) for serious stocking up.
 
+![Living in Gainesville: Housing, Transit, Budget, Health, Climate, and Community](/images/inline/career-uf-guide-5-gainesville-life.jpg)
+
 ## Health and Medical Care (SHCC): The Essentials
 
 The medical system is structured differently from Korea's, so getting the concepts straight early saves a lot of money and time.

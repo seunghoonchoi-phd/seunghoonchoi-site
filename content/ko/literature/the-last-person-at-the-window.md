@@ -4,13 +4,13 @@ date: 2026-06-21
 categories: ["소설"]
 tags: ["단편소설"]
 subtitle: "번역가였던 한 사람이, 끝까지 손에서 놓지 않은 단 하나."
-image: /images/col-ai-replacement-stages.jpg
+image: /images/inline/literature-the-last-person-at-window.jpg
 aliases: ["/literature/the-window/"]
 hidden: true
 build: {list: never, render: always}
 ---
 
-![바다가 보이는 창가에 앉은 사람의 실루엣](/images/col-ai-replacement-stages.jpg)
+![바다가 보이는 창가에 앉은 사람의 실루엣](/images/inline/literature-the-last-person-at-window.jpg)
 
 수경은 여전히 아침마다 같은 자리에 앉는다.
 

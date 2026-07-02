@@ -40,6 +40,8 @@ build: {list: never, render: always}
 - 常见选择：Chase College Checking（学生月费 $0，校园附近网点多）、BoA、Wells Fargo。$100~$300 的新开户奖励经常有，记得查一下。
 - 选择标准很简单：按 校园附近网点和 ATM 的密集程度 来挑，日常用起来最方便。
 
+![美国研究生院落地指南 Part 3：到美后的行政办理顺序（手机、银行、SSN、驾照、信用）](/images/inline/career-uf-guide-3-arrival-setup.jpg)
+
 ## 3. SSN（社会安全号）
 
 助教（GA）有工资收入，所以符合申请 SSN 的资格。只是不能一落地就申请，流程上要先等几天。

@@ -30,6 +30,8 @@ Para un estudiante F-1 que llega de Corea a Estados Unidos, el tratado fiscal Co
 - Se aplica en dos pasos. Primero presentas el formulario 8233 al equipo de nóminas (payroll) para obtener la reducción en la etapa de retención; después, al declarar los impuestos, anotas que aplicaste el tratado en la línea 1k del 1040-NR y en el Schedule OI.
 - La UF gestiona los impuestos de los no residentes con Sprintax. Puedes ver el texto del tratado en el [PDF del tratado Corea-Estados Unidos del IRS](https://www.irs.gov/pub/irs-trty/korea.pdf).
 
+![Impuestos básicos para estudiantes internacionales en Estados Unidos: extranjero no residente F-1 durante 5 años, exención de FICA y tratado fiscal Corea-Estados Unidos (Parte 4)](/images/inline/career-uf-guide-4-f1-taxes.jpg)
+
 ## Formularios y fechas límite
 
 Qué formularios debes presentar depende de si tienes ingresos o no. Lo resumo en la siguiente tabla.

@@ -40,6 +40,8 @@ Once you have a U.S. number, the bank is next. Students can open an account even
 - Common options: Chase College Checking ($0/month for students, many branches near campus), BoA, Wells Fargo. New-account bonuses of $100~$300 are a frequent promotion, so check for them.
 - The selection criterion is simple: pick by branch and ATM density near campus, which is what makes daily life easiest.
 
+![U.S. Grad School Settlement Guide Part 3: Post-Arrival Admin in Order (Phone, Bank, SSN, License, Credit)](/images/inline/career-uf-guide-3-arrival-setup.jpg)
+
 ## 3. SSN (Social Security Number)
 
 As a GA you receive a salary, so you're eligible for an SSN. You just can't apply the moment you arrive; the process requires waiting a few days.

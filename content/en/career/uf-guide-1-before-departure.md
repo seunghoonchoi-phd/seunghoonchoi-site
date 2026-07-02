@@ -89,6 +89,8 @@ Medications · transfer →  Confirm insurance · immun. hold  →   Tax filing 
 Korean admin wrap-up   →  Orientation · course registration →  Car (optional)
 ```
 
+![From Acceptance to Departure: Reading Your Offer Letter to Sending Money Abroad](/images/inline/career-uf-guide-1-before-departure.jpg)
+
 ## 3. Placement Exam
 
 - Window: June to early August, online on [eLearning](https://elearning.ufl.edu/). Mix of multiple-choice and written.

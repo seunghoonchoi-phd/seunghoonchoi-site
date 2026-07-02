@@ -30,6 +30,8 @@ For an F-1 student who came from Korea, the Korea-U.S. tax treaty adds a further
 - Claiming it is a two-step process. First, file Form 8233 with payroll to reduce withholding at the source; then, at filing time, report the treaty claim on 1040-NR Line 1k and Schedule OI.
 - UF handles nonresident tax filing through Sprintax. You can read the treaty text in the [IRS Korea treaty PDF](https://www.irs.gov/pub/irs-trty/korea.pdf).
 
+![U.S. Tax Basics for F-1 Students: 5-Year Nonresident, FICA Exemption, Korea-U.S. Treaty (Part 4)](/images/inline/career-uf-guide-4-f1-taxes.jpg)
+
 ## Filing forms and deadlines
 
 Which forms you owe depends on whether you have income. Here is the breakdown.

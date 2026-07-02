@@ -4,13 +4,13 @@ date: 2026-06-21
 categories: ["Ficción"]
 tags: ["Relato corto"]
 subtitle: "Lo único que una traductora no soltó hasta el final."
-image: /images/col-ai-replacement-stages.jpg
+image: /images/inline/literature-the-last-person-at-window.jpg
 aliases: ["/literature/the-window/"]
 hidden: true
 build: {list: never, render: always}
 ---
 
-![Silueta de una persona sentada junto a una ventana con vista al mar](/images/col-ai-replacement-stages.jpg)
+![Silueta de una persona sentada junto a una ventana con vista al mar](/images/inline/literature-the-last-person-at-window.jpg)
 
 Sugyeong sigue sentándose cada mañana en el mismo sitio.
 

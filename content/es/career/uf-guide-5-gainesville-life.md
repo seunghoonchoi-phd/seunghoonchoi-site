@@ -63,6 +63,8 @@ Lo que recibes después de impuestos es de unos $2.200-$2.400 al mes, así que v
 - Supermercados generales: Publix (ofertas BOGO), Aldi (precios bajos), Walmart, Trader Joe's (3724 SW Archer Rd), Sam's Club (SW 30th Pl). Ten en cuenta que en Gainesville no hay Costco.
 - Comida coreana: en la ciudad no hay un supermercado coreano propiamente dicho. La mayoría se resuelve con tiendas panasiáticas como Chun Ching Market (418 NW 8th Ave) y la web Weee! ([sayweee.com](https://www.sayweee.com/)). Para una compra grande de verdad, lo habitual es ir una vez al mes en coche al H-Mart de Orlando, a 1,5-2 horas de distancia.
 
+![Vivir en Gainesville de la A a la Z: vivienda, transporte y costo de vida, salud, clima y comunidad](/images/inline/career-uf-guide-5-gainesville-life.jpg)
+
 ## Salud y atención médica (SHCC): lo esencial que debes saber
 
 El sistema de salud de Estados Unidos funciona de forma distinta al coreano, así que entender los conceptos desde el principio te puede ahorrar mucho dinero y tiempo.

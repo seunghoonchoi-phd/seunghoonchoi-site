@@ -30,6 +30,8 @@ build: {list: never, render: always}
 - 申请分为两步。先向薪资部门（payroll）提交 Form 8233，在源头代扣阶段获得减免；之后在报税时，在 1040-NR Line 1k 和 Schedule OI 上填报协定适用情况。
 - UF 的非居民税务处理使用 Sprintax。协定原文可在 [IRS 韩美协定 PDF](https://www.irs.gov/pub/irs-trty/korea.pdf) 查阅。
 
+![F-1 学生的美国税务基础：非居民外国人 5 年、FICA 豁免、韩美税收协定（第 4 篇）](/images/inline/career-uf-guide-4-f1-taxes.jpg)
+
 ## 申报表格与截止日期
 
 需要提交哪些表格，取决于你是否有收入。下表加以归纳。

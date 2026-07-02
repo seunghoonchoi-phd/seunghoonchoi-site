@@ -28,6 +28,8 @@ El detalle está aquí: antes de salir del país, si todavía no tienes una cuen
 
 Si encima es una tarjeta coreana, peor todavía. A la comisión por pago se le suman la comisión por uso en el extranjero y la pérdida por el tipo de cambio al convertir wones a dólares, y existe incluso el riesgo de que el banco bloquee la tarjeta: ve un cargo que sale todos los meses desde el extranjero y sospecha que es un uso fraudulento. Si el pago se bloquea, eso se convierte directamente en un impago, y a la comisión por cada rechazo (suelen ser unos 40 dólares) se le puede sumar el recargo por mora. La domiciliación que configuraste para vivir más tranquilo acaba siendo, en realidad, una estructura que te encarece todo.
 
+![Domiciliar el alquiler al estudiar en EE. UU.: si aún no tienes cuenta americana, no lo configures con tarjeta](/images/inline/career-us-rent-autopay.jpg)
+
 ## El orden correcto
 
 Por eso lo más limpio es plantearlo así.

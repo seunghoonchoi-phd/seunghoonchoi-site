@@ -4,13 +4,13 @@ date: 2026-06-21
 categories: ["कहानी"]
 tags: ["लघुकथा"]
 subtitle: "एक इंसान जो कभी अनुवादक था, और उसने आख़िर तक एक ही चीज़ नहीं छोड़ी।"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/inline/literature-the-last-person-at-window.jpg
 aliases: ["/literature/the-window/"]
 hidden: true
 build: {list: never, render: always}
 ---
 
-![समुद्र दिखती खिड़की के पास बैठे एक इंसान की छाया](/images/col-ai-replacement-stages.jpg)
+![समुद्र दिखती खिड़की के पास बैठे एक इंसान की छाया](/images/inline/literature-the-last-person-at-window.jpg)
 
 सुक्यॉन्ग अब भी हर सुबह उसी जगह बैठती है।
 

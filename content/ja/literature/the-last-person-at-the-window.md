@@ -4,13 +4,13 @@ date: 2026-06-21
 categories: ["小説"]
 tags: ["短編小説"]
 subtitle: "翻訳家だった一人が、最後まで手放さなかったただ一つのこと。"
-image: /images/col-ai-replacement-stages.jpg
+image: /images/inline/literature-the-last-person-at-window.jpg
 aliases: ["/literature/the-window/"]
 hidden: true
 build: {list: never, render: always}
 ---
 
-![海の見える窓辺に座る人のシルエット](/images/col-ai-replacement-stages.jpg)
+![海の見える窓辺に座る人のシルエット](/images/inline/literature-the-last-person-at-window.jpg)
 
 スギョンは今でも、毎朝同じ場所に座る。
 

@@ -63,6 +63,8 @@ UFの大学院生は、ほぼ全員がオフキャンパスに住んでいます
 - 一般のスーパー：Publix（BOGOセール）、Aldi（低価格）、Walmart、Trader Joe's（3724 SW Archer Rd）、Sam's Club（SW 30th Pl）。ちなみにCostcoはゲインズビルにありません。
 - 韓国食材の調達：市内に本格的な韓国系スーパーはありません。汎アジア系スーパーのChun Ching Market（418 NW 8th Ave）などと、オンラインのWeee!（[sayweee.com](https://www.sayweee.com/)）でだいたい間に合います。まとまった買い出しは、車で1.5〜2時間のH-Mart Orlandoへ月1回行くのが一般的なやり方です。
 
+![ゲインズビル生活完全ガイド：住まい・交通・生活費から健康・気候・コミュニティまで](/images/inline/career-uf-guide-5-gainesville-life.jpg)
+
 ## 健康・医療（SHCC）：必ず知っておきたい要点
 
 アメリカの医療システムは韓国とは仕組みが違うので、最初に考え方を押さえておくと、お金も時間も大きく節約できます。

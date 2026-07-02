@@ -47,6 +47,8 @@ Hay algunos puntos más que debes tener en cuenta.
 - Se recomiendan unos $20,000 disponibles (UFIC) para el depósito, la renta, la matrícula, el coche, las comunicaciones y demás gastos iniciales. Como el primer sueldo llega aproximadamente un mes después, es prudente tener listos por adelantado, en efectivo o tarjeta, los gastos de los primeros 1 o 2 meses y los gastos iniciales para instalarte.
 - Si solo tienes una parte de los documentos, CBP puede emitir un I-515A (admisión temporal de 30 días). En ese caso, contacta de inmediato a UFIC.
 
+![Visa F-1 y entrada a Estados Unidos: requisitos para mantener el estatus y llegada al aeropuerto](/images/inline/career-uf-guide-2-f1-visa-entry.jpg)
+
 ## Trámite obligatorio tras la llegada: check-in en línea de ISSS
 
 Llegar a Estados Unidos no es el final. Los nuevos estudiantes F-1 deben completar el check-in en línea de ISSS dentro de los 30 días desde la fecha de inicio del programa indicada en el I-20. El orden es el siguiente.

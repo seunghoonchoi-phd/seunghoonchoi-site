@@ -22,6 +22,13 @@ Follow the global user instructions first. These rules apply to this website rep
 - Use `-SkipScreenshot` only for a text-only smoke check. Use `-FullBuild` when the change touches layout, CSS, Hugo config, static assets, images that affect layout, Arabic pages, or anything outside a single article body/front matter.
 - For Claude/Codex coordination, Claude should focus on read-only content and risk review: argument shape, Korean tone, source claims, expected URL/title, and whether `-FullBuild` is needed. Codex should run the deterministic pipeline: edit files, execute the harness, inspect screenshots, commit, push, and verify live output.
 
+## Multilingual Content Parity
+
+- Korean content under `content/ko` is the source of truth for public content. When a public page, article, column, career guide, research item, book page, app page, or literature page changes, update every configured language tree in the same turn unless the user explicitly says local-only, Korean-only, or draft-only.
+- Always include Japanese in parity checks. A change is not ready to push if `content/ja` is missing the Korean-source file, image reference, structural block, or current front matter used by the other languages.
+- Before committing public content changes, run `node tools/check-language-sync.js`. If the change adds or changes article body images, also run `node tools/check-article-image-uniqueness.js`.
+- Translations of the same canonical content item should share the same body image path. Different canonical content items should not reuse `/images/col-*` or `/images/inline/*` body images unless the user explicitly asks for a shared site-wide illustration.
+
 ## RTL Layout Guard
 
 - Arabic pages are RTL, but math/formula notation is LTR. Keep `.formula-block` content `direction:ltr` and visually centered.

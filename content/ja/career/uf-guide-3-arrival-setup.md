@@ -40,6 +40,8 @@ build: {list: never, render: always}
 - よく使われるところ: Chase College Checking(学生は月$0、キャンパス近くに支店が多い)、BoA、Wells Fargo。新規加入ボーナス$100〜$300のプロモーションがよくあるので確認しましょう。
 - 選ぶ基準はシンプルです。キャンパス近くに支店・ATMがどれだけ多いかで選べば、日常で一番便利です。
 
+![アメリカ大学院 定着ガイド Part 3: 到着後の行政手続きの順番：携帯・銀行・SSN・免許・クレジット](/images/inline/career-uf-guide-3-arrival-setup.jpg)
+
 ## 3. SSN (社会保障番号)
 
 TA・RA(GA)は給与を受け取るのでSSNの対象です。ただし到着してすぐに申請できるわけではなく、手続き上、数日待つ必要があります。

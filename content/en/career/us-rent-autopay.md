@@ -28,6 +28,8 @@ But before you fly out, if you don't have a U.S. bank account yet, you can't use
 
 A Korean card makes it worse. On top of the processing fee, you stack a foreign transaction fee and the exchange-rate loss from converting won to dollars, plus there's the risk that your card company flags a recurring overseas charge as fraud and blocks it. If the payment gets blocked, it counts as a missed payment, and you can end up paying a declined-transaction fee (often around $40) plus the late fee. AutoPay, the thing you set up to make life easier, ends up quietly increasing your costs.
 
+![Setting Up Rent AutoPay for U.S. Grad School? Don't Use a Card Without a U.S. Bank Account](/images/inline/career-us-rent-autopay.jpg)
+
 ## The Right Order
 
 So here's the clean way to handle it.

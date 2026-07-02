@@ -40,6 +40,8 @@ Cuando ya tengas un número estadounidense, lo siguiente es el banco. Aunque tod
 - Las opciones más usadas: Chase College Checking (para estudiantes, $0 al mes, y con muchas sucursales cerca del campus), BoA, Wells Fargo. Suele haber promociones de bono por abrir cuenta de $100 a $300, así que revísalo.
 - El criterio para elegir es simple. Decídete por cuántas sucursales y cajeros automáticos hay cerca del campus; eso es lo más cómodo en el día a día.
 
+![Guía para instalarte en un posgrado en Estados Unidos, Parte 3: el orden de los trámites tras llegar (móvil, banco, SSN, licencia y crédito)](/images/inline/career-uf-guide-3-arrival-setup.jpg)
+
 ## 3. SSN (número de seguro social)
 
 Como asistente de cátedra (GA) recibes salario, así que te corresponde un SSN. Pero no puedes solicitarlo apenas llegas: por el trámite hay que esperar unos días.

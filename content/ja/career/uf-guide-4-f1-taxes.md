@@ -30,6 +30,8 @@ build: {list: never, render: always}
 - 適用は二段階で行います。まず給与担当(payroll)にForm 8233を提出して源泉徴収の段階で減免を受け、その後の税務申告のときに1040-NRのLine 1kとSchedule OIに条約を適用した事実を記載します。
 - UFの非居住者向け税務処理はSprintaxを使います。条約の原文は[IRSの米韓条約PDF](https://www.irs.gov/pub/irs-trty/korea.pdf)で確認できます。
 
+![アメリカ留学生の税金の基本: F-1 非居住外国人5年・FICA免除・米韓租税条約 (Part 4)](/images/inline/career-uf-guide-4-f1-taxes.jpg)
+
 ## 申告書類と締め切り
 
 どの書類を出すべきかは、所得があるかどうかで分かれます。下の表にまとめます。

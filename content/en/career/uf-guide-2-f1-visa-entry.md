@@ -47,6 +47,8 @@ A few more things to plan for:
 - Roughly $20,000 in available funds is recommended (UFIC), covering deposits, rent, registration, a vehicle, and phone setup. Since your first paycheck arrives about a month later, it's safest to secure your first one to two months of living expenses plus initial settlement costs in cash or on a card ahead of time.
 - If you only have some of your documents, CBP may issue an I-515A (30-day temporary admission); in that case, contact UFIC immediately.
 
+![F-1 Visa and U.S. Entry: From Status Requirements to Airport Arrival](/images/inline/career-uf-guide-2-f1-visa-entry.jpg)
+
 ## After-Arrival Obligation: ISSS Online Check-In
 
 Arriving in the U.S. isn't the finish line. New F-1 students must complete ISSS online check-in within 30 days of the program start date on the I-20. Here's the sequence.

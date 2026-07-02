@@ -31,6 +31,8 @@ I did not know how to write a Resume. I had to look up what an SOP even was, tha
 
 To put the conclusion first: I did it. I took the TOEFL, chose schools and professors, read those professors' papers and sent contact emails, did Zoom meetings, wrote my SOP, got in, and passed the F-1 visa interview as well. A materials engineering PhD program at the University of Florida (UF), fully funded.
 
+![You Can Prepare for a US PhD on Your Own](/images/inline/career-us-phd-guide.jpg)
+
 Let me be clear up front. What this book holds is only my own experience from one US PhD preparation process. I am simply setting down what I went through, just as it was, and showing the route that was possible on my own. The judgment is the reader's to make.
 
 That is why I am writing this book. The know-how I bought, and the experience I learned by finally running into things myself even after paying, I mean to lay out in full, all of it, for the price of a single book.

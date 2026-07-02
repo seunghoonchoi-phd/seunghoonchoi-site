@@ -30,6 +30,8 @@ build: {list: never, render: always}
 - 적용은 두 단계로 합니다. 먼저 급여팀(payroll)에 Form 8233을 제출해 원천징수 단계에서 감면을 받고, 이후 세금 신고 때 1040-NR Line 1k와 Schedule OI에 조약 적용 사실을 적습니다.
 - UF의 비거주자 세무 처리는 Sprintax를 사용합니다. 조약 원문은 [IRS 한미조약 PDF](https://www.irs.gov/pub/irs-trty/korea.pdf)에서 확인할 수 있습니다.
 
+![미국 유학생 세금 기초: F-1 비거주 외국인 5년, FICA 면제, 한미 조세조약 (Part 4)](/images/inline/career-uf-guide-4-f1-taxes.jpg)
+
 ## 신고 서류와 마감일
 
 어떤 서류를 내야 하는지는 소득이 있는지에 따라 갈립니다. 아래 표로 정리합니다.
