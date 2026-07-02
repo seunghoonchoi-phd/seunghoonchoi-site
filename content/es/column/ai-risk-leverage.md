@@ -26,7 +26,7 @@ Pero si la dirección está mal, los problemas se acumulan a la misma velocidad.
 
 La IA no es tanto un aparato que mejora el juicio de una persona. Es más bien un amplificador del juicio y de la capacidad de ejecución que esa persona ya tiene. Si el juicio es bueno, el resultado crece. Si el juicio es deficiente, el daño también crece. Por eso el riesgo de la era de la IA no está en que una persona incompetente fracase lentamente. Está en que una persona bastante inteligente y muy ejecutora saque cosas al mundo sin verificación.
 
-## El riesgo empieza cuando el borrador sale afuera
+## Si la revisión se retrasa, el borrador sale afuera
 
 Una frase hecha por IA cambia por completo cuando deja de estar dentro y sale afuera.
 

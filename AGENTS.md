@@ -22,6 +22,14 @@ Follow the global user instructions first. These rules apply to this website rep
 - Use `-SkipScreenshot` only for a text-only smoke check. Use `-FullBuild` when the change touches layout, CSS, Hugo config, static assets, images that affect layout, Arabic pages, or anything outside a single article body/front matter.
 - For Claude/Codex coordination, Claude should focus on read-only content and risk review: argument shape, Korean tone, source claims, expected URL/title, and whether `-FullBuild` is needed. Codex should run the deterministic pipeline: edit files, execute the harness, inspect screenshots, commit, push, and verify live output.
 
+## Column TOC Flow
+
+- Before publishing or revising a column, extract the H2 list and read it as a standalone table of contents. It must show one clear spine, not a pile of related topics.
+- Choose the spine that fits the article: cause chain, contrast, chronological/dependency order, or checklist. Do not force a single pattern across all columns.
+- Use numbered labels such as `1단계`, `Step 1`, or `Paso 1` only when the sections are real steps that must be performed in order. For ordinary opinion columns, make the heading wording carry the sequence instead: `X하면 Y`, `검토가 밀리면...`, `그래서...`, `공개 전에는...`.
+- If the TOC reads as parallel buckets such as 법적 리스크 / 평판 리스크 / 보안 리스크, add or rename headings so the reader can see why the next section follows from the previous one.
+- Apply the same H2 structure across every configured language, especially `content/ja`; the translated headings may sound natural in each language, but the argument spine must match the Korean source.
+
 ## Multilingual Content Parity
 
 - Korean content under `content/ko` is the source of truth for public content. When a public page, article, column, career guide, research item, book page, app page, or literature page changes, update every configured language tree in the same turn unless the user explicitly says local-only, Korean-only, or draft-only.

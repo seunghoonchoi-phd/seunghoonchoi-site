@@ -28,7 +28,7 @@ But if the direction is wrong, problems pile up at the same speed. False claims 
 
 AI is less a device that improves judgment by itself than a device that amplifies the judgment and execution power a person already has. Good judgment scales into better results. Shaky judgment scales into bigger trouble. So the risk of the AI era is not an incompetent person failing slowly. It is a reasonably smart, high-execution person sending things outside too quickly, without review.
 
-## Risk Starts When a Draft Leaves the Room
+## Weak Review Lets Drafts Leave the Room
 
 A sentence written by AI becomes a completely different object once it leaves the inside.
 
