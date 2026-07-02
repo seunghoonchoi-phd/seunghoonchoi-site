@@ -16,9 +16,9 @@ Con IA, crear un texto toma muy poco. Sale un aviso para clientes, un comunicado
 
 Cuando se conecta IA, esa pausa desaparece. El borrador sale demasiado rápido y corregirlo es demasiado fácil. Si uno quiere, puede producir diez textos, diez avisos o diez propuestas en un día. El problema es que los controles de verificación también tendrían que multiplicarse por diez, y muchas veces siguen igual.
 
-Más producción significa más cosas que revisar.
+Más producción significa más cosas que revisar. La secuencia es simple: la velocidad crea volumen, el volumen empuja borradores hacia afuera y, cuando un borrador sale, aparecen riesgos legales, de reputación y de seguridad.
 
-## No solo se aceleró la ejecución
+## Si aumenta la salida, también aumenta lo que revisar
 
 Para una persona audaz y con mucha capacidad de acción, la IA es una herramienta enorme. Convierte una idea en documento, un documento en código y el código en algo casi listo para desplegar. Una persona sola puede producir lo que antes hacía un equipo pequeño. Si la dirección es correcta, esa velocidad se vuelve logro: se acumulan textos, salen productos, aparecen automatizaciones, y trabajos que antes quedaban pendientes se convierten en resultados reales.
 
@@ -26,7 +26,7 @@ Pero si la dirección está mal, los problemas se acumulan a la misma velocidad.
 
 La IA no es tanto un aparato que mejora el juicio de una persona. Es más bien un amplificador del juicio y de la capacidad de ejecución que esa persona ya tiene. Si el juicio es bueno, el resultado crece. Si el juicio es deficiente, el daño también crece. Por eso el riesgo de la era de la IA no está en que una persona incompetente fracase lentamente. Está en que una persona bastante inteligente y muy ejecutora saque cosas al mundo sin verificación.
 
-## El borrador interno y la publicación externa son cosas distintas
+## El riesgo empieza cuando el borrador sale afuera
 
 Una frase hecha por IA cambia por completo cuando deja de estar dentro y sale afuera.
 
@@ -34,7 +34,7 @@ Un borrador en mis notas puede estar mal y luego corregirse. Un documento intern
 
 Ahí aparece la responsabilidad. Decir "la IA lo escribió así" no ayuda mucho frente a lectores, clientes, el equipo legal, seguridad o socios. Lo que salió afuera termina siendo mi palabra. Lo que sale con el nombre de la empresa es palabra de la empresa. Usar IA como herramienta de borrador está bien. De hecho, conviene usarla mucho. El problema es llevar la libertad del borrador hasta la etapa de publicación. Se puede experimentar rápido. Se puede lanzar lento. Cuando intentamos mover ambas cosas a la misma velocidad, aparece el accidente.
 
-## El riesgo legal está dentro de la frase
+## El riesgo legal aparece cuando una frase se vuelve promesa
 
 El riesgo legal no suele ser evidente desde el principio. Normalmente está dentro de frases naturales: una promesa de producto un poco exagerada, una comparación con base débil, una imagen de derechos dudosos, un caso armado con datos de clientes, una frase que descalifica a un competidor con demasiada seguridad. En la etapa de borrador cada cosa parece un detalle de estilo. Afuera puede convertirse en un problema de publicidad, contrato, copyright, datos personales o difamación.
 
@@ -44,7 +44,7 @@ La frase más peligrosa es la afirmación que suena bien. Nadie la verificó, pe
 
 Por eso los documentos con riesgo legal necesitan una revisión aparte. Hay que mirar si prometen algo al cliente, si mueven dinero, si incluyen datos personales o condiciones contractuales, si tocan los derechos o la reputación de alguien. Si entra en esa zona, un borrador de IA no debe salir tal cual.
 
-## El riesgo de reputación también nace de frases correctas
+## Las palabras correctas dañan la reputación si suenan frías
 
 El riesgo de reputación es más ambiguo que un error factual. Una frase puede no estar equivocada y aun así causar problemas.
 
@@ -58,7 +58,7 @@ Los daños de reputación no siempre surgen de una gran frase. A menudo nacen de
 
 <p class="inline-image-caption">El riesgo de la IA crece por la velocidad: cómo la automatización sin revisión agranda las crisis</p>
 
-## El riesgo de seguridad también nace de la buena intención
+## La prisa puede sacar datos sensibles al exterior
 
 Los incidentes de seguridad no los causan solo personas maliciosas. Muchas veces los causa alguien que quiere terminar bien y rápido.
 
@@ -68,7 +68,7 @@ Cuantas más herramientas de IA hay, mayor es el riesgo. No es lo mismo una herr
 
 Las reglas de uso de IA no tienen que ser grandiosas. Primero hay que dejar clara la lista de información que no se debe introducir: datos personales de clientes, cuentas y tokens, contratos no públicos, información financiera interna, investigación o productos antes de publicarse. Eso debe estar bloqueado por defecto y, si hace falta usarlo, solo en un entorno aprobado.
 
-## Cuanto más audaz sea la persona, más necesita un control
+## La gente rápida necesita más controles
 
 La persona cautelosa ya va despacio. Antes de subir un archivo peligroso pregunta otra vez; antes de publicar, se detiene. Puede resultar lenta, pero es menos probable que mande errores en masa hacia afuera.
 
@@ -78,7 +78,7 @@ Lo que hace falta no es cambiar la personalidad. Decirle a alguien muy ejecutor 
 
 Segundo, materiales de circulación interna. Como el equipo puede leerlos, hay que revisar fuentes, números e información sensible. Tercero, publicaciones externas. Aquí entran legal, seguridad, reputación y responsable final. Si lo verá un cliente, un lector, un socio o el público, ya no es un borrador. Esta sola distinción reduce muchos accidentes. No hace falta volver lento todo documento. Hay que ser estricto con lo que sale afuera.
 
-## Las preguntas antes de lanzar no tienen que ser muchas
+## El control puede ser cinco preguntas antes de publicar
 
 Antes de sacar un resultado de IA al público, como mínimo hay que preguntar esto.
 
@@ -88,7 +88,7 @@ Si las preguntas son demasiadas, nadie las mira. Por eso deben ser pocas. Cinco 
 
 Un buen punto de control no existe para frenar el trabajo. Existe para poder crear más rápido con menos miedo. En el borrador se usa IA con libertad; en la publicación se filtra lo que debe filtrarse. Así una persona ejecutora puede mantener velocidad sin convertir cada salida en un riesgo.
 
-## Borrador rápido, salida estricta
+## Borrador rápido, pausa antes de publicar
 
 Con IA, cada vez más personas harán más cosas: textos, código, apps, borradores de contrato, anuncios, materiales educativos, atención al cliente. Todo se acelera. Eso es bueno. El problema aparece cuando la velocidad adelanta a la responsabilidad.
 
