@@ -48,6 +48,8 @@ No eran personas que primero pusieran en palabras la estructura completa y luego
 
 En la competencia de examenes de alto nivel, esa diferencia se agranda. Algunos estudiantes ven la estructura de un problema aunque la explicacion sea incompleta. La forma de una ecuacion, el flujo de condiciones, el aspecto de un grafico: la mano se mueve antes. Los examenes antiguos favorecian a ese tipo intuitivo.
 
+![Un salvavidas para quienes hacen demasiadas preguntas](/images/inline/column-questions-lifeline.jpg)
+
 ## No habia quien recibiera las preguntas
 
 Antes casi no habia forma de abrir ese cuello de botella. No habia suficientes personas que pudieran recibir preguntas fundamentales hasta el final. Los profesores tenian que avanzar con el temario. Las academias tenian que repetir tipos de problemas. Los libros rara vez explicaban todos los pasos intermedios.

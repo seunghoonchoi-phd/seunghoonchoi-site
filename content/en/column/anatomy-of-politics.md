@@ -40,6 +40,8 @@ Good policy is usually complex. Its effects come late. Education, health care, i
 
 So good politics gets a raw deal. The more genuinely helpful a policy is, the longer its explanation, the later it is felt, and the louder the people who oppose it. The many who benefit are quiet, and the few who lose resist hard. So a good politician must not only make good policy. They have to turn that policy into words people can feel. They have to turn numbers into a person's face, and a distant future benefit into a small change people can feel now. `A 2% drop in unemployment` is weaker than `one day of a person who got a job back`. People react first to a concrete life, not to a statistic.
 
+![How Politics Wins People's Hearts: The Method for a Person Who Cannot Fake It](/images/inline/column-anatomy-of-politics.jpg)
+
 ## Winning popularity and doing the work are different abilities
 
 The ability to win votes and the ability to get the work done are different. In an election you have to speak hope to many people. In governing you have to set priorities and say that what cannot be done cannot be done. In an election, making many promises can sometimes help. But administration runs only when you cut promises and execute. Elections use the language of emotion, and administration uses the language of responsibility. So a person who speaks well does not necessarily do the work well. The other way around, a person who does the work well does not necessarily win votes well. They are different abilities.

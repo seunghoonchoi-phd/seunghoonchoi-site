@@ -54,6 +54,8 @@ Lo mismo pasa con el tono de marca. En una página personal o en una cuenta de e
 
 Los daños de reputación no siempre surgen de una gran frase. A menudo nacen de pequeñas desalineaciones acumuladas, hasta que el lector siente: "aquí no me están mirando como persona, me están respondiendo en automático". Cuanto más rápido se escribe con IA, más importante es que una persona lea al final. No solo para ver si la frase es correcta, sino para ver cómo le sonará a quien la recibe. La reputación no es un problema de información. Es un problema de relación.
 
+![El riesgo de la IA crece por la velocidad: cómo la automatización sin revisión agranda las crisis](/images/inline/column-ai-risk-leverage.jpg)
+
 ## El riesgo de seguridad también nace de la buena intención
 
 Los incidentes de seguridad no los causan solo personas maliciosas. Muchas veces los causa alguien que quiere terminar bien y rápido.

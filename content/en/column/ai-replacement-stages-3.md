@@ -48,6 +48,8 @@ The report looks perfect. The logic seems plausible. The numbers look right. But
 
 The problem is not AI openly saying something false. It is a case where the logic is perfect on the document but misaligned with the real field. At that point, the expert is no longer someone who fully verifies AI. They become someone who attaches responsibility to an AI result.
 
+![Decision Authority Does Not Move All at Once: Stages 9 to 14 of AI Taking Work](/images/inline/column-ai-replacement-stages-3.jpg)
+
 ## Stage 12, replacement of video and voice
 
 Video and voice are already changing quickly. The key is not simply making fake people. The core is whether actually existing people can be replaced almost perfectly on screen and in voice.

@@ -48,6 +48,8 @@ El informe parece perfecto. La lógica suena bien. Los números parecen correcto
 
 El problema no es que la IA diga una mentira obvia. Es que, sobre el papel, el documento puede ser lógicamente perfecto y aun así chocar con el terreno. En ese momento el experto deja de ser quien verifica por completo a la IA y se vuelve quien une responsabilidad al resultado de la IA.
 
+![La autoridad de decidir no se entrega de golpe: etapas 9 a 14 de cómo la IA toma el trabajo](/images/inline/column-ai-replacement-stages-3.jpg)
+
 ## Etapa 12, reemplazo de video y voz
 
 El video y la voz ya están cambiando rápido. Lo importante no es solo crear una persona falsa. El punto central es si puede reemplazarse casi por completo en pantalla y voz a una persona real.

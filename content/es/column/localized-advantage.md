@@ -29,6 +29,8 @@ Aunque la fuerza total vaya 40 contra 60, en esos 30 segundos en que las tropas 
 
 Lo que importa no es la cantidad total de tropas. Es la fuerza que de verdad ha llegado al momento que hace falta y al lugar que hace falta. Puedo tener menos en el conjunto. Basta con tener más en un solo punto.
 
+![Por qué Lee Young-ho no hace crecer todo su ejército y solo gana 30 segundos: cómo reunir la fuerza en un solo punto y atrapar el momento decisivo](/images/inline/column-localized-advantage.jpg)
+
 ## Golpea el hueco que está a punto de aparecer
 
 Entonces la pregunta se reduce a una sola. ¿Cuándo se debilita el rival, o el entorno?

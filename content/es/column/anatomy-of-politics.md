@@ -40,6 +40,8 @@ Las buenas políticas suelen ser complejas. El efecto también llega tarde. La e
 
 Por eso la buena política queda en desventaja injusta. Cuanto más útil es de verdad una política, más larga es su explicación, más tarde se siente y más ruidosos son quienes se oponen. La mayoría que se beneficia se queda callada; la minoría que pierde algo resiste con fuerza. Así que un buen político no puede limitarse a crear buenas políticas. Debe convertir esa política en palabras que la gente pueda sentir. Convertir los números en historias de personas concretas y mostrar el beneficio del futuro lejano como un pequeño cambio que se siente hoy. `Reducir el desempleo un 2%` es más débil que `un día de una persona que recuperó su trabajo`. La gente responde antes a una vida concreta que a una estadística.
 
+![Cómo la política gana el corazón de la gente. El método de quien no sabe decir frases vacías](/images/inline/column-anatomy-of-politics.jpg)
+
 ## La capacidad de ganar popularidad y la de hacer bien el trabajo son distintas
 
 La capacidad de ganar votos y la de sacar adelante el trabajo son distintas. En las elecciones hay que hablar de esperanza a mucha gente. Al gobernar hay que fijar prioridades y decir que lo que no se puede, no se puede. En las elecciones, a veces conviene prometer mucho. Pero la administración funciona reduciendo promesas y ejecutando. Las elecciones usan el lenguaje de la emoción; la administración usa el lenguaje de la responsabilidad. Por eso quien habla bien no necesariamente hace bien el trabajo. Y al revés, quien hace bien el trabajo no necesariamente gana muchos votos. Son capacidades distintas.

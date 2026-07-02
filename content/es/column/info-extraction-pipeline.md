@@ -43,6 +43,8 @@ El primer paso solo saca candidatos. No ordena. El segundo paso le añade signif
 
 El mecanismo central es "marcar si es supuesto". Obliga a separar la estructura que la IA inventó de la estructura que de verdad tiene base en la conversación, para que no se mezclen.
 
+![Hablas mucho con la IA y no te queda nada en la mano. Tres prompts para ordenar en Notion](/images/inline/column-info-extraction-pipeline.jpg)
+
 ## Prompts para copiar y pegar, úsalos tal cual
 
 ### Paso 1: no ordenes, solo saca candidatos

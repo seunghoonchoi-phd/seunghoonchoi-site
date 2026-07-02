@@ -42,6 +42,8 @@ build: {list: never, render: always}
 
 核心就一条：出初稿、帮着判断的是 AI，最终责任永远在人。
 
+![用 AI 的公司很多。离了 AI 就停摆的，才叫 AI 原生组织](/images/inline/column-ai-native-organization.jpg)
+
 ## 差距从第 3 阶段开始拉开
 
 | 阶段 | 内容 |

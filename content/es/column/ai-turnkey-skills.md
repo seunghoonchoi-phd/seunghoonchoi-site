@@ -42,6 +42,8 @@ En la era de la IA, los cuellos de botella no son solo falta de técnica. Tambi�
 
 Cuarto, cerrar la ejecución es un fundamento aún más valioso con IA.
 
+![En la era de la IA, si falta una sola de estas 7 capacidades, el trabajo se tambalea. Y hay algo aún más importante](/images/inline/column-ai-turnkey-skills.jpg)
+
 La IA produce borradores, ideas, código y resúmenes con rapidez. Pero convertir ese borrador en algo que clientes y colegas puedan usar de verdad sigue siendo tarea humana. Un buen comienzo importa menos que llevarlo hasta un resultado utilizable.
 
 Quinto, optimizar eficiencia y calidad exige mirar velocidad y acabado a la vez.

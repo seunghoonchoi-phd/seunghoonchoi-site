@@ -74,6 +74,8 @@ Luego viene el juicio que parecía intuición: situaciones nuevas, gustos sutile
 
 Pero todavía queda una diferencia: asumir pérdidas con tu propio nombre. Acertar es una cosa; responder por una decisión es otra. La IA puede aproximar el tacto, pero la responsabilidad marca otra etapa.
 
+![El orden en que la IA toma el trabajo: desde tareas con respuesta hasta la existencia humana](/images/inline/column-ai-replacement-stages.jpg)
+
 ## Etapa 9, empieza a entregarse autoridad de decisión a la IA
 
 Desde aquí cambia el carácter. Que la IA pueda hacerlo no basta. La persona debe entregar autoridad, porque hay responsabilidad.

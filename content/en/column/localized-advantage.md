@@ -29,6 +29,8 @@ Even when total strength is 40 to 60 against them, in those 30 seconds when the 
 
 The point isn't your total troop count. It's the strength that has actually arrived at the moment you need it, at the spot you need it. You're allowed to have less across the whole. You only need to have more in one place.
 
+![Why Flash Wins 30 Seconds Instead of Building Up His Whole Army: Pooling Your Strength to Take the Decisive Moment](/images/inline/column-localized-advantage.jpg)
+
 ## Hit the gap that's about to open
 
 So the question narrows down to one thing. When does the opponent, or the situation, get weak?

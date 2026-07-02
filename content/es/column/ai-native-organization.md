@@ -42,6 +42,8 @@ Compartir el contexto de la organización con la IA de forma continua
 
 La clave es una sola. Sacar el borrador y ayudar a juzgar lo hace la IA; la responsabilidad final siempre es de la persona.
 
+![Hay muchas empresas que usan IA. La 'organización nativa de IA' es la que se detiene sin ella](/images/inline/column-ai-native-organization.jpg)
+
 ## La brecha se abre a partir del nivel 3
 
 | Nivel | Contenido |

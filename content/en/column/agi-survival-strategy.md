@@ -29,4 +29,6 @@ I've boiled down what to do with my life in the age of AI to twelve rules. None 
 11. AI is not an answer machine. It's a machine that runs the work. What you need is AI with memory and a checklist bolted on. I'm not someone who hands out orders. I'm someone who builds the setup that lets AI run steadily.
 12. Keep the core axis fixed, and bolt the rest on as modules. My core axis is materials, computation, experiment, simulation, and AI. Coding, statistics, patents, business, taxes, and immigration are just tools that grow that axis.
 
+![12 Rules to Survive the AGI Era: Don't Do Work That Leaves Nothing](/images/inline/column-agi-survival-strategy.jpg)
+
 Cut down to one line, it's this. The person who survives the AGI era isn't the human who is better than AI. It's the human who puts AI to work and keeps producing real assets that the human world recognizes.

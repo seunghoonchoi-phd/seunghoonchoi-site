@@ -59,6 +59,8 @@ That changes the standard for juniors. Companies feel that “I do not know yet,
 
 This is where schools become more responsible. If companies can no longer spend as much time training juniors through easy work, schools need to provide some of the training before students enter companies. Before graduation, students need to apply a practical concept from beginning to end at least once. They need to research with AI, draft with AI, check the result outside the classroom, and revise what is wrong.
 
+![AI-Era Schools Should Teach Practical Judgment, Not Just Knowledge](/images/inline/column-ai-school-practical-sense.jpg)
+
 ## Students Need To Check Outside The Screen
 
 Future juniors need to know how to give AI structured work. If a junior only says “do this” and hands the whole task to AI, companies will not value that person highly. Juniors need to break the task into what to research, what to compare, what the draft is for, what conditions matter for calculation, and what criteria should be used for review. Then they need to check whether AI's output fits the real situation.

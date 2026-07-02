@@ -36,6 +36,8 @@ Sin duda trabajó duro. Pero ese esfuerzo no queda en ninguna parte. Desaparece 
 
 El esfuerzo en sí no está mal. El problema es que ese esfuerzo no queda ordenado en una forma que se pueda volver a usar y trasladar. El esfuerzo que no se puede volver a usar desaparece en el momento en que paras las manos. Solo el esfuerzo que dejaste ordenado para poder volver a usarlo sigue trabajando después de que tú te vas.
 
+![Por qué no acumulas nada aunque trabajes mucho. Deja resultados que puedas volver a usar, no tiempo](/images/inline/column-value-conversion.jpg)
+
 ## ¿En qué queda este esfuerzo?
 
 Por eso, para subir un nivel, hay una pregunta que conviene tener siempre presente. Es la pregunta que te haces a ti mismo cada vez que terminas un trabajo. "¿En qué queda este esfuerzo que pueda volver a usar?"

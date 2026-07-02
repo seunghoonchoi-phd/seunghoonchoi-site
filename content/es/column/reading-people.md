@@ -35,6 +35,8 @@ Por eso, "si haces esto, ganas esto" mueve poco a la gente, aunque parezca lo co
 
 Esto sirve para las dos direcciones. Se puede usar para presionar a la gente con miedo. Pero yo quiero usarlo al revés. Cuando propongo un cambio, lo primero es entender qué teme perder el otro. Cuando alguien se resiste a cambiar, casi nunca es por pereza. Es por miedo a que le quiten lo que conoce. Si no calmas primero ese miedo, hasta la mejor propuesta suena solo a amenaza.
 
+![A las personas no las mueve la lógica. Lee el miedo a perder, el orgullo y la responsabilidad](/images/inline/column-reading-people.jpg)
+
 ## Antes que la lógica vienen el beneficio, la pérdida, el orgullo y la responsabilidad
 
 Piensa en alguien que quiere introducir un método nuevo en su equipo. Si es una persona inteligente, gastará todo el tiempo explicando lo eficiente que es su idea. Pero lo que de verdad mueve a la gente no es esa explicación. Son las respuestas a cuatro preguntas que giran en silencio en la cabeza de quien escucha.

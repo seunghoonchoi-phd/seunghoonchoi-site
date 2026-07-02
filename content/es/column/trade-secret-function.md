@@ -50,6 +50,8 @@ Tercero, y esto es lo más temible. Lo que ahora está bien pero falla más tard
 
 Este mapa del fracaso no aparece ni en el producto terminado, ni en el artículo publicado, ni en la receta hecha pública. Es lógico. El producto terminado solo enseña un punto, el del éxito. Los cientos de fracasos que se pisaron para llegar hasta ahí, y la línea de "aquí no hay que entrar" que esos fracasos dibujaron, no quedan en ninguna parte del resultado. Pero lo que de verdad te ahorra tiempo la próxima vez que haces algo parecido no es ese único punto de éxito, sino justo esa línea de frontera.
 
+![Por qué la copia nunca sabe igual. En la era de la IA, la verdadera ventaja está en otra parte](/images/inline/column-trade-secret-function.jpg)
+
 ## La explicación se copia, pero la ejecución no se reproduce
 
 Hay una frontera curiosa. Son esos gestos que cualquiera sabe explicar, pero que luego no logra repetir.

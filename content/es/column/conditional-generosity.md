@@ -65,6 +65,8 @@ Por eso, también "poner distancia" tiene un orden. Bloquear es la última carta
 
 Primero, reduce lo que muestras. Que él no conozca tus planes, tus puntos débiles ni tu estado de ánimo. Si no se ve el blanco, no hay tiro de precisión. Segundo, vuélvete alguien a quien molestar sale caro. Cuando meterse contigo le haga perder más de lo que gana, casi cualquier agresor se irá por su cuenta hacia un blanco más débil. Tercero, llega a la indiferencia. La forma más completa de poner distancia no es evitar, sino la indiferencia. Evitar significa que él todavía decide tus movimientos, porque cambias de camino para esquivarlo. La indiferencia es el estado en que su existencia vale cero en las cuentas de tu cabeza. Si haga lo que haga tu día no se altera, él pierde por completo toda influencia sobre ti. Cuarto, si aun así no funciona, abandona la partida. Cambia de departamento, corta el trato, múdate de sitio. Muchas veces vale más cambiar de partida que empeñarse en ganar dentro de ella.
 
+![Cómo ser buena persona sin que te tomen el pelo: hasta los santos sacan la espada ante un canalla](/images/inline/column-conditional-generosity.jpg)
+
 ## El impulso de despellejar conviértelo en información
 
 Ahora le toca, ya no al canalla de fuera, al impulso de dentro. Yo también tengo momentos en que quiero rebajar a alguien. Pero por experiencia aprendí algo con claridad. Si saco esa agresividad hacia fuera, mi reputación empeora de golpe. ¿Por qué? No es simplemente porque "haya que parecer bueno". Hay una razón más fría.

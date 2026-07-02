@@ -80,6 +80,8 @@ Next comes judgment and sense without clear answers: situations that have not ha
 
 But something remains here: choosing with conviction while knowing that if you are wrong, you take the loss. It is not merely getting the answer right. It is taking responsibility for the judgment. AI can follow sense. Responsibility still remains with people.
 
+![The Order AI Takes Work: From Work with Right Answers to Human Existence](/images/inline/column-ai-replacement-stages.jpg)
+
 ## Stage 9, people begin delegating decision authority to AI
 
 From here, the nature changes.

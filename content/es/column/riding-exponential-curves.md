@@ -30,6 +30,8 @@ Si gastas el salario, se vuelve costo de vida. Si lo dejas, se vuelve capital in
 
 El primer método es simple. Hay que dejar apartada una parte del salario, sí o sí. Y ese excedente debe convertirse en propiedad, no en consumo. Pueden ser acciones, índices, participación en un negocio, un producto propio o contenido. El punto es no dejar que el dinero solo pase por tus manos, sino convertirlo en algo que quede a tu nombre.
 
+![Con salario no te vuelves rico. Cómo crear activos que crecen con interés compuesto](/images/inline/column-riding-exponential-curves.jpg)
+
 ## Cómo elegir activos que crecen con interés compuesto
 
 No todos los activos son iguales. Algunos siguen igual con el tiempo; otros se vuelven más fáciles de hacer crecer. Un buen activo facilita el crecimiento futuro. Los usuarios atraen usuarios, los datos mejoran el producto, los textos crean búsqueda y confianza, la marca facilita la siguiente oportunidad. Lo acumulado debe ayudar al siguiente crecimiento.

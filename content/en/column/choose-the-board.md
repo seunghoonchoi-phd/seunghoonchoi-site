@@ -51,6 +51,8 @@ In some positions, the result you achieved does not carry over to the next thing
 
 This is the real reason results spread apart when ability is the same.
 
+![Building Skill Alone Won't Widen Your Results. Choose Your Environment First.](/images/inline/column-choose-the-board.jpg)
+
 ## Where Opportunity Is Blocked, Building Skill Pays Back Only That Much.
 
 This is why the common prescription so often comes up empty.

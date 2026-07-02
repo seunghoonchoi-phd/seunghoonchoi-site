@@ -73,6 +73,8 @@ Una cámara no basta. En el campo hay información que los ojos no capturan por 
 
 Para que la IA se pegue al trabajo real, tiene que estar presente en ese momento. Y el ser humano tiene que poder transmitir a la IA lo que percibe con el cuerpo tanto como sea posible. Solo así la IA juzga la situación que tiene delante, no solo documentos en una pantalla.
 
+![¿Ninguna empresa ha ganado dinero con IA? La pregunta llega demasiado pronto](/images/inline/column-ai-profit-question-too-early.jpg)
+
 ## Si solo piensas en robots, pierdes la parte importante
 
 Cuando la gente imagina la IA entrando en el mundo físico, suele saltar directamente a los robots. La IA obtiene un cuerpo, camina, agarra, mueve, conduce y reemplaza movimiento humano.

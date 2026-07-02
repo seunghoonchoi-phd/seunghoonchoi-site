@@ -31,6 +31,8 @@ En cualquier empresa hay al menos una regla que de boca dicen cumplir, pero que 
 
 Aquí, la persona ingenua comete dos errores. O cumple la aprobación previa con terquedad y es la única que se queda atrás, o ignora la regla a la vista de todos diciendo que no sirve para nada y, cuando algo estalla, carga sola con la responsabilidad. Quien lee la regla operativa lo sabe: esa regla no existe para frenar el trabajo. Existe para decidir de quién es la responsabilidad cuando algo sale mal. Por eso se mueve rápido la mayor parte del tiempo, pero deja constancia por escrito de antemano solo en lo arriesgado. No leyó la letra de la regla, sino lo que la regla hace de verdad.
 
+![La verdadera razón por la que la mejor propuesta se cae en la reunión](/images/inline/column-operating-rules.jpg)
+
 ## Se contrata al proveedor caro por el orgullo del directivo
 
 Hay decisiones que, vistas desde fuera, no hay manera de entender. Habiendo un proveedor externo más barato y mejor, se insiste en seguir con el de siempre, que es caro y lento. Un equipo que funciona bien se parte de pronto en dos. Si solo miras la racionalidad, cualquiera ve que es una pérdida. Pero miremos un solo paso más allá: "¿el presupuesto de quién protege esta decisión y a quién le salva el orgullo?". En ese momento todo se aclara.

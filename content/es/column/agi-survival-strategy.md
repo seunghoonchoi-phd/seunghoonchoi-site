@@ -29,4 +29,6 @@ Sobre qué hacer con mi vida en la era de la IA, reduje la respuesta a doce prin
 11. La IA no es una máquina de respuestas. Es una máquina para hacer funcionar el trabajo. Lo que hace falta es ponerle a la IA un sistema que recuerde y una lista de verificación. Yo no soy quien le da órdenes a la IA. Soy quien prepara las condiciones para que la IA funcione de forma estable.
 12. El eje central se mantiene fijo; el resto lo añades por piezas. Mi eje central son los materiales, el cálculo, los experimentos, la simulación y la IA. La programación, la estadística, las patentes, los negocios, los impuestos y la inmigración son solo herramientas para hacer crecer ese eje.
 
+![12 principios para sobrevivir en la era de la AGI: no hagas lo que no deja nada](/images/inline/column-agi-survival-strategy.jpg)
+
 Resumido en una línea, es esto. Quien sobrevive en la era de la AGI no es el humano más brillante que la IA. Es el humano que, usando la IA, sigue produciendo activos reales que el mundo de las personas reconoce.

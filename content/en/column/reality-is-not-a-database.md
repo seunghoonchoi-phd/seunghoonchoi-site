@@ -61,6 +61,8 @@ So the AI era needs humans who verify AI outputs against real-world risk. AI pro
 
 This is the core of high-level employment going forward. We do not only need people who "know how to use AI." We need people who can check AI-made outputs again against safety, cost, responsibility, institutions, and people.
 
+![AI Is Not Advancing Too Fast: Compared with Civilization's Stopwatch, It Is Still Slow](/images/inline/column-reality-is-not-a-database.jpg)
+
 ## Why Is Employment a Social Stabilizer?
 
 Employment is not merely "feeding people." Large-scale unemployment and exclusion make civilization projects impossible to sustain for long. When people lose jobs, income, and meaning, climate action or space development becomes politically hard to hold together. The tax base weakens, social trust erodes, extremism grows, and long-term projects can be reversed by one election.

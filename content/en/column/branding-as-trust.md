@@ -47,6 +47,8 @@ Think of it this way. You used to guess the craft from the shop sign alone, beca
 
 The more common sentences become, the more the difference moves to the evidence behind the sentence and to trust. Anyone can say something that sounds plausible, so what matters now is whether the saying turns out to be true. This is why trust becomes valuable. Not because supply shrank, but because trust is about the only signal left that can't be imitated.
 
+![When AI Drafts Writing for Free, the Thing That Gets Hard to Find Is Trust](/images/inline/column-branding-as-trust.jpg)
+
 ## Branding is five pieces that connect in order
 
 Leave branding as a vague image and you can't get hold of it. Break it into five pieces and it sharpens. And these five connect in order.

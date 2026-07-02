@@ -36,6 +36,8 @@ He clearly worked hard. Yet that effort never stays anywhere. The moment the pre
 
 Effort itself isn't the problem. The problem is that the effort never gets organized into a form you can reuse and move. Effort you can't reuse disappears the moment your hands stop. Only effort you've organized so it can be used again goes on working after you've left.
 
+![Why Working Hard Never Adds Up: Leave Behind Reusable Results, Not Hours](/images/inline/column-value-conversion.jpg)
+
 ## What Does This Effort Become?
 
 So to move up one step, there's a question you need to make a habit of. It's a question you ask yourself every time you finish a piece of work: "What reusable thing does this effort become?"

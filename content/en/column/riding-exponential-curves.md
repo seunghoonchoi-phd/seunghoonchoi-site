@@ -30,6 +30,8 @@ If you spend salary, it becomes living cost. If you keep some of it, it becomes 
 
 The first method is simple. Keep part of your salary no matter what. Then turn what remains into ownership, not consumption. It can be stocks, an index fund, business equity, your own product, or content. The core is not to let money pass through you, but to change it into something that remains under your name.
 
+![Salary Alone Will Not Make You Rich. How to Build Assets That Compound](/images/inline/column-riding-exponential-curves.jpg)
+
 ## How to choose assets that compound
 
 Not all assets are the same. Some stay the same over time, while others become easier to grow as time passes. A good asset makes the next round of growth easier. More users lead to more users. Data improves the product. Writing builds search ranking and trust. A brand makes the next opportunity easier. What you have built up should help the next round of growth.

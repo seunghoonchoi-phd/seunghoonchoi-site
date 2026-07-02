@@ -50,6 +50,8 @@ Third, and this one is the scariest. The things that look fine now and fail late
 
 This failure map never makes it into the finished product, the published paper, or the released recipe. Of course it doesn't. The finished product shows only the one point that succeeded. The hundreds of failures it took to get there, and the boundary line those failures drew that says "do not go in here," survive nowhere in the output. Yet the thing that saves you time the next time you build something similar isn't the one successful point. It's that boundary line.
 
+![Why the Copy Never Tastes the Same: The Real Moat in the AI Era](/images/inline/column-trade-secret-function.jpg)
+
 ## You can explain it, but you still can't reproduce it
 
 There's an interesting border. Motions anyone can explain but almost no one can pull off again.

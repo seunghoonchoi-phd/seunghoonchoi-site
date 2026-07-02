@@ -51,6 +51,8 @@ build: {list: never, render: always}
 
 能力一样、结果却拉开的真正原因,就在这里。
 
+![光练实力,结果拉不开。先挑环境](/images/inline/column-choose-the-board.jpg)
+
 ## 在机会被堵死的地方练实力,练多少就只到多少
 
 所以那个最常见的办法,常常白费。

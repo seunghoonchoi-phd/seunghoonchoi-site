@@ -58,6 +58,8 @@ In real-world work, the goal is not simple. It is not enough for a weld to look 
 
 So machines can become strong in average situations. They learn quickly in common conditions, repeated tasks, and work where results are immediately visible. But weaknesses remain in rare signals right before an accident, exceptions outside the model, and risk judgments that are hard to score.
 
+![AI Beat Go. Why Is Welding Still Hard? Humans Stop, Machines Repeat](/images/inline/column-ai-cheap-vs-expensive-world.jpg)
+
 ## Digital twins give machines a practice field
 
 This is where digital twins become important. A digital twin implements a real factory, equipment, materials, and work conditions in virtual space as closely as possible. Failure is expensive in reality, but in a virtual world the same failure can be repeated much more cheaply.

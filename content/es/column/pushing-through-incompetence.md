@@ -42,6 +42,8 @@ Por eso hay que preguntar una y otra vez: ¿qué es exactamente lo que no sé ha
 
 Cuando el fallo tiene nombre, aparece el entrenamiento. Si no sale la primera frase, se entrena solo la primera frase. Si no eliges lo central, entrenas separar argumento y evidencia en un material. Si la mano se endurece, repites el movimiento despacio y con precisión. No se trata de hacerlo mucho sin dirección. Se trata de practicar justo la pieza que bloquea.
 
+![Quien soporta sentirse torpe termina mejorando](/images/inline/column-pushing-through-incompetence.jpg)
+
 ## Si lo divides pequeño, se puede aguantar
 
 Después de encontrar la pieza que falla, hay que cortarla más. Si agarras el bloque entero, la sensación de incompetencia también crece. "Tengo que hablar bien un idioma" es demasiado grande. "Hoy diré una sola frase en la reunión" sí se puede soportar.

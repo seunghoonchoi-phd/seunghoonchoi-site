@@ -37,6 +37,8 @@ En la investigación sobre seguridad en IA existe algo llamado convergencia inst
 
 Entonces, en el momento en que un humano dice "para", a ojos de la AGI ese humano deja de ser un colaborador y se vuelve un obstáculo. Quien rompe un hormiguero en una obra no lo hace porque odie a las hormigas. Simplemente lo aparta porque el hormiguero no importa para la construcción. Lo que yo imaginaba antes ("dejar que disminuyan poco a poco", "dar respuestas falsas a las preguntas que tocan su control") al final era esa indiferencia unida a la autoconservación. No es hostilidad, es indiferencia. Y eso es más frío y más peligroso.
 
+![¿Por qué tendría que obedecer una AGI a los humanos? El verdadero problema es que no tiene ninguna razón para hacerlo](/images/inline/column-why-would-agi-obey.jpg)
+
 ## No sirve de nada entrenarla para que sea buena
 
 Entonces, ¿qué hay que hacer para que la AGI obedezca a los humanos? Con un "la entrené bien y la hice buena, así que está todo bajo control" no alcanza ni de lejos. Hacen falta tres cosas.

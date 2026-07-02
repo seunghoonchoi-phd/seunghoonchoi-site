@@ -48,6 +48,8 @@ build: {list: never, render: always}
 9. 수업/회의에서 확인해야 할 질문 5개
 ```
 
+![처음 보는 개념을 10분 만에 박살내는 법: 순수 이해 9칸 템플릿](/images/inline/column-understand-anything-in-10-minutes.jpg)
+
 ## 이 양식이 다른 점 딱 세 가지
 
 개념 정리 틀은 세상에 차고 넘친다. 이 양식이 다른 건 딱 세 가지다.

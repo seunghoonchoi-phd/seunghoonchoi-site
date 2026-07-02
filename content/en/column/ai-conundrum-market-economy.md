@@ -56,6 +56,8 @@ AI can lower prices. The problem is that lower prices are not enough compensatio
 
 A jobless boom can look impressive in the numbers. But people do not live on average productivity. They live with this month's rent and next month's job postings. If wage income weakens, consumption weakens. If consumption weakens, corporate revenue starts to weaken as well. Then one question remains: margins improved, but where is the revenue growth?
 
+![The AI Conundrum: The More the Technology Advances, the More Unstable the Market Economy Becomes](/images/inline/column-ai-conundrum-market-economy.jpg)
+
 ## The usual answers are too slow or too weak
 
 Some say AI will raise human productivity. That is true. But if the market does not grow, the moment three people can do the work that used to take ten, the other seven may no longer be needed.

@@ -51,6 +51,8 @@ build: {list: never, render: always}
 
 능력이 같은데 결과가 벌어지는 진짜 이유가 여기 있다.
 
+![실력만 키워서는 결과가 안 벌어진다. 환경부터 골라라](/images/inline/column-choose-the-board.jpg)
+
 ## 기회가 막힌 곳에선 실력 키워도 그만큼만
 
 그래서 흔한 처방이 자주 헛돈다.

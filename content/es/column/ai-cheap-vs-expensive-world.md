@@ -58,6 +58,8 @@ En el trabajo real, la meta no es simple. No basta con que una soldadura se vea 
 
 Por eso la máquina puede volverse fuerte en situaciones promedio. Aprende rápido en condiciones frecuentes, tareas repetidas y resultados visibles de inmediato. Pero conserva debilidades en señales raras justo antes de un accidente, excepciones fuera del modelo y juicios de riesgo difíciles de puntuar.
 
+![La IA venció en Go, pero ¿por qué todavía le cuesta soldar?: el humano se detiene, la máquina repite](/images/inline/column-ai-cheap-vs-expensive-world.jpg)
+
 ## El gemelo digital le da a la máquina un lugar para practicar
 
 Aquí se vuelve importante el gemelo digital. Un gemelo digital intenta reproducir en un espacio virtual la fábrica, el equipo, los materiales y las condiciones de trabajo del mundo real. Fallar en la realidad es caro; en el mundo virtual, el mismo fallo se puede repetir mucho más barato.

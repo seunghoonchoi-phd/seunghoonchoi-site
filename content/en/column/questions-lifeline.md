@@ -48,6 +48,8 @@ They were not the kind of people who first put the whole structure into words an
 
 At the top end of exams, this difference becomes large. Some students can see the structure of a problem even when the explanation is incomplete. The shape of an equation, the flow of conditions, the look of a graph: their hands move first. Older exams favored this intuitive type.
 
+![A Lifeline for People Who Ask Too Many Questions](/images/inline/column-questions-lifeline.jpg)
+
 ## There Was No One to Receive the Questions
 
 In the past, there was almost no way to open this bottleneck. There were not enough people who could receive fundamental questions all the way to the end. Teachers had to move through the syllabus. Academies had to drill problem types. Textbooks rarely filled in every missing piece.

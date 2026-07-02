@@ -41,6 +41,8 @@ El problema que toma por la mañana no lo suelta hasta la noche. Si necesita una
 
 La IA que usa es la misma. Quizá tiene menos datos que la empresa. Pero la vuelta de crear y comprobar es muchísimo más rápida. Cuando esta diferencia de velocidad se acumula un día y luego un mes, la diferencia de resultados se vuelve tan grande que cuesta alcanzarla.
 
+![Usan la misma IA, pero ¿por qué solo los empleados no logran resultados? La verdad sobre la fricción del entorno de trabajo](/images/inline/column-execution-friction.jpg)
+
 ## El verdadero culpable es el VDI, la computadora de la empresa
 
 En el centro de esta fricción está el escritorio virtual, el entorno que solemos llamar VDI. Vale la pena hablar de él por separado.

@@ -47,6 +47,8 @@ Piénsalo así. Antes, con solo ver el letrero de un local podías hacerte una i
 
 Cuanto más comunes se vuelven las frases, más se desplaza la diferencia hacia las pruebas y la confianza que hay detrás de ellas. Como cualquiera dice cosas que suenan bien, ahora lo importante es si "eso que dice se comprueba de verdad". Esta es la razón por la que la confianza se vuelve escasa. No porque haya menos oferta, sino porque la confianza queda como la casi única señal que no se puede imitar.
 
+![En la era en que la IA escribe gratis, lo que de verdad cuesta conseguir es la confianza](/images/inline/column-branding-as-trust.jpg)
+
 ## La marca son cinco piezas unidas una tras otra
 
 Si dejas la marca como una imagen difusa, no la puedes agarrar. Si la divides en cinco piezas, se vuelve clara. Y estas cinco van unidas una tras otra.

@@ -50,6 +50,8 @@ Do not ask AI for a simple summary and stop there. Ask for the separation explic
 
 Once this split exists, the work becomes much clearer. Decisions become the basis for movement. Open questions become the issues for the next meeting. Items to confirm become your homework.
 
+![How to Use AI to Understand a New Work Meeting from the Transcript](/images/inline/column-observing-others-meetings.jpg)
+
 ## Break the issues down MECE
 
 MECE means mutually exclusive and collectively exhaustive. In plain language, it means sorting things without overlap and without leaving important items out.

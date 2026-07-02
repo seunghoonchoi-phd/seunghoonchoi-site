@@ -42,6 +42,8 @@ Lo que necesitas son casos contrastantes: éxito, fracaso, caso ambiguo, caso ex
 
 Por ejemplo, si miras treinta fotos de filetes perfectos, no sabes cómo se ve el fracaso. Si solo lees buenos textos, cuesta entender por qué otros no se leen. En cambio, cuando miras éxito y fracaso juntos, la diferencia aparece. La intuición no viene de muchos casos. Viene de comparar casos distintos.
 
+![Un campo nuevo no se aprende viendo más, sino mirando distinto: los números mágicos 3·7·30·100](/images/inline/column-learning-magic-numbers.jpg)
+
 ## 100 no es repetición, es feedback
 
 Ver con los ojos y hacerlo con las manos no es lo mismo. Que empieces a ver patrones no significa que la mano te siga de inmediato. Al principio el resultado varía mucho. Ayer salió, hoy no. Crees haber hecho lo mismo, pero el resultado cambia.

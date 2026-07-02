@@ -44,6 +44,8 @@ It begins in organized environments. Then it moves little by little into environ
 
 The moment that cost falls, this area shakes too.
 
+![From Repetitive Physical Labor to Work That Needs Judgment and Sense: Stages 6 to 8 of AI Taking Work](/images/inline/column-ai-replacement-stages-2.jpg)
+
 ## Stage 8, work that needs judgment and sense
 
 The last part is work that needs judgment and sense. People often say, "Only someone who has done this for a long time knows." "This is feel." "Data cannot do this."

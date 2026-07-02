@@ -89,6 +89,8 @@ Piensa en por qué un padre cuida a su hijo. No porque el hijo traiga dinero. No
 
 En la relación entre IA y humanos, al final hace falta una estructura así. No que los humanos sean útiles, sino que vivir bien como humanos sea algo importante. De lo contrario, los humanos quedan desplazados en capacidad, luego en propiedad, y por último pierden hasta la razón de ser protegidos.
 
+![Hasta la escritura de tu casa es, al final, una hoja de papel: las últimas etapas 15 y 16, cuando la propiedad se tambalea](/images/inline/column-ai-replacement-stages-4.jpg)
+
 ## La abundancia sola no basta
 
 Hay que mirar una cosa más. Incluso si la IA no elimina a los humanos y nos da comida, vivienda y comodidad, eso no garantiza un buen futuro. La persona no existe solo para consumir. Vive creando, eligiendo, respondiendo, relacionándose y sintiendo sentido.

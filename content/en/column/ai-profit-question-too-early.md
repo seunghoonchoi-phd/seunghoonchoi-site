@@ -73,6 +73,8 @@ A camera is not enough. The field contains information the eye alone cannot capt
 
 For AI to attach itself to real work, it has to be present at that moment. And the human has to be able to transmit what the body senses into AI as much as possible. Only then can AI judge the situation in front of it, not just the documents on a screen.
 
+![No Company Has Made Money With AI? The Question Is Too Early](/images/inline/column-ai-profit-question-too-early.jpg)
+
 ## If you only think about robots, you miss the important part
 
 When people imagine AI entering the physical world, they often jump straight to robots. AI gets a body, walks, grabs, moves, drives, and replaces human motion.

@@ -89,6 +89,8 @@ Think of why parents cherish a child. It is not because the child earns money. N
 
 The final thing needed in the relationship between AI and humans is this kind of structure: a state where humans living well matters not because humans are useful, but because humans living well itself matters. Without that, humans lose on ability, lose on ownership, and finally lose even the reason to be protected.
 
+![Even Your House Deed Is Just a Sheet of Paper: The Final AI Stages Where Ownership Shakes](/images/inline/column-ai-replacement-stages-4.jpg)
+
 ## Abundance alone is not enough
 
 There is one more thing to see. Even if AI does not eliminate humans and provides food, housing, and convenience, that may still not be a good future. People are not beings who only consume. People make things, choose, take responsibility, form relationships, and live through meaning.

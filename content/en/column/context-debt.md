@@ -82,6 +82,8 @@ Whom this report ultimately asks for what decision.
 
 You have to know this to explain the report. The fact that AI organized the pieces does not mean the writer understood the argument. A report is not a bundle of material; it is an argument with a direction.
 
+![Why I Cannot Explain the Report AI Wrote for Me: What Missing Background Knowledge Is](/images/inline/column-context-debt.jpg)
+
 ## When the background knowledge is empty, a single question is enough to expose it
 
 When the background knowledge is empty, the most frightening moment is when you get a question.

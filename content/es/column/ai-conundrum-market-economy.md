@@ -56,6 +56,8 @@ La IA puede bajar precios. El problema es que una bajada de precios no compensa 
 
 Un auge sin empleo puede verse brillante en los números. Pero la gente no vive de la productividad promedio. Vive con el alquiler de este mes y las ofertas de trabajo del mes que viene. Si el ingreso salarial se debilita, el consumo se debilita. Si el consumo se debilita, los ingresos de las empresas empiezan a caer. Entonces el mercado pregunta: los márgenes mejoraron, ¿pero dónde está el crecimiento de ventas?
 
+![El enigma de la IA: cuanto más avanza la tecnología, más inestable se vuelve la economía de mercado](/images/inline/column-ai-conundrum-market-economy.jpg)
+
 ## Las respuestas habituales son demasiado lentas o demasiado débiles
 
 Algunos dicen que la IA elevará la productividad humana. Es verdad. Pero si el mercado no crece, en el momento en que tres personas puedan hacer el trabajo que antes hacían diez, las otras siete pueden dejar de ser necesarias.

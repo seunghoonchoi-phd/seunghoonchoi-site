@@ -43,6 +43,8 @@ Fourth, turning an autonomous agent loose for dozens of steps on a task a person
 
 Fifth, talking about "I used a ton of AI" as if it were an achievement. Using a lot is not an achievement. It is just using a lot.
 
+![Company AI Is Not Free: The Token and Subscription Illusion, and the Money Leaking Behind the Wall](/images/inline/column-ai-hidden-costs.jpg)
+
 ## "It was for work" stops working soon
 
 "You cannot blame me, it was for work" holds up at first. But it does not last. A company that brings in AI tends to walk through the same stages.

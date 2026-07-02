@@ -31,6 +31,8 @@ Every company has at least one rule that people swear they follow while everyone
 
 Here the naive person makes one of two mistakes. They stubbornly get every advance approval and end up the only one moving slowly, or they declare the rule meaningless, ignore it out in the open, and end up carrying the blame alone when something blows up. The person who reads the working rule knows this: that rule isn't there to stop the work. It's there to decide whose fault it is when the work goes wrong. So they move fast most of the time, but leave a paper trail in advance only on the risky stuff. They've read not the letter of the rule, but what the rule actually does.
 
+![The Real Reason the Best Idea Loses the Meeting](/images/inline/column-operating-rules.jpg)
+
 ## They pick the pricey vendor to save an executive's face
 
 Some decisions look impossible to understand from the outside. They pass over a cheaper, better outside firm and deliberately stick with the expensive, sluggish one they already use. They suddenly split a team that was running fine into two. By the measure of pure reason, anyone can see it's a loss. But shift your view by just one step. "Whose budget does this decision protect, and whose face does it save?" The moment you ask that, everything becomes clear.

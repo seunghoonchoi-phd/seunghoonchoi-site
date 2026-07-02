@@ -83,6 +83,8 @@ Qué decisión exige finalmente este informe y a quién.
 
 Solo entonces puedes explicar el informe. Que la IA ordene piezas no significa que quien firma entienda la tesis. Un informe no es un paquete de materiales; es una afirmación con dirección.
 
+![Por qué no puedo explicar el informe que escribió la IA: qué es el conocimiento de fondo que falta](/images/inline/column-context-debt.jpg)
+
 ## Con el conocimiento de fondo vacío, una sola pregunta te deja sin respuesta
 
 El momento más temible cuando el conocimiento de fondo está vacío es recibir una pregunta.

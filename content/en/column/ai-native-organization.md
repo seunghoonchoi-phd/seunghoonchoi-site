@@ -42,6 +42,8 @@ Keep sharing organizational context with the AI
 
 The core is just one thing. AI pulls the draft and assists the judgment. The final responsibility is always a person's.
 
+![Plenty of Companies Use AI. The One That Stops Without It Is AI-Native.](/images/inline/column-ai-native-organization.jpg)
+
 ## The gap starts to widen at stage 3
 
 | Stage | What it looks like |

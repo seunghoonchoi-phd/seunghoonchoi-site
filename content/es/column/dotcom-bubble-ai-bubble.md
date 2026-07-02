@@ -46,6 +46,8 @@ Un centro de datos no se construye con palabras. Hay que comprar GPU, asegurar e
 
 Las empresas que no puedan responder tendrán problemas. Algunas tienen ingresos, pero queda poco después de pagar el coste de GPU. Algunas tienen muchos pilotos, pero poca conversión de pago. Algunas SaaS añaden "funciones de IA", pero los clientes no quieren pagar más. Parecen empresas tecnológicas, pero si suben los tipos, parecen empresas que queman efectivo.
 
+![Repasar la burbuja puntocom y compararla con la burbuja de la IA](/images/inline/column-dotcom-bubble-ai-bubble.jpg)
+
 ## Esta vez la memoria sigue viva
 
 Ahora no estamos en 2000. Muchas personas que vivieron ese ciclo siguen dentro del centro del mercado. Operadores, inversores y fundadores de aquella época son hoy ejecutivos, miembros de consejos y socios de fondos. La sociedad no ha tenido tiempo suficiente para olvidar la lección de la burbuja puntocom.

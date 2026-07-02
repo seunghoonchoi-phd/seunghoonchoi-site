@@ -60,6 +60,8 @@ Brand tone works the same way. Whether it is a personal website or a company acc
 
 Reputation failures usually do not come from one dramatic sentence alone. Small mismatches accumulate until a reader feels, "No human is actually seeing me here. This is just automatic speech." The faster we write with AI, the more the final read has to be human. We have to ask not only whether the sentence is correct, but how it will sound to this person, now. Reputation is not only an information problem. It is a relationship problem.
 
+![AI Risk Grows with Speed: How Automation Without Review Turns Small Mistakes into Crises](/images/inline/column-ai-risk-leverage.jpg)
+
 ## Security Risk Can Come from Good Intentions
 
 Security failures are not created only by malicious people. Often they are created by someone trying to finish the work quickly.

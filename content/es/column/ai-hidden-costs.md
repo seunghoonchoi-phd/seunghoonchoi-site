@@ -43,6 +43,8 @@ Cuarto, soltar un agente autónomo para que dé decenas de pasos en una tarea qu
 
 Quinto, presumir de "he usado muchísimo la IA" como si fuera un logro. Usarla mucho no es un logro. Es, simplemente, usarla mucho.
 
+![La IA de la empresa no es gratis. El espejismo de los tokens y la suscripción, y el dinero que se escapa sin que nadie lo vea](/images/inline/column-ai-hidden-costs.jpg)
+
 ## "Es para el trabajo" deja de valer pronto
 
 La frase "si es para trabajar, nadie puede decir nada" funciona al principio. Pero no dura. Las empresas que adoptan la IA suelen pasar por las mismas fases.

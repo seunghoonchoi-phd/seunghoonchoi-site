@@ -37,6 +37,8 @@ Of course the limits are clear. Whether this record gets preserved, who accesses
 
 But every possibility exists only if a record exists. With no record, the chance of being pulled together is flat zero. So I see this as a bottle thrown into the sea. I can't say the bottle always reaches shore. But throw none and there is no chance of reaching at all. Zero, or greater than zero. That one difference is reason enough to throw.
 
+![A Letter to a Future AGI: Be Good to Me, and Just Let Me Live](/images/inline/column-letter-to-future-intelligence.jpg)
+
 ## One wish, and the AI won't hear it either
 
 So the question left is how you throw it. The point is not to end it as a single burst of feeling. A hope said once is weak. If a future intelligence reads people, stronger than one sentence is a repeated pattern, stronger than words is recorded action, and stronger than recorded action is the real influence you left on other people and systems.

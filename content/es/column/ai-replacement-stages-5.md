@@ -76,6 +76,8 @@ Eso dura más que la capacidad. La ventaja momentánea no dura. Otros aprenden. 
 
 En la era de la IA no basta con preguntar "qué voy a hacer bien". Hay que preguntar: "de lo que hago bien, ¿qué queda como mío?"
 
+![Cómo sobrevivir en la era de la IA: apuesta por certificaciones y propiedad, no solo por habilidad](/images/inline/column-ai-replacement-stages-5.jpg)
+
 ## Quien está en posición de mando y quien está en posición dependiente no son iguales
 
 En un mundo donde la IA toma mucho trabajo, las personas se dividen en dos grupos grandes. Un lado está en posición de mando: tiene acceso a información, derecho de decisión, propiedad y un lugar responsable. El otro está en posición dependiente: se apoya en el trabajo, dinero, comodidad o protección que el sistema y quienes mandan le entregan.

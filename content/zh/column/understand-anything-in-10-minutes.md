@@ -48,6 +48,8 @@ build: {list: never, render: always}
 9. 在课堂/会议上需要确认的 5 个问题
 ```
 
+![10分钟拿下一个全新概念：纯理解九宫格模板](/images/inline/column-understand-anything-in-10-minutes.jpg)
+
 ## 这套模板不一样的地方，就三点
 
 整理概念的框架，世上多得是。这一套不一样的地方，就三点。

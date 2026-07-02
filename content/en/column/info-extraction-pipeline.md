@@ -43,6 +43,8 @@ Stage 1 pulls candidates only. It doesn't file anything. Stage 2 attaches meanin
 
 The key device is the "estimate flag." It forces apart the structure the AI made up from the structure the chat actually backs up, so the two never blend.
 
+![Why Hours of AI Chat Leave You With Nothing. A 3-Stage Notion Prompt](/images/inline/column-info-extraction-pipeline.jpg)
+
 ## Copy-paste prompts, grab them as is
 
 ### Stage 1: pull candidates, don't file

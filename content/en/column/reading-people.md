@@ -35,6 +35,8 @@ That's why "do this and you'll gain this" turns out to be surprisingly bad at mo
 
 This works in both directions. You can use it to scare people and push them along. But I want to use it the other way. When you propose a change, the first move is to figure out what the other person is afraid of losing. When someone digs in against change, it's usually not laziness. It's the fear that something familiar will be taken away. If you don't soothe that fear first, even the best offer sounds like a threat.
 
+![People Don't Move on Logic. Read Their Loss, Their Face, Their Blame](/images/inline/column-reading-people.jpg)
+
 ## Before Logic Comes Gain, Loss, Face, and Blame
 
 Picture someone trying to bring a new way of working into a team. If they're sharp, they'll spend all their time explaining how efficient their idea is. But the thing that actually moves people isn't that explanation. It's the answer to four questions running quietly through the listener's head.

@@ -42,6 +42,8 @@ In the AI era, bottlenecks are not only technical shortages. Slow decisions, blo
 
 Fourth, execution to completion becomes an even rarer fundamental.
 
+![Seven Skills That Make Work Hold Together in the AI Era, and What Matters Even More](/images/inline/column-ai-turnkey-skills.jpg)
+
 AI quickly creates drafts, ideas, code, and summaries. But turning a draft into an output that customers and colleagues can actually use is still human work. A good beginning matters less than finishing something that can truly be used.
 
 Fifth, efficiency and quality optimization means seeing speed and finish together.

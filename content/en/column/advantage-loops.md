@@ -33,6 +33,8 @@ When you pick up something small, you usually park it as a thing to brag about. 
 
 A trick that stays only in your head fades over time. So you pull it outside and put it in a form you can use again. A note, a template, a piece of code you wrote well once, a checklist. The form can be anything. The point is one thing. Never solve the same problem twice. Some people rebuild something similar from the ground up every time. Others set aside the thing they built well once. Over a year, the second person has stacked up their own toolbox. Meet a new problem and half of it is already solved. Knowledge in your head scatters. What you pull out and save stacks up.
 
+![How a 1% Daily Edge Compounds Into Skill Nobody Can Copy](/images/inline/column-advantage-loops.jpg)
+
 ## Miss one and your skill is zero
 
 Once you have decided what to stack, the next thing is speed. How fast you improve depends on four things working together. Do it often, know what went wrong, fix it right away, and write down what you fixed. It works like multiplication. If even one of these is close to zero, it does not matter how big the others are, the result is zero. Practice every day but never know what is wrong, and you are just repeating a bad form a thousand times. Know what is wrong but never fix it next time, and nothing changes. People who improve fast are not just doing a lot. They handle all four at once. They play often, record themselves to spot the wrong notes, fix them the very next time, and write down what they changed.

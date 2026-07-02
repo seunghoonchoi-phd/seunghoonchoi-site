@@ -41,6 +41,8 @@ They stay on the morning's problem until evening and never let go. Need a tool? 
 
 The AI is the same. The data may even be less than a company's. But the loop of building and checking is overwhelmingly faster. Stack that speed difference over a day, then a month, and the gap in output grows almost too wide to close.
 
+![Same AI, Fewer Results: Why Employees Come Up Empty](/images/inline/column-execution-friction.jpg)
+
 ## The real culprit is the company computer, the VDI
 
 The biggest source of this friction is the virtual desktop, commonly called VDI. It's worth pulling out and talking about on its own.

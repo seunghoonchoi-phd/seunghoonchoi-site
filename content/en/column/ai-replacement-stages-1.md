@@ -58,6 +58,8 @@ So what is replaced at this stage is not the ability to completely understand on
 
 Public response does not have one fixed answer. But click-through rate, purchase rate, watch time, and churn keep feeding back. So the answer increasingly converges. The moment it converges, AI becomes strong.
 
+![Work with Right Answers Is Replaced First: Stages 1 to 5 of AI Taking Work](/images/inline/column-ai-replacement-stages-1.jpg)
+
 ## Stage 4, work handled from beginning to end by itself
 
 Early AI handled small pieces: one sentence, one line of code, one summary. But AI increasingly handles work from beginning to end. Give it a goal and it plans, finds needed material, drafts, revises, and produces the result. At this stage, AI is no longer only a tool that gives answers. It becomes an executor that connects several steps.

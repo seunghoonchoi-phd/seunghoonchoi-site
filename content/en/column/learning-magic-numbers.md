@@ -42,6 +42,8 @@ You need contrasting cases. See successful cases, failed cases, ambiguous cases,
 
 For example, if you look at thirty photos of well-cooked steaks, you still do not know what failure looks like. If you read only good writing, it is hard to see why some writing does not read well. When you compare success and failure together, the difference appears. Feel comes not from many cases, but from comparing different cases.
 
+![A New Field Is Not Learned by Seeing More, but by Seeing Differently: 3, 7, 30, 100](/images/inline/column-learning-magic-numbers.jpg)
+
 ## One hundred times is feedback, not repetition
 
 Seeing with your eyes and doing with your hands are different. Just because patterns start to appear does not mean your hands will follow right away. In the beginner phase, results swing around. It worked yesterday but not today. You think you did the same thing, but the result is different.

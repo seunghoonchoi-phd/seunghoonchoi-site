@@ -48,6 +48,8 @@ build: {list: never, render: always}
 9. 授業・会議で確認すべき質問5つ
 ```
 
+![はじめて見る概念を10分で攻略する方法：純粋理解の9マステンプレート](/images/inline/column-understand-anything-in-10-minutes.jpg)
+
 ## この様式が違う点はちょうど三つ
 
 概念をまとめる枠組みは世の中にあふれています。この様式が違うのは、ちょうど三つです。

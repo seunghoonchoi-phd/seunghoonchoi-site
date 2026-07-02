@@ -51,6 +51,8 @@ En algunos puestos, el resultado de una victoria no se conecta con el siguiente.
 
 Aquí está la verdadera razón de que, con la misma capacidad, los resultados se separen.
 
+![Mejorar tu habilidad no separa los resultados. Elige primero el entorno](/images/inline/column-choose-the-board.jpg)
+
 ## En un sitio sin oportunidades, mejorar solo da para eso
 
 Por eso la receta de siempre suele fallar.

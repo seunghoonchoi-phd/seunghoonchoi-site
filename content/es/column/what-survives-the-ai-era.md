@@ -42,6 +42,8 @@ Cuanto más estricta es una industria en regulación y seguridad, más densos so
 
 La conclusión es esta. La mayoría de los puestos actuales se mantienen. Solo que baja la cantidad de puestos y cambia la capacidad que se necesita. Es una frase más exacta que "la IA elimina los empleos".
 
+![Por qué la IA no puede ganarle al ser humano. Lo que queda no es la inteligencia, sino la capacidad de tocar la realidad](/images/inline/column-what-survives-the-ai-era.jpg)
+
 ## Si no contratas novatos, se corta la futura generación de expertos
 
 "Basta con poner IA a los expertos." Esto solo es cierto a corto plazo. Los expertos también envejecen, se enferman, cambian de trabajo y se jubilan. Si no contratas novatos, se corta la cadena que abastece a los mandos intermedios y a los expertos del futuro.

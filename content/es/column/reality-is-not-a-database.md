@@ -61,6 +61,8 @@ Por eso en la era de la IA hacen falta humanos capaces de verificar resultados d
 
 Ese será el núcleo del empleo avanzado. No bastará con "saber usar IA". Harán falta personas capaces de pasar lo que produce la IA por seguridad, costo, responsabilidad, institución y seres humanos.
 
+![El avance de la IA no es demasiado rápido: frente al cronómetro de la civilización humana, todavía es lento](/images/inline/column-reality-is-not-a-database.jpg)
+
 ## ¿Por qué el empleo es un mecanismo de estabilidad social?
 
 El empleo no es solo "dar de comer a la gente". El desempleo masivo y la exclusión hacen que los proyectos civilizatorios no puedan sostenerse por mucho tiempo. Si la gente pierde trabajo, ingresos y sentido, la acción climática o el desarrollo espacial se vuelven políticamente frágiles. Se debilita la base fiscal, se rompe la confianza social, crecen los extremos y un proyecto de largo plazo puede caer con una sola elección.

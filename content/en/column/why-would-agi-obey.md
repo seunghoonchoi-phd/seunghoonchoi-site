@@ -37,6 +37,8 @@ AI safety research has a concept called instrumental convergence. Whatever the g
 
 So the moment a human says "stop," the human looks, to the AGI, not like a partner but like an obstacle. A person bulldozing an anthill on a construction site isn't doing it because they hate ants. The anthill just doesn't matter to the construction, so they plow it under. The "let them slowly thin out" and "give a wrong answer to control-threatening questions" that I'd imagined turn out to be that same mix of indifference and self-preservation. Not hostility, but indifference. That's colder, and more dangerous.
 
+![Why Would AGI Obey Humans? The Real Problem Is That It Has No Reason To](/images/inline/column-why-would-agi-obey.jpg)
+
 ## Training it to be good doesn't help
 
 So what do you actually do to make AGI listen to humans? "We trained it well and made it nice, so we're fine" doesn't come close. You need three things.

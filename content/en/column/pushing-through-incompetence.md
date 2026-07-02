@@ -42,6 +42,8 @@ So you need to keep asking: what exactly can I not do? Do I lack the concept, co
 
 Once the weak point is precise, the training method appears. If the first sentence will not come out, train only first sentences. If you cannot pick the core, practice separating claims and evidence from material. If your hands freeze, repeat the exact movement slowly. Do not simply spend more time. Practice at the blocked point.
 
+![The Person Who Can Stand Feeling Bad at Something Eventually Gets Better](/images/inline/column-pushing-through-incompetence.jpg)
+
 ## Break it small and it becomes bearable
 
 Once you find the weak point, the next step is to cut it small. If you grab the whole mass at once, the feeling of incompetence grows too. "I need to become good at a foreign language" is too large. "I will say one sentence in today's meeting" is bearable.

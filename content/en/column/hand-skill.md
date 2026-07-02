@@ -29,6 +29,8 @@ The same force can give a different result.
 
 Press over a wide area and it spreads softly. Put it on one point and the pressure piles up on that point. So the thing that matters isn't how strong the force is. It's how the force goes in. Direction, angle, speed, the area it touches, how much you push along the surface. An expert tunes all of this at once, and finely at that. So hand skill can't be explained by force alone.
 
+![Hand Skill: The Fingertip Sense AI Can't Copy in One Shot](/images/inline/column-hand-skill.jpg)
+
 ## The core of hand skill is holding and fixing
 
 The heart of hand skill is just two things.

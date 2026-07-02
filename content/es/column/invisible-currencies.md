@@ -56,6 +56,8 @@ Los trabajos hechos son parecidos. Código público, portafolio, artículos, tex
 
 La gente no busca solo a las personas capaces. Busca a las personas menos arriesgadas. La habilidad verificada reduce el riesgo de la otra parte, y por eso se reconoce más.
 
+![La verificación va antes que la habilidad: por qué la confianza y la reputación deciden las oportunidades](/images/inline/column-invisible-currencies.jpg)
+
 ## La buena habilidad hay que dejarla como evidencia
 
 Esto no significa exagerar una habilidad que no existe. Es lo contrario. Si tienes habilidad real, debes dejarla en una forma que otros puedan comprobar.

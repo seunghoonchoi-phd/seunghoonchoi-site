@@ -50,6 +50,8 @@ No basta con pedirle a la IA un resumen simple de la minuta. Hay que pedir separ
 
 Con esa separación, el trabajo se ve mucho más claro. Lo decidido se vuelve criterio para avanzar; lo pendiente se vuelve tema de la siguiente reunión. Lo que hay que verificar se convierte en tarea para estudiar o preguntar.
 
+![Un trabajo que ves por primera vez: cómo analizar una transcripción de reunión con IA y entender la estructura](/images/inline/column-observing-others-meetings.jpg)
+
 ## Hay que dividir los temas de forma MECE
 
 MECE significa Mutually Exclusive, Collectively Exhaustive. En palabras simples: dividir sin solapamientos y sin huecos. No poner la misma idea en dos cajas ni dejar fuera un punto importante.

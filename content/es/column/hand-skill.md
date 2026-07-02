@@ -29,6 +29,8 @@ Aunque apliques la misma fuerza, el resultado sale distinto.
 
 Si presionas sobre una zona amplia, se reparte con suavidad. Si la aplicas en un solo punto, la presión se concentra en ese punto. Por eso lo importante no es cuánta fuerza haces. Es "cómo" entra esa fuerza: la dirección, el ángulo, la velocidad, la superficie de contacto y cuánto empujas siguiendo la superficie. El experto ajusta todo esto a la vez, y además con mucha finura. Por eso la habilidad manual no se explica solo con la fuerza.
 
+![La habilidad manual: el sentido del tacto que la IA no copia de golpe](/images/inline/column-hand-skill.jpg)
+
 ## El núcleo de la habilidad manual es resistir y corregir
 
 El corazón de la habilidad manual son solo dos cosas.

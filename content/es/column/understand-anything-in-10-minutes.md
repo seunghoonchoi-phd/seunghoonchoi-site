@@ -48,6 +48,8 @@ Organiza el siguiente material con la "plantilla común para entender conceptos"
 9. 5 preguntas que debes verificar en la clase o reunión
 ```
 
+![Cómo dominar un concepto nuevo en 10 minutos: la plantilla de las 9 casillas](/images/inline/column-understand-anything-in-10-minutes.jpg)
+
 ## Lo que distingue a esta plantilla: solo tres cosas
 
 Hay de sobra plantillas para organizar conceptos en el mundo. Lo que hace distinta a esta son solo tres cosas.
