@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![汽车车身旁正在作业的工业机器人](/images/col-ai-cheap-vs-expensive-world.jpg)
 
-<p class="inline-image-caption">每次提到 AI 战胜人类顶尖围棋棋手，人们都会问类似的问题："都到这个程度了，人类的工作是不是很快都会被拿走？"</p>
+<p class="inline-image-caption">围棋赢了，但焊接仍然不容易。</p>
 
 每次提到 AI 战胜人类顶尖围棋棋手，人们都会问类似的问题："都到这个程度了，人类的工作是不是很快都会被拿走？"
 

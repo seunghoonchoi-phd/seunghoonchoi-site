@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![伸向温暖晚霞天空、把太阳捧在掌心里的手](/images/col-conditional-generosity.jpg)
 
-<p class="inline-image-caption">一边说"再怎么样也得善良"，另一边说"那我这辈子就只能忍着？"</p>
+<p class="inline-image-caption">我以为善良和果断站在两个极端，选了一头，就得扔掉另一头。</p>
 
 我想做个好人。可说句实话，我也偶尔想说谁两句坏话，想在背后嚼嚼舌根，想把那个铁了心折磨我的人，原样还回去。这两种心思，在我心里斗了很久。一边说“再怎么样也得善良”，另一边说“那我这辈子就只能忍着？”
 

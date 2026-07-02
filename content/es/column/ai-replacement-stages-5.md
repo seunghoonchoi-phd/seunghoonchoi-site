@@ -80,7 +80,7 @@ En la era de la IA no basta con preguntar "qué voy a hacer bien". Hay que pregu
 
 ![Cómo sobrevivir en la era de la IA: apuesta por certificaciones y propiedad, no solo por habilidad](/images/inline/column-ai-replacement-stages-5.jpg)
 
-<p class="inline-image-caption">Hay que preguntar: "de lo que hago bien, ¿qué queda como mío?"</p>
+<p class="inline-image-caption">Pero lo que convertiste en propiedad mientras ibas delante dura más.</p>
 
 ## Las grandes estrellas y los trabajadores comunes juegan juegos distintos
 

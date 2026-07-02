@@ -46,7 +46,7 @@ The conclusion is this. Most existing positions stay. There are just fewer of th
 
 ![The Real Reason AI Can't Beat You. What Survives Isn't Smarts, It's the Power to Touch Reality](/images/inline/column-what-survives-the-ai-era.jpg)
 
-<p class="inline-image-caption">That's a more accurate sentence than "AI eliminates jobs."</p>
+<p class="inline-image-caption">There are just fewer of them, and the skills they need change.</p>
 
 ## Stop hiring juniors and you cut off your future seniors
 

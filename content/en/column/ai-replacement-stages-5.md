@@ -80,7 +80,7 @@ So in the AI era, it is not enough to ask, "What will I be good at?" Ask, "What 
 
 ![How to Survive the AI Era: Bet on Credentials and Ownership, Not Skill Alone](/images/inline/column-ai-replacement-stages-5.jpg)
 
-<p class="inline-image-caption">Ask, "What result of my being good will remain mine?"</p>
+<p class="inline-image-caption">But what you turned into ownership while you were ahead remains longer.</p>
 
 ## Top stars and ordinary workers are playing different games
 

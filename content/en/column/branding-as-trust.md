@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![An artisan's hands pressing a maker's mark into leather, a sign of trust](/images/col-branding-as-trust.jpg)
 
-<p class="inline-image-caption">If the sentences were clean and the points lined up, you thought, "Ah, this person can do the work."</p>
+<p class="inline-image-caption">Once anyone can easily produce smooth writing, the thing behind the writing becomes valuable.</p>
 
 A few years ago, telling who was good at their work was simple. You read what they wrote. One proposal, one report, one email. If the sentences were clean and the points lined up, you thought, "Ah, this person can do the work."
 
