@@ -60,6 +60,8 @@ Aun así, no hay que tratar este dispositivo como la cura. Reducir la luz solar 
 
 Una persiana espacial es un antipirético. Es un fármaco de emergencia para bajar el calor de la Tierra lo bastante rápido como para que AMOC sobreviva. El tratamiento real es detener las emisiones de CO2 y retirar el CO2 que ya está en el aire.
 
+![Ilustración científica de pequeños módulos de persiana espacial entre el Sol y la Tierra que reducen ligeramente la luz sobre el Ártico y el Atlántico Norte](/images/col-amoc-space-blind-modules.jpg)
+
 ## Primero enfriar, después sacar el veneno
 
 Cuando un paciente tiene una fiebre peligrosa, los médicos usan medicamentos para bajarla. Eso no significa que el medicamento haya curado la enfermedad. Baja la temperatura para que los órganos no fallen mientras se trata la causa.
@@ -83,6 +85,8 @@ Hay demasiados datos que observar. Área y grosor del hielo marino ártico. Derr
 Unas pocas personas no pueden juzgar todo eso por intuición. Satélites, boyas oceánicas, sensores terrestres, observaciones desde barcos, modelos climáticos y contabilidad de carbono tienen que conectarse. La IA debería leer esas conexiones y responder preguntas concretas: ¿podemos aumentar 0,05% la sombra del verano ártico este año? Si la remoción de CO2 avanza a este ritmo, ¿podemos reducir un poco la sombra el año que viene?
 
 La IA no debe convertirse en un dios que gobierne la Tierra por nosotros. Pero sí puede cumplir el papel de señalar indicios demasiado complejos para que los humanos los veamos solos.
+
+![Ilustración científica de satélites, boyas oceánicas y modelos climáticos conectados en una red de monitoreo con IA sobre el Atlántico Norte](/images/col-amoc-ai-monitoring-network.jpg)
 
 ## SpaceX debería mirar la circulación de la Tierra antes que Marte
 

@@ -60,6 +60,8 @@ Still, we should not treat this device as the cure. Reducing sunlight does not r
 
 A space blind is a fever reducer. It is an emergency drug to lower Earth's heat quickly enough for AMOC to survive. The real treatment is to stop CO2 emissions and remove the CO2 already in the air.
 
+![Science illustration of small orbital sunshade modules filtering sunlight between the Sun and Earth above the Arctic and North Atlantic](/images/col-amoc-space-blind-modules.jpg)
+
 ## Cool first, then remove the CO2
 
 When a patient has a dangerous fever, doctors use fever reducers. That does not mean the fever reducer cured the disease. It lowers the temperature so organs do not fail while the cause is treated.
@@ -83,6 +85,8 @@ There is too much data to watch. Arctic sea ice area and thickness. Greenland su
 A few people cannot judge all of this by instinct. Satellites, ocean buoys, ground sensors, ship observations, climate models, and carbon accounting all have to connect. AI should read those connections and answer questions like these: can we increase Arctic summer shading by 0.05% this year? If CO2 removal is moving at this pace, can we reduce shading a little next year?
 
 AI should not become an all-powerful ruler that governs Earth for us. But it can take on the role of pointing out signals too complex for humans to see alone.
+
+![Science illustration of satellites, ocean buoys, and climate models connected in an AI monitoring network over the North Atlantic](/images/col-amoc-ai-monitoring-network.jpg)
 
 ## SpaceX should look at Earth's circulation before Mars
 
