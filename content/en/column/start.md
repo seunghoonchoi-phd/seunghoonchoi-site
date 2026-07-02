@@ -10,10 +10,18 @@ build: {list: never, render: always}
 
 ![A hand writing in a notebook](/images/col-start.jpg)
 
-This is where the writing that doesn't fit in a paper goes. Essays, short stories, the occasional video. My job says computational materials scientist, but that one line doesn't hold everything. so the rest lands here.
+By day, I work with materials through computation. At night, I write something else here.
 
-No grand manifesto. Whether I can pick a good story, write it so it feels real, and make something people actually enjoy. I won't know until I write it. So I just write, one piece at a time.
+This is not a place for papers. Essays, short stories, and sometimes video. My job title is computational materials scientist, but that one line does not hold the whole person. What does not fit there goes here.
 
-I'm hoping that what I've seen from a few uncommon vantage points. as an engineer, and as an immigrant. turns out to be good material.
+## No grand manifesto. I just write one piece at a time.
 
-If it's boring, tell me straight. I plan to keep updating this for the rest of my life either way.
+I pick a good story. I write it so it feels real. Can I make something people actually enjoy? You cannot settle that by talking. You only find out by writing. So I keep my mouth shut and write one piece at a time.
+
+## As an engineer and as an immigrant, I have seen things from unusual places.
+
+I have lived as an engineer. I also live as an immigrant. Neither is an ordinary seat. Some scenes are visible only from there. I hope those scenes become good material.
+
+## If it is boring, tell me straight.
+
+If you read something here and it is boring, tell me honestly. I plan to keep revising this for the rest of my life anyway.

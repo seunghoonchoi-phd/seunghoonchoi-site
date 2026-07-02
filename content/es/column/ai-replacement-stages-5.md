@@ -80,6 +80,12 @@ En la era de la IA no basta con preguntar "qué voy a hacer bien". Hay que pregu
 
 <p class="inline-image-caption">Cómo sobrevivir en la era de la IA: apuesta por certificaciones y propiedad, no solo por habilidad</p>
 
+## Las grandes estrellas y los trabajadores comunes juegan juegos distintos
+
+Aquí mucha gente piensa en el mundo del espectáculo. Cuando miras a estrellas como Suzy o Karina, aunque la IA pueda hacer canciones y videos, la gente sigue mirando a esa persona. Un fan no compra solo una canción terminada. El dinero se pega al hecho de que esa persona esté en el escenario, de que una marca elija ese rostro y de que el público recuerde ese nombre.
+
+Un trabajador común juega otro juego. Si la tarea es solo "haz esta imagen", "escribe este texto" o "resume estos datos", la IA puede entrar al centro. La diferencia no es que la estrella tenga talento y el empleado no. La diferencia es el tablero. Las grandes estrellas tienen nombre, público, contratos, derechos de autor, imagen y canales de distribución atados entre sí. A muchos trabajadores comunes les queda solo la tarea que reciben.
+
 ## Quien está en posición de mando y quien está en posición dependiente no son iguales
 
 En un mundo donde la IA toma mucho trabajo, las personas se dividen en dos grupos grandes. Un lado está en posición de mando: tiene acceso a información, derecho de decisión, propiedad y un lugar responsable. El otro está en posición dependiente: se apoya en el trabajo, dinero, comodidad o protección que el sistema y quienes mandan le entregan.

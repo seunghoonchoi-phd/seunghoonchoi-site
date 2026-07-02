@@ -28,19 +28,19 @@ The seven basic skills underneath that are:
 
 If even one of these is missing, work shakes easily. But something sits above them. In the end, the person assigning work is not only judging the output. They are judging whether this is a person they can trust with the work. The more intelligence is outsourced to AI, the more the difference comes from EQ, trust, reputation, and being remembered as someone people want to work with.
 
-First, goal alignment is the starting point of all work.
+## If the goal is wrong, AI answers go the wrong way too
 
 AI can produce answers quickly, but it does not guarantee that those answers point in the right direction. What problem are we solving? Who should receive what value? What counts as success this time? These have to be clear first. If the goal is unclear, even a good prompt produces scattered output, and strong execution runs toward the wrong place.
 
-Second, work structuring is the power that turns AI speed into real productivity.
+## Break the work apart before AI speed becomes productivity
 
 If you hand AI a complex job all at once, the answer easily becomes scattered. You have to break the problem apart, set the order, and organize the materials and judgment criteria. Structuring is not mere tidying. It is the design that lets work travel all the way to the end.
 
-Third, bottleneck solving is the ability to open the point where work gets stuck.
+## Find the bottleneck before the work can move again
 
 In the AI era, bottlenecks are not only technical shortages. Slow decisions, blocked information, unclear responsibility, and vague quality standards all become bottlenecks. The important thing is to find the blockage early, narrow down the cause, and turn it into the next action.
 
-Fourth, execution to completion becomes an even rarer fundamental.
+## The valuable person turns drafts into usable results
 
 ![Seven Skills That Make Work Hold Together in the AI Era, and What Matters Even More](/images/inline/column-ai-turnkey-skills.jpg)
 
@@ -48,17 +48,19 @@ Fourth, execution to completion becomes an even rarer fundamental.
 
 AI quickly creates drafts, ideas, code, and summaries. But turning a draft into an output that customers and colleagues can actually use is still human work. A good beginning matters less than finishing something that can truly be used.
 
-Fifth, efficiency and quality optimization means seeing speed and finish together.
+## The faster you make things, the more carefully you must review them
 
 AI increases work speed, but if speed rises without review, errors accelerate too. Repeated work should be automated. Important work should be reviewed against clear standards. Output quality has to keep improving. Real productivity means making things faster and better at the same time.
 
-Sixth, learning and adaptation are the power to keep up with a changing environment.
+## When tools change, the way you work has to change too
 
 AI tools and work methods keep changing. Yesterday's answer may not be today's standard. You need the attitude to learn new tools, the flexibility to accept feedback, and the ability to find patterns in failure. If your learning speed stops while the tools keep improving, your way of working gets old quickly.
 
-Seventh, relationship and trust building are what let work finish between people.
+## In the end, work finishes between people
 
 No matter how smart AI becomes, work is ultimately completed between people. Without trust, even good proposals are not accepted. Without collaboration, even brilliant ideas do not execute. Clear communication, keeping promises, and making the other person feel safe handing you work become more important, not less, in the AI era.
+
+## The final difference comes from EQ and reputation
 
 But these seven skills are not enough by themselves. They are the minimum equipment for doing work well. They are the basic conditions for a person who can take a task from checking the goal to completing the final output. As more people gain the same skills, the final difference comes from EQ and reputation.
 

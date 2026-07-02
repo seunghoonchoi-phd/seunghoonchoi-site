@@ -1173,11 +1173,18 @@ body.lang-ko .cite__text{word-break:keep-all}
 
 .post__toc{margin:0 0 30px;padding:14px 20px;background:var(--paper-2);border:1px solid var(--hair);border-radius:10px}
 .post__toc summary{cursor:pointer;font-family:"Kumbh Sans","Gothic A1",var(--sans);font-weight:600;font-size:.86rem;letter-spacing:.05em;text-transform:uppercase;color:var(--navy)}
-.post__toc #TableOfContents{margin-top:.6rem}
-.post__toc #TableOfContents ul{margin:0;padding-left:1.1rem}
-.post__toc #TableOfContents li{margin:.25rem 0;line-height:1.5}
-.post__toc #TableOfContents a{color:var(--ink-soft);text-decoration:none}
+.post__toc #TableOfContents{margin-top:.7rem}
+.post__toc #TableOfContents ul{margin:0;padding-left:0;list-style:none;counter-reset:toc-item}
+.post__toc #TableOfContents ul ul{margin:.25rem 0 0 2.1rem;counter-reset:toc-subitem}
+.post__toc #TableOfContents li{display:flex;flex-wrap:wrap;align-items:flex-start;gap:.55rem;margin:.32rem 0;line-height:1.5}
+.post__toc #TableOfContents li::before{counter-increment:toc-item;content:counter(toc-item, decimal-leading-zero);flex:0 0 1.55rem;padding-top:.08rem;text-align:right;font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:.72rem;font-weight:700;color:var(--navy);opacity:.72}
+.post__toc #TableOfContents li li::before{counter-increment:toc-subitem;content:counter(toc-item) "." counter(toc-subitem);font-size:.68rem}
+.post__toc #TableOfContents a{flex:1 1 0;min-width:0;color:var(--ink-soft);text-decoration:none}
 .post__toc #TableOfContents a:hover{color:var(--copper)}
+html[dir="rtl"] .post__toc #TableOfContents ul ul{margin:.25rem 2.1rem 0 0}
+html[dir="rtl"] .post__toc #TableOfContents li{flex-direction:row-reverse}
+html[dir="rtl"] .post__toc #TableOfContents li::before{text-align:left}
+html[dir="rtl"] .post__toc #TableOfContents a{text-align:right}
 .post__more{margin-top:52px;padding-top:26px;border-top:1px solid var(--hair)}
 .post__more-h{font-family:var(--sans);font-weight:700;font-size:1.05rem;color:var(--navy);margin:0 0 14px}
 .post__more ul{list-style:none;padding:0;margin:0;display:grid;gap:10px}

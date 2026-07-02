@@ -28,19 +28,19 @@ La base son estas 7 capacidades.
 
 Si falta una, el trabajo falla con facilidad. Pero hay algo aún más importante. Quien encarga un trabajo no mira solo el resultado. También decide si esa persona merece que se le confíe el trabajo. Cuanto más se externaliza la inteligencia hacia la IA, más marcan la diferencia el EQ, la confianza, la reputación y la capacidad de ser recordado como alguien con quien vale la pena trabajar.
 
-Primero, alinear objetivos es el punto de partida de todo trabajo.
+## Si el objetivo está mal, la respuesta de la IA también se desvía
 
 La IA responde rápido, pero no garantiza que la respuesta mire en la dirección correcta. Hay que aclarar primero qué problema se va a resolver, qué valor se dará a quién y cuál será el criterio de éxito. Si el objetivo no está claro, incluso un buen prompt produce resultados dispersos, y una gran capacidad de ejecución puede correr hacia el lugar equivocado.
 
-Segundo, estructurar el trabajo convierte la velocidad de la IA en productividad real.
+## Hay que dividir el trabajo para que la velocidad de la IA sea productividad
 
 Si se le entrega un problema complejo de golpe, la respuesta de la IA también se vuelve dispersa. Hay que dividir el problema, ordenar los pasos y definir los materiales y criterios de juicio necesarios. Estructurar no es solo ordenar bonito. Es diseñar el trabajo para que pueda llegar hasta el final.
 
-Tercero, resolver cuellos de botella es la capacidad de destrabar el punto donde el trabajo se detiene.
+## Primero encuentra el atasco para que el trabajo vuelva a moverse
 
 En la era de la IA, los cuellos de botella no son solo falta de técnica. También son decisiones lentas, información atascada, responsabilidad poco clara o criterios de calidad poco claros. Lo importante es detectar rápido dónde está el bloqueo, estrechar la causa y convertirla en una acción siguiente.
 
-Cuarto, cerrar la ejecución es un fundamento aún más valioso con IA.
+## La persona valiosa convierte borradores en resultados usables
 
 ![En la era de la IA, si falta una sola de estas 7 capacidades, el trabajo se tambalea. Y hay algo aún más importante](/images/inline/column-ai-turnkey-skills.jpg)
 
@@ -48,17 +48,19 @@ Cuarto, cerrar la ejecución es un fundamento aún más valioso con IA.
 
 La IA produce borradores, ideas, código y resúmenes con rapidez. Pero convertir ese borrador en algo que clientes y colegas puedan usar de verdad sigue siendo tarea humana. Un buen comienzo importa menos que llevarlo hasta un resultado utilizable.
 
-Quinto, optimizar eficiencia y calidad exige mirar velocidad y acabado a la vez.
+## Cuanto más rápido produces, con más cuidado debes revisar
 
 Con IA, la velocidad sube. Pero si se acelera sin revisión, los errores también se aceleran. Hay que automatizar lo repetitivo, revisar lo importante con criterios claros y elevar la calidad del resultado de manera constante. Solo cuando se combinan velocidad y calidad aparece productividad real.
 
-Sexto, aprender y adaptarse es la fuerza para seguir un entorno que cambia sin parar.
+## Cuando cambian las herramientas, también debe cambiar la forma de trabajar
 
 Las herramientas de IA y las formas de trabajar siguen cambiando. La respuesta de ayer puede no ser el estándar de hoy. Hace falta disposición para aprender nuevas herramientas, flexibilidad para aceptar feedback y capacidad para encontrar patrones en los fallos. Aunque la herramienta avance, si la velocidad de aprendizaje se detiene, la forma de trabajar envejece rápido.
 
-Séptimo, construir relaciones y confianza es la fuerza que completa el trabajo entre personas.
+## Al final, el trabajo se completa entre personas
 
 Por inteligente que sea la IA, el trabajo termina entre personas. Sin confianza, una buena propuesta no se acepta. Sin colaboración, una buena idea no se ejecuta. Comunicar con claridad, cumplir promesas y hacer que la otra persona pueda encargar algo sin ansiedad se vuelve todavía más importante en la era de la IA.
+
+## La última diferencia está en el EQ y la reputación
 
 Pero tener estas siete capacidades no basta. Son condiciones necesarias para trabajar bien. Son los fundamentos que necesita alguien a quien se le encarga una tarea y que responde desde la confirmación del objetivo hasta el resultado final. Cuando muchas personas tienen capacidades parecidas, la última diferencia aparece en el EQ y la reputación.
 

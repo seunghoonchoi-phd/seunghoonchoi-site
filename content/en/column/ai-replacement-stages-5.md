@@ -80,6 +80,12 @@ So in the AI era, it is not enough to ask, "What will I be good at?" Ask, "What 
 
 <p class="inline-image-caption">How to Survive the AI Era: Bet on Credentials and Ownership, Not Skill Alone</p>
 
+## Top stars and ordinary workers are playing different games
+
+The example many people think of here is entertainment. When you look at top stars like Suzy or Karina, people still watch that person even if AI can make songs and videos. Fans do not buy only one finished song. Money attaches to the fact that the person stands on stage, brands choose that face, and the public remembers that name.
+
+But an ordinary worker is in a different game. If the task is only "make this image," "write this text," or "summarize this data," AI can move into the center. The difference is not that stars have talent and office workers do not. The difference is the game board. Top stars have name, audience, contracts, copyright, likeness, and distribution channels bundled together. Ordinary workers are often left with only the assigned task.
+
 ## The person in the principal seat and the person in the dependent seat are different
 
 In a world where AI takes much work, people split broadly into two groups. One group stands in the principal seat. They have access to information, decision rights, ownership, and responsibility. The other group stands in the dependent seat. They rely on the work, money, convenience, and protection the principal side provides.

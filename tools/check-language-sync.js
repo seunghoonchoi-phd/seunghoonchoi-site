@@ -72,6 +72,10 @@ function parseFrontMatter(rel) {
   return out;
 }
 
+function markdownH2Count(rel) {
+  return [...read(rel).matchAll(/^##\s+.+$/gm)].length;
+}
+
 function tomlSectionKeys(rel) {
   const file = path.join(root, rel);
   if (!fs.existsSync(file)) return null;
@@ -136,6 +140,17 @@ if (!ko) {
             `[${lang.lang}] front matter differs from ko for ${rel}\n` +
               mismatches.map((key) => `  ${key}: ko=${koFm[key] || "(empty)"} ${lang.lang}=${langFm[key] || "(empty)"}`).join("\n")
           );
+        }
+
+        if (rel.startsWith("column/") && rel !== "column/_index.md") {
+          const koH2Count = markdownH2Count(`${ko.contentDir}/${rel}`);
+          const langH2Count = markdownH2Count(target);
+          if (koH2Count !== langH2Count) {
+            errors.push(
+              `[${lang.lang}] column H2 count differs from ko for ${rel}\n` +
+                `  ko=${koH2Count} ${lang.lang}=${langH2Count}`
+            );
+          }
         }
       }
     }

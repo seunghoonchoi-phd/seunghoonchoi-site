@@ -27,15 +27,33 @@ But that question needs to be asked differently. For civilization-scale problems
 
 Problems like responding to global warming, transforming energy systems, and building space infrastructure are not "knowing the answer" problems. They are problems of installing the answer in reality, maintaining it, verifying it, and moving people.
 
-## Why Should the Question Change?
+## What is so fast?
+
+AI feels fast because the output on the screen has become fast. Drafts that used to take days appear in minutes. Searching, sorting, coding, design, and translation all start faster than before.
+
+But civilization is not a document. Climate work needs power plants, grids, batteries, factories, mines, ships, aircraft, cities, agriculture, finance, and politics to move together. Hair loss, aging, cancer, dementia, and a lunar base all sit outside the monitor too.
+
+By that standard, AI is still slow. The speed we feel is the speed inside the monitor. Civilization moves outside the monitor.
+
+## We have solved very few big problems yet
+
+In one sense, "AI is too fast" is true. Companies, schools, creative markets, and office jobs are shaking. Some people lose time to adapt, and some jobs can shrink quickly.
+
+But open the list of bigger problems and the feeling changes. Global warming has not stopped. Power grids are not changing fast enough. Batteries still need to be cheaper, safer, and longer lasting. Drug development is still slow and expensive. Humans still age, lose hair, and collapse in front of cancer and dementia.
+
+AI product releases are fast. Humanity's speed at finishing problems is still slow.
+
+## How would we solve those problems without AI?
 
 AI can calculate, predict, and design. But it cannot build a power plant by itself. It cannot lay transmission lines. It cannot commission a carbon capture plant. It cannot secure permits for a mine. It cannot persuade residents who oppose a project. It cannot open broken equipment in the field and repair it.
 
 It also cannot smell a factory defect and decide, "This problem is not in the data." So the human needed next is not a human who calculates better than AI. It is a human who actually realizes AI-made possibilities in the real world.
 
+## Reality is not a database
+
 The core is more direct than that. Humans are needed not because AI is weak. Humans are needed because reality is not a database.
 
-## Why Is the Bottleneck of Civilization-Scale Problems Execution, Not Calculation?
+## Energy transition needs people and AI together
 
 Climate action alone makes this clear. [IPCC AR6 WGIII](https://www.ipcc.ch/report/ar6/wg3/) treats climate response not as a single technology problem, but as a system transition involving energy, industry, cities, land, policy, finance, and international cooperation. In other words, human organizations are needed to turn calculations into infrastructure and institutions. AI can say, "For this region, renewable energy, batteries, and transmission lines should be arranged this way."
 
@@ -43,15 +61,13 @@ But what comes next is human work: securing land, negotiating with residents, co
 
 Employment is not simply a way to earn money. It is the execution structure that keeps civilization projects running in reality.
 
-## Why Is the Energy Transition a Human Problem?
-
 The energy transition does not end with "install solar." It needs grids, plants, batteries, nuclear power, hydrogen, transmission, transformers, power semiconductors, mining, refining, manufacturing, maintenance, safety management, and permits.
 
 [IEA World Energy Employment 2025](https://www.iea.org/reports/world-energy-employment-2025) treats shortages of skilled labor as an already important bottleneck in expanding energy infrastructure. In IEA survey results, about 60% of energy-related companies reported labor shortages, and a large share of new energy hiring is needed just to replace retiring workers.
 
 Even if AI accelerates design, the real steel, copper, concrete, semiconductors, factories, and transmission towers are operated by people. Repetitive office work may shrink. But grid engineers, materials researchers, process engineers, robot operators, climate risk analysts, plant commissioning specialists, AI reviewers, safety engineers, regulatory designers, and field integrators become more important. Human employment in the AI era is not just manual labor. It is the point where plans meet reality.
 
-## Why Does Verification Labor Matter More as AI Gets Stronger?
+## The stronger AI gets, the more it needs reviewers
 
 When an AI-made answer is wrong, the damage can scale too.
 
@@ -65,13 +81,13 @@ This is the core of high-level employment going forward. We do not only need peo
 
 <p class="inline-image-caption">AI Is Not Advancing Too Fast: Compared with Civilization's Stopwatch, It Is Still Slow</p>
 
-## Why Is Employment a Social Stabilizer?
+## Employment is civilization's execution structure
 
 Employment is not merely "feeding people." Large-scale unemployment and exclusion make civilization projects impossible to sustain for long. When people lose jobs, income, and meaning, climate action or space development becomes politically hard to hold together. The tax base weakens, social trust erodes, extremism grows, and long-term projects can be reversed by one election.
 
 That is why the [ILO guidelines for a just transition](https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies) matter. A green transition is not only a technology transition. It has to move together with labor, education, wages, communities, and social dialogue. Systems last when people participate. Systems fall apart politically when people are excluded. Employment is the social stabilizer that lets civilization-scale projects keep running.
 
-## Does AI Remove Humans, or Lower-Level Work?
+## AI removes lower-level work, not humans
 
 AI does not make all humans unnecessary. More precisely, it shrinks work that can be replaced by AI alone. Repetitive document writers may shrink. Simple data-entry roles may shrink. Work that only applies memorized rules may shrink.
 
@@ -81,7 +97,7 @@ The [World Economic Forum Future of Jobs Report 2025](https://www.weforum.org/pu
 
 The point is not that work disappears entirely. It is that the layer of ability demanded from humans changes.
 
-## Why Are Humans the Ones Who Set the Objective Function?
+## Humans set goals and responsibility
 
 If you tell AI to "solve global warming," there is not one answer.
 
@@ -89,13 +105,7 @@ Should economics come first? Survival rate? Reducing harm to low-income people? 
 
 AI can optimize. But human society has to decide what to optimize. This is not a calculation problem. It is a problem of values, politics, power, and survival strategy. Humans become not simple laborers, but operators of the objective function.
 
-## Why Does Employment Explode Again When We Expand into Space?
-
-If we look only at the limited amount of work on Earth, AI can look like a job-taking force. But if humanity expands its survival zone to the Moon, Mars, orbit, asteroids, and deep space, the story changes. Space construction, closed ecosystems, radiation shielding, high-performance alloys, nuclear propulsion, cryogenic storage, space agriculture, space medicine, interplanetary communication, autonomous robots, space law, space insurance, space accounting, space education, and space logistics all become necessary.
-
-AI is not a technology that reduces this. It is a tool that lets humans handle larger problems. AI does not remove the workers on the ground. It lets the same effort cover far more territory. The problem is that all that added territory still needs commanders, engineers, maintenance workers, strategists, supply operators, and defenders.
-
-## So Why Are Humans Needed?
+## Conclusion: AI needs to get faster
 
 The conclusion is simple. AI creates possibilities. Humans fix those possibilities into reality. AI makes answers. Employment turns answers into civilization.
 
