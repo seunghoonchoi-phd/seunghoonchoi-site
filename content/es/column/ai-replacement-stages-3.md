@@ -50,6 +50,8 @@ El problema no es que la IA diga una mentira obvia. Es que, sobre el papel, el d
 
 ![La autoridad de decidir no se entrega de golpe: etapas 9 a 14 de cómo la IA toma el trabajo](/images/inline/column-ai-replacement-stages-3.jpg)
 
+<p class="inline-image-caption">La autoridad de decidir no se entrega de golpe: etapas 9 a 14 de cómo la IA toma el trabajo</p>
+
 ## Etapa 12, reemplazo de video y voz
 
 El video y la voz ya están cambiando rápido. Lo importante no es solo crear una persona falsa. El punto central es si puede reemplazarse casi por completo en pantalla y voz a una persona real.

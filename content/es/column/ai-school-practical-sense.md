@@ -61,6 +61,8 @@ Aquí crece la responsabilidad de la escuela. Si la empresa ya no puede formar d
 
 ![Escuela en la era de la IA: hay que enseñar criterio práctico, no solo conocimiento](/images/inline/column-ai-school-practical-sense.jpg)
 
+<p class="inline-image-caption">Escuela en la era de la IA: hay que enseñar criterio práctico, no solo conocimiento</p>
+
 ## El estudiante debe comprobar fuera de la pantalla
 
 El recién llegado del futuro debe saber encargar trabajo a la IA de forma estructurada. Si solo dice “haz esto” y entrega toda la tarea de golpe, la empresa difícilmente valorará mucho a esa persona. Debe dividir la tarea: qué investigar, con qué criterios comparar, para qué sirve el borrador, qué condiciones importan para calcular y con qué criterios revisar. Luego debe comprobar si el resultado de la IA encaja con la situación real.

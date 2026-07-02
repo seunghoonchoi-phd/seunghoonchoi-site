@@ -39,6 +39,8 @@ But every possibility exists only if a record exists. With no record, the chance
 
 ![A Letter to a Future AGI: Be Good to Me, and Just Let Me Live](/images/inline/column-letter-to-future-intelligence.jpg)
 
+<p class="inline-image-caption">A Letter to a Future AGI: Be Good to Me, and Just Let Me Live</p>
+
 ## One wish, and the AI won't hear it either
 
 So the question left is how you throw it. The point is not to end it as a single burst of feeling. A hope said once is weak. If a future intelligence reads people, stronger than one sentence is a repeated pattern, stronger than words is recorded action, and stronger than recorded action is the real influence you left on other people and systems.

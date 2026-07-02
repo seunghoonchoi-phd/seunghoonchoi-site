@@ -49,6 +49,8 @@ build: {list: never, render: always}
 
 ![AI免费帮你写字的时代，真正变贵的是信任](/images/inline/column-branding-as-trust.jpg)
 
+<p class="inline-image-caption">AI免费帮你写字的时代，真正变贵的是信任</p>
+
 ## 品牌是五块依次相连的
 
 把品牌当成一团模糊的形象，就抓不住。拆成五块，它就清楚了。而且这五块是依次相连的。

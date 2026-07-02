@@ -44,6 +44,8 @@ For example, if you look at thirty photos of well-cooked steaks, you still do no
 
 ![A New Field Is Not Learned by Seeing More, but by Seeing Differently: 3, 7, 30, 100](/images/inline/column-learning-magic-numbers.jpg)
 
+<p class="inline-image-caption">A New Field Is Not Learned by Seeing More, but by Seeing Differently: 3, 7, 30, 100</p>
+
 ## One hundred times is feedback, not repetition
 
 Seeing with your eyes and doing with your hands are different. Just because patterns start to appear does not mean your hands will follow right away. In the beginner phase, results swing around. It worked yesterday but not today. You think you did the same thing, but the result is different.

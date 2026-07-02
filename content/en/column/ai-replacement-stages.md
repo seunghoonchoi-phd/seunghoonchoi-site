@@ -82,6 +82,8 @@ But something remains here: choosing with conviction while knowing that if you a
 
 ![The Order AI Takes Work: From Work with Right Answers to Human Existence](/images/inline/column-ai-replacement-stages.jpg)
 
+<p class="inline-image-caption">The Order AI Takes Work: From Work with Right Answers to Human Existence</p>
+
 ## Stage 9, people begin delegating decision authority to AI
 
 From here, the nature changes.

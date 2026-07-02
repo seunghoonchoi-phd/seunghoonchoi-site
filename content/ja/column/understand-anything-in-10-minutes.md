@@ -50,6 +50,8 @@ build: {list: never, render: always}
 
 ![はじめて見る概念を10分で攻略する方法：純粋理解の9マステンプレート](/images/inline/column-understand-anything-in-10-minutes.jpg)
 
+<p class="inline-image-caption">はじめて見る概念を10分で攻略する方法：純粋理解の9マステンプレート</p>
+
 ## この様式が違う点はちょうど三つ
 
 概念をまとめる枠組みは世の中にあふれています。この様式が違うのは、ちょうど三つです。

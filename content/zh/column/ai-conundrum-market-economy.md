@@ -58,6 +58,8 @@ AI可以让价格下降。问题是，对失去收入的人来说，降价不一
 
 ![AI之谜：技术越进步，市场经济越不安](/images/inline/column-ai-conundrum-market-economy.jpg)
 
+<p class="inline-image-caption">AI之谜：技术越进步，市场经济越不安</p>
+
 ## 常见答案太慢，也太弱
 
 有人说AI会提高人的生产率。这是真的。但如果市场没有变大，原来十个人做的事现在三个人能做，那么剩下七个人就可能不再被需要。

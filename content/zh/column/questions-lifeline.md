@@ -50,6 +50,8 @@ reviewStatus: "done"
 
 ![问题很多的人的救命绳](/images/inline/column-questions-lifeline.jpg)
 
+<p class="inline-image-caption">问题很多的人的救命绳</p>
+
 ## 没有人能一直回答这些问题
 
 过去几乎没有办法打通这个瓶颈。能把根本问题一路解释到底的人太少。老师要赶进度，补习班要刷题型，教材也不会把所有中间环节都补全。

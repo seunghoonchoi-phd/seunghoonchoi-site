@@ -32,6 +32,8 @@ build: {list: never, render: always}
 
 ![미국 유학생 세금 기초: F-1 비거주 외국인 5년, FICA 면제, 한미 조세조약 (Part 4)](/images/inline/career-uf-guide-4-f1-taxes.jpg)
 
+<p class="inline-image-caption">미국 유학생 세금 기초: F-1 비거주 외국인 5년, FICA 면제, 한미 조세조약 (Part 4)</p>
+
 ## 신고 서류와 마감일
 
 어떤 서류를 내야 하는지는 소득이 있는지에 따라 갈립니다. 아래 표로 정리합니다.

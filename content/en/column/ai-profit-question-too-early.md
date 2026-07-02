@@ -75,6 +75,8 @@ For AI to attach itself to real work, it has to be present at that moment. And t
 
 ![No Company Has Made Money With AI? The Question Is Too Early](/images/inline/column-ai-profit-question-too-early.jpg)
 
+<p class="inline-image-caption">No Company Has Made Money With AI? The Question Is Too Early</p>
+
 ## If you only think about robots, you miss the important part
 
 When people imagine AI entering the physical world, they often jump straight to robots. AI gets a body, walks, grabs, moves, drives, and replaces human motion.

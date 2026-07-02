@@ -52,6 +52,8 @@ Este mapa del fracaso no aparece ni en el producto terminado, ni en el artículo
 
 ![Por qué la copia nunca sabe igual. En la era de la IA, la verdadera ventaja está en otra parte](/images/inline/column-trade-secret-function.jpg)
 
+<p class="inline-image-caption">Por qué la copia nunca sabe igual. En la era de la IA, la verdadera ventaja está en otra parte</p>
+
 ## La explicación se copia, pero la ejecución no se reproduce
 
 Hay una frontera curiosa. Son esos gestos que cualquiera sabe explicar, pero que luego no logra repetir.

@@ -77,6 +77,8 @@ Por fuera, todo funciona. Salen documentos, hay reuniones, continúa la atenció
 
 ![Si reduces personal porque la IA hace el trabajo, la empresa se vuelve más lenta: el contexto que solo conoce un animal social](/images/inline/column-ai-headcount-mistake.jpg)
 
+<p class="inline-image-caption">Si reduces personal porque la IA hace el trabajo, la empresa se vuelve más lenta: el contexto que solo conoce un animal social</p>
+
 ## Si recortas el nivel intermedio, desaparece la memoria de la empresa
 
 Cuando una empresa reduce personal, suele tocar una zona concreta: el nivel intermedio. Recorta juniors porque todavía no están maduros y seniors porque son caros. A quienes quedan les dice: "usen IA". Pero gran parte de la memoria real de una organización está en ese nivel intermedio.

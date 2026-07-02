@@ -37,6 +37,8 @@ build: {list: never, render: always}
 
 ![人不靠逻辑动起来，要读懂他的损失、面子和责任](/images/inline/column-reading-people.jpg)
 
+<p class="inline-image-caption">人不靠逻辑动起来，要读懂他的损失、面子和责任</p>
+
 ## 比起逻辑，先想得失、面子、责任
 
 想一个要把新方法带进团队的人。聪明人会把时间全花在讲自己这套点子多高效上。可真正让人动起来的，不是那番讲解。是听的人脑子里悄悄转着的四个问题，以及这四个问题的答案。

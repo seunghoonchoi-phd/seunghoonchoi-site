@@ -78,6 +78,8 @@ So in the AI era, it is not enough to ask, "What will I be good at?" Ask, "What 
 
 ![How to Survive the AI Era: Bet on Credentials and Ownership, Not Skill Alone](/images/inline/column-ai-replacement-stages-5.jpg)
 
+<p class="inline-image-caption">How to Survive the AI Era: Bet on Credentials and Ownership, Not Skill Alone</p>
+
 ## The person in the principal seat and the person in the dependent seat are different
 
 In a world where AI takes much work, people split broadly into two groups. One group stands in the principal seat. They have access to information, decision rights, ownership, and responsibility. The other group stands in the dependent seat. They rely on the work, money, convenience, and protection the principal side provides.

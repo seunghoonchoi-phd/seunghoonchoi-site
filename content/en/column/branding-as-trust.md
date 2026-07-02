@@ -49,6 +49,8 @@ The more common sentences become, the more the difference moves to the evidence 
 
 ![When AI Drafts Writing for Free, the Thing That Gets Hard to Find Is Trust](/images/inline/column-branding-as-trust.jpg)
 
+<p class="inline-image-caption">When AI Drafts Writing for Free, the Thing That Gets Hard to Find Is Trust</p>
+
 ## Branding is five pieces that connect in order
 
 Leave branding as a vague image and you can't get hold of it. Break it into five pieces and it sharpens. And these five connect in order.

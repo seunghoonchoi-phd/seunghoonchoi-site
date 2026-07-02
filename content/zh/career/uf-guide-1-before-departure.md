@@ -90,6 +90,8 @@ reviewStatus: "done"
 
 ![从录取到出国：从读懂录取通知到完成海外汇款](/images/inline/career-uf-guide-1-before-departure.jpg)
 
+<p class="inline-image-caption">从录取到出国：从读懂录取通知到完成海外汇款</p>
+
 ## 3. 分级考试 (Placement Exam)
 
 - 窗口为 6 月~8 月初，在 [eLearning](https://elearning.ufl.edu/) 上线上进行。由选择题+简答题组成。

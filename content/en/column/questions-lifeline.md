@@ -50,6 +50,8 @@ At the top end of exams, this difference becomes large. Some students can see th
 
 ![A Lifeline for People Who Ask Too Many Questions](/images/inline/column-questions-lifeline.jpg)
 
+<p class="inline-image-caption">A Lifeline for People Who Ask Too Many Questions</p>
+
 ## There Was No One to Receive the Questions
 
 In the past, there was almost no way to open this bottleneck. There were not enough people who could receive fundamental questions all the way to the end. Teachers had to move through the syllabus. Academies had to drill problem types. Textbooks rarely filled in every missing piece.

@@ -46,6 +46,8 @@ Cuando ese costo baja, esta zona también queda en riesgo.
 
 ![Del trabajo físico repetitivo al trabajo que exige juicio y tacto: etapas 6 a 8 de cómo la IA toma el trabajo](/images/inline/column-ai-replacement-stages-2.jpg)
 
+<p class="inline-image-caption">Del trabajo físico repetitivo al trabajo que exige juicio y tacto: etapas 6 a 8 de cómo la IA toma el trabajo</p>
+
 ## Etapa 8, trabajos que exigen juicio y tacto
 
 La última de esta parte es el trabajo que exige juicio y tacto. La gente suele decir: "esto solo lo sabe quien lo ha hecho mucho", "esto es intuición", "esto no se puede con datos".

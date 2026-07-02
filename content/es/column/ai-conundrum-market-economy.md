@@ -58,6 +58,8 @@ Un auge sin empleo puede verse brillante en los números. Pero la gente no vive 
 
 ![El enigma de la IA: cuanto más avanza la tecnología, más inestable se vuelve la economía de mercado](/images/inline/column-ai-conundrum-market-economy.jpg)
 
+<p class="inline-image-caption">El enigma de la IA: cuanto más avanza la tecnología, más inestable se vuelve la economía de mercado</p>
+
 ## Las respuestas habituales son demasiado lentas o demasiado débiles
 
 Algunos dicen que la IA elevará la productividad humana. Es verdad. Pero si el mercado no crece, en el momento en que tres personas puedan hacer el trabajo que antes hacían diez, las otras siete pueden dejar de ser necesarias.

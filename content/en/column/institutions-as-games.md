@@ -41,6 +41,8 @@ So when an organization is stuck in some strange numbers game, before you call t
 
 ![How to Read an Institution: Forget the Rules, Look at the Rewards and Penalties](/images/inline/column-institutions-as-games.jpg)
 
+<p class="inline-image-caption">How to Read an Institution: Forget the Rules, Look at the Rewards and Penalties</p>
+
 ## Add More Sign-Offs and Only the Honest Employees Lose
 
 Say a company piles on approval steps to stop expense fraud. Now even a single 10,000 won taxi fare needs sign-off from three people: the team lead, the division head, and finance. The goal of stopping fraud is fine.

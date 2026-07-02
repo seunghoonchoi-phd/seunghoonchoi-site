@@ -53,6 +53,8 @@ build: {list: never, render: always}
 
 ![光练实力,结果拉不开。先挑环境](/images/inline/column-choose-the-board.jpg)
 
+<p class="inline-image-caption">光练实力,结果拉不开。先挑环境</p>
+
 ## 在机会被堵死的地方练实力,练多少就只到多少
 
 所以那个最常见的办法,常常白费。

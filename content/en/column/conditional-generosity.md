@@ -56,6 +56,8 @@ The end of distance is not hatred. It is indifference. They no longer disturb yo
 
 ![How to Be Good Without Being a Pushover: Even a Saint Draws a Sword in Front of a Villain](/images/inline/column-conditional-generosity.jpg)
 
+<p class="inline-image-caption">How to Be Good Without Being a Pushover: Even a Saint Draws a Sword in Front of a Villain</p>
+
 ## Turn anger and blame into information instead of killing them
 
 When you decide to live as a good person, you may feel ashamed of the aggression inside you. If you want to curse, blame, or gossip about someone, you wonder, "Am I a bad person?" But that impulse is not entirely bad. It can be an alarm. It may signal that someone crossed your line, something unfair happened, or you felt ignored.

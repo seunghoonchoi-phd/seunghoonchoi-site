@@ -84,6 +84,8 @@ You have to know this to explain the report. The fact that AI organized the piec
 
 ![Why I Cannot Explain the Report AI Wrote for Me: What Missing Background Knowledge Is](/images/inline/column-context-debt.jpg)
 
+<p class="inline-image-caption">Why I Cannot Explain the Report AI Wrote for Me: What Missing Background Knowledge Is</p>
+
 ## When the background knowledge is empty, a single question is enough to expose it
 
 When the background knowledge is empty, the most frightening moment is when you get a question.

@@ -49,6 +49,8 @@ CBP(U.S. Customs and Border Protection, アメリカ税関国境警備局)の審
 
 ![F-1ビザとアメリカ入国:身分維持の要件から空港到着まで](/images/inline/career-uf-guide-2-f1-visa-entry.jpg)
 
+<p class="inline-image-caption">F-1ビザとアメリカ入国:身分維持の要件から空港到着まで</p>
+
 ## 到着後の必須手続き：ISSSオンラインチェックイン
 
 アメリカに到着したら終わり、ではありません。新規のF-1学生は、I-20のプログラム開始日から30日以内 にISSSのオンラインチェックインを済ませなければなりません。手順は次のとおりです。

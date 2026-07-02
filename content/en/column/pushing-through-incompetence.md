@@ -44,6 +44,8 @@ Once the weak point is precise, the training method appears. If the first senten
 
 ![The Person Who Can Stand Feeling Bad at Something Eventually Gets Better](/images/inline/column-pushing-through-incompetence.jpg)
 
+<p class="inline-image-caption">The Person Who Can Stand Feeling Bad at Something Eventually Gets Better</p>
+
 ## Break it small and it becomes bearable
 
 Once you find the weak point, the next step is to cut it small. If you grab the whole mass at once, the feeling of incompetence grows too. "I need to become good at a foreign language" is too large. "I will say one sentence in today's meeting" is bearable.

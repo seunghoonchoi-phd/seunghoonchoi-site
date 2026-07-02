@@ -48,6 +48,8 @@ Las empresas que no puedan responder tendrán problemas. Algunas tienen ingresos
 
 ![Repasar la burbuja puntocom y compararla con la burbuja de la IA](/images/inline/column-dotcom-bubble-ai-bubble.jpg)
 
+<p class="inline-image-caption">Repasar la burbuja puntocom y compararla con la burbuja de la IA</p>
+
 ## Esta vez la memoria sigue viva
 
 Ahora no estamos en 2000. Muchas personas que vivieron ese ciclo siguen dentro del centro del mercado. Operadores, inversores y fundadores de aquella época son hoy ejecutivos, miembros de consejos y socios de fondos. La sociedad no ha tenido tiempo suficiente para olvidar la lección de la burbuja puntocom.

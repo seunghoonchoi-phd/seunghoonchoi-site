@@ -38,6 +38,8 @@ reviewStatus: "done"
 
 ![दूसरों की मीटिंग से संगठन की सत्ता-संरचना तक पढ़ने का तरीका](/images/inline/column-observing-others-meetings.jpg)
 
+<p class="inline-image-caption">दूसरों की मीटिंग से संगठन की सत्ता-संरचना तक पढ़ने का तरीका</p>
+
 ## मुद्दों को MECE तरीके से तोड़ें
 
 - आज किन मुख्य मुद्दों पर बात हुई?

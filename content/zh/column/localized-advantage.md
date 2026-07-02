@@ -31,6 +31,8 @@ build: {list: never, render: always}
 
 ![李永浩为什么不养整支部队，只赢那30秒：把力气集中到一个点，抓住决定性瞬间](/images/inline/column-localized-advantage.jpg)
 
+<p class="inline-image-caption">李永浩为什么不养整支部队，只赢那30秒：把力气集中到一个点，抓住决定性瞬间</p>
+
 ## 打那个马上要出现的破绽
 
 于是问题就收窄成了一个：对手，或者说环境，什么时候会变弱。

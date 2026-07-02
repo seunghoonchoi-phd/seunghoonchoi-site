@@ -32,6 +32,8 @@ Así como los humanos mueren, la IA no debería permanecer para siempre. Kim pla
 
 ![Texto completo de la 'Constitución de la IA' del profesor Joungho Kim de KAIST](/images/inline/column-kim-joungho-ai-constitution.jpg)
 
+<p class="inline-image-caption">Texto completo de la 'Constitución de la IA' del profesor Joungho Kim de KAIST</p>
+
 ## Artículo 5. El consumo eléctrico de la IA debe limitarse al nivel humano.
 
 Kim mencionó la potencia del cerebro humano o de un portátil, y propuso que la IA también se ajuste a unos 25 W. Como los grandes sistemas de IA actuales pueden necesitar kilovatios o más, vio ese límite eléctrico como una condición de competencia.

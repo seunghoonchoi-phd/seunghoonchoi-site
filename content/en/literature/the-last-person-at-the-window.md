@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![The silhouette of a person sitting by a window that looks out on the sea](/images/inline/literature-the-last-person-at-window.jpg)
 
+<p class="inline-image-caption">The silhouette of a person sitting by a window that looks out on the sea</p>
+
 Every morning, Su-kyung still takes the same seat.
 
 It is a window that looks out on the sea. The building is old, the sill deep, so that when she sits the shadow falls across her shoulders. Snow that blew in overnight lies in a thin skin along the inside of the frame. Each time she breathes out, the glass clouds and then clears again, slowly, from the edges in. The horizon is dim. On a grey day the sea has no border with the sky, and there is no telling where the water ends and the clouds begin.

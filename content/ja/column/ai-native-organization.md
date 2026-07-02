@@ -44,6 +44,8 @@ AIネイティブ組織って何ですか、と聞かれると、私は逆に聞
 
 ![AIを使う会社は多い。AIがないと止まる会社こそ「AIネイティブ組織」だ](/images/inline/column-ai-native-organization.jpg)
 
+<p class="inline-image-caption">AIを使う会社は多い。AIがないと止まる会社こそ「AIネイティブ組織」だ</p>
+
 ## 差は3段階目から開く
 
 | 段階 | 内容 |

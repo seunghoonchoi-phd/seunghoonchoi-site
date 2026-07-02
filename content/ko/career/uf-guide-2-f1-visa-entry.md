@@ -49,6 +49,8 @@ CBP(U.S. Customs and Border Protection, 미국 세관국경보호청) 심사 단
 
 ![F-1 비자와 미국 입국: 신분 유지 요건부터 공항 도착까지](/images/inline/career-uf-guide-2-f1-visa-entry.jpg)
 
+<p class="inline-image-caption">F-1 비자와 미국 입국: 신분 유지 요건부터 공항 도착까지</p>
+
 ## 도착 후 필수 절차: ISSS 온라인 체크인
 
 미국에 도착했다고 끝이 아닙니다. 신규 F-1 학생은 I-20의 프로그램 시작일 기준 30일 내 ISSS 온라인 체크인을 마쳐야 합니다. 순서는 다음과 같습니다.

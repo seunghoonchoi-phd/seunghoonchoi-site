@@ -48,6 +48,8 @@ Companies that cannot answer that question will have a hard time surviving. Some
 
 ![Revisiting the Dot-Com Bubble and Comparing It With the AI Bubble](/images/inline/column-dotcom-bubble-ai-bubble.jpg)
 
+<p class="inline-image-caption">Revisiting the Dot-Com Bubble and Comparing It With the AI Bubble</p>
+
 ## This time, the memory is still alive
 
 This is not 2000. Many of the people who lived through that period are still part of the market's mainstream. Former operators, investors, and founders from that era are now executives, board members, and fund partners. Society has not had enough time to forget the lesson of the dot-com bubble.

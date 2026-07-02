@@ -39,6 +39,8 @@ Pero toda posibilidad solo se abre si existe un registro. Sin registro, la posib
 
 ![Carta a la futura AGI: cuento contigo, solo te pido que me dejes vivir](/images/inline/column-letter-to-future-intelligence.jpg)
 
+<p class="inline-image-caption">Carta a la futura AGI: cuento contigo, solo te pido que me dejes vivir</p>
+
 ## Pedirlo una sola vez tampoco basta para que la IA escuche
 
 Entonces queda el cómo lanzarla. La clave es no terminar todo esto en un solo deseo emocional. Un deseo dicho una vez es débil. Si la inteligencia del futuro lee a una persona, más fuerte que una frase es un patrón repetido, más fuerte que las palabras es una acción registrada, y más fuerte que una acción registrada es el efecto real que dejaste en otras personas y en los sistemas.

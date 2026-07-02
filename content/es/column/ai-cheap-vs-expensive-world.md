@@ -60,6 +60,8 @@ Por eso la máquina puede volverse fuerte en situaciones promedio. Aprende rápi
 
 ![La IA venció en Go, pero ¿por qué todavía le cuesta soldar?: el humano se detiene, la máquina repite](/images/inline/column-ai-cheap-vs-expensive-world.jpg)
 
+<p class="inline-image-caption">La IA venció en Go, pero ¿por qué todavía le cuesta soldar?: el humano se detiene, la máquina repite</p>
+
 ## El gemelo digital le da a la máquina un lugar para practicar
 
 Aquí se vuelve importante el gemelo digital. Un gemelo digital intenta reproducir en un espacio virtual la fábrica, el equipo, los materiales y las condiciones de trabajo del mundo real. Fallar en la realidad es caro; en el mundo virtual, el mismo fallo se puede repetir mucho más barato.

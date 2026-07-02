@@ -41,6 +41,8 @@ build: {list: never, render: always}
 
 ![制度の読み方：ルールよりも、まず賞と罰を見よ](/images/inline/column-institutions-as-games.jpg)
 
+<p class="inline-image-caption">制度の読み方：ルールよりも、まず賞と罰を見よ</p>
+
 ## 決裁を増やしたら、正直な社員だけが損をする
 
 会社で出張費の不正を防ごうと、決裁の段階を増やしたとしよう。1万円のタクシー代一つを処理するのにも、チーム長、本部長、財務まで三人の承認が必要になった。不正を防ごうという意図は良い。

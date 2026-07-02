@@ -52,6 +52,8 @@ AI时代竞争力的秘密，整个就藏在这里头。
 
 ![抄走了配方，却抄不出那个味儿。AI时代真正的护城河，藏在别处](/images/inline/column-trade-secret-function.jpg)
 
+<p class="inline-image-caption">抄走了配方，却抄不出那个味儿。AI时代真正的护城河，藏在别处</p>
+
 ## 说得出来，做不出来
 
 有一条有意思的界线：人人都能说出口，可真要再做一遍就做不出来的那些动作。

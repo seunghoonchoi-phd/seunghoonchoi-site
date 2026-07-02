@@ -57,6 +57,8 @@ Aunque la IA escriba el borrador, una persona debe ver si ese borrador está mon
 
 ![Más importante que el talento para estudiar: 4 fundamentos que separan más a la gente cuanto mejor se vuelve la IA](/images/inline/column-six-fundamentals.jpg)
 
+<p class="inline-image-caption">Más importante que el talento para estudiar: 4 fundamentos que separan más a la gente cuanto mejor se vuelve la IA</p>
+
 ## 3. Estructurar información: convertir datos dispersos en una forma usable
 
 Tener mucha información no significa entender. De hecho, cuanta más información hay, más fácil es perderse. Diez documentos, cinco minutas y decenas de números vuelven la cabeza compleja enseguida. En ese momento no hacen falta más materiales. Hace falta estructura.

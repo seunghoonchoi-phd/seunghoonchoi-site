@@ -82,6 +82,8 @@ AIによる代替は、頭を使う仕事で終わりません。体を使う仕
 
 ![AIが仕事を奪っていく順番:答えのある仕事から人間の存在まで](/images/inline/column-ai-replacement-stages.jpg)
 
+<p class="inline-image-caption">AIが仕事を奪っていく順番:答えのある仕事から人間の存在まで</p>
+
 ## 第9段階、決定権限をAIに任せはじめる
 
 ここから性格が変わります。

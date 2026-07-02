@@ -35,6 +35,8 @@ A trick that stays only in your head fades over time. So you pull it outside and
 
 ![How a 1% Daily Edge Compounds Into Skill Nobody Can Copy](/images/inline/column-advantage-loops.jpg)
 
+<p class="inline-image-caption">How a 1% Daily Edge Compounds Into Skill Nobody Can Copy</p>
+
 ## Miss one and your skill is zero
 
 Once you have decided what to stack, the next thing is speed. How fast you improve depends on four things working together. Do it often, know what went wrong, fix it right away, and write down what you fixed. It works like multiplication. If even one of these is close to zero, it does not matter how big the others are, the result is zero. Practice every day but never know what is wrong, and you are just repeating a bad form a thousand times. Know what is wrong but never fix it next time, and nothing changes. People who improve fast are not just doing a lot. They handle all four at once. They play often, record themselves to spot the wrong notes, fix them the very next time, and write down what they changed.

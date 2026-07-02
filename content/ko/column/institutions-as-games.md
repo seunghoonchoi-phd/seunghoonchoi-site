@@ -41,6 +41,8 @@ build: {list: never, render: always}
 
 ![제도를 읽는 법: 규칙 말고, 상과 벌부터 봐라](/images/inline/column-institutions-as-games.jpg)
 
+<p class="inline-image-caption">제도를 읽는 법: 규칙 말고, 상과 벌부터 봐라</p>
+
 ## 결재 늘렸더니 정직한 직원만 손해 본다
 
 회사에서 출장비 부정을 막겠다고 결재 단계를 늘렸다고 해 보자. 만 원짜리 택시비 하나 처리하는 데도 팀장, 본부장, 재무까지 세 사람 승인이 필요해졌다. 부정 막자는 뜻은 좋다.

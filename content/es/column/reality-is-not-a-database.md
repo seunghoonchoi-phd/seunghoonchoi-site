@@ -63,6 +63,8 @@ Ese será el núcleo del empleo avanzado. No bastará con "saber usar IA". Hará
 
 ![El avance de la IA no es demasiado rápido: frente al cronómetro de la civilización humana, todavía es lento](/images/inline/column-reality-is-not-a-database.jpg)
 
+<p class="inline-image-caption">El avance de la IA no es demasiado rápido: frente al cronómetro de la civilización humana, todavía es lento</p>
+
 ## ¿Por qué el empleo es un mecanismo de estabilidad social?
 
 El empleo no es solo "dar de comer a la gente". El desempleo masivo y la exclusión hacen que los proyectos civilizatorios no puedan sostenerse por mucho tiempo. Si la gente pierde trabajo, ingresos y sentido, la acción climática o el desarrollo espacial se vuelven políticamente frágiles. Se debilita la base fiscal, se rompe la confianza social, crecen los extremos y un proyecto de largo plazo puede caer con una sola elección.

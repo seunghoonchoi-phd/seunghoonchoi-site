@@ -44,6 +44,8 @@ AI 네이티브 조직이 뭐냐고 물으면 나는 거꾸로 묻는다. 지금
 
 ![AI 쓰는 회사는 많다. AI 없으면 멈추는 회사가 'AI 네이티브 조직'이다](/images/inline/column-ai-native-organization.jpg)
 
+<p class="inline-image-caption">AI 쓰는 회사는 많다. AI 없으면 멈추는 회사가 'AI 네이티브 조직'이다</p>
+
 ## 격차는 3단계부터 벌어진다
 
 | 단계 | 내용 |

@@ -33,6 +33,8 @@ Aquí, la persona ingenua comete dos errores. O cumple la aprobación previa con
 
 ![La verdadera razón por la que la mejor propuesta se cae en la reunión](/images/inline/column-operating-rules.jpg)
 
+<p class="inline-image-caption">La verdadera razón por la que la mejor propuesta se cae en la reunión</p>
+
 ## Se contrata al proveedor caro por el orgullo del directivo
 
 Hay decisiones que, vistas desde fuera, no hay manera de entender. Habiendo un proveedor externo más barato y mejor, se insiste en seguir con el de siempre, que es caro y lento. Un equipo que funciona bien se parte de pronto en dos. Si solo miras la racionalidad, cualquiera ve que es una pérdida. Pero miremos un solo paso más allá: "¿el presupuesto de quién protege esta decisión y a quién le salva el orgullo?". En ese momento todo se aclara.

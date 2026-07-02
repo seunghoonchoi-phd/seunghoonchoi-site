@@ -52,6 +52,8 @@ reviewStatus: "done"
 
 ![第一次接触的工作，如何用 AI 分析会议转写来把握结构](/images/inline/column-observing-others-meetings.jpg)
 
+<p class="inline-image-caption">第一次接触的工作，如何用 AI 分析会议转写来把握结构</p>
+
 ## 要把争点拆得 MECE
 
 MECE 是 Mutually Exclusive, Collectively Exhaustive 的缩写，意思是互不重叠、完整穷尽。简单说，就是不要把同一件事重复放进两个格子，也不要漏掉重要项目。

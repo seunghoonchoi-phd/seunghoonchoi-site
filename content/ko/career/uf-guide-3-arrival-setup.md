@@ -42,6 +42,8 @@ build: {list: never, render: always}
 
 ![미국 대학원 정착 가이드 Part 3: 도착 후 행정 절차 순서, 휴대폰·은행·SSN·면허·신용](/images/inline/career-uf-guide-3-arrival-setup.jpg)
 
+<p class="inline-image-caption">미국 대학원 정착 가이드 Part 3: 도착 후 행정 절차 순서, 휴대폰·은행·SSN·면허·신용</p>
+
 ## 3. SSN (사회보장번호)
 
 조교(GA)는 급여를 받기 때문에 SSN 대상입니다. 다만 도착하자마자 신청할 수는 없고, 절차상 며칠을 기다려야 합니다.

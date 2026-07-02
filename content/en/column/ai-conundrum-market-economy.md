@@ -58,6 +58,8 @@ A jobless boom can look impressive in the numbers. But people do not live on ave
 
 ![The AI Conundrum: The More the Technology Advances, the More Unstable the Market Economy Becomes](/images/inline/column-ai-conundrum-market-economy.jpg)
 
+<p class="inline-image-caption">The AI Conundrum: The More the Technology Advances, the More Unstable the Market Economy Becomes</p>
+
 ## The usual answers are too slow or too weak
 
 Some say AI will raise human productivity. That is true. But if the market does not grow, the moment three people can do the work that used to take ten, the other seven may no longer be needed.

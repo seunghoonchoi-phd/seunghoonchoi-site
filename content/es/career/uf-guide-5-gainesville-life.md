@@ -65,6 +65,8 @@ Lo que recibes después de impuestos es de unos $2.200-$2.400 al mes, así que v
 
 ![Vivir en Gainesville de la A a la Z: vivienda, transporte y costo de vida, salud, clima y comunidad](/images/inline/career-uf-guide-5-gainesville-life.jpg)
 
+<p class="inline-image-caption">Vivir en Gainesville de la A a la Z: vivienda, transporte y costo de vida, salud, clima y comunidad</p>
+
 ## Salud y atención médica (SHCC): lo esencial que debes saber
 
 El sistema de salud de Estados Unidos funciona de forma distinta al coreano, así que entender los conceptos desde el principio te puede ahorrar mucho dinero y tiempo.

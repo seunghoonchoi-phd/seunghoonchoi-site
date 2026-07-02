@@ -62,6 +62,8 @@ AMOC是Atlantic Meridional Overturning Circulation的缩写，中文常译为大
 
 ![太阳和地球之间排列着小型太空百叶窗模块，略微减少进入北极和北大西洋阳光的科学插图](/images/col-amoc-space-blind-modules.jpg)
 
+<p class="inline-image-caption">太阳和地球之间排列着小型太空百叶窗模块，略微减少进入北极和北大西洋阳光的科学插图</p>
+
 ## 先降温，再去除CO2
 
 病人高烧到危险程度时，医生会用退烧药。但退烧药并没有治好病。它只是先把体温降下来，避免器官坏掉，然后再治疗原因。
@@ -87,6 +89,8 @@ AMOC是Atlantic Meridional Overturning Circulation的缩写，中文常译为大
 AI不应该成为替人类统治地球的存在。但它可以承担这样的角色：把人类单独看不到的复杂信号指出来。
 
 ![卫星、海洋浮标和气候模型数据连接成AI监测网络，观察北大西洋海流变化的科学插图](/images/col-amoc-ai-monitoring-network.jpg)
+
+<p class="inline-image-caption">卫星、海洋浮标和气候模型数据连接成AI监测网络，观察北大西洋海流变化的科学插图</p>
 
 ## SpaceX应该先看地球的循环系统，再看火星
 

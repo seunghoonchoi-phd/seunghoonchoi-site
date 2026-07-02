@@ -38,6 +38,8 @@ image: /images/col-value-conversion.jpg
 
 ![どれだけ働いても残らない理由。時間ではなく、また使える成果物を残せ](/images/inline/column-value-conversion.jpg)
 
+<p class="inline-image-caption">どれだけ働いても残らない理由。時間ではなく、また使える成果物を残せ</p>
+
 ## この努力は何になって残るのか
 
 だから一段上がるために、口ぐせにすべき問いが一つある。何かの仕事を終えるたびに自分に投げかける問いだ。「この努力は、また使える何になって残るのか?」

@@ -30,6 +30,8 @@ seoTitle: "美国留学生租房自动扣款：没有美国账户时要注意什
 
 ![美国留学租房自动扣款：没有美国银行账户，千万别先用卡设置](/images/inline/career-us-rent-autopay.jpg)
 
+<p class="inline-image-caption">美国留学租房自动扣款：没有美国银行账户，千万别先用卡设置</p>
+
 ## 正确的顺序
 
 所以这样安排最干净利落：

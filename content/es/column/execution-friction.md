@@ -43,6 +43,8 @@ La IA que usa es la misma. Quizá tiene menos datos que la empresa. Pero la vuel
 
 ![Usan la misma IA, pero ¿por qué solo los empleados no logran resultados? La verdad sobre la fricción del entorno de trabajo](/images/inline/column-execution-friction.jpg)
 
+<p class="inline-image-caption">Usan la misma IA, pero ¿por qué solo los empleados no logran resultados? La verdad sobre la fricción del entorno de trabajo</p>
+
 ## El verdadero culpable es el VDI, la computadora de la empresa
 
 En el centro de esta fricción está el escritorio virtual, el entorno que solemos llamar VDI. Vale la pena hablar de él por separado.

@@ -43,6 +43,8 @@ The AI is the same. The data may even be less than a company's. But the loop of 
 
 ![Same AI, Fewer Results: Why Employees Come Up Empty](/images/inline/column-execution-friction.jpg)
 
+<p class="inline-image-caption">Same AI, Fewer Results: Why Employees Come Up Empty</p>
+
 ## The real culprit is the company computer, the VDI
 
 The biggest source of this friction is the virtual desktop, commonly called VDI. It's worth pulling out and talking about on its own.

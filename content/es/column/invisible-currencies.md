@@ -58,6 +58,8 @@ La gente no busca solo a las personas capaces. Busca a las personas menos arries
 
 ![La verificación va antes que la habilidad: por qué la confianza y la reputación deciden las oportunidades](/images/inline/column-invisible-currencies.jpg)
 
+<p class="inline-image-caption">La verificación va antes que la habilidad: por qué la confianza y la reputación deciden las oportunidades</p>
+
 ## La buena habilidad hay que dejarla como evidencia
 
 Esto no significa exagerar una habilidad que no existe. Es lo contrario. Si tienes habilidad real, debes dejarla en una forma que otros puedan comprobar.

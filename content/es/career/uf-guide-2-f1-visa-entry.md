@@ -49,6 +49,8 @@ Hay algunos puntos más que debes tener en cuenta.
 
 ![Visa F-1 y entrada a Estados Unidos: requisitos para mantener el estatus y llegada al aeropuerto](/images/inline/career-uf-guide-2-f1-visa-entry.jpg)
 
+<p class="inline-image-caption">Visa F-1 y entrada a Estados Unidos: requisitos para mantener el estatus y llegada al aeropuerto</p>
+
 ## Trámite obligatorio tras la llegada: check-in en línea de ISSS
 
 Llegar a Estados Unidos no es el final. Los nuevos estudiantes F-1 deben completar el check-in en línea de ISSS dentro de los 30 días desde la fecha de inicio del programa indicada en el I-20. El orden es el siguiente.

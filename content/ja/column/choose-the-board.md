@@ -53,6 +53,8 @@ build: {list: never, render: always}
 
 ![実力を伸ばすだけでは結果につながらない。まず環境を選べ](/images/inline/column-choose-the-board.jpg)
 
+<p class="inline-image-caption">実力を伸ばすだけでは結果につながらない。まず環境を選べ</p>
+
 ## 機会の乏しい場所では、実力を磨いてもその分だけ
 
 だから、よくある処方箋がしばしば空回りする。

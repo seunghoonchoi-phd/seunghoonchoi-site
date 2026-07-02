@@ -62,6 +62,8 @@ Una persiana espacial es un antipirético. Es un fármaco de emergencia para baj
 
 ![Ilustración científica de pequeños módulos de persiana espacial entre el Sol y la Tierra que reducen ligeramente la luz sobre el Ártico y el Atlántico Norte](/images/col-amoc-space-blind-modules.jpg)
 
+<p class="inline-image-caption">Ilustración científica de pequeños módulos de persiana espacial entre el Sol y la Tierra que reducen ligeramente la luz sobre el Ártico y el Atlántico Norte</p>
+
 ## Primero enfriar, después sacar el veneno
 
 Cuando un paciente tiene una fiebre peligrosa, los médicos usan medicamentos para bajarla. Eso no significa que el medicamento haya curado la enfermedad. Baja la temperatura para que los órganos no fallen mientras se trata la causa.
@@ -87,6 +89,8 @@ Unas pocas personas no pueden juzgar todo eso por intuición. Satélites, boyas 
 La IA no debe convertirse en un dios que gobierne la Tierra por nosotros. Pero sí puede cumplir el papel de señalar indicios demasiado complejos para que los humanos los veamos solos.
 
 ![Ilustración científica de satélites, boyas oceánicas y modelos climáticos conectados en una red de monitoreo con IA sobre el Atlántico Norte](/images/col-amoc-ai-monitoring-network.jpg)
+
+<p class="inline-image-caption">Ilustración científica de satélites, boyas oceánicas y modelos climáticos conectados en una red de monitoreo con IA sobre el Atlántico Norte</p>
 
 ## SpaceX debería mirar la circulación de la Tierra antes que Marte
 

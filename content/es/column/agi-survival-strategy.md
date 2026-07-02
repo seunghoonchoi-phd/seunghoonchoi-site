@@ -31,4 +31,6 @@ Sobre qué hacer con mi vida en la era de la IA, reduje la respuesta a doce prin
 
 ![12 principios para sobrevivir en la era de la AGI: no hagas lo que no deja nada](/images/inline/column-agi-survival-strategy.jpg)
 
+<p class="inline-image-caption">12 principios para sobrevivir en la era de la AGI: no hagas lo que no deja nada</p>
+
 Resumido en una línea, es esto. Quien sobrevive en la era de la AGI no es el humano más brillante que la IA. Es el humano que, usando la IA, sigue produciendo activos reales que el mundo de las personas reconoce.

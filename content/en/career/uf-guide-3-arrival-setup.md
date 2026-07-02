@@ -42,6 +42,8 @@ Once you have a U.S. number, the bank is next. Students can open an account even
 
 ![U.S. Grad School Settlement Guide Part 3: Post-Arrival Admin in Order (Phone, Bank, SSN, License, Credit)](/images/inline/career-uf-guide-3-arrival-setup.jpg)
 
+<p class="inline-image-caption">U.S. Grad School Settlement Guide Part 3: Post-Arrival Admin in Order (Phone, Bank, SSN, License, Credit)</p>
+
 ## 3. SSN (Social Security Number)
 
 As a GA you receive a salary, so you're eligible for an SSN. You just can't apply the moment you arrive; the process requires waiting a few days.

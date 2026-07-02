@@ -38,6 +38,8 @@ Effort itself isn't the problem. The problem is that the effort never gets organ
 
 ![Why Working Hard Never Adds Up: Leave Behind Reusable Results, Not Hours](/images/inline/column-value-conversion.jpg)
 
+<p class="inline-image-caption">Why Working Hard Never Adds Up: Leave Behind Reusable Results, Not Hours</p>
+
 ## What Does This Effort Become?
 
 So to move up one step, there's a question you need to make a habit of. It's a question you ask yourself every time you finish a piece of work: "What reusable thing does this effort become?"

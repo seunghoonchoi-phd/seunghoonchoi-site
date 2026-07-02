@@ -85,6 +85,8 @@ A 案和 B 案里放弃了哪一个，为什么放弃。
 
 ![为什么 AI 写的报告我却解释不了：什么是缺失的背景知识](/images/inline/column-context-debt.jpg)
 
+<p class="inline-image-caption">为什么 AI 写的报告我却解释不了：什么是缺失的背景知识</p>
+
 ## 背景知识空着，一个问题就会让人撑不住
 
 背景知识空着的时候，最可怕的就是被提问。

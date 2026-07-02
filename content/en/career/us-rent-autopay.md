@@ -30,6 +30,8 @@ A Korean card makes it worse. On top of the processing fee, you stack a foreign 
 
 ![Setting Up Rent AutoPay for U.S. Grad School? Don't Use a Card Without a U.S. Bank Account](/images/inline/career-us-rent-autopay.jpg)
 
+<p class="inline-image-caption">Setting Up Rent AutoPay for U.S. Grad School? Don't Use a Card Without a U.S. Bank Account</p>
+
 ## The Right Order
 
 So here's the clean way to handle it.

@@ -51,6 +51,8 @@ someone seeing it for the first time can get oriented within 10 minutes.
 
 ![How to Crush Any New Concept in 10 Minutes: The 9-Box Comprehension Template](/images/inline/column-understand-anything-in-10-minutes.jpg)
 
+<p class="inline-image-caption">How to Crush Any New Concept in 10 Minutes: The 9-Box Comprehension Template</p>
+
 ## Exactly Three Things That Set This Apart
 
 Frameworks for organizing a concept are everywhere. Exactly three things make this one different.

@@ -42,6 +42,8 @@ build: {list: never, render: always}
 
 ![美国研究生院落地指南 Part 3：到美后的行政办理顺序（手机、银行、SSN、驾照、信用）](/images/inline/career-uf-guide-3-arrival-setup.jpg)
 
+<p class="inline-image-caption">美国研究生院落地指南 Part 3：到美后的行政办理顺序（手机、银行、SSN、驾照、信用）</p>
+
 ## 3. SSN（社会安全号）
 
 助教（GA）有工资收入，所以符合申请 SSN 的资格。只是不能一落地就申请，流程上要先等几天。

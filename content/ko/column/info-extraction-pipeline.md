@@ -45,6 +45,8 @@ LLM한테 "대화에서 중요한 거 정리해줘" 한 번에 시켜봐라. 모
 
 ![AI랑 대화 많이 해도 손에 안 남는 이유. 노션 정리 3단 프롬프트](/images/inline/column-info-extraction-pipeline.jpg)
 
+<p class="inline-image-caption">AI랑 대화 많이 해도 손에 안 남는 이유. 노션 정리 3단 프롬프트</p>
+
 ## 복붙용 프롬프트, 그대로 긁어 써라
 
 ### 1차: 정리 말고 후보만 뽑기

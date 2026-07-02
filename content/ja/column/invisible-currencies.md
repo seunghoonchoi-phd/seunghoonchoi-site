@@ -58,6 +58,8 @@ reviewStatus: "done"
 
 ![実力より『検証』が先だ：信頼と評判がチャンスを左右する理由](/images/inline/column-invisible-currencies.jpg)
 
+<p class="inline-image-caption">実力より『検証』が先だ：信頼と評判がチャンスを左右する理由</p>
+
 ## いい実力は証拠として残すべきだ
 
 とはいえ、ない実力を取り繕えという話ではありません。むしろ逆です。本物の実力があるなら、それを他人が確認できる形で残すべきです。

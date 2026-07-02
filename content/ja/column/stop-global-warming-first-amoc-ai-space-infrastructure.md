@@ -61,6 +61,8 @@ AMOCはAtlantic Meridional Overturning Circulationの略だ。日本語では大
 
 ![太陽と地球の間に小さな宇宙ブラインドのモジュールが並び、北極と北大西洋へ入る光を少し減らす科学イラスト](/images/col-amoc-space-blind-modules.jpg)
 
+<p class="inline-image-caption">太陽と地球の間に小さな宇宙ブラインドのモジュールが並び、北極と北大西洋へ入る光を少し減らす科学イラスト</p>
+
 ## 先に冷やし、その間に毒を抜く
 
 患者の熱が高すぎれば、解熱剤を使う。だからといって、解熱剤が病気を治すわけではない。熱を下げて臓器が壊れないようにし、その間に原因を治療する。
@@ -86,6 +88,8 @@ AMOCはAtlantic Meridional Overturning Circulationの略だ。日本語では大
 AIは地球を代わりに統治する神になってはいけない。だが、人間には複雑すぎて見えない信号を指摘する役割は果たせる。
 
 ![衛星、海洋ブイ、気候モデルのデータがつながり、北大西洋の海流変化を見るAI観測網の科学イラスト](/images/col-amoc-ai-monitoring-network.jpg)
+
+<p class="inline-image-caption">衛星、海洋ブイ、気候モデルのデータがつながり、北大西洋の海流変化を見るAI観測網の科学イラスト</p>
 
 ## SpaceXは火星より先に地球の循環系を見るべきだ
 

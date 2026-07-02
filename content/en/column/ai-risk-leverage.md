@@ -62,6 +62,8 @@ Reputation failures usually do not come from one dramatic sentence alone. Small 
 
 ![AI Risk Grows with Speed: How Automation Without Review Turns Small Mistakes into Crises](/images/inline/column-ai-risk-leverage.jpg)
 
+<p class="inline-image-caption">AI Risk Grows with Speed: How Automation Without Review Turns Small Mistakes into Crises</p>
+
 ## Security Risk Can Come from Good Intentions
 
 Security failures are not created only by malicious people. Often they are created by someone trying to finish the work quickly.

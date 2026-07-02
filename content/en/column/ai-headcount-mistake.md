@@ -77,6 +77,8 @@ On the surface, work continues. Documents come out, meetings happen, and custome
 
 ![If You Cut People Because AI Does the Work, the Company Gets Slower: The Context Only Social Animals Know](/images/inline/column-ai-headcount-mistake.jpg)
 
+<p class="inline-image-caption">If You Cut People Because AI Does the Work, the Company Gets Slower: The Context Only Social Animals Know</p>
+
 ## If you cut the middle, the company's memory disappears
 
 When companies reduce people, they often touch the middle. Juniors are cut because they are not yet mature, and seniors are cut because they are expensive. The people left are told, "Just use AI." But much of the company's real memory sits in that middle layer.

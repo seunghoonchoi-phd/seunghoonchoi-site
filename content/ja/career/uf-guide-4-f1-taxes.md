@@ -32,6 +32,8 @@ build: {list: never, render: always}
 
 ![アメリカ留学生の税金の基本: F-1 非居住外国人5年・FICA免除・米韓租税条約 (Part 4)](/images/inline/career-uf-guide-4-f1-taxes.jpg)
 
+<p class="inline-image-caption">アメリカ留学生の税金の基本: F-1 非居住外国人5年・FICA免除・米韓租税条約 (Part 4)</p>
+
 ## 申告書類と締め切り
 
 どの書類を出すべきかは、所得があるかどうかで分かれます。下の表にまとめます。

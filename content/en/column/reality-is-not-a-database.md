@@ -63,6 +63,8 @@ This is the core of high-level employment going forward. We do not only need peo
 
 ![AI Is Not Advancing Too Fast: Compared with Civilization's Stopwatch, It Is Still Slow](/images/inline/column-reality-is-not-a-database.jpg)
 
+<p class="inline-image-caption">AI Is Not Advancing Too Fast: Compared with Civilization's Stopwatch, It Is Still Slow</p>
+
 ## Why Is Employment a Social Stabilizer?
 
 Employment is not merely "feeding people." Large-scale unemployment and exclusion make civilization projects impossible to sustain for long. When people lose jobs, income, and meaning, climate action or space development becomes politically hard to hold together. The tax base weakens, social trust erodes, extremism grows, and long-term projects can be reversed by one election.

@@ -49,6 +49,8 @@ build: {list: never, render: always}
 
 ![AI가 글을 공짜로 뽑는 시대, 정작 구하기 어려워지는 건 신뢰다](/images/inline/column-branding-as-trust.jpg)
 
+<p class="inline-image-caption">AI가 글을 공짜로 뽑는 시대, 정작 구하기 어려워지는 건 신뢰다</p>
+
 ## 브랜딩은 다섯 조각이 차례로 이어진다
 
 브랜딩을 막연한 이미지로 두면 손에 안 잡힙니다. 다섯 조각으로 쪼개면 또렷해져요. 그리고 이 다섯은 차례대로 이어져 있습니다.

@@ -44,6 +44,8 @@ build: {list: never, render: always}
 
 ![AI इस्तेमाल करने वाली कंपनियां बहुत हैं। 'AI नेटिव संगठन' वह है जो AI के बिना रुक जाता है](/images/inline/column-ai-native-organization.jpg)
 
+<p class="inline-image-caption">AI इस्तेमाल करने वाली कंपनियां बहुत हैं। 'AI नेटिव संगठन' वह है जो AI के बिना रुक जाता है</p>
+
 ## फ़ासला तीसरे चरण से बढ़ता है
 
 | चरण | विवरण |

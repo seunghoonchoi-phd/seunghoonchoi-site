@@ -31,6 +31,8 @@ build: {list: never, render: always}
 
 ![イ・ヨンホはなぜ全部を育てず、30秒だけ勝つのか：一点に力を集めて決定的な瞬間をつかむ方法](/images/inline/column-localized-advantage.jpg)
 
+<p class="inline-image-caption">イ・ヨンホはなぜ全部を育てず、30秒だけ勝つのか：一点に力を集めて決定的な瞬間をつかむ方法</p>
+
 ## まもなく生まれる隙を突け
 
 すると、問いはひとつに絞られる。相手は、あるいは環境は、いつ弱くなるのか。

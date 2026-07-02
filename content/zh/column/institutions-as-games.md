@@ -41,6 +41,8 @@ build: {list: never, render: always}
 
 ![读懂一个制度：别先看规则，先看奖什么、罚什么](/images/inline/column-institutions-as-games.jpg)
 
+<p class="inline-image-caption">读懂一个制度：别先看规则，先看奖什么、罚什么</p>
+
 ## 加了审批，结果只有老实人吃亏
 
 假设公司为了堵住报销作假，把审批环节加多了。如今一笔小小的出租车费，也得组长、部门长、财务三个人签字才行。堵作假的用意是好的。

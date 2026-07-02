@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![一个人的剪影，坐在能望见大海的窗前](/images/inline/literature-the-last-person-at-window.jpg)
 
+<p class="inline-image-caption">一个人的剪影，坐在能望见大海的窗前</p>
+
 秀卿还是每天早晨坐在同一个位置。
 
 那是一扇能看见海的窗。楼老了，窗框很深，一坐进去，肩膀都没进了阴影里。昨夜飘进来的雪，在窗框内侧薄薄地积了一层。她每呼出一口气，玻璃上就蒙起一层雾，又从边缘慢慢消散。海平线模糊。阴天的海和天没有界限，分不清到哪里还是水，从哪里起已是云。

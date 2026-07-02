@@ -43,6 +43,8 @@ reviewStatus: "done"
 
 ![실력을 늘리는 가장 확실한 방법 : 못하는 구간을 끝까지 견뎌내는 것](/images/inline/column-pushing-through-incompetence.jpg)
 
+<p class="inline-image-caption">실력을 늘리는 가장 확실한 방법 : 못하는 구간을 끝까지 견뎌내는 것</p>
+
 ## 작게 쪼개면 버틸 만해진다
 
 못하는 항목을 찾았다면, 그다음은 작게 쪼개는 일이다. 큰 덩어리를 한 번에 붙잡으면 무능감도 커진다. “외국어를 잘해야 한다”는 목표는 너무 크다. “오늘 회의에서 한 문장만 말한다”는 목표는 버틸 만하다.

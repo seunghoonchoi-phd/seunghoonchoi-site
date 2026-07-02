@@ -52,6 +52,8 @@ AI에게 회의록을 넣고 단순 요약을 시키면 부족하다. 반드시 
 
 ![처음 보는 업무, AI로 회의 녹취록 분석해 구조 파악하는 법](/images/inline/column-observing-others-meetings.jpg)
 
+<p class="inline-image-caption">처음 보는 업무, AI로 회의 녹취록 분석해 구조 파악하는 법</p>
+
 ## 쟁점을 MECE하게 쪼개야 한다
 
 MECE는 Mutually Exclusive, Collectively Exhaustive의 약자다. 서로 겹치지 않고 빠짐없이 나눈다는 뜻이다. 쉽게 말하면 같은 이야기를 두 칸에 중복해서 넣지 않고, 중요한 항목을 빠뜨리지 않는 방식으로 분류하는 것이다.

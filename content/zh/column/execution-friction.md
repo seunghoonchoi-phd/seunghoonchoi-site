@@ -43,6 +43,8 @@ reviewStatus: "done"
 
 ![都用一样的AI，为什么只有上班族做不出东西：执行环境摩擦的真相](/images/inline/column-execution-friction.jpg)
 
+<p class="inline-image-caption">都用一样的AI，为什么只有上班族做不出东西：执行环境摩擦的真相</p>
+
 ## 真正的元凶，是公司电脑里的VDI
 
 这份摩擦最主要的来源，是虚拟桌面，人们常叫它VDI。它值得单独说一段。

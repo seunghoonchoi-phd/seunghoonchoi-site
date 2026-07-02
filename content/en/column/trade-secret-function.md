@@ -52,6 +52,8 @@ This failure map never makes it into the finished product, the published paper, 
 
 ![Why the Copy Never Tastes the Same: The Real Moat in the AI Era](/images/inline/column-trade-secret-function.jpg)
 
+<p class="inline-image-caption">Why the Copy Never Tastes the Same: The Real Moat in the AI Era</p>
+
 ## You can explain it, but you still can't reproduce it
 
 There's an interesting border. Motions anyone can explain but almost no one can pull off again.

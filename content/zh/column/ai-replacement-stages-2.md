@@ -48,6 +48,8 @@ reviewStatus: "done"
 
 ![从重复性体力劳动到需要判断和感觉的工作：AI 接管工作的第 6~8 阶段](/images/inline/column-ai-replacement-stages-2.jpg)
 
+<p class="inline-image-caption">从重复性体力劳动到需要判断和感觉的工作：AI 接管工作的第 6~8 阶段</p>
+
 ## 8 阶段，需要判断和感觉的工作
 
 最后是需要判断和感觉的工作。人们常说："这个只有做久的人才知道。""这是感觉。""这不能用数据做。"

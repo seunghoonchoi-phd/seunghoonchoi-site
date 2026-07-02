@@ -50,6 +50,8 @@ En la competencia de examenes de alto nivel, esa diferencia se agranda. Algunos 
 
 ![Un salvavidas para quienes hacen demasiadas preguntas](/images/inline/column-questions-lifeline.jpg)
 
+<p class="inline-image-caption">Un salvavidas para quienes hacen demasiadas preguntas</p>
+
 ## No habia quien recibiera las preguntas
 
 Antes casi no habia forma de abrir ese cuello de botella. No habia suficientes personas que pudieran recibir preguntas fundamentales hasta el final. Los profesores tenian que avanzar con el temario. Las academias tenian que repetir tipos de problemas. Los libros rara vez explicaban todos los pasos intermedios.

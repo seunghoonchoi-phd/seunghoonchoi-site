@@ -76,6 +76,8 @@ Pero todavía queda una diferencia: asumir pérdidas con tu propio nombre. Acert
 
 ![El orden en que la IA toma el trabajo: desde tareas con respuesta hasta la existencia humana](/images/inline/column-ai-replacement-stages.jpg)
 
+<p class="inline-image-caption">El orden en que la IA toma el trabajo: desde tareas con respuesta hasta la existencia humana</p>
+
 ## Etapa 9, empieza a entregarse autoridad de decisión a la IA
 
 Desde aquí cambia el carácter. Que la IA pueda hacerlo no basta. La persona debe entregar autoridad, porque hay responsabilidad.

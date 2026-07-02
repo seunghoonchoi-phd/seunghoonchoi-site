@@ -62,6 +62,8 @@ A space blind is a fever reducer. It is an emergency drug to lower Earth's heat 
 
 ![Science illustration of small orbital sunshade modules filtering sunlight between the Sun and Earth above the Arctic and North Atlantic](/images/col-amoc-space-blind-modules.jpg)
 
+<p class="inline-image-caption">Science illustration of small orbital sunshade modules filtering sunlight between the Sun and Earth above the Arctic and North Atlantic</p>
+
 ## Cool first, then remove the CO2
 
 When a patient has a dangerous fever, doctors use fever reducers. That does not mean the fever reducer cured the disease. It lowers the temperature so organs do not fail while the cause is treated.
@@ -87,6 +89,8 @@ A few people cannot judge all of this by instinct. Satellites, ocean buoys, grou
 AI should not become an all-powerful ruler that governs Earth for us. But it can take on the role of pointing out signals too complex for humans to see alone.
 
 ![Science illustration of satellites, ocean buoys, and climate models connected in an AI monitoring network over the North Atlantic](/images/col-amoc-ai-monitoring-network.jpg)
+
+<p class="inline-image-caption">Science illustration of satellites, ocean buoys, and climate models connected in an AI monitoring network over the North Atlantic</p>
 
 ## SpaceX should look at Earth's circulation before Mars
 

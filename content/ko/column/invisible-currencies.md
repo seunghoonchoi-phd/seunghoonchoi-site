@@ -58,6 +58,8 @@ reviewStatus: "done"
 
 ![실력보다 '검증'이 먼저다: 신뢰와 평판이 기회를 좌우하는 이유](/images/inline/column-invisible-currencies.jpg)
 
+<p class="inline-image-caption">실력보다 '검증'이 먼저다: 신뢰와 평판이 기회를 좌우하는 이유</p>
+
 ## 좋은 실력은 증거로 남겨야 한다
 
 그렇다고 없는 실력을 부풀리라는 말이 아니다. 오히려 반대다. 진짜 실력이 있다면, 그것을 남이 확인할 수 있는 형태로 남겨야 한다.

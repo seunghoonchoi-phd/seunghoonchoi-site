@@ -35,6 +35,8 @@ Un truco que solo está en tu cabeza se va borrando con el tiempo. Por eso lo sa
 
 ![Cómo una ventaja del 1% al día crece con el interés compuesto hasta volverse una habilidad imposible de copiar](/images/inline/column-advantage-loops.jpg)
 
+<p class="inline-image-caption">Cómo una ventaja del 1% al día crece con el interés compuesto hasta volverse una habilidad imposible de copiar</p>
+
 ## Si falta uno, la habilidad es 0
 
 Una vez que decides qué vas a acumular, lo siguiente es la velocidad. La velocidad con la que mejoras aparece cuando cuatro cosas encajan juntas. Practicar a menudo, saber qué hiciste mal, corregirlo de inmediato y anotar lo que corregiste. Funciona como una multiplicación. Si una sola de estas se acerca a 0, por grandes que sean las demás, el resultado es 0. Si practicas todos los días pero no sabes qué hiciste mal, estás repitiendo mil veces la postura equivocada. Y aunque sepas qué hiciste mal, si la próxima vez no lo corriges, todo sigue igual. Quien mejora rápido no es simplemente quien hace mucho. Es quien atiende estas cuatro cosas a la vez. Toca a menudo, graba su propia interpretación para señalar dónde se equivocó, lo corrige en el intento siguiente y anota qué corrigió.

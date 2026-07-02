@@ -41,6 +41,8 @@ Por eso, cuando una organización cae en un juego de números absurdo, antes de 
 
 ![Cómo leer una institución: antes que las reglas, mira los premios y los castigos](/images/inline/column-institutions-as-games.jpg)
 
+<p class="inline-image-caption">Cómo leer una institución: antes que las reglas, mira los premios y los castigos</p>
+
 ## Aumentaron los pasos de aprobación, y solo pierden los empleados honestos
 
 Supongamos que una empresa, para frenar los fraudes con los gastos de viaje, aumenta los pasos de aprobación. Ahora, hasta para tramitar un taxi de diez mil wones hacen falta tres firmas: la del jefe de equipo, la del director y la de finanzas. La intención de frenar el fraude es buena.

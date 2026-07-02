@@ -44,6 +44,8 @@ Por ejemplo, si miras treinta fotos de filetes perfectos, no sabes cómo se ve e
 
 ![Un campo nuevo no se aprende viendo más, sino mirando distinto: los números mágicos 3·7·30·100](/images/inline/column-learning-magic-numbers.jpg)
 
+<p class="inline-image-caption">Un campo nuevo no se aprende viendo más, sino mirando distinto: los números mágicos 3·7·30·100</p>
+
 ## 100 no es repetición, es feedback
 
 Ver con los ojos y hacerlo con las manos no es lo mismo. Que empieces a ver patrones no significa que la mano te siga de inmediato. Al principio el resultado varía mucho. Ayer salió, hoy no. Crees haber hecho lo mismo, pero el resultado cambia.

@@ -44,6 +44,8 @@ The core is simple. If a stronger model would also want to avoid the failure, ca
 
 ![The Trap in Reviewing AI Outputs: Do Not Lower the Ceiling While Catching Errors](/images/inline/column-dont-lobotomize-the-model.jpg)
 
+<p class="inline-image-caption">The Trap in Reviewing AI Outputs: Do Not Lower the Ceiling While Catching Errors</p>
+
 ## Not every issue is black and white
 
 In real file review, not every judgment splits cleanly. Overlapping text boxes, overflowing text, tiny type, and changed image ratios are likely to be defects, but they can also be intentional design choices.

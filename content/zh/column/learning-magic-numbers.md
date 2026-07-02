@@ -44,6 +44,8 @@ reviewStatus: "done"
 
 ![新领域不是看得多就行，而是要换角度看：魔法数字 3·7·30·100](/images/inline/column-learning-magic-numbers.jpg)
 
+<p class="inline-image-caption">新领域不是看得多就行，而是要换角度看：魔法数字 3·7·30·100</p>
+
 ## 100 次不是重复，而是反馈
 
 用眼睛看，和自己做，是两回事。开始看见模式，不代表手马上跟得上。初学时结果会忽好忽坏。昨天可以，今天不行，看似一样做，结果却不同。

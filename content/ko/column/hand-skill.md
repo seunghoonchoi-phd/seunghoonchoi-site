@@ -31,6 +31,8 @@ build: {list: never, render: always}
 
 ![손기술, AI가 단번에 못 베끼는 손끝 감각의 정체](/images/inline/column-hand-skill.jpg)
 
+<p class="inline-image-caption">손기술, AI가 단번에 못 베끼는 손끝 감각의 정체</p>
+
 ## 손기술 핵심은 버티기와 고치기다
 
 손기술의 핵심은 딱 두 가지다.

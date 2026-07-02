@@ -30,6 +30,8 @@ Si encima es una tarjeta coreana, peor todavía. A la comisión por pago se le s
 
 ![Domiciliar el alquiler al estudiar en EE. UU.: si aún no tienes cuenta americana, no lo configures con tarjeta](/images/inline/career-us-rent-autopay.jpg)
 
+<p class="inline-image-caption">Domiciliar el alquiler al estudiar en EE. UU.: si aún no tienes cuenta americana, no lo configures con tarjeta</p>
+
 ## El orden correcto
 
 Por eso lo más limpio es plantearlo así.

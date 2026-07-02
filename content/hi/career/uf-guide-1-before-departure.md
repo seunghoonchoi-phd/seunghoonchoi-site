@@ -91,6 +91,8 @@ reviewStatus: "done"
 
 ![प्रवेश मिलने के बाद रवानगी तक: ऑफर लेटर पढ़ने से लेकर पैसा भेजने तक](/images/inline/career-uf-guide-1-before-departure.jpg)
 
+<p class="inline-image-caption">प्रवेश मिलने के बाद रवानगी तक: ऑफर लेटर पढ़ने से लेकर पैसा भेजने तक</p>
+
 ## 3. प्लेसमेंट परीक्षा (Placement Exam)
 
 - खिड़की जून ~ अगस्त की शुरुआत, [eLearning](https://elearning.ufl.edu/) पर ऑनलाइन होती है। इसमें बहुविकल्पीय (objective) + वर्णनात्मक (subjective) सवाल होते हैं।

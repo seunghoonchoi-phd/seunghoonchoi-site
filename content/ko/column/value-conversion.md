@@ -38,6 +38,8 @@ image: /images/col-value-conversion.jpg
 
 ![아무리 일해도 안 남는 이유. 시간 말고 다시 쓸 수 있는 결과물을 남겨라](/images/inline/column-value-conversion.jpg)
 
+<p class="inline-image-caption">아무리 일해도 안 남는 이유. 시간 말고 다시 쓸 수 있는 결과물을 남겨라</p>
+
 ## 이 노력은 무엇으로 남나
 
 그래서 한 단계 올라서려면 입에 붙여야 할 질문이 하나 있다. 어떤 일을 마칠 때마다 스스로한테 던지는 질문이다. "이 노력은 다시 쓸 수 있는 무엇으로 남는가?"

@@ -53,6 +53,8 @@ Aquí está la verdadera razón de que, con la misma capacidad, los resultados s
 
 ![Mejorar tu habilidad no separa los resultados. Elige primero el entorno](/images/inline/column-choose-the-board.jpg)
 
+<p class="inline-image-caption">Mejorar tu habilidad no separa los resultados. Elige primero el entorno</p>
+
 ## En un sitio sin oportunidades, mejorar solo da para eso
 
 Por eso la receta de siempre suele fallar.

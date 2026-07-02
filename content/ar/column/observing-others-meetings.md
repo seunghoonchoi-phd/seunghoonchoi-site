@@ -52,6 +52,8 @@ image: /images/col-meetings.jpg
 
 ![عمل تراه لأول مرة: كيف تحلل محضر اجتماع بالذكاء الاصطناعي لتفهم البنية](/images/inline/column-observing-others-meetings.jpg)
 
+<p class="inline-image-caption">عمل تراه لأول مرة: كيف تحلل محضر اجتماع بالذكاء الاصطناعي لتفهم البنية</p>
+
 ## قسّم القضايا بطريقة MECE
 
 MECE اختصار لـ Mutually Exclusive, Collectively Exhaustive. يعني أن نقسم الأشياء من دون تداخل ومن دون فجوات. ببساطة: لا نضع الشيء نفسه في خانتين، ولا ننسى خانة مهمة.

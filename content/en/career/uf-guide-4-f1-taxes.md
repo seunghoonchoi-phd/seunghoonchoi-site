@@ -32,6 +32,8 @@ For an F-1 student who came from Korea, the Korea-U.S. tax treaty adds a further
 
 ![U.S. Tax Basics for F-1 Students: 5-Year Nonresident, FICA Exemption, Korea-U.S. Treaty (Part 4)](/images/inline/career-uf-guide-4-f1-taxes.jpg)
 
+<p class="inline-image-caption">U.S. Tax Basics for F-1 Students: 5-Year Nonresident, FICA Exemption, Korea-U.S. Treaty (Part 4)</p>
+
 ## Filing forms and deadlines
 
 Which forms you owe depends on whether you have income. Here is the breakdown.

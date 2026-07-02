@@ -44,6 +44,8 @@ The conclusion is this. Most existing positions stay. There are just fewer of th
 
 ![The Real Reason AI Can't Beat You. What Survives Isn't Smarts, It's the Power to Touch Reality](/images/inline/column-what-survives-the-ai-era.jpg)
 
+<p class="inline-image-caption">The Real Reason AI Can't Beat You. What Survives Isn't Smarts, It's the Power to Touch Reality</p>
+
 ## Stop hiring juniors and you cut off your future seniors
 
 "Just add AI to the seniors and you're set." That's true only in the short run. Seniors also get old, get sick, switch jobs, and retire. Stop hiring juniors and you cut off the supply of your future mid-level and senior talent.

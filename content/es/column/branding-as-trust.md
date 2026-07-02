@@ -49,6 +49,8 @@ Cuanto más comunes se vuelven las frases, más se desplaza la diferencia hacia 
 
 ![En la era en que la IA escribe gratis, lo que de verdad cuesta conseguir es la confianza](/images/inline/column-branding-as-trust.jpg)
 
+<p class="inline-image-caption">En la era en que la IA escribe gratis, lo que de verdad cuesta conseguir es la confianza</p>
+
 ## La marca son cinco piezas unidas una tras otra
 
 Si dejas la marca como una imagen difusa, no la puedes agarrar. Si la divides en cinco piezas, se vuelve clara. Y estas cinco van unidas una tras otra.

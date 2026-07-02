@@ -44,6 +44,8 @@ The core is just one thing. AI pulls the draft and assists the judgment. The fin
 
 ![Plenty of Companies Use AI. The One That Stops Without It Is AI-Native.](/images/inline/column-ai-native-organization.jpg)
 
+<p class="inline-image-caption">Plenty of Companies Use AI. The One That Stops Without It Is AI-Native.</p>
+
 ## The gap starts to widen at stage 3
 
 | Stage | What it looks like |

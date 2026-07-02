@@ -85,6 +85,8 @@ Solo entonces puedes explicar el informe. Que la IA ordene piezas no significa q
 
 ![Por qué no puedo explicar el informe que escribió la IA: qué es el conocimiento de fondo que falta](/images/inline/column-context-debt.jpg)
 
+<p class="inline-image-caption">Por qué no puedo explicar el informe que escribió la IA: qué es el conocimiento de fondo que falta</p>
+
 ## Con el conocimiento de fondo vacío, una sola pregunta te deja sin respuesta
 
 El momento más temible cuando el conocimiento de fondo está vacío es recibir una pregunta.

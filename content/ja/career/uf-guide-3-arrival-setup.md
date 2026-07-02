@@ -42,6 +42,8 @@ build: {list: never, render: always}
 
 ![アメリカ大学院 定着ガイド Part 3: 到着後の行政手続きの順番：携帯・銀行・SSN・免許・クレジット](/images/inline/career-uf-guide-3-arrival-setup.jpg)
 
+<p class="inline-image-caption">アメリカ大学院 定着ガイド Part 3: 到着後の行政手続きの順番：携帯・銀行・SSN・免許・クレジット</p>
+
 ## 3. SSN (社会保障番号)
 
 TA・RA(GA)は給与を受け取るのでSSNの対象です。ただし到着してすぐに申請できるわけではなく、手続き上、数日待つ必要があります。

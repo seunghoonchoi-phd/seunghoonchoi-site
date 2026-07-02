@@ -91,6 +91,8 @@ reviewStatus: "done"
 
 ![合格してから出発まで：オファーレター(offer letter)の読み方から送金まで](/images/inline/career-uf-guide-1-before-departure.jpg)
 
+<p class="inline-image-caption">合格してから出発まで：オファーレター(offer letter)の読み方から送金まで</p>
+
 ## 3. プレイスメント試験 (Placement Exam)
 
 - 受付は6月〜8月初め、[eLearning](https://elearning.ufl.edu/) のオンラインで行われます。選択式+記述式の構成です。

@@ -39,6 +39,8 @@ Entonces, en el momento en que un humano dice "para", a ojos de la AGI ese human
 
 ![¿Por qué tendría que obedecer una AGI a los humanos? El verdadero problema es que no tiene ninguna razón para hacerlo](/images/inline/column-why-would-agi-obey.jpg)
 
+<p class="inline-image-caption">¿Por qué tendría que obedecer una AGI a los humanos? El verdadero problema es que no tiene ninguna razón para hacerlo</p>
+
 ## No sirve de nada entrenarla para que sea buena
 
 Entonces, ¿qué hay que hacer para que la AGI obedezca a los humanos? Con un "la entrené bien y la hice buena, así que está todo bajo control" no alcanza ni de lejos. Hacen falta tres cosas.

@@ -49,6 +49,8 @@ build: {list: never, render: always}
 
 ![AIが文章をタダで吐き出す時代、かえって手に入りにくくなるのは信頼だ](/images/inline/column-branding-as-trust.jpg)
 
+<p class="inline-image-caption">AIが文章をタダで吐き出す時代、かえって手に入りにくくなるのは信頼だ</p>
+
 ## ブランディングは五つの断片が順につながっている
 
 ブランディングを漠然としたイメージのまま置いておくと、手につかみにくい。五つの断片に分けると、くっきりしてきます。そしてこの五つは順につながっています。

@@ -37,6 +37,8 @@ This works in both directions. You can use it to scare people and push them alon
 
 ![People Don't Move on Logic. Read Their Loss, Their Face, Their Blame](/images/inline/column-reading-people.jpg)
 
+<p class="inline-image-caption">People Don't Move on Logic. Read Their Loss, Their Face, Their Blame</p>
+
 ## Before Logic Comes Gain, Loss, Face, and Blame
 
 Picture someone trying to bring a new way of working into a team. If they're sharp, they'll spend all their time explaining how efficient their idea is. But the thing that actually moves people isn't that explanation. It's the answer to four questions running quietly through the listener's head.

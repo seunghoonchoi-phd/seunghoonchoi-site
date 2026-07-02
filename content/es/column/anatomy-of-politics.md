@@ -42,6 +42,8 @@ Por eso la buena política queda en desventaja injusta. Cuanto más útil es de 
 
 ![Cómo la política gana el corazón de la gente. El método de quien no sabe decir frases vacías](/images/inline/column-anatomy-of-politics.jpg)
 
+<p class="inline-image-caption">Cómo la política gana el corazón de la gente. El método de quien no sabe decir frases vacías</p>
+
 ## La capacidad de ganar popularidad y la de hacer bien el trabajo son distintas
 
 La capacidad de ganar votos y la de sacar adelante el trabajo son distintas. En las elecciones hay que hablar de esperanza a mucha gente. Al gobernar hay que fijar prioridades y decir que lo que no se puede, no se puede. En las elecciones, a veces conviene prometer mucho. Pero la administración funciona reduciendo promesas y ejecutando. Las elecciones usan el lenguaje de la emoción; la administración usa el lenguaje de la responsabilidad. Por eso quien habla bien no necesariamente hace bien el trabajo. Y al revés, quien hace bien el trabajo no necesariamente gana muchos votos. Son capacidades distintas.

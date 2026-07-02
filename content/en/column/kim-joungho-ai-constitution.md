@@ -32,6 +32,8 @@ Just as humans die, AI should not remain forever. Kim suggested that after 100 y
 
 ![The Full Text of KAIST Professor Joungho Kim's 'AI Constitution'](/images/inline/column-kim-joungho-ai-constitution.jpg)
 
+<p class="inline-image-caption">The Full Text of KAIST Professor Joungho Kim's 'AI Constitution'</p>
+
 ## Article 5. AI power use must be limited to the human level.
 
 Kim referred to the power level of the human brain or a laptop and proposed that AI should also be held to roughly 25 W. Since large AI systems today can require kilowatts or more, he treated the power cap as a condition for fair competition.

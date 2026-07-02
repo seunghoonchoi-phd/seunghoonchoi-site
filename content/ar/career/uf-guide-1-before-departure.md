@@ -91,6 +91,8 @@ reviewStatus: "done"
 
 ![من القبول إلى السفر: كيف تقرأ خطاب العرض وكيف تحوّل أموالك](/images/inline/career-uf-guide-1-before-departure.jpg)
 
+<p class="inline-image-caption">من القبول إلى السفر: كيف تقرأ خطاب العرض وكيف تحوّل أموالك</p>
+
 ## 3. اختبار تحديد المستوى (Placement Exam)
 
 - النافذة من يونيو إلى أوائل أغسطس، ويجري إلكترونياً عبر [eLearning](https://elearning.ufl.edu/). يتكون من أسئلة اختيار من متعدد وأسئلة مقالية.

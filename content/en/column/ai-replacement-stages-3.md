@@ -50,6 +50,8 @@ The problem is not AI openly saying something false. It is a case where the logi
 
 ![Decision Authority Does Not Move All at Once: Stages 9 to 14 of AI Taking Work](/images/inline/column-ai-replacement-stages-3.jpg)
 
+<p class="inline-image-caption">Decision Authority Does Not Move All at Once: Stages 9 to 14 of AI Taking Work</p>
+
 ## Stage 12, replacement of video and voice
 
 Video and voice are already changing quickly. The key is not simply making fake people. The core is whether actually existing people can be replaced almost perfectly on screen and in voice.

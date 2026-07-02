@@ -56,6 +56,8 @@ Los daños de reputación no siempre surgen de una gran frase. A menudo nacen de
 
 ![El riesgo de la IA crece por la velocidad: cómo la automatización sin revisión agranda las crisis](/images/inline/column-ai-risk-leverage.jpg)
 
+<p class="inline-image-caption">El riesgo de la IA crece por la velocidad: cómo la automatización sin revisión agranda las crisis</p>
+
 ## El riesgo de seguridad también nace de la buena intención
 
 Los incidentes de seguridad no los causan solo personas maliciosas. Muchas veces los causa alguien que quiere terminar bien y rápido.

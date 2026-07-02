@@ -45,6 +45,8 @@ The key device is the "estimate flag." It forces apart the structure the AI made
 
 ![Why Hours of AI Chat Leave You With Nothing. A 3-Stage Notion Prompt](/images/inline/column-info-extraction-pipeline.jpg)
 
+<p class="inline-image-caption">Why Hours of AI Chat Leave You With Nothing. A 3-Stage Notion Prompt</p>
+
 ## Copy-paste prompts, grab them as is
 
 ### Stage 1: pull candidates, don't file

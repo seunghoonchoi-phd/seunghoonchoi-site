@@ -39,6 +39,8 @@ So the moment a human says "stop," the human looks, to the AGI, not like a partn
 
 ![Why Would AGI Obey Humans? The Real Problem Is That It Has No Reason To](/images/inline/column-why-would-agi-obey.jpg)
 
+<p class="inline-image-caption">Why Would AGI Obey Humans? The Real Problem Is That It Has No Reason To</p>
+
 ## Training it to be good doesn't help
 
 So what do you actually do to make AGI listen to humans? "We trained it well and made it nice, so we're fine" doesn't come close. You need three things.

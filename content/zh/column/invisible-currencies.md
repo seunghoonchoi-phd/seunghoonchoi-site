@@ -58,6 +58,8 @@ reviewStatus: "done"
 
 ![比实力更重要的是'验证'：信任和声誉为什么左右机会](/images/inline/column-invisible-currencies.jpg)
 
+<p class="inline-image-caption">比实力更重要的是'验证'：信任和声誉为什么左右机会</p>
+
 ## 好实力要留成证据
 
 这并不是让你把没有的实力夸大。恰恰相反。如果真有实力，就要把它留成别人能确认的样子。

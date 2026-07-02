@@ -42,6 +42,8 @@ Cuando ya tengas un número estadounidense, lo siguiente es el banco. Aunque tod
 
 ![Guía para instalarte en un posgrado en Estados Unidos, Parte 3: el orden de los trámites tras llegar (móvil, banco, SSN, licencia y crédito)](/images/inline/career-uf-guide-3-arrival-setup.jpg)
 
+<p class="inline-image-caption">Guía para instalarte en un posgrado en Estados Unidos, Parte 3: el orden de los trámites tras llegar (móvil, banco, SSN, licencia y crédito)</p>
+
 ## 3. SSN (número de seguro social)
 
 Como asistente de cátedra (GA) recibes salario, así que te corresponde un SSN. Pero no puedes solicitarlo apenas llegas: por el trámite hay que esperar unos días.

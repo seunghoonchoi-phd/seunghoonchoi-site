@@ -45,6 +45,8 @@ El mecanismo central es "marcar si es supuesto". Obliga a separar la estructura 
 
 ![Hablas mucho con la IA y no te queda nada en la mano. Tres prompts para ordenar en Notion](/images/inline/column-info-extraction-pipeline.jpg)
 
+<p class="inline-image-caption">Hablas mucho con la IA y no te queda nada en la mano. Tres prompts para ordenar en Notion</p>
+
 ## Prompts para copiar y pegar, úsalos tal cual
 
 ### Paso 1: no ordenes, solo saca candidatos

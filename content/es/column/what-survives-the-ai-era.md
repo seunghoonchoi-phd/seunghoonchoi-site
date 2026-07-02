@@ -44,6 +44,8 @@ La conclusión es esta. La mayoría de los puestos actuales se mantienen. Solo q
 
 ![Por qué la IA no puede ganarle al ser humano. Lo que queda no es la inteligencia, sino la capacidad de tocar la realidad](/images/inline/column-what-survives-the-ai-era.jpg)
 
+<p class="inline-image-caption">Por qué la IA no puede ganarle al ser humano. Lo que queda no es la inteligencia, sino la capacidad de tocar la realidad</p>
+
 ## Si no contratas novatos, se corta la futura generación de expertos
 
 "Basta con poner IA a los expertos." Esto solo es cierto a corto plazo. Los expertos también envejecen, se enferman, cambian de trabajo y se jubilan. Si no contratas novatos, se corta la cadena que abastece a los mandos intermedios y a los expertos del futuro.

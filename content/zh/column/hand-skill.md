@@ -31,6 +31,8 @@ build: {list: never, render: always}
 
 ![手上功夫，AI一时半会儿抄不走的指尖手感](/images/inline/column-hand-skill.jpg)
 
+<p class="inline-image-caption">手上功夫，AI一时半会儿抄不走的指尖手感</p>
+
 ## 手上功夫的核心，是顶住和修正
 
 手上功夫的核心只有两样。

@@ -31,6 +31,8 @@ Lo que importa no es la cantidad total de tropas. Es la fuerza que de verdad ha 
 
 ![Por qué Lee Young-ho no hace crecer todo su ejército y solo gana 30 segundos: cómo reunir la fuerza en un solo punto y atrapar el momento decisivo](/images/inline/column-localized-advantage.jpg)
 
+<p class="inline-image-caption">Por qué Lee Young-ho no hace crecer todo su ejército y solo gana 30 segundos: cómo reunir la fuerza en un solo punto y atrapar el momento decisivo</p>
+
 ## Golpea el hueco que está a punto de aparecer
 
 Entonces la pregunta se reduce a una sola. ¿Cuándo se debilita el rival, o el entorno?

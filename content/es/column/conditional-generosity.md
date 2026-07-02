@@ -67,6 +67,8 @@ Primero, reduce lo que muestras. Que él no conozca tus planes, tus puntos débi
 
 ![Cómo ser buena persona sin que te tomen el pelo: hasta los santos sacan la espada ante un canalla](/images/inline/column-conditional-generosity.jpg)
 
+<p class="inline-image-caption">Cómo ser buena persona sin que te tomen el pelo: hasta los santos sacan la espada ante un canalla</p>
+
 ## El impulso de despellejar conviértelo en información
 
 Ahora le toca, ya no al canalla de fuera, al impulso de dentro. Yo también tengo momentos en que quiero rebajar a alguien. Pero por experiencia aprendí algo con claridad. Si saco esa agresividad hacia fuera, mi reputación empeora de golpe. ¿Por qué? No es simplemente porque "haya que parecer bueno". Hay una razón más fría.

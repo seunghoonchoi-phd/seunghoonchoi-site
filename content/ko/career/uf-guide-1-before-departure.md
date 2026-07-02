@@ -91,6 +91,8 @@ reviewStatus: "done"
 
 ![합격 후 출국 전까지: 오퍼레터(offer letter) 읽는 법부터 송금까지](/images/inline/career-uf-guide-1-before-departure.jpg)
 
+<p class="inline-image-caption">합격 후 출국 전까지: 오퍼레터(offer letter) 읽는 법부터 송금까지</p>
+
 ## 3. 배치고사 (Placement Exam)
 
 - 창구 6월~8월 초, [eLearning](https://elearning.ufl.edu/) 온라인으로 진행됩니다. 객관식+서술형 구성입니다.

@@ -42,6 +42,8 @@ So good politics gets a raw deal. The more genuinely helpful a policy is, the lo
 
 ![How Politics Wins People's Hearts: The Method for a Person Who Cannot Fake It](/images/inline/column-anatomy-of-politics.jpg)
 
+<p class="inline-image-caption">How Politics Wins People's Hearts: The Method for a Person Who Cannot Fake It</p>
+
 ## Winning popularity and doing the work are different abilities
 
 The ability to win votes and the ability to get the work done are different. In an election you have to speak hope to many people. In governing you have to set priorities and say that what cannot be done cannot be done. In an election, making many promises can sometimes help. But administration runs only when you cut promises and execute. Elections use the language of emotion, and administration uses the language of responsibility. So a person who speaks well does not necessarily do the work well. The other way around, a person who does the work well does not necessarily win votes well. They are different abilities.

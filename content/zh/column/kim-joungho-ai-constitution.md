@@ -32,6 +32,8 @@ reviewStatus: "done"
 
 ![KAIST 金正浩教授的《AI 宪法》全文](/images/inline/column-kim-joungho-ai-constitution.jpg)
 
+<p class="inline-image-caption">KAIST 金正浩教授的《AI 宪法》全文</p>
+
 ## 第五条。AI 的耗电量必须限制在人类水平。
 
 金教授提到人脑或笔记本电脑级别的用电量，并提出 AI 也应当把耗电量控制在大约 25 W。现在的大型 AI 往往需要数千瓦以上的电力，所以他把电力限制看作一种竞争条件。

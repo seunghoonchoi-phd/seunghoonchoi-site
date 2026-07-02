@@ -38,6 +38,8 @@ El esfuerzo en sí no está mal. El problema es que ese esfuerzo no queda ordena
 
 ![Por qué no acumulas nada aunque trabajes mucho. Deja resultados que puedas volver a usar, no tiempo](/images/inline/column-value-conversion.jpg)
 
+<p class="inline-image-caption">Por qué no acumulas nada aunque trabajes mucho. Deja resultados que puedas volver a usar, no tiempo</p>
+
 ## ¿En qué queda este esfuerzo?
 
 Por eso, para subir un nivel, hay una pregunta que conviene tener siempre presente. Es la pregunta que te haces a ti mismo cada vez que terminas un trabajo. "¿En qué queda este esfuerzo que pueda volver a usar?"

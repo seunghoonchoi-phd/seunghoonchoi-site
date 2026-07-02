@@ -44,6 +44,8 @@ build: {list: never, render: always}
 
 ![用 AI 的公司很多。离了 AI 就停摆的，才叫 AI 原生组织](/images/inline/column-ai-native-organization.jpg)
 
+<p class="inline-image-caption">用 AI 的公司很多。离了 AI 就停摆的，才叫 AI 原生组织</p>
+
 ## 差距从第 3 阶段开始拉开
 
 | 阶段 | 内容 |

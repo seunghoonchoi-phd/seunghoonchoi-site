@@ -33,6 +33,8 @@ Here the naive person makes one of two mistakes. They stubbornly get every advan
 
 ![The Real Reason the Best Idea Loses the Meeting](/images/inline/column-operating-rules.jpg)
 
+<p class="inline-image-caption">The Real Reason the Best Idea Loses the Meeting</p>
+
 ## They pick the pricey vendor to save an executive's face
 
 Some decisions look impossible to understand from the outside. They pass over a cheaper, better outside firm and deliberately stick with the expensive, sluggish one they already use. They suddenly split a team that was running fine into two. By the measure of pure reason, anyone can see it's a loss. But shift your view by just one step. "Whose budget does this decision protect, and whose face does it save?" The moment you ask that, everything becomes clear.

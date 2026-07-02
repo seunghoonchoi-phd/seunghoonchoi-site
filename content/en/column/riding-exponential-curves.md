@@ -32,6 +32,8 @@ The first method is simple. Keep part of your salary no matter what. Then turn w
 
 ![Salary Alone Will Not Make You Rich. How to Build Assets That Compound](/images/inline/column-riding-exponential-curves.jpg)
 
+<p class="inline-image-caption">Salary Alone Will Not Make You Rich. How to Build Assets That Compound</p>
+
 ## How to choose assets that compound
 
 Not all assets are the same. Some stay the same over time, while others become easier to grow as time passes. A good asset makes the next round of growth easier. More users lead to more users. Data improves the product. Writing builds search ranking and trust. A brand makes the next opportunity easier. What you have built up should help the next round of growth.

@@ -32,6 +32,8 @@ Para un estudiante F-1 que llega de Corea a Estados Unidos, el tratado fiscal Co
 
 ![Impuestos básicos para estudiantes internacionales en Estados Unidos: extranjero no residente F-1 durante 5 años, exención de FICA y tratado fiscal Corea-Estados Unidos (Parte 4)](/images/inline/career-uf-guide-4-f1-taxes.jpg)
 
+<p class="inline-image-caption">Impuestos básicos para estudiantes internacionales en Estados Unidos: extranjero no residente F-1 durante 5 años, exención de FICA y tratado fiscal Corea-Estados Unidos (Parte 4)</p>
+
 ## Formularios y fechas límite
 
 Qué formularios debes presentar depende de si tienes ingresos o no. Lo resumo en la siguiente tabla.

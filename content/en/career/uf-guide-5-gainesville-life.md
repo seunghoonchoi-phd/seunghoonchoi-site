@@ -65,6 +65,8 @@ Take-home pay is roughly $2,200-$2,400/month, so living alone is possible but ti
 
 ![Living in Gainesville: Housing, Transit, Budget, Health, Climate, and Community](/images/inline/career-uf-guide-5-gainesville-life.jpg)
 
+<p class="inline-image-caption">Living in Gainesville: Housing, Transit, Budget, Health, Climate, and Community</p>
+
 ## Health and Medical Care (SHCC): The Essentials
 
 The medical system is structured differently from Korea's, so getting the concepts straight early saves a lot of money and time.

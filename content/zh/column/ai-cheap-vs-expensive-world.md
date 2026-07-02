@@ -60,6 +60,8 @@ reviewStatus: "done"
 
 ![AI 赢了围棋，为什么焊接仍然困难：人会停下，机器会重复](/images/inline/column-ai-cheap-vs-expensive-world.jpg)
 
+<p class="inline-image-caption">AI 赢了围棋，为什么焊接仍然困难：人会停下，机器会重复</p>
+
 ## 数字孪生给机器提供练习场
 
 这就是数字孪生变重要的地方。数字孪生，是把现实中的工厂、设备、材料和作业条件尽可能相似地搬进虚拟空间。现实中失败很贵，但在虚拟世界里，同样的失败可以便宜得多地重复。

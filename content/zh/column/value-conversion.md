@@ -38,6 +38,8 @@ draft: true
 
 ![为什么你拼命干活却攒不下东西：别留下时间，留下能反复用的成果](/images/inline/column-value-conversion.jpg)
 
+<p class="inline-image-caption">为什么你拼命干活却攒不下东西：别留下时间，留下能反复用的成果</p>
+
 ## 这份努力，会留下什么
 
 所以想往上走一级，有一句话得挂在嘴边，每做完一件事就对自己问一句：这份努力，会留下什么能反复用的东西？

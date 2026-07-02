@@ -60,6 +60,8 @@ So machines can become strong in average situations. They learn quickly in commo
 
 ![AI Beat Go. Why Is Welding Still Hard? Humans Stop, Machines Repeat](/images/inline/column-ai-cheap-vs-expensive-world.jpg)
 
+<p class="inline-image-caption">AI Beat Go. Why Is Welding Still Hard? Humans Stop, Machines Repeat</p>
+
 ## Digital twins give machines a practice field
 
 This is where digital twins become important. A digital twin implements a real factory, equipment, materials, and work conditions in virtual space as closely as possible. Failure is expensive in reality, but in a virtual world the same failure can be repeated much more cheaply.

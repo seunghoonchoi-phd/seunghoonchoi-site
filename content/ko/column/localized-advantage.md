@@ -31,6 +31,8 @@ build: {list: never, render: always}
 
 ![이영호는 왜 전체를 안 키우고 30초만 이길까: 한 곳에 힘을 모아 결정적 순간을 잡는 법](/images/inline/column-localized-advantage.jpg)
 
+<p class="inline-image-caption">이영호는 왜 전체를 안 키우고 30초만 이길까: 한 곳에 힘을 모아 결정적 순간을 잡는 법</p>
+
 ## 곧 생길 빈틈을 쳐라
 
 그럼 질문은 하나로 좁혀진다. 상대는, 혹은 환경은 언제 약해지는가.

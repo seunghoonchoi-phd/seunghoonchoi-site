@@ -32,6 +32,8 @@ El primer método es simple. Hay que dejar apartada una parte del salario, sí o
 
 ![Con salario no te vuelves rico. Cómo crear activos que crecen con interés compuesto](/images/inline/column-riding-exponential-curves.jpg)
 
+<p class="inline-image-caption">Con salario no te vuelves rico. Cómo crear activos que crecen con interés compuesto</p>
+
 ## Cómo elegir activos que crecen con interés compuesto
 
 No todos los activos son iguales. Algunos siguen igual con el tiempo; otros se vuelven más fáciles de hacer crecer. Un buen activo facilita el crecimiento futuro. Los usuarios atraen usuarios, los datos mejoran el producto, los textos crean búsqueda y confianza, la marca facilita la siguiente oportunidad. Lo acumulado debe ayudar al siguiente crecimiento.

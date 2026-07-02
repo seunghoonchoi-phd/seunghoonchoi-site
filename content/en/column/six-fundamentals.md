@@ -57,6 +57,8 @@ Even if AI writes the draft, a person has to check whether that draft matches th
 
 ![What Matters More Than Study Smarts: Four Fundamentals That Matter More as AI Gets Better](/images/inline/column-six-fundamentals.jpg)
 
+<p class="inline-image-caption">What Matters More Than Study Smarts: Four Fundamentals That Matter More as AI Gets Better</p>
+
 ## 3. Structuring ability: binding scattered information into a usable shape
 
 Having more information does not mean you understand. In fact, the more information you have, the easier it is to get lost. Give someone ten documents, five meeting notes, and dozens of numbers, and the inside of their head gets messy quickly. What they need is not more material. They need structure.

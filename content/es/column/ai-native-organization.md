@@ -44,6 +44,8 @@ La clave es una sola. Sacar el borrador y ayudar a juzgar lo hace la IA; la resp
 
 ![Hay muchas empresas que usan IA. La 'organización nativa de IA' es la que se detiene sin ella](/images/inline/column-ai-native-organization.jpg)
 
+<p class="inline-image-caption">Hay muchas empresas que usan IA. La 'organización nativa de IA' es la que se detiene sin ella</p>
+
 ## La brecha se abre a partir del nivel 3
 
 | Nivel | Contenido |

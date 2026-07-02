@@ -44,6 +44,8 @@ AI 生成的 Office 文件常有这类失误。所以审核工具是需要的。
 
 ![AI 结果审核的陷阱：别为了抓错误，降低结果的上限](/images/inline/column-dont-lobotomize-the-model.jpg)
 
+<p class="inline-image-caption">AI 结果审核的陷阱：别为了抓错误，降低结果的上限</p>
+
 ## 不是所有问题都能黑白分明
 
 真实文件审核里，判断不会总是干净分开。文本框重叠、文字溢出、字号过小、图片比例变化，很可能是缺陷，但也可能是有意表现。

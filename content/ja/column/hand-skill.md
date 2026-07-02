@@ -31,6 +31,8 @@ build: {list: never, render: always}
 
 ![手仕事、AIが一発では真似できない指先感覚の正体](/images/inline/column-hand-skill.jpg)
 
+<p class="inline-image-caption">手仕事、AIが一発では真似できない指先感覚の正体</p>
+
 ## 手仕事の核心は、踏ん張ることと直すことだ
 
 手仕事の核心はたった二つだ。

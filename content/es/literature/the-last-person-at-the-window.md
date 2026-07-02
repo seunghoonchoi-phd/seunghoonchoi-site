@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![Silueta de una persona sentada junto a una ventana con vista al mar](/images/inline/literature-the-last-person-at-window.jpg)
 
+<p class="inline-image-caption">Silueta de una persona sentada junto a una ventana con vista al mar</p>
+
 Sugyeong sigue sentándose cada mañana en el mismo sitio.
 
 Es una ventana con vista al mar. El edificio es viejo y el marco es profundo, así que, al sentarse, la sombra le cubre hasta los hombros. La nieve que entró durante la noche quedó posada en una capa fina por dentro del marco. Cada vez que ella exhala, el cristal se empaña y luego se va aclarando despacio desde los bordes. El horizonte está borroso. En los días nublados, el mar no tiene un límite con el cielo, y no se sabe hasta dónde es agua ni desde dónde son nubes.

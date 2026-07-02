@@ -30,6 +30,8 @@ reviewStatus: "done"
 
 ![미국 유학 렌트 자동납부, 미국 계좌 없으면 카드로 설정하지 마세요](/images/inline/career-us-rent-autopay.jpg)
 
+<p class="inline-image-caption">미국 유학 렌트 자동납부, 미국 계좌 없으면 카드로 설정하지 마세요</p>
+
 ## 정답 순서
 
 그래서 이렇게 잡는 것이 깔끔합니다.

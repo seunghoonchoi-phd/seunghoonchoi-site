@@ -60,6 +60,8 @@ La reacción del público no tiene una única respuesta exacta. Pero métricas c
 
 ![Primero se reemplazan los trabajos con respuesta: etapas 1 a 5 de cómo la IA toma el trabajo](/images/inline/column-ai-replacement-stages-1.jpg)
 
+<p class="inline-image-caption">Primero se reemplazan los trabajos con respuesta: etapas 1 a 5 de cómo la IA toma el trabajo</p>
+
 ## Etapa 4, procesar un trabajo completo de principio a fin
 
 La IA inicial tomaba piezas pequeñas: una frase, una línea de código, un resumen. Pero cada vez más procesa trabajos completos. Le das un objetivo, arma un plan, busca materiales, crea un borrador, corrige y entrega un resultado. En esta etapa la IA deja de ser solo una herramienta que responde y se vuelve ejecutora de varias etapas conectadas.

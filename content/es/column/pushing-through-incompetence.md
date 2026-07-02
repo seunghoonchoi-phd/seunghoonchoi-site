@@ -44,6 +44,8 @@ Cuando el fallo tiene nombre, aparece el entrenamiento. Si no sale la primera fr
 
 ![Quien soporta sentirse torpe termina mejorando](/images/inline/column-pushing-through-incompetence.jpg)
 
+<p class="inline-image-caption">Quien soporta sentirse torpe termina mejorando</p>
+
 ## Si lo divides pequeño, se puede aguantar
 
 Después de encontrar la pieza que falla, hay que cortarla más. Si agarras el bloque entero, la sensación de incompetencia también crece. "Tengo que hablar bien un idioma" es demasiado grande. "Hoy diré una sola frase en la reunión" sí se puede soportar.

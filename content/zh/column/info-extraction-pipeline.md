@@ -45,6 +45,8 @@ build: {list: never, render: always}
 
 ![天天跟 AI 聊天，为什么手里啥也没留下？三段式 Notion 整理提示词](/images/inline/column-info-extraction-pipeline.jpg)
 
+<p class="inline-image-caption">天天跟 AI 聊天，为什么手里啥也没留下？三段式 Notion 整理提示词</p>
+
 ## 复制即用的提示词，直接抄走
 
 ### 第一段：别整理，只抽候选

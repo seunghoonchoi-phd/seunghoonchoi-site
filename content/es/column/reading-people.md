@@ -37,6 +37,8 @@ Esto sirve para las dos direcciones. Se puede usar para presionar a la gente con
 
 ![A las personas no las mueve la lógica. Lee el miedo a perder, el orgullo y la responsabilidad](/images/inline/column-reading-people.jpg)
 
+<p class="inline-image-caption">A las personas no las mueve la lógica. Lee el miedo a perder, el orgullo y la responsabilidad</p>
+
 ## Antes que la lógica vienen el beneficio, la pérdida, el orgullo y la responsabilidad
 
 Piensa en alguien que quiere introducir un método nuevo en su equipo. Si es una persona inteligente, gastará todo el tiempo explicando lo eficiente que es su idea. Pero lo que de verdad mueve a la gente no es esa explicación. Son las respuestas a cuatro preguntas que giran en silencio en la cabeza de quien escucha.

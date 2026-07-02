@@ -49,6 +49,8 @@ A few more things to plan for:
 
 ![F-1 Visa and U.S. Entry: From Status Requirements to Airport Arrival](/images/inline/career-uf-guide-2-f1-visa-entry.jpg)
 
+<p class="inline-image-caption">F-1 Visa and U.S. Entry: From Status Requirements to Airport Arrival</p>
+
 ## After-Arrival Obligation: ISSS Online Check-In
 
 Arriving in the U.S. isn't the finish line. New F-1 students must complete ISSS online check-in within 30 days of the program start date on the I-20. Here's the sequence.

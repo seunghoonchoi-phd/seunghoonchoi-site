@@ -32,6 +32,8 @@ build: {list: never, render: always}
 
 ![F-1 学生的美国税务基础：非居民外国人 5 年、FICA 豁免、韩美税收协定（第 4 篇）](/images/inline/career-uf-guide-4-f1-taxes.jpg)
 
+<p class="inline-image-caption">F-1 学生的美国税务基础：非居民外国人 5 年、FICA 豁免、韩美税收协定（第 4 篇）</p>
+
 ## 申报表格与截止日期
 
 需要提交哪些表格，取决于你是否有收入。下表加以归纳。

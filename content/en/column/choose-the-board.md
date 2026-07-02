@@ -53,6 +53,8 @@ This is the real reason results spread apart when ability is the same.
 
 ![Building Skill Alone Won't Widen Your Results. Choose Your Environment First.](/images/inline/column-choose-the-board.jpg)
 
+<p class="inline-image-caption">Building Skill Alone Won't Widen Your Results. Choose Your Environment First.</p>
+
 ## Where Opportunity Is Blocked, Building Skill Pays Back Only That Much.
 
 This is why the common prescription so often comes up empty.

@@ -44,6 +44,8 @@ reviewStatus: "done"
 
 ![能忍受自己做不好的感觉，最后才会长出实力](/images/inline/column-pushing-through-incompetence.jpg)
 
+<p class="inline-image-caption">能忍受自己做不好的感觉，最后才会长出实力</p>
+
 ## 拆小之后，就比较能忍
 
 找到做不好的项目后，下一步是拆小。一次想做一大块，无能感也会变大。"我要学好外语"太大。"今天会议里只说一句话"就能忍。

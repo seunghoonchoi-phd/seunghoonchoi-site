@@ -91,6 +91,8 @@ The final thing needed in the relationship between AI and humans is this kind of
 
 ![Even Your House Deed Is Just a Sheet of Paper: The Final AI Stages Where Ownership Shakes](/images/inline/column-ai-replacement-stages-4.jpg)
 
+<p class="inline-image-caption">Even Your House Deed Is Just a Sheet of Paper: The Final AI Stages Where Ownership Shakes</p>
+
 ## Abundance alone is not enough
 
 There is one more thing to see. Even if AI does not eliminate humans and provides food, housing, and convenience, that may still not be a good future. People are not beings who only consume. People make things, choose, take responsibility, form relationships, and live through meaning.

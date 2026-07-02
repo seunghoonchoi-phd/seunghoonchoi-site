@@ -45,6 +45,8 @@ Fifth, talking about "I used a ton of AI" as if it were an achievement. Using a 
 
 ![Company AI Is Not Free: The Token and Subscription Illusion, and the Money Leaking Behind the Wall](/images/inline/column-ai-hidden-costs.jpg)
 
+<p class="inline-image-caption">Company AI Is Not Free: The Token and Subscription Illusion, and the Money Leaking Behind the Wall</p>
+
 ## "It was for work" stops working soon
 
 "You cannot blame me, it was for work" holds up at first. But it does not last. A company that brings in AI tends to walk through the same stages.

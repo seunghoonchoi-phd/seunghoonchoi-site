@@ -44,6 +44,8 @@ La idea es simple. Si hasta un modelo mejor intentaría evitar ese fallo, hay qu
 
 ![La trampa de revisar resultados de IA: no bajes el techo mientras corriges errores](/images/inline/column-dont-lobotomize-the-model.jpg)
 
+<p class="inline-image-caption">La trampa de revisar resultados de IA: no bajes el techo mientras corriges errores</p>
+
 ## No todo se divide en blanco y negro
 
 En la revisión real de archivos no todo se separa con limpieza. Cajas de texto que se pisan, letras que se desbordan, texto pequeño o una imagen estirada tienen mucha probabilidad de ser defectos, pero también pueden ser decisiones intencionales.

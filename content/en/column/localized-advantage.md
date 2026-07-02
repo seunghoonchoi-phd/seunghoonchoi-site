@@ -31,6 +31,8 @@ The point isn't your total troop count. It's the strength that has actually arri
 
 ![Why Flash Wins 30 Seconds Instead of Building Up His Whole Army: Pooling Your Strength to Take the Decisive Moment](/images/inline/column-localized-advantage.jpg)
 
+<p class="inline-image-caption">Why Flash Wins 30 Seconds Instead of Building Up His Whole Army: Pooling Your Strength to Take the Decisive Moment</p>
+
 ## Hit the gap that's about to open
 
 So the question narrows down to one thing. When does the opponent, or the situation, get weak?

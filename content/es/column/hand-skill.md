@@ -31,6 +31,8 @@ Si presionas sobre una zona amplia, se reparte con suavidad. Si la aplicas en un
 
 ![La habilidad manual: el sentido del tacto que la IA no copia de golpe](/images/inline/column-hand-skill.jpg)
 
+<p class="inline-image-caption">La habilidad manual: el sentido del tacto que la IA no copia de golpe</p>
+
 ## El núcleo de la habilidad manual es resistir y corregir
 
 El corazón de la habilidad manual son solo dos cosas.

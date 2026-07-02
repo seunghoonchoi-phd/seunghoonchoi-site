@@ -58,6 +58,8 @@ People are not only searching for capable people. They are searching for less ri
 
 ![Verification Comes Before Skill: Why Trust and Reputation Decide Opportunity](/images/inline/column-invisible-currencies.jpg)
 
+<p class="inline-image-caption">Verification Comes Before Skill: Why Trust and Reputation Decide Opportunity</p>
+
 ## Good skill should be left behind as evidence
 
 This does not mean you should inflate skill you do not have. It is the opposite. If you have real skill, you should leave it in a form others can confirm.

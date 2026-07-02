@@ -52,6 +52,8 @@ Once this split exists, the work becomes much clearer. Decisions become the basi
 
 ![How to Use AI to Understand a New Work Meeting from the Transcript](/images/inline/column-observing-others-meetings.jpg)
 
+<p class="inline-image-caption">How to Use AI to Understand a New Work Meeting from the Transcript</p>
+
 ## Break the issues down MECE
 
 MECE means mutually exclusive and collectively exhaustive. In plain language, it means sorting things without overlap and without leaving important items out.

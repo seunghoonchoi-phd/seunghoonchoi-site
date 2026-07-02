@@ -61,6 +61,8 @@ This is where schools become more responsible. If companies can no longer spend 
 
 ![AI-Era Schools Should Teach Practical Judgment, Not Just Knowledge](/images/inline/column-ai-school-practical-sense.jpg)
 
+<p class="inline-image-caption">AI-Era Schools Should Teach Practical Judgment, Not Just Knowledge</p>
+
 ## Students Need To Check Outside The Screen
 
 Future juniors need to know how to give AI structured work. If a junior only says “do this” and hands the whole task to AI, companies will not value that person highly. Juniors need to break the task into what to research, what to compare, what the draft is for, what conditions matter for calculation, and what criteria should be used for review. Then they need to check whether AI's output fits the real situation.

@@ -52,6 +52,8 @@ AIに議事録を入れて、ただ要約させるだけでは足りません。
 
 ![初めての業務、AIで会議の文字起こしを分析して構造をつかむ方法](/images/inline/column-observing-others-meetings.jpg)
 
+<p class="inline-image-caption">初めての業務、AIで会議の文字起こしを分析して構造をつかむ方法</p>
+
 ## 論点をMECEに切り分ける
 
 MECEは Mutually Exclusive, Collectively Exhaustive の略です。互いに重ならず、漏れなく分ける、という意味です。かんたんに言えば、同じ話を二つの枠に重複して入れず、大事な項目を取りこぼさない形で分類することです。

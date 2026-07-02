@@ -94,6 +94,8 @@ en Corea
 
 ![Tras la admisión y antes de partir: cómo leer la carta de oferta y enviar el dinero](/images/inline/career-uf-guide-1-before-departure.jpg)
 
+<p class="inline-image-caption">Tras la admisión y antes de partir: cómo leer la carta de oferta y enviar el dinero</p>
+
 ## 3. Examen de nivel (Placement Exam)
 
 - El plazo va de junio a principios de agosto y se hace en línea en [eLearning](https://elearning.ufl.edu/). Tiene preguntas de opción múltiple y de desarrollo.
