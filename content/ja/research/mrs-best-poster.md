@@ -7,6 +7,6 @@ reviewStatus: "done"
 ---
 ![Best Poster Award：2018 MRS Fall Meeting](/images/mrs-event.jpeg)
 
-<p class="inline-image-caption">この研究で、ボストンで開かれた 2018 Materials Research Society(MRS) Fall Meeting & Exhibition のポスターセッションにおいて Best Poster Award を受賞しました。</p>
+<p class="inline-image-caption">受賞写真が残すのは結果より、研究が慣れない場所でも検証されたという事実だ。</p>
 
 タコの吸盤からヒントを得て、肌によく密着しながら電気信号を伝えられるパッチ型センサーで生体信号を読み取る研究を発表しました。この研究で、ボストンで開かれた 2018 Materials Research Society(MRS) Fall Meeting & Exhibition のポスターセッションにおいて Best Poster Award を受賞しました。

@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![Un tablero de go vacío sobre una mesa de madera, con piedras blancas y negras dispersas y una luz suave que entra por la ventana](/images/col-choose-the-board.jpg)
 
-<p class="inline-image-caption">La capacidad se diferencia en 1,2 veces, pero el resultado se diferencia en diez o veinte veces.</p>
+<p class="inline-image-caption">Un buen juego aumenta tus habilidades y un mal juego limita tus resultados incluso cuando tus habilidades crecen.</p>
 
 ## Parecían igual de buenos, pero solo uno se hizo fuerte
 
@@ -55,7 +55,7 @@ Aquí está la verdadera razón de que, con la misma capacidad, los resultados s
 
 ![Mejorar tu habilidad no separa los resultados. Elige primero el entorno](/images/inline/column-choose-the-board.jpg)
 
-<p class="inline-image-caption">Aquí está la verdadera razón de que, con la misma capacidad, los resultados se separen.</p>
+<p class="inline-image-caption">La eficiencia del esfuerzo depende de dónde se multiplica ese esfuerzo y no de cuánto esfuerzo pongo.</p>
 
 ## En un sitio sin oportunidades, mejorar solo da para eso
 

@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![Sunny university campus](/images/uf5-life.jpg)
 
-<p class="inline-image-caption">この記事は、フロリダのゲインズビル（University of Florida）での実際の生活を、住まい・交通・生活費・健康・気候・コミュニティ・旅行に分けて整理した定着ガイドです。</p>
+<p class="inline-image-caption">ゲインズビルでの生活感は、大学内の情報より街の距離、天気、店の位置からつかめる。</p>
 
 アメリカの大学院合格、ビザ、そして最初の行政手続きまで終えたら、ここからが本格的な生活です。どこに住み、どうやって移動し、ひと月にいくらかかるのか。そして体調を崩したらどこへ行き、ハリケーンが来たら何を備えるのか。この記事は、フロリダのゲインズビル（University of Florida）での実際の生活を、住まい・交通・生活費・健康・気候・コミュニティ・旅行に分けて整理した定着ガイドです。
 
@@ -67,7 +67,7 @@ UFの大学院生は、ほぼ全員がオフキャンパスに住んでいます
 
 ![ゲインズビル生活完全ガイド：住まい・交通・生活費から健康・気候・コミュニティまで](/images/inline/career-uf-guide-5-gainesville-life.jpg)
 
-<p class="inline-image-caption">まとまった買い出しは、車で1.5〜2時間のH-Mart Orlandoへ月1回行くのが一般的なやり方です。</p>
+<p class="inline-image-caption">韓国式の生活をそのまま移すより、ないものはないものとして日課を組み直す必要がある。</p>
 
 ## 健康・医療（SHCC）：必ず知っておきたい要点
 

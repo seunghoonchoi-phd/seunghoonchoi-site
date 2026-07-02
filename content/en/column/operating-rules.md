@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![An empty conference room in soft window light, chairs sitting at different angles around the table](/images/col-operating-rules.jpg)
 
-<p class="inline-image-caption">Because the moment you adopt that idea, the manager who pushed the opposite way last year becomes the guy who was wrong.</p>
+<p class="inline-image-caption">There are times when a proposal that is rejected at a meeting is pushed out not because of its quality, but because it hurt someone's face.</p>
 
 ## The best idea dies to save the boss's face
 
@@ -35,7 +35,7 @@ Here the naive person makes one of two mistakes. They stubbornly get every advan
 
 ![The Real Reason the Best Idea Loses the Meeting](/images/inline/column-operating-rules.jpg)
 
-<p class="inline-image-caption">They've read not the letter of the rule, but what the rule actually does.</p>
+<p class="inline-image-caption">The real rules are not the sentences written in the document, but the directions that people actually avoid and choose.</p>
 
 ## They pick the pricey vendor to save an executive's face
 

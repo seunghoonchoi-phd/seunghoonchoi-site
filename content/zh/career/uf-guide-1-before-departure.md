@@ -10,7 +10,7 @@ reviewStatus: "done"
 ---
 ![Airplane at the departure gate](/images/uf1-departure.jpg)
 
-<p class="inline-image-caption">文章一次性涵盖：如何准确读懂资助（录取通知 / offer letter）、核心日程日历、分级考试与选课流程、到校前的研究准备，以及出国前的韩国行政事务收尾与汇款。</p>
+<p class="inline-image-caption">购买机票之前需要做的事情在学校内外的分布比您想象的要广泛。</p>
 
 被美国理工科研究生院录取，不是终点，而是另一条起跑线。从收到录取通知到出国前的这几个月，要做的事情比想象中多，截止日期排得很紧，只要漏掉一项，就可能耽误入学、注册或签证。本文是佛罗里达大学 (University of Florida, UF) 研究生院入学与安顿指南的第一篇，按顺序为你梳理从录取后到出国前必须打理好的事项。文章一次性涵盖：如何准确读懂资助（录取通知 / offer letter）、核心日程日历、分级考试与选课流程、到校前的研究准备，以及出国前的韩国行政事务收尾与汇款。
 
@@ -92,7 +92,7 @@ reviewStatus: "done"
 
 ![从录取到出国：从读懂录取通知到完成海外汇款](/images/inline/career-uf-guide-1-before-departure.jpg)
 
-<p class="inline-image-caption">教材为 Callister（Materials Science and Engineering: An Introduction）等，任何版本均可。</p>
+<p class="inline-image-caption">计划不能取代内存。它是一种在重叠之前使饰面可见的工具。</p>
 
 ## 3. 分级考试 (Placement Exam)
 

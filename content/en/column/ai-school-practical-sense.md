@@ -13,7 +13,7 @@ reviewStatus: "done"
 
 ![Students using AI while checking a small device together](/images/col-ai-school-practical-sense.png)
 
-<p class="inline-image-caption">They need to check whether AI's answers work in reality and revise the parts that fail.</p>
+<p class="inline-image-caption">Classes using AI should be changed from a time to receive answers to a time to verify answers.</p>
 
 Ask AI to turn a set of notes into a table, and a table appears in seconds. Ask it to explain something at a high-school level, and it lowers the difficulty. Ask it to turn an idea into a presentation, and it gives you an outline and slide draft.
 
@@ -63,7 +63,7 @@ This is where schools become more responsible. If companies can no longer spend 
 
 ![AI-Era Schools Should Teach Practical Judgment, Not Just Knowledge](/images/inline/column-ai-school-practical-sense.jpg)
 
-<p class="inline-image-caption">They need to research with AI, draft with AI, check the result outside the classroom, and revise what is wrong.</p>
+<p class="inline-image-caption">A single error seen outside the classroom lingers longer than the correct answer on the screen.</p>
 
 ## Students Need To Check Outside The Screen
 

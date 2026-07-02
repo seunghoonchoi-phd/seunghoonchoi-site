@@ -14,7 +14,7 @@ build: {list: never, render: always}
 
 ![Pasillo de un centro de datos con filas de servidores](/images/col-ai-conundrum-market-economy.jpg)
 
-<p class="inline-image-caption">Por eso, cuanto más avanza la IA, más inestable puede volverse la economía de mercado que conocemos.</p>
+<p class="inline-image-caption">Lo que la tecnología abarata es el coste de producción, y lo que el mercado debe sostener es el poder adquisitivo de las personas.</p>
 
 Si hoy le encargas a la IA una página de trabajo, ya cuesta llamarla juguete. Escribe código, ordena tablas, redacta respuestas para clientes y resume actas de reunión. Se equivoca, claro. Pero muchas cosas sí las hace. La IA no es una tecnología hecha solo de humo.
 
@@ -60,7 +60,7 @@ Un auge sin empleo puede verse brillante en los números. Pero la gente no vive 
 
 ![El enigma de la IA: cuanto más avanza la tecnología, más inestable se vuelve la economía de mercado](/images/inline/column-ai-conundrum-market-economy.jpg)
 
-<p class="inline-image-caption">Entonces el mercado pregunta: los márgenes mejoraron, ¿pero dónde está el crecimiento de ventas?</p>
+<p class="inline-image-caption">En un mercado donde el consumo es débil, los beneficios de la automatización eventualmente terminan antes que las ventas.</p>
 
 ## Las respuestas habituales son demasiado lentas o demasiado débiles
 

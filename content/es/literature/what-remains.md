@@ -8,7 +8,7 @@ reviewStatus: "done"
 
 ![Gotas de lluvia sobre una ventana](/images/lit-remains.jpg)
 
-<p class="inline-image-caption">¿De verdad eso importaba más que el deseo de cantarle a una estrella?</p>
+<p class="inline-image-caption">Cuanto menos queda, más las palabras “Te amo” se convierten en una última opción en lugar de un consuelo más ligero.</p>
 
 <div class="poem">
 <p>Quizá lo más importante<br>

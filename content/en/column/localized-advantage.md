@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![A toppled king on a chessboard. The single move that decided the game](/images/col-localized-advantage.jpg)
 
-<p class="inline-image-caption">By the same principle, in any kind of work, if you pool your strength in one place you can win the decisive moment even when your total is short.</p>
+<p class="inline-image-caption">Even if you can't win the whole thing, you can win at one point when you need it.</p>
 
 Have you ever watched Lee Young-ho flip a game he was badly losing? He doesn't build up his whole army. He tunes his build so that for the exact 30 seconds when his opponent is weakest, at that exact spot, he is the strongest one there. Across the whole map, he's behind. But in that one moment, in that one place, he overwhelms the other player. And that one engagement takes the game. By the same principle, in any kind of work, if you pool your strength in one place you can win the decisive moment even when your total is short.
 
@@ -33,7 +33,7 @@ The point isn't your total troop count. It's the strength that has actually arri
 
 ![Why Flash Wins 30 Seconds Instead of Building Up His Whole Army: Pooling Your Strength to Take the Decisive Moment](/images/inline/column-localized-advantage.jpg)
 
-<p class="inline-image-caption">You only need to have more in one place.</p>
+<p class="inline-image-caption">It doesn't take long for the winner to be decided. Preparations build up for that brief gap.</p>
 
 ## Hit the gap that's about to open
 

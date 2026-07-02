@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Una mesa de reuniones vacía convertida en un lugar para observar una reunión ajena](/images/col-meetings.jpg)
 
-<p class="inline-image-caption">La reunión avanza y tú no sabes ni por dónde empezar a seguirla.</p>
+<p class="inline-image-caption">Ver reuniones de otras personas no es sólo mirar, sino entrenar para leer lo que la organización considera importante.</p>
 
 Cuando entras a una reunión de un trabajo que ves por primera vez, lo normal es quedarse en blanco. Conoces pocas palabras y los demás hablan como si ya compartieran todo el contexto. La reunión avanza y tú no sabes ni por dónde empezar a seguirla.
 
@@ -54,7 +54,7 @@ Con esa separación, el trabajo se ve mucho más claro. Lo decidido se vuelve cr
 
 ![Un trabajo que ves por primera vez: cómo analizar una transcripción de reunión con IA y entender la estructura](/images/inline/column-observing-others-meetings.jpg)
 
-<p class="inline-image-caption">Lo que hay que verificar se convierte en tarea para estudiar o preguntar.</p>
+<p class="inline-image-caption">En el momento en que hay una diferencia entre decisión e indeciso, las actas de la reunión van más allá del registro y deciden la siguiente acción.</p>
 
 ## Hay que dividir los temas de forma MECE
 

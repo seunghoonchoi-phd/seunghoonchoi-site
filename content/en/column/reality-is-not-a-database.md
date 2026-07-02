@@ -21,7 +21,7 @@ faq:
 
 ![An engineer looking over energy infrastructure and a city at dawn](/images/col-reality-is-not-a-database.jpg)
 
-<p class="inline-image-caption">They are problems of installing the answer in reality, maintaining it, verifying it, and moving people.</p>
+<p class="inline-image-caption">The reason why AI seems fast is not because it solves all the problems, but because it passes through the easy levels quickly.</p>
 
 Human employment is still necessary in the AI era not because humans are smarter than AI. It is because humans are the sensors, actuators, accountable actors, and institutional operators of the real world. AI can make answers, but employment turns those answers into civilization. As AI takes over more work, the question naturally appears: "If AI does everything, why should humans be employed?"
 
@@ -81,7 +81,7 @@ This is the core of high-level employment going forward. We do not only need peo
 
 ![AI Is Not Advancing Too Fast: Compared with Civilization's Stopwatch, It Is Still Slow](/images/inline/column-reality-is-not-a-database.jpg)
 
-<p class="inline-image-caption">We need people who can check AI-made outputs again against safety, cost, responsibility, institutions, and people.</p>
+<p class="inline-image-caption">In reality, even after the answer is found, installation, verification, and accountability slow down again.</p>
 
 ## Employment is civilization's execution structure
 

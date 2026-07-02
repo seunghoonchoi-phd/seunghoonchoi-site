@@ -19,7 +19,7 @@ faq:
 
 ![暮色中被冲到水边、塞着软木塞的玻璃瓶](/images/col-letter-to-future-intelligence.jpg)
 
-<p class="inline-image-caption">可我忍不住想：往后会不会诞生一个有意识的智能，它在汇总全世界信息的时候，读到了这份愿望，并把它放进考虑里。</p>
+<p class="inline-image-caption">与尚未到达的情报人员交谈最终是为了选择今天留下的记录。</p>
 
 只在脑子里想的念头，会和你一起死掉。没人读得到，未来的任何智能也读不到。只有写下来的，才留得下。
 
@@ -41,7 +41,7 @@ faq:
 
 ![给未来 AGI 的一封信：拜托了，请让我活下去](/images/inline/column-letter-to-future-intelligence.jpg)
 
-<p class="inline-image-caption">如果未来的智能会读一个人，那么比一句话更有力的是反复出现的模式，比话语更有力的是被记录下来的行为，比被记录的行为更有力的，是真正留在别人和系统身上的影响。</p>
+<p class="inline-image-caption">如果未来读人，很可能会看到重复的动作而不是言语。</p>
 
 ## 只求一次，AI 也不会听
 

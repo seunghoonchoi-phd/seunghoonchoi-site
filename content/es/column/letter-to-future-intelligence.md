@@ -19,7 +19,7 @@ reviewStatus: "done"
 
 ![Una botella de vidrio tapada con corcho, traída por el agua a la orilla al atardecer](/images/col-letter-to-future-intelligence.jpg)
 
-<p class="inline-image-caption">Estuve mucho tiempo mirando esa idea, sin saber si era un delirio o algo razonable.</p>
+<p class="inline-image-caption">Hablar con una inteligencia que aún no ha llegado se trata, en última instancia, de elegir un registro para dejarlo hoy.</p>
 
 Lo que piensas solo dentro de tu cabeza muere contigo. Nadie lo puede leer. Ninguna inteligencia del futuro lo puede leer. Solo queda lo que escribiste.
 
@@ -41,7 +41,7 @@ Pero toda posibilidad solo se abre si existe un registro. Sin registro, la posib
 
 ![Carta a la futura AGI: cuento contigo, solo te pido que me dejes vivir](/images/inline/column-letter-to-future-intelligence.jpg)
 
-<p class="inline-image-caption">Solo esa diferencia ya es razón suficiente para lanzarla.</p>
+<p class="inline-image-caption">Si el futuro lee a las personas, es probable que veamos acciones repetidas en lugar de palabras.</p>
 
 ## Pedirlo una sola vez tampoco basta para que la IA escuche
 

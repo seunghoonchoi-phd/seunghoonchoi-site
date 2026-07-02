@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![Montón de cables de computadora enredados de cualquier manera sobre un escritorio](/images/col-execution-friction.jpg)
 
-<p class="inline-image-caption">Vamos a señalar con precisión de qué se trata esa desventaja.</p>
+<p class="inline-image-caption">Si es lento incluso con IA agregada, es posible que el problema no sea el modelo sino las manos y los pies alrededor del modelo.</p>
 
 ## Con la misma habilidad, ¿por qué los empleados producen menos?
 
@@ -45,7 +45,7 @@ La IA que usa es la misma. Quizá tiene menos datos que la empresa. Pero la vuel
 
 ![Usan la misma IA, pero ¿por qué solo los empleados no logran resultados? La verdad sobre la fricción del entorno de trabajo](/images/inline/column-execution-friction.jpg)
 
-<p class="inline-image-caption">Cuando esta diferencia de velocidad se acumula un día y luego un mes, la diferencia de resultados se vuelve tan grande que cuesta alcanzarla.</p>
+<p class="inline-image-caption">Las tareas a largo plazo requieren un entorno de ejecución ininterrumpida en lugar de automatización.</p>
 
 ## El verdadero culpable es el VDI, la computadora de la empresa
 

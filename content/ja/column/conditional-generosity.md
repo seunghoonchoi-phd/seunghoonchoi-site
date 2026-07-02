@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![温かい夕焼け空に手を伸ばし、太陽を包み込むように握った手](/images/col-conditional-generosity.jpg)
 
-<p class="inline-image-caption">心の片方は「それでも善くあらなきゃ」と言い、もう片方は「じゃあ一生やられっぱなしで生きろってことか」と問いかける。</p>
+<p class="inline-image-caption">善良さとは線を消すことではなく、線を越えた人に代償を知らせることだ。</p>
 
 私は善く生きたい。でも正直に言うと、私だってときどき誰かを悪く言いたくなる。自分を苦しめる人に同じだけ返してやりたいし、陰で文句も言いたい。心の片方は「それでも善くあらなきゃ」と言い、もう片方は「じゃあ一生やられっぱなしで生きろってことか」と問いかける。
 
@@ -58,7 +58,7 @@ reviewStatus: "done"
 
 ![善く生きつつカモにならない方法：善い人にこそ、毅然さがいる](/images/inline/column-conditional-generosity.jpg)
 
-<p class="inline-image-caption">誰かを悪く言いたい、非難したい、陰口を言いたいという気持ちが湧くと、「自分は悪い人間なのか」と感じる。</p>
+<p class="inline-image-caption">本当の距離置きは相手を憎む時間ではなく、自分の一日を取り戻す時間だ。</p>
 
 ## 怒りや非難はなくさず、情報に変えろ
 

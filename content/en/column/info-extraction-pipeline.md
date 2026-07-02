@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![A drawer of card files where only the labeled ones stay. Picking is the system](/images/col-info-extraction.jpg)
 
-<p class="inline-image-caption">Yet a month later, there is almost nothing I can find again.</p>
+<p class="inline-image-caption">Even if you collect a lot of information, if there is no standard for discarding it, organizing it becomes just another noise.</p>
 
 The more I talk to AI, the less knowledge I actually keep. Strange, but true.
 
@@ -47,7 +47,7 @@ The key device is the "estimate flag." It forces apart the structure the AI made
 
 ![Why Hours of AI Chat Leave You With Nothing. A 3-Stage Notion Prompt](/images/inline/column-info-extraction-pipeline.jpg)
 
-<p class="inline-image-caption">It forces apart the structure the AI made up from the structure the chat actually backs up, so the two never blend.</p>
+<p class="inline-image-caption">A good organizing system is not one that stores a lot, but one that pushes out unfounded structures.</p>
 
 ## Copy-paste prompts, grab them as is
 

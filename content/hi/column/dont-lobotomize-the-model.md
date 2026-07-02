@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![A magnifying glass beside a laptop](/images/col-qa.jpg)
 
-<p class="inline-image-caption">इसलिए मैंने पहले से मौजूद AI जाँच टूल इंस्टॉल करके देखे।</p>
+<p class="inline-image-caption">निरीक्षण का उद्देश्य परिणाम को छोटा करना नहीं है, बल्कि केवल टूटे हुए हिस्सों को सटीक रूप से ठीक करना है।</p>
 
 अक्षर स्लाइड से बाहर निकल आए थे। भेजने से ठीक पहले की बात है।
 
@@ -51,7 +51,7 @@ reviewStatus: "done"
 
 ![AI जाँच टूल अच्छे नतीजे को बिगाड़ देते हैं। मॉडल को कमज़ोर मत करो](/images/inline/column-dont-lobotomize-the-model.jpg)
 
-<p class="inline-image-caption">न एरर के रूप में, न चेतावनी के रूप में।</p>
+<p class="inline-image-caption">एक अच्छे निरीक्षण उपकरण को मॉडल की कल्पना को मिटाए बिना केवल वास्तविक दोषों को रोकना चाहिए।</p>
 
 ## हर समस्या को काला-सफेद में नहीं बाँटा जा सकता
 

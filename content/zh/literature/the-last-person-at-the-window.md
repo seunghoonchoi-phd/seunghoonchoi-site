@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![一个人的剪影，坐在能望见大海的窗前](/images/inline/literature-the-last-person-at-window.jpg)
 
-<p class="inline-image-caption">阴天的海和天没有界限，分不清到哪里还是水，从哪里起已是云。</p>
+<p class="inline-image-caption">窗外的大海静静地表明，即使人们无事可做，时间仍然在流逝。</p>
 
 秀卿还是每天早晨坐在同一个位置。
 

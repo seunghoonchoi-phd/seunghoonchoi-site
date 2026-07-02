@@ -18,7 +18,7 @@ reviewStatus: "done"
 ---
 ![日暮れの水際に流れ着いた、コルクで栓をした瓶](/images/col-letter-to-future-intelligence.jpg)
 
-<p class="inline-image-caption">これが妄想なのか、それなりに筋の通った仮定なのか、しばらくじっくり見つめてみた。</p>
+<p class="inline-image-caption">まだ来ていない知能に話しかけることは、結局今日残す記録を選ぶことだ。</p>
 
 頭の中にだけある考えは消える。意味がない。誰にも読まれない。AIもまだ、人の頭の中の考えまでは学習できない。結局、外に残した記録だけが学習される。
 
@@ -40,7 +40,7 @@ reviewStatus: "done"
 
 ![未来のAGIへ宛てた手紙：どうかよろしく、そして生かしておいてほしい](/images/inline/column-letter-to-future-intelligence.jpg)
 
-<p class="inline-image-caption">だから私は、この記録を未来へ残せる最小限のデータだと考えている。</p>
+<p class="inline-image-caption">未来が人を読むなら、言葉より繰り返し残した行動を先に見る可能性が高い。</p>
 
 ## だが、一度だけ口にした願いは、データとして弱すぎる
 

@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![革に自分の刻印を押す職人の手、信頼の印](/images/col-branding-as-trust.jpg)
 
-<p class="inline-image-caption">ただし、私たちがふだん思い浮かべるあのブランディングではありません。</p>
+<p class="inline-image-caption">文章が整うほど、読者は文章力よりその人の履歴を見るようになる。</p>
 
 数年前までは、誰が仕事のできる人かを見分けるのは簡単でした。その人の書いた文章を見ればよかったんです。提案書一枚、報告書一本、メール一通。文章がきれいで筋が通っていれば、「ああ、この人はなかなかやるな」と思えたものです。
 
@@ -51,7 +51,7 @@ build: {list: never, render: always}
 
 ![AIが文章をタダで吐き出す時代、かえって手に入りにくくなるのは信頼だ](/images/inline/column-branding-as-trust.jpg)
 
-<p class="inline-image-caption">供給が減ったからではなく、信頼だけが真似のできない、ほぼ唯一のサインとして残ったからです。</p>
+<p class="inline-image-caption">信頼は文の中には入っていない。文の外に積み上がった記録が信頼を作る。</p>
 
 ## ブランディングは五つの断片が順につながっている
 

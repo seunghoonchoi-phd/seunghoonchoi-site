@@ -14,7 +14,7 @@ build: {list: never, render: always}
 
 ![一条数据中心走廊，两侧排列着服务器机柜](/images/col-ai-conundrum-market-economy.jpg)
 
-<p class="inline-image-caption">如果这些利润来自少雇人、压低工资收入，那么企业利润会上升，整个市场的购买力却会变弱。</p>
+<p class="inline-image-caption">技术让生产变得更便宜的是生产成本，而市场必须维持的是人们的购买力。</p>
 
 现在把一份文件交给AI处理，已经很难再说它只是玩具了。它能写代码，整理表格，起草客服回复，也能总结会议纪要。它当然还会犯错，但很多事情确实能做成。AI不是只剩炒作的技术。
 
@@ -60,7 +60,7 @@ AI可以让价格下降。问题是，对失去收入的人来说，降价不一
 
 ![AI之谜：技术越进步，市场经济越不安](/images/inline/column-ai-conundrum-market-economy.jpg)
 
-<p class="inline-image-caption">但如果市场没有变大，原来十个人做的事现在三个人能做，那么剩下七个人就可能不再被需要。</p>
+<p class="inline-image-caption">在消费疲软的市场中，自动化的好处最终会在销售之前停止。</p>
 
 ## 常见答案太慢，也太弱
 

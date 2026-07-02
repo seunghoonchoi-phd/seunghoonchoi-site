@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![Cajas de mudanza y maletas en un lugar nuevo](/images/uf3-arrival.jpg)
 
-<p class="inline-image-caption">Muchas veces un paso es requisito del siguiente, así que, si puedes, respeta el orden y todo irá más fluido.</p>
+<p class="inline-image-caption">A su llegada, el equipaje requiere más trámites administrativos que las maletas.</p>
 
 Si ya llegaste a tu posgrado en Estados Unidos, lo difícil quedó atrás: la visa, la vivienda y las cuentas. Lo que sigue son los trámites administrativos que hacen funcionar tu día a día. Si los haces en mal orden, cada paso siguiente se retrasa uno tras otro. Sin móvil, abrir una cuenta de banco es engorroso; sin banco, no consigues tarjeta; sin SSN, se retrasan la licencia y la construcción de tu crédito. Por eso este artículo, basado en la experiencia de instalarse en la University of Florida (UF), sigue tal cual el orden móvil → banco → SSN → licencia de conducir de Florida → construir crédito, y explica qué llevar y qué cuidar en cada paso.
 
@@ -44,7 +44,7 @@ Cuando ya tengas un número estadounidense, lo siguiente es el banco. Aunque tod
 
 ![Guía para instalarte en un posgrado en Estados Unidos, Parte 3: el orden de los trámites tras llegar (móvil, banco, SSN, licencia y crédito)](/images/inline/career-uf-guide-3-arrival-setup.jpg)
 
-<p class="inline-image-caption">Decídete por cuántas sucursales y cajeros automáticos hay cerca del campus; eso es lo más cómodo en el día a día.</p>
+<p class="inline-image-caption">Los bancos se preocupan más por el movimiento que por los beneficios. Al final, un lugar al que puedas ir con frecuencia es más conveniente.</p>
 
 ## 3. SSN (número de seguro social)
 

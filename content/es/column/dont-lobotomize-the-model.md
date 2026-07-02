@@ -10,7 +10,7 @@ reviewStatus: "done"
 ---
 ![Una lupa junto a un portátil](/images/col-qa.jpg)
 
-<p class="inline-image-caption">El problema es decidir hasta dónde deben intervenir.</p>
+<p class="inline-image-caption">El propósito de la inspección no es hacer que el resultado sea más pequeño, sino reparar con precisión solo las partes rotas.</p>
 
 El texto se salía de la diapositiva. Lo vi justo antes de enviarla.
 
@@ -46,7 +46,7 @@ La idea es simple. Si hasta un modelo mejor intentaría evitar ese fallo, hay qu
 
 ![La trampa de revisar resultados de IA: no bajes el techo mientras corriges errores](/images/inline/column-dont-lobotomize-the-model.jpg)
 
-<p class="inline-image-caption">Pero si un modelo mejor podría elegirlo deliberadamente, la herramienta no debe bloquearlo.</p>
+<p class="inline-image-caption">Una buena herramienta de inspección debe detener solo los defectos reales, sin borrar la imaginación del modelo.</p>
 
 ## No todo se divide en blanco y negro
 

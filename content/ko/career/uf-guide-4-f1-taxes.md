@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![US tax forms with a pen](/images/uf4-taxes.jpg)
 
-<p class="inline-image-caption">다만 법·세무는 자주 바뀌므로, 실제 처리 전에는 UFIC와 세무 전문가에게 한 번 더 확인하시기 바랍니다.</p>
+<p class="inline-image-caption">세금 서류는 어렵게 보이지만, 먼저 신분을 제대로 나누면 절반은 정리된다.</p>
 
 미국 대학원 합격과 정착 준비가 어느 정도 마무리되면, 거의 모두가 막막해하는 부분이 하나 남습니다. 세금입니다. F-1 유학생의 세금은 미국 시민·영주권자와 규칙이 다른데, 그 차이가 유학생에게 유리한 쪽으로 작용하는 경우가 많습니다. 이 글은 그 핵심만 정리합니다. 다만 법·세무는 자주 바뀌므로, 실제 처리 전에는 UFIC와 세무 전문가에게 한 번 더 확인하시기 바랍니다.
 
@@ -34,7 +34,7 @@ build: {list: never, render: always}
 
 ![미국 유학생 세금 기초: F-1 비거주 외국인 5년, FICA 면제, 한미 조세조약 (Part 4)](/images/inline/career-uf-guide-4-f1-taxes.jpg)
 
-<p class="inline-image-caption">조약 원문은 IRS 한미조약 PDF에서 확인할 수 있습니다.</p>
+<p class="inline-image-caption">조세조약은 혜택이 아니라, 내가 어떤 줄에 서 있는지 확인하는 문서다.</p>
 
 ## 신고 서류와 마감일
 

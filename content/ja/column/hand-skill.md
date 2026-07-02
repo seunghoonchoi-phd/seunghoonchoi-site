@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![使い込まれた手道具がきれいに並んだ作業台](/images/col-hand-skill.jpg)
 
-<p class="inline-image-caption">指先に触れる反応を一瞬ごとに読み取り、力を直していくということだ。</p>
+<p class="inline-image-caption">手の技術とは手が速いことではなく、材料が返す小さな反応を見逃さないことだ。</p>
 
 囲碁はAIに明け渡した。絵も、文章も、コーディングも明け渡しつつある。それなのに、のり巻きを巻くおばさんの手、溶接工の手、外科医の手はまだ無事だ。なぜだろう。
 
@@ -33,7 +33,7 @@ build: {list: never, render: always}
 
 ![手仕事、AIが一発では真似できない指先感覚の正体](/images/inline/column-hand-skill.jpg)
 
-<p class="inline-image-caption">踏ん張るときはしっかり固定し、引くべきときは柔らかく従う。</p>
+<p class="inline-image-caption">角度一つが変われば結果も変わる仕事では、データより先に体のフィードバックがたまる。</p>
 
 ## 手仕事の核心は、踏ん張ることと直すことだ
 

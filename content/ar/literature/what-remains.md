@@ -8,7 +8,7 @@ reviewStatus: "done"
 
 ![قطرات المطر على النافذة](/images/lit-remains.jpg)
 
-<p class="inline-image-caption">هل كان ذلك حقًا أهم من القلب الذي يغني للنجمة؟</p>
+<p class="inline-image-caption">كلما قل الوقت المتبقي، أصبحت كلمة "أحبك" خيارًا أخيرًا بدلاً من عزاء أخف.</p>
 
 <div class="poem">
 <p>ربما أهم شيء<br>

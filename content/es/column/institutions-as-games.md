@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![Puestos vacíos de un mercado al aire libre antes del amanecer, antes de que lleguen los vendedores](/images/col-institutions-as-games.jpg)
 
-<p class="inline-image-caption">Esa disposición de premios y castigos es la que produce los movimientos de la gente.</p>
+<p class="inline-image-caption">Un sistema es claramente visible cuando observas qué acciones se recompensan dentro de él, en lugar de mirar las señales.</p>
 
 ## En la oficina no abre la boca, pero en el club deportivo toma la iniciativa
 
@@ -43,7 +43,7 @@ Por eso, cuando una organización cae en un juego de números absurdo, antes de 
 
 ![Cómo leer una institución: antes que las reglas, mira los premios y los castigos](/images/inline/column-institutions-as-games.jpg)
 
-<p class="inline-image-caption">¿Cuánto se aleja ese número del objetivo real?</p>
+<p class="inline-image-caption">Si las personas se comportan de manera extraña, primero debemos observar las recompensas y los castigos asociados a ese comportamiento.</p>
 
 ## Aumentaron los pasos de aprobación, y solo pierden los empleados honestos
 

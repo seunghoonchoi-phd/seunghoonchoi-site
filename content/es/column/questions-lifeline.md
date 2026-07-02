@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Un profesor da clase frente a una pizarra de mecanica cuantica mientras un estudiante entre muchos se siente abrumado por preguntas sin respuesta](/images/col-questions-lifeline.png)
 
-<p class="inline-image-caption">Era la sensacion de por que ese calculo estaba permitido, y de que mundo venian esos simbolos.</p>
+<p class="inline-image-caption">Hacer muchas preguntas no significa que seas lento para entender, sino que simplemente significa que no superas los puntos estancados.</p>
 
 Cuando estudie mecanica cuantica en ingenieria, en la pizarra aparecian primero ecuaciones como estas.
 
@@ -52,7 +52,7 @@ En la competencia de examenes de alto nivel, esa diferencia se agranda. Algunos 
 
 ![Un salvavidas para quienes hacen demasiadas preguntas](/images/inline/column-questions-lifeline.jpg)
 
-<p class="inline-image-caption">Los examenes antiguos favorecian a ese tipo intuitivo.</p>
+<p class="inline-image-caption">Las personas que están familiarizadas con las fórmulas no memorizan las respuestas, sino que miran primero para ver dónde pueden quedarse atascados.</p>
 
 ## No habia quien recibiera las preguntas
 

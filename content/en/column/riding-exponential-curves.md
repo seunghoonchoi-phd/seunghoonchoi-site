@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![A surfer at sunset turning the force of a wave into momentum](/images/col-riding-exponential-curves.jpg)
 
-<p class="inline-image-caption">The key is whether they remain and create money and opportunity even when I am not working continuously.</p>
+<p class="inline-image-caption">Salary is money that passes by, and assets are the result that remain even when I am not working.</p>
 
 Salary matters. It feeds you now and keeps life from collapsing. But it is hard to become rich on salary alone. Salary comes in only as much as the time you worked.
 
@@ -34,7 +34,7 @@ The first method is simple. Keep part of your salary no matter what. Then turn w
 
 ![Salary Alone Will Not Make You Rich. How to Build Assets That Compound](/images/inline/column-riding-exponential-curves.jpg)
 
-<p class="inline-image-caption">The core is not to let money pass through you, but to change it into something that remains under your name.</p>
+<p class="inline-image-caption">What you need to leave before money is a trace that will lead the next opportunity to find you.</p>
 
 ## How to choose assets that compound
 

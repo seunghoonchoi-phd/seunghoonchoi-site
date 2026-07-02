@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![老师在量子力学黑板前讲课，多名学生中有一个学生因问题得不到回答而崩溃的插图](/images/col-questions-lifeline.png)
 
-<p class="inline-image-caption">是不知道那一行计算为什么被允许，也不知道这些符号来自哪个世界。</p>
+<p class="inline-image-caption">提出很多问题并不意味着您理解速度慢，而只是意味着您无法克服困境。</p>
 
 在工程学院学量子力学时，黑板上先出现的是这样的式子。
 
@@ -52,7 +52,7 @@ reviewStatus: "done"
 
 ![问题很多的人的救命绳](/images/inline/column-questions-lifeline.jpg)
 
-<p class="inline-image-caption">老师要赶进度，补习班要刷题型，教材也不会把所有中间环节都补全。</p>
+<p class="inline-image-caption">熟悉公式的人不会记住答案，而是首先查看可能会陷入困境的地方。</p>
 
 ## 没有人能一直回答这些问题
 

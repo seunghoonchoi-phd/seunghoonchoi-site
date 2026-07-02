@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![Las manos de un artesano grabando su sello en el cuero, la marca de la confianza](/images/col-branding-as-trust.jpg)
 
-<p class="inline-image-caption">Si las frases eran limpias y todo encajaba, pensabas: "Ah, esta persona sí sabe trabajar".</p>
+<p class="inline-image-caption">A medida que la escritura se vuelve más pulida, los lectores ven más de la historia de la persona que de sus habilidades de escritura.</p>
 
 Hace solo unos años, saber quién hacía bien su trabajo era sencillo. Bastaba con leer lo que escribía. Una propuesta, un informe, un correo. Si las frases eran limpias y todo encajaba, pensabas: "Ah, esta persona sí sabe trabajar".
 
@@ -51,7 +51,7 @@ Cuanto más comunes se vuelven las frases, más se desplaza la diferencia hacia 
 
 ![En la era en que la IA escribe gratis, lo que de verdad cuesta conseguir es la confianza](/images/inline/column-branding-as-trust.jpg)
 
-<p class="inline-image-caption">No porque haya menos oferta, sino porque la confianza queda como la casi única señal que no se puede imitar.</p>
+<p class="inline-image-caption">La confianza no está contenida en oraciones. Los registros acumulados fuera del texto crean confianza.</p>
 
 ## La marca son cinco piezas unidas una tras otra
 

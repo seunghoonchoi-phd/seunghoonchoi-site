@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![The first work AI replaces: mental work with right answers disappears first](/images/col-ai-replacement-stages-1.jpg)
 
-<p class="inline-image-caption">This piece covers the first five stages of AI taking work.</p>
+<p class="inline-image-caption">Tasks with correct answers are automated first, regardless of a person's pride.</p>
 
 Will AI take my work? To answer that, first look at the order. AI does not take work at random. Some work is replaced first, and other work shakes much later. The first work to shake is work with right answers.
 
@@ -62,7 +62,7 @@ Public response does not have one fixed answer. But click-through rate, purchase
 
 ![Work with Right Answers Is Replaced First: Stages 1 to 5 of AI Taking Work](/images/inline/column-ai-replacement-stages-1.jpg)
 
-<p class="inline-image-caption">The moment it converges, AI becomes strong.</p>
+<p class="inline-image-caption">In a place where each click counts as a score, the AI ​​quickly gets a practice book.</p>
 
 ## Stage 4, work handled from beginning to end by itself
 

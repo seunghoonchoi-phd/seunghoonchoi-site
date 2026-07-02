@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![Silueta de una persona sentada junto a una ventana con vista al mar](/images/inline/literature-the-last-person-at-window.jpg)
 
-<p class="inline-image-caption">Es una ventana con vista al mar.</p>
+<p class="inline-image-caption">El mar fuera de la ventana muestra silenciosamente que el tiempo continúa pasando incluso cuando la gente se queda sin cosas que hacer.</p>
 
 Sugyeong sigue sentándose cada mañana en el mismo sitio.
 

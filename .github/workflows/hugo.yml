@@ -39,6 +39,8 @@ jobs:
         run: node tools/check-rtl-layout.cjs
       - name: Check language sync
         run: node tools/check-language-sync.js
+      - name: Check caption quality
+        run: node tools/check-caption-quality.js
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production

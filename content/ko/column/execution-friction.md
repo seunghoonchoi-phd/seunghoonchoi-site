@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![책상 위에 어지럽게 엉킨 컴퓨터 케이블과 전선 더미](/images/col-execution-friction.jpg)
 
-<p class="inline-image-caption">AI는 빨라졌는데 내 업무는 별로 빨라지지 않는다.</p>
+<p class="inline-image-caption">AI를 붙였는데도 느리다면, 문제는 모델이 아니라 모델 주변의 손발일 수 있다.</p>
 
 회사도 이제 AI를 쓰라고 한다. 보고서도 AI로 쓰고, 회의록도 AI로 정리하고, 자료 조사도 AI로 빨리 하라고 한다. 그런데 막상 일을 해 보면 이상하다. AI는 빨라졌는데 내 업무는 별로 빨라지지 않는다.
 
@@ -55,7 +55,7 @@ AI는 산출물을 늘리는 데 강하다. 초안, 요약, 비교표, 체크리
 
 ![직장인이 AI로 업무 속도를 높이지 못하는 이유: 손발 다 묶고 AI만 쓰라고 하면 어떡하나](/images/inline/column-execution-friction.jpg)
 
-<p class="inline-image-caption">AI로 뭔가 만들려면 한 문제에 오래 붙어 있어야 한다.</p>
+<p class="inline-image-caption">오래 붙어 있어야 하는 일은 자동화보다, 방해받지 않는 실행 환경이 먼저 필요하다.</p>
 
 ## 회의와 메신저가 AI로 얻은 속도를 다시 깎아낸다
 

@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![체스판 위에 쓰러진 킹. 승부를 가른 결정적 한 수](/images/col-localized-advantage.jpg)
 
-<p class="inline-image-caption">같은 원리로, 무슨 일을 하든 힘을 한 곳에 모으면 전체가 부족해도 결정적인 한 번을 이길 수 있다.</p>
+<p class="inline-image-caption">전체를 이기지 못해도, 필요한 순간의 한 지점은 이길 수 있다.</p>
 
 이영호가 크게 진 경기를 뒤집는 걸 본 적 있나. 그는 전력을 통째로 키우지 않는다. 상대가 가장 약해지는 딱 30초, 바로 그 자리에서만 자기가 제일 세지도록 빌드를 맞춘다. 전체 전력으로 보면 지고 있다. 그런데 그 한 순간, 그 한 자리에서는 상대를 압도한다. 그리고 그 한 번의 교전으로 경기를 가져간다. 같은 원리로, 무슨 일을 하든 힘을 한 곳에 모으면 전체가 부족해도 결정적인 한 번을 이길 수 있다.
 
@@ -33,7 +33,7 @@ build: {list: never, render: always}
 
 ![이영호는 왜 전체를 안 키우고 30초만 이길까: 한 곳에 힘을 모아 결정적 순간을 잡는 법](/images/inline/column-localized-advantage.jpg)
 
-<p class="inline-image-caption">전체 전력이 40 대 60으로 밀려도, 상대 병력이 멀리 나가 있고 업그레이드가 아직 안 끝난 그 30초엔, 한 지점에서 30 대 15가 된다.</p>
+<p class="inline-image-caption">승부가 갈리는 시간은 길지 않다. 준비는 그 짧은 틈을 위해 쌓인다.</p>
 
 ## 곧 생길 빈틈을 쳐라
 

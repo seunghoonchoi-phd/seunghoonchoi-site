@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![어두운 행사장 연단 위에 빛나는 황동빛 마이크](/images/col-anatomy-of-politics.jpg)
 
-<p class="inline-image-caption">다만 말로 속이는 방식 대신, 약속하고 지키는 방식으로 옮겨 가야 한다.</p>
+<p class="inline-image-caption">빈말을 못 하는 사람에게 남는 무기는, 작게 약속하고 실제로 지키는 방식이다.</p>
 
 나는 거짓말을 하면 얼굴에 다 쓰인다. 마음에 없는 칭찬도, 영혼 없는 외교 멘트도 입에 잘 안 붙는다. 억지로 하면 내가 먼저 불편해져서 표정부터 무너진다. 그런데 정치는 사람 마음을 얻는 일이다. 많은 사람이 좋아할 말, 듣고 싶어 하는 말, 지금 당장 안심시키는 말을 해야 할 때가 많다. 그렇다면 나처럼 빈말을 못 하는 사람은 정치에 아예 안 맞는 걸까.
 
@@ -44,7 +44,7 @@ reviewStatus: "done"
 
 ![정치는 어떻게 사람 마음을 얻는가. 빈말 못 하는 사람의 방법](/images/inline/column-anatomy-of-politics.jpg)
 
-<p class="inline-image-caption">실업률 2% 감소보다 일자리를 되찾은 한 사람의 하루가 더 강하다.</p>
+<p class="inline-image-caption">정책은 숫자로 설계해도, 사람은 자기 하루가 어떻게 달라지는지로 받아들인다.</p>
 
 ## 인기 얻는 능력과 일 잘하는 능력은 다르다
 

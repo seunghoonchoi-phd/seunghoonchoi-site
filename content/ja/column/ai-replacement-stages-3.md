@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![決定権は一度に移らない：AIが仕事を奪う第9〜14段階](/images/col-ai-replacement-stages-3.jpg)
 
-<p class="inline-image-caption">AIにできるかどうかではなく、人がその決定をAIに任せられるかどうかが問題になるのです。</p>
+<p class="inline-image-caption">決定権は性能表ではなく、事故が起きた時に誰が責任を負うかで止まる。</p>
 
 病院でMRIを撮ると、画面に疑わしい部位がまず表示されます。AIが画像をざっと見て、おかしく見える箇所を指摘してくれます。ところが診断書のいちばん下に名前を書いて責任を負うのは、相変わらず医師です。画像を先に見たのはAI。異常を見つけたのもAI。けれども最後の決定権は、人に残されています。
 
@@ -52,7 +52,7 @@ AIが作った結果が複雑になりすぎて、人が全体を理解できな
 
 ![決定権は一度に移らない：AIが仕事を奪う第9〜14段階](/images/inline/column-ai-replacement-stages-3.jpg)
 
-<p class="inline-image-caption">このとき専門家は、AIを完全に検証する人ではなく、AIの結果に責任を結びつける人になります。</p>
+<p class="inline-image-caption">専門家の席は、答えを代わりに出す場所から、答えに責任を付ける場所へ移る。</p>
 
 ## 第12段階、映像と声の代替
 

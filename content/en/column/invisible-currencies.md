@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![A market vendor handing a customer a slice of cut fruit](/images/col-invisible-currencies.jpg)
 
-<p class="inline-image-caption">That is why what gets recognized first, before skill, is verification.</p>
+<p class="inline-image-caption">Without verification, ability is only seen as a claim to pass on costs to the other party.</p>
 
 Skill does not reveal itself on its own. Skill is properly recognized only when someone can confirm it. No matter how good your work is, if the other person has no way to confirm that skill, it is treated almost as if it does not exist.
 
@@ -60,7 +60,7 @@ People are not only searching for capable people. They are searching for less ri
 
 ![Verification Comes Before Skill: Why Trust and Reputation Decide Opportunity](/images/inline/column-invisible-currencies.jpg)
 
-<p class="inline-image-caption">Verified skill reduces the other person's risk, and that is why it is recognized that much more.</p>
+<p class="inline-image-caption">Reputation is not a compliment, but a device that makes the other person feel less at risk.</p>
 
 ## Good skill should be left behind as evidence
 

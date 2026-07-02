@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![木のテーブルの上に白黒の碁石が散らばった空の碁盤、窓から差し込むやわらかな光](/images/col-choose-the-board.jpg)
 
-<p class="inline-image-caption">能力は1.2倍の差なのに、結果は十倍、二十倍の差になる。</p>
+<p class="inline-image-caption">よい盤は実力を伸ばし、悪い盤は実力が伸びても結果を閉じ込める。</p>
 
 ## 同じ実力だった二人、片方だけが強くなった
 
@@ -55,7 +55,7 @@ build: {list: never, render: always}
 
 ![実力を伸ばすだけでは結果につながらない。まず環境を選べ](/images/inline/column-choose-the-board.jpg)
 
-<p class="inline-image-caption">能力が同じなのに結果が開いていく本当の理由が、ここにある。</p>
+<p class="inline-image-caption">努力の効率は、どれだけ頑張ったかより、その努力がどこに掛け合わされるかで決まる。</p>
 
 ## 機会の乏しい場所では、実力を磨いてもその分だけ
 

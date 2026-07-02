@@ -11,7 +11,7 @@ image: /images/col-execution-friction.jpg
 
 ![كومة من كابلات الحاسوب والأسلاك المتشابكة بفوضى فوق المكتب](/images/col-execution-friction.jpg)
 
-<p class="inline-image-caption">سأحدد بدقة ما هو هذا العائق.</p>
+<p class="inline-image-caption">إذا كان بطيئًا حتى مع إضافة الذكاء الاصطناعي، فقد لا تكون المشكلة في النموذج ولكن في الأيدي والأقدام المحيطة بالنموذج.</p>
 
 ## المهارة نفسها، فلماذا نتائج الموظف أقل؟
 
@@ -45,7 +45,7 @@ image: /images/col-execution-friction.jpg
 
 ![نستخدم نفس الذكاء الاصطناعي، فلماذا لا يحصل الموظف على نتائج؟ حقيقة احتكاك بيئة التنفيذ](/images/inline/column-execution-friction.jpg)
 
-<p class="inline-image-caption">حين يتراكم فرق السرعة هذا يوماً بعد يوم وشهراً بعد شهر، يتسع الفارق في النتائج إلى حد يصعب اللحاق به.</p>
+<p class="inline-image-caption">تتطلب المهام طويلة المدى بيئة تنفيذ متواصلة بدلاً من التشغيل الآلي.</p>
 
 ## المتهم الحقيقي هو حاسوب الشركة VDI
 

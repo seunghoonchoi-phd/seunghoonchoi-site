@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![Sunny university campus](/images/uf5-life.jpg)
 
-<p class="inline-image-caption">This guide breaks down actual day-to-day life in Gainesville, Florida (University of Florida) into housing, transit, monthly budget, health, climate, community, and travel.</p>
+<p class="inline-image-caption">You can get a feel for life in Gainesville from the city streets, weather, and store locations rather than from information inside the school.</p>
 
 Once your admission, visa, and administrative setup are done, real life begins. Where to live, how to get around, how much it costs per month, where to go when you're sick, what to grab when a hurricane is coming. This guide breaks down actual day-to-day life in Gainesville, Florida (University of Florida) into housing, transit, monthly budget, health, climate, community, and travel.
 
@@ -67,7 +67,7 @@ Take-home pay is roughly $2,200-$2,400/month, so living alone is possible but ti
 
 ![Living in Gainesville: Housing, Transit, Budget, Health, Climate, and Community](/images/inline/career-uf-guide-5-gainesville-life.jpg)
 
-<p class="inline-image-caption">Most needs are covered by pan-Asian markets like Chun Ching Market (418 NW 8th Ave) plus online Weee!</p>
+<p class="inline-image-caption">Rather than just copying the Korean way of life, we need to reorganize our routine to accommodate what is missing.</p>
 
 ## Health and Medical Care (SHCC): The Essentials
 

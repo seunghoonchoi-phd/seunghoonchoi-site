@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Una persona al atardecer, parada en un cruce urbano mirando tres caminos](/images/col-learning-magic-numbers.jpg)
 
-<p class="inline-image-caption">Es más bien una serie de marcas para entender cómo se forma la intuición.</p>
+<p class="inline-image-caption">El entusiasmo de un nuevo campo proviene del espaciamiento más que de la cantidad. Los estándares se crean sólo cuando chocan diferentes casos.</p>
 
 Cuando alguien empieza un campo nuevo, suele preguntar: "¿cuántos ejemplos tengo que ver para agarrarle el sentido?" Parece que bastaría con ver muchos. En la práctica no funciona así. Puedes mirar cien ejemplos del mismo tipo y seguir con las ideas igual de desordenadas.
 
@@ -46,7 +46,7 @@ Por ejemplo, si miras treinta fotos de filetes perfectos, no sabes cómo se ve e
 
 ![Un campo nuevo no se aprende viendo más, sino mirando distinto: los números mágicos 3·7·30·100](/images/inline/column-learning-magic-numbers.jpg)
 
-<p class="inline-image-caption">Viene de comparar casos distintos.</p>
+<p class="inline-image-caption">Treinta casos en los que las diferencias son visibles enseñan más rápido que cien casos sin comparación.</p>
 
 ## 100 no es repetición, es feedback
 

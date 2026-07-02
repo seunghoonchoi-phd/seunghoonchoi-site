@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![AIが奪っていく体の仕事、繰り返しの肉体労働から判断と感覚まで](/images/col-ai-replacement-stages-2.jpg)
 
-<p class="inline-image-caption">繰り返せて、失敗を測れて、正解が収束していく仕事は、結局AIとロボットに渡っていきます。</p>
+<p class="inline-image-caption">ロボットに難しいのは力ではなく、現場が毎回少しずつ違うことだ。</p>
 
 AIが正解のある仕事を先に奪っていくのなら、次の問いは自然に出てきます。体を使う仕事は安全なのか。
 
@@ -48,7 +48,7 @@ AIが正解のある仕事を先に奪っていくのなら、次の問いは自
 
 ![繰り返しの肉体労働から判断と感覚が要る仕事まで:AIが仕事を奪う6〜8段階](/images/inline/column-ai-replacement-stages-2.jpg)
 
-<p class="inline-image-caption">失敗のコストが下がり、シミュレーションと実データが積み上がれば、手先の器用さも次第に学習できる領域になります。</p>
+<p class="inline-image-caption">感覚は神秘ではない。何度も間違えて直したあと、体に残る判断だ。</p>
 
 ## 8段階:判断と感覚が要る仕事
 

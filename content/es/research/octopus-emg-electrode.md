@@ -11,7 +11,7 @@ reviewStatus: "done"
 ---
 ![Electrodo adhesivo inspirado en el pulpo para un control robótico estable basado en EMG en piel seca y húmeda](/images/octopus-emg-electrode.jpg)
 
-<p class="inline-image-caption">Por eso permite controlar prótesis de mano o robots vestibles mediante EMG de manera más estable.</p>
+<p class="inline-image-caption">Los electrodos que se adhieren incluso a la piel húmeda crean condiciones más cercanas a las de los robots portátiles fuera del laboratorio.</p>
 
 Es un artículo del que soy primer autor compartido. Se trata de un electrodo que se adhiere a la piel mediante una microestructura copiada de las ventosas del pulpo. Se pega bien tanto en piel seca como en piel húmeda, así que la señal EMG se capta de forma estable. Aunque la persona sude o la piel se mueva, el electrodo no se despega con facilidad y la señal fluctúa menos. Por eso permite controlar prótesis de mano o robots vestibles mediante EMG de manera más estable.
 

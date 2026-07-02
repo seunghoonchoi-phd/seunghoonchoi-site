@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![市场摊位上，商人递给顾客一块削好的水果](/images/col-invisible-currencies.jpg)
 
-<p class="inline-image-caption">再会做事，如果对方没办法确认这份实力，结果几乎和没有差不多。</p>
+<p class="inline-image-caption">未经验证，能力仅被视为将成本转嫁给另一方的主张。</p>
 
 实力不会自己显现。实力只有被别人确认时，才会真正得到评价。再会做事，如果对方没办法确认这份实力，结果几乎和没有差不多。
 
@@ -60,7 +60,7 @@ reviewStatus: "done"
 
 ![比实力更重要的是'验证'：信任和声誉为什么左右机会](/images/inline/column-invisible-currencies.jpg)
 
-<p class="inline-image-caption">公开的代码、作品集、论文、文章、视频、项目记录、客户评价、推荐信。</p>
+<p class="inline-image-caption">声誉不是一种恭维，而是一种让对方感觉风险较小的手段。</p>
 
 ## 好实力要留成证据
 

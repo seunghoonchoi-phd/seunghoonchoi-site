@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![A foggy uphill road, the long game you hold with one rule at a time](/images/col-agi-strategy.jpg)
 
-<p class="inline-image-caption">It's the human who puts AI to work and keeps producing real assets that the human world recognizes.</p>
+<p class="inline-image-caption">Surviving in the AGI era is less about pretending to be smarter and more about continuing to leave behind recognized results.</p>
 
 If you spend your days fighting to be smarter than AI, you lose. I'm sure of it.
 
@@ -33,6 +33,6 @@ I've boiled down what to do with my life in the age of AI to twelve rules. None 
 
 ![12 Rules to Survive the AGI Era: Don't Do Work That Leaves Nothing](/images/inline/column-agi-survival-strategy.jpg)
 
-<p class="inline-image-caption">Coding, statistics, patents, business, taxes, and immigration are just tools that grow that axis.</p>
+<p class="inline-image-caption">Even if the number of tools increases, if there is no center, what you have learned will be scattered and there will be little left.</p>
 
 Cut down to one line, it's this. The person who survives the AGI era isn't the human who is better than AI. It's the human who puts AI to work and keeps producing real assets that the human world recognizes.

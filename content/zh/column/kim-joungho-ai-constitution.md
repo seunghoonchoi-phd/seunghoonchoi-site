@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![服务器机房里的服务器机柜，让人想到 AI 背后的电力和控制权](/images/col-kim-joungho-ai-constitution.jpg)
 
-<p class="inline-image-caption">以下内容根据 KAIST 电气与电子工程学院金正浩教授在 2025 金大中和平会议特别演讲《AI 的有效发展方案与和平促进》中的核心发言整理，并改写成宪法条文的形式。</p>
+<p class="inline-image-caption">宪法格式将人工智能的讨论变成了逐条的责任，而不是抽象的口号。</p>
 
 以下内容根据 KAIST 电气与电子工程学院金正浩教授在 2025 金大中和平会议特别演讲《AI 的有效发展方案与和平促进》中的核心发言整理，并改写成宪法条文的形式。
 
@@ -34,7 +34,7 @@ reviewStatus: "done"
 
 ![KAIST 金正浩教授的《AI 宪法》全文](/images/inline/column-kim-joungho-ai-constitution.jpg)
 
-<p class="inline-image-caption">金教授提到人脑或笔记本电脑级别的用电量，并提出 AI 也应当把耗电量控制在大约 25 W。</p>
+<p class="inline-image-caption">当我们想象智力永远存在时，控制就变成了时间问题而不是表现问题。</p>
 
 ## 第五条。AI 的耗电量必须限制在人类水平。
 

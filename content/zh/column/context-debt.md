@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![桌上摊开的旧城市地图，小巷很多，却没有标出哪条是大路](/images/col-context-debt.jpg)
 
-<p class="inline-image-caption">报告用我的名字交了上去，但我解释不出里面的逻辑。</p>
+<p class="inline-image-caption">如果人工智能创建的报告无法解释，那么作者就成为文件的传输者，而不是所有者。</p>
 
 把资料交给 AI，让它写报告。几秒后，一份看起来像样的文档出来了。有标题，有背景，有重点，也有结论。只看句子，确实不错。可一进会议，有人问：
 
@@ -87,7 +87,7 @@ A 案和 B 案里放弃了哪一个，为什么放弃。
 
 ![为什么 AI 写的报告我却解释不了：什么是缺失的背景知识](/images/inline/column-context-debt.jpg)
 
-<p class="inline-image-caption">AI 帮你整理了碎片，不等于作者理解了主张。</p>
+<p class="inline-image-caption">背景知识不是数据量的多少，而是区分什么是大街、什么是小巷的能力。</p>
 
 ## 背景知识空着，一个问题就会让人撑不住
 

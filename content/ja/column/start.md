@@ -10,7 +10,7 @@ build: {list: never, render: always}
 
 ![ノートに手で文章を書いている様子](/images/col-start.jpg)
 
-<p class="inline-image-caption">ここは論文を書かない場所です。</p>
+<p class="inline-image-caption">論文の外で書く文章は、証明より、自分がどんな問題を見ているかを表す場所だ。</p>
 
 昼間は計算で材料を扱う。夜はここで別のものを書く。
 

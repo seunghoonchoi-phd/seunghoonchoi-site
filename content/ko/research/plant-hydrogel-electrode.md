@@ -11,7 +11,7 @@ reviewStatus: "done"
 ---
 ![식물 잎에서 전기신호를 기록하는 생체모사 하이드로젤 전극](/images/plant-hydrogel-electrode.jpg)
 
-<p class="inline-image-caption">기존 전극으로는 기록이 어려웠던 커피나무(Coffea arabica) 잎에서도, 자극 반응 전기신호를 오래 안정적으로 기록합니다.</p>
+<p class="inline-image-caption">식물 잎의 약한 전기신호를 오래 읽는다는 건, 식물의 반응을 숫자로 따라갈 수 있다는 뜻이다.</p>
 
 (공동 1저자 논문) _International Journal of Advanced Smart Convergence_(IJASC)에 게재되었습니다. 문어 점착 구조를 모사한 하이드로젤 패치에 실리콘 계면을 더해, 거칠고 수분 변화가 큰 잎 표면에도 안정적으로 부착하는 연구를 수행했습니다. 기존 전극으로는 기록이 어려웠던 커피나무(_Coffea arabica_) 잎에서도, 자극 반응 전기신호를 오래 안정적으로 기록합니다.
 

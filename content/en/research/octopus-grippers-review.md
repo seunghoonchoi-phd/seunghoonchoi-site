@@ -11,7 +11,7 @@ reviewStatus: "done"
 ---
 ![Octopus-inspired soft grippers: suction cups, arms, hybrid designs, and sensing (Biomimetics 2025)](/images/octopus-grippers-review.jpg)
 
-<p class="inline-image-caption">Biomimetics 2025, 10(12), 813.</p>
+<p class="inline-image-caption">A structure modeled after an octopus sucker makes us think about how a soft gripper holds and feels an object.</p>
 
 A co-first-authored review in Biomimetics surveys octopus-inspired soft grippers across three functional dimensions: structural and sensing devices, control strategies, and AI-driven applications. It maps suction-cup geometries, tentacle-like actuators, and hybrid designs toward more capable, intelligent soft robots.
 

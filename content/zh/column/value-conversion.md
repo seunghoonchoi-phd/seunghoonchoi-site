@@ -12,7 +12,7 @@ draft: true
 
 ![工坊里一位匠人布满岁月痕迹的双手，捧着一把做好的木椅，温暖的侧光](/images/col-value-conversion.jpg)
 
-<p class="inline-image-caption">差别就一个：一个人卖掉了时间，另一个人把时间整理成了能反复用的成果。</p>
+<p class="inline-image-caption">时间在出售后就会消失，但如果留下结果，则可以由下一个人和下一个机会再次使用。</p>
 
 ## 一样手艺的两个木匠，处境却差得很远
 
@@ -40,7 +40,7 @@ draft: true
 
 ![为什么你拼命干活却攒不下东西：别留下时间，留下能反复用的成果](/images/inline/column-value-conversion.jpg)
 
-<p class="inline-image-caption">只有被整理好、能反复用的努力，才会在我离开那个位置之后还继续干活。</p>
+<p class="inline-image-caption">当成就保持在即使没有我的情况下也能发挥作用的形式时，成就就会增长，而不是作为辛勤工作的记忆。</p>
 
 ## 这份努力，会留下什么
 

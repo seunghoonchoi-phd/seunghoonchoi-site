@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![Empty outdoor market stalls at dawn before the vendors arrive](/images/col-institutions-as-games.jpg)
 
-<p class="inline-image-caption">The way those rewards and penalties are arranged is what produces the way people move.</p>
+<p class="inline-image-caption">A system is clearly visible when you look at what actions are rewarded within it, rather than looking at the signs.</p>
 
 ## The Guy Who Goes Silent at Work Leads the Whole Hobby Club
 
@@ -43,7 +43,7 @@ So when an organization is stuck in some strange numbers game, before you call t
 
 ![How to Read an Institution: Forget the Rules, Look at the Rewards and Penalties](/images/inline/column-institutions-as-games.jpg)
 
-<p class="inline-image-caption">And how far has that number moved away from the real goal?</p>
+<p class="inline-image-caption">If people behave strangely, we should first look at the rewards and punishments attached to that behavior.</p>
 
 ## Add More Sign-Offs and Only the Honest Employees Lose
 

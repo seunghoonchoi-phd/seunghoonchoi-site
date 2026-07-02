@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![窗边洒进柔和光线的空会议室，桌子四周的椅子各自朝着不同的角度](/images/col-operating-rules.jpg)
 
-<p class="inline-image-caption">因为一旦采纳它，去年力推相反方向的那位主管，就成了判断错误的人。</p>
+<p class="inline-image-caption">有时，在会议上被拒绝的提案被推出并不是因为其质量，而是因为它伤了某人的面子。</p>
 
 ## 好方案输给了主管的面子
 
@@ -35,7 +35,7 @@ build: {list: never, render: always}
 
 ![最好的方案为什么在会上落选，真正的原因](/images/inline/column-operating-rules.jpg)
 
-<p class="inline-image-caption">读懂运作规则的人明白：那条规则不是为了挡住事情，而是为了在事情出错时，定下是谁的责任。</p>
+<p class="inline-image-caption">真正的规则不是文档中写的句子，而是人们实际避免和选择的方向。</p>
 
 ## 宁可用更贵的供应商，只为护住高管的面子
 

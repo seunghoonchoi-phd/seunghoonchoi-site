@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![Una sala de reuniones vacía con luz suave entrando por la ventana; alrededor de la mesa, las sillas están colocadas cada una en un ángulo distinto](/images/col-operating-rules.jpg)
 
-<p class="inline-image-caption">Porque en el momento en que se adopta esa propuesta, el jefe que el año pasado empujó en sentido contrario queda como el que estaba equivocado.</p>
+<p class="inline-image-caption">Hay ocasiones en las que una propuesta que se rechaza en una reunión se rechaza no por su calidad, sino porque lastima la cara de alguien.</p>
 
 ## La buena propuesta se cae por el orgullo del jefe
 
@@ -35,7 +35,7 @@ Aquí, la persona ingenua comete dos errores. O cumple la aprobación previa con
 
 ![La verdadera razón por la que la mejor propuesta se cae en la reunión](/images/inline/column-operating-rules.jpg)
 
-<p class="inline-image-caption">No leyó la letra de la regla, sino lo que la regla hace de verdad.</p>
+<p class="inline-image-caption">Las verdaderas reglas no son las oraciones escritas en el documento, sino las instrucciones que las personas realmente evitan y eligen.</p>
 
 ## Se contrata al proveedor caro por el orgullo del directivo
 

@@ -7,7 +7,7 @@ reviewStatus: "done"
 ---
 ![MaterialsViewsChina 紹介](/images/materialsviews.png)
 
-<p class="inline-image-caption">一つのセンサーで人体の動きと手の動作を複数の方法で同時に読み取る研究です。</p>
+<p class="inline-image-caption">一つの手の動きを複数の信号として読む点で、この研究はセンサーの使い道を一段広げた。</p>
 
 *Advanced Functional Materials* に発表した研究が MaterialsViews China に中国語で紹介され、中華圏の科学読者にも届きました。産毛のように細い繊維(ヘアリーファイバー)を階層構造に積み重ね、導電性コーティングを加えたセンサーで、よく伸びて水に触れても安定して動作し、わずかな信号まで捉えます。一つのセンサーで人体の動きと手の動作を複数の方法で同時に読み取る研究です。
 

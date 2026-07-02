@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![Airplane at the departure gate](/images/uf1-departure.jpg)
 
-<p class="inline-image-caption">This post is Part 1 of a guide to admission and settling in at the University of Florida (UF), walking you through what to handle, in order, from acceptance through departure.</p>
+<p class="inline-image-caption">The things that need to be done before buying a plane ticket are spread out more widely inside and outside of school than you might think.</p>
 
 Admission to a U.S. STEM graduate program is not the finish line. It is a new starting line. The months between getting your acceptance and leaving the country hold more tasks, tighter deadlines, and higher stakes than most people expect, and a single missed step can derail enrollment, registration, or your visa. This post is Part 1 of a guide to admission and settling in at the University of Florida (UF), walking you through what to handle, in order, from acceptance through departure. It covers how to read your funding (offer letter) accurately, the key date calendar, the placement exam and course registration process, pre-arrival research preparation, and finally wrapping up your Korean paperwork and sending money abroad.
 
@@ -93,7 +93,7 @@ Korean admin wrap-up   →  Orientation · course registration →  Car (optiona
 
 ![From Acceptance to Departure: Reading Your Offer Letter to Sending Money Abroad](/images/inline/career-uf-guide-1-before-departure.jpg)
 
-<p class="inline-image-caption">Reconfirm against the official calendar each year.</p>
+<p class="inline-image-caption">A schedule does not replace memory. It is a tool that makes finishes visible before they overlap.</p>
 
 ## 3. Placement Exam
 

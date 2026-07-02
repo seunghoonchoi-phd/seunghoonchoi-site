@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![Airplane at the departure gate](/images/uf1-departure.jpg)
 
-<p class="inline-image-caption">フルファンディングのオファーレター(offer letter)を正確に読む方法、重要日程のカレンダー、プレイスメント試験と履修登録の手順、到着前の研究準備、そして出発前の韓国側の行政整理と送金までを一気に扱います。</p>
+<p class="inline-image-caption">航空券を買う前に終えることは、思った以上に大学の内外へ広がっている。</p>
 
 アメリカの理工系大学院に合格したからといって、それで終わりではありません。合格通知を受け取った瞬間から出発までの数か月は、思った以上にやることが多く締め切りも厳しいので、一つでも見落とすと入学・登録・ビザに支障が出かねません。この記事は University of Florida(UF) 大学院の入学・定着ガイドの第1回として、合格直後から出発までに必ず押さえておくべきことを順番にまとめます。フルファンディングのオファーレター(offer letter)を正確に読む方法、重要日程のカレンダー、プレイスメント試験と履修登録の手順、到着前の研究準備、そして出発前の韓国側の行政整理と送金までを一気に扱います。
 
@@ -93,7 +93,7 @@ reviewStatus: "done"
 
 ![合格してから出発まで：オファーレター(offer letter)の読み方から送金まで](/images/inline/career-uf-guide-1-before-departure.jpg)
 
-<p class="inline-image-caption">以下は秋学期を基準にした例で、毎年の公式日程で再確認してください。</p>
+<p class="inline-image-caption">スケジュール表は記憶の代わりではない。締切が重なる前に見えるようにする道具だ。</p>
 
 ## 3. プレイスメント試験 (Placement Exam)
 

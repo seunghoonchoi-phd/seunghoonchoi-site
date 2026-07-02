@@ -10,7 +10,7 @@ build: {list: never, render: always}
 
 ![A hand writing in a notebook](/images/col-start.jpg)
 
-<p class="inline-image-caption">What does not fit there goes here.</p>
+<p class="inline-image-caption">The writing outside the paper is a space to reveal what problem I am looking at, rather than providing proof.</p>
 
 By day, I work with materials through computation. At night, I write something else here.
 

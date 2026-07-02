@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![Una larga fila de fichas de dominó en curva, donde una cae e inclina hacia la siguiente](/images/col-advantage-loops.jpg)
 
-<p class="inline-image-caption">Entonces, ¿se puede mover esto a propósito?</p>
+<p class="inline-image-caption">Las pequeñas ventajas no crecen todas a la vez. Lo que queda es un dispositivo que facilita la siguiente acción.</p>
 
 Hay dos personas que asistieron a la misma clase. Una sale del aula y piensa: "Hoy aprendí esto", y ahí termina. La otra deja en su cuaderno un esquema que podrá volver a usar después. Un mes más tarde llega una situación parecida. La primera vuelve a pensarlo todo desde cero; la segunda solo saca el esquema que ya tenía hecho. El punto de partida fue el mismo, pero a partir de cierto momento la velocidad de ambas se separa.
 
@@ -37,7 +37,7 @@ Un truco que solo está en tu cabeza se va borrando con el tiempo. Por eso lo sa
 
 ![Cómo una ventaja del 1% al día crece con el interés compuesto hasta volverse una habilidad imposible de copiar](/images/inline/column-advantage-loops.jpg)
 
-<p class="inline-image-caption">El conocimiento que está en la cabeza se dispersa; lo que sacaste afuera se acumula.</p>
+<p class="inline-image-caption">Las personas que acumulan son más rápidas, no porque sean buenas en eso, sino porque reutilizan lo que hicieron la próxima vez.</p>
 
 ## Si falta uno, la habilidad es 0
 

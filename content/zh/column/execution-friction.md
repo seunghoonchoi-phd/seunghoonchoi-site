@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![书桌上乱成一团、缠在一起的电脑线缆和电线](/images/col-execution-friction.jpg)
 
-<p class="inline-image-caption">用着同样的AI能力，上班族从一开始就处在更吃亏的条件里。</p>
+<p class="inline-image-caption">如果添加了 AI 还是很慢，问题可能不是模型，而是模型周围的手脚。</p>
 
 ## 能力一样，为什么只有上班族产出少
 
@@ -45,7 +45,7 @@ reviewStatus: "done"
 
 ![都用一样的AI，为什么只有上班族做不出东西：执行环境摩擦的真相](/images/inline/column-execution-friction.jpg)
 
-<p class="inline-image-caption">这点速度差，攒一天、攒一个月，成果的差距就大到几乎补不回来。</p>
+<p class="inline-image-caption">长期任务需要不间断的执行环境而不是自动化。</p>
 
 ## 真正的元凶，是公司电脑里的VDI
 

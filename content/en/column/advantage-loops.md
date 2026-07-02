@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![A single domino tipping over in a long curving line, leaning toward the next piece](/images/col-advantage-loops.jpg)
 
-<p class="inline-image-caption">So can you make this roll on purpose?</p>
+<p class="inline-image-caption">Small advantages do not grow all at once. What remains is a device that makes the next action easier.</p>
 
 Two people sat through the same lecture. One walks out thinking, "Huh, learned something today," and leaves it there. The other writes down one framework in their notes that they can pull out and use later. A month goes by and a similar situation comes up. The first person has to start thinking from scratch. The second just reaches for the framework they already built. They started in the exact same place. But at some point, the two start moving at different speeds.
 
@@ -37,7 +37,7 @@ A trick that stays only in your head fades over time. So you pull it outside and
 
 ![How a 1% Daily Edge Compounds Into Skill Nobody Can Copy](/images/inline/column-advantage-loops.jpg)
 
-<p class="inline-image-caption">What you pull out and save stacks up.</p>
+<p class="inline-image-caption">People who accumulate are faster, not because they are good at it, but because they reuse what they have done next time.</p>
 
 ## Miss one and your skill is zero
 

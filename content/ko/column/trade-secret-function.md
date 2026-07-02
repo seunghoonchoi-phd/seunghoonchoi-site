@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![물레 위에서 젖은 흙을 빚는 도공의 손, 손끝의 미세한 압력이 결과를 가르는 순간](/images/col-trade-secret-function.jpg)
 
-<p class="inline-image-caption">전략, 보고서 구조, 코드, 마케팅 문구, 실험 설계, 공부법까지 일단 그럴듯한 결론을 빠르게 얻을 수 있다.</p>
+<p class="inline-image-caption">AI 답은 쉽게 나오지만, 노하우는 그 답이 현실에서 깨지는 순간부터 생긴다.</p>
 
 AI 시대에 방법을 찾는 일은 빨라졌다. 예전에는 책을 뒤지고, 사람을 만나고, 사례를 모아야 겨우 방향을 잡았다. 이제는 AI에게 물으면 순식간에 후보가 나온다. 전략, 보고서 구조, 코드, 마케팅 문구, 실험 설계, 공부법까지 일단 그럴듯한 결론을 빠르게 얻을 수 있다.
 
@@ -46,7 +46,7 @@ AI가 정리한 결론은 깔끔하다. 하지만 현실은 깔끔하지 않다.
 
 ![AI가 낸 답은 시작일 뿐이다: 현실에 적용하며 실패해본 사람만 노하우를 얻는다](/images/inline/column-trade-secret-function.jpg)
 
-<p class="inline-image-caption">이 루프를 많이 돈 사람은 같은 AI를 써도 완전히 다른 결과를 낸다.</p>
+<p class="inline-image-caption">같은 도구를 써도 결과가 갈리는 이유는, 실패 뒤에 무엇을 고쳤는지가 다르기 때문이다.</p>
 
 ## 방법은 베껴도 적용 조건은 쉽게 못 베낀다
 

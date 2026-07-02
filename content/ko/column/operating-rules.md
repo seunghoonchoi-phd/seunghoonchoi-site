@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![창가에서 부드러운 빛이 드는 빈 회의실, 탁자 둘레로 의자들이 제각기 다른 각도로 놓여 있다](/images/col-operating-rules.jpg)
 
-<p class="inline-image-caption">그 안을 채택하는 순간, 작년에 반대로 밀어붙인 부장이 틀린 사람이 되니까.</p>
+<p class="inline-image-caption">회의에서 떨어진 안은 품질보다, 누군가의 체면을 건드렸기 때문에 밀릴 때가 있다.</p>
 
 ## 좋은 안은 부장 체면에 떨어진다
 
@@ -35,7 +35,7 @@ build: {list: never, render: always}
 
 ![제일 좋은 안이 회의에서 떨어지는 진짜 이유](/images/inline/column-operating-rules.jpg)
 
-<p class="inline-image-caption">규칙의 글자가 아니라, 규칙이 진짜 하는 일을 읽은 거다.</p>
+<p class="inline-image-caption">진짜 규칙은 문서에 적힌 문장이 아니라, 사람들이 실제로 피하고 선택하는 방향이다.</p>
 
 ## 비싼 업체를 쓴다, 임원 체면 때문에
 

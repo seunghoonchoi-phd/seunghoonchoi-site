@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![陶艺人在转盘上揉捏湿泥的双手，指尖一丝细微的压力，决定了成败的那一刻](/images/col-trade-secret-function.jpg)
 
-<p class="inline-image-caption">可我们偏偏老想用第一种情况的方式，用一个标准答案的样子，去把本事写下来。</p>
+<p class="inline-image-caption">人工智能答案很容易获得，但从答案在现实中被打破的那一刻起，专有技术就被创造出来了。</p>
 
 一整套配方在网上全泄了。多少克、火多大、煮多久，全写得清清楚楚。可你照着煮，就是煮不出那家店的味道。信息一样不缺，结果却出不来。为什么？
 
@@ -54,7 +54,7 @@ AI时代竞争力的秘密，整个就藏在这里头。
 
 ![抄走了配方，却抄不出那个味儿。AI时代真正的护城河，藏在别处](/images/inline/column-trade-secret-function.jpg)
 
-<p class="inline-image-caption">可下回做类似东西时，替你省时间的，不是那个成功的点，正是那条界线。</p>
+<p class="inline-image-caption">即使使用相同的工具，结果也会有所不同，因为失败后修复的内容不同。</p>
 
 ## 说得出来，做不出来
 

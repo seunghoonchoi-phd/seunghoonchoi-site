@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![라벨 붙은 것만 남기는 카드목록 서랍장. 골라내는 게 곧 시스템이다](/images/col-info-extraction.jpg)
 
-<p class="inline-image-caption">이 시스템의 진짜 핵심은 추출 능력이 아니라 버리는 기준이다.</p>
+<p class="inline-image-caption">정보를 많이 모아도 버릴 기준이 없으면, 정리는 또 다른 잡음이 된다.</p>
 
 AI랑 대화를 많이 할수록, 이상하게 손에 남는 지식은 줄어든다.
 
@@ -47,7 +47,7 @@ LLM한테 "대화에서 중요한 거 정리해줘" 한 번에 시켜봐라. 모
 
 ![AI랑 대화 많이 해도 손에 안 남는 이유. 노션 정리 3단 프롬프트](/images/inline/column-info-extraction-pipeline.jpg)
 
-<p class="inline-image-caption">AI가 지어낸 구조와 대화에 진짜 근거가 있는 구조가 섞이지 않게 강제로 갈라놓는다.</p>
+<p class="inline-image-caption">좋은 정리 시스템은 많이 저장하는 곳이 아니라, 근거 없는 구조를 밀어내는 곳이다.</p>
 
 ## 복붙용 프롬프트, 그대로 긁어 써라
 

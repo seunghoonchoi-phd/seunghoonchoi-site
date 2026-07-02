@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![동트기 전 상인이 오기 전 텅 빈 야외 시장 좌판들](/images/col-institutions-as-games.jpg)
 
-<p class="inline-image-caption">법은 옳고 그름을 가려 주고, 회사는 능력을 알아봐 주고, 학교는 배움이 일어나고, 시장은 좋은 물건이 살아남는 곳.</p>
+<p class="inline-image-caption">제도는 간판보다, 그 안에서 어떤 행동이 보상받는지 볼 때 제대로 보인다.</p>
 
 ## 회사선 입 닫던 친구가 동호회선 총대 멘다
 
@@ -43,7 +43,7 @@ build: {list: never, render: always}
 
 ![제도를 읽는 법: 규칙 말고, 상과 벌부터 봐라](/images/inline/column-institutions-as-games.jpg)
 
-<p class="inline-image-caption">그러니 어떤 조직이 이상한 숫자놀음에 빠져 있을 때, 사람들 한심하다고 욕하기 전에 물어야 한다.</p>
+<p class="inline-image-caption">사람들이 이상하게 행동한다면, 먼저 그 행동에 붙은 상과 벌을 봐야 한다.</p>
 
 ## 결재 늘렸더니 정직한 직원만 손해 본다
 

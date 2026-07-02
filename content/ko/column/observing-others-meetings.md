@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![빈 회의 테이블에서 남의 회의를 관찰의 장으로 바꾸는 장면](/images/col-meetings.jpg)
 
-<p class="inline-image-caption">녹취록이나 회의록을 AI로 분석하면서, 목적, 쟁점, 결정사항, 미정인 사항, 판단 기준, 용어, 담당자, 다음 행동이 서로 겹치지 않게 정리될 때까지 계속 쪼개야 한다.</p>
+<p class="inline-image-caption">남의 회의를 보는 일은 구경이 아니라, 조직이 무엇을 중요하게 여기는지 읽는 훈련이다.</p>
 
 처음 보는 업무 회의에 들어가면 대부분은 멍해진다. 아는 단어는 몇 개 없고, 사람들은 이미 맥락을 공유한 듯 말한다. 회의는 계속 앞으로 가는데, 나는 아무 준비 없이 한가운데 끼어든 느낌이 든다.
 
@@ -54,7 +54,7 @@ AI에게 회의록을 넣고 단순 요약을 시키면 부족하다. 반드시 
 
 ![처음 보는 업무, AI로 회의 녹취록 분석해 구조 파악하는 법](/images/inline/column-observing-others-meetings.jpg)
 
-<p class="inline-image-caption">결정된 것은 앞으로 움직일 기준이 되고, 미정인 사항은 다음 회의의 쟁점이 된다.</p>
+<p class="inline-image-caption">결정과 미정이 갈라지는 순간, 회의록은 기록을 넘어 다음 행동을 정한다.</p>
 
 ## 쟁점을 MECE하게 쪼개야 한다
 

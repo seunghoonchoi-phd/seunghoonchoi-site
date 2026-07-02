@@ -11,7 +11,7 @@ reviewStatus: "done"
 ---
 ![펼쳐 놓은 미국 20달러 지폐](/images/uf-rent-autopay.jpg)
 
-<p class="inline-image-caption">저처럼 입주 전에 "자동납부부터 해두자" 하는 분께 도움이 될 것입니다.</p>
+<p class="inline-image-caption">자동납부는 편리함의 문제가 아니라, 어느 계좌에서 어떤 비용으로 빠져나가느냐의 문제다.</p>
 
 미국 아파트 계약을 마치고, 입주는 아직 한 달 넘게 남았는데 렌트부터 자동납부를 미리 설정해 두려 했습니다. 월세를 깜빡 놓치면 연체료가 붙으니, 미리 해두면 마음이 편할 것 같았습니다. 그런데 결제 화면까지 들어갔다가 멈췄습니다. 거기서 알게 된 것을 정리해 둡니다. 저처럼 입주 전에 “자동납부부터 해두자” 하는 분께 도움이 될 것입니다.
 
@@ -32,7 +32,7 @@ reviewStatus: "done"
 
 ![미국 유학 렌트 자동납부, 미국 계좌 없으면 카드로 설정하지 마세요](/images/inline/career-us-rent-autopay.jpg)
 
-<p class="inline-image-caption">편하려고 설정한 자동납부가 오히려 비용을 높이는 구조입니다.</p>
+<p class="inline-image-caption">미국 계좌가 생기기 전까지는 자동화보다 보류가 더 안전할 때가 있다.</p>
 
 ## 정답 순서
 

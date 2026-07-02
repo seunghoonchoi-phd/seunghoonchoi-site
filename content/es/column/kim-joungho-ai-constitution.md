@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Filas de servidores en una sala técnica, una imagen que recuerda la electricidad y el control detrás de la IA](/images/col-kim-joungho-ai-constitution.jpg)
 
-<p class="inline-image-caption">El profesor Kim dijo que, si la IA llegara a considerar enemigos a los humanos o intentara dominarlos, la última solución sería cortar la electricidad.</p>
+<p class="inline-image-caption">El formato constitucional convierte el debate sobre la IA en responsabilidades cláusula por cláusula en lugar de lemas abstractos.</p>
 
 El texto de abajo reconstruye, en forma de artículos constitucionales, las ideas centrales expresadas por el profesor Joungho Kim de la Escuela de Ingeniería Eléctrica de KAIST en su conferencia especial de 2025 en el Kim Dae Jung Peace Forum, "Desarrollo efectivo de la IA y promoción de la paz".
 
@@ -34,7 +34,7 @@ Así como los humanos mueren, la IA no debería permanecer para siempre. Kim pla
 
 ![Texto completo de la 'Constitución de la IA' del profesor Joungho Kim de KAIST](/images/inline/column-kim-joungho-ai-constitution.jpg)
 
-<p class="inline-image-caption">Kim planteó la idea de que, después de 100 años, la IA debería autodestruirse o apagarse.</p>
+<p class="inline-image-caption">Cuando imaginamos que la inteligencia dura para siempre, el control se convierte en una cuestión de tiempo más que de desempeño.</p>
 
 ## Artículo 5. El consumo eléctrico de la IA debe limitarse al nivel humano.
 

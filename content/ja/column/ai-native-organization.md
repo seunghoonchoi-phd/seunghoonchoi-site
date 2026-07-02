@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![幾何学的な建物の構造、組織を最初から組み直すということ](/images/col-ai-native-org.jpg)
 
-<p class="inline-image-caption">AIを外した瞬間に、速度も、構造も、原価も、製品体験も全部崩れるなら、それがAIネイティブ組織です。</p>
+<p class="inline-image-caption">AIネイティブ組織とは道具の一覧ではなく、仕事が進む順番そのものが変わった組織だ。</p>
 
 AIネイティブ組織って何ですか、と聞かれると、私は逆に聞き返します。いま使っているAIを全部外したら、会社はどうなりますか、と。少し遅くなるだけなら、それはただAIを使っている会社です。AIを外した瞬間に、速度も、構造も、原価も、製品体験も全部崩れるなら、それがAIネイティブ組織です。
 
@@ -46,7 +46,7 @@ AIネイティブ組織って何ですか、と聞かれると、私は逆に聞
 
 ![AIを使う会社は多い。AIがないと止まる会社こそ「AIネイティブ組織」だ](/images/inline/column-ai-native-organization.jpg)
 
-<p class="inline-image-caption">AIが補助ツールではなく業務の基本構成要素 :意思決定、運営、製品開発まで、すべての層に組み込まれている。</p>
+<p class="inline-image-caption">責任者が残っていてこそ、自動化は組織の中で本当の決定に変わる。</p>
 
 ## 差は3段階目から開く
 

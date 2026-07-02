@@ -8,7 +8,7 @@ reviewStatus: "done"
 
 ![Raindrops on a window](/images/lit-remains.jpg)
 
-<p class="inline-image-caption">도리없지, 그저 사랑할 밖에.</p>
+<p class="inline-image-caption">남는 것이 적을수록, 사랑한다는 말은 더 가벼운 위로가 아니라 마지막 선택이 된다.</p>
 
 <div class="poem">
 <p>아마 가장 중요한 건<br>

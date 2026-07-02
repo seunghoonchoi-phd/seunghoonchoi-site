@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![나무 탁자 위에 흑백 바둑돌이 흩어진 빈 바둑판, 창으로 든 부드러운 빛](/images/col-choose-the-board.jpg)
 
-<p class="inline-image-caption">능력은 1.2배 차이인데 결과는 열 배, 스무 배가 난다.</p>
+<p class="inline-image-caption">좋은 판은 실력을 키워 주고, 나쁜 판은 실력이 커져도 결과를 가둔다.</p>
 
 ## 실력 같던 둘, 한 명만 세졌다
 
@@ -55,7 +55,7 @@ build: {list: never, render: always}
 
 ![실력만 키워서는 결과가 안 벌어진다. 환경부터 골라라](/images/inline/column-choose-the-board.jpg)
 
-<p class="inline-image-caption">결과가 시원찮을 때 우리가 제일 먼저 떠올리는 답은 이거다.</p>
+<p class="inline-image-caption">노력의 효율은 내가 얼마나 애쓰느냐보다, 그 노력이 어디에 곱해지느냐에서 갈린다.</p>
 
 ## 기회가 막힌 곳에선 실력 키워도 그만큼만
 

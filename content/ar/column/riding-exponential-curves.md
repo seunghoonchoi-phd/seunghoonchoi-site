@@ -12,7 +12,7 @@ image: /images/col-riding-exponential-curves.jpg
 
 ![سطح البحر عند الغروب، راكب أمواج يحول قوة الموجة إلى دفع ويركبها](/images/col-riding-exponential-curves.jpg)
 
-<p class="inline-image-caption">المهم: هل يبقى بعد أن أتوقف، ويصنع مالاً وفرصاً؟</p>
+<p class="inline-image-caption">الراتب هو المال الذي يمر، والأصول هي النتيجة التي تبقى حتى عندما لا أعمل.</p>
 
 الراتب مهم. يدفع الطعام والسكن، ويحمي الحياة من الانهيار. لكن من الصعب أن تصبح ثرياً بالراتب وحده، لأنه يدخل بقدر ساعات العمل.
 
@@ -44,7 +44,7 @@ image: /images/col-riding-exponential-curves.jpg
 
 ![لن تصبح ثرياً بالراتب وحده: كيف تصنع أصولاً تكبر بالفائدة المركبة](/images/inline/column-riding-exponential-curves.jpg)
 
-<p class="inline-image-caption">المهم ألا تجعل المال يمر فقط، بل حوّله إلى شيء يبقى باسمك.</p>
+<p class="inline-image-caption">ما تحتاج إلى تركه قبل الحصول على المال هو الأثر الذي سيقودك إلى الفرصة التالية للعثور عليك.</p>
 
 ## كيف تختار أصلاً يكبر بالمركب
 

@@ -4,7 +4,7 @@ reviewStatus: "done"
 ---
 ![Seunghoon Choi](/images/about-portrait.jpg)
 
-<p class="inline-image-caption">私が通ってきた道が、次の人には少しでも楽になればと思っています。</p>
+<p class="inline-image-caption">プロフィール写真は、経歴より先に、このサイトが一人の経験した問題を整理する場所だと示している。</p>
 
 私はエンジニアである前に、コンテンツをつくる人間です。複雑で面倒な問題に自分でぶつかったら、次にやって来る人が迷わずにすむよう、文章とツールにまとめます。2026年からはフロリダ大学(UF)で計算材料科学の博士課程を始めます。
 

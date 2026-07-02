@@ -8,7 +8,7 @@ reviewStatus: "done"
 
 ![खिड़की पर बारिश की बूँदें](/images/lit-remains.jpg)
 
-<p class="inline-image-caption">क्या यह सचमुच तारे का गीत गाने वाले मन से ज्यादा जरूरी था?</p>
+<p class="inline-image-caption">जितना कम बचेगा, उतने ही अधिक शब्द "आई लव यू" हल्के सांत्वना के बजाय अंतिम विकल्प बन जाएंगे।</p>
 
 <div class="poem">
 <p>शायद सबसे जरूरी बात यही है<br>

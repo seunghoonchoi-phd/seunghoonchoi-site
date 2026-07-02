@@ -12,7 +12,7 @@ image: /images/col-value-conversion.jpg
 
 ![作業場で完成した木の椅子を持つ職人の手、あたたかい側光](/images/col-value-conversion.jpg)
 
-<p class="inline-image-caption">一人は時間を売り、もう一人は時間を、また使える成果物に整理しておいた。</p>
+<p class="inline-image-caption">時間は売れば消えるが、結果物は残しておけば次の人と次の機会がまた使う。</p>
 
 ## 同じ腕前の木工職人が二人、運命が分かれる
 
@@ -40,7 +40,7 @@ image: /images/col-value-conversion.jpg
 
 ![どれだけ働いても残らない理由。時間ではなく、また使える成果物を残せ](/images/inline/column-value-conversion.jpg)
 
-<p class="inline-image-caption">また使えるように整理しておいた努力だけが、自分がその場を離れたあとも働き続ける。</p>
+<p class="inline-image-caption">成果は頑張った記憶ではなく、自分がいなくても動く形で残る時に大きくなる。</p>
 
 ## この努力は何になって残るのか
 

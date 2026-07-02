@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![伸向温暖晚霞天空、把太阳捧在掌心里的手](/images/col-conditional-generosity.jpg)
 
-<p class="inline-image-caption">我以为善良和果断站在两个极端，选了一头，就得扔掉另一头。</p>
+<p class="inline-image-caption">善意并不是要消除排队，而是告知那些越过排队的人要付出的代价。</p>
 
 我想做个好人。可说句实话，我也偶尔想说谁两句坏话，想在背后嚼嚼舌根，想把那个铁了心折磨我的人，原样还回去。这两种心思，在我心里斗了很久。一边说“再怎么样也得善良”，另一边说“那我这辈子就只能忍着？”
 
@@ -62,7 +62,7 @@ reviewStatus: "done"
 
 ![做个好人，又不当软柿子：圣人面对恶人，也要拔刀](/images/inline/column-conditional-generosity.jpg)
 
-<p class="inline-image-caption">一旦招惹你的代价大过收益，多数见机行事的施害者，会自己挪去更软的靶子。</p>
+<p class="inline-image-caption">真正的距离不是恨对方的时间，而是重新开始生活的时间。</p>
 
 ## 想开骂的冲动，翻译成信息
 

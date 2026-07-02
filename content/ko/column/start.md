@@ -10,7 +10,7 @@ build: {list: never, render: always}
 
 ![노트에 손으로 글을 쓰는 모습](/images/col-start.jpg)
 
-<p class="inline-image-caption">여기는 논문을 쓰지 않는 공간이다.</p>
+<p class="inline-image-caption">논문 밖의 글은 증명보다, 내가 어떤 문제를 보고 있는지 드러내는 공간이다.</p>
 
 낮에는 계산으로 재료를 다룬다. 밤에는 여기서 다른 걸 쓴다.
 

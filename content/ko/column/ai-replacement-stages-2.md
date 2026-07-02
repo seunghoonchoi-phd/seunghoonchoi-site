@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![AI가 가져가는 몸의 일, 반복적인 육체노동부터 판단과 감각까지](/images/col-ai-replacement-stages-2.jpg)
 
-<p class="inline-image-caption">반복할 수 있고, 실패를 측정할 수 있고, 정답이 수렴하는 일은 결국 AI와 로봇에게 넘어간다.</p>
+<p class="inline-image-caption">로봇이 어려워하는 것은 힘보다, 현장이 매번 조금씩 달라진다는 점이다.</p>
 
 AI가 정답 있는 일을 먼저 가져간다면, 다음 질문은 자연스럽다. 몸으로 하는 일은 안전할까.
 
@@ -48,7 +48,7 @@ AI가 정답 있는 일을 먼저 가져간다면, 다음 질문은 자연스럽
 
 ![반복적인 육체노동부터 판단과 감각이 필요한 업무까지: AI가 일을 가져가는 6~8단계](/images/inline/column-ai-replacement-stages-2.jpg)
 
-<p class="inline-image-caption">마지막은 판단과 감각이 필요한 업무이다.</p>
+<p class="inline-image-caption">감각은 신비가 아니라, 많이 틀리고 고치며 몸에 남은 판단이다.</p>
 
 ## 8단계, 판단과 감각이 필요한 업무
 

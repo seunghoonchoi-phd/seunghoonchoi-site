@@ -10,7 +10,7 @@ reviewStatus: "done"
 ---
 ![A magnifying glass beside a laptop](/images/col-qa.jpg)
 
-<p class="inline-image-caption">Word 문서에는 지워져야 할 마크다운 기호가 그대로 남아 있었다.</p>
+<p class="inline-image-caption">검수의 목적은 결과물을 작게 만드는 것이 아니라, 깨진 부분만 정확히 고치는 것이다.</p>
 
 글자가 슬라이드 밖으로 삐져나와 있었다. 보내기 직전에야 눈에 들어왔다.
 
@@ -46,7 +46,7 @@ AI가 만든 오피스 파일에는 이런 실수가 자주 생긴다. 그래서
 
 ![AI 결과물 검수의 함정: 오류 잡다가 결과물의 상한을 낮추지 말자](/images/inline/column-dont-lobotomize-the-model.jpg)
 
-<p class="inline-image-caption">하지만 더 뛰어난 모델이 의도적으로 선택할 수도 있는 표현이라면, 검수 도구가 막아서는 안 된다.</p>
+<p class="inline-image-caption">좋은 검수 도구는 모델의 상상력까지 지우지 않고, 실제 결함만 멈춰 세워야 한다.</p>
 
 ## 모든 문제를 흑백으로 나눌 수는 없다
 

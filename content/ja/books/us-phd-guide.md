@@ -9,7 +9,7 @@ reviewStatus: "done"
 ---
 ![『アメリカ博士留学、ひとりで準備しても大丈夫です』表紙](/images/book-us-phd-guide.jpg)
 
-<p class="inline-image-caption">その先で、アメリカのフロリダ大学(UF)材料工学の博士課程に全額ファンディングで合格し、F-1ビザまで取得しました。</p>
+<p class="inline-image-caption">表紙が示すのは合格そのものより、途方に暮れた準備を一冊にまとめたという事実だ。</p>
 
 Seunghoon Choi 著 · ベルニックス 刊 · 2026年6月
 

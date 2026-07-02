@@ -10,7 +10,7 @@ reviewStatus: "done"
 ---
 ![A magnifying glass beside a laptop](/images/col-qa.jpg)
 
-<p class="inline-image-caption">Word 文档里，本该删掉的 Markdown 符号还原样留着。</p>
+<p class="inline-image-caption">检查的目的不是使结果变小，而是仅准确修复损坏的部分。</p>
 
 文字超出了幻灯片边界。直到发送前一刻，我才看见。
 
@@ -46,7 +46,7 @@ AI 生成的 Office 文件常有这类失误。所以审核工具是需要的。
 
 ![AI 结果审核的陷阱：别为了抓错误，降低结果的上限](/images/inline/column-dont-lobotomize-the-model.jpg)
 
-<p class="inline-image-caption">AI 生成 Office 文件时，很多缺陷来自它看不到最终结果。</p>
+<p class="inline-image-caption">一个好的检查工具应该只阻止实际的缺陷，而不消除模型的想象。</p>
 
 ## 不是所有问题都能黑白分明
 

@@ -11,7 +11,7 @@ reviewStatus: "done"
 ---
 ![조용한 방에서 홀로 바이올린 연습을 시작하는 초보자의 서툰 손](/images/col-pushing-through-incompetence.jpg)
 
-<p class="inline-image-caption">그때 무능감은 그냥 괴로운 감정이 아니라 실력이 붙기 시작하는 지점이 된다.</p>
+<p class="inline-image-caption">못하는 느낌이 온다는 건, 아직 자동으로 처리되지 않는 부분을 만졌다는 뜻이다.</p>
 
 새로운 일을 배울 때 제일 먼저 오는 감각은 흥미가 아니다. 무능감이다. 머리로는 알 것 같은데 손이 안 따라오고, 남들은 쉽게 하는 것 같은데 나만 버벅인다. 설명을 들을 때는 쉬워 보였는데 막상 내가 하려면 갑자기 모든 게 엉킨다.
 
@@ -45,7 +45,7 @@ reviewStatus: "done"
 
 ![실력을 늘리는 가장 확실한 방법 : 못하는 구간을 끝까지 견뎌내는 것](/images/inline/column-pushing-through-incompetence.jpg)
 
-<p class="inline-image-caption">막연히 오래 하는 것이 아니라, 막힌 부분을 겨냥해서 연습해야 한다.</p>
+<p class="inline-image-caption">연습은 시간을 채우는 일이 아니라, 틀린 부분을 좁혀서 다시 치는 일이다.</p>
 
 ## 작게 쪼개면 버틸 만해진다
 

@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![Empty chairs lined up at desks in an office lit by morning sun](/images/col-ai-headcount-mistake.jpg)
 
-<p class="inline-image-caption">If you cut people before seeing that stage, the company does not get faster.</p>
+<p class="inline-image-caption">The empty chair is a sign of cost reduction, but at the same time, it may be the seat of a missing context.</p>
 
 When a company adopts AI tools, one sentence almost always appears: "So how many people can we cut now?" On the surface, it sounds reasonable. AI writes reports, organizes minutes, researches material, writes code, and drafts plans. Some work is genuinely faster than humans.
 
@@ -79,7 +79,7 @@ On the surface, work continues. Documents come out, meetings happen, and custome
 
 ![If You Cut People Because AI Does the Work, the Company Gets Slower: The Context Only Social Animals Know](/images/inline/column-ai-headcount-mistake.jpg)
 
-<p class="inline-image-caption">Headcount cuts should be the last question, not the starting point.</p>
+<p class="inline-image-caption">Knowledge that is visible only after reducing the number of people is knowledge that already has a recovery cost attached.</p>
 
 ## If you cut the middle, the company's memory disappears
 

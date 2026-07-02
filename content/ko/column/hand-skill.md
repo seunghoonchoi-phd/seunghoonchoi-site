@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![닳은 손도구들이 가지런히 놓인 작업대](/images/col-hand-skill.jpg)
 
-<p class="inline-image-caption">손끝에 닿는 반응을 매 순간 읽고, 힘을 고쳐 나간다는 것이다.</p>
+<p class="inline-image-caption">손기술은 손이 빠른 능력이 아니라, 재료가 보내는 작은 반응을 놓치지 않는 능력이다.</p>
 
 바둑은 AI한테 넘어갔다. 그림도, 글도, 코딩도 넘어가는 중이다. 그런데 김밥 마는 아주머니 손, 용접공 손, 외과의 손은 아직 멀쩡하다. 왜 그럴까.
 
@@ -33,7 +33,7 @@ build: {list: never, render: always}
 
 ![손기술, AI가 단번에 못 베끼는 손끝 감각의 정체](/images/inline/column-hand-skill.jpg)
 
-<p class="inline-image-caption">방향, 각도, 속도, 닿는 면적, 표면을 따라 미는 정도.</p>
+<p class="inline-image-caption">각도 하나가 바뀌면 결과가 달라지는 일은, 데이터보다 몸의 피드백이 먼저 쌓인다.</p>
 
 ## 손기술 핵심은 버티기와 고치기다
 

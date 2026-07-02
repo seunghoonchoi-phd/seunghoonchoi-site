@@ -13,7 +13,7 @@ reviewStatus: "done"
 
 ![AIを使いながら小さな装置を一緒に点検する学生たち](/images/col-ai-school-practical-sense.png)
 
-<p class="inline-image-caption">学生はAIが出した答えが現実で合っているかを確認し、間違った部分をまた直してみる必要がある。</p>
+<p class="inline-image-caption">AIを使う授業は、答えをもらう時間ではなく、答えを検証する時間に変わるべきだ。</p>
 
 学生がAIに「この資料を表にまとめて」と言えば、数秒後に表が出てくる。「高校生にもわかるように説明して」と言えば、AIは説明の難しさを下げる。「発表資料に変えて」と言えば、AIは目次とスライドの下書きを作る。
 
@@ -63,7 +63,7 @@ AI時代には、学校の時間の使い方が変わらなければならない
 
 ![AI時代の学校：知識より実務感覚を教えるべきだ](/images/inline/column-ai-school-practical-sense.jpg)
 
-<p class="inline-image-caption">学生はAIで調査し、下書きを作り、外に出て確認し、間違った部分をまた直してみる必要がある。</p>
+<p class="inline-image-caption">教室の外で確かめた一つの誤りは、画面の中の正解より長く残る。</p>
 
 ## 学生はモニターの外で確認するべきだ
 

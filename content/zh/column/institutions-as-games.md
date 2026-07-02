@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![黎明前商贩还没到，空荡荡的露天市场摊位](/images/col-institutions-as-games.jpg)
 
-<p class="inline-image-caption">可往里头看，看人到底是怎么做的，就会发现制度做的其实更多是塑造行为。</p>
+<p class="inline-image-caption">当您查看系统中奖励哪些行为而不是查看标志时，系统就清晰可见。</p>
 
 ## 公司里闭嘴的那个人，到了社团却抢着带头
 
@@ -43,7 +43,7 @@ build: {list: never, render: always}
 
 ![读懂一个制度：别先看规则，先看奖什么、罚什么](/images/inline/column-institutions-as-games.jpg)
 
-<p class="inline-image-caption">所以一个组织陷进某种怪数字游戏里，骂里头的人糊涂之前，得先问：这里挂着奖的数字是哪个？</p>
+<p class="inline-image-caption">如果人们行为异常，我们应该首先看看与该行为相关的奖励和惩罚。</p>
 
 ## 加了审批，结果只有老实人吃亏
 

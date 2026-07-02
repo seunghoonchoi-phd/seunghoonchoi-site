@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![An empty go board with black and white stones scattered across a wooden table, soft light coming through the window](/images/col-choose-the-board.jpg)
 
-<p class="inline-image-caption">The ability differs by 1.2 to 1, yet the results differ by ten to one, twenty to one.</p>
+<p class="inline-image-caption">A good game increases your skills, and a bad game limits your results even as your skills grow.</p>
 
 ## They Seemed Equal. Only One Got Stronger.
 
@@ -55,7 +55,7 @@ This is the real reason results spread apart when ability is the same.
 
 ![Building Skill Alone Won't Widen Your Results. Choose Your Environment First.](/images/inline/column-choose-the-board.jpg)
 
-<p class="inline-image-caption">This is the real reason results spread apart when ability is the same.</p>
+<p class="inline-image-caption">The efficiency of effort depends on where that effort is multiplied rather than how much effort I put in.</p>
 
 ## Where Opportunity Is Blocked, Building Skill Pays Back Only That Much.
 

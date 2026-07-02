@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![青写真の上で構造を描く手、要約ではなく構造を組み立てる](/images/col-understand.jpg)
 
-<p class="inline-image-caption">名札だけ覚える勉強と、仕組みを知る勉強の分かれ目は、まさにここにあります。</p>
+<p class="inline-image-caption">10分理解の目標は要約文ではなく、なじみのない概念がどの問題に使われるかをつかむことだ。</p>
 
 はじめての会議に入る1分前。初めて開いた論文、初めて聞く技術。こういうとき、私はまず要約を作りません。
 
@@ -52,7 +52,7 @@ build: {list: never, render: always}
 
 ![はじめて見る概念を10分で攻略する方法：純粋理解の9マステンプレート](/images/inline/column-understand-anything-in-10-minutes.jpg)
 
-<p class="inline-image-caption">資料に明記されている内容と、推定した内容を区別すること。</p>
+<p class="inline-image-caption">授業直前に必要なのは完璧な知識ではなく、何を聞けばよいかを見分ける基準だ。</p>
 
 ## この様式が違う点はちょうど三つ
 

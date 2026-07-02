@@ -10,7 +10,7 @@ build: {list: never, render: always}
 
 ![Una mano escribiendo a mano en un cuaderno](/images/col-start.jpg)
 
-<p class="inline-image-caption">Aquí dejo lo que no cabe en ella.</p>
+<p class="inline-image-caption">La escritura fuera del documento es un espacio para revelar qué problema estoy analizando, en lugar de proporcionar pruebas.</p>
 
 De día trabajo con materiales mediante cálculos. De noche, aquí escribo otra cosa.
 

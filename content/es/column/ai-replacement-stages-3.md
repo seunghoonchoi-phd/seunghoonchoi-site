@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![La autoridad de decidir no se entrega de golpe: etapas 9 a 14 de cómo la IA toma el trabajo](/images/col-ai-replacement-stages-3.jpg)
 
-<p class="inline-image-caption">Es si las personas pueden dejar esa decisión en manos de la IA.</p>
+<p class="inline-image-caption">El poder de decisión no lo determina la tabla de desempeño, sino quién será el responsable en caso de accidente.</p>
 
 Cuando en un hospital se toma una resonancia, la pantalla marca primero las zonas sospechosas. La IA revisa la imagen y señala el punto que parece anómalo. Pero la persona cuyo nombre queda al pie del diagnóstico sigue siendo el médico. La IA miró primero. La IA encontró la posible lesión. Aun así, la decisión final queda en manos humanas.
 
@@ -52,7 +52,7 @@ El problema no es que la IA diga una mentira obvia. Es que, sobre el papel, el d
 
 ![La autoridad de decidir no se entrega de golpe: etapas 9 a 14 de cómo la IA toma el trabajo](/images/inline/column-ai-replacement-stages-3.jpg)
 
-<p class="inline-image-caption">En ese momento el experto deja de ser quien verifica por completo a la IA y se vuelve quien une responsabilidad al resultado de la IA.</p>
+<p class="inline-image-caption">La posición del experto pasa de dar respuestas a asumir la responsabilidad de las respuestas.</p>
 
 ## Etapa 12, reemplazo de video y voz
 

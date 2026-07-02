@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Server racks in a server room, suggesting the electricity and control behind AI systems](/images/col-kim-joungho-ai-constitution.jpg)
 
-<p class="inline-image-caption">Professor Kim said that if AI ever treats humans as enemies or tries to dominate them, the final solution would be to cut the power.</p>
+<p class="inline-image-caption">The constitutional format turns the AI ​​discussion into clause-by-clause responsibilities rather than abstract slogans.</p>
 
 The text below is a reconstruction of the core remarks made by KAIST School of Electrical Engineering Professor Joungho Kim in his 2025 Kim Dae Jung Peace Forum special lecture, "Effective Development of AI and Peace Promotion," rewritten in the form of constitutional articles.
 
@@ -34,7 +34,7 @@ Just as humans die, AI should not remain forever. Kim suggested that after 100 y
 
 ![The Full Text of KAIST Professor Joungho Kim's 'AI Constitution'](/images/inline/column-kim-joungho-ai-constitution.jpg)
 
-<p class="inline-image-caption">Kim suggested that after 100 years, AI should destroy or shut itself down.</p>
+<p class="inline-image-caption">When we imagine intelligence lasting forever, control becomes a matter of time rather than performance.</p>
 
 ## Article 5. AI power use must be limited to the human level.
 

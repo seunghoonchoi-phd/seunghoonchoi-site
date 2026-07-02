@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![해질 무렵 도시의 교차로에 서서 세 갈래 길을 바라보는 사람](/images/col-learning-magic-numbers.jpg)
 
-<p class="inline-image-caption">정확한 법칙이라기보다, 감이 생기는 과정을 이해하기 위한 기준점에 가깝다.</p>
+<p class="inline-image-caption">새 분야의 감은 양보다 간격에서 생긴다. 서로 다른 사례가 부딪혀야 기준이 생긴다.</p>
 
 새 분야를 처음 배울 때 사람들은 자주 묻는다. “사례를 몇 개나 봐야 감이 잡힐까?” 많이 보면 될 것 같지만, 실제로는 그렇지 않다. 같은 종류의 사례를 백 개 봐도 머릿속은 그대로 정리가 안 될 수 있다.
 
@@ -46,7 +46,7 @@ reviewStatus: "done"
 
 ![새 분야는 많이 보는 게 아니라 다르게 봐야 한다: 매직넘버 3·7·30·100](/images/inline/column-learning-magic-numbers.jpg)
 
-<p class="inline-image-caption">감은 많은 사례에서 오는 것이 아니라, 서로 다른 사례를 비교할 때 생긴다.</p>
+<p class="inline-image-caption">비교하지 않은 사례 백 개보다, 차이가 보이는 사례 서른 개가 더 빨리 가르친다.</p>
 
 ## 100번은 반복이 아니라 피드백이다
 

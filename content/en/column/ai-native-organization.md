@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![A geometric building facade: what it means to rebuild an organization from the ground up](/images/col-ai-native-org.jpg)
 
-<p class="inline-image-caption">If the moment you remove AI your speed, your structure, your cost, and your product experience all collapse, that's an AI-native organization.</p>
+<p class="inline-image-caption">An AI native organization is not a list of tools, but an organization in which the order in which work flows has changed.</p>
 
 When someone asks me what an AI-native organization is, I ask back. What happens to your company if you strip out all the AI you use right now? If things just get a bit slower, you're a company that uses AI. If the moment you remove AI your speed, your structure, your cost, and your product experience all collapse, that's an AI-native organization.
 
@@ -46,7 +46,7 @@ The core is just one thing. AI pulls the draft and assists the judgment. The fin
 
 ![Plenty of Companies Use AI. The One That Stops Without It Is AI-Native.](/images/inline/column-ai-native-organization.jpg)
 
-<p class="inline-image-caption">The final responsibility is always a person's.</p>
+<p class="inline-image-caption">Only when a responsible person remains, automation can be transformed into actual decisions within the organization.</p>
 
 ## The gap starts to widen at stage 3
 

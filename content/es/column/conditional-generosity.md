@@ -19,7 +19,7 @@ faq:
 
 ![Una mano extendida hacia un cielo de atardecer cálido, sosteniendo el sol entre los dedos](/images/col-conditional-generosity.jpg)
 
-<p class="inline-image-caption">Y hacia dónde hay que desviar ese impulso de criticar y de hablar mal a espaldas que de pronto te sube.</p>
+<p class="inline-image-caption">La amabilidad no se trata de eliminar líneas, sino de informar el costo a quienes las cruzan.</p>
 
 Quiero ser buena persona. Pero, siendo sincero, yo también a veces quiero hablar mal de alguien. Quiero criticar a alguien a sus espaldas. Y a quien se empeña en hacerme daño, quiero devolvérselo igual. Estas dos ganas llevan mucho tiempo peleando dentro de mí. Una parte dice: "Aun así, hay que ser bueno". La otra dice: "¿Entonces tengo que aguantar callado toda la vida?".
 
@@ -69,7 +69,7 @@ Primero, reduce lo que muestras. Que él no conozca tus planes, tus puntos débi
 
 ![Cómo ser buena persona sin que te tomen el pelo: hasta los santos sacan la espada ante un canalla](/images/inline/column-conditional-generosity.jpg)
 
-<p class="inline-image-caption">Muchas veces vale más cambiar de partida que empeñarse en ganar dentro de ella.</p>
+<p class="inline-image-caption">La verdadera distancia no es el momento de odiar a la otra persona, sino el momento de recuperar tu día.</p>
 
 ## El impulso de despellejar conviértelo en información
 

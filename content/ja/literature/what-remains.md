@@ -8,7 +8,7 @@ reviewStatus: "done"
 
 ![Raindrops on a window](/images/lit-remains.jpg)
 
-<p class="inline-image-caption">それはほんとうに 星をうたう心より大切だったのだろうか?</p>
+<p class="inline-image-caption">残るものが少ないほど、愛するという言葉は軽い慰めではなく最後の選択になる。</p>
 
 <div class="poem">
 <p>たぶんいちばん大切なのは<br>

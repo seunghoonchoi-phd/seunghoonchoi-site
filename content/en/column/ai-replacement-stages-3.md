@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![Decision authority does not move all at once: stages 9 to 14 of AI taking work](/images/col-ai-replacement-stages-3.jpg)
 
-<p class="inline-image-caption">The question becomes whether people can entrust the decision to AI.</p>
+<p class="inline-image-caption">The decision-making power is not determined by the performance table, but by who will be responsible in the event of an accident.</p>
 
 When you get an MRI at a hospital, the suspicious areas may be marked on the screen first. AI scans the image and points to spots that look abnormal. But the person who writes their name at the bottom of the diagnosis and takes responsibility is still the doctor. AI saw the image first. AI found the abnormal region. But the final decision authority remains with a person.
 
@@ -52,7 +52,7 @@ The problem is not AI openly saying something false. It is a case where the logi
 
 ![Decision Authority Does Not Move All at Once: Stages 9 to 14 of AI Taking Work](/images/inline/column-ai-replacement-stages-3.jpg)
 
-<p class="inline-image-caption">They become someone who attaches responsibility to an AI result.</p>
+<p class="inline-image-caption">The expert's position moves from providing answers to taking responsibility for the answers.</p>
 
 ## Stage 12, replacement of video and voice
 

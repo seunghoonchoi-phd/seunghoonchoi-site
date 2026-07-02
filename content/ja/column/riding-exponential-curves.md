@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![夕暮れの海で、波の力を推進力に変えて乗りこなすサーファー](/images/col-riding-exponential-curves.jpg)
 
-<p class="inline-image-caption">大事なのは、自分が働き続けなくても残って、お金とチャンスを生んでくれるかどうかです。</p>
+<p class="inline-image-caption">給料は通り過ぎるお金で、資産は自分が働かない時間にも残る結果だ。</p>
 
 給料は大切です。今日を生きていけるようにしてくれて、暮らしが崩れないように支えてくれます。でも、給料だけで金持ちになるのは難しい。自分が働いた時間の分しか入ってこないからです。
 
@@ -34,7 +34,7 @@ AI、バイオ、プラットフォーム、金融のように、これから大
 
 ![給料だけでは金持ちになれない。複利で増える資産のつくり方](/images/inline/column-riding-exponential-curves.jpg)
 
-<p class="inline-image-caption">肝心なのは、お金を素通りさせず、自分の名で残る何かに変えることです。</p>
+<p class="inline-image-caption">お金より先に残すべきなのは、次の機会が自分を見つけに来る痕跡だ。</p>
 
 ## 複利で増える資産の選び方
 

@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![夕阳下的海面，冲浪者把海浪的力量转成推进力](/images/col-riding-exponential-curves.jpg)
 
-<p class="inline-image-caption">所以从某个时刻开始，必须把工作赚来的钱，换成替我继续工作的资产。</p>
+<p class="inline-image-caption">工资是流逝的金钱，资产是即使我不工作时仍然存在的结果。</p>
 
 工资很重要。它让人当下生活下去，也支撑生活不崩。但只靠工资，很难变富。因为工资只按我工作的时间进来。
 
@@ -34,7 +34,7 @@ AI、生物、平台、金融这类未来会变大的领域确实存在。但在
 
 ![只靠工资成不了富人：如何做出按复利增长的资产](/images/inline/column-riding-exponential-curves.jpg)
 
-<p class="inline-image-caption">有些资产过了时间仍然没什么变化，有些资产会随着时间更容易增值。</p>
+<p class="inline-image-caption">在赚钱之前你需要留下的是痕迹，它将引导下一次机会找到你。</p>
 
 ## 如何选择按复利增长的资产
 

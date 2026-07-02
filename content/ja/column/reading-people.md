@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![温かい照明の下、テーブルをはさんで身ぶりを交えながら語り合う二人](/images/col-reading-people.jpg)
 
-<p class="inline-image-caption">たしかに正しいことを言ったのに、部屋の雰囲気は説得ではなく、争いの方へ変わっていく。</p>
+<p class="inline-image-caption">論理が正しくても、相手の損と面子に触れた瞬間、説得は止まる。</p>
 
 ## 正論を言うほど相手は粘る
 
@@ -39,7 +39,7 @@ build: {list: never, render: always}
 
 ![人は論理では動かない。損得、メンツ、責任を読め](/images/inline/column-reading-people.jpg)
 
-<p class="inline-image-caption">その恐れをまずなだめなければ、どんなにいい提案も脅しにしか聞こえない。</p>
+<p class="inline-image-caption">よい提案は正しい言葉より、相手が失うものを先に減らす時に動き出す。</p>
 
 ## 論理より、損得・メンツ・責任が先
 

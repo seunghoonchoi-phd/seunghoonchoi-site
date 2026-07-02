@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![An empty meeting table turned into a place for observing someone else's meeting](/images/col-meetings.jpg)
 
-<p class="inline-image-caption">The meeting keeps moving forward while you feel like someone dropped into the middle.</p>
+<p class="inline-image-caption">Watching other people’s meetings is not just watching, but training to read what the organization considers important.</p>
 
 When you walk into a work meeting for the first time, most of it is hard to follow. You know only a few words, and everyone else talks as if they already share the context. The meeting keeps moving forward while you feel like someone dropped into the middle.
 
@@ -54,7 +54,7 @@ Once this split exists, the work becomes much clearer. Decisions become the basi
 
 ![How to Use AI to Understand a New Work Meeting from the Transcript](/images/inline/column-observing-others-meetings.jpg)
 
-<p class="inline-image-caption">Items to confirm become your homework.</p>
+<p class="inline-image-caption">The moment there is a difference between decision and undecided, meeting minutes go beyond recording and decide the next action.</p>
 
 ## Break the issues down MECE
 

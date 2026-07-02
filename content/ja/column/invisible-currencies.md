@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![市場の露店で、商人が客に切ったばかりの果物を一切れ手渡している様子](/images/col-invisible-currencies.jpg)
 
-<p class="inline-image-caption">どれだけ仕事ができても、相手にその実力を確かめる方法がなければ、ほとんど無いものと同じように扱われます。</p>
+<p class="inline-image-caption">検証がなければ、実力は相手に費用を押し付ける主張に見えるだけだ。</p>
 
 実力は単独では表に出てきません。実力は誰かに確認されて、はじめてきちんと評価されます。どれだけ仕事ができても、相手にその実力を確かめる方法がなければ、ほとんど無いものと同じように扱われます。
 
@@ -60,7 +60,7 @@ reviewStatus: "done"
 
 ![実力より『検証』が先だ：信頼と評判がチャンスを左右する理由](/images/inline/column-invisible-currencies.jpg)
 
-<p class="inline-image-caption">検証された実力は、相手のリスクを減らしてくれるから、その分だけ高く評価されます。</p>
+<p class="inline-image-caption">評判は褒め言葉ではなく、相手が危険を小さく感じるための装置だ。</p>
 
 ## いい実力は証拠として残すべきだ
 

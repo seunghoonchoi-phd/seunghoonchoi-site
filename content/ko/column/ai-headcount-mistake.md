@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![아침 햇살이 비치는 사무실에 비어 있는 의자들이 책상 앞에 줄지어 놓여 있다](/images/col-ai-headcount-mistake.jpg)
 
-<p class="inline-image-caption">이 단계를 보지 않고 사람부터 줄이면 회사는 빨라지지 않는다.</p>
+<p class="inline-image-caption">빈 의자는 비용을 줄인 흔적이지만, 동시에 사라진 맥락의 자리일 수 있다.</p>
 
 회사에서 AI 도구를 도입하면 꼭 나오는 말이 있다. “그럼 이제 몇 명 줄일 수 있죠?” 겉으로는 말이 되는 질문처럼 들린다. AI가 보고서도 쓰고, 회의록도 정리하고, 자료 조사도 하고, 코드도 짜고, 기획안도 만들어 주기 때문이다. 어떤 일은 정말 사람보다 빠르게 한다.
 
@@ -79,7 +79,7 @@ AI를 잘못 도입한 회사는 한동안 좋아 보인다.
 
 ![AI 가 일을 한다고 사람 줄이면 회사가 느려진다: 사회적 동물만이 아는 맥락](/images/inline/column-ai-headcount-mistake.jpg)
 
-<p class="inline-image-caption">누군가 그 맥락을 알고 있어야 AI 결과물도 현실에 맞게 고쳐진다.</p>
+<p class="inline-image-caption">사람을 줄인 뒤에야 보이는 지식은, 이미 복구 비용이 붙은 지식이다.</p>
 
 ## 중간급을 줄이면 회사의 기억이 사라진다
 

@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![空会议桌，把别人的会议变成观察现场](/images/col-meetings.jpg)
 
-<p class="inline-image-caption">用 AI 分析转写或会议纪要，把目的、争点、决定事项、未定事项、判断标准、术语、负责人、下一步行动拆到互不重叠为止。</p>
+<p class="inline-image-caption">观看其他人的会议不仅仅是观看，而是训练如何阅读组织认为重要的内容。</p>
 
 第一次进入陌生业务会议，大多数人都会发懵。认识的词没几个，其他人却都默认你清楚背景在说话。会议一路推进，自己却完全跟不上。
 
@@ -54,7 +54,7 @@ reviewStatus: "done"
 
 ![第一次接触的工作，如何用 AI 分析会议转写来把握结构](/images/inline/column-observing-others-meetings.jpg)
 
-<p class="inline-image-caption">已决定的事会成为行动标准，未定事项会成为下一次会议争点，需要确认的事则是自己要学习或追问的作业。</p>
+<p class="inline-image-caption">当决定和未决定之间存在差异时，会议纪要不仅仅是记录并决定下一步行动。</p>
 
 ## 要把争点拆得 MECE
 

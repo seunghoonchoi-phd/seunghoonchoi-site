@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![Passport and travel documents](/images/uf2-visa.jpg)
 
-<p class="inline-image-caption">今回は、F-1の身分維持要件(Maintaining F-1 Status)から、空港での入国審査(POE, Port of Entry)、到着直後のISSS(International Student Services)オンラインチェックイン、政府手数料、そして空港からゲインズビルまでの移動ルートを、順を追ってまとめます。</p>
+<p class="inline-image-caption">入国準備はビザ一枚より、その書類をいつどこで見せるかを知ることに近い。</p>
 
 F-1の身分は、合格通知を受け取った瞬間に終わるものではなく、アメリカに滞在しているあいだずっと守らなければならない条件です。ビザ面接を通過すると安心しがちですが、実際には飛行機に乗る前に書類をどう準備するか、I-20のプログラム開始日から30日以内のチェックインをどう済ませるかで結果が分かれます。今回は、F-1の身分維持要件(Maintaining F-1 Status)から、空港での入国審査(POE, Port of Entry)、到着直後のISSS(International Student Services)オンラインチェックイン、政府手数料、そして空港からゲインズビルまでの移動ルートを、順を追ってまとめます。
 
@@ -51,7 +51,7 @@ CBP(U.S. Customs and Border Protection, アメリカ税関国境警備局)の審
 
 ![F-1ビザとアメリカ入国:身分維持の要件から空港到着まで](/images/inline/career-uf-guide-2-f1-visa-entry.jpg)
 
-<p class="inline-image-caption">書類が一部しかそろっていない場合、CBPが Form I-515A(Notice to Student or Exchange Visitor, 30日間の仮入国書類) を発行することがあります。</p>
+<p class="inline-image-caption">空港での小さな書類漏れは、到着初日の時間を丸ごと奪うことがある。</p>
 
 ## 到着後の必須手続き：ISSSオンラインチェックイン
 

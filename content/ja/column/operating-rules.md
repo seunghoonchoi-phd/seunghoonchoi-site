@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![窓際からやわらかい光が差し込む空っぽの会議室、テーブルのまわりに椅子がそれぞれ違う角度で置かれている](/images/col-operating-rules.jpg)
 
-<p class="inline-image-caption">その案を採用した瞬間、去年それと逆方向に押し進めた部長が、間違っていた人になってしまうからだ。</p>
+<p class="inline-image-caption">会議で落ちた案は、質より誰かの面子を傷つけたせいで押し出されることがある。</p>
 
 ## 良い案は部長のメンツで落ちる
 
@@ -35,7 +35,7 @@ build: {list: never, render: always}
 
 ![いちばん良い案が会議で落ちる本当の理由](/images/inline/column-operating-rules.jpg)
 
-<p class="inline-image-caption">ルールの文字ではなく、ルールが本当に果たしている役目を読んだのだ。</p>
+<p class="inline-image-caption">本当のルールは文書に書かれた文ではなく、人々が実際に避け、選ぶ方向だ。</p>
 
 ## 高い業者を使う、役員のメンツのために
 

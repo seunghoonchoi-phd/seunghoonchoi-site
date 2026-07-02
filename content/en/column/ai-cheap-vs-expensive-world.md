@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Industrial robots working around an automobile body in a factory](/images/col-ai-cheap-vs-expensive-world.jpg)
 
-<p class="inline-image-caption">Current AI is strongest when it can try many times, compare results, and find the direction where the score improves.</p>
+<p class="inline-image-caption">The rules of the checkerboard are clean, but the risks on the factory floor are not directly converted into scores.</p>
 
 Whenever people talk about the AI that beat the world's best Go players, the same question comes up: "At this level, isn't it about to take every human job?"
 
@@ -62,7 +62,7 @@ So machines can become strong in average situations. They learn quickly in commo
 
 ![AI Beat Go. Why Is Welding Still Hard? Humans Stop, Machines Repeat](/images/inline/column-ai-cheap-vs-expensive-world.jpg)
 
-<p class="inline-image-caption">But weaknesses remain in rare signals right before an accident, exceptions outside the model, and risk judgments that are hard to score.</p>
+<p class="inline-image-caption">The more a machine tries, the more expensive it becomes for a human to recognize the moment to stop.</p>
 
 ## Digital twins give machines a practice field
 

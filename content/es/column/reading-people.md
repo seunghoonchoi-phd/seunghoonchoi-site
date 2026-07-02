@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![Dos personas conversan con gestos a ambos lados de una mesa bajo una luz cálida](/images/col-reading-people.jpg)
 
-<p class="inline-image-caption">Rebota porque toca otra cosa dentro del otro.</p>
+<p class="inline-image-caption">Incluso si la lógica es correcta, la persuasión se detiene inmediatamente si causa daño a la otra persona y daña su reputación.</p>
 
 ## Cuanto más razón tienes, más se resiste el otro
 
@@ -39,7 +39,7 @@ Esto sirve para las dos direcciones. Se puede usar para presionar a la gente con
 
 ![A las personas no las mueve la lógica. Lee el miedo a perder, el orgullo y la responsabilidad](/images/inline/column-reading-people.jpg)
 
-<p class="inline-image-caption">Si no calmas primero ese miedo, hasta la mejor propuesta suena solo a amenaza.</p>
+<p class="inline-image-caption">Una buena propuesta avanza cuando reduce primero la pérdida de la otra parte, en lugar de decir lo correcto.</p>
 
 ## Antes que la lógica vienen el beneficio, la pérdida, el orgullo y la responsabilidad
 

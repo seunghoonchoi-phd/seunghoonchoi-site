@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![How to survive the AI era: bet on credentials and ownership, not skill alone](/images/col-ai-replacement-stages-5.jpg)
 
-<p class="inline-image-caption">Convert skill into credentials, responsible seats, and ownership.</p>
+<p class="inline-image-caption">Skills may disappear, but qualifications, authority, and stake remain longer.</p>
 
 Put one sentence into a translation app, and a plausible English sentence comes out in seconds. If you spent years studying English, that can sting. An ability you built over years now seems available to anyone at the press of a button. That scene summarizes the previous four pieces in one line.
 
@@ -80,7 +80,7 @@ So in the AI era, it is not enough to ask, "What will I be good at?" Ask, "What 
 
 ![How to Survive the AI Era: Bet on Credentials and Ownership, Not Skill Alone](/images/inline/column-ai-replacement-stages-5.jpg)
 
-<p class="inline-image-caption">But what you turned into ownership while you were ahead remains longer.</p>
+<p class="inline-image-caption">In the AI ​​era, positions go to those who bind results under their responsibility rather than those who are good at their work.</p>
 
 ## Top stars and ordinary workers are playing different games
 

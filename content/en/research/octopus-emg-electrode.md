@@ -11,7 +11,7 @@ reviewStatus: "done"
 ---
 ![Octopus-inspired adhesive electrode for EMG-based robotic control under dry and wet conditions](/images/octopus-emg-electrode.jpg)
 
-<p class="inline-image-caption">It addresses the detachment and signal degradation that limit EMG-based control of prosthetics and wearable robots.</p>
+<p class="inline-image-caption">Electrodes that stick even on wet skin create conditions closer to wearable robots outside the laboratory.</p>
 
 A co-first-authored paper presents an octopus-inspired adhesive electrode whose microstructured suction architecture keeps conformal skin contact and stable EMG signals under both dry and wet conditions. It addresses the detachment and signal degradation that limit EMG-based control of prosthetics and wearable robots.
 

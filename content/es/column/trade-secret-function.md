@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Las manos de un alfarero moldeando barro húmedo sobre el torno, el instante en que la presión mínima de los dedos decide el resultado](/images/col-trade-secret-function.jpg)
 
-<p class="inline-image-caption">Y por eso, en la era de la IA, se copia aún más rápido.</p>
+<p class="inline-image-caption">Las respuestas de IA son fáciles, pero el conocimiento se crea desde el momento en que la respuesta se convierte en realidad.</p>
 
 Toda la receta apareció en internet. Están anotados los gramos, la intensidad del fuego, los tiempos. Pero la cocinas igual y no sabe como en aquel sitio. Tienes toda la información y aun así no sale el resultado. ¿Por qué?
 
@@ -54,7 +54,7 @@ Este mapa del fracaso no aparece ni en el producto terminado, ni en el artículo
 
 ![Por qué la copia nunca sabe igual. En la era de la IA, la verdadera ventaja está en otra parte](/images/inline/column-trade-secret-function.jpg)
 
-<p class="inline-image-caption">Pero lo que de verdad te ahorra tiempo la próxima vez que haces algo parecido no es ese único punto de éxito, sino justo esa línea de frontera.</p>
+<p class="inline-image-caption">La razón por la cual los resultados varían incluso cuando se usa la misma herramienta es porque lo que se solucionó después de la falla es diferente.</p>
 
 ## La explicación se copia, pero la ejecución no se reproduce
 
