@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Un gráfico del Nasdaq Composite subiendo y cayendo alrededor de la burbuja puntocom entre 1994 y 2005](/images/col-dotcom-bubble-ai-bubble.png)
 
+<p class="inline-image-caption">Dejó de preguntar "cuánto puede crecer" y empezó a preguntar "cuánto efectivo conserva".</p>
+
 El 20 de marzo de 2000, Barron's puso en portada una advertencia bastante cruel. Las empresas de internet estaban quemando efectivo demasiado rápido. Diez días antes, el Nasdaq había marcado su máximo. El mercado todavía creía en la "nueva economía", pero alguien ya estaba haciendo las cuentas.
 
 ¿Cuántos meses podían aguantar esas empresas sin la siguiente ronda de financiación?
@@ -48,7 +50,7 @@ Las empresas que no puedan responder tendrán problemas. Algunas tienen ingresos
 
 ![Repasar la burbuja puntocom y compararla con la burbuja de la IA](/images/inline/column-dotcom-bubble-ai-bubble.jpg)
 
-<p class="inline-image-caption">Repasar la burbuja puntocom y compararla con la burbuja de la IA</p>
+<p class="inline-image-caption">Parecen empresas tecnológicas, pero si suben los tipos, parecen empresas que queman efectivo.</p>
 
 ## Esta vez la memoria sigue viva
 

@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![1994년부터 2005년까지 나스닥 지수가 닷컴 버블 전후로 급등락한 차트](/images/col-dotcom-bubble-ai-bubble.png)
 
+<p class="inline-image-caption">시장은 아직 "새 경제"를 믿고 있었지만, 누군가는 이미 계산기를 두드리고 있었다.</p>
+
 2000년 3월 20일, Barron's 표지에는 꽤 잔인한 경고가 실렸다. 인터넷 회사들이 현금을 너무 빨리 태우고 있다는 이야기였다. 열흘 전 나스닥은 최고점을 찍었다. 시장은 아직 “새 경제”를 믿고 있었지만, 누군가는 이미 계산기를 두드리고 있었다.
 
 이 회사들, 다음 투자 없으면 몇 달이나 버티지?
@@ -48,7 +50,7 @@ AI도 지금 비슷한 질문 앞에 있다. AI가 세상을 바꿀지는 핵심
 
 ![닷컴 버블에 대한 복습, 그리고 AI 버블과의 비교](/images/inline/column-dotcom-bubble-ai-bubble.jpg)
 
-<p class="inline-image-caption">닷컴 버블에 대한 복습, 그리고 AI 버블과의 비교</p>
+<p class="inline-image-caption">이들은 기술 회사처럼 보이지만, 금리가 오르면 현금 소모 회사로 보인다.</p>
 
 ## 이번에는 기억이 남아 있다
 

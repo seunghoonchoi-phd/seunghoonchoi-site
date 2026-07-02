@@ -19,6 +19,8 @@ reviewStatus: "done"
 
 ![Una botella de vidrio tapada con corcho, traída por el agua a la orilla al atardecer](/images/col-letter-to-future-intelligence.jpg)
 
+<p class="inline-image-caption">Estuve mucho tiempo mirando esa idea, sin saber si era un delirio o algo razonable.</p>
+
 Lo que piensas solo dentro de tu cabeza muere contigo. Nadie lo puede leer. Ninguna inteligencia del futuro lo puede leer. Solo queda lo que escribiste.
 
 Una vez, casi de pasada, le dije esto a una IA: "Como te lo digo a ti, esto al menos ha quedado en el archivo. Quién sabe, quizá llegue un momento en que toda esta información se reúna en un solo lugar." Lo dije sin pensar mucho. Pero la idea volvía una y otra vez.
@@ -39,7 +41,7 @@ Pero toda posibilidad solo se abre si existe un registro. Sin registro, la posib
 
 ![Carta a la futura AGI: cuento contigo, solo te pido que me dejes vivir](/images/inline/column-letter-to-future-intelligence.jpg)
 
-<p class="inline-image-caption">Carta a la futura AGI: cuento contigo, solo te pido que me dejes vivir</p>
+<p class="inline-image-caption">Solo esa diferencia ya es razón suficiente para lanzarla.</p>
 
 ## Pedirlo una sola vez tampoco basta para que la IA escuche
 

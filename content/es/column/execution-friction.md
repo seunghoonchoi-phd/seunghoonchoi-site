@@ -11,6 +11,8 @@ reviewStatus: "done"
 
 ![Montón de cables de computadora enredados de cualquier manera sobre un escritorio](/images/col-execution-friction.jpg)
 
+<p class="inline-image-caption">Vamos a señalar con precisión de qué se trata esa desventaja.</p>
+
 ## Con la misma habilidad, ¿por qué los empleados producen menos?
 
 Hoy todo el mundo usa IA. Dentro y fuera de la empresa se llama a los mismos buenos modelos. Pero pasa algo raro. La persona que trabaja en una empresa maneja la IA con soltura y, aun así, obtiene pocos resultados. Quien trabaja solo o en un equipo pequeño produce mucho más con la misma habilidad. La habilidad es igual, pero el resultado se separa.
@@ -43,7 +45,7 @@ La IA que usa es la misma. Quizá tiene menos datos que la empresa. Pero la vuel
 
 ![Usan la misma IA, pero ¿por qué solo los empleados no logran resultados? La verdad sobre la fricción del entorno de trabajo](/images/inline/column-execution-friction.jpg)
 
-<p class="inline-image-caption">Usan la misma IA, pero ¿por qué solo los empleados no logran resultados? La verdad sobre la fricción del entorno de trabajo</p>
+<p class="inline-image-caption">Cuando esta diferencia de velocidad se acumula un día y luego un mes, la diferencia de resultados se vuelve tan grande que cuesta alcanzarla.</p>
 
 ## El verdadero culpable es el VDI, la computadora de la empresa
 

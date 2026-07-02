@@ -10,6 +10,8 @@ reviewStatus: "done"
 ---
 ![A magnifying glass beside a laptop](/images/col-qa.jpg)
 
+<p class="inline-image-caption">Word 文档里，本该删掉的 Markdown 符号还原样留着。</p>
+
 文字超出了幻灯片边界。直到发送前一刻，我才看见。
 
 Excel 里还留着 `#REF!` 错误，表格边框有的单元格有、有的没有。Word 文档里，本该删掉的 Markdown 符号还原样留着。这不是审美问题，而是结果坏掉了。
@@ -44,7 +46,7 @@ AI 生成的 Office 文件常有这类失误。所以审核工具是需要的。
 
 ![AI 结果审核的陷阱：别为了抓错误，降低结果的上限](/images/inline/column-dont-lobotomize-the-model.jpg)
 
-<p class="inline-image-caption">AI 结果审核的陷阱：别为了抓错误，降低结果的上限</p>
+<p class="inline-image-caption">AI 生成 Office 文件时，很多缺陷来自它看不到最终结果。</p>
 
 ## 不是所有问题都能黑白分明
 

@@ -10,6 +10,8 @@ reviewStatus: "done"
 ---
 ![Una lupa junto a un portátil](/images/col-qa.jpg)
 
+<p class="inline-image-caption">El problema es decidir hasta dónde deben intervenir.</p>
+
 El texto se salía de la diapositiva. Lo vi justo antes de enviarla.
 
 En Excel todavía quedaba un error `#REF!`, y los bordes de la tabla aparecían en unas celdas sí y en otras no. En un documento de Word seguían visibles símbolos de Markdown que debían haber desaparecido. Eso no es una cuestión de gusto. El resultado está roto.
@@ -44,7 +46,7 @@ La idea es simple. Si hasta un modelo mejor intentaría evitar ese fallo, hay qu
 
 ![La trampa de revisar resultados de IA: no bajes el techo mientras corriges errores](/images/inline/column-dont-lobotomize-the-model.jpg)
 
-<p class="inline-image-caption">La trampa de revisar resultados de IA: no bajes el techo mientras corriges errores</p>
+<p class="inline-image-caption">Pero si un modelo mejor podría elegirlo deliberadamente, la herramienta no debe bloquearlo.</p>
 
 ## No todo se divide en blanco y negro
 

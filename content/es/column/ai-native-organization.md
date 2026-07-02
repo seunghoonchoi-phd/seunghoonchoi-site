@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![Estructura geométrica de un edificio, lo que significa reconstruir una organización desde cero](/images/col-ai-native-org.jpg)
 
+<p class="inline-image-caption">Si en el momento en que quitas la IA ya no se sostienen la velocidad, la estructura, los costos y la experiencia del producto, eso es una organización nativa de IA.</p>
+
 Cuando me preguntan qué es una organización nativa de IA, yo respondo con otra pregunta. Si quitamos toda la IA que usan ahora, ¿qué le pasa a la empresa? Si solo se vuelve un poco más lenta, entonces es simplemente una empresa que usa IA. Si en el momento en que quitas la IA ya no se sostienen la velocidad, la estructura, los costos y la experiencia del producto, eso es una organización nativa de IA.
 
 ## La empresa que le pone IA encima y la que se reconstruye
@@ -44,7 +46,7 @@ La clave es una sola. Sacar el borrador y ayudar a juzgar lo hace la IA; la resp
 
 ![Hay muchas empresas que usan IA. La 'organización nativa de IA' es la que se detiene sin ella](/images/inline/column-ai-native-organization.jpg)
 
-<p class="inline-image-caption">Hay muchas empresas que usan IA. La 'organización nativa de IA' es la que se detiene sin ella</p>
+<p class="inline-image-caption">Sacar el borrador y ayudar a juzgar lo hace la IA; la responsabilidad final siempre es de la persona.</p>
 
 ## La brecha se abre a partir del nivel 3
 

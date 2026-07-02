@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Un profesor da clase frente a una pizarra de mecanica cuantica mientras un estudiante entre muchos se siente abrumado por preguntas sin respuesta](/images/col-questions-lifeline.png)
 
+<p class="inline-image-caption">Era la sensacion de por que ese calculo estaba permitido, y de que mundo venian esos simbolos.</p>
+
 Cuando estudie mecanica cuantica en ingenieria, en la pizarra aparecian primero ecuaciones como estas.
 
 <div class="formula-block">
@@ -50,7 +52,7 @@ En la competencia de examenes de alto nivel, esa diferencia se agranda. Algunos 
 
 ![Un salvavidas para quienes hacen demasiadas preguntas](/images/inline/column-questions-lifeline.jpg)
 
-<p class="inline-image-caption">Un salvavidas para quienes hacen demasiadas preguntas</p>
+<p class="inline-image-caption">Los examenes antiguos favorecian a ese tipo intuitivo.</p>
 
 ## No habia quien recibiera las preguntas
 

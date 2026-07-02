@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![暖光下，两个人隔着桌子，一边比划手势一边交谈](/images/col-reading-people.jpg)
 
+<p class="inline-image-caption">对的话被弹回来，不是因为它错了，而是因为它戳到了对方别的地方。</p>
+
 ## 越说对，对方越要顶着干
 
 开会的时候。有人把材料投到屏幕上，说："这个方向是错的，数据就这么说的。"屏幕上的数字干净利落，逻辑一点漏洞都没有。可怪事来了。对面那个人脸一沉，把胳膊一抱，声音压低了半度。你拿出来的材料越精细，他就绷得越紧。明明说的是对的话，屋里的气氛却不是在说服，而是在吵架。
@@ -37,7 +39,7 @@ build: {list: never, render: always}
 
 ![人不靠逻辑动起来，要读懂他的损失、面子和责任](/images/inline/column-reading-people.jpg)
 
-<p class="inline-image-caption">人不靠逻辑动起来，要读懂他的损失、面子和责任</p>
+<p class="inline-image-caption">劝人用一件新工具，你把以后会变好的样子说上一百句，他还是磨磨蹭蹭；可你把眼下这套做法每个月悄悄漏掉的时间摆到他面前，他这才肯动。</p>
 
 ## 比起逻辑，先想得失、面子、责任
 

@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![An empty conference room in soft window light, chairs sitting at different angles around the table](/images/col-operating-rules.jpg)
 
+<p class="inline-image-caption">Because the moment you adopt that idea, the manager who pushed the opposite way last year becomes the guy who was wrong.</p>
+
 ## The best idea dies to save the boss's face
 
 It's a scene everyone has watched at least once. A junior shows up with the cleanest idea in the room. The numbers are right, the logic has no holes. The presentation ends and the room goes quiet for a moment. Then someone clears their throat: "The direction is good, but realistically..." An hour later, the thing that actually passes is some half-baked compromise. The junior walks out of the room thinking: are they all idiots, or did I miss something?
@@ -33,7 +35,7 @@ Here the naive person makes one of two mistakes. They stubbornly get every advan
 
 ![The Real Reason the Best Idea Loses the Meeting](/images/inline/column-operating-rules.jpg)
 
-<p class="inline-image-caption">The Real Reason the Best Idea Loses the Meeting</p>
+<p class="inline-image-caption">They've read not the letter of the rule, but what the rule actually does.</p>
 
 ## They pick the pricey vendor to save an executive's face
 

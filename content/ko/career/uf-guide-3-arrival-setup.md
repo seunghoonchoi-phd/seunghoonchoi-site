@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![Moving boxes and luggage at a new place](/images/uf3-arrival.jpg)
 
+<p class="inline-image-caption">앞 단계가 뒤 단계의 전제가 되는 경우가 많으니, 가능하면 순서를 지키는 편이 매끄럽습니다.</p>
+
 미국 대학원에 도착했다면 비자와 집, 계정 같은 어려운 건 다 지나간 셈입니다. 그다음은 생활을 굴러가게 하는 행정 잡무인데, 순서를 잘못 잡으면 뒤가 줄줄이 막힙니다. 휴대폰이 없으면 은행 개설이 번거롭고, 은행이 없으면 카드가 안 만들어지고, SSN이 없으면 일부 은행·면허·신용카드 절차가 번거로워질 수 있습니다. 그래서 이 글은 University of Florida(UF) 정착 경험을 바탕으로 휴대폰 → 은행 → SSN → 플로리다 운전면허 → 신용 쌓기 순서를 그대로 따라가며, 각 단계에서 뭘 챙겨 가고 뭘 조심해야 하는지 정리했습니다.
 
 > 추천 순서: 휴대폰 → 은행 → I-94/체크인 → SSN → 면허 → 신용카드. 앞 단계가 뒤 단계의 전제가 되는 경우가 많으니, 가능하면 순서를 지키는 편이 매끄럽습니다.
@@ -42,7 +44,7 @@ build: {list: never, render: always}
 
 ![미국 대학원 정착 가이드 Part 3: 도착 후 행정 절차 순서, 휴대폰·은행·SSN·면허·신용](/images/inline/career-uf-guide-3-arrival-setup.jpg)
 
-<p class="inline-image-caption">미국 대학원 정착 가이드 Part 3: 도착 후 행정 절차 순서, 휴대폰·은행·SSN·면허·신용</p>
+<p class="inline-image-caption">캠퍼스 인근에 지점·ATM이 얼마나 많은지로 고르면 일상에서 가장 편합니다.</p>
 
 ## 3. SSN (사회보장번호)
 

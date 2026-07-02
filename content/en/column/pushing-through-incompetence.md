@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![A beginner's awkward hands starting violin practice alone in a quiet room](/images/col-pushing-through-incompetence.jpg)
 
+<p class="inline-image-caption">It looked easy when someone explained it, but the moment you try it yourself, everything tangles.</p>
+
 When you learn something new, the first feeling is not interest. It is incompetence. You think you understand it in your head, but your hands do not follow. Everyone else seems to do it easily, while you stumble. It looked easy when someone explained it, but the moment you try it yourself, everything tangles.
 
 Many people quit there. They do not quit because they cannot do it. They quit because the feeling of not being able to do it is too unpleasant. More than the fact that they lack skill, they cannot stand the moment when they feel like a person without skill.
@@ -44,7 +46,7 @@ Once the weak point is precise, the training method appears. If the first senten
 
 ![The Person Who Can Stand Feeling Bad at Something Eventually Gets Better](/images/inline/column-pushing-through-incompetence.jpg)
 
-<p class="inline-image-caption">The Person Who Can Stand Feeling Bad at Something Eventually Gets Better</p>
+<p class="inline-image-caption">If your hands freeze, repeat the exact movement slowly.</p>
 
 ## Break it small and it becomes bearable
 

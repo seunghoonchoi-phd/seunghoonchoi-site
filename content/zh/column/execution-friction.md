@@ -11,6 +11,8 @@ reviewStatus: "done"
 
 ![书桌上乱成一团、缠在一起的电脑线缆和电线](/images/col-execution-friction.jpg)
 
+<p class="inline-image-caption">用着同样的AI能力，上班族从一开始就处在更吃亏的条件里。</p>
+
 ## 能力一样，为什么只有上班族产出少
 
 如今人人都在用AI。在公司里、在公司外，调用的都是同样好的模型。可怪事就这么出现了。上班的人把AI用得很熟，做出来的成果却很少。独自做事、或者以小团队行动的人，凭同样的能力却做出多得多的东西。能力一样，结果却差很多。
@@ -43,7 +45,7 @@ reviewStatus: "done"
 
 ![都用一样的AI，为什么只有上班族做不出东西：执行环境摩擦的真相](/images/inline/column-execution-friction.jpg)
 
-<p class="inline-image-caption">都用一样的AI，为什么只有上班族做不出东西：执行环境摩擦的真相</p>
+<p class="inline-image-caption">这点速度差，攒一天、攒一个月，成果的差距就大到几乎补不回来。</p>
 
 ## 真正的元凶，是公司电脑里的VDI
 

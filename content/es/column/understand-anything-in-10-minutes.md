@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![Una mano que dibuja una estructura sobre un plano; no resume, construye una estructura](/images/col-understand.jpg)
 
+<p class="inline-image-caption">Estudiar memorizando solo la etiqueta y estudiar entendiendo cómo funciona algo se separan justo aquí.</p>
+
 Falta un minuto para entrar a una reunión que no conozco. Un artículo que abro por primera vez, una tecnología que escucho por primera vez. En ese momento yo no empiezo por hacer un resumen.
 
 Al final, un resumen es una conclusión que ya organizó otro. La comprensión tiene que ser una estructura que construyo yo mismo. Por eso, sea cual sea el concepto, siempre lo meto en las mismas nueve casillas y, dentro de ellas, analizo su función y su estructura. Estudiar memorizando solo la etiqueta y estudiar entendiendo cómo funciona algo se separan justo aquí.
@@ -50,7 +52,7 @@ Organiza el siguiente material con la "plantilla común para entender conceptos"
 
 ![Cómo dominar un concepto nuevo en 10 minutos: la plantilla de las 9 casillas](/images/inline/column-understand-anything-in-10-minutes.jpg)
 
-<p class="inline-image-caption">Cómo dominar un concepto nuevo en 10 minutos: la plantilla de las 9 casillas</p>
+<p class="inline-image-caption">No mezclas en un mismo grupo los huecos que llenó la IA o el material con los hechos ya comprobados.</p>
 
 ## Lo que distingue a esta plantilla: solo tres cosas
 

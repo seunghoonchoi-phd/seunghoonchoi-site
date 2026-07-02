@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![A brass microphone glowing on a dim event-hall podium](/images/col-anatomy-of-politics.jpg)
 
+<p class="inline-image-caption">They just have to move away from deceiving with words and toward promising and keeping.</p>
+
 When I lie, it shows all over my face. Praise I do not mean, and soulless diplomatic lines, do not sit well in my mouth. If I force them out, I become uncomfortable first, and my expression breaks down before anything else. But politics is the work of winning people's hearts. Often you have to say what many people will like, what they want to hear, what reassures them right now. So is a person like me, who cannot make empty talk, simply unsuited to politics?
 
 I thought so for a long time. But the deeper I looked, the answer was a little different. A person who cannot make empty talk can still win people's hearts. They just have to move away from deceiving with words and toward promising and keeping.
@@ -42,7 +44,7 @@ So good politics gets a raw deal. The more genuinely helpful a policy is, the lo
 
 ![How Politics Wins People's Hearts: The Method for a Person Who Cannot Fake It](/images/inline/column-anatomy-of-politics.jpg)
 
-<p class="inline-image-caption">How Politics Wins People's Hearts: The Method for a Person Who Cannot Fake It</p>
+<p class="inline-image-caption">People react first to a concrete life, not to a statistic.</p>
 
 ## Winning popularity and doing the work are different abilities
 

@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![木のテーブルの上に白黒の碁石が散らばった空の碁盤、窓から差し込むやわらかな光](/images/col-choose-the-board.jpg)
 
+<p class="inline-image-caption">能力は1.2倍の差なのに、結果は十倍、二十倍の差になる。</p>
+
 ## 同じ実力だった二人、片方だけが強くなった
 
 囲碁サークルに、実力が近い二人がいた。一人は近所の碁会所で、毎週同じ顔ぶれと打っていた。もう一人は、たまたま強い棋士たちの集まりに加わることになった。
@@ -53,7 +55,7 @@ build: {list: never, render: always}
 
 ![実力を伸ばすだけでは結果につながらない。まず環境を選べ](/images/inline/column-choose-the-board.jpg)
 
-<p class="inline-image-caption">実力を伸ばすだけでは結果につながらない。まず環境を選べ</p>
+<p class="inline-image-caption">能力が同じなのに結果が開いていく本当の理由が、ここにある。</p>
 
 ## 機会の乏しい場所では、実力を磨いてもその分だけ
 

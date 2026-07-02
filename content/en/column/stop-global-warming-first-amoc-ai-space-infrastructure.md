@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![An illustration of warm surface currents and cold deep currents over the North Atlantic, with small space-blind modules floating toward the Sun](/images/col-amoc-global-warming-first.jpg)
 
+<p class="inline-image-caption">Use them to reduce a tiny amount of summer sunlight reaching the Arctic and Greenland.</p>
+
 Put thin shades about 1.5 million km between the Sun and Earth. Not one huge umbrella, but many small blinds. Use them to reduce a tiny amount of summer sunlight reaching the Arctic and Greenland.
 
 At first, it sounds insane. A space blind to cool Earth sounds like the kind of idea that has gone too far. But the more insane thing is already happening. We burned fossil fuels, changed the composition of the atmosphere, warmed the ocean, and reduced the white ice of the Arctic.
@@ -62,7 +64,7 @@ A space blind is a fever reducer. It is an emergency drug to lower Earth's heat 
 
 ![Science illustration of small orbital sunshade modules filtering sunlight between the Sun and Earth above the Arctic and North Atlantic](/images/col-amoc-space-blind-modules.jpg)
 
-<p class="inline-image-caption">Science illustration of small orbital sunshade modules filtering sunlight between the Sun and Earth above the Arctic and North Atlantic</p>
+<p class="inline-image-caption">The real treatment is to stop CO2 emissions and remove the CO2 already in the air.</p>
 
 ## Cool first, then remove the CO2
 
@@ -90,7 +92,7 @@ AI should not become an all-powerful ruler that governs Earth for us. But it can
 
 ![Science illustration of satellites, ocean buoys, and climate models connected in an AI monitoring network over the North Atlantic](/images/col-amoc-ai-monitoring-network.jpg)
 
-<p class="inline-image-caption">Science illustration of satellites, ocean buoys, and climate models connected in an AI monitoring network over the North Atlantic</p>
+<p class="inline-image-caption">But it can take on the role of pointing out signals too complex for humans to see alone.</p>
 
 ## SpaceX should look at Earth's circulation before Mars
 

@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![A single domino tipping over in a long curving line, leaning toward the next piece](/images/col-advantage-loops.jpg)
 
+<p class="inline-image-caption">So can you make this roll on purpose?</p>
+
 Two people sat through the same lecture. One walks out thinking, "Huh, learned something today," and leaves it there. The other writes down one framework in their notes that they can pull out and use later. A month goes by and a similar situation comes up. The first person has to start thinking from scratch. The second just reaches for the framework they already built. They started in the exact same place. But at some point, the two start moving at different speeds.
 
 There are a lot of names for this. Snowball. Compounding. Cumulative advantage. They all point to one thing. A small edge changes the very terms of the next round. You do not just get ahead once and stop. Being ahead sets you up to get even further ahead next time. So can you make this roll on purpose? You can.
@@ -35,7 +37,7 @@ A trick that stays only in your head fades over time. So you pull it outside and
 
 ![How a 1% Daily Edge Compounds Into Skill Nobody Can Copy](/images/inline/column-advantage-loops.jpg)
 
-<p class="inline-image-caption">How a 1% Daily Edge Compounds Into Skill Nobody Can Copy</p>
+<p class="inline-image-caption">What you pull out and save stacks up.</p>
 
 ## Miss one and your skill is zero
 

@@ -9,6 +9,8 @@ reviewStatus: "done"
 ---
 ![《미국 박사 유학, 혼자 준비해도 됩니다》 표지](/images/book-us-phd-guide.jpg)
 
+<p class="inline-image-caption">그 끝에 미국 플로리다대학교(UF) 재료공학 박사과정에 전액 펀딩으로 합격했고, F-1 비자까지 받았습니다.</p>
+
 최승훈 지음 · 벨루닉스 펴냄 · 2026년 6월
 
 eBook(ePUB) · 16,000원

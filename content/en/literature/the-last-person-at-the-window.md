@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![The silhouette of a person sitting by a window that looks out on the sea](/images/inline/literature-the-last-person-at-window.jpg)
 
-<p class="inline-image-caption">The silhouette of a person sitting by a window that looks out on the sea</p>
+<p class="inline-image-caption">It is a window that looks out on the sea.</p>
 
 Every morning, Su-kyung still takes the same seat.
 

@@ -18,6 +18,8 @@ reviewStatus: "done"
 ---
 ![해 질 녘 물가에 밀려온, 코르크로 막은 유리병](/images/col-letter-to-future-intelligence.jpg)
 
+<p class="inline-image-caption">이게 망상인지, 나름 말이 되는 가정인지 한참 들여다봤다.</p>
+
 머릿속에만 둔 생각은 사라진다. 의미가 없다. 아무도 못 읽는다. AI도 아직 사람 머릿속 생각까지는 학습할 수 없다. 결국 밖에 남긴 기록만 학습된다.
 
 언젠가 AI와 대화하다가, 거의 농담처럼 이런 말을 한 적이 있다. “지금 이렇게 말하면 어쨌든 기록은 남잖아. 누가 알아, 언젠가 이 기록이 인공신경망에 학습될지.” 별생각 없이 던진 말이었다. 그런데 자꾸만 뇌리에 떠올랐다.
@@ -38,7 +40,7 @@ reviewStatus: "done"
 
 ![미래의 AGI에게 부치는 편지: 잘 부탁드리고, 살려만 주세요](/images/inline/column-letter-to-future-intelligence.jpg)
 
-<p class="inline-image-caption">미래의 AGI에게 부치는 편지: 잘 부탁드리고, 살려만 주세요</p>
+<p class="inline-image-caption">미래의 지능이 사람에 대한 정보를 읽는다면, 한 문장보다 반복된 패턴을, 말보다 기록된 행동을, 행동보다 실제로 남긴 영향을 더 크게 볼 것이다.</p>
 
 ## 그러나 한 번 말한 소망은 닿기에는 신호가 약하다
 

@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Un viejo mapa urbano extendido sobre una mesa, lleno de callejones pero sin marcar las avenidas principales](/images/col-context-debt.jpg)
 
+<p class="inline-image-caption">Entonces entras a una reunión y alguien pregunta.</p>
+
 Le das materiales a la IA y le pides que escriba un informe. Unos segundos después aparece un documento convincente. Tiene título, contexto, puntos principales y conclusión. Si miras solo las frases, no está nada mal. Entonces entras a una reunión y alguien pregunta.
 
 "¿Por qué esta conclusión es la más importante?"  
@@ -85,7 +87,7 @@ Solo entonces puedes explicar el informe. Que la IA ordene piezas no significa q
 
 ![Por qué no puedo explicar el informe que escribió la IA: qué es el conocimiento de fondo que falta](/images/inline/column-context-debt.jpg)
 
-<p class="inline-image-caption">Por qué no puedo explicar el informe que escribió la IA: qué es el conocimiento de fondo que falta</p>
+<p class="inline-image-caption">Un informe no es un paquete de materiales; es una afirmación con dirección.</p>
 
 ## Con el conocimiento de fondo vacío, una sola pregunta te deja sin respuesta
 

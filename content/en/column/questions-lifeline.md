@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![A teacher lectures at a quantum mechanics board while one student among many feels overwhelmed by unanswered questions](/images/col-questions-lifeline.png)
 
+<p class="inline-image-caption">It was the sense of why that calculation was allowed, and what world those symbols came from.</p>
+
 When I studied quantum mechanics in engineering school, equations like these appeared on the board first.
 
 <div class="formula-block">
@@ -50,7 +52,7 @@ At the top end of exams, this difference becomes large. Some students can see th
 
 ![A Lifeline for People Who Ask Too Many Questions](/images/inline/column-questions-lifeline.jpg)
 
-<p class="inline-image-caption">A Lifeline for People Who Ask Too Many Questions</p>
+<p class="inline-image-caption">Older exams favored this intuitive type.</p>
 
 ## There Was No One to Receive the Questions
 

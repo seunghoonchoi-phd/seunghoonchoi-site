@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![An artisan's hands pressing a maker's mark into leather, a sign of trust](/images/col-branding-as-trust.jpg)
 
+<p class="inline-image-caption">If the sentences were clean and the points lined up, you thought, "Ah, this person can do the work."</p>
+
 A few years ago, telling who was good at their work was simple. You read what they wrote. One proposal, one report, one email. If the sentences were clean and the points lined up, you thought, "Ah, this person can do the work."
 
 That method doesn't work now. Everyone's writing comes out smooth. An email from a new hire and an email from a ten-year veteran both turn out equally polished once you run a model over them. Clean writing is no longer proof of skill.
@@ -49,7 +51,7 @@ The more common sentences become, the more the difference moves to the evidence 
 
 ![When AI Drafts Writing for Free, the Thing That Gets Hard to Find Is Trust](/images/inline/column-branding-as-trust.jpg)
 
-<p class="inline-image-caption">When AI Drafts Writing for Free, the Thing That Gets Hard to Find Is Trust</p>
+<p class="inline-image-caption">Not because supply shrank, but because trust is about the only signal left that can't be imitated.</p>
 
 ## Branding is five pieces that connect in order
 

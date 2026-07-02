@@ -13,6 +13,8 @@ reviewStatus: "done"
 
 ![Estudiantes usando IA mientras revisan juntos un pequeño dispositivo](/images/col-ai-school-practical-sense.png)
 
+<p class="inline-image-caption">Debe comprobar si la respuesta de la IA funciona en la realidad y corregir las partes que fallan.</p>
+
 Un estudiante le dice a la IA: “ordena este material en una tabla”. En segundos aparece una tabla. Le dice: “explícalo para que lo entienda un estudiante de secundaria”, y la IA baja el nivel de explicación. Le dice: “conviértelo en una presentación”, y la IA prepara un índice y un primer borrador de las diapositivas.
 
 Investigar, resumir, escribir, programar, ordenar tablas y preparar presentaciones ya son tareas que la IA procesa con rapidez. Todavía hacen falta dirección y revisión humana, pero muchas tareas que los estudiantes hacían solos frente al monitor serán cada vez más trabajo de la IA.
@@ -61,7 +63,7 @@ Aquí crece la responsabilidad de la escuela. Si la empresa ya no puede formar d
 
 ![Escuela en la era de la IA: hay que enseñar criterio práctico, no solo conocimiento](/images/inline/column-ai-school-practical-sense.jpg)
 
-<p class="inline-image-caption">Escuela en la era de la IA: hay que enseñar criterio práctico, no solo conocimiento</p>
+<p class="inline-image-caption">Debe investigar con IA, preparar un borrador, salir a verificarlo y corregir lo que esté mal.</p>
 
 ## El estudiante debe comprobar fuera de la pantalla
 

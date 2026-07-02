@@ -14,6 +14,8 @@ reviewStatus: "done"
 
 ![A full 16-stage map of AI job replacement](/images/col-ai-replacement-stages.jpg)
 
+<p class="inline-image-caption">This piece is the full map of the 16 stages in which AI takes work.</p>
+
 Will AI take my work?
 
 This is no longer a joke. Machines already translate. AI writes code with us. In hospitals, AI scans images first, and people watch videos and read posts AI recommended.
@@ -82,7 +84,7 @@ But something remains here: choosing with conviction while knowing that if you a
 
 ![The Order AI Takes Work: From Work with Right Answers to Human Existence](/images/inline/column-ai-replacement-stages.jpg)
 
-<p class="inline-image-caption">The Order AI Takes Work: From Work with Right Answers to Human Existence</p>
+<p class="inline-image-caption">Responsibility still remains with people.</p>
 
 ## Stage 9, people begin delegating decision authority to AI
 

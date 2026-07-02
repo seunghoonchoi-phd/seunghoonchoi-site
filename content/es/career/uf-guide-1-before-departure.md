@@ -11,6 +11,8 @@ reviewStatus: "done"
 
 ![Avión en la puerta de embarque](/images/uf1-departure.jpg)
 
+<p class="inline-image-caption">Este artículo es la primera entrega de la guía de admisión y adaptación al posgrado de la University of Florida (UF).</p>
+
 Que te admitan en un posgrado de ciencias o ingeniería en Estados Unidos no es el final. Desde el momento en que recibes la carta de admisión hasta que viajas, los meses traen más tareas de las que parece y plazos muy ajustados. Si dejas pasar aunque sea una sola cosa, puede haber problemas con la admisión, la matrícula o la visa. Este artículo es la primera entrega de la guía de admisión y adaptación al posgrado de la University of Florida (UF). Aquí te explico, en orden, todo lo que debes resolver desde que te admiten hasta que sales del país: cómo leer bien la financiación (la carta de oferta), un calendario con las fechas clave, el examen de nivel y el proceso de matrícula, la preparación de la investigación antes de llegar, y por último el cierre de trámites en Corea y el envío de dinero.
 
 ## El panorama general: de la admisión a la salida
@@ -94,7 +96,7 @@ en Corea
 
 ![Tras la admisión y antes de partir: cómo leer la carta de oferta y enviar el dinero](/images/inline/career-uf-guide-1-before-departure.jpg)
 
-<p class="inline-image-caption">Tras la admisión y antes de partir: cómo leer la carta de oferta y enviar el dinero</p>
+<p class="inline-image-caption">Según la resolución del 15 de abril de la CGS, no tienes obligación de responder antes del 15 de abril, pero solo cerrarás el trámite si firmas y devuelves el formulario.</p>
 
 ## 3. Examen de nivel (Placement Exam)
 

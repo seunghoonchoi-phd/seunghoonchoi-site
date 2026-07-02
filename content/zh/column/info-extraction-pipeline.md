@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![一整柜贴着标签的卡片抽屉，只留下贴了标签的那些。会挑会扔，本身就是系统](/images/col-info-extraction.jpg)
 
+<p class="inline-image-caption">跟 AI 聊得越多，奇怪的是，手里真正留下的知识反而越少。</p>
+
 跟 AI 聊得越多，奇怪的是，手里真正留下的知识反而越少。
 
 道理很简单。AI 一下子吐出来的量，超过了我能核对、能整理的量。有用的话不停地出现。可一个月以后还能再找回来的，几乎没有。
@@ -45,7 +47,7 @@ build: {list: never, render: always}
 
 ![天天跟 AI 聊天，为什么手里啥也没留下？三段式 Notion 整理提示词](/images/inline/column-info-extraction-pipeline.jpg)
 
-<p class="inline-image-caption">天天跟 AI 聊天，为什么手里啥也没留下？三段式 Notion 整理提示词</p>
+<p class="inline-image-caption">它强制把 AI 自己编出来的结构，和对话里真有依据的结构，明确分开，不让它们混在一起。</p>
 
 ## 复制即用的提示词，直接抄走
 

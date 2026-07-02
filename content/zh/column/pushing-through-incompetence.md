@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![安静房间里，初学者笨拙地开始练小提琴](/images/col-pushing-through-incompetence.jpg)
 
+<p class="inline-image-caption">比起没有实力这件事，人更受不了自己像个没有实力的人那一刻。</p>
+
 学新东西时，最先来的感觉不是兴趣，而是无能感。脑子好像懂，手却跟不上；别人好像轻松做到，只有自己卡住。听说明明很简单，轮到自己做，突然全都乱了。
 
 很多人在这里放弃。不是因为做不好，而是因为做不好的感觉太讨厌。比起没有实力这件事，人更受不了自己像个没有实力的人那一刻。
@@ -44,7 +46,7 @@ reviewStatus: "done"
 
 ![能忍受自己做不好的感觉，最后才会长出实力](/images/inline/column-pushing-through-incompetence.jpg)
 
-<p class="inline-image-caption">能忍受自己做不好的感觉，最后才会长出实力</p>
+<p class="inline-image-caption">要像"我开不了第一句"、"我看资料时选不出核心"、"我手会僵所以速度上不去"这样小而具体地命名。</p>
 
 ## 拆小之后，就比较能忍
 

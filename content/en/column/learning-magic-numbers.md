@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![A person standing at a city intersection at dusk, looking at three roads](/images/col-learning-magic-numbers.jpg)
 
+<p class="inline-image-caption">It is a set of landmarks for understanding how a feel develops.</p>
+
 When people first learn a new field, they often ask, "How many examples do I need before I get a feel for it?" It seems like seeing more should solve it, but that is not how it works. You can look at a hundred examples of the same kind and your thoughts can still stay unorganized.
 
 Feel does not come from the number of examples alone. It comes from seeing from different angles, narrowing the core variables, comparing different kinds of cases, trying it yourself, and correcting it. So when I learn a new field, I think in the order of 3, 7, 30, 100. It is not an exact law. It is a set of landmarks for understanding how a feel develops.
@@ -44,7 +46,7 @@ For example, if you look at thirty photos of well-cooked steaks, you still do no
 
 ![A New Field Is Not Learned by Seeing More, but by Seeing Differently: 3, 7, 30, 100](/images/inline/column-learning-magic-numbers.jpg)
 
-<p class="inline-image-caption">A New Field Is Not Learned by Seeing More, but by Seeing Differently: 3, 7, 30, 100</p>
+<p class="inline-image-caption">Feel comes not from many cases, but from comparing different cases.</p>
 
 ## One hundred times is feedback, not repetition
 

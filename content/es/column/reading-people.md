@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![Dos personas conversan con gestos a ambos lados de una mesa bajo una luz cálida](/images/col-reading-people.jpg)
 
+<p class="inline-image-caption">Rebota porque toca otra cosa dentro del otro.</p>
+
 ## Cuanto más razón tienes, más se resiste el otro
 
 Una sala de reuniones. Alguien proyecta un documento y dice: "Esta dirección está equivocada. Los números lo demuestran." Las cifras en pantalla son claras y el razonamiento no tiene fisuras. Pero pasa algo extraño. La cara de la persona de enfrente se endurece. Se cruza de brazos. Su voz baja un tono. Cuanto más detallado es el documento que le presentas, más firme se vuelve él. Dijiste algo claramente correcto, pero el ambiente de la sala se convierte en pelea, no en acuerdo.
@@ -37,7 +39,7 @@ Esto sirve para las dos direcciones. Se puede usar para presionar a la gente con
 
 ![A las personas no las mueve la lógica. Lee el miedo a perder, el orgullo y la responsabilidad](/images/inline/column-reading-people.jpg)
 
-<p class="inline-image-caption">A las personas no las mueve la lógica. Lee el miedo a perder, el orgullo y la responsabilidad</p>
+<p class="inline-image-caption">Si no calmas primero ese miedo, hasta la mejor propuesta suena solo a amenaza.</p>
 
 ## Antes que la lógica vienen el beneficio, la pérdida, el orgullo y la responsabilidad
 

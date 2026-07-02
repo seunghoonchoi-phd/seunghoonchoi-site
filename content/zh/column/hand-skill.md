@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![整齐摆放着用旧手工工具的工作台](/images/col-hand-skill.jpg)
 
+<p class="inline-image-caption">领域完全不一样，但"手上功夫好"的人都有一个共同点：他们不像机器那样重复同一个动作，而是每时每刻读着指尖传来的反应，边做边改力度。</p>
+
 围棋早被AI拿下了。画画、写作、写代码，也都在被拿下。可是卷紫菜包饭的大妈那双手、焊工的手、外科医生的手，到现在还稳稳的。为什么？
 
 做菜、焊接、手术、乐器、喷漆、装配。领域完全不一样，但"手上功夫好"的人都有一个共同点：他们不像机器那样重复同一个动作，而是每时每刻读着指尖传来的反应，边做边改力度。
@@ -31,7 +33,7 @@ build: {list: never, render: always}
 
 ![手上功夫，AI一时半会儿抄不走的指尖手感](/images/inline/column-hand-skill.jpg)
 
-<p class="inline-image-caption">手上功夫，AI一时半会儿抄不走的指尖手感</p>
+<p class="inline-image-caption">摊开来按，柔和地散开；按在一个点上，压力就全压在那个点上。</p>
 
 ## 手上功夫的核心，是顶住和修正
 

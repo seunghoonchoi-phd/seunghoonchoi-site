@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Industrial robots working around an automobile body in a factory](/images/col-ai-cheap-vs-expensive-world.jpg)
 
+<p class="inline-image-caption">Current AI is strongest when it can try many times, compare results, and find the direction where the score improves.</p>
+
 Whenever people talk about the AI that beat the world's best Go players, the same question comes up: "At this level, isn't it about to take every human job?"
 
 But the picture changes when you go to the field. AI beat Go, but welding is still not easy. It can solve coding problems, but it cannot yet do sparking welds beside old pipes with the same stability as a person.
@@ -60,7 +62,7 @@ So machines can become strong in average situations. They learn quickly in commo
 
 ![AI Beat Go. Why Is Welding Still Hard? Humans Stop, Machines Repeat](/images/inline/column-ai-cheap-vs-expensive-world.jpg)
 
-<p class="inline-image-caption">AI Beat Go. Why Is Welding Still Hard? Humans Stop, Machines Repeat</p>
+<p class="inline-image-caption">But weaknesses remain in rare signals right before an accident, exceptions outside the model, and risk judgments that are hard to score.</p>
 
 ## Digital twins give machines a practice field
 

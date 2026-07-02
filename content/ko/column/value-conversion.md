@@ -12,6 +12,8 @@ image: /images/col-value-conversion.jpg
 
 ![작업장에서 완성된 나무 의자를 든 장인의 손, 따뜻한 측광](/images/col-value-conversion.jpg)
 
+<p class="inline-image-caption">한 사람은 시간을 팔았고, 다른 사람은 시간을 다시 쓸 수 있는 결과물로 정리해 두었다.</p>
+
 ## 같은 솜씨 목수 둘, 운명이 갈린다
 
 동네에 가구 만드는 사람이 둘 있다. 둘 다 솜씨가 좋다. 대패질도 깔끔하고, 나뭇결도 살아 있고, 손님이 부른 치수에 딱 맞춘다. 그런데 십 년이 지나면 두 사람의 처지가 완전히 갈린다.
@@ -38,7 +40,7 @@ image: /images/col-value-conversion.jpg
 
 ![아무리 일해도 안 남는 이유. 시간 말고 다시 쓸 수 있는 결과물을 남겨라](/images/inline/column-value-conversion.jpg)
 
-<p class="inline-image-caption">아무리 일해도 안 남는 이유. 시간 말고 다시 쓸 수 있는 결과물을 남겨라</p>
+<p class="inline-image-caption">다시 쓸 수 있게 정리해 둔 노력만이, 내가 그 자리를 떠난 뒤에도 계속 성과를 낸다.</p>
 
 ## 이 노력은 무엇으로 남나
 

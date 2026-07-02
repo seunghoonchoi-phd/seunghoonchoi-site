@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Una escaladora frente a una pared rocosa difícil, cubriéndose las manos de magnesio mientras se prepara](/images/col-six-fundamentals.jpg)
 
+<p class="inline-image-caption">Cuanto más rápido produce resultados la IA, más importante se vuelve el fundamento de la persona que debe juzgar si esos resultados son correctos.</p>
+
 Vivimos una época en la que la IA resume, traduce, redacta informes y hasta escribe código. Entonces, ¿importa menos el talento para estudiar? Yo creo que ocurre lo contrario.
 
 La memorización simple o el cálculo repetitivo pueden importar menos. Pero leer una frase, entender el flujo real de un trabajo, juntar información dispersa en una estructura y manejar conceptos que no se ven importan más. Cuanto más rápido produce resultados la IA, más importante se vuelve el fundamento de la persona que debe juzgar si esos resultados son correctos.
@@ -57,7 +59,7 @@ Aunque la IA escriba el borrador, una persona debe ver si ese borrador está mon
 
 ![Más importante que el talento para estudiar: 4 fundamentos que separan más a la gente cuanto mejor se vuelve la IA](/images/inline/column-six-fundamentals.jpg)
 
-<p class="inline-image-caption">Más importante que el talento para estudiar: 4 fundamentos que separan más a la gente cuanto mejor se vuelve la IA</p>
+<p class="inline-image-caption">Aunque la IA escriba el borrador, una persona debe ver si ese borrador está montado sobre el trabajo real.</p>
 
 ## 3. Estructurar información: convertir datos dispersos en una forma usable
 

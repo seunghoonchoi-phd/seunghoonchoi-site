@@ -12,6 +12,8 @@ draft: true
 
 ![Las manos de un artesano sosteniendo una silla de madera terminada en el taller, con luz lateral cálida](/images/col-value-conversion.jpg)
 
+<p class="inline-image-caption">Una vendió su tiempo, y la otra dejó ordenado su tiempo en resultados que puede volver a usar.</p>
+
 ## Dos carpinteros con la misma habilidad, dos destinos distintos
 
 En el barrio hay dos personas que hacen muebles. Las dos tienen buena mano. Cepillan la madera con limpieza, respetan la veta y ajustan las medidas justo a lo que pide el cliente. Pero pasados diez años, la situación de las dos es completamente distinta.
@@ -38,7 +40,7 @@ El esfuerzo en sí no está mal. El problema es que ese esfuerzo no queda ordena
 
 ![Por qué no acumulas nada aunque trabajes mucho. Deja resultados que puedas volver a usar, no tiempo](/images/inline/column-value-conversion.jpg)
 
-<p class="inline-image-caption">Por qué no acumulas nada aunque trabajes mucho. Deja resultados que puedas volver a usar, no tiempo</p>
+<p class="inline-image-caption">Solo el esfuerzo que dejaste ordenado para poder volver a usarlo sigue trabajando después de que tú te vas.</p>
 
 ## ¿En qué queda este esfuerzo?
 

@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![따뜻한 조명 아래 테이블을 사이에 두고 손짓하며 대화하는 두 사람](/images/col-reading-people.jpg)
 
+<p class="inline-image-caption">분명히 맞는 말을 했는데, 방 안 분위기는 설득이 아니라 다툼으로 바뀐다.</p>
+
 ## 맞는 말 할수록 상대는 더 버틴다
 
 회의실. 누가 자료를 띄우고 말한다. "이 방향 틀렸습니다. 숫자가 그렇게 말해요." 화면 수치는 깔끔하고 논리엔 빈틈이 없다. 그런데 이상한 일이 벌어진다. 맞은편 사람 표정이 굳는다. 팔짱을 낀다. 목소리가 한 톤 내려간다. 더 정교한 자료를 들이밀수록 그는 더 단단해진다. 분명히 맞는 말을 했는데, 방 안 분위기는 설득이 아니라 다툼으로 바뀐다.
@@ -37,7 +39,7 @@ build: {list: never, render: always}
 
 ![사람은 논리로 안 움직인다. 손해, 체면, 책임을 읽어라](/images/inline/column-reading-people.jpg)
 
-<p class="inline-image-caption">사람은 논리로 안 움직인다. 손해, 체면, 책임을 읽어라</p>
+<p class="inline-image-caption">그 두려움부터 다독이지 않으면, 아무리 좋은 제안도 협박으로만 들린다.</p>
 
 ## 논리보다 이득·손해·체면·책임이 먼저
 

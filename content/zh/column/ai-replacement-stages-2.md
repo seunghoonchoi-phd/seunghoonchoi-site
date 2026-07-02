@@ -14,6 +14,8 @@ reviewStatus: "done"
 
 ![AI 接管身体工作，从重复性体力劳动到判断和感觉](/images/col-ai-replacement-stages-2.jpg)
 
+<p class="inline-image-caption">这里的重要标准只有一个：能重复、能测量失败、答案会收敛的工作，最终都会转向 AI 和机器人。</p>
+
 如果 AI 会先拿走有答案的工作，接下来的问题很自然：身体劳动安全吗？
 
 翻译、编程、摘要、分析，是在屏幕里结束的工作。错了，再跑一次就行。但身体劳动不同。机器人要移动，物体会碰撞，材料会损坏，人也可能受伤。
@@ -48,7 +50,7 @@ reviewStatus: "done"
 
 ![从重复性体力劳动到需要判断和感觉的工作：AI 接管工作的第 6~8 阶段](/images/inline/column-ai-replacement-stages-2.jpg)
 
-<p class="inline-image-caption">从重复性体力劳动到需要判断和感觉的工作：AI 接管工作的第 6~8 阶段</p>
+<p class="inline-image-caption">第 7 阶段的核心是：手艺和现场试错会晚一些被替代，但不是不会被替代。</p>
 
 ## 8 阶段，需要判断和感觉的工作
 

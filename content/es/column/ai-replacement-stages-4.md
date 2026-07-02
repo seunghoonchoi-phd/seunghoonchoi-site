@@ -14,6 +14,8 @@ reviewStatus: "done"
 
 ![Hasta la escritura de tu casa es, al final, una hoja de papel: las últimas etapas 15 y 16](/images/col-ai-replacement-stages-4.jpg)
 
+<p class="inline-image-caption">Aunque el trabajo sea reemplazado, mi participación sigue siendo mi parte.</p>
+
 Imagina que compras una casa. Tu nombre queda en el registro y tienes la llave en la mano. La gente la llama tu casa. Pero ¿por qué es realmente tuya?
 
 Los ladrillos no te reconocen. La puerta no recuerda tu nombre. Es tuya porque, si alguien entra y vive allí por la fuerza, llega la policía, un tribunal lo saca y la sociedad reconoce que esa casa es tuya. La propiedad no es una ley natural grabada en los objetos. La propiedad es una promesa que todos aceptamos proteger.
@@ -91,7 +93,7 @@ En la relación entre IA y humanos, al final hace falta una estructura así. No 
 
 ![Hasta la escritura de tu casa es, al final, una hoja de papel: las últimas etapas 15 y 16, cuando la propiedad se tambalea](/images/inline/column-ai-replacement-stages-4.jpg)
 
-<p class="inline-image-caption">Hasta la escritura de tu casa es, al final, una hoja de papel: las últimas etapas 15 y 16, cuando la propiedad se tambalea</p>
+<p class="inline-image-caption">De lo contrario, los humanos quedan desplazados en capacidad, luego en propiedad, y por último pierden hasta la razón de ser protegidos.</p>
 
 ## La abundancia sola no basta
 

@@ -11,6 +11,8 @@ reviewStatus: "done"
 
 ![A tangled mess of computer cables and cords piled on a desk](/images/col-execution-friction.jpg)
 
+<p class="inline-image-caption">Let me name that disadvantage exactly.</p>
+
 ## Same skill, so why do employees ship less?
 
 Everyone uses AI these days. Inside the company and outside it, people call up the same strong models. Yet something strange happens. The person with a corporate job handles AI skillfully and still ends up with little to show for it. The person working alone or in a small team makes far more with the same skill. The skill is equal, but the results split.
@@ -43,7 +45,7 @@ The AI is the same. The data may even be less than a company's. But the loop of 
 
 ![Same AI, Fewer Results: Why Employees Come Up Empty](/images/inline/column-execution-friction.jpg)
 
-<p class="inline-image-caption">Same AI, Fewer Results: Why Employees Come Up Empty</p>
+<p class="inline-image-caption">Stack that speed difference over a day, then a month, and the gap in output grows almost too wide to close.</p>
 
 ## The real culprit is the company computer, the VDI
 

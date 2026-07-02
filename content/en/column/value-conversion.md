@@ -12,6 +12,8 @@ draft: true
 
 ![A craftsman's hands holding a finished wooden chair in a workshop, lit warmly from the side](/images/col-value-conversion.jpg)
 
+<p class="inline-image-caption">One sold his time, and the other organized his time into results he could use again.</p>
+
 ## Two Carpenters, Same Skill, Different Fates
 
 There are two people in town who make furniture. Both are good with their hands. Their planing is clean, the grain of the wood stays clear, and they hit the exact size a customer asks for. Yet after ten years, the two of them end up in completely different situations.
@@ -38,7 +40,7 @@ Effort itself isn't the problem. The problem is that the effort never gets organ
 
 ![Why Working Hard Never Adds Up: Leave Behind Reusable Results, Not Hours](/images/inline/column-value-conversion.jpg)
 
-<p class="inline-image-caption">Why Working Hard Never Adds Up: Leave Behind Reusable Results, Not Hours</p>
+<p class="inline-image-caption">Only effort you've organized so it can be used again goes on working after you've left.</p>
 
 ## What Does This Effort Become?
 

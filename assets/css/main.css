@@ -869,9 +869,12 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
   max-width:92%;
   color:var(--muted);
   font-size:.86em;
+  font-style:italic;
   line-height:1.55;
   text-align:center;
 }
+.post__body .inline-image-caption::before{content:"\""}
+.post__body .inline-image-caption::after{content:"\""}
 body.lang-ko .post__body .inline-image-caption,
 body.lang-ja .post__body .inline-image-caption,
 body.lang-zh .post__body .inline-image-caption{word-break:keep-all}

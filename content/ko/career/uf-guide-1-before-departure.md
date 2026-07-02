@@ -11,6 +11,8 @@ reviewStatus: "done"
 
 ![Airplane at the departure gate](/images/uf1-departure.jpg)
 
+<p class="inline-image-caption">전액 펀딩 오퍼레터(offer letter)를 정확히 읽는 법, 핵심 일정 캘린더, 배치고사와 수강신청 절차, 도착 전 연구 준비, 그리고 출국 전 한국 행정 정리와 송금까지를 한 번에 다룹니다.</p>
+
 미국 이공계 대학원에 합격했다고 끝이 아닙니다. 합격 통지를 받은 순간부터 출국 전까지 몇 달은 생각보다 할 일이 많고 마감이 빡빡해서, 하나라도 놓치면 입학·등록·비자에 차질이 생길 수 있습니다. 이 글은 University of Florida(UF) 대학원 입학·정착 가이드의 첫 번째 편으로, 합격 직후부터 출국 전까지 꼭 챙겨야 할 것들을 순서대로 정리합니다. 전액 펀딩 오퍼레터(offer letter)를 정확히 읽는 법, 핵심 일정 캘린더, 배치고사와 수강신청 절차, 도착 전 연구 준비, 그리고 출국 전 한국 행정 정리와 송금까지를 한 번에 다룹니다.
 
 ## 큰 그림: 합격에서 출국까지
@@ -91,7 +93,7 @@ reviewStatus: "done"
 
 ![합격 후 출국 전까지: 오퍼레터(offer letter) 읽는 법부터 송금까지](/images/inline/career-uf-guide-1-before-departure.jpg)
 
-<p class="inline-image-caption">합격 후 출국 전까지: 오퍼레터(offer letter) 읽는 법부터 송금까지</p>
+<p class="inline-image-caption">아래는 가을 학기 기준 예시이며, 매년 공식 일정으로 재확인하세요.</p>
 
 ## 3. 배치고사 (Placement Exam)
 

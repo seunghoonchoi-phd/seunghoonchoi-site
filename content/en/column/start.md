@@ -10,6 +10,8 @@ build: {list: never, render: always}
 
 ![A hand writing in a notebook](/images/col-start.jpg)
 
+<p class="inline-image-caption">What does not fit there goes here.</p>
+
 By day, I work with materials through computation. At night, I write something else here.
 
 This is not a place for papers. Essays, short stories, and sometimes video. My job title is computational materials scientist, but that one line does not hold the whole person. What does not fit there goes here.

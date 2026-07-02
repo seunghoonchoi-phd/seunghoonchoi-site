@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![棋盘上被将倒的王。决定胜负的那关键一步](/images/col-localized-advantage.jpg)
 
+<p class="inline-image-caption">同样的道理，无论做什么事，只要把力气集中到一个点上，就算整体不足，也能赢下决定性的那一次。</p>
+
 你见过李永浩把一盘大比分落后的局翻回来吗。他不会把整支部队一股脑地养大。他调整自己的运营，让对手最弱的那30秒里，就在那一个点上，自己变得最强。从总实力看，他是落后的。可在那一瞬间、那一处，他压制住了对手。然后就靠这一次交战，把整局赢走。同样的道理，无论做什么事，只要把力气集中到一个点上，就算整体不足，也能赢下决定性的那一次。
 
 ## 落后时还想攒，只会输
@@ -31,7 +33,7 @@ build: {list: never, render: always}
 
 ![李永浩为什么不养整支部队，只赢那30秒：把力气集中到一个点，抓住决定性瞬间](/images/inline/column-localized-advantage.jpg)
 
-<p class="inline-image-caption">李永浩为什么不养整支部队，只赢那30秒：把力气集中到一个点，抓住决定性瞬间</p>
+<p class="inline-image-caption">关键不在部队的总量，而在于真正在对的时间、抵达对的位置的那股力量。</p>
 
 ## 打那个马上要出现的破绽
 

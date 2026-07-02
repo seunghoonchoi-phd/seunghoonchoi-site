@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![青写真の上で構造を描く手、要約ではなく構造を組み立てる](/images/col-understand.jpg)
 
+<p class="inline-image-caption">名札だけ覚える勉強と、仕組みを知る勉強の分かれ目は、まさにここにあります。</p>
+
 はじめての会議に入る1分前。初めて開いた論文、初めて聞く技術。こういうとき、私はまず要約を作りません。
 
 要約は結局、他人が整理してくれた結論です。理解は自分で組み立てた構造でなければなりません。だから、どんな概念でもいつも同じ九つのマスに押し込んで、その中で役割と構造を見極めます。名札だけ覚える勉強と、仕組みを知る勉強の分かれ目は、まさにここにあります。
@@ -50,7 +52,7 @@ build: {list: never, render: always}
 
 ![はじめて見る概念を10分で攻略する方法：純粋理解の9マステンプレート](/images/inline/column-understand-anything-in-10-minutes.jpg)
 
-<p class="inline-image-caption">はじめて見る概念を10分で攻略する方法：純粋理解の9マステンプレート</p>
+<p class="inline-image-caption">資料に明記されている内容と、推定した内容を区別すること。</p>
 
 ## この様式が違う点はちょうど三つ
 

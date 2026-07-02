@@ -11,6 +11,8 @@ reviewStatus: "done"
 
 ![Pasaporte y documentos de viaje](/images/uf2-visa.jpg)
 
+<p class="inline-image-caption">Es una condición que debes mantener durante toda tu estancia en Estados Unidos.</p>
+
 El estatus F-1 no termina en el momento en que recibes la admisión. Es una condición que debes mantener durante toda tu estancia en Estados Unidos. Después de aprobar la entrevista de la visa es fácil bajar la guardia, pero en la práctica todo depende de cómo prepares los documentos antes de subir al avión y de cómo completes el check-in dentro de los 30 días desde la fecha de inicio del programa que aparece en tu I-20. En esta entrega repasamos, en orden, los requisitos para mantener el estatus F-1, la entrada por el aeropuerto (POE, Port of Entry), el check-in en línea de ISSS (International Student Services), las tarifas oficiales y la ruta del aeropuerto a Gainesville.
 
 ## Requisitos para mantener el estatus F-1
@@ -49,7 +51,7 @@ Hay algunos puntos más que debes tener en cuenta.
 
 ![Visa F-1 y entrada a Estados Unidos: requisitos para mantener el estatus y llegada al aeropuerto](/images/inline/career-uf-guide-2-f1-visa-entry.jpg)
 
-<p class="inline-image-caption">Visa F-1 y entrada a Estados Unidos: requisitos para mantener el estatus y llegada al aeropuerto</p>
+<p class="inline-image-caption">En ese caso, contacta de inmediato a UFIC.</p>
 
 ## Trámite obligatorio tras la llegada: check-in en línea de ISSS
 

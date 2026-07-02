@@ -14,6 +14,8 @@ reviewStatus: "done"
 
 ![El trabajo físico que toma la IA: desde labor repetitiva hasta juicio y tacto](/images/col-ai-replacement-stages-2.jpg)
 
+<p class="inline-image-caption">El criterio importante es uno: lo que se puede repetir, cuyo fallo se puede medir y cuya respuesta converge, termina pasando a IA y robots.</p>
+
 Si la IA toma primero los trabajos con respuesta, la siguiente pregunta es natural. ¿El trabajo físico está a salvo?
 
 Traducción, código, resumen y análisis terminan dentro de una pantalla. Si salen mal, se vuelven a ejecutar. El trabajo físico es distinto. Un robot debe moverse, los objetos chocan, los materiales se dañan y una persona puede lastimarse.
@@ -46,7 +48,7 @@ Cuando ese costo baja, esta zona también queda en riesgo.
 
 ![Del trabajo físico repetitivo al trabajo que exige juicio y tacto: etapas 6 a 8 de cómo la IA toma el trabajo](/images/inline/column-ai-replacement-stages-2.jpg)
 
-<p class="inline-image-caption">Del trabajo físico repetitivo al trabajo que exige juicio y tacto: etapas 6 a 8 de cómo la IA toma el trabajo</p>
+<p class="inline-image-caption">Cuando ese costo baja, esta zona también queda en riesgo.</p>
 
 ## Etapa 8, trabajos que exigen juicio y tacto
 

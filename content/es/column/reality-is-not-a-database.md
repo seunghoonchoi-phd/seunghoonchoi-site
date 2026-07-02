@@ -21,6 +21,8 @@ faq:
 
 ![Un ingeniero mirando una ciudad y su infraestructura energética al amanecer](/images/col-reality-is-not-a-database.jpg)
 
+<p class="inline-image-caption">Son problemas de instalar esa respuesta en la realidad, mantenerla, verificarla y mover personas.</p>
+
 Incluso en la era de la IA, el empleo humano no es necesario porque los humanos sean más inteligentes que la IA. Es necesario porque los humanos son sensores del mundo real, actuadores, responsables y operadores de instituciones. La IA puede producir respuestas, pero el empleo convierte esas respuestas en civilización. Cuando la IA empieza a hacer muchas tareas, aparece una pregunta natural: "si la IA lo hace todo, ¿por qué habría que emplear humanos?"
 
 Pero hay que hacer la pregunta de otra forma. En problemas de escala civilizatoria, el empleo no es solo un medio de vida. Es estructura de ejecución. Es estructura de responsabilidad. Es estructura de conexión con el terreno.
@@ -79,7 +81,7 @@ Ese será el núcleo del empleo avanzado. No bastará con "saber usar IA". Hará
 
 ![El avance de la IA no es demasiado rápido: frente al cronómetro de la civilización humana, todavía es lento](/images/inline/column-reality-is-not-a-database.jpg)
 
-<p class="inline-image-caption">El avance de la IA no es demasiado rápido: frente al cronómetro de la civilización humana, todavía es lento</p>
+<p class="inline-image-caption">Harán falta personas capaces de pasar lo que produce la IA por seguridad, costo, responsabilidad, institución y seres humanos.</p>
 
 ## El empleo es la estructura de ejecución de la civilización
 

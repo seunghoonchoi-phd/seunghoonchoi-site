@@ -8,6 +8,8 @@ reviewStatus: "done"
 
 ![Raindrops on a window](/images/lit-remains.jpg)
 
+<p class="inline-image-caption">没法子，只有去爱了。</p>
+
 <div class="poem">
 <p>或许最要紧的，<br>
 是今夜星辰也乘着风，<br>

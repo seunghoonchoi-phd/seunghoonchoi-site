@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![傍晚城市路口，一个人站在三岔路前](/images/col-learning-magic-numbers.jpg)
 
+<p class="inline-image-caption">要从不同角度看，提炼核心变量，比较不同类型的案例，亲自做过后再修改。</p>
+
 刚学一个新领域时，人们常问："要看多少案例才有感觉？"看起来只要多看就行，但实际并非如此。同一种案例看一百个，脑子里也可能还是理不清头绪。
 
 感觉不是只靠案例数量产生的。要从不同角度看，提炼核心变量，比较不同类型的案例，亲自做过后再修改。所以我学新领域时，会按 3·7·30·100 的顺序想。这不是精确法则，更像是理解感觉如何产生的参照点。
@@ -44,7 +46,7 @@ reviewStatus: "done"
 
 ![新领域不是看得多就行，而是要换角度看：魔法数字 3·7·30·100](/images/inline/column-learning-magic-numbers.jpg)
 
-<p class="inline-image-caption">新领域不是看得多就行，而是要换角度看：魔法数字 3·7·30·100</p>
+<p class="inline-image-caption">如果不知道自己错了还重复 100 次，只会把错误动作固定下来。</p>
 
 ## 100 次不是重复，而是反馈
 

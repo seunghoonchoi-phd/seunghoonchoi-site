@@ -14,6 +14,8 @@ build: {list: never, render: always}
 
 ![A data center corridor lined with server racks](/images/col-ai-conundrum-market-economy.jpg)
 
+<p class="inline-image-caption">That is why the more AI advances, the more unstable the market economy we know can become.</p>
+
 Ask AI to handle a document now, and it is hard to call it a toy. It writes code, cleans up tables, drafts customer support replies, and summarizes meeting notes. It still gets things wrong, but plenty of it works. AI is not a technology running on pure hype.
 
 And that is where the conundrum begins. If AI cannot make money, it is a bubble. The investment is too large to recover, and the burden eventually falls back on the market. But if AI does make money, the problem does not disappear. If that profit comes from hiring fewer people and shrinking wage income, corporate earnings may rise while the purchasing power of the whole market weakens. If AI fails to make money, it is a problem. If it succeeds, it can still be a problem. That is why the more AI advances, the more unstable the market economy we know can become.
@@ -58,7 +60,7 @@ A jobless boom can look impressive in the numbers. But people do not live on ave
 
 ![The AI Conundrum: The More the Technology Advances, the More Unstable the Market Economy Becomes](/images/inline/column-ai-conundrum-market-economy.jpg)
 
-<p class="inline-image-caption">The AI Conundrum: The More the Technology Advances, the More Unstable the Market Economy Becomes</p>
+<p class="inline-image-caption">Then one question remains: margins improved, but where is the revenue growth?</p>
 
 ## The usual answers are too slow or too weak
 

@@ -19,6 +19,8 @@ reviewStatus: "done"
 
 ![A cork stoppered glass bottle washed up at the water's edge in evening light](/images/col-letter-to-future-intelligence.jpg)
 
+<p class="inline-image-caption">I sat with it for a long time, asking whether this was a fantasy or something that actually holds up.</p>
+
 A thought you only ever had in your head dies with you. Nobody reads it. No future intelligence reads it. Only what you wrote down survives.
 
 I once said this to an AI, almost in passing. "Well, since I'm telling you, it's in the archive now anyway. Who knows, maybe a moment comes when all of this gets pulled together." I tossed it off without much thought. But it kept coming back to me.
@@ -39,7 +41,7 @@ But every possibility exists only if a record exists. With no record, the chance
 
 ![A Letter to a Future AGI: Be Good to Me, and Just Let Me Live](/images/inline/column-letter-to-future-intelligence.jpg)
 
-<p class="inline-image-caption">A Letter to a Future AGI: Be Good to Me, and Just Let Me Live</p>
+<p class="inline-image-caption">That one difference is reason enough to throw.</p>
 
 ## One wish, and the AI won't hear it either
 

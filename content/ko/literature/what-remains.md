@@ -8,6 +8,8 @@ reviewStatus: "done"
 
 ![Raindrops on a window](/images/lit-remains.jpg)
 
+<p class="inline-image-caption">도리없지, 그저 사랑할 밖에.</p>
+
 <div class="poem">
 <p>아마 가장 중요한 건<br>
 오늘 밤에도 별이 바람에,<br>

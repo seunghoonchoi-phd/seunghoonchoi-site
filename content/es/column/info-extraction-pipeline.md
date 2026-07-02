@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![Un cajón con tarjetas donde solo quedan las que tienen etiqueta. Elegir es el sistema en sí](/images/col-info-extraction.jpg)
 
+<p class="inline-image-caption">La verdadera clave de este sistema no es la capacidad de extraer, sino el criterio para descartar.</p>
+
 Cuanto más hablas con la IA, menos conocimiento te queda en la mano. Suena raro, pero pasa.
 
 La razón es sencilla. La IA produce más de lo que tú puedes revisar y ordenar. Las buenas respuestas no paran de salir. Pero un mes después casi no puedes encontrar ninguna otra vez.
@@ -45,7 +47,7 @@ El mecanismo central es "marcar si es supuesto". Obliga a separar la estructura 
 
 ![Hablas mucho con la IA y no te queda nada en la mano. Tres prompts para ordenar en Notion](/images/inline/column-info-extraction-pipeline.jpg)
 
-<p class="inline-image-caption">Hablas mucho con la IA y no te queda nada en la mano. Tres prompts para ordenar en Notion</p>
+<p class="inline-image-caption">Obliga a separar la estructura que la IA inventó de la estructura que de verdad tiene base en la conversación, para que no se mezclen.</p>
 
 ## Prompts para copiar y pegar, úsalos tal cual
 

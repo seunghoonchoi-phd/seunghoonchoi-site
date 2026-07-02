@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![窗边洒进柔和光线的空会议室，桌子四周的椅子各自朝着不同的角度](/images/col-operating-rules.jpg)
 
+<p class="inline-image-caption">因为一旦采纳它，去年力推相反方向的那位主管，就成了判断错误的人。</p>
+
 ## 好方案输给了主管的面子
 
 会议室里，谁都见过这一幕。新人带着全场最干净的方案走进来。数字对得上，逻辑没破绽。陈述结束，屋里静了一下。然后有人开口："方向是好的，但现实地说……"一小时后，真正被通过的，却是个不上不下的折中方案。新人走出会议室，心里想：是他们都傻，还是我漏看了什么。
@@ -33,7 +35,7 @@ build: {list: never, render: always}
 
 ![最好的方案为什么在会上落选，真正的原因](/images/inline/column-operating-rules.jpg)
 
-<p class="inline-image-caption">最好的方案为什么在会上落选，真正的原因</p>
+<p class="inline-image-caption">读懂运作规则的人明白：那条规则不是为了挡住事情，而是为了在事情出错时，定下是谁的责任。</p>
 
 ## 宁可用更贵的供应商，只为护住高管的面子
 

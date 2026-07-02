@@ -14,6 +14,8 @@ reviewStatus: "done"
 
 ![The physical work AI takes, from repetitive labor to judgment and sense](/images/col-ai-replacement-stages-2.jpg)
 
+<p class="inline-image-caption">A robot has to move, objects collide, materials are ruined, and people can get hurt.</p>
+
 If AI takes work with right answers first, the next question is natural. Is work done with the body safe?
 
 Translation, coding, summarization, and analysis end inside a screen. If they are wrong, you can run them again. Physical work is different. A robot has to move, objects collide, materials are ruined, and people can get hurt.
@@ -46,7 +48,7 @@ The moment that cost falls, this area shakes too.
 
 ![From Repetitive Physical Labor to Work That Needs Judgment and Sense: Stages 6 to 8 of AI Taking Work](/images/inline/column-ai-replacement-stages-2.jpg)
 
-<p class="inline-image-caption">From Repetitive Physical Labor to Work That Needs Judgment and Sense: Stages 6 to 8 of AI Taking Work</p>
+<p class="inline-image-caption">The moment that cost falls, this area shakes too.</p>
 
 ## Stage 8, work that needs judgment and sense
 

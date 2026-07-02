@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![Empty outdoor market stalls at dawn before the vendors arrive](/images/col-institutions-as-games.jpg)
 
+<p class="inline-image-caption">The way those rewards and penalties are arranged is what produces the way people move.</p>
+
 ## The Guy Who Goes Silent at Work Leads the Whole Hobby Club
 
 I have a friend. In work meetings he barely opens his mouth. He gives a word or two only when someone points right at him, and he will die before he says anything he might have to answer for. But watch the same man in his weekend hobby club group chat and he is a totally different person. He plans the schedule, looks after the newcomers, and volunteers to lead before anyone asks. Nobody tells him to do it. He just does.
@@ -41,7 +43,7 @@ So when an organization is stuck in some strange numbers game, before you call t
 
 ![How to Read an Institution: Forget the Rules, Look at the Rewards and Penalties](/images/inline/column-institutions-as-games.jpg)
 
-<p class="inline-image-caption">How to Read an Institution: Forget the Rules, Look at the Rewards and Penalties</p>
+<p class="inline-image-caption">And how far has that number moved away from the real goal?</p>
 
 ## Add More Sign-Offs and Only the Honest Employees Lose
 

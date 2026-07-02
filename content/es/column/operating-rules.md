@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![Una sala de reuniones vacía con luz suave entrando por la ventana; alrededor de la mesa, las sillas están colocadas cada una en un ángulo distinto](/images/col-operating-rules.jpg)
 
+<p class="inline-image-caption">Porque en el momento en que se adopta esa propuesta, el jefe que el año pasado empujó en sentido contrario queda como el que estaba equivocado.</p>
+
 ## La buena propuesta se cae por el orgullo del jefe
 
 Es una escena que todos hemos visto alguna vez en una sala de reuniones. Un recién llegado trae la propuesta más impecable. Los números cuadran y la lógica no tiene fisuras. Cuando termina la presentación, se hace un breve silencio. Entonces alguien toma la palabra con cautela: "La dirección es buena, pero en la práctica…". Una hora después, lo que acaba aprobándose es una propuesta intermedia y poco clara. El recién llegado sale de la sala pensando: ¿son todos tontos, o se me escapó algo?
@@ -33,7 +35,7 @@ Aquí, la persona ingenua comete dos errores. O cumple la aprobación previa con
 
 ![La verdadera razón por la que la mejor propuesta se cae en la reunión](/images/inline/column-operating-rules.jpg)
 
-<p class="inline-image-caption">La verdadera razón por la que la mejor propuesta se cae en la reunión</p>
+<p class="inline-image-caption">No leyó la letra de la regla, sino lo que la regla hace de verdad.</p>
 
 ## Se contrata al proveedor caro por el orgullo del directivo
 

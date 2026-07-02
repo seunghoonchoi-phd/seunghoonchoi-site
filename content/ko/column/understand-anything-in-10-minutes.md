@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![청사진 위에서 구조를 그리는 손, 요약이 아니라 구조를 짓는다](/images/col-understand.jpg)
 
+<p class="inline-image-caption">이름표만 외우는 공부랑 작동 방식을 아는 공부는 바로 여기서 갈린다.</p>
+
 낯선 회의에 들어가기 1분 전. 처음 펼친 논문, 처음 듣는 기술. 이때 나는 요약부터 만들지 않는다.
 
 요약은 결국 남이 정리해 준 결론이다. 이해는 내가 직접 세운 구조여야 한다. 그래서 어떤 개념이든 늘 똑같은 아홉 칸에 욱여넣고, 그 안에서 역할과 구조를 따진다. 이름표만 외우는 공부랑 작동 방식을 아는 공부는 바로 여기서 갈린다.
@@ -50,7 +52,7 @@ build: {list: never, render: always}
 
 ![처음 보는 개념을 10분 만에 박살내는 법: 순수 이해 9칸 템플릿](/images/inline/column-understand-anything-in-10-minutes.jpg)
 
-<p class="inline-image-caption">처음 보는 개념을 10분 만에 박살내는 법: 순수 이해 9칸 템플릿</p>
+<p class="inline-image-caption">모르는 사람이 수업/회의 들어가기 직전 읽는 용도다.</p>
 
 ## 이 양식이 다른 점 딱 세 가지
 

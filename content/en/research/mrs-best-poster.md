@@ -7,4 +7,6 @@ reviewStatus: "done"
 ---
 ![Best Poster Award: 2018 MRS Fall Meeting & Exhibition](/images/mrs-event.jpeg)
 
+<p class="inline-image-caption">Received the Best Poster Award for an octopus-inspired adhesive and conductive patch sensor for biosignal monitoring, presented at the Poster Session of the 2018 MRS Fall Meeting & Exhibition in Boston (November 2018).</p>
+
 Received the Best Poster Award for an octopus-inspired adhesive and conductive patch sensor for biosignal monitoring, presented at the Poster Session of the 2018 MRS Fall Meeting & Exhibition in Boston (November 2018).

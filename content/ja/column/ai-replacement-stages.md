@@ -14,6 +14,8 @@ reviewStatus: "done"
 
 ![AI雇用代替16段階の全体地図](/images/col-ai-replacement-stages.jpg)
 
+<p class="inline-image-caption">この文章は、AIが仕事を奪っていく順番を16段階に広げて見る、全体の地図です。</p>
+
 AIが私の仕事を奪うのだろうか。
 
 この問いは、もう冗談ではありません。翻訳はすでに機械がやっています。コードはAIが一緒に書きます。病院ではAIが先に画像をチェックし、人々はAIがすすめた動画や文章を見ています。
@@ -82,7 +84,7 @@ AIによる代替は、頭を使う仕事で終わりません。体を使う仕
 
 ![AIが仕事を奪っていく順番:答えのある仕事から人間の存在まで](/images/inline/column-ai-replacement-stages.jpg)
 
-<p class="inline-image-caption">AIが仕事を奪っていく順番:答えのある仕事から人間の存在まで</p>
+<p class="inline-image-caption">間違えれば自分が損をすると分かっていながら、確信を賭ける仕事です。</p>
 
 ## 第9段階、決定権限をAIに任せはじめる
 

@@ -13,6 +13,8 @@ reviewStatus: "done"
 ---
 ![Advanced Functional Materials：Back Cover](/images/afm-backcover.jpeg)
 
+<p class="inline-image-caption">ウェアラブル電子デバイスや仮想現実(VR)インターフェースにどう使えるかを示した研究です。</p>
+
 表面に細かな毛を立てた導電性ファイバーで作ったセンサーの研究が、*Advanced Functional Materials*(AFM)50/2019号のバックカバー(Back Cover)に選ばれました。このファイバーは小さな刺激も敏感に感じ取り、伸ばしても切れず、水に触れても安定して動作しながら、いろいろな種類の手の動きを見分けます。ウェアラブル電子デバイスや仮想現実(VR)インターフェースにどう使えるかを示した研究です。
 
 [論文を見る ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)

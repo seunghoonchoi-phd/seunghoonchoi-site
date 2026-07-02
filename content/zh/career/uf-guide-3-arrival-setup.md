@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![Moving boxes and luggage at a new place](/images/uf3-arrival.jpg)
 
+<p class="inline-image-caption">所以这篇文章以佛罗里达大学 (University of Florida, UF) 的落地经历为基础，按照 手机 → 银行 → SSN → 佛罗里达驾照 → 积累信用 的顺序一路走下来，把每一步该带什么、该注意什么都梳理清楚。</p>
+
 到了美国研究生院，签证、住房、账户这些最费力的事其实已经办完了。接下来要面对的，是让日常真正运转起来的生活行政；而这部分一旦顺序没排好，各项就会互相拖延。没有手机，开银行账户就麻烦；没有银行，卡就办不出来；没有 SSN，驾照和信用积累都会被拖慢。所以这篇文章以佛罗里达大学 (University of Florida, UF) 的落地经历为基础，按照 手机 → 银行 → SSN → 佛罗里达驾照 → 积累信用 的顺序一路走下来，把每一步该带什么、该注意什么都梳理清楚。
 
 > 推荐顺序：手机 → 银行 → I-94/报到 → SSN → 驾照 → 信用卡。 前一步往往是后一步的前提，所以尽量按顺序来会更顺。
@@ -42,7 +44,7 @@ build: {list: never, render: always}
 
 ![美国研究生院落地指南 Part 3：到美后的行政办理顺序（手机、银行、SSN、驾照、信用）](/images/inline/career-uf-guide-3-arrival-setup.jpg)
 
-<p class="inline-image-caption">美国研究生院落地指南 Part 3：到美后的行政办理顺序（手机、银行、SSN、驾照、信用）</p>
+<p class="inline-image-caption">选择标准很简单：按 校园附近网点和 ATM 的密集程度 来挑，日常用起来最方便。</p>
 
 ## 3. SSN（社会安全号）
 

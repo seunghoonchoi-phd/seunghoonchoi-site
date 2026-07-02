@@ -14,6 +14,8 @@ reviewStatus: "done"
 
 ![Even your house deed is just a sheet of paper: the final stages where ownership shakes](/images/col-ai-replacement-stages-4.jpg)
 
+<p class="inline-image-caption">Even if labor is replaced, equity remains my share.</p>
+
 Imagine you bought a house. Your name is on the registry, and you hold the key. People call that house yours. But why is it really yours?
 
 The bricks do not recognize you. The door does not remember your name. It is yours because if someone enters and lives there without permission, the police come, the court removes them, and society recognizes the house as yours. Ownership is not a natural law carved into an object. Ownership is a promise everyone agrees to protect.
@@ -91,7 +93,7 @@ The final thing needed in the relationship between AI and humans is this kind of
 
 ![Even Your House Deed Is Just a Sheet of Paper: The Final AI Stages Where Ownership Shakes](/images/inline/column-ai-replacement-stages-4.jpg)
 
-<p class="inline-image-caption">Even Your House Deed Is Just a Sheet of Paper: The Final AI Stages Where Ownership Shakes</p>
+<p class="inline-image-caption">Without that, humans lose on ability, lose on ownership, and finally lose even the reason to be protected.</p>
 
 ## Abundance alone is not enough
 

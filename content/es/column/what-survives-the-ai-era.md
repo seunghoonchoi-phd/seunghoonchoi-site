@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![Un artesano talla la madera con sus manos. La presencia humana que la IA no puede imitar](/images/col-ai-human-craft.jpg)
 
+<p class="inline-image-caption">Es hasta dónde llega la IA y dónde entra la persona.</p>
+
 "Si te vuelves más inteligente que la IA, sobrevives." Eso dice todo el mundo. Es falso. La AGI supera al ser humano en casi cualquier tarea mental. Si intentas ganar con la cabeza, pierdes.
 
 La salida no está en la pelea de inteligencia. Está en la capacidad de tocar la realidad. La IA maneja bien el mundo que ya está capturado en datos. Pero examinar el ámbito que todavía no está capturado en datos, y unir eso a las cosas reales, a las personas y a la responsabilidad, sigue siendo tarea humana. Por eso la verdadera pregunta no es "¿la IA reemplaza al ser humano?". Es hasta dónde llega la IA y dónde entra la persona.
@@ -44,7 +46,7 @@ La conclusión es esta. La mayoría de los puestos actuales se mantienen. Solo q
 
 ![Por qué la IA no puede ganarle al ser humano. Lo que queda no es la inteligencia, sino la capacidad de tocar la realidad](/images/inline/column-what-survives-the-ai-era.jpg)
 
-<p class="inline-image-caption">Por qué la IA no puede ganarle al ser humano. Lo que queda no es la inteligencia, sino la capacidad de tocar la realidad</p>
+<p class="inline-image-caption">Es una frase más exacta que "la IA elimina los empleos".</p>
 
 ## Si no contratas novatos, se corta la futura generación de expertos
 

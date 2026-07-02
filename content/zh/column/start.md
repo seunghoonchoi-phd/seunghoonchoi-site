@@ -10,6 +10,8 @@ build: {list: never, render: always}
 
 ![A hand writing in a notebook](/images/col-start.jpg)
 
+<p class="inline-image-caption">这里不是写论文的地方。</p>
+
 白天，我用计算和材料打交道。晚上，我在这里写别的东西。
 
 这里不是写论文的地方。随笔、短篇故事，偶尔还有视频。我的职业是计算材料科学家。可这一行字装不下完整的我。那些装不进去的东西，就放在这里。

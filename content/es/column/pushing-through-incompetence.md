@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Las manos torpes de una principiante empezando a practicar violín sola en una habitación tranquila](/images/col-pushing-through-incompetence.jpg)
 
+<p class="inline-image-caption">Entonces la incomodidad deja de ser solo dolor y se vuelve el comienzo de la habilidad.</p>
+
 Cuando aprendes algo nuevo, la primera sensación no suele ser interés. Es incompetencia. En la cabeza parece que entiendes, pero la mano no acompaña. Los demás lo hacen fácil y tú te trabas. Al escuchar la explicación todo parecía simple; en cuanto te toca hacerlo, todo se enreda.
 
 Mucha gente abandona ahí. No abandona porque sea incapaz. Abandona porque odia sentirse incapaz. Más que la falta real de habilidad, no soporta ese momento en que se siente como alguien sin habilidad.
@@ -44,7 +46,7 @@ Cuando el fallo tiene nombre, aparece el entrenamiento. Si no sale la primera fr
 
 ![Quien soporta sentirse torpe termina mejorando](/images/inline/column-pushing-through-incompetence.jpg)
 
-<p class="inline-image-caption">Quien soporta sentirse torpe termina mejorando</p>
+<p class="inline-image-caption">Se trata de practicar justo la pieza que bloquea.</p>
 
 ## Si lo divides pequeño, se puede aguantar
 

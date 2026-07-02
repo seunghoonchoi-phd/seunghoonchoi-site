@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![Puestos vacíos de un mercado al aire libre antes del amanecer, antes de que lleguen los vendedores](/images/col-institutions-as-games.jpg)
 
+<p class="inline-image-caption">Esa disposición de premios y castigos es la que produce los movimientos de la gente.</p>
+
 ## En la oficina no abre la boca, pero en el club deportivo toma la iniciativa
 
 Tengo un amigo. En las reuniones de la empresa casi no habla. Solo suelta una o dos frases cuando alguien lo señala y le pregunta directamente. Jamás dice algo que lo comprometa. Pero si ves a esa misma persona en el grupo de chat de su club deportivo del fin de semana, parece otra. Organiza los horarios, cuida de los nuevos y es el primero en dar un paso al frente. Y lo hace sin que nadie se lo pida.
@@ -41,7 +43,7 @@ Por eso, cuando una organización cae en un juego de números absurdo, antes de 
 
 ![Cómo leer una institución: antes que las reglas, mira los premios y los castigos](/images/inline/column-institutions-as-games.jpg)
 
-<p class="inline-image-caption">Cómo leer una institución: antes que las reglas, mira los premios y los castigos</p>
+<p class="inline-image-caption">¿Cuánto se aleja ese número del objetivo real?</p>
 
 ## Aumentaron los pasos de aprobación, y solo pierden los empleados honestos
 

@@ -33,7 +33,7 @@ To put the conclusion first: I did it. I took the TOEFL, chose schools and profe
 
 ![You Can Prepare for a US PhD on Your Own](/images/inline/career-us-phd-guide.jpg)
 
-<p class="inline-image-caption">You Can Prepare for a US PhD on Your Own</p>
+<p class="inline-image-caption">A materials engineering PhD program at the University of Florida (UF), fully funded.</p>
 
 Let me be clear up front. What this book holds is only my own experience from one US PhD preparation process. I am simply setting down what I went through, just as it was, and showing the route that was possible on my own. The judgment is the reader's to make.
 

@@ -13,6 +13,8 @@ reviewStatus: "done"
 
 ![Un trabajador con gafas de IA ponible en una obra, observando una excavadora y datos de sensores](/images/col-ai-profit-question-too-early.jpg)
 
+<p class="inline-image-caption">¿Ha ganado dinero una empresa que vende infraestructura de IA, como NVIDIA?</p>
+
 En artículos sobre inversión en IA o en videos de YouTube, aparece una pregunta una y otra vez.
 
 "Entonces, ¿hay alguna empresa que de verdad haya ganado dinero con IA?"
@@ -75,7 +77,7 @@ Para que la IA se pegue al trabajo real, tiene que estar presente en ese momento
 
 ![¿Ninguna empresa ha ganado dinero con IA? La pregunta llega demasiado pronto](/images/inline/column-ai-profit-question-too-early.jpg)
 
-<p class="inline-image-caption">¿Ninguna empresa ha ganado dinero con IA? La pregunta llega demasiado pronto</p>
+<p class="inline-image-caption">Solo así la IA juzga la situación que tiene delante, no solo documentos en una pantalla.</p>
 
 ## Si solo piensas en robots, pierdes la parte importante
 

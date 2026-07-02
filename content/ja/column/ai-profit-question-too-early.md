@@ -13,6 +13,8 @@ reviewStatus: "done"
 
 ![建設現場でウェアラブルAIグラスをつけた作業者が、掘削機とセンサーデータを見ている様子](/images/col-ai-profit-question-too-early.jpg)
 
+<p class="inline-image-caption">NVIDIAのようにAIインフラを売る会社が稼いだのか。</p>
+
 AI投資の記事やYouTubeの解説を見ていると、よくこの問いが出てくる。
 
 「で、AIで本当にお金を稼いだ会社ってあるんですか？」
@@ -75,7 +77,7 @@ AIが本当の仕事につながるには、その瞬間に一緒にいなけれ
 
 ![AIで稼いだ会社がない？その質問はまだ早い](/images/inline/column-ai-profit-question-too-early.jpg)
 
-<p class="inline-image-caption">AIで稼いだ会社がない？その質問はまだ早い</p>
+<p class="inline-image-caption">そうして初めて、AIは画面の中の資料ではなく、今起きていることを見て判断できる。</p>
 
 ## ロボットだけを考えると、大事な部分を見落とす
 

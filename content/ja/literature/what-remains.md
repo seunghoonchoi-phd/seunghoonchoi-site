@@ -8,6 +8,8 @@ reviewStatus: "done"
 
 ![Raindrops on a window](/images/lit-remains.jpg)
 
+<p class="inline-image-caption">それはほんとうに 星をうたう心より大切だったのだろうか?</p>
+
 <div class="poem">
 <p>たぶんいちばん大切なのは<br>
 今夜もまた星が風に、<br>

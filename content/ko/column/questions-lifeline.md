@@ -11,6 +11,8 @@ reviewStatus: "done"
 ---
 ![교실 앞에서 선생님이 양자역학 식을 설명하고, 여러 학생 사이에서 한 학생이 질문으로 멘붕에 빠진 삽화](/images/col-questions-lifeline.png)
 
+<p class="inline-image-caption">H 위에 붙은 모자는 왜 필요한지, nabla 제곱이 왜 에너지 식 안에 들어가는지, 브라-켓 표기가 왜 내적이고 확률과 연결되는지, 어디서부터 찾아봐야 할지 몰랐다.</p>
+
 공대에서 양자역학을 배울 때 칠판에 이런 식이 먼저 보였다.
 
 H^ψ\=Eψ H^\=\-ℏ22m∇2+V(r) ⟨φ|ψ⟩\=∫φ\*(x)ψ(x)dx
@@ -39,7 +41,7 @@ H^ψ\=Eψ H^\=\-ℏ22m∇2+V(r) ⟨φ|ψ⟩\=∫φ\*(x)ψ(x)dx
 
 ![질문이 많은 이들의 구세주](/images/inline/column-questions-lifeline.jpg)
 
-<p class="inline-image-caption">질문이 많은 이들의 구세주</p>
+<p class="inline-image-caption">식의 모양, 조건의 흐름, 그래프의 모양을 보고 손이 먼저 움직인다.</p>
 
 ## 질문을 받아줄 사람이 없었다
 

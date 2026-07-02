@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Un vendedor de mercado entregando a una clienta un trozo de fruta cortada](/images/col-invisible-currencies.jpg)
 
+<p class="inline-image-caption">Por eso lo primero que se reconoce, antes que la habilidad, es la verificación.</p>
+
 La habilidad no se muestra por sí sola. Solo se valora de verdad cuando alguien puede comprobarla. Por muy bien que trabajes, si la otra persona no tiene forma de verificarlo, se trata casi como si esa habilidad no existiera.
 
 Decir que eres bueno no basta. Cualquiera puede decirlo. En cambio, aunque la habilidad no sea abrumadora, a quien tiene pruebas verificables se le elige con más facilidad. Trabajos hechos, números, historial, recomendaciones, certificaciones, resultados públicos, evaluaciones de quienes trabajaron contigo. Todo eso reduce el esfuerzo que la otra persona necesita para comprobarte.
@@ -58,7 +60,7 @@ La gente no busca solo a las personas capaces. Busca a las personas menos arries
 
 ![La verificación va antes que la habilidad: por qué la confianza y la reputación deciden las oportunidades](/images/inline/column-invisible-currencies.jpg)
 
-<p class="inline-image-caption">La verificación va antes que la habilidad: por qué la confianza y la reputación deciden las oportunidades</p>
+<p class="inline-image-caption">La habilidad verificada reduce el riesgo de la otra parte, y por eso se reconoce más.</p>
 
 ## La buena habilidad hay que dejarla como evidencia
 

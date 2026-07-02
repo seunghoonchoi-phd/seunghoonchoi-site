@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![市场摊位上，商人递给顾客一块削好的水果](/images/col-invisible-currencies.jpg)
 
+<p class="inline-image-caption">再会做事，如果对方没办法确认这份实力，结果几乎和没有差不多。</p>
+
 实力不会自己显现。实力只有被别人确认时，才会真正得到评价。再会做事，如果对方没办法确认这份实力，结果几乎和没有差不多。
 
 光说自己会，是不够的。因为谁都能这么说。相反，即使实力不是压倒性的强，只要有能确认的证据，反而更容易被选中。作品、数字、记录、推荐、资格证、公开的结果、一起工作过的人的评价。这些都会减少对方确认你的麻烦。
@@ -58,7 +60,7 @@ reviewStatus: "done"
 
 ![比实力更重要的是'验证'：信任和声誉为什么左右机会](/images/inline/column-invisible-currencies.jpg)
 
-<p class="inline-image-caption">比实力更重要的是'验证'：信任和声誉为什么左右机会</p>
+<p class="inline-image-caption">公开的代码、作品集、论文、文章、视频、项目记录、客户评价、推荐信。</p>
 
 ## 好实力要留成证据
 

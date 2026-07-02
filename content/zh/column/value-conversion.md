@@ -12,6 +12,8 @@ draft: true
 
 ![工坊里一位匠人布满岁月痕迹的双手，捧着一把做好的木椅，温暖的侧光](/images/col-value-conversion.jpg)
 
+<p class="inline-image-caption">差别就一个：一个人卖掉了时间，另一个人把时间整理成了能反复用的成果。</p>
+
 ## 一样手艺的两个木匠，处境却差得很远
 
 街区里有两个做家具的人，两人手艺都好。刨子推得干净，木纹活着，顾客要的尺寸分毫不差。可十年一过，两人的处境完全分了岔。
@@ -38,7 +40,7 @@ draft: true
 
 ![为什么你拼命干活却攒不下东西：别留下时间，留下能反复用的成果](/images/inline/column-value-conversion.jpg)
 
-<p class="inline-image-caption">为什么你拼命干活却攒不下东西：别留下时间，留下能反复用的成果</p>
+<p class="inline-image-caption">只有被整理好、能反复用的努力，才会在我离开那个位置之后还继续干活。</p>
 
 ## 这份努力，会留下什么
 

@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![A laptop showing an AI workflow, with documents, a lock, and a warning light on the desk](/images/col-ai-risk-leverage.png)
 
+<p class="inline-image-caption">Those pauses are annoying and slow, but they also work as small safety devices.</p>
+
 With AI, writing one piece is quick. A customer notice, a press release, an email reply. A draft that once took a day can come out in ten minutes, in several versions. That is why the most dangerous moment is not when AI is wrong. It is when AI is too fast and too plausible.
 
 When a person writes by hand, they stop along the way. Can I use this sentence? Can this information go outside? How will this wording read to the other side? Those pauses are annoying and slow, but they also work as small safety devices.
@@ -62,7 +64,7 @@ Reputation failures usually do not come from one dramatic sentence alone. Small 
 
 ![AI Risk Grows with Speed: How Automation Without Review Turns Small Mistakes into Crises](/images/inline/column-ai-risk-leverage.jpg)
 
-<p class="inline-image-caption">AI Risk Grows with Speed: How Automation Without Review Turns Small Mistakes into Crises</p>
+<p class="inline-image-caption">Reputation is not only an information problem.</p>
 
 ## Sensitive Data Leaks When People Rush
 

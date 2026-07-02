@@ -8,6 +8,8 @@ reviewStatus: "done"
 
 ![Raindrops on a window](/images/lit-remains.jpg)
 
+<p class="inline-image-caption">There is no helping it: nothing left but to love.</p>
+
 <div class="poem">
 <p>Perhaps what matters most<br>
 is that tonight, too, a star, on the wind,<br>

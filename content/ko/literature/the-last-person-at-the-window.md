@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![바다가 보이는 창가에 앉은 사람의 실루엣](/images/inline/literature-the-last-person-at-window.jpg)
 
-<p class="inline-image-caption">바다가 보이는 창가에 앉은 사람의 실루엣</p>
+<p class="inline-image-caption">흐린 날의 바다는 하늘과 경계가 없어서, 어디까지가 물이고 어디부터가 구름인지 알 수가 없다.</p>
 
 수경은 여전히 아침마다 같은 자리에 앉는다.
 

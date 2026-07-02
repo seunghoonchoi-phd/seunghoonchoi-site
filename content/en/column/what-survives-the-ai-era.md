@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![A craftsman carving wood by hand. The human realness AI can't fake](/images/col-ai-human-craft.jpg)
 
+<p class="inline-image-caption">It's how far does AI go, and where does the human step in.</p>
+
 "Get smarter than AI and you survive." Everyone says it. They're wrong. AGI will overwhelm humans at almost any job that runs on brainpower. Try to win on brains and you lose.
 
 The way out isn't on the brain side. It's on the side of touching reality. AI already handles the world that's been captured as data. But the work of examining the area that hasn't been captured as data yet, and tying it to physical things, to people, and to accountability, is still ours. So the real question isn't "will AI replace humans." It's how far does AI go, and where does the human step in.
@@ -44,7 +46,7 @@ The conclusion is this. Most existing positions stay. There are just fewer of th
 
 ![The Real Reason AI Can't Beat You. What Survives Isn't Smarts, It's the Power to Touch Reality](/images/inline/column-what-survives-the-ai-era.jpg)
 
-<p class="inline-image-caption">The Real Reason AI Can't Beat You. What Survives Isn't Smarts, It's the Power to Touch Reality</p>
+<p class="inline-image-caption">That's a more accurate sentence than "AI eliminates jobs."</p>
 
 ## Stop hiring juniors and you cut off your future seniors
 

@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![معلم يشرح أمام سبورة ميكانيكا الكم، وبين عدة طلاب يظهر طالب مرتبك بسبب أسئلة بلا إجابة](/images/col-questions-lifeline.png)
 
+<p class="inline-image-caption">كان الإحساس بسبب السماح بذلك الحساب، وبالعالم الذي جاءت منه تلك الرموز.</p>
+
 عندما درست ميكانيكا الكم في كلية الهندسة، كانت تظهر على السبورة أولا معادلات مثل هذه.
 
 <div class="formula-block">
@@ -50,7 +52,7 @@ reviewStatus: "done"
 
 ![مساعدة حقيقية لمن يطرحون أسئلة كثيرة](/images/inline/column-questions-lifeline.jpg)
 
-<p class="inline-image-caption">مساعدة حقيقية لمن يطرحون أسئلة كثيرة</p>
+<p class="inline-image-caption">الاختبارات القديمة كانت تفضل هذا النوع الحدسي.</p>
 
 ## لم يكن هناك من يستقبل الأسئلة
 

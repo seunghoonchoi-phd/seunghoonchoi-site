@@ -11,6 +11,8 @@ reviewStatus: "done"
 
 ![Close-up of an old analog electricity meter dial shot in dim light](/images/col-ai-hidden-costs.jpg)
 
+<p class="inline-image-caption">The instant you throw out a question, nothing shows up on the screen, so it leaks in silence.</p>
+
 ## Company AI leaks money every time you use it
 
 When you drop a question into the chat box, no sign pops up on the screen to say money is draining away. So you never notice it leaking.
@@ -45,7 +47,7 @@ Fifth, talking about "I used a ton of AI" as if it were an achievement. Using a 
 
 ![Company AI Is Not Free: The Token and Subscription Illusion, and the Money Leaking Behind the Wall](/images/inline/column-ai-hidden-costs.jpg)
 
-<p class="inline-image-caption">Company AI Is Not Free: The Token and Subscription Illusion, and the Money Leaking Behind the Wall</p>
+<p class="inline-image-caption">Using a lot is not an achievement.</p>
 
 ## "It was for work" stops working soon
 

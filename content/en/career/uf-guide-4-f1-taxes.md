@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![US tax forms with a pen](/images/uf4-taxes.jpg)
 
+<p class="inline-image-caption">Because tax law and policy change often, confirm with UFIC and a tax professional before you actually file.</p>
+
 Once your admission and most of your relocation prep are settled, one area tends to leave nearly everyone stuck: taxes. The rules for F-1 students differ from those for U.S. citizens and permanent residents, and in many cases those differences work in a student's favor. This post lays out just the essentials. Because tax law and policy change often, confirm with UFIC and a tax professional before you actually file.
 
 ## Your status and your exemptions: starting as a nonresident
@@ -32,7 +34,7 @@ For an F-1 student who came from Korea, the Korea-U.S. tax treaty adds a further
 
 ![U.S. Tax Basics for F-1 Students: 5-Year Nonresident, FICA Exemption, Korea-U.S. Treaty (Part 4)](/images/inline/career-uf-guide-4-f1-taxes.jpg)
 
-<p class="inline-image-caption">U.S. Tax Basics for F-1 Students: 5-Year Nonresident, FICA Exemption, Korea-U.S. Treaty (Part 4)</p>
+<p class="inline-image-caption">You can read the treaty text in the IRS Korea treaty PDF.</p>
 
 ## Filing forms and deadlines
 

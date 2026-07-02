@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Una persona al atardecer, parada en un cruce urbano mirando tres caminos](/images/col-learning-magic-numbers.jpg)
 
+<p class="inline-image-caption">Es más bien una serie de marcas para entender cómo se forma la intuición.</p>
+
 Cuando alguien empieza un campo nuevo, suele preguntar: "¿cuántos ejemplos tengo que ver para agarrarle el sentido?" Parece que bastaría con ver muchos. En la práctica no funciona así. Puedes mirar cien ejemplos del mismo tipo y seguir con las ideas igual de desordenadas.
 
 La intuición no nace solo del número de casos. Aparece cuando miras desde ángulos distintos, reduces las variables importantes, comparas casos de tipos diferentes y luego lo intentas tú mismo y corriges. Por eso, cuando aprendo un campo nuevo, pienso en el orden 3·7·30·100. No es una ley exacta. Es más bien una serie de marcas para entender cómo se forma la intuición.
@@ -44,7 +46,7 @@ Por ejemplo, si miras treinta fotos de filetes perfectos, no sabes cómo se ve e
 
 ![Un campo nuevo no se aprende viendo más, sino mirando distinto: los números mágicos 3·7·30·100](/images/inline/column-learning-magic-numbers.jpg)
 
-<p class="inline-image-caption">Un campo nuevo no se aprende viendo más, sino mirando distinto: los números mágicos 3·7·30·100</p>
+<p class="inline-image-caption">Viene de comparar casos distintos.</p>
 
 ## 100 no es repetición, es feedback
 

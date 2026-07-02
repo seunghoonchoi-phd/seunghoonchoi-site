@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![海の見える窓辺に座る人のシルエット](/images/inline/literature-the-last-person-at-window.jpg)
 
-<p class="inline-image-caption">海の見える窓辺に座る人のシルエット</p>
+<p class="inline-image-caption">夜のあいだに吹き込んだ雪が、窓枠の内側に薄く積もっている。</p>
 
 スギョンは今でも、毎朝同じ場所に座る。
 

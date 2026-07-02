@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![US tax forms with a pen](/images/uf4-taxes.jpg)
 
+<p class="inline-image-caption">不过，税法和政策时常变动，因此在实际办理之前，请务必再向 UFIC 和税务专业人士确认一次。</p>
+
 当录取和大部分搬迁准备都告一段落后，几乎每个人都会遇到一个让人犯难的领域，那就是税务。F-1 留学生的税务规则与美国公民、永久居民并不相同，而幸运的是，这些差异在很多方面恰恰对留学生有利。本文只梳理其中的核心要点。不过，税法和政策时常变动，因此在实际办理之前，请务必再向 UFIC 和税务专业人士确认一次。
 
 ## 身份与豁免：从非居民外国人这个起点出发
@@ -32,7 +34,7 @@ build: {list: never, render: always}
 
 ![F-1 学生的美国税务基础：非居民外国人 5 年、FICA 豁免、韩美税收协定（第 4 篇）](/images/inline/career-uf-guide-4-f1-taxes.jpg)
 
-<p class="inline-image-caption">F-1 学生的美国税务基础：非居民外国人 5 年、FICA 豁免、韩美税收协定（第 4 篇）</p>
+<p class="inline-image-caption">先向薪资部门（payroll）提交 Form 8233，在源头代扣阶段获得减免；之后在报税时，在 1040-NR Line 1k 和 Schedule OI 上填报协定适用情况。</p>
 
 ## 申报表格与截止日期
 

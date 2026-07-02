@@ -8,6 +8,8 @@ reviewStatus: "done"
 
 ![قطرات المطر على النافذة](/images/lit-remains.jpg)
 
+<p class="inline-image-caption">هل كان ذلك حقًا أهم من القلب الذي يغني للنجمة؟</p>
+
 <div class="poem">
 <p>ربما أهم شيء<br>
 هو أن النجمة الليلة أيضًا تلامس الريح،<br>

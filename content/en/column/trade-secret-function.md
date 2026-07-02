@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![A potter's hands shaping wet clay on the spinning wheel, the tiny pressure of the fingertips deciding the result](/images/col-trade-secret-function.jpg)
 
+<p class="inline-image-caption">And it's why it gets copied even faster in the AI era.</p>
+
 The whole recipe leaked online. Grams of each ingredient, heat level, timing, all of it written down. And yet you cook it exactly as written and it still doesn't taste like that restaurant's. You have all the information, but you can't get the result. Why?
 
 The entire secret of competitiveness in the AI era is sitting right here.
@@ -52,7 +54,7 @@ This failure map never makes it into the finished product, the published paper, 
 
 ![Why the Copy Never Tastes the Same: The Real Moat in the AI Era](/images/inline/column-trade-secret-function.jpg)
 
-<p class="inline-image-caption">Why the Copy Never Tastes the Same: The Real Moat in the AI Era</p>
+<p class="inline-image-caption">Yet the thing that saves you time the next time you build something similar isn't the one successful point.</p>
 
 ## You can explain it, but you still can't reproduce it
 

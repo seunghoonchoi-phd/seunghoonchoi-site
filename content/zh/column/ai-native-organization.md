@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![几何感的建筑结构，把组织从头重新搭建意味着什么](/images/col-ai-native-org.jpg)
 
+<p class="inline-image-caption">一抽掉 AI，速度、结构、成本、产品体验全塌，那才叫 AI 原生组织。</p>
+
 有人问我什么是 AI 原生组织，我会反过来问：把你现在用的 AI 全抽掉，公司会怎样？要是只是慢一点，那就是个会用 AI 的公司而已。一抽掉 AI，速度、结构、成本、产品体验全塌，那才叫 AI 原生组织。
 
 ## 把 AI 叠上去的公司，和重新铺过的公司
@@ -44,7 +46,7 @@ build: {list: never, render: always}
 
 ![用 AI 的公司很多。离了 AI 就停摆的，才叫 AI 原生组织](/images/inline/column-ai-native-organization.jpg)
 
-<p class="inline-image-caption">用 AI 的公司很多。离了 AI 就停摆的，才叫 AI 原生组织</p>
+<p class="inline-image-caption">核心就一条：出初稿、帮着判断的是 AI，最终责任永远在人。</p>
 
 ## 差距从第 3 阶段开始拉开
 

@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![An empty go board with black and white stones scattered across a wooden table, soft light coming through the window](/images/col-choose-the-board.jpg)
 
+<p class="inline-image-caption">The ability differs by 1.2 to 1, yet the results differ by ten to one, twenty to one.</p>
+
 ## They Seemed Equal. Only One Got Stronger.
 
 A go club had two players of about the same strength. One of them played the same people at the neighborhood hall every week. The other happened to join a group of strong players.
@@ -53,7 +55,7 @@ This is the real reason results spread apart when ability is the same.
 
 ![Building Skill Alone Won't Widen Your Results. Choose Your Environment First.](/images/inline/column-choose-the-board.jpg)
 
-<p class="inline-image-caption">Building Skill Alone Won't Widen Your Results. Choose Your Environment First.</p>
+<p class="inline-image-caption">This is the real reason results spread apart when ability is the same.</p>
 
 ## Where Opportunity Is Blocked, Building Skill Pays Back Only That Much.
 

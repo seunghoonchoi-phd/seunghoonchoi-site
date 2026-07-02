@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![Formularios de impuestos de Estados Unidos con un bolígrafo](/images/uf4-taxes.jpg)
 
+<p class="inline-image-caption">Ten en cuenta que las leyes y las normas fiscales cambian a menudo, así que antes de hacer cualquier trámite confírmalo una vez más con la UFIC y con un profesional en impuestos.</p>
+
 Cuando ya tienes la admisión al posgrado en Estados Unidos y la mudanza más o menos resuelta, queda un tema que casi todos encuentran confuso: los impuestos. Para un estudiante F-1, las reglas son distintas a las de un ciudadano o residente permanente, y esas diferencias suelen jugar a favor del estudiante internacional. Este artículo resume solo lo esencial. Ten en cuenta que las leyes y las normas fiscales cambian a menudo, así que antes de hacer cualquier trámite confírmalo una vez más con la UFIC y con un profesional en impuestos.
 
 ## Estatus y exenciones: empiezas como extranjero no residente
@@ -32,7 +34,7 @@ Para un estudiante F-1 que llega de Corea a Estados Unidos, el tratado fiscal Co
 
 ![Impuestos básicos para estudiantes internacionales en Estados Unidos: extranjero no residente F-1 durante 5 años, exención de FICA y tratado fiscal Corea-Estados Unidos (Parte 4)](/images/inline/career-uf-guide-4-f1-taxes.jpg)
 
-<p class="inline-image-caption">Impuestos básicos para estudiantes internacionales en Estados Unidos: extranjero no residente F-1 durante 5 años, exención de FICA y tratado fiscal Corea-Estados Unidos (Parte 4)</p>
+<p class="inline-image-caption">Puedes ver el texto del tratado en el PDF del tratado Corea-Estados Unidos del IRS.</p>
 
 ## Formularios y fechas límite
 

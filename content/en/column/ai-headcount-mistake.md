@@ -11,6 +11,8 @@ reviewStatus: "done"
 
 ![Empty chairs lined up at desks in an office lit by morning sun](/images/col-ai-headcount-mistake.jpg)
 
+<p class="inline-image-caption">If you cut people before seeing that stage, the company does not get faster.</p>
+
 When a company adopts AI tools, one sentence almost always appears: "So how many people can we cut now?" On the surface, it sounds reasonable. AI writes reports, organizes minutes, researches material, writes code, and drafts plans. Some work is genuinely faster than humans.
 
 The problem is not that AI cannot work. It is the opposite. AI can do more than people expect. But company work does not end when an output appears. Someone has to check whether the result can actually be used, who can take responsibility, and whether it fits the organization's political and practical context. If you cut people before seeing that stage, the company does not get faster. It gets slower.
@@ -77,7 +79,7 @@ On the surface, work continues. Documents come out, meetings happen, and custome
 
 ![If You Cut People Because AI Does the Work, the Company Gets Slower: The Context Only Social Animals Know](/images/inline/column-ai-headcount-mistake.jpg)
 
-<p class="inline-image-caption">If You Cut People Because AI Does the Work, the Company Gets Slower: The Context Only Social Animals Know</p>
+<p class="inline-image-caption">Headcount cuts should be the last question, not the starting point.</p>
 
 ## If you cut the middle, the company's memory disappears
 

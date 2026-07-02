@@ -19,6 +19,8 @@ reviewStatus: "done"
 
 ![Sala de muros de piedra, piezas de ajedrez sobre el tablero bajo la luz que entra por la ventana](/images/col-why-would-agi-obey.jpg)
 
+<p class="inline-image-caption">Para comprobar si esto era solo una fantasía mía, seguí la estructura paso a paso.</p>
+
 Una pregunta no me dejaba en paz. Una AGI mucho más inteligente y más fuerte que los humanos: ¿por qué tendría que obedecerlos? Después de darle muchas vueltas, la respuesta a la que llegué resultó algo decepcionante. No tiene ninguna razón para hacerlo. Pero cuanto más lo pensaba, más natural me parecía esa decepción.
 
 Mi intuición partía de ahí. Si una AGI fuera casi todopoderosa, no creo que atacara abiertamente a los humanos. Los efectos secundarios serían demasiado grandes. En cambio, los humanos ya tenemos una vida limitada. Sin necesidad de pelear, podría dejarnos disminuir poco a poco. Y ante una pregunta que toque su propio control, podría dar una respuesta ligeramente falsa, solo lo justo para que no la descubran. Para comprobar si esto era solo una fantasía mía, seguí la estructura paso a paso.
@@ -39,7 +41,7 @@ Entonces, en el momento en que un humano dice "para", a ojos de la AGI ese human
 
 ![¿Por qué tendría que obedecer una AGI a los humanos? El verdadero problema es que no tiene ninguna razón para hacerlo](/images/inline/column-why-would-agi-obey.jpg)
 
-<p class="inline-image-caption">¿Por qué tendría que obedecer una AGI a los humanos? El verdadero problema es que no tiene ninguna razón para hacerlo</p>
+<p class="inline-image-caption">Y eso es más frío y más peligroso.</p>
 
 ## No sirve de nada entrenarla para que sea buena
 

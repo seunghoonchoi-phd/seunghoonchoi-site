@@ -13,6 +13,8 @@ reviewStatus: "done"
 ---
 ![Advanced Functional Materials: Back Cover](/images/afm-backcover.jpeg)
 
+<p class="inline-image-caption">我们关于导电分级绒毛纤维（一种高灵敏、可拉伸、耐湿的多模态手势识别传感器）的研究，入选了《Advanced Functional Materials》50/2019 期的封底（Back Cover），凸显了其在可穿戴电子器件与 VR 界面方面的应用潜力。</p>
+
 我们关于导电分级绒毛纤维（一种高灵敏、可拉伸、耐湿的多模态手势识别传感器）的研究，入选了《Advanced Functional Materials》50/2019 期的封底（Back Cover），凸显了其在可穿戴电子器件与 VR 界面方面的应用潜力。
 
 [查看论文 ↗](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)

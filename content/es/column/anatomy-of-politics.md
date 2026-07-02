@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Un micrófono de latón iluminado sobre un podio en una sala oscura](/images/col-anatomy-of-politics.jpg)
 
+<p class="inline-image-caption">Solo tiene que pasar del modo de engañar con palabras al modo de prometer y cumplir.</p>
+
 Cuando miento, se me nota todo en la cara. Los elogios que no siento y las frases diplomáticas sin alma no me salen bien. Si me fuerzo a decirlas, yo mismo me incomodo y la incomodidad se me nota en la cara antes que nada. Pero la política es ganar el corazón de la gente. Muchas veces hay que decir lo que mucha gente quiere oír, lo que la tranquiliza ahora mismo. Entonces, ¿alguien como yo, que no sabe decir frases vacías, no encaja en absoluto en la política?
 
 Lo pensé durante mucho tiempo. Pero cuanto más lo miraba, más distinta se veía la respuesta. Quien no sabe decir frases vacías también puede ganarse a la gente. Solo tiene que pasar del modo de engañar con palabras al modo de prometer y cumplir.
@@ -42,7 +44,7 @@ Por eso la buena política queda en desventaja injusta. Cuanto más útil es de 
 
 ![Cómo la política gana el corazón de la gente. El método de quien no sabe decir frases vacías](/images/inline/column-anatomy-of-politics.jpg)
 
-<p class="inline-image-caption">Cómo la política gana el corazón de la gente. El método de quien no sabe decir frases vacías</p>
+<p class="inline-image-caption">La gente responde antes a una vida concreta que a una estadística.</p>
 
 ## La capacidad de ganar popularidad y la de hacer bien el trabajo son distintas
 

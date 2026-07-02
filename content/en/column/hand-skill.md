@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![Worn hand tools laid out neatly on a workbench](/images/col-hand-skill.jpg)
 
+<p class="inline-image-caption">They read the response at their fingertips every moment and keep fixing the force.</p>
+
 AI now beats people at Go. Painting, writing, and coding are going the same way too. And yet the hands of the woman rolling gimbap, the welder, the surgeon are still doing fine. Why is that?
 
 Cooking, welding, surgery, instruments, painting, assembly. The fields are completely different, but every person with good hands shares one thing. They don't repeat the exact same motion like a machine. They read the response at their fingertips every moment and keep fixing the force.
@@ -31,7 +33,7 @@ Press over a wide area and it spreads softly. Put it on one point and the pressu
 
 ![Hand Skill: The Fingertip Sense AI Can't Copy in One Shot](/images/inline/column-hand-skill.jpg)
 
-<p class="inline-image-caption">Hand Skill: The Fingertip Sense AI Can't Copy in One Shot</p>
+<p class="inline-image-caption">So hand skill can't be explained by force alone.</p>
 
 ## The core of hand skill is holding and fixing
 

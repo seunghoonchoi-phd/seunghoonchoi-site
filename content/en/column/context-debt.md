@@ -11,6 +11,8 @@ reviewStatus: "done"
 ---
 ![An old city map spread on a table, full of alleys but with no main roads marked](/images/col-context-debt.jpg)
 
+<p class="inline-image-caption">Sentence by sentence it looks quite decent.</p>
+
 You feed material to AI and ask it to write a report. A few seconds later a plausible document appears. It has a title, background, key points, and a conclusion. Sentence by sentence it looks quite decent. Then you walk into a meeting and someone asks:
 
 "Why is this conclusion the most important one?"  
@@ -84,7 +86,7 @@ You have to know this to explain the report. The fact that AI organized the piec
 
 ![Why I Cannot Explain the Report AI Wrote for Me: What Missing Background Knowledge Is](/images/inline/column-context-debt.jpg)
 
-<p class="inline-image-caption">Why I Cannot Explain the Report AI Wrote for Me: What Missing Background Knowledge Is</p>
+<p class="inline-image-caption">A report is not a bundle of material; it is an argument with a direction.</p>
 
 ## When the background knowledge is empty, a single question is enough to expose it
 

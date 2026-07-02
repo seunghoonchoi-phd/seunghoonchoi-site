@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![창가에서 부드러운 빛이 드는 빈 회의실, 탁자 둘레로 의자들이 제각기 다른 각도로 놓여 있다](/images/col-operating-rules.jpg)
 
+<p class="inline-image-caption">그 안을 채택하는 순간, 작년에 반대로 밀어붙인 부장이 틀린 사람이 되니까.</p>
+
 ## 좋은 안은 부장 체면에 떨어진다
 
 회의실에서 누구나 한 번은 본 장면이다. 신입이 제일 깔끔한 안을 들고 온다. 숫자도 맞고 논리도 빈틈이 없다. 발표가 끝나면 잠깐 조용해진다. 그러다 누가 운을 뗀다. "방향은 좋은데, 현실적으로는." 한 시간 뒤, 정작 통과되는 건 어정쩡한 절충안이다. 신입은 회의실을 나오며 생각한다. 다들 바보인가, 아니면 내가 뭘 놓쳤나.
@@ -33,7 +35,7 @@ build: {list: never, render: always}
 
 ![제일 좋은 안이 회의에서 떨어지는 진짜 이유](/images/inline/column-operating-rules.jpg)
 
-<p class="inline-image-caption">제일 좋은 안이 회의에서 떨어지는 진짜 이유</p>
+<p class="inline-image-caption">규칙의 글자가 아니라, 규칙이 진짜 하는 일을 읽은 거다.</p>
 
 ## 비싼 업체를 쓴다, 임원 체면 때문에
 

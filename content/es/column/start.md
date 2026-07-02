@@ -10,6 +10,8 @@ build: {list: never, render: always}
 
 ![Una mano escribiendo a mano en un cuaderno](/images/col-start.jpg)
 
+<p class="inline-image-caption">Aquí dejo lo que no cabe en ella.</p>
+
 De día trabajo con materiales mediante cálculos. De noche, aquí escribo otra cosa.
 
 Este es un espacio donde no escribo artículos científicos. Ensayos, historias cortas, a veces video. Mi profesión es científico de materiales computacional. Pero esa sola línea no alcanza para describir quién soy. Aquí dejo lo que no cabe en ella.

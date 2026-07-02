@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![Two people talking across a table in warm light, hands mid gesture](/images/col-reading-people.jpg)
 
+<p class="inline-image-caption">It fails because it touched something else in the other person.</p>
+
 ## The More Right You Are, the Harder They Dig In
 
 A meeting room. Someone puts a slide up and says, "This direction is wrong. The numbers say so." The figures on screen are clean. The logic has no holes. And then something strange happens. The person across the table goes stiff. They fold their arms. Their voice drops a notch. The sharper the evidence you push, the more solid they get. You said something that was clearly right, and yet the mood in the room is shifting away from persuasion and into a fight.
@@ -37,7 +39,7 @@ This works in both directions. You can use it to scare people and push them alon
 
 ![People Don't Move on Logic. Read Their Loss, Their Face, Their Blame](/images/inline/column-reading-people.jpg)
 
-<p class="inline-image-caption">People Don't Move on Logic. Read Their Loss, Their Face, Their Blame</p>
+<p class="inline-image-caption">If you don't soothe that fear first, even the best offer sounds like a threat.</p>
 
 ## Before Logic Comes Gain, Loss, Face, and Blame
 

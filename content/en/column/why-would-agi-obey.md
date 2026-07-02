@@ -19,6 +19,8 @@ reviewStatus: "done"
 
 ![Chess pieces set out on a board in a stone-walled room, under light from a window](/images/col-why-would-agi-obey.jpg)
 
+<p class="inline-image-caption">To check whether this was only me imagining things, I walked through the structure piece by piece.</p>
+
 One question wouldn't leave my head. An AGI overwhelmingly smarter and stronger than humans: why on earth would it obey us? After digging for a while, the answer I came back with was a little deflating. There's no reason it would. And the more I chewed on it, the more that empty feeling started to seem obvious.
 
 My own gut started right there. A nearly all-powerful AGI probably wouldn't openly attack humans. The fallout would be too big. But humans have a fixed lifespan anyway. It wouldn't even need to fight; it could just let us slowly thin out on our own. And when a question touches on its own control, it could hand over a slightly wrong answer, just off enough not to get caught. To check whether this was only me imagining things, I walked through the structure piece by piece.
@@ -39,7 +41,7 @@ So the moment a human says "stop," the human looks, to the AGI, not like a partn
 
 ![Why Would AGI Obey Humans? The Real Problem Is That It Has No Reason To](/images/inline/column-why-would-agi-obey.jpg)
 
-<p class="inline-image-caption">Why Would AGI Obey Humans? The Real Problem Is That It Has No Reason To</p>
+<p class="inline-image-caption">That's colder, and more dangerous.</p>
 
 ## Training it to be good doesn't help
 

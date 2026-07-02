@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![Moving boxes and luggage at a new place](/images/uf3-arrival.jpg)
 
+<p class="inline-image-caption">Each earlier step is often a prerequisite for the next, so keeping the sequence makes everything smoother.</p>
+
 By the time you land for U.S. grad school, the big tasks (visa, housing, accounts) are already done. What comes next is the everyday admin that makes daily life actually work, and getting the order wrong makes each step block the next. No phone makes opening a bank account a hassle; no bank means no card; no SSN delays your license and your credit. So this post walks through the University of Florida (UF) settlement sequence exactly as it runs, from phone to bank to SSN to Florida driver's license to building credit, and spells out what to bring and what to watch at each stage.
 
 > Recommended order: phone → bank → I-94/check-in → SSN → license → credit card. Each earlier step is often a prerequisite for the next, so keeping the sequence makes everything smoother.
@@ -42,7 +44,7 @@ Once you have a U.S. number, the bank is next. Students can open an account even
 
 ![U.S. Grad School Settlement Guide Part 3: Post-Arrival Admin in Order (Phone, Bank, SSN, License, Credit)](/images/inline/career-uf-guide-3-arrival-setup.jpg)
 
-<p class="inline-image-caption">U.S. Grad School Settlement Guide Part 3: Post-Arrival Admin in Order (Phone, Bank, SSN, License, Credit)</p>
+<p class="inline-image-caption">The selection criterion is simple: pick by branch and ATM density near campus, which is what makes daily life easiest.</p>
 
 ## 3. SSN (Social Security Number)
 

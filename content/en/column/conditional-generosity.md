@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![A hand reaching into a warm sunset sky, cupping the sun](/images/col-conditional-generosity.jpg)
 
+<p class="inline-image-caption">The other side asks, "So I am supposed to spend my whole life just taking it?"</p>
+
 I want to live as a good person. But honestly, sometimes I also want to curse someone out. I want to repay the person who hurts me in the same way, and sometimes I want to talk behind their back. One side of me says, "Still, be good." The other side asks, "So I am supposed to spend my whole life just taking it?"
 
 For a while I thought those two feelings could not go together. If I was good, I had to endure. If I was firm, I became a bad person. But after thinking about it, that was not true. Goodness and firmness are not opposites. They are one rule: be generous to good people, and charge a cost to people who cross the line.
@@ -56,7 +58,7 @@ The end of distance is not hatred. It is indifference. They no longer disturb yo
 
 ![How to Be Good Without Being a Pushover: Even a Saint Draws a Sword in Front of a Villain](/images/inline/column-conditional-generosity.jpg)
 
-<p class="inline-image-caption">How to Be Good Without Being a Pushover: Even a Saint Draws a Sword in Front of a Villain</p>
+<p class="inline-image-caption">Only then are you free from them.</p>
 
 ## Turn anger and blame into information instead of killing them
 

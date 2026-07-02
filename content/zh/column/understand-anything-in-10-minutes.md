@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![在蓝图上勾勒结构的手，搭的是结构，不是摘要](/images/col-understand.jpg)
 
+<p class="inline-image-caption">只会背标签的学法，和真正搞懂一样东西怎么运作的学法，差别就在这里。</p>
+
 走进一场陌生会议的前一分钟。第一次翻开的论文，第一次听到的技术。这种时候，我不会先去做摘要。
 
 摘要说到底是别人整理好的结论。理解必须是你亲手搭起来的结构。所以不管碰到什么概念，我都把它填进同样的九个格子，在格子里去判断它的角色和结构。只会背标签的学法，和真正搞懂一样东西怎么运作的学法，差别就在这里。
@@ -50,7 +52,7 @@ build: {list: never, render: always}
 
 ![10分钟拿下一个全新概念：纯理解九宫格模板](/images/inline/column-understand-anything-in-10-minutes.jpg)
 
-<p class="inline-image-caption">10分钟拿下一个全新概念：纯理解九宫格模板</p>
+<p class="inline-image-caption">一般的整理停在"我懂了"，而这套模板会逼你把还不懂的东西也明明白白写下来。</p>
 
 ## 这套模板不一样的地方，就三点
 

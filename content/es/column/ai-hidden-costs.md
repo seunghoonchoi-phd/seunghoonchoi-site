@@ -11,6 +11,8 @@ reviewStatus: "done"
 
 ![Primer plano de la esfera de un viejo contador eléctrico analógico bajo una luz tenue](/images/col-ai-hidden-costs.jpg)
 
+<p class="inline-image-caption">En el momento de escribir la pregunta no aparece ningún aviso, así que el dinero se escapa en silencio.</p>
+
 ## La IA de la empresa pierde dinero cada vez que la usas
 
 Cuando escribes una pregunta en el chat, no aparece ningún aviso de que estás gastando dinero. Por eso no te das cuenta de que se está escapando.
@@ -45,7 +47,7 @@ Quinto, presumir de "he usado muchísimo la IA" como si fuera un logro. Usarla m
 
 ![La IA de la empresa no es gratis. El espejismo de los tokens y la suscripción, y el dinero que se escapa sin que nadie lo vea](/images/inline/column-ai-hidden-costs.jpg)
 
-<p class="inline-image-caption">La IA de la empresa no es gratis. El espejismo de los tokens y la suscripción, y el dinero que se escapa sin que nadie lo vea</p>
+<p class="inline-image-caption">Quinto, presumir de "he usado muchísimo la IA" como si fuera un logro.</p>
 
 ## "Es para el trabajo" deja de valer pronto
 

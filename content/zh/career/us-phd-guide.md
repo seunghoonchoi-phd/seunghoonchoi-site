@@ -33,7 +33,7 @@ reviewStatus: "done"
 
 ![美国博士留学，一个人准备也可以](/images/inline/career-us-phd-guide.jpg)
 
-<p class="inline-image-caption">美国博士留学，一个人准备也可以</p>
+<p class="inline-image-caption">佛罗里达大学（University of Florida, UF）材料工程博士项目，全额资助。</p>
 
 我先说明白。这本书记录的，只是我一次准备美国博士留学的个人经验。我只是把自己经历过的事照实写下，并展示一条可以自己准备的路径。怎么判断，是读者自己的事。
 

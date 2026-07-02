@@ -13,6 +13,8 @@ reviewStatus: "done"
 
 ![AI를 쓰며 작은 장치를 함께 점검하는 학생들](/images/col-ai-school-practical-sense.png)
 
+<p class="inline-image-caption">학생은 AI가 낸 답이 현실에서 맞는지 확인하고, 틀린 부분을 다시 고쳐봐야 한다.</p>
+
 학생이 AI에게 “이 자료를 표로 정리해줘”라고 말하면 몇 초 뒤 표가 나온다. “고등학생도 이해하게 설명해줘”라고 하면 AI는 설명 수준을 낮춘다. “발표 자료로 바꿔줘”라고 하면 AI는 목차와 슬라이드 초안을 만든다.
 
 자료 조사, 요약, 글쓰기, 코딩, 표 정리, 발표 자료 만들기는 이미 AI가 빠르게 처리한다. 아직 사람의 지시와 검토가 필요하지만, 학생이 모니터 앞에서 혼자 하던 많은 과제는 점점 AI가 대신하게 된다.
@@ -61,7 +63,7 @@ AI 시대에는 학교가 시간을 쓰는 방식이 달라져야 한다. 정답
 
 ![AI 시대 학교: 지식보다 실무감각을 가르쳐야 한다](/images/inline/column-ai-school-practical-sense.jpg)
 
-<p class="inline-image-caption">AI 시대 학교: 지식보다 실무감각을 가르쳐야 한다</p>
+<p class="inline-image-caption">학생은 AI로 조사하고, 초안을 만들고, 밖에 나가 확인하고, 틀린 부분을 다시 고쳐봐야 한다.</p>
 
 ## 학생은 모니터 밖에서 확인해야 한다
 

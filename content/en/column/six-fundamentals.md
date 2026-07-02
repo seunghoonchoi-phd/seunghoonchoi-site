@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![A climber chalking their hands in front of a difficult rock wall](/images/col-six-fundamentals.jpg)
 
+<p class="inline-image-caption">But up close, study smarts are not one talent.</p>
+
 AI now summarizes, translates, drafts reports, and even writes code. Does that make study smarts less important? I think the opposite is true.
 
 Memorization and repetitive calculation may matter less. But the ability to read sentences, understand how work moves, bind scattered information into structure, and handle invisible concepts matters more. The faster AI produces outputs, the more important the human fundamentals become for judging whether those outputs are right or wrong.
@@ -57,7 +59,7 @@ Even if AI writes the draft, a person has to check whether that draft matches th
 
 ![What Matters More Than Study Smarts: Four Fundamentals That Matter More as AI Gets Better](/images/inline/column-six-fundamentals.jpg)
 
-<p class="inline-image-caption">What Matters More Than Study Smarts: Four Fundamentals That Matter More as AI Gets Better</p>
+<p class="inline-image-caption">Even if AI writes the draft, a person has to check whether that draft matches the real flow of work.</p>
 
 ## 3. Structuring ability: binding scattered information into a usable shape
 

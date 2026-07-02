@@ -10,6 +10,8 @@ reviewStatus: "done"
 ---
 ![A magnifying glass beside a laptop](/images/col-qa.jpg)
 
+<p class="inline-image-caption">問題は、チェックツールがどこまで口を出すべきか、ということだ。</p>
+
 文字がスライドの外にはみ出していた。送る直前になって、やっと目に入った。
 
 エクセルには `#REF!` エラーが残っていて、表の罫線はあるマスにはあって、別のマスにはなかった。Word文書には、消えているはずのマークダウン記号がそのまま残っていた。こういうのは好みの問題ではない。ただ成果物が壊れているだけだ。
@@ -44,7 +46,7 @@ AIが作ったオフィスファイルには、こういうミスがよく出る
 
 ![AI成果物チェックの落とし穴：エラーをつぶすあまり、出来の上限まで下げてはいけない](/images/inline/column-dont-lobotomize-the-model.jpg)
 
-<p class="inline-image-caption">AI成果物チェックの落とし穴：エラーをつぶすあまり、出来の上限まで下げてはいけない</p>
+<p class="inline-image-caption">でも、もっと優れたモデルが意図して選ぶこともある表現なら、チェックツールが止めてはいけない。</p>
 
 ## すべての問題を白黒で分けられるわけではない
 

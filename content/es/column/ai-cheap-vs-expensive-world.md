@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Robots industriales trabajando alrededor de la carrocería de un automóvil en una fábrica](/images/col-ai-cheap-vs-expensive-world.jpg)
 
+<p class="inline-image-caption">La IA actual es fuerte cuando puede probar mucho, comparar resultados y buscar la dirección donde mejora la puntuación.</p>
+
 Cada vez que aparece la historia de una IA que venció al mejor jugador humano de Go, la gente hace una pregunta parecida: "si ya puede hacer eso, ¿no se llevará pronto todo el trabajo humano?"
 
 Pero en el terreno real, la imagen cambia. Ganó al Go, pero soldar todavía no es fácil. Resuelve problemas de código, pero no suelda de forma estable, como una persona, junto a una tubería vieja y chispas saltando.
@@ -60,7 +62,7 @@ Por eso la máquina puede volverse fuerte en situaciones promedio. Aprende rápi
 
 ![La IA venció en Go, pero ¿por qué todavía le cuesta soldar?: el humano se detiene, la máquina repite](/images/inline/column-ai-cheap-vs-expensive-world.jpg)
 
-<p class="inline-image-caption">La IA venció en Go, pero ¿por qué todavía le cuesta soldar?: el humano se detiene, la máquina repite</p>
+<p class="inline-image-caption">Pero conserva debilidades en señales raras justo antes de un accidente, excepciones fuera del modelo y juicios de riesgo difíciles de puntuar.</p>
 
 ## El gemelo digital le da a la máquina un lugar para practicar
 

@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![Campus universitario soleado](/images/uf5-life.jpg)
 
+<p class="inline-image-caption">Organiza la vida real allí en siete temas: vivienda, transporte, costo de vida, salud, clima, comunidad y viajes.</p>
+
 Si ya terminaste la admisión al posgrado en Estados Unidos, la visa y los primeros trámites, ahora empieza la vida de verdad. Dónde vivir, cómo moverte, cuánto gastas al mes. Y adónde ir si te enfermas y qué preparar cuando llega un huracán. Este texto es una guía para instalarte en Gainesville, Florida (University of Florida). Organiza la vida real allí en siete temas: vivienda, transporte, costo de vida, salud, clima, comunidad y viajes.
 
 ## Vivienda: casi todos viven fuera del campus
@@ -65,7 +67,7 @@ Lo que recibes después de impuestos es de unos $2.200-$2.400 al mes, así que v
 
 ![Vivir en Gainesville de la A a la Z: vivienda, transporte y costo de vida, salud, clima y comunidad](/images/inline/career-uf-guide-5-gainesville-life.jpg)
 
-<p class="inline-image-caption">Vivir en Gainesville de la A a la Z: vivienda, transporte y costo de vida, salud, clima y comunidad</p>
+<p class="inline-image-caption">Para una compra grande de verdad, lo habitual es ir una vez al mes en coche al H-Mart de Orlando, a 1,5-2 horas de distancia.</p>
 
 ## Salud y atención médica (SHCC): lo esencial que debes saber
 

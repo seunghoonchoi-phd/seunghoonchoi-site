@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Una mesa de reuniones vacía convertida en un lugar para observar una reunión ajena](/images/col-meetings.jpg)
 
+<p class="inline-image-caption">La reunión avanza y tú no sabes ni por dónde empezar a seguirla.</p>
+
 Cuando entras a una reunión de un trabajo que ves por primera vez, lo normal es quedarse en blanco. Conoces pocas palabras y los demás hablan como si ya compartieran todo el contexto. La reunión avanza y tú no sabes ni por dónde empezar a seguirla.
 
 Si eliges mal el objetivo, se vuelve más duro. No debes intentar entenderlo todo desde el principio. El objetivo de una primera reunión no es comprender cada detalle, sino reconstruir la estructura del trabajo. Primero hay que captar por qué existe ese trabajo, qué se está decidiendo y qué causa la división.
@@ -52,7 +54,7 @@ Con esa separación, el trabajo se ve mucho más claro. Lo decidido se vuelve cr
 
 ![Un trabajo que ves por primera vez: cómo analizar una transcripción de reunión con IA y entender la estructura](/images/inline/column-observing-others-meetings.jpg)
 
-<p class="inline-image-caption">Un trabajo que ves por primera vez: cómo analizar una transcripción de reunión con IA y entender la estructura</p>
+<p class="inline-image-caption">Lo que hay que verificar se convierte en tarea para estudiar o preguntar.</p>
 
 ## Hay que dividir los temas de forma MECE
 

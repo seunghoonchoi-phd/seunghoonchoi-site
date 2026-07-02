@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![Herramientas manuales gastadas, colocadas en orden sobre una mesa de trabajo](/images/col-hand-skill.jpg)
 
+<p class="inline-image-caption">Leen a cada instante la reacción que sienten en los dedos y van corrigiendo la fuerza.</p>
+
 El go ya lo domina la IA. La pintura, la escritura y la programación también van quedando bajo la IA. Y sin embargo, el trabajo de la señora que enrolla el gimbap, el del soldador y el del cirujano sigue sin reemplazarse. ¿Por qué?
 
 Cocinar, soldar, operar, tocar un instrumento, pintar, ensamblar. Son campos completamente distintos, pero todas las personas con buena habilidad manual comparten una sola cosa: no repiten el mismo movimiento como una máquina. Leen a cada instante la reacción que sienten en los dedos y van corrigiendo la fuerza.
@@ -31,7 +33,7 @@ Si presionas sobre una zona amplia, se reparte con suavidad. Si la aplicas en un
 
 ![La habilidad manual: el sentido del tacto que la IA no copia de golpe](/images/inline/column-hand-skill.jpg)
 
-<p class="inline-image-caption">La habilidad manual: el sentido del tacto que la IA no copia de golpe</p>
+<p class="inline-image-caption">Por eso la habilidad manual no se explica solo con la fuerza.</p>
 
 ## El núcleo de la habilidad manual es resistir y corregir
 

@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![黎明前商贩还没到，空荡荡的露天市场摊位](/images/col-institutions-as-games.jpg)
 
+<p class="inline-image-caption">可往里头看，看人到底是怎么做的，就会发现制度做的其实更多是塑造行为。</p>
+
 ## 公司里闭嘴的那个人，到了社团却抢着带头
 
 我有个朋友。公司开会时他几乎不开口，得有人点名问，他才勉强说上一两句，凡是要担责任的话，打死都不说。可周末兴趣社团的群里再看到他，简直像换了个人。他排日程，照顾新来的，还没人开口，他就先把带头的活揽了下来。没人逼他，他自己就这么干。
@@ -41,7 +43,7 @@ build: {list: never, render: always}
 
 ![读懂一个制度：别先看规则，先看奖什么、罚什么](/images/inline/column-institutions-as-games.jpg)
 
-<p class="inline-image-caption">读懂一个制度：别先看规则，先看奖什么、罚什么</p>
+<p class="inline-image-caption">所以一个组织陷进某种怪数字游戏里，骂里头的人糊涂之前，得先问：这里挂着奖的数字是哪个？</p>
 
 ## 加了审批，结果只有老实人吃亏
 

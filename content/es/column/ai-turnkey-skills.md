@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Ilustración de un asistente de investigación con IA](/images/col-ai-turnkey-skills.png)
 
+<p class="inline-image-caption">Al contrario: cuanto más se externaliza una parte de la inteligencia hacia la IA, más claro se vuelve el papel que queda para la persona.</p>
+
 Llegó una época en la que la IA produce respuestas con rapidez. Buscar materiales, escribir frases, ordenar ideas y crear borradores es mucho más fácil que antes. Pero que la respuesta llegue rápido no significa que el trabajo mejore solo. Al contrario: cuanto más se externaliza una parte de la inteligencia hacia la IA, más claro se vuelve el papel que queda para la persona.
 
 En la era de la IA, la persona valiosa no es simplemente la más lista. Es la que recibe un trabajo y lo lleva desde el objetivo hasta el resultado final con responsabilidad. La persona a la que se le puede entregar algo en modo llave en mano y que sabe leer el contexto, ordenar el trabajo y cerrarlo con cuidado. En Corea se resume a veces como "saber hacerlo bien, con criterio y sin que tengan que explicártelo todo". Esa capacidad se vuelve más escasa.
@@ -44,7 +46,7 @@ En la era de la IA, los cuellos de botella no son solo falta de técnica. Tambi�
 
 ![En la era de la IA, si falta una sola de estas 7 capacidades, el trabajo se tambalea. Y hay algo aún más importante](/images/inline/column-ai-turnkey-skills.jpg)
 
-<p class="inline-image-caption">En la era de la IA, si falta una sola de estas 7 capacidades, el trabajo se tambalea. Y hay algo aún más importante</p>
+<p class="inline-image-caption">Lo importante es detectar rápido dónde está el bloqueo, estrechar la causa y convertirla en una acción siguiente.</p>
 
 La IA produce borradores, ideas, código y resúmenes con rapidez. Pero convertir ese borrador en algo que clientes y colegas puedan usar de verdad sigue siendo tarea humana. Un buen comienzo importa menos que llevarlo hasta un resultado utilizable.
 

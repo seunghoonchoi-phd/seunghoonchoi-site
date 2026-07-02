@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![量子力学の黒板の前で先生が講義し、複数の学生の中で一人が答えのない質問に圧倒されているイラスト](/images/col-questions-lifeline.png)
 
+<p class="inline-image-caption">そういう言葉が出てきて、ある時点からは、その記号を誰もがすでに知っている前提で授業が進んでいた。</p>
+
 工学部で量子力学を学んだとき、黒板にはまずこんな式が出てきた。
 
 <div class="formula-block">
@@ -50,7 +52,7 @@ reviewStatus: "done"
 
 ![質問が多い人の救い](/images/inline/column-questions-lifeline.jpg)
 
-<p class="inline-image-caption">質問が多い人の救い</p>
+<p class="inline-image-caption">先生は進度を進めなければならず、塾は問題の型を回さなければならず、教材は途中の理解の段差をすべて埋めてはくれなかった。</p>
 
 ## 質問を受け止めてくれる人がいなかった
 

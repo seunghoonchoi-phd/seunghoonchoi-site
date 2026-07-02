@@ -8,6 +8,8 @@ reviewStatus: "done"
 
 ![खिड़की पर बारिश की बूँदें](/images/lit-remains.jpg)
 
+<p class="inline-image-caption">क्या यह सचमुच तारे का गीत गाने वाले मन से ज्यादा जरूरी था?</p>
+
 <div class="poem">
 <p>शायद सबसे जरूरी बात यही है<br>
 कि आज रात भी एक तारा हवा में,<br>

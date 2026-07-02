@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Pantalla de portátil con un flujo de trabajo de IA, documentos, un candado y una luz de advertencia sobre el escritorio](/images/col-ai-risk-leverage.png)
 
+<p class="inline-image-caption">Es molesto y lento, pero esa pausa evita muchos errores.</p>
+
 Con IA, crear un texto toma muy poco. Sale un aviso para clientes, un comunicado de prensa, una respuesta de correo. Un borrador que antes tomaba un día aparece en diez minutos, y en varias versiones. Por eso el momento más peligroso no es cuando la IA se equivoca. Es cuando la IA produce algo demasiado rápido y demasiado convincente. Cuando una persona lo hace a mano, se detiene varias veces. Piensa si puede usar esa frase, si puede sacar esa información, cómo la leerá la otra parte. Es molesto y lento, pero esa pausa evita muchos errores.
 
 Cuando se conecta IA, esa pausa desaparece. El borrador sale demasiado rápido y corregirlo es demasiado fácil. Si uno quiere, puede producir diez textos, diez avisos o diez propuestas en un día. El problema es que los controles de verificación también tendrían que multiplicarse por diez, y muchas veces siguen igual.
@@ -56,7 +58,7 @@ Los daños de reputación no siempre surgen de una gran frase. A menudo nacen de
 
 ![El riesgo de la IA crece por la velocidad: cómo la automatización sin revisión agranda las crisis](/images/inline/column-ai-risk-leverage.jpg)
 
-<p class="inline-image-caption">El riesgo de la IA crece por la velocidad: cómo la automatización sin revisión agranda las crisis</p>
+<p class="inline-image-caption">La reputación no es un problema de información.</p>
 
 ## La prisa puede sacar datos sensibles al exterior
 

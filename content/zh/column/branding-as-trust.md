@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![工匠的手把自己的印记压进皮革，象征信任的标记](/images/col-branding-as-trust.jpg)
 
+<p class="inline-image-caption">新人写的邮件，和干了十年的人写的邮件，让模型跑一遍，都一样光溜溜的。</p>
+
 几年前，想知道谁活儿干得好，办法很简单。看他写的东西就行。一份方案、一篇报告、一封邮件。句子干净、话说得顺，你就会想：嗯，这人应该能干。
 
 现在这招不灵了。因为谁写出来都顺。新人写的邮件，和干了十年的人写的邮件，让模型跑一遍，都一样光溜溜的。文字干净，已经不再是实力的证据。
@@ -49,7 +51,7 @@ build: {list: never, render: always}
 
 ![AI免费帮你写字的时代，真正变贵的是信任](/images/inline/column-branding-as-trust.jpg)
 
-<p class="inline-image-caption">AI免费帮你写字的时代，真正变贵的是信任</p>
+<p class="inline-image-caption">不是因为供给变少了，而是因为信任成了几乎唯一一个装不出来的信号。</p>
 
 ## 品牌是五块依次相连的
 

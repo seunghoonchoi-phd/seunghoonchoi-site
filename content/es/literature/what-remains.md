@@ -8,6 +8,8 @@ reviewStatus: "done"
 
 ![Gotas de lluvia sobre una ventana](/images/lit-remains.jpg)
 
+<p class="inline-image-caption">¿De verdad eso importaba más que el deseo de cantarle a una estrella?</p>
+
 <div class="poem">
 <p>Quizá lo más importante<br>
 es que esta noche también las estrellas<br>

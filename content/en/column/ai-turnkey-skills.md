@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Illustration of an AI research assistant](/images/col-ai-turnkey-skills.png)
 
+<p class="inline-image-caption">If anything, as a large part of intelligence gets outsourced to AI, the human role becomes clearer.</p>
+
 We have entered an age when AI produces answers quickly. Finding information, writing sentences, organizing ideas, and making drafts have become much easier. But faster answers do not automatically make work better. If anything, as a large part of intelligence gets outsourced to AI, the human role becomes clearer.
 
 The important person in the AI era is not simply the smart person. It is the person who can take responsibility for the work from goal to final output. In other words, someone you can hand a task to in a turnkey way: they read the context, organize what needs to be done, and finish cleanly. The informal Korean phrase al-jal-ttak-kkal-sen captures it well: understand the situation, do it well, make the right calls, and leave it neat.
@@ -44,7 +46,7 @@ In the AI era, bottlenecks are not only technical shortages. Slow decisions, blo
 
 ![Seven Skills That Make Work Hold Together in the AI Era, and What Matters Even More](/images/inline/column-ai-turnkey-skills.jpg)
 
-<p class="inline-image-caption">Seven Skills That Make Work Hold Together in the AI Era, and What Matters Even More</p>
+<p class="inline-image-caption">The important thing is to find the blockage early, narrow down the cause, and turn it into the next action.</p>
 
 AI quickly creates drafts, ideas, code, and summaries. But turning a draft into an output that customers and colleagues can actually use is still human work. A good beginning matters less than finishing something that can truly be used.
 

@@ -13,6 +13,8 @@ reviewStatus: "done"
 
 ![A worker wearing wearable AI glasses on a construction site, looking at an excavator and sensor data](/images/col-ai-profit-question-too-early.jpg)
 
+<p class="inline-image-caption">Has a company that sells AI infrastructure, like NVIDIA, made money?</p>
+
 Read enough AI investing articles or watch enough YouTube commentary, and the same question keeps coming up.
 
 "So, has any company actually made money with AI?"
@@ -75,7 +77,7 @@ For AI to attach itself to real work, it has to be present at that moment. And t
 
 ![No Company Has Made Money With AI? The Question Is Too Early](/images/inline/column-ai-profit-question-too-early.jpg)
 
-<p class="inline-image-caption">No Company Has Made Money With AI? The Question Is Too Early</p>
+<p class="inline-image-caption">Only then can AI judge the situation in front of it, not just the documents on a screen.</p>
 
 ## If you only think about robots, you miss the important part
 

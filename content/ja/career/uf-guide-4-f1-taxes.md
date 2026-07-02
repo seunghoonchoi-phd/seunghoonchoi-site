@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![US tax forms with a pen](/images/uf4-taxes.jpg)
 
+<p class="inline-image-caption">ただし法律や税制はよく変わるので、実際に手続きする前にはUFICと税務の専門家にもう一度確認してください。</p>
+
 アメリカの大学院に合格し、移り住む準備がある程度ひと段落すると、ほぼ全員がつまずく部分が一つ残ります。税金です。F-1留学生の税金は、アメリカの市民・永住権者とはルールが違いますが、その違いが留学生にとって有利に働くことが多いのです。この記事はその要点だけをまとめます。ただし法律や税制はよく変わるので、実際に手続きする前にはUFICと税務の専門家にもう一度確認してください。
 
 ## 身分と免除：非居住外国人から始まる
@@ -32,7 +34,7 @@ build: {list: never, render: always}
 
 ![アメリカ留学生の税金の基本: F-1 非居住外国人5年・FICA免除・米韓租税条約 (Part 4)](/images/inline/career-uf-guide-4-f1-taxes.jpg)
 
-<p class="inline-image-caption">アメリカ留学生の税金の基本: F-1 非居住外国人5年・FICA免除・米韓租税条約 (Part 4)</p>
+<p class="inline-image-caption">まず給与担当(payroll)にForm 8233を提出して源泉徴収の段階で減免を受け、その後の税務申告のときに1040-NRのLine 1kとSchedule OIに条約を適用した事実を記載します。</p>
 
 ## 申告書類と締め切り
 

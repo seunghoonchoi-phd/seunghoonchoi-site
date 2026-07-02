@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Un surfista al atardecer usando la fuerza de la ola como impulso](/images/col-riding-exponential-curves.jpg)
 
+<p class="inline-image-caption">Lo importante es si permanece y produce dinero u oportunidades aunque no sigas trabajando encima.</p>
+
 El salario importa. Te permite vivir ahora y sostiene la vida para que no se derrumbe. Pero solo con salario es difícil volverse rico. Entra dinero en proporción al tiempo que trabajas.
 
 El problema no es solo que el salario sea bajo. El salario se detiene cuando tú te detienes. Por eso, en algún momento, hay que convertir el dinero ganado trabajando en activos que sigan trabajando por ti. Activo no significa solo bienes raíces o acciones. También puede ser un texto, código, producto, marca, datos o copyright que tú creaste. Lo importante es si permanece y produce dinero u oportunidades aunque no sigas trabajando encima.
@@ -32,7 +34,7 @@ El primer método es simple. Hay que dejar apartada una parte del salario, sí o
 
 ![Con salario no te vuelves rico. Cómo crear activos que crecen con interés compuesto](/images/inline/column-riding-exponential-curves.jpg)
 
-<p class="inline-image-caption">Con salario no te vuelves rico. Cómo crear activos que crecen con interés compuesto</p>
+<p class="inline-image-caption">El punto es no dejar que el dinero solo pase por tus manos, sino convertirlo en algo que quede a tu nombre.</p>
 
 ## Cómo elegir activos que crecen con interés compuesto
 

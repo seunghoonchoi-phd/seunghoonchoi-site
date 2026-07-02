@@ -12,6 +12,8 @@ reviewStatus: "done"
 
 ![Ilustración del Atlántico Norte con corrientes superficiales cálidas y corrientes profundas frías, y pequeños módulos de persiana espacial hacia el Sol](/images/col-amoc-global-warming-first.jpg)
 
+<p class="inline-image-caption">Usarlas para reducir un poco la luz solar de verano que llega al Ártico y a Groenlandia.</p>
+
 Colocar láminas delgadas a unos 1,5 millones de kilómetros entre el Sol y la Tierra. No una sombrilla gigantesca, sino muchas persianas pequeñas. Usarlas para reducir un poco la luz solar de verano que llega al Ártico y a Groenlandia.
 
 Al escucharlo por primera vez, suena loco. Una persiana espacial para enfriar la Tierra parece una idea que se fue demasiado lejos. Pero lo más loco ya está ocurriendo. Quemamos combustibles fósiles, cambiamos la composición de la atmósfera, calentamos el océano y redujimos el hielo blanco del Ártico.
@@ -62,7 +64,7 @@ Una persiana espacial es un antipirético. Es un fármaco de emergencia para baj
 
 ![Ilustración científica de pequeños módulos de persiana espacial entre el Sol y la Tierra que reducen ligeramente la luz sobre el Ártico y el Atlántico Norte](/images/col-amoc-space-blind-modules.jpg)
 
-<p class="inline-image-caption">Ilustración científica de pequeños módulos de persiana espacial entre el Sol y la Tierra que reducen ligeramente la luz sobre el Ártico y el Atlántico Norte</p>
+<p class="inline-image-caption">El tratamiento real es detener las emisiones de CO2 y retirar el CO2 que ya está en el aire.</p>
 
 ## Primero enfriar, después sacar el veneno
 
@@ -90,7 +92,7 @@ La IA no debe convertirse en un dios que gobierne la Tierra por nosotros. Pero s
 
 ![Ilustración científica de satélites, boyas oceánicas y modelos climáticos conectados en una red de monitoreo con IA sobre el Atlántico Norte](/images/col-amoc-ai-monitoring-network.jpg)
 
-<p class="inline-image-caption">Ilustración científica de satélites, boyas oceánicas y modelos climáticos conectados en una red de monitoreo con IA sobre el Atlántico Norte</p>
+<p class="inline-image-caption">Pero sí puede cumplir el papel de señalar indicios demasiado complejos para que los humanos los veamos solos.</p>
 
 ## SpaceX debería mirar la circulación de la Tierra antes que Marte
 

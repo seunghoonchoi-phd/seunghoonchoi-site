@@ -11,6 +11,8 @@ reviewStatus: "done"
 
 ![Sillas vacías alineadas frente a escritorios en una oficina iluminada por el sol de la mañana](/images/col-ai-headcount-mistake.jpg)
 
+<p class="inline-image-caption">Algunas tareas las hace de verdad más rápido que una persona.</p>
+
 Cuando una empresa introduce herramientas de IA, hay una frase que aparece siempre: "entonces, ¿cuántas personas podemos recortar?" Por fuera suena razonable. La IA escribe informes, ordena minutas, investiga materiales, programa y arma propuestas. Algunas tareas las hace de verdad más rápido que una persona.
 
 El problema no es que la IA no pueda trabajar. Es lo contrario. La IA puede hacer más de lo que mucha gente imagina. Pero el trabajo de una empresa no termina cuando aparece un resultado. Hay que comprobar si ese resultado se puede usar de verdad, quién puede responsabilizarse y si encaja con el contexto político y práctico de la organización. Si no miras esa etapa y recortas personas primero, la empresa no se vuelve más rápida. Se vuelve más lenta.
@@ -77,7 +79,7 @@ Por fuera, todo funciona. Salen documentos, hay reuniones, continúa la atenció
 
 ![Si reduces personal porque la IA hace el trabajo, la empresa se vuelve más lenta: el contexto que solo conoce un animal social](/images/inline/column-ai-headcount-mistake.jpg)
 
-<p class="inline-image-caption">Si reduces personal porque la IA hace el trabajo, la empresa se vuelve más lenta: el contexto que solo conoce un animal social</p>
+<p class="inline-image-caption">La reducción no debe ser el punto de partida.</p>
 
 ## Si recortas el nivel intermedio, desaparece la memoria de la empresa
 

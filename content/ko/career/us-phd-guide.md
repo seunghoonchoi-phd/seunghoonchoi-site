@@ -33,7 +33,7 @@ Resume를 어떻게 쓰는지 몰랐다. SOP는 그게 자기소개서라는 것
 
 ![미국 박사 유학, 혼자 준비해도 됩니다](/images/inline/career-us-phd-guide.jpg)
 
-<p class="inline-image-caption">미국 박사 유학, 혼자 준비해도 됩니다</p>
+<p class="inline-image-caption">플로리다대학교(University of Florida, UF) 재료공학 박사 과정, 전액 펀딩.</p>
 
 미리 분명히 해 둔다. 이 책에 담은 것은 한 번의 미국 박사 유학 준비 과정에서 겪은 나의 경험일 뿐이다. 나는 다만 내가 겪은 것을 그대로 적고, 직접 준비할 수 있었던 경로를 보여줄 뿐이다. 판단은 독자의 몫이다.
 

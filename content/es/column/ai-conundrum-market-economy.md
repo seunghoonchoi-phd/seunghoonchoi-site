@@ -14,6 +14,8 @@ build: {list: never, render: always}
 
 ![Pasillo de un centro de datos con filas de servidores](/images/col-ai-conundrum-market-economy.jpg)
 
+<p class="inline-image-caption">Por eso, cuanto más avanza la IA, más inestable puede volverse la economía de mercado que conocemos.</p>
+
 Si hoy le encargas a la IA una página de trabajo, ya cuesta llamarla juguete. Escribe código, ordena tablas, redacta respuestas para clientes y resume actas de reunión. Se equivoca, claro. Pero muchas cosas sí las hace. La IA no es una tecnología hecha solo de humo.
 
 Y justo ahí empieza el enigma. Si la IA no gana dinero, es una burbuja. La inversión es demasiado grande para recuperarse, y la carga acaba volviendo al mercado. Pero si la IA sí gana dinero, el problema no desaparece. Si esa ganancia viene de contratar a menos gente y reducir ingresos salariales, las utilidades de las empresas pueden subir mientras se debilita el poder de compra del mercado entero. Si no gana dinero, hay problema. Si gana dinero, también puede haber problema. Por eso, cuanto más avanza la IA, más inestable puede volverse la economía de mercado que conocemos.
@@ -58,7 +60,7 @@ Un auge sin empleo puede verse brillante en los números. Pero la gente no vive 
 
 ![El enigma de la IA: cuanto más avanza la tecnología, más inestable se vuelve la economía de mercado](/images/inline/column-ai-conundrum-market-economy.jpg)
 
-<p class="inline-image-caption">El enigma de la IA: cuanto más avanza la tecnología, más inestable se vuelve la economía de mercado</p>
+<p class="inline-image-caption">Entonces el mercado pregunta: los márgenes mejoraron, ¿pero dónde está el crecimiento de ventas?</p>
 
 ## Las respuestas habituales son demasiado lentas o demasiado débiles
 

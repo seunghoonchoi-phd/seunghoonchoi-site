@@ -14,6 +14,8 @@ reviewStatus: "done"
 
 ![Cómo sobrevivir en la era de la IA: apuesta por certificaciones y propiedad, no solo por habilidad](/images/col-ai-replacement-stages-5.jpg)
 
+<p class="inline-image-caption">Hay que convertir esa habilidad en certificación, en un lugar de responsabilidad y en propiedad.</p>
+
 Pones una frase en una app de traducción y en pocos segundos aparece un inglés convincente. Si pasaste años estudiando inglés, puede doler. Una capacidad que tardaste mucho en acumular ahora se obtiene con pulsar un botón. Esa escena resume en una línea los cuatro textos anteriores.
 
 Desde trabajos con respuesta, trabajos repetitivos, trabajo físico, trabajo que exige juicio, hasta tareas donde se mezclan autoridad de decisión y propiedad, la IA avanza por etapas. Entonces, ¿qué debe hacer una persona? La respuesta es simple.
@@ -78,7 +80,7 @@ En la era de la IA no basta con preguntar "qué voy a hacer bien". Hay que pregu
 
 ![Cómo sobrevivir en la era de la IA: apuesta por certificaciones y propiedad, no solo por habilidad](/images/inline/column-ai-replacement-stages-5.jpg)
 
-<p class="inline-image-caption">Cómo sobrevivir en la era de la IA: apuesta por certificaciones y propiedad, no solo por habilidad</p>
+<p class="inline-image-caption">Hay que preguntar: "de lo que hago bien, ¿qué queda como mío?"</p>
 
 ## Las grandes estrellas y los trabajadores comunes juegan juegos distintos
 

@@ -12,6 +12,8 @@ build: {list: never, render: always}
 
 ![A drawer of card files where only the labeled ones stay. Picking is the system](/images/col-info-extraction.jpg)
 
+<p class="inline-image-caption">Yet a month later, there is almost nothing I can find again.</p>
+
 The more I talk to AI, the less knowledge I actually keep. Strange, but true.
 
 The reason is simple. AI produces more than I can check and file. The good lines keep coming. Yet a month later, there is almost nothing I can find again.
@@ -45,7 +47,7 @@ The key device is the "estimate flag." It forces apart the structure the AI made
 
 ![Why Hours of AI Chat Leave You With Nothing. A 3-Stage Notion Prompt](/images/inline/column-info-extraction-pipeline.jpg)
 
-<p class="inline-image-caption">Why Hours of AI Chat Leave You With Nothing. A 3-Stage Notion Prompt</p>
+<p class="inline-image-caption">It forces apart the structure the AI made up from the structure the chat actually backs up, so the two never blend.</p>
 
 ## Copy-paste prompts, grab them as is
 

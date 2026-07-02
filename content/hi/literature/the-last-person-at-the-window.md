@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![समुद्र दिखती खिड़की के पास बैठे एक इंसान की छाया](/images/inline/literature-the-last-person-at-window.jpg)
 
-<p class="inline-image-caption">समुद्र दिखती खिड़की के पास बैठे एक इंसान की छाया</p>
+<p class="inline-image-caption">धुँधले दिन में समुद्र और आसमान के बीच कोई सीमा नहीं दिखती, इसलिए पता ही नहीं चलता कि पानी कहाँ ख़त्म होता है और बादल कहाँ से शुरू होते हैं।</p>
 
 सुक्यॉन्ग अब भी हर सुबह उसी जगह बैठती है।
 

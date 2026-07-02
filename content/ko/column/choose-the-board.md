@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![나무 탁자 위에 흑백 바둑돌이 흩어진 빈 바둑판, 창으로 든 부드러운 빛](/images/col-choose-the-board.jpg)
 
+<p class="inline-image-caption">능력은 1.2배 차이인데 결과는 열 배, 스무 배가 난다.</p>
+
 ## 실력 같던 둘, 한 명만 세졌다
 
 바둑 동호회에 실력이 비슷한 두 사람이 있었다. 한 명은 동네 기원에서 매주 같은 사람들과 뒀다. 다른 한 명은 어쩌다 센 기사들 모임에 끼게 됐다.
@@ -53,7 +55,7 @@ build: {list: never, render: always}
 
 ![실력만 키워서는 결과가 안 벌어진다. 환경부터 골라라](/images/inline/column-choose-the-board.jpg)
 
-<p class="inline-image-caption">실력만 키워서는 결과가 안 벌어진다. 환경부터 골라라</p>
+<p class="inline-image-caption">결과가 시원찮을 때 우리가 제일 먼저 떠올리는 답은 이거다.</p>
 
 ## 기회가 막힌 곳에선 실력 키워도 그만큼만
 

@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![ظل شخص يجلس عند نافذة تطل على البحر](/images/inline/literature-the-last-person-at-window.jpg)
 
-<p class="inline-image-caption">ظل شخص يجلس عند نافذة تطل على البحر</p>
+<p class="inline-image-caption">إنها نافذة تطل على البحر.</p>
 
 ما زالت سو-غيونغ تجلس في المكان نفسه كل صباح.
 

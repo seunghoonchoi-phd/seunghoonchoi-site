@@ -19,6 +19,8 @@ faq:
 
 ![Una mano extendida hacia un cielo de atardecer cálido, sosteniendo el sol entre los dedos](/images/col-conditional-generosity.jpg)
 
+<p class="inline-image-caption">Y hacia dónde hay que desviar ese impulso de criticar y de hablar mal a espaldas que de pronto te sube.</p>
+
 Quiero ser buena persona. Pero, siendo sincero, yo también a veces quiero hablar mal de alguien. Quiero criticar a alguien a sus espaldas. Y a quien se empeña en hacerme daño, quiero devolvérselo igual. Estas dos ganas llevan mucho tiempo peleando dentro de mí. Una parte dice: "Aun así, hay que ser bueno". La otra dice: "¿Entonces tengo que aguantar callado toda la vida?".
 
 Durante un tiempo creí que esto era una contradicción sin salida. Pensaba que la bondad y la firmeza estaban en extremos opuestos, y que elegir una significaba renunciar a la otra. Pero al estudiar la teoría de juegos y la psicología me di cuenta de algo: no son una contradicción. Son la cara y la cruz de una misma regla. Y esa regla tiene nombre. No se trata de ser bueno sin condiciones, sino de ser generoso "con condiciones".
@@ -67,7 +69,7 @@ Primero, reduce lo que muestras. Que él no conozca tus planes, tus puntos débi
 
 ![Cómo ser buena persona sin que te tomen el pelo: hasta los santos sacan la espada ante un canalla](/images/inline/column-conditional-generosity.jpg)
 
-<p class="inline-image-caption">Cómo ser buena persona sin que te tomen el pelo: hasta los santos sacan la espada ante un canalla</p>
+<p class="inline-image-caption">Muchas veces vale más cambiar de partida que empeñarse en ganar dentro de ella.</p>
 
 ## El impulso de despellejar conviértelo en información
 

@@ -14,6 +14,8 @@ reviewStatus: "done"
 
 ![Decision authority does not move all at once: stages 9 to 14 of AI taking work](/images/col-ai-replacement-stages-3.jpg)
 
+<p class="inline-image-caption">The question becomes whether people can entrust the decision to AI.</p>
+
 When you get an MRI at a hospital, the suspicious areas may be marked on the screen first. AI scans the image and points to spots that look abnormal. But the person who writes their name at the bottom of the diagnosis and takes responsibility is still the doctor. AI saw the image first. AI found the abnormal region. But the final decision authority remains with a person.
 
 That scene is the key to understanding stages 9 through 14. In the earlier stages, the work was relatively simple. If there was a right answer, if it could be repeated, and if failure could be measured, AI took it quickly. From here it is different. AI does not receive the work immediately just because it performs better. Decision authority, responsibility, law, regulation, and trust are tangled together.
@@ -50,7 +52,7 @@ The problem is not AI openly saying something false. It is a case where the logi
 
 ![Decision Authority Does Not Move All at Once: Stages 9 to 14 of AI Taking Work](/images/inline/column-ai-replacement-stages-3.jpg)
 
-<p class="inline-image-caption">Decision Authority Does Not Move All at Once: Stages 9 to 14 of AI Taking Work</p>
+<p class="inline-image-caption">They become someone who attaches responsibility to an AI result.</p>
 
 ## Stage 12, replacement of video and voice
 

@@ -10,6 +10,8 @@ reviewStatus: "done"
 ---
 ![A magnifying glass beside a laptop](/images/col-qa.jpg)
 
+<p class="inline-image-caption">The question is how far a review tool should intervene.</p>
+
 The text was sticking out past the slide. I noticed it only right before sending.
 
 In Excel, a `#REF!` error was still sitting there, and table borders appeared in some cells but not in others. In a Word document, markdown symbols that should have been removed were still visible. These are not matters of taste. The output is simply broken.
@@ -44,7 +46,7 @@ The core is simple. If a stronger model would also want to avoid the failure, ca
 
 ![The Trap in Reviewing AI Outputs: Do Not Lower the Ceiling While Catching Errors](/images/inline/column-dont-lobotomize-the-model.jpg)
 
-<p class="inline-image-caption">The Trap in Reviewing AI Outputs: Do Not Lower the Ceiling While Catching Errors</p>
+<p class="inline-image-caption">But if a stronger model might deliberately choose that expression, the review tool should not block it.</p>
 
 ## Not every issue is black and white
 

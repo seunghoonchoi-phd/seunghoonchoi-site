@@ -13,6 +13,8 @@ build: {list: never, render: always}
 
 ![一张木桌上散落着黑白棋子的空棋盘,柔和的光从窗子洒进来](/images/col-choose-the-board.jpg)
 
+<p class="inline-image-caption">一输,弱点就清清楚楚地暴露出来,而且身边正好有人帮他复盘那一局。</p>
+
 ## 实力相当的两人,只有一个变强了
 
 围棋同好会里有两个实力相当的人。一个每周都在街角的棋室,跟同样那几个人下。另一个偶然进了一群高手的聚会。
@@ -53,7 +55,7 @@ build: {list: never, render: always}
 
 ![光练实力,结果拉不开。先挑环境](/images/inline/column-choose-the-board.jpg)
 
-<p class="inline-image-caption">光练实力,结果拉不开。先挑环境</p>
+<p class="inline-image-caption">可是在小成功能变成下一次成功本钱的位置上,同样这一点二倍的实力,随着时间推移,顺着相乘和复利,会扩大成好几倍。</p>
 
 ## 在机会被堵死的地方练实力,练多少就只到多少
 

@@ -10,6 +10,8 @@ reviewStatus: "done"
 ---
 ![A magnifying glass beside a laptop](/images/col-qa.jpg)
 
+<p class="inline-image-caption">Word 문서에는 지워져야 할 마크다운 기호가 그대로 남아 있었다.</p>
+
 글자가 슬라이드 밖으로 삐져나와 있었다. 보내기 직전에야 눈에 들어왔다.
 
 엑셀에서는 `#REF!` 오류가 남아 있었고, 표의 테두리는 어떤 칸에는 있고 어떤 칸에는 없었다. Word 문서에는 지워져야 할 마크다운 기호가 그대로 남아 있었다. 이런 건 취향의 문제가 아니다. 그냥 결과물이 망가진 것이다.
@@ -44,7 +46,7 @@ AI가 만든 오피스 파일에는 이런 실수가 자주 생긴다. 그래서
 
 ![AI 결과물 검수의 함정: 오류 잡다가 결과물의 상한을 낮추지 말자](/images/inline/column-dont-lobotomize-the-model.jpg)
 
-<p class="inline-image-caption">AI 결과물 검수의 함정: 오류 잡다가 결과물의 상한을 낮추지 말자</p>
+<p class="inline-image-caption">하지만 더 뛰어난 모델이 의도적으로 선택할 수도 있는 표현이라면, 검수 도구가 막아서는 안 된다.</p>
 
 ## 모든 문제를 흑백으로 나눌 수는 없다
 
