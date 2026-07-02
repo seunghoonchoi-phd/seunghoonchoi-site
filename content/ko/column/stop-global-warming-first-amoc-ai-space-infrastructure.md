@@ -1,10 +1,10 @@
 ---
 title: "지구 온난화부터 막아야 한다. AI와 우주 인프라의 첫 번째 임무"
-description: "AI를 더 빨리 발전시켜야 한다면, 첫 번째 목적은 AMOC가 무너지지 않게 시간을 버는 일이어야 한다. 우주 블라인드는 CO2 제거 시간을 사는 응급약에 가깝다."
+description: "AI를 더 빨리 발전시켜야 한다면, 첫 번째 목적은 대서양의 거대한 해류 순환(AMOC)이 무너지지 않게 시간을 버는 일이어야 한다. 우주 블라인드는 CO2 제거 시간을 사는 응급약에 가깝다."
 date: 2026-06-29T01:45:00+09:00
 categories: ["AI"]
 tags: ["AI", "지구온난화", "AMOC", "기후위기", "우주인프라", "CO2제거"]
-subtitle: "우주 블라인드는 AMOC를 살리고 CO2를 없앨 시간을 사는 응급약이다."
+subtitle: "우주 블라인드는 대서양의 거대한 해류 순환(AMOC)을 지키고 CO2를 없앨 시간을 사는 응급약이다."
 seoTitle: "지구 온난화부터 막아야 한다: AI와 우주 인프라의 첫 번째 임무"
 image: /images/col-amoc-global-warming-first.jpg
 reviewStatus: "done"

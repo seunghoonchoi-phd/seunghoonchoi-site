@@ -1,10 +1,10 @@
 ---
 title: "先阻止全球变暖：AI和太空基础设施的第一任务"
-description: "如果人类要加速AI发展，第一个目的应该是为AMOC争取时间。太空百叶窗不是治疗本身，而是为去除CO2争取时间的急救药。"
+description: "如果人类要加速AI发展，第一个目的应该是为大西洋经向翻转环流（AMOC）争取时间，别让它过早崩塌。太空百叶窗不是治疗本身，而是为去除CO2争取时间的急救药。"
 date: 2026-06-29T01:45:00+09:00
 categories: ["AI"]
 tags: ["人工智能", "全球变暖", "AMOC", "气候危机", "太空基础设施", "CO2去除"]
-subtitle: "太空百叶窗不是治疗本身。它是为了保住AMOC、争取CO2去除时间的急救药。"
+subtitle: "太空百叶窗不是治疗本身。它是为了守住大西洋经向翻转环流（AMOC）、争取CO2去除时间的急救药。"
 seoTitle: "先阻止全球变暖：AI和太空基础设施的第一任务"
 image: /images/col-amoc-global-warming-first.jpg
 reviewStatus: "done"

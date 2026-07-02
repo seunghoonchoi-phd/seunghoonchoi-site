@@ -1,10 +1,10 @@
 ---
 title: "Primero hay que frenar el calentamiento global. La primera misión de la IA y la infraestructura espacial"
-description: "Si vamos a acelerar la IA, su primer propósito debería ser ganar tiempo para que AMOC no se debilite demasiado. Una persiana espacial no es una cura, sino un fármaco de emergencia que da tiempo para retirar CO2."
+description: "Si vamos a acelerar la IA, su primer propósito debería ser ganar tiempo antes de que la gran circulación del Atlántico (AMOC) se debilite demasiado. Una persiana espacial no es una cura, sino un fármaco de emergencia que da tiempo para retirar CO2."
 date: 2026-06-29T01:45:00+09:00
 categories: ["AI"]
 tags: ["inteligencia artificial", "calentamiento global", "AMOC", "crisis climática", "infraestructura espacial", "remoción de CO2"]
-subtitle: "Una persiana espacial no es la cura. Es un fármaco de emergencia para ganar tiempo, salvar AMOC y retirar CO2."
+subtitle: "Una persiana espacial no es la cura. Es un fármaco de emergencia para proteger la gran circulación del Atlántico (AMOC) y retirar CO2."
 seoTitle: "Primero hay que frenar el calentamiento global: la primera misión de la IA y la infraestructura espacial"
 image: /images/col-amoc-global-warming-first.jpg
 reviewStatus: "done"

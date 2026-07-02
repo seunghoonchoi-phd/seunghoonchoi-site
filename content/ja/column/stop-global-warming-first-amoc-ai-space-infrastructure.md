@@ -1,10 +1,10 @@
 ---
 title: "まず地球温暖化を止める。AIと宇宙インフラの最初の任務"
-description: "AIをもっと速く発展させるなら、最初の目的はAMOCが崩れないように時間を稼ぐことに置くべきだ。宇宙ブラインドはCO2除去の時間を買う応急薬に近い。"
+description: "AIをもっと速く発展させるなら、最初の目的は大西洋の大きな海流循環（AMOC）が崩れないように時間を稼ぐことに置くべきだ。宇宙ブラインドはCO2除去の時間を買う応急薬に近い。"
 date: 2026-06-29T01:45:00+09:00
 categories: ["AI"]
 tags: ["AI", "地球温暖化", "AMOC", "気候危機", "宇宙インフラ", "CO2除去"]
-subtitle: "宇宙ブラインドは、AMOCを守りCO2を減らす時間を買う応急薬だ。"
+subtitle: "宇宙ブラインドは、大西洋の大きな海流循環（AMOC）を守り、CO2を減らす時間を買う応急薬だ。"
 seoTitle: "まず地球温暖化を止める：AIと宇宙インフラの最初の任務"
 image: /images/col-amoc-global-warming-first.jpg
 reviewStatus: "done"

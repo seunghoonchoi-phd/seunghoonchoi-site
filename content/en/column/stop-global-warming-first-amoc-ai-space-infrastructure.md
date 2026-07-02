@@ -1,10 +1,10 @@
 ---
 title: "Stop Global Warming First. The First Mission of AI and Space Infrastructure"
-description: "If we are going to accelerate AI, its first purpose should be buying time for AMOC before it weakens too far. A space blind is not a cure. It is an emergency drug that buys time to remove CO2."
+description: "If we are going to accelerate AI, its first purpose should be buying time before the Atlantic overturning circulation (AMOC) weakens too far. A space blind is not a cure. It is an emergency drug that buys time to remove CO2."
 date: 2026-06-29T01:45:00+09:00
 categories: ["AI"]
 tags: ["AI", "global warming", "AMOC", "climate crisis", "space infrastructure", "CO2 removal"]
-subtitle: "A space blind is not the cure. It is an emergency drug that buys time to save AMOC and remove CO2."
+subtitle: "A space blind is not the cure. It buys time to protect the Atlantic overturning circulation (AMOC) and remove CO2."
 seoTitle: "Stop Global Warming First: The First Mission of AI and Space Infrastructure"
 image: /images/col-amoc-global-warming-first.jpg
 reviewStatus: "done"
