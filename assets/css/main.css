@@ -1279,7 +1279,7 @@ html[dir="rtl"] .home-hero__qr{right:auto;left:clamp(8px,3vw,36px);padding:10px 
 }
 .home-search{
   max-width:var(--maxw);
-  margin:calc(clamp(28px,4.5vw,56px) * -1) auto 0;
+  margin:calc(clamp(104px,11vw,132px) * -1) auto 0;
   padding:0 clamp(20px,5vw,56px) clamp(20px,3vw,36px);
   display:flex;
   justify-content:center;
