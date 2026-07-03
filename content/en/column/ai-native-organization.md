@@ -29,7 +29,7 @@ So the real dividing line isn't whether you use AI. It's whether the organizatio
 2. The org gets flatter, the cycles get faster: AI takes over the collating, reporting, and chasing that middle managers used to do. So the layers thin out.
 3. Fewer people, bigger output: it's designed to run with a small headcount.
 4. Work runs as a system, not as documents: manuals, rules, and records move into an operating layer where models and agents do the running.
-5. The human role moves from "doing it directly" to "defining the problem, verifying, and owning it": the machine handles the repetition; people set direction, constraints, and verification.
+5. People take on problem definition, verification, and responsibility rather than doing the repetition directly: the machine handles the repetition; people set direction, constraints, and verification.
 
 ## AI does the first draft. A person owns the final call.
 

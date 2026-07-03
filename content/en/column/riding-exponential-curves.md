@@ -1,10 +1,10 @@
 ---
 title: "Salary Alone Will Not Make You Rich. How to Build Assets That Compound"
-description: "Even if you enter a promising field, your share does not grow much if you only receive a salary. Assets that compound begin with ownership, not labor."
+description: "Even if you work in a promising field, your assets do not grow with that field if all you receive is salary. Assets that compound begin with ownership, not labor."
 date: 2026-06-21T19:20:00+09:00
 categories: ["Essays"]
 tags: ["compounding", "assets", "salary", "ownership", "wealth gap"]
-subtitle: "Even in a promising field, your share does not grow much if you only receive a salary. Assets that compound begin with ownership, not labor."
+subtitle: "Even in a promising field, your assets do not grow with that field if all you receive is salary. Assets that compound begin with ownership, not labor."
 seoTitle: "How to Build Assets That Compound: Salary, Ownership, and Asset Gaps"
 image: /images/col-riding-exponential-curves.jpg
 reviewStatus: "done"
@@ -24,7 +24,7 @@ Salary has to be earned again every month. Working hard last month does not auto
 
 ## Entering a big field does not make you its owner
 
-There are fields that will clearly grow: AI, bio, platforms, finance. But working inside a growing field does not automatically make that growth yours. Working in a big field and owning a piece of it are different. If the only thing written in my contract is salary, then my share is salary. My assets do not become more valuable just because the company becomes more valuable. The person who takes that difference is the person with equity. So finding a promising place is not enough. What matters more is what I own there. Do I only have salary, or do I have a remaining share such as equity, copyright, or a product?
+There are fields that will clearly grow: AI, bio, platforms, finance. But working inside a growing field does not automatically turn that growth into my assets. Working in a big field and owning a piece of it are different. If the only thing written in my contract is salary, then the money I receive ends with salary. My assets do not become more valuable just because the company becomes more valuable. The person who takes that difference is the person with equity. So finding a promising place is not enough. What matters more is what I own there. Do I only receive salary, or do I own assets that remain under my name, such as equity, copyright, or a product?
 
 ## Salary is not money to spend, but material to turn into assets
 

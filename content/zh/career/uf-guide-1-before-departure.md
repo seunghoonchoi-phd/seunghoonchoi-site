@@ -51,7 +51,7 @@ reviewStatus: "done"
 - 即使有 tuition waiver（学费减免），部分 fees 与保险相关流程仍可能由学生本人负责。请把 offer letter、Bursar（学费与费用部门）和 HR 公告放在一起确认。
 - 任用一般以一年为单位，每年依据科研与学业表现的评估予以续聘。
 
-### 你要付的（你的份额）
+### 你要自己支付的费用
 
 - 各项 fee，每年约 $1,900~$2,900，与学费分开。请在 [UF Bursar](https://www.fa.ufl.edu/departments/bursar/) 查询并缴纳。
 - 务必赶上 fee 的截止日期（有滞纳金）。即使有 GatorGradCare，也要按期完成 Student Health Care Center waiver；一旦漏办，UF 学生保险可能按每个学期（term）自动收取 $1,000+。 这实际上是最大的一笔"失误成本"。

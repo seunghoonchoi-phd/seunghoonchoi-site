@@ -84,7 +84,7 @@ The takeaway is simple: for GatorGradCare members, getting care at SHCC is almos
 
 ### ★ The Waiver Trap: Get the Direction Wrong and You Pay More
 
-A GA (.25 FTE+, 10+ hours/week) is auto-enrolled (Employee Only) in GatorGradCare (BlueCross BlueShield FL) when newly eligible. Your share is about $12/month (payroll deduction); UF covers the rest.
+A GA (.25 FTE+, 10+ hours/week) is auto-enrolled (Employee Only) in GatorGradCare (BlueCross BlueShield FL) when newly eligible. You pay about $12/month (payroll deduction); UF covers the rest.
 
 The most common mistake here is misunderstanding the direction of the waiver.
 

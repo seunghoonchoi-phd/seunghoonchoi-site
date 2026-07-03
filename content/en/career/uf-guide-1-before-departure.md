@@ -52,7 +52,7 @@ STEM PhD students are usually admitted with full funding (GA: graduate assistant
 - If tuition or insurance premiums rise in the future, the university usually absorbs it, with no extra burden on you.
 - Appointments are typically one year at a time, renewed each year based on a review of research and academic performance.
 
-### What You Pay (Your Share)
+### What You Pay Directly
 
 - Various fees, roughly $1,900-$2,900/year, separate from tuition. Check and pay at [UF Bursar](https://www.fa.ufl.edu/departments/bursar/).
 - Meet fee deadlines (late charges). Each semester, missing the health insurance waiver triggers an automatic charge of $1,000+ per semester, effectively the single biggest "mistake cost."

@@ -24,7 +24,7 @@ Normalmente esa promesa parece tan obvia que olvidamos que es una promesa. Por e
 
 Aunque el trabajo pase a la IA, lo que poseo queda.
 Aunque la habilidad se vuelva común, mi propiedad inmobiliaria sigue siendo mía.
-Aunque el trabajo sea reemplazado, mi participación sigue siendo mi parte.
+Aunque el trabajo sea reemplazado, la participación que está a mi nombre permanece.
 
 En las etapas anteriores, eso es bastante cierto. Aunque la IA escriba, programe, analice y ayude a decidir, la propiedad no desaparece de inmediato. Pero si avanzamos hasta las últimas etapas, la pregunta cambia. Si la persona ya no es mano de obra necesaria, ni consumidor necesario, ni amenaza, ¿quién protegerá hasta el final su propiedad, y por qué?
 

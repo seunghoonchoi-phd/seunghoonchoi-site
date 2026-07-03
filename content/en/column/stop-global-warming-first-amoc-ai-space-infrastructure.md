@@ -106,7 +106,7 @@ Mars can wait. If AMOC collapses, Earth's currents, rainfall, agriculture, and s
 
 To accelerate AI, we need more computation. That means more chips, more electricity, and more cooling. Here the contradiction appears. If AI claims to help solve global warming while running on fossil-fuel power, the story does not hold.
 
-AI data centers need conditions. They should run on carbon-free power. They should disclose the burden they place on the grid. They should disclose water use. And an important share of their computation should go to climate problems.
+AI data centers need conditions. They should run on carbon-free power. They should disclose the burden they place on the grid. They should disclose water use. And a significant part of their compute resources should go to climate problems.
 
 If the AI industry wants social permission to grow, it has to prove this: yes, we use a lot of electricity, but we use it to solve humanity's biggest problem. That proof has to be results, not slogans. AI has to lower the cost of CO2 removal, stabilize power grids, cut industrial emissions, and predict AMOC risk better.
 

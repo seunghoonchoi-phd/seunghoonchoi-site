@@ -1,10 +1,10 @@
 ---
 title: "Con salario no te vuelves rico. Cómo crear activos que crecen con interés compuesto"
-description: "Aunque entres en un sector prometedor, si solo recibes salario tu parte no crece mucho. Los activos que crecen con interés compuesto empiezan en la propiedad, no en el trabajo."
+description: "Aunque trabajes en un sector prometedor, si solo recibes salario tus activos no crecen junto con ese sector. Los activos que crecen con interés compuesto empiezan en la propiedad, no en el trabajo."
 date: 2026-06-21T19:20:00+09:00
 categories: ["Ensayo"]
 tags: ["interés compuesto", "activos", "salario", "propiedad", "brecha de riqueza"]
-subtitle: "Aunque entres en un sector prometedor, si solo recibes salario tu parte no crece mucho. Los activos que crecen con interés compuesto empiezan en la propiedad, no en el trabajo."
+subtitle: "Aunque trabajes en un sector prometedor, si solo recibes salario tus activos no crecen junto con ese sector. Los activos que crecen con interés compuesto empiezan en la propiedad, no en el trabajo."
 seoTitle: "Cómo crear activos que crecen con interés compuesto: salario, propiedad y brecha de activos"
 image: /images/col-riding-exponential-curves.jpg
 reviewStatus: "done"
@@ -24,7 +24,7 @@ El salario hay que ganarlo otra vez cada mes. Haber trabajado duro el mes pasado
 
 ## Entrar en un gran sector no significa ser dueño de ese sector
 
-Hay sectores que claramente crecerán: IA, biotecnología, plataformas, finanzas. Pero trabajar dentro de ellos no hace que ese crecimiento sea automáticamente tuyo. Entrar en un gran sector y poseer una parte de ese sector son cosas distintas. Si la empresa crece pero tu contrato solo dice salario, tu parte es el salario. Que la empresa se vuelva más valiosa no vuelve más valioso tu activo personal. Esa diferencia la captura quien tiene participación. Por eso no basta con encontrar un sector prometedor. Importa más qué posees ahí: ¿solo salario, o también participación, derechos, producto o algo que permanezca?
+Hay sectores que claramente crecerán: IA, biotecnología, plataformas, finanzas. Pero trabajar dentro de ellos no convierte ese crecimiento automáticamente en tus activos. Entrar en un gran sector y poseer una parte de ese sector son cosas distintas. Si la empresa crece pero tu contrato solo dice salario, el dinero que recibes termina en el salario. Que la empresa se vuelva más valiosa no vuelve más valioso tu activo personal. Esa diferencia la captura quien tiene participación. Por eso no basta con encontrar un sector prometedor. Importa más qué posees ahí: ¿solo recibes salario, o también tienes acciones, derechos, un producto o algún activo que quede a tu nombre?
 
 ## El salario no es dinero para gastar; es material para convertir en activos
 

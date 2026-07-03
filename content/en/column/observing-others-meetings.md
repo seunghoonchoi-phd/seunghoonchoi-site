@@ -92,7 +92,7 @@ The post-meeting note does not need to be long. Six boxes are enough: what was d
 
 ## AI does not understand for you
 
-Analyzing a meeting transcript with AI does not mean AI understands for you. AI can extract structure, show missing items, and explain terms. But judging what the meeting means for your work is still yours.
+Analyzing a meeting transcript with AI does not mean AI understands for you. AI can extract structure, show missing items, and explain terms. But you still have to judge what the meeting means for your work.
 
 So do not just read the AI answer and stop. Ask again. Does this classification overlap? Are any issues missing? Are decisions mixed with tasks? What must I check before the next meeting?
 

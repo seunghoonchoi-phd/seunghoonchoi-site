@@ -24,7 +24,7 @@ In ordinary life, this promise is so obvious that we forget it is a promise. So 
 
 Even if work moves to AI, what I own remains.
 Even if ability becomes common, real estate is mine.
-Even if labor is replaced, equity remains my share.
+Even if labor is replaced, equity remains under my name.
 
 In the earlier stages, this is mostly right. Even if AI writes, codes, analyzes, and supports judgment, ownership does not immediately disappear. But when we push to the final stages, the question changes. If humans are no longer laborers, no longer consumers, and no longer threats, who keeps protecting human ownership, and why?
 
