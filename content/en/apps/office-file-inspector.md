@@ -16,7 +16,7 @@ aliases: ["/apps/llm-office-qa/"]
   <div class="appcard__body">
     <span class="appcard__free">Open source (MIT)</span>
     <h3>Office File Inspector</h3>
-    <p>A checker that catches obvious defects in AI-made PowerPoint, Excel, and Word files, while deliberately leaving style choices alone.</p>
+    <p>A checker that verifies obvious defects in AI-made PowerPoint, Excel, and Word files while deliberately not changing style choices.</p>
     <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">View on GitHub -></a>
   </div>
 </div>

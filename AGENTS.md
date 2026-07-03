@@ -40,6 +40,13 @@ Follow the global user instructions first. These rules apply to this website rep
 - Keep the caption short. Gray, italic quote styling is handled by CSS, so do not put literal quote marks at the start or end of the caption text.
 - Apply caption changes across every configured language, with Japanese included. Before pushing content or image caption changes, run `node tools/check-caption-quality.js` along with the usual language sync and image checks.
 
+## Korean Public Text Literal Style
+
+- Apply the same subject-object-action rule to all public Korean explanatory content, not only image captions. In non-literary pages and columns, each sentence should make clear who or what acts, what it acts on, and what changes.
+- Do not use physical metaphors when the metaphor is not the point of the paragraph. Replace phrases such as `AI를 붙이다`, `손발이 묶이다`, `손대다`, `독을 빼다`, `지구의 순환계`, `그 장기`, `그 지점`, or `시간을 사다/벌다` with the actual tool, permission, system, delay, CO2 reduction, review action, or decision point.
+- Literature pages may use metaphor deliberately. Career guides, app pages, book pages, research pages, and columns should prefer literal wording unless the whole section is explicitly built around a chosen analogy.
+- Before pushing public Korean content changes, run `node tools/check-korean-literal-style.js`. If it fails, fix the Korean source first and then update every configured language from that corrected Korean source.
+
 ## Multilingual Content Parity
 
 - Korean content under `content/ko` is the source of truth for public content. When a public page, article, column, career guide, research item, book page, app page, or literature page changes, update every configured language tree in the same turn unless the user explicitly says local-only, Korean-only, or draft-only.

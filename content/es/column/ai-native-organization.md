@@ -59,7 +59,7 @@ La clave es una sola. Sacar el borrador y ayudar a juzgar lo hace la IA; la resp
 | 5 | Operación de agentes (supervisión humana + ejecución de varios pasos por agentes) |
 | 6 | Cambio del modelo de negocio (el producto, la experiencia del cliente y el modelo de ingresos asumen la IA como base) |
 
-La mayoría se detiene en los niveles 1 y 2. La verdadera brecha se abre a partir del nivel 3. En ese punto en que se vuelve a dibujar el trabajo de verdad.
+La mayoría se detiene en los niveles 1 y 2. La verdadera brecha se abre a partir del nivel 3, cuando la organización rediseña de verdad la forma de trabajar.
 
 ## Si todo se concentra en unos pocos expertos, se forma un cuello de botella
 

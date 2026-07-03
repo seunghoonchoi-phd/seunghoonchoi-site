@@ -46,7 +46,7 @@ Un centro de datos no se construye con palabras. Hay que comprar GPU, asegurar e
 
 "¿Cuánto dinero ahorró esto de verdad?"
 
-Las empresas que no puedan responder tendrán problemas. Algunas tienen ingresos, pero queda poco después de pagar el coste de GPU. Algunas tienen muchos pilotos, pero poca conversión de pago. Algunas SaaS añaden "funciones de IA", pero los clientes no quieren pagar más. Parecen empresas tecnológicas, pero si suben los tipos, parecen empresas que queman efectivo.
+Las empresas que no puedan responder tendrán problemas. Algunas tienen ingresos, pero queda poco después de pagar el coste de GPU. Algunas tienen muchos pilotos, pero poca conversión de pago. Algunas SaaS incorporan "funciones de IA", pero los clientes no quieren pagar más. Parecen empresas tecnológicas, pero si suben los tipos, parecen empresas que queman efectivo.
 
 ![Repasar la burbuja puntocom y compararla con la burbuja de la IA](/images/inline/column-dotcom-bubble-ai-bubble.jpg)
 

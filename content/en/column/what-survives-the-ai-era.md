@@ -50,7 +50,7 @@ The conclusion is this. Most existing positions stay. There are just fewer of th
 
 ## Stop hiring juniors and you cut off your future seniors
 
-"Just add AI to the seniors and you're set." That's true only in the short run. Seniors also get old, get sick, switch jobs, and retire. Stop hiring juniors and you cut off the supply of your future mid-level and senior talent.
+"Have only seniors use AI and you're set." That's true only in the short run. Seniors also get old, get sick, switch jobs, and retire. Stop hiring juniors and you cut off the supply of your future mid-level and senior talent.
 
 What a junior needs in the AI era isn't the ability to memorize. It's the attitude of learning fresh with AI as a given, asking the right questions, verifying AI's output, putting it down in documents, and checking it firsthand on the ground. In one sentence: becoming the person who, between AI and reality, sorts out the context, verifies the results, and reports the exceptions.
 
@@ -64,6 +64,6 @@ The good answer then sounds like this. "I used AI to draft it and generate count
 
 The cheaper AI makes digital brain labor, the more precious physical things, the field, trust, and accountability become. The strong person in the AI era isn't the one who admires an impressive-looking output. It's the one who instantly spots a sentence they can't stand behind. Not the person who says they don't need to look, but the person who knows what they have to go look at.
 
-This is my strategy too. I have no plan to become a pure AI developer and go head-to-head with the big AI companies. And I have no plan to throw away the foundation I've built in materials, computation, experiment, and simulation and become commodity labor. The position I've taken is in between. The person who uses AI to design, compute, and simulate materials problems, verifies it with real data, experiments, papers, and patents, and leaves the result behind as an asset the institutions recognize.
+This is my strategy too. I have no plan to become a pure AI developer and compete directly with the big AI companies. And I have no plan to throw away the foundation I've built in materials, computation, experiment, and simulation and become commodity labor. The position I've taken is in between. The person who uses AI to design, compute, and simulate materials problems, verifies it with real data, experiments, papers, and patents, and leaves the result behind as an asset the institutions recognize.
 
 What survives the AGI era isn't the person who's better than AI. It's the person who keeps using AI to produce assets that human society recognizes.

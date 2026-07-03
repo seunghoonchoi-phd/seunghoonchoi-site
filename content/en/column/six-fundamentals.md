@@ -16,7 +16,7 @@ reviewStatus: "done"
 
 AI now summarizes, translates, drafts reports, and even writes code. Does that make study smarts less important? I think the opposite is true.
 
-Memorization and repetitive calculation may matter less. But the ability to read sentences, understand how work moves, bind scattered information into structure, and handle invisible concepts matters more. The faster AI produces outputs, the more important the human fundamentals become for judging whether those outputs are right or wrong.
+Memorization and repetitive calculation may matter less. But the ability to read sentences, understand how work moves, organize multiple pieces of information into structure, and handle invisible concepts matters more. The faster AI produces outputs, the more important the human fundamentals become for judging whether those outputs are right or wrong.
 
 If I cannot explain why an AI-written report reached its conclusion, the report is not mine. If I cannot see where data enters and leaves in AI-written code, the code is not my tool. If I cannot separate the core claim from weak evidence in an AI summary, I have not understood anything. I have only consumed a summary.
 
@@ -51,7 +51,7 @@ Many people understand the material but not the work. They know the numbers in t
 
 You need to be able to draw where the work starts, who gives input, which department judges, and who executes. You also need to see where bottlenecks form and where the result feeds back. Without that picture, a report has nothing real to stand on.
 
-The sentences may look right, but they do not fit the real process. The conclusion may sound good, but you do not know who will get stuck in execution. The solution may look attractive, but you do not know which department will absorb the cost. This is a common problem in AI-generated reports.
+The sentences may look right, but they do not fit the real process. The conclusion may sound good, but you do not know who will have trouble during execution. The solution may look attractive, but you do not know which department will absorb the cost. This is a common problem in AI-generated reports.
 
 The document logic is smooth, but it differs from how the company actually works. That is why you need to draw workflow. Input, processing, output, approval, bottleneck, and feedback have to be connected in your head.
 
@@ -61,11 +61,11 @@ Even if AI writes the draft, a person has to check whether that draft matches th
 
 <p class="inline-image-caption">The draft is only a starting material, and the resulting work should be revised until the end by someone who knows the actual work order.</p>
 
-## 3. Structuring ability: binding scattered information into a usable shape
+## 3. Structuring ability: organizing multiple pieces of information into a usable shape
 
 Having more information does not mean you understand. In fact, the more information you have, the easier it is to get lost. Give someone ten documents, five meeting notes, and dozens of numbers, and the inside of their head gets messy quickly. What they need is not more material. They need structure.
 
-Structuring ability is the ability to bind scattered information into a usable shape.
+Structuring ability is the ability to organize multiple pieces of information into a usable shape.
 
 - Separate cause and effect
 - Separate the core from the secondary points
@@ -101,7 +101,7 @@ AI can lighten the load. But it does not decide where I am going. In the AI era,
 
 - The power to read sentences
 - The power to draw the flow of work
-- The power to bind information into structure
+- The power to organize information into structure
 - The power to handle invisible concepts
 
 What looks like study smarts is really the sum of these four. As AI gets better, these abilities do not matter less. They matter more. The faster AI makes anything, the more the difference comes from the person who understands it and takes responsibility for it.

@@ -32,7 +32,7 @@ Al final, un resumen es una conclusión que ya organizó otro. La comprensión t
 
 La novena casilla es la que de verdad importa. Un repaso normal se detiene en "ya lo sé". Esta plantilla te obliga a escribir, de forma clara, qué es lo que todavía no sabes. Y eso se convierte en la pregunta que vas a hacer en la clase o en la reunión.
 
-## Pégalo en la IA y completa las 9 casillas por ti
+## Mete la pregunta y la IA completa las 9 casillas
 
 ```text
 Organiza el siguiente material con la "plantilla común para entender conceptos", de modo que alguien que lo ve por primera vez capte el contexto en 10 minutos.

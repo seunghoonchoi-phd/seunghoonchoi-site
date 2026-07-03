@@ -40,7 +40,7 @@ If you hand AI a complex job all at once, the answer easily becomes scattered. Y
 
 ## Find the bottleneck before the work can move again
 
-In the AI era, bottlenecks are not only technical shortages. Slow decisions, blocked information, unclear responsibility, and vague quality standards all become bottlenecks. The important thing is to find the blockage early, narrow down the cause, and turn it into the next action.
+In the AI era, bottlenecks are not only technical shortages. You have to see where decisions slow down, where information stops moving, where responsibility is unclear, and where quality standards are vague. The important thing is to find the bottleneck early, narrow down the cause, and turn it into the next action.
 
 ## The valuable person turns drafts into usable results
 

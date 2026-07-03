@@ -48,11 +48,11 @@ El resultado de la IA se vuelve tan complejo que la persona ya no puede entender
 
 El informe parece perfecto. La lógica suena bien. Los números parecen correctos. Pero alguien debe mirar por separado si encaja con el proceso real, qué problemas aparecerán en la realidad y qué choques causará dentro de la organización.
 
-El problema no es que la IA diga una mentira obvia. Es que, sobre el papel, el documento puede ser lógicamente perfecto y aun así chocar con el terreno. En ese momento el experto deja de ser quien verifica por completo a la IA y se vuelve quien une responsabilidad al resultado de la IA.
+El problema no es que la IA diga una mentira obvia. Es que, sobre el papel, el documento puede ser lógicamente perfecto y aun así chocar con el terreno. En ese momento el experto deja de ser quien verifica por completo a la IA y se vuelve quien declara la responsabilidad y las condiciones del resultado de la IA.
 
 ![La autoridad de decidir no se entrega de golpe: etapas 9 a 14 de cómo la IA toma el trabajo](/images/inline/column-ai-replacement-stages-3.jpg)
 
-<p class="inline-image-caption">En lugar de proporcionar respuestas en nombre de los expertos, los expertos asumirán un papel más importante al asignar responsabilidades y condiciones a las respuestas proporcionadas por la IA.</p>
+<p class="inline-image-caption">En lugar de proporcionar respuestas en nombre de los expertos, los expertos asumirán un papel más importante al aclarar las responsabilidades y condiciones de las respuestas proporcionadas por la IA.</p>
 
 ## Etapa 12, reemplazo de video y voz
 

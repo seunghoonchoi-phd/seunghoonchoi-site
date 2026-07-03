@@ -67,15 +67,15 @@ Pero "que el coste extra parezca cero" y "que el coste para la organización sea
 
 ¿Adónde se trasladó? Primero, a la cuota de suscripción de cada puesto. Y luego se repartió en el tiempo de leer la respuesta y comprobar si es correcta, en el tiempo de ordenar los datos para explicarle el contexto a la IA, en las decisiones que se retrasan por pasar una vez por la IA, y en el trabajo de gestionar todo eso y cuidar la seguridad. Un coste de una sola línea, la tarifa de tokens, se convirtió en un coste de varias líneas, el tiempo de las personas. Puede que hasta haya salido más caro.
 
-## Conecta la IA solo cuando lo que ganas es grande
+## Usa la IA solo cuando lo que ganas es grande
 
-Por eso el lema "metamos IA en todas las decisiones", si lo decimos con franqueza, significa en realidad "pongámosle un coste a cada decisión".
+Por eso el lema "usemos IA en todas las decisiones", si lo decimos con franqueza, significa en realidad "sumemos un coste a cada decisión".
 
-Conviene tener un criterio. En este texto lo llamaré "el umbral para usar la IA". Es la línea que decide si conectar o no la IA a una decisión. La regla es sencilla: la conectas solo cuando lo que ganas al usarla es mayor que lo que pagas.
+Conviene tener un criterio. En este texto lo llamaré "el umbral para usar la IA". Es la línea que decide si una decisión debe usar IA o no. La regla es sencilla: usa la IA solo cuando lo que ganas al usarla es mayor que lo que pagas.
 
 En el lado de lo que ganas entran la mejora de la calidad, la reducción del riesgo, el tiempo ahorrado y el valor de poder reutilizar el resultado más adelante. En el lado de lo que pagas entran los tokens, el tiempo de revisión, el retraso, el tiempo de preparación para explicar el contexto y la carga de seguridad.
 
-Entonces la respuesta se separa. Si hay mucho en juego, si hay varias opciones y si es una decisión cuyo criterio vas a volver a usar muchas veces, conviene conectar la IA. Al revés, si el riesgo es pequeño, si hay que decidirlo ya, si la respuesta es obvia y si equivocarse cuesta poco, una persona es más rápida y más barata.
+Entonces la respuesta se separa. Si hay mucho en juego, si hay varias opciones y si es una decisión cuyo criterio vas a volver a usar muchas veces, conviene usar la IA. Al revés, si el riesgo es pequeño, si hay que decidirlo ya, si la respuesta es obvia y si equivocarse cuesta poco, una persona es más rápida y más barata.
 
 ## Si no decides nada, lo que produces es solo ruido
 

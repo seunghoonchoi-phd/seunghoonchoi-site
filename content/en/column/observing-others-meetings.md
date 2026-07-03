@@ -16,7 +16,7 @@ reviewStatus: "done"
 
 When you walk into a work meeting for the first time, most of it is hard to follow. You know only a few words, and everyone else talks as if they already share the context. The meeting keeps moving forward while you feel like someone dropped into the middle.
 
-If you choose the wrong goal, it gets harder. You should not try to understand everything from the start. The goal of a first meeting is not full comprehension. It is to reconstruct the structure of the work. First catch why this work exists, what it is deciding, and what the disagreement is about.
+If you choose the wrong goal, it gets harder. You should not try to understand everything from the start. The goal of a first meeting is not full comprehension. It is to reconstruct the structure of the work. First identify why this work exists, what it is deciding, and what the disagreement is about.
 
 And that work does not end during the meeting. The real study starts afterward. Use AI to analyze the transcript or minutes, and keep breaking the material down until purpose, issues, decisions, open questions, decision criteria, terms, owners, and next actions no longer overlap.
 

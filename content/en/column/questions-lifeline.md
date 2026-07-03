@@ -60,7 +60,7 @@ In the past, there was almost no way to open this bottleneck. There were not eno
 
 Asking "Why is this formula possible?" once is fine. But if you ask it five times or ten times from different angles, the class stops. So students who needed the whole structure had trouble pushing their questions to the end. They either followed the problem solving without enough understanding or gave up.
 
-This is where AI changes the situation. Now the same question can be asked ten different ways. You can ask for a simpler example, a counterexample, or a new practice problem built exactly around the point where you are stuck.
+This is where AI changes the situation. Now the same question can be asked ten different ways. You can ask for a simpler example, a counterexample, or a new practice problem built exactly around the part you do not understand.
 
 ## Questions Can Now Become Scores
 

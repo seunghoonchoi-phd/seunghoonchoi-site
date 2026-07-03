@@ -50,7 +50,7 @@ La conclusión es esta. La mayoría de los puestos actuales se mantienen. Solo q
 
 ## Si no contratas novatos, se corta la futura generación de expertos
 
-"Basta con poner IA a los expertos." Esto solo es cierto a corto plazo. Los expertos también envejecen, se enferman, cambian de trabajo y se jubilan. Si no contratas novatos, se corta la cadena que abastece a los mandos intermedios y a los expertos del futuro.
+"Basta con hacer que solo los expertos usen IA." Esto solo es cierto a corto plazo. Los expertos también envejecen, se enferman, cambian de trabajo y se jubilan. Si no contratas novatos, se corta la cadena que abastece a los mandos intermedios y a los expertos del futuro.
 
 Lo que necesita un novato en la era de la IA no es la capacidad de memorizar. Es la actitud de aprender de nuevo partiendo de la IA, preguntar bien, verificar el resultado de la IA, dejarlo por escrito y comprobarlo en persona en el lugar de trabajo. Resumido en una frase: ser la persona que ordena el contexto entre la IA y la realidad, verifica el resultado y reporta las excepciones.
 
@@ -64,6 +64,6 @@ La buena respuesta de entonces será esta. "Hice con IA un borrador y los contra
 
 Cuanto más barato vuelve la IA el trabajo mental digital, más valiosos se vuelven las cosas reales, el lugar de trabajo, la confianza y la responsabilidad. La persona fuerte de la era de la IA no es la que se admira ante un resultado vistoso. Es la que detecta de inmediato una frase por la que no puede responder. No es la que dice que ya sabe sin mirar, sino la que sabe qué debe mirar con sus propios ojos.
 
-Esta es también mi estrategia. No pienso convertirme en un desarrollador de IA puro para enfrentarme de frente a las grandes empresas de IA. Pero tampoco pienso tirar la base de materiales, cálculo, experimentos y simulación que he construido para volverme mano de obra simple. El lugar que tomé está en medio de los dos. La persona que con IA diseña, calcula y simula problemas de materiales, los verifica con datos reales, experimentos, artículos y patentes, y deja ese resultado como un activo que las instituciones reconocen.
+Esta es también mi estrategia. No pienso convertirme en un desarrollador de IA puro para competir directamente con las grandes empresas de IA. Pero tampoco pienso tirar la base de materiales, cálculo, experimentos y simulación que he construido para volverme mano de obra simple. El lugar que tomé está en medio de los dos. La persona que con IA diseña, calcula y simula problemas de materiales, los verifica con datos reales, experimentos, artículos y patentes, y deja ese resultado como un activo que las instituciones reconocen.
 
 Quien sobrevive en la era de la AGI no es la persona superior a la IA. Es la persona que, usando la IA, sigue creando activos que la sociedad humana reconoce.

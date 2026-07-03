@@ -19,7 +19,7 @@ build: {list: never, render: always}
 
 A meeting room. Someone puts a slide up and says, "This direction is wrong. The numbers say so." The figures on screen are clean. The logic has no holes. And then something strange happens. The person across the table goes stiff. They fold their arms. Their voice drops a notch. The sharper the evidence you push, the more solid they get. You said something that was clearly right, and yet the mood in the room is shifting away from persuasion and into a fight.
 
-I have watched this scene play out more times than I can count. For a while I thought the other person was just slow. That they couldn't follow the data, that they were ruled by their feelings. Only later did I get it. The problem was never them. I had been pretending I didn't know the one thing that mattered: people were never built to move on logic alone. A right argument fails to persuade not because it's wrong. It fails because it touched something else in the other person.
+I have watched this scene play out more times than I can count. For a while I thought the other person was just slow. That they couldn't follow the data, that they were ruled by their feelings. Only later did I get it. The problem was never them. I had been pretending I didn't know the one thing that mattered: people were never built to move on logic alone. A right argument fails to persuade not because it's wrong. It fails because it threatened another need in the other person.
 
 ## On the Surface It's an Opinion. Underneath It's the Fear of Being Looked Down On
 

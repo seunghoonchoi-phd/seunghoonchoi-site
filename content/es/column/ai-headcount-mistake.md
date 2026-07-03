@@ -83,7 +83,7 @@ Por fuera, todo funciona. Salen documentos, hay reuniones, continúa la atenció
 
 ## Si recortas el nivel intermedio, desaparece la memoria de la empresa
 
-Cuando una empresa reduce personal, suele tocar una zona concreta: el nivel intermedio. Recorta juniors porque todavía no están maduros y seniors porque son caros. A quienes quedan les dice: "usen IA". Pero gran parte de la memoria real de una organización está en ese nivel intermedio.
+Cuando una empresa reduce personal, suele intentar recortar primero una zona concreta: el nivel intermedio. Recorta juniors porque todavía no están maduros y seniors porque son caros. A quienes quedan les dice: "usen IA". Pero gran parte de la memoria real de una organización está en ese nivel intermedio.
 
 Dónde se equivoca a menudo un número, qué expresión molesta a qué área, qué palabras odia un cliente, qué decisión antigua causó un problema. Eso no queda perfectamente escrito en documentos. La IA lee bien documentos ordenados. Pero no capta fácil el conocimiento tácito que se acumula entre las personas dentro de la empresa. Alguien debe conocer ese contexto para corregir los resultados de IA y hacerlos realistas. Si recortas el nivel intermedio, esa memoria se va también. Entonces los resultados de IA fallan más, y quienes quedan gastan más tiempo corrigiéndolos.
 

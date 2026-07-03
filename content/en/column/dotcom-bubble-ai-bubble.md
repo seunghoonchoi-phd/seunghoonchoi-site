@@ -46,7 +46,7 @@ You cannot build data centers with words. You have to buy GPUs, secure power, pa
 
 "How much money did this actually save?"
 
-Companies that cannot answer that question will have a hard time surviving. Some have revenue, but little left after GPU costs. Some have many pilots but weak paid conversion. Some SaaS companies have added "AI features," but customers do not want to pay more for them. They look like technology companies, but if rates rise, they look like cash-burning companies.
+Companies that cannot answer that question will have a hard time surviving. Some have revenue, but little left after GPU costs. Some have many pilots but weak paid conversion. Some SaaS companies have put in "AI features," but customers do not want to pay more for them. They look like technology companies, but if rates rise, they look like cash-burning companies.
 
 ![Revisiting the Dot-Com Bubble and Comparing It With the AI Bubble](/images/inline/column-dotcom-bubble-ai-bubble.jpg)
 

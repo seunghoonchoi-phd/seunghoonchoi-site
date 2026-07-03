@@ -16,7 +16,7 @@ aliases: ["/apps/llm-office-qa/"]
   <div class="appcard__body">
     <span class="appcard__free">오픈소스(MIT)</span>
     <h3>Office File Inspector</h3>
-    <p>AI가 만든 PowerPoint·Excel·Word의 명백한 결함만 잡고, 스타일 선택은 일부러 건드리지 않는 검사기.</p>
+    <p>AI가 만든 PowerPoint·Excel·Word의 명백한 결함만 확인하고, 스타일 선택은 일부러 바꾸지 않는 검사기.</p>
     <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">GitHub에서 보기 →</a>
   </div>
 </div>

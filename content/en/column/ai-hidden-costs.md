@@ -67,15 +67,15 @@ But "the extra cost looks like zero" and "the organization's cost is zero" are c
 
 Where did it go? First, it moved into the per seat subscription fee. Then it scattered: into the time to read the answer and verify it is right, the time to tidy up materials to explain the situation to the AI, the decision that runs late because it had to pass through AI once, the work of managing all of it and minding security. A one line cost called a token fee turned into a many line cost called human time. It may even have gotten more expensive.
 
-## Attach AI only when the payoff is big
+## Use AI only when the payoff is big
 
-So the slogan "let's put AI into every decision," spelled out honestly, becomes "let's attach a cost to every decision."
+So the slogan "let's use AI for every decision," spelled out honestly, becomes "let's add a cost to every decision."
 
-It would help to keep one rule. In this piece I will call it the AI intervention threshold. It is the line that decides whether a given decision gets AI attached or not. The rule is simple. Attach AI only when what you gain from it outweighs what you pay.
+It would help to keep one rule. In this piece I will call it the AI intervention threshold. It is the line that decides whether a given decision should use AI or not. The rule is simple. Use AI only when what you gain from it outweighs what you pay.
 
 On the gain side: better quality, lower risk, time saved, value you can reuse again and again. On the cost side: tokens, verification time, delay, the prep time to explain the situation, the security burden.
 
-Then the answer splits. If the stakes are high, the choices are many, and you will keep reusing the criteria once you set them, attaching AI is the right call. The other way around, if the risk is small, it has to be decided right now, the answer is already obvious, and being wrong costs little, a person is faster and cheaper.
+Then the answer splits. If the stakes are high, the choices are many, and you will keep reusing the criteria once you set them, using AI is the right call. The other way around, if the risk is small, it has to be decided right now, the answer is already obvious, and being wrong costs little, a person is faster and cheaper.
 
 ## If no decision gets made, the output is just noise
 

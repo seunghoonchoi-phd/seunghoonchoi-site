@@ -48,11 +48,11 @@ The result AI made becomes too complex for a person to understand as a whole. If
 
 The report looks perfect. The logic seems plausible. The numbers look right. But a person still has to separately see whether it fits the actual process, what problems may happen in reality, and what conflicts may arise inside the organization.
 
-The problem is not AI openly saying something false. It is a case where the logic is perfect on the document but misaligned with the real field. At that point, the expert is no longer someone who fully verifies AI. They become someone who attaches responsibility to an AI result.
+The problem is not AI openly saying something false. It is a case where the logic is perfect on the document but misaligned with the real field. At that point, the expert is no longer someone who fully verifies AI. They become someone who states the responsibility and conditions for an AI result.
 
 ![Decision Authority Does Not Move All at Once: Stages 9 to 14 of AI Taking Work](/images/inline/column-ai-replacement-stages-3.jpg)
 
-<p class="inline-image-caption">Rather than providing answers on behalf of experts, experts will take on more of a role in attaching responsibilities and conditions to the answers provided by AI.</p>
+<p class="inline-image-caption">Rather than providing answers on behalf of experts, experts will take on more of a role in clarifying the responsibilities and conditions of the answers provided by AI.</p>
 
 ## Stage 12, replacement of video and voice
 

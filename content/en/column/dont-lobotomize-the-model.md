@@ -20,7 +20,7 @@ AI-generated office files often contain mistakes like this. Review tools are nec
 
 ## Review raises the floor
 
-The job of a review tool is to raise the floor of the output. It should catch things that are clearly wrong no matter who sees them: text pushed outside a slide, broken formulas, unresolved placeholders, markdown left inside a document.
+The job of a review tool is to raise the floor of the output. It should detect things that are clearly wrong no matter who sees them: text pushed outside a slide, broken formulas, unresolved placeholders, markdown left inside a document.
 
 The faster these defects are caught, the better. They are too small for a person to reliably notice at the end, but too serious to ship. If AI created the file, there should be a mechanism that automatically checks the obvious defects AI missed.
 
@@ -42,7 +42,7 @@ First, is this almost always a defect even if user intent or taste changes? A `#
 
 Second, would a more capable model also try to avoid this problem? If a better output might intentionally break the rule, do not call it an error. Information density, color combinations, number of fonts, margins, and sentence length belong here.
 
-The core is simple. If a stronger model would also want to avoid the failure, catch it. But if a stronger model might deliberately choose that expression, the review tool should not block it.
+The core is simple. If a stronger model would also want to avoid the failure, the review tool should block it. But if a stronger model might deliberately choose that expression, the review tool should not block it.
 
 ![The Trap in Reviewing AI Outputs: Do Not Lower the Ceiling While Catching Errors](/images/inline/column-dont-lobotomize-the-model.jpg)
 

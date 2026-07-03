@@ -50,7 +50,7 @@ AI is good at making these sentences. It makes them more persuasive, more confid
 
 The especially dangerous sentence is the plausible assertion. No one has actually checked it, but on the page it looks true. AI tends to fill blanks naturally rather than leave holes visible. That makes the writing easy to read, but it also makes unverified claims feel natural.
 
-So documents with legal risk need a separate pass. Is this a promise to a customer? Does it move money? Does it contain personal data or contract terms? Does it touch someone's rights or reputation? If the answer is yes, the AI draft cannot go out as-is.
+So documents with legal risk need a separate pass. Is this a promise to a customer? Does it move money? Does it contain personal data or contract terms? Could it harm someone's rights or reputation? If the answer is yes, the AI draft cannot go out as-is.
 
 ## Correct Words Can Still Damage Reputation
 

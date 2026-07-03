@@ -49,7 +49,7 @@ Making money with AI does not mean selling whatever AI produced on the first pas
 
 Many companies have not reached that point.
 
-They add a chatbot. They summarize meetings. They draft customer support replies. Developers use coding assistants. Even that raises productivity.
+They put a chatbot into the workflow. They summarize meetings. They draft customer support replies. Developers use coding assistants. Even that raises productivity.
 
 But it does not transform the whole company.
 
@@ -73,7 +73,7 @@ The current pattern of "let me go back to my desk and ask AI later" has a ceilin
 
 A camera is not enough. The field contains information the eye alone cannot capture. A machine sounds different from usual. A surface pushes back differently under the hand. The air smells or feels different. A person's tone and expression are off. The person at the site often senses these first.
 
-For AI to attach itself to real work, it has to be present at that moment. And the human has to be able to transmit what the body senses into AI as much as possible. Only then can AI judge the situation in front of it, not just the documents on a screen.
+For AI to handle real work, it has to receive information from the moment the work happens. And the human has to be able to transmit what the body senses into AI as much as possible. Only then can AI judge the situation in front of it, not just the documents on a screen.
 
 ![No Company Has Made Money With AI? The Question Is Too Early](/images/inline/column-ai-profit-question-too-early.jpg)
 
@@ -97,7 +97,7 @@ This is not the same story as robots replacing humans. It is the story of the hu
 
 So the question "Which company has made money with AI?" is only half right.
 
-It is true that many companies still have not shown large profit gains. But it is too early to say AI has already revealed its limit. In many places, AI is still attached to screen work first: documents, code, tables, images, search.
+It is true that many companies still have not shown large profit gains. But it is too early to say AI has already revealed its limit. In many places, AI is still used first for screen work: documents, code, tables, images, search.
 
 The real change begins when AI enters the field. Can a person use AI only when sitting at a computer? Or can they call it up while wearing it at the site? Even further, how well can they transmit what they sense in that moment into AI?
 

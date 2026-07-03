@@ -16,7 +16,7 @@ reviewStatus: "done"
 
 Vivimos una época en la que la IA resume, traduce, redacta informes y hasta escribe código. Entonces, ¿importa menos el talento para estudiar? Yo creo que ocurre lo contrario.
 
-La memorización simple o el cálculo repetitivo pueden importar menos. Pero leer una frase, entender el flujo real de un trabajo, juntar información dispersa en una estructura y manejar conceptos que no se ven importan más. Cuanto más rápido produce resultados la IA, más importante se vuelve el fundamento de la persona que debe juzgar si esos resultados son correctos.
+La memorización simple o el cálculo repetitivo pueden importar menos. Pero leer una frase, entender el flujo real de un trabajo, organizar varias piezas de información en una estructura y manejar conceptos que no se ven importan más. Cuanto más rápido produce resultados la IA, más importante se vuelve el fundamento de la persona que debe juzgar si esos resultados son correctos.
 
 Si lees un informe escrito por IA y no puedes explicar por qué llegó a esa conclusión, ese informe no es tuyo. Si ves código escrito por IA y no sabes de dónde entra ni a dónde sale el dato, ese código no es tu herramienta. Si lees un resumen de IA y no distingues el argumento central de una base débil, no entendiste: solo consumiste un resumen.
 
@@ -51,7 +51,7 @@ Mucha gente entiende los materiales, pero no entiende el trabajo. Sabe los núme
 
 Hay que poder dibujar dónde empieza, quién entrega la entrada, qué área juzga, quién ejecuta. También hay que ver dónde aparece el cuello de botella y hacia dónde vuelve el resultado como feedback. Sin ese dibujo, el informe queda en el aire.
 
-Las frases parecen correctas, pero no encajan con el proceso real. La conclusión suena bien, pero no se sabe quién se atasca al ejecutarla. La solución parece buena, pero no se sabe qué área cargará el costo. Este problema aparece a menudo en informes hechos por IA.
+Las frases parecen correctas, pero no encajan con el proceso real. La conclusión suena bien, pero no se sabe quién tendrá dificultades al ejecutarla. La solución parece buena, pero no se sabe qué área cargará el costo. Este problema aparece a menudo en informes hechos por IA.
 
 La lógica del documento es lisa, pero no coincide con el flujo de trabajo de la empresa. Por eso hay que saber dibujar el workflow: entrada, proceso, salida, aprobación, cuello de botella y feedback.
 
@@ -61,11 +61,11 @@ Aunque la IA escriba el borrador, una persona debe ver si ese borrador está mon
 
 <p class="inline-image-caption">El borrador es solo un material de partida, y alguien que conozca el orden del día real debe editar el resultado hasta el final.</p>
 
-## 3. Estructurar información: convertir datos dispersos en una forma usable
+## 3. Estructurar información: organizar varias piezas de información en una forma usable
 
 Tener mucha información no significa entender. De hecho, cuanta más información hay, más fácil es perderse. Diez documentos, cinco minutas y decenas de números vuelven la cabeza compleja enseguida. En ese momento no hacen falta más materiales. Hace falta estructura.
 
-Estructurar es juntar información dispersa en una forma que pueda usarse.
+Estructurar es organizar varias piezas de información en una forma que pueda usarse.
 
 - Separar causa y efecto
 - Separar lo central de lo accesorio

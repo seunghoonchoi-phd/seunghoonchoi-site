@@ -49,7 +49,7 @@ Ganar dinero con IA no significa vender lo que la IA produjo en el primer intent
 
 Muchas empresas no han llegado a ese punto.
 
-Añaden un chatbot. Resumen reuniones. Redactan respuestas de atención al cliente. Los desarrolladores usan asistentes de código. Solo con eso la productividad mejora.
+Incorporan un chatbot al flujo de trabajo. Resumen reuniones. Redactan respuestas de atención al cliente. Los desarrolladores usan asistentes de código. Solo con eso la productividad mejora.
 
 Pero la empresa completa no cambia.
 
@@ -73,7 +73,7 @@ El patrón actual de "vuelvo al escritorio y le pregunto a la IA" tiene un techo
 
 Una cámara no basta. En el campo hay información que los ojos no capturan por sí solos. Una máquina suena distinto de lo normal. Una superficie ofrece otra resistencia a la mano. El aire huele o se siente diferente. El tono y la expresión de una persona no encajan. Quien está allí suele sentirlo primero.
 
-Para que la IA se pegue al trabajo real, tiene que estar presente en ese momento. Y el ser humano tiene que poder transmitir a la IA lo que percibe con el cuerpo tanto como sea posible. Solo así la IA juzga la situación que tiene delante, no solo documentos en una pantalla.
+Para que la IA procese trabajo real, tiene que recibir información del momento en que el trabajo ocurre. Y el ser humano tiene que poder transmitir a la IA lo que percibe con el cuerpo tanto como sea posible. Solo así la IA juzga la situación que tiene delante, no solo documentos en una pantalla.
 
 ![¿Ninguna empresa ha ganado dinero con IA? La pregunta llega demasiado pronto](/images/inline/column-ai-profit-question-too-early.jpg)
 
@@ -97,7 +97,7 @@ No es la misma historia que la de robots reemplazando humanos. Es la historia de
 
 Por eso la pregunta "qué empresa ha ganado dinero con IA" solo acierta a medias.
 
-Es cierto que muchas empresas todavía no muestran grandes mejoras de beneficio. Pero es demasiado pronto para decir que la IA ya mostró su límite. En muchos lugares, la IA sigue pegada primero al trabajo de pantalla: documentos, código, tablas, imágenes, búsqueda.
+Es cierto que muchas empresas todavía no muestran grandes mejoras de beneficio. Pero es demasiado pronto para decir que la IA ya mostró su límite. En muchos lugares, la IA se usa primero en el trabajo de pantalla: documentos, código, tablas, imágenes, búsqueda.
 
 El cambio real empieza cuando la IA entra en el campo. ¿Una persona solo puede usar IA sentada ante una computadora? ¿O puede llamarla mientras la lleva puesta en el lugar de trabajo? Más aún, ¿qué tan bien puede transmitirle a la IA lo que percibe en ese momento?
 

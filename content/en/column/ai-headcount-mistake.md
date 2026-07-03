@@ -29,7 +29,7 @@ These are not simple writing problems. They are questions of whether an output c
 
 "AI can write the draft." That is true. Simple drafts, summaries, formatting, and repeated documentation really do shrink. There is no need to deny that. But a fast draft does not mean the work is finished.
 
-Someone has to read that draft. They have to catch wrong numbers, add missing conditions, rewrite it in the company's internal language, check whether it can be sent to customers, and look for security or legal issues.
+Someone has to read that draft. They have to verify wrong numbers, add missing conditions, rewrite it in the company's internal language, check whether it can be sent to customers, and look for security or legal issues.
 
 The more important thing is context.
 
@@ -83,7 +83,7 @@ On the surface, work continues. Documents come out, meetings happen, and custome
 
 ## If you cut the middle, the company's memory disappears
 
-When companies reduce people, they often touch the middle. Juniors are cut because they are not yet mature, and seniors are cut because they are expensive. The people left are told, "Just use AI." But much of the company's real memory sits in that middle layer.
+When companies reduce people, they often target the middle layer first. Juniors are cut because they are not yet mature, and seniors are cut because they are expensive. The people left are told, "Just use AI." But much of the company's real memory sits in that middle layer.
 
 Where numbers often go wrong, which department is sensitive to which wording, which customer dislikes which phrase, and which past decision caused trouble. These things are not perfectly written down. AI reads organized documents well. But it does not easily know the tacit knowledge that builds up between people inside the company. Someone has to know that context so AI outputs can be corrected to fit reality. Cut the middle layer and that memory disappears too. Then AI outputs miss the point more often, and the people left spend more time fixing them.
 

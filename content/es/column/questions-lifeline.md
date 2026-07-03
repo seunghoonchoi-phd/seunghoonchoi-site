@@ -60,7 +60,7 @@ Antes casi no habia forma de abrir ese cuello de botella. No habia suficientes p
 
 Preguntar una vez "por que esta formula es posible?" esta bien. Pero si lo preguntas cinco o diez veces desde angulos distintos, la clase se detiene. Por eso los estudiantes que necesitaban la estructura completa tenian dificultades para llevar sus preguntas hasta el final. Terminaban siguiendo los ejercicios sin suficiente comprension, o dejando la materia.
 
-Aqui es donde la IA cambia la situacion. Ahora se puede hacer la misma pregunta de diez formas distintas. Se puede pedir un ejemplo mas facil, un contraejemplo, o un problema nuevo construido exactamente alrededor del punto donde uno esta trabado.
+Aqui es donde la IA cambia la situacion. Ahora se puede hacer la misma pregunta de diez formas distintas. Se puede pedir un ejemplo mas facil, un contraejemplo, o un problema nuevo construido exactamente alrededor de la parte que uno no entiende.
 
 ## Las preguntas ahora pueden convertirse en puntaje
 

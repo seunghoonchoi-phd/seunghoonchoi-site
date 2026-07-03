@@ -32,7 +32,7 @@ A summary is, in the end, a conclusion someone else organized for you. Understan
 
 The ninth box is the real one. Most notes stop at "I know this." This template makes you write down, out in the open, what you still don't know. That becomes the very question you raise in the class or the meeting.
 
-## Hand It to AI and the Nine Boxes Fill Themselves
+## Put the Question In, and AI Fills the Nine Boxes
 
 ```text
 Organize the material below into a "common comprehension template" so that

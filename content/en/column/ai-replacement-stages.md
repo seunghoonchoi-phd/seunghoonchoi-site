@@ -132,7 +132,7 @@ One of the last things to move is value judgment.
 
 What is fair? Whom should we help first? Which risk should we accept? What kind of life is a good life?
 
-These questions do not have right answers. So it is hard to say AI is "more accurate." Human society has to decide what it values. But at some point, people may try to hand even these judgments to AI. If problems become too complex, interests too tangled, and human judgment too distrusted, that can happen. This stage does not arrive because AI pushes through on capability. It arrives when people hand it over themselves.
+These questions do not have right answers. So it is hard to say AI is "more accurate." Human society has to decide what it values. But at some point, people may try to hand even these judgments to AI. If problems become too complex, interests too tangled, and human judgment too distrusted, that can happen. This stage does not arrive because AI replaces humans by capability alone. It arrives when people hand it over themselves.
 
 ## Stage 15, the frame of ownership shakes
 

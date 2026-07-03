@@ -16,7 +16,7 @@ aliases: ["/apps/llm-office-qa/"]
   <div class="appcard__body">
     <span class="appcard__free">ओपन सोर्स (MIT)</span>
     <h3>Office File Inspector</h3>
-    <p>AI से बने PowerPoint, Excel और Word में साफ दिखने वाली खराबियां पकड़ने वाला चेकर, जो स्टाइल के फैसलों को जानबूझकर नहीं छूता।</p>
+    <p>AI से बने PowerPoint, Excel और Word में साफ दिखने वाली खराबियां जाँचने वाला चेकर, जो स्टाइल के फैसलों को जानबूझकर नहीं बदलता।</p>
     <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">GitHub पर देखें -></a>
   </div>
 </div>

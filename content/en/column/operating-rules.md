@@ -47,7 +47,7 @@ They can't switch off the old vendor, maybe, because the executive who landed th
 
 So when you want to push a good idea, one question isn't enough. "Is this right?" is the question of the official rule. Stop there and you repeat the junior's fate exactly. You have to go one step deeper. You picture each person tangled up in the decision, one by one, and ask: what does this person get out of it? What do they lose? Does their face stay intact? When the work goes wrong, does this person have a way to dodge the blame?
 
-This is not about manipulating people. It's the opposite. A good idea keeps getting killed because it turns someone into the person who was wrong, or steals someone's credit, or leaves someone exposed to risk. See that spot in advance and you can change how you present it without changing the idea. You bring the idea back out in a way that lets the manager who objected last year save face, framing it as "an extension of the concern you raised last year." The content is the same. But now this idea no longer makes the manager the one who was wrong. Same idea, and this time it passes.
+This is not about manipulating people. It's the opposite. A good idea keeps getting killed because it turns someone into the person who was wrong, or steals someone's credit, or leaves someone exposed to risk. See why that resistance happens in advance and you can change how you present it without changing the idea. You bring the idea back out in a way that lets the manager who objected last year save face, framing it as "an extension of the concern you raised last year." The content is the same. But now this idea no longer makes the manager the one who was wrong. Same idea, and this time it passes.
 
 ## Read the inner layer and you end up seeing people
 

@@ -19,7 +19,7 @@ build: {list: never, render: always}
 
 Una sala de reuniones. Alguien proyecta un documento y dice: "Esta dirección está equivocada. Los números lo demuestran." Las cifras en pantalla son claras y el razonamiento no tiene fisuras. Pero pasa algo extraño. La cara de la persona de enfrente se endurece. Se cruza de brazos. Su voz baja un tono. Cuanto más detallado es el documento que le presentas, más firme se vuelve él. Dijiste algo claramente correcto, pero el ambiente de la sala se convierte en pelea, no en acuerdo.
 
-He visto esta escena un sinfín de veces. Durante un tiempo creí que el otro era tonto. Que no entendía los datos, que se dejaba llevar por las emociones. Con el tiempo entendí otra cosa. El problema no era el otro. Yo fingía no saber que las personas no se mueven solo con lógica. Un argumento correcto rebota no porque sea falso. Rebota porque toca otra cosa dentro del otro.
+He visto esta escena un sinfín de veces. Durante un tiempo creí que el otro era tonto. Que no entendía los datos, que se dejaba llevar por las emociones. Con el tiempo entendí otra cosa. El problema no era el otro. Yo fingía no saber que las personas no se mueven solo con lógica. Un argumento correcto rebota no porque sea falso. Rebota porque amenaza otra necesidad dentro del otro.
 
 ## En la boca hay una opinión, dentro está el rechazo a ser ignorado
 
