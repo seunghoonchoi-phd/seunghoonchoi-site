@@ -943,18 +943,20 @@ html[dir="rtl"] .lede pre,html[dir="rtl"] .post__body pre{
   --content-wide:min(760px,calc(100vw - clamp(32px,8vw,96px)));
   width:var(--content-wide);
   max-width:var(--content-wide);
-  margin:1.2em 0 1.55em 50%;
+  margin:1.25em 0 1.65em 50%;
   transform:translateX(-50%);
-  padding:1.05rem 1.25rem;
-  background:rgba(252,251,249,.98);
-  border:1px solid rgba(13,27,76,.14);
-  border-radius:10px;
-  box-shadow:0 12px 30px rgba(13,27,76,.08);
+  padding:1.1rem 1.35rem;
+  background:linear-gradient(180deg,rgba(255,255,255,.98),rgba(248,249,252,.96));
+  border:1px solid rgba(13,27,76,.16);
+  border-radius:8px;
+  box-shadow:0 14px 34px rgba(13,27,76,.09);
   color:var(--ink);
   overflow-x:auto;
   -webkit-overflow-scrolling:touch;
   direction:ltr;
   text-align:center;
+  scrollbar-width:thin;
+  scrollbar-color:rgba(13,27,76,.28) transparent;
 }
 html[dir="rtl"] .lede .formula-block,html[dir="rtl"] .post__body .formula-block{
   margin-right:50%;
@@ -963,12 +965,16 @@ html[dir="rtl"] .lede .formula-block,html[dir="rtl"] .post__body .formula-block{
 }
 .lede .formula-block math,.post__body .formula-block math{
   display:block;
-  margin:.32rem auto;
+  width:max-content;
+  max-width:100%;
+  margin:.28rem auto;
   font-family:"Cambria Math","STIX Two Math","Latin Modern Math",serif;
-  font-size:clamp(1.05rem,2.1vw,1.34rem);
-  line-height:1.7;
+  font-size:clamp(1.12rem,2.25vw,1.42rem);
+  line-height:1.85;
+  font-style:normal;
+  math-style:normal;
 }
-.lede .formula-block math + math,.post__body .formula-block math + math{margin-top:.78rem}
+.lede .formula-block math + math,.post__body .formula-block math + math{margin-top:.85rem}
 
 .lede pre,.post__body pre{
   background:linear-gradient(180deg,#142052,#101A43);
@@ -1007,8 +1013,8 @@ html[dir="rtl"] .lede .formula-block,html[dir="rtl"] .post__body .formula-block{
     margin:1.15em 0 1.35em;
     transform:none;
   }
-  .lede .formula-block,.post__body .formula-block{padding:.9rem .95rem}
-  .lede .formula-block math,.post__body .formula-block math{font-size:1.02rem}
+  .lede .formula-block,.post__body .formula-block{padding:.95rem 1rem}
+  .lede .formula-block math,.post__body .formula-block math{font-size:1.04rem}
   .lede table,.post__body table{
     display:block;
     overflow:visible;

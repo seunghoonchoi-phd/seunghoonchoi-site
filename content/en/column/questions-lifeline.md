@@ -18,10 +18,10 @@ When I studied quantum mechanics in engineering school, equations like these app
 
 <div class="formula-block">
   <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
-    <mrow><mover><mi>H</mi><mo stretchy="false">^</mo></mover><mi>ψ</mi><mo>=</mo><mi>E</mi><mi>ψ</mi></mrow>
+    <mrow><mover accent="true"><mi>H</mi><mo stretchy="false">^</mo></mover><mi>ψ</mi><mo>=</mo><mi>E</mi><mi>ψ</mi></mrow>
   </math>
   <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
-    <mrow><mover><mi>H</mi><mo stretchy="false">^</mo></mover><mo>=</mo><mo>-</mo><mfrac><msup><mi>ℏ</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>m</mi></mrow></mfrac><msup><mi>∇</mi><mn>2</mn></msup><mo>+</mo><mi>V</mi><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">)</mo></mrow>
+    <mrow><mover accent="true"><mi>H</mi><mo stretchy="false">^</mo></mover><mo>=</mo><mo>-</mo><mfrac><msup><mi>ℏ</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>m</mi></mrow></mfrac><msup><mi>∇</mi><mn>2</mn></msup><mo>+</mo><mi>V</mi><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">)</mo></mrow>
   </math>
   <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
     <mrow><mo stretchy="false">⟨</mo><mi>φ</mi><mo stretchy="false">|</mo><mi>ψ</mi><mo stretchy="false">⟩</mo><mo>=</mo><mo>∫</mo><msup><mi>φ</mi><mo>*</mo></msup><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mi>ψ</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mi>d</mi><mi>x</mi></mrow>
