@@ -21,7 +21,7 @@
     const profileUrl = "https://www.instagram.com/hoonchoi.mk1/";
     const webDmUrl = "https://www.instagram.com/direct/new/?username=hoonchoi.mk1";
     const iosAppUrl = "instagram://user?username=hoonchoi.mk1";
-    const androidIntentUrl = "intent://www.instagram.com/hoonchoi.mk1/#Intent;scheme=https;package=com.instagram.android;S.browser_fallback_url=" + encodeURIComponent(webDmUrl) + ";end";
+    const androidIntentUrl = "intent://user?username=hoonchoi.mk1#Intent;scheme=instagram;package=com.instagram.android;S.browser_fallback_url=" + encodeURIComponent(profileUrl) + ";end";
     const isAndroid = /Android/i.test(navigator.userAgent);
     const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
 
@@ -29,25 +29,12 @@
       const appButton = document.querySelector("[data-open-instagram]");
       if (appButton) appButton.href = isAndroid ? androidIntentUrl : iosAppUrl;
     });
-
-    window.addEventListener("pageshow", () => {
-      if (isAndroid) {
-        window.location.href = androidIntentUrl;
-        return;
-      }
-      if (isIOS) {
-        window.location.href = iosAppUrl;
-        window.setTimeout(() => { window.location.href = webDmUrl; }, 1200);
-        return;
-      }
-      window.location.replace(webDmUrl);
-    });
   </script>
 </head>
 <body>
   <main>
     <h1>Opening Instagram</h1>
-    <p>If the Instagram app does not open automatically, use the buttons below.</p>
+    <p>Tap the button below to open Instagram. If the app is not installed, use the browser link.</p>
     <a class="primary" href="instagram://user?username=hoonchoi.mk1" data-open-instagram>Open Instagram App</a>
     <a class="secondary" href="https://www.instagram.com/direct/new/?username=hoonchoi.mk1">Open DM in Browser</a>
     <a class="secondary" href="https://www.instagram.com/hoonchoi.mk1/">Open Instagram Profile</a>

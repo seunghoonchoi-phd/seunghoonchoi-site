@@ -107,6 +107,33 @@
     });
   }
 
+  /* Instagram mobile handoff. Android Chrome only opens intent links reliably
+     from a direct user gesture, so handle the homepage tap before navigating to
+     the browser fallback page. */
+  document.querySelectorAll("[data-instagram-app-link]").forEach(function (link) {
+    var username = link.getAttribute("data-instagram-username") || "hoonchoi.mk1";
+    var profileUrl = "https://www.instagram.com/" + encodeURIComponent(username) + "/";
+    var iosAppUrl = "instagram://user?username=" + encodeURIComponent(username);
+    var androidIntentUrl = "intent://user?username=" + encodeURIComponent(username) +
+      "#Intent;scheme=instagram;package=com.instagram.android;S.browser_fallback_url=" +
+      encodeURIComponent(profileUrl) + ";end";
+    var isAndroid = /Android/i.test(navigator.userAgent);
+    var isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+
+    if (!isAndroid && !isIOS) return;
+    link.removeAttribute("target");
+    link.href = isAndroid ? androidIntentUrl : iosAppUrl;
+    if (isAndroid) return;
+
+    link.addEventListener("click", function () {
+      if (isIOS) {
+        window.setTimeout(function () {
+          if (!document.hidden) window.location.href = profileUrl;
+        }, 1500);
+      }
+    });
+  });
+
   /* Admin-only private links. These are created only in an owner browser with a
      valid admin session token, so public visitors do not see unfinished tabs. */
   function validAdminToken() {
