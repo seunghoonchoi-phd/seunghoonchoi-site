@@ -1,6 +1,6 @@
 ---
 title: "Doctorado en Estados Unidos: puedes prepararlo por tu cuenta"
-subtitle: "Una persona que no sabía nada, salvo que hacía falta un puntaje de TOEFL, llegó en 18 meses hasta una admisión con financiación completa. Comparto el prólogo de ese libro."
+subtitle: "Una persona que no sabía nada, salvo que hacía falta un puntaje de TOEFL, llegó en 18 meses hasta una admisión con financiación completa."
 date: 2026-06-22
 categories: ["Estudiar en el extranjero"]
 tags: ["Estudiar en Estados Unidos", "Doctorado en el extranjero", "TOEFL", "SOP", "visa F-1", "Posgrado"]
@@ -13,7 +13,6 @@ reviewStatus: "done"
   <div style="flex:1;min-width:240px">
     <p style="margin:.25em 0;color:#44423E">Escrito por Seunghoon Choi · Publicado por Bellunix · Junio de 2026 (en coreano)</p>
     <p style="margin:.25em 0;color:#44423E">eBook (ePUB) · 16.000 wones</p>
-    <p style="margin:1em 0 0;color:#44423E">A continuación está el prólogo del libro «미국 박사 유학, 혼자 준비해도 됩니다» (Doctorado en Estados Unidos: puedes prepararlo por tu cuenta).</p>
   </div>
 </div>
 
@@ -33,7 +32,6 @@ Voy a empezar siendo honesto. Cuando decidí hacer el doctorado en Estados Unido
 
 ![Doctorado en Estados Unidos: puedes prepararlo por tu cuenta](/images/inline/career-us-phd-guide.jpg)
 
-<p class="inline-image-caption">Los solicitantes de doctorado estadounidenses obtienen los siguientes criterios de juicio al procesar directamente el proceso de preparación y los resultados de aceptación.</p>
 
 No sabía cómo se escribe un Resume. Para el SOP, tuve que buscar primero qué era, hasta entender que se trata de una carta de presentación. Con qué criterio se eligen las universidades, cómo se busca a un profesor, qué hacer una vez que lo encuentras, y antes de todo eso, si yo siquiera reunía los requisitos para postular. Ni las preguntas me salían ordenadas. En internet había información de sobra, pero todo eran fragmentos. No existía en ninguna parte un mapa que mostrara, en una sola hoja, qué hacer, en qué orden y hasta dónde.
 
@@ -63,6 +61,6 @@ Del TOEFL a la visa F-1, vamos en orden.
 
 ---
 
-Hasta aquí el prólogo. Desde la preparación del TOEFL hasta la elección de universidades y profesores, los correos en frío y el SOP, la entrevista por Zoom, las cartas de recomendación, la estrategia de postulación y lista de espera, y, tras la admisión, el I-20 y la visa F-1. Reuní en un solo libro todo el proceso de 18 meses, en orden y sin adornos.
+Desde la preparación del TOEFL hasta la elección de universidades y profesores, los correos en frío y el SOP, la entrevista por Zoom, las cartas de recomendación, la estrategia de postulación y lista de espera, y, tras la admisión, el I-20 y la visa F-1. Reuní en un solo libro todo el proceso de 18 meses, en orden y sin adornos.
 
 <p style="margin:1.2em 0 0;display:flex;flex-wrap:wrap;gap:10px"><a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">Ver en Kyobo Book (en coreano) ↗</a><a href="https://smartstore.naver.com/bellunix/products/13640954951" target="_blank" rel="noopener" style="display:inline-block;background:#03C75A;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">Ver en Naver Smartstore ↗</a></p>

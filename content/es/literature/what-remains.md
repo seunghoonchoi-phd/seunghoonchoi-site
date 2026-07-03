@@ -8,7 +8,6 @@ reviewStatus: "done"
 
 ![Gotas de lluvia sobre una ventana](/images/lit-remains.jpg)
 
-<p class="inline-image-caption">Cuanto menos queda, más se convierten las palabras "Te amo" en palabras que determinan la acción final, en lugar de palabras de consuelo.</p>
 
 <div class="poem">
 <p>Quizá lo más importante<br>

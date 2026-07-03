@@ -19,7 +19,6 @@ reviewStatus: "done"
   </div>
 </div>
 
-<p class="inline-image-caption">This cover shows that U.S. doctoral applicants can view the entire preparation process in one volume.</p>
 
 Other than knowing I needed a TOEFL score, I knew almost nothing. This book collects every experience and mistake from the 18 months it took me to receive an offer letter from scratch. At the end of that process, I was admitted to the materials engineering PhD program at the University of Florida (UF) with full funding, and I received my F-1 visa.
 

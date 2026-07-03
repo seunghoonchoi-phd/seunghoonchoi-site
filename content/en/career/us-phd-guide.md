@@ -1,6 +1,6 @@
 ---
 title: "You Can Prepare for a US PhD on Your Own"
-subtitle: "Eighteen months, from someone who knew nothing except that you needed a TOEFL score, to a full-funding offer. Here is the prologue of the book."
+subtitle: "Eighteen months, from someone who knew nothing except that you needed a TOEFL score, to a full-funding offer."
 date: 2026-06-22
 categories: ["Study Abroad"]
 tags: ["Study in the US", "PhD abroad", "TOEFL", "SOP", "F-1 visa", "Graduate school"]
@@ -13,7 +13,6 @@ reviewStatus: "done"
   <div style="flex:1;min-width:240px">
     <p style="margin:.25em 0;color:#44423E">By Seunghoon Choi · Published by Bellunix · June 2026 · Written in Korean</p>
     <p style="margin:.25em 0;color:#44423E">eBook (ePUB) · KRW 16,000</p>
-    <p style="margin:1em 0 0;color:#44423E">What follows is the prologue of the book 《You Can Prepare for a US PhD on Your Own》.</p>
   </div>
 </div>
 
@@ -33,7 +32,6 @@ To put the conclusion first: I did it. I took the TOEFL, chose schools and profe
 
 ![You Can Prepare for a US PhD on Your Own](/images/inline/career-us-phd-guide.jpg)
 
-<p class="inline-image-caption">American doctoral applicants obtain the following judgment criteria by directly processing the preparation process as well as the acceptance results.</p>
 
 Let me be clear up front. What this book holds is only my own experience from one US PhD preparation process. I am simply setting down what I went through, just as it was, and showing the route that was possible on my own. The judgment is the reader's to make.
 
@@ -51,6 +49,6 @@ From the TOEFL to the F-1 visa, let's go in order.
 
 ---
 
-That is where the prologue ends. From TOEFL prep to choosing schools and professors, cold emails and the SOP, Zoom interviews, recommendation letters, applications and waitlist strategy, and everything after admission up to the I-20 and the F-1 visa. The whole eighteen-month process, set down in order, in one book, with nothing dressed up.
+From TOEFL prep to choosing schools and professors, cold emails and the SOP, Zoom interviews, recommendation letters, applications and waitlist strategy, and everything after admission up to the I-20 and the F-1 visa. The whole eighteen-month process is set down in order, in one book, with nothing dressed up.
 
 <p style="margin:1.2em 0 0;display:flex;flex-wrap:wrap;gap:10px"><a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">View on Kyobo Book Centre ↗</a><a href="https://smartstore.naver.com/bellunix/products/13640954951" target="_blank" rel="noopener" style="display:inline-block;background:#03C75A;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">View on Naver Smartstore ↗</a></p>

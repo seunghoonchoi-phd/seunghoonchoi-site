@@ -8,7 +8,6 @@ reviewStatus: "done"
 
 ![Raindrops on a window](/images/lit-remains.jpg)
 
-<p class="inline-image-caption">残るものが少ないほど、愛しているという言葉は慰めより最後の行動を決める言葉になる。</p>
 
 <div class="poem">
 <p>たぶんいちばん大切なのは<br>

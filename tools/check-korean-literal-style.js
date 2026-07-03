@@ -123,6 +123,11 @@ const rules = [
     pattern: /(?:내|나의|사람(?:의)?|독자(?:의)?|중요한)\s*몫|몫(?:은|이|을)|남는\s*몫/,
     message: "`내 몫`, `사람의 몫`, `독자의 몫`처럼 보상·역할·책임을 뭉개지 말고 `내 자산이 같이 커진다`, `사람이 해야 한다`, `독자가 자기 상황에 맞춰 판단한다`처럼 실제 돈, 행동, 책임을 쓰세요.",
   },
+  {
+    id: "vague-research-profile-verbs",
+    pattern: /(?:소재\s*후보[^.\n]{0,40}좁히|조건[^.\n]{0,40}좁히|특성[^.\n]{0,40}성능[^.\n]{0,40}연결|병목[^.\n]{0,40}풀어내|프롤로그[^.\n]{0,20}공개|물에\s*강한[^.\n]{0,20}센서)/,
+    message: "`좁히다`, `연결하다`, `풀어내다`, `프롤로그 공개`, `물에 강한 센서`처럼 뜻이 흐린 표현 대신 `후보를 추려내다`, `성능을 예측하다`, `해결하고 공유하다`, `수분에 내구성이 있다`처럼 실제 행동과 대상을 쓰세요.",
+  },
 ];
 
 function walk(dir) {
@@ -149,7 +154,7 @@ function shouldSkip(rel) {
   return (
     rel.startsWith("content/ko/literature/") ||
     rel.startsWith("content/ko/incomplete/") ||
-    rel.endsWith("/_index.md")
+    (rel.endsWith("/_index.md") && rel !== "content/ko/research/_index.md")
   );
 }
 

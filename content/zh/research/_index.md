@@ -11,11 +11,11 @@ reviewStatus: "done"
 
 ## 研究方向
 
-- 用计算与 AI 更快地缩小材料候选范围
-- 设计连接原子尺度特征与真实性能的指标（descriptor）
-- 梳理能源材料中结构、工艺、性能如何相互关联
+- 用计算与 AI 更快筛选出值得实验的材料候选
+- 设计用原子尺度计算值预测真实性能的指标（descriptor）
+- 梳理能源材料中结构、工艺、性能如何相互影响
 - 微结构与界面如何影响传感器与电极的性能
-- 用数据分析电池电极工艺，缩小工艺条件
+- 用数据分析电池电极工艺，更快筛选出有希望的工艺条件
 
 ## 代表工作
 
@@ -23,7 +23,7 @@ reviewStatus: "done"
 
 [![Advanced Functional Materials 封底：导电分层纤毛纤维传感器](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
-我在纤维表面做出细密的分层结构并赋予其导电性，做成了一种既能拉伸、又耐水的多模态传感器。在大幅形变下电信号依然稳定，并揭示了微结构形貌如何主导可拉伸纳米复合材料的电传导与传感性能。这项工作被选为 *Advanced Functional Materials* 2019 年第 50 期封底，Google Scholar 上被引超过 140 次。
+我在纤维表面做出细密的分层结构并赋予其导电性，做成了一种既能拉伸、在潮湿环境下也耐用的多模态传感器。在大幅形变下电信号依然稳定，并揭示了微结构形貌如何主导可拉伸纳米复合材料的电传导与传感性能。这项工作被选为 *Advanced Functional Materials* 2019 年第 50 期封底，Google Scholar 上被引超过 140 次。
 
 <p class="pub-cite">Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. <strong>Seunghoon Choi</strong>†, Kukro Yoon†, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee*, Changhyun Pang*. <em>Advanced Functional Materials</em> 29(50), 2019, 1905808. · 共同第一作者 · Back Cover</p>
 

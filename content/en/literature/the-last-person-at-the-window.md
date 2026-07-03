@@ -12,7 +12,6 @@ build: {list: never, render: always}
 
 ![The silhouette of a person sitting by a window that looks out on the sea](/images/inline/literature-the-last-person-at-window.jpg)
 
-<p class="inline-image-caption">The sea outside the window shows that time continues to pass even after people have lost everything to do.</p>
 
 Every morning, Su-kyung still takes the same seat.
 

@@ -1,6 +1,6 @@
 ---
 title: "미국 박사 유학, 혼자 준비해도 됩니다"
-subtitle: "토플 점수가 필요하다는 것 빼고는 아무것도 몰랐던 사람이, 전액 펀딩 합격까지 간 18개월. 그 책의 프롤로그를 공개합니다."
+subtitle: "토플 점수가 필요하다는 것 빼고는 아무것도 몰랐던 사람이, 전액 펀딩 합격까지 간 18개월."
 date: 2026-06-22
 categories: ["유학"]
 tags: ["미국유학", "박사유학", "토플", "SOP", "F-1비자", "대학원"]
@@ -13,7 +13,6 @@ reviewStatus: "done"
   <div style="flex:1;min-width:240px">
     <p style="margin:.25em 0;color:#44423E">최승훈 지음 · 벨루닉스 펴냄 · 2026년 6월</p>
     <p style="margin:.25em 0;color:#44423E">eBook(ePUB) · 16,000원</p>
-    <p style="margin:1em 0 0;color:#44423E">아래는 책 《미국 박사 유학, 혼자 준비해도 됩니다》의 프롤로그입니다.</p>
   </div>
 </div>
 
@@ -33,7 +32,6 @@ Resume를 어떻게 쓰는지 몰랐다. SOP는 그게 자기소개서라는 것
 
 ![미국 박사 유학, 혼자 준비해도 됩니다](/images/inline/career-us-phd-guide.jpg)
 
-<p class="inline-image-caption">미국 박사 지원자는 합격 결과뿐 아니라 준비 과정을 직접 처리하면서 다음 판단 기준을 얻는다.</p>
 
 미리 분명히 해 둔다. 이 책에 담은 것은 한 번의 미국 박사 유학 준비 과정에서 겪은 나의 경험일 뿐이다. 나는 다만 내가 겪은 것을 그대로 적고, 직접 준비할 수 있었던 경로를 보여줄 뿐이다. 최종 판단은 독자가 자기 상황에 맞춰 해야 한다.
 
@@ -51,6 +49,6 @@ Resume를 어떻게 쓰는지 몰랐다. SOP는 그게 자기소개서라는 것
 
 ---
 
-여기까지가 프롤로그입니다. 토플 준비부터 학교·교수 선정, 콜드메일과 SOP, 줌 인터뷰, 추천서, 지원과 대기자 전략, 그리고 합격 이후 I-20와 F-1 비자까지. 18개월의 모든 과정을 미화 없이 순서대로 책 한 권에 담았습니다.
+토플 준비부터 학교·교수 선정, 콜드메일과 SOP, 줌 인터뷰, 추천서, 지원과 대기자 전략, 그리고 합격 이후 I-20와 F-1 비자까지. 18개월의 모든 과정을 미화 없이 순서대로 책 한 권에 담았습니다.
 
 <p style="margin:1.2em 0 0;display:flex;flex-wrap:wrap;gap:10px"><a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">교보문고에서 책 보기 ↗</a><a href="https://smartstore.naver.com/bellunix/products/13640954951" target="_blank" rel="noopener" style="display:inline-block;background:#03C75A;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">스마트스토어에서 보기 ↗</a></p>

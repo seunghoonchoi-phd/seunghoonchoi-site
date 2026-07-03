@@ -12,7 +12,6 @@ build: {list: never, render: always}
 
 ![海の見える窓辺に座る人のシルエット](/images/inline/literature-the-last-person-at-window.jpg)
 
-<p class="inline-image-caption">窓の外の海は、人がすることを失ったあとも時間が過ぎ続けるという事実を示している。</p>
 
 スギョンは今でも、毎朝同じ場所に座る。
 

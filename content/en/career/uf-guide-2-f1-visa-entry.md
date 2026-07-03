@@ -11,7 +11,6 @@ reviewStatus: "done"
 
 ![Passport and travel documents](/images/uf2-visa.jpg)
 
-<p class="inline-image-caption">When preparing for F-1 entry, you must know not only the visa documents but also the order in which each document must be presented at the airport.</p>
 
 F-1 status doesn't end the moment you receive your admission letter. It is a condition you have to maintain the entire time you're in the U.S. It's easy to relax once you pass the visa interview, but the real test is how you pack your documents before boarding the plane and how you complete check-in within 30 days of the program start date on your I-20. This post walks through the whole sequence in order: F-1 status requirements, entry at the Port of Entry (POE), ISSS online check-in after arrival, government fees, and the route from the airport to Gainesville.
 
@@ -51,7 +50,6 @@ A few more things to plan for:
 
 ![F-1 Visa and U.S. Entry: From Status Requirements to Airport Arrival](/images/inline/career-uf-guide-2-f1-visa-entry.jpg)
 
-<p class="inline-image-caption">Missing one document at the airport can cause immediate delays in immigration screening and first day schedule.</p>
 
 ## After-Arrival Obligation: ISSS Online Check-In
 

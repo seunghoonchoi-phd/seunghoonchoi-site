@@ -12,7 +12,6 @@ build: {list: never, render: always}
 
 ![समुद्र दिखती खिड़की के पास बैठे एक इंसान की छाया](/images/inline/literature-the-last-person-at-window.jpg)
 
-<p class="inline-image-caption">खिड़की के बाहर समुद्र दर्शाता है कि लोगों के पास करने के लिए सब कुछ खो जाने के बाद भी समय बीतता जा रहा है।</p>
 
 सुक्यॉन्ग अब भी हर सुबह उसी जगह बैठती है।
 

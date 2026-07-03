@@ -13,7 +13,6 @@ reviewStatus: "done"
 ---
 ![Advanced Functional Materials Back Cover](/images/afm-backcover.jpeg)
 
-<p class="inline-image-caption">The back cover image shows that this paper used hair-structured electrodes to connect body movements and mechanical signals.</p>
 
 Our work on conductive hierarchical hairy fibers, a highly sensitive, stretchable, water-resistant, multimodal gesture-distinguishable sensor, was selected for the back cover of *Advanced Functional Materials* (issue 50/2019), highlighting applications in wearable electronics and VR interfaces.
 

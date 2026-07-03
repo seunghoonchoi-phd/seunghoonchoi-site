@@ -8,7 +8,6 @@ reviewStatus: "done"
 
 ![Raindrops on a window](/images/lit-remains.jpg)
 
-<p class="inline-image-caption">남는 것이 적을수록, 사랑한다는 말은 위로보다 마지막 행동을 정하는 말이 된다.</p>
 
 <div class="poem">
 <p>아마 가장 중요한 건<br>

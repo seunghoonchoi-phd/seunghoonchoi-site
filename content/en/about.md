@@ -6,11 +6,9 @@ reviewStatus: "done"
   <img src="/images/about-portrait.jpg" alt="Seunghoon Choi" width="820" height="1093" loading="eager">
 </figure>
 
-<p class="inline-image-caption">This photo shows that the posts on the site deal with problems a person has experienced, not just a list of careers.</p>
-
 Before I am an engineer, I am someone who creates content. When I work through complex, tedious problems myself, I turn them into writing and tools so the next person has to wander less. Starting in 2026, I will begin a Ph.D. in Computational Materials Science at the University of Florida (UF).
 
-Degrees and research matter, but I also think there is beauty in recording and organizing a life authentically. I want to turn the bottlenecks I have run into myself into essays, apps, and guides.
+Degrees and research matter, but I also think there is beauty in recording and organizing a life authentically. I want to solve the bottlenecks I have run into myself, then share the process through essays, apps, and guides.
 
 I hope the roads I have already walked become a little less difficult for the next person.
 

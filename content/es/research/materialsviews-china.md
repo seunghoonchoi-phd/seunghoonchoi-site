@@ -7,7 +7,6 @@ reviewStatus: "done"
 ---
 ![Presentación en MaterialsViewsChina](/images/materialsviews.png)
 
-<p class="inline-image-caption">Esta investigación amplió el rango de entrada que el sensor puede distinguir al leer múltiples señales de un solo movimiento de la mano.</p>
 
 Una investigación que publiqué en *Advanced Functional Materials* apareció en chino en MaterialsViews China, así que también llegó a los lectores científicos del mundo de habla china. Es un sensor hecho con fibras muy finas, parecidas a pelillos (fibras "peludas"), apiladas en capas y recubiertas para que conduzcan la electricidad. Se estira bien, resiste el contacto con el agua y, aun así, capta señales muy pequeñas. Con un solo sensor se pueden leer al mismo tiempo, y de varias formas, los movimientos del cuerpo y los gestos de la mano.
 

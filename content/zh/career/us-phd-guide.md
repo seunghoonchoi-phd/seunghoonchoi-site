@@ -1,6 +1,6 @@
 ---
 title: "美国博士留学，一个人准备也可以"
-subtitle: "除了知道需要托福成绩之外一无所知的人，走到全额资助录取的 18 个月。公开这本书的序言。"
+subtitle: "除了知道需要托福成绩之外一无所知的人，走到全额资助录取的 18 个月。"
 date: 2026-06-22
 categories: ["留学"]
 tags: ["美国留学", "博士留学", "TOEFL", "SOP", "F-1 签证", "研究生院"]
@@ -13,7 +13,6 @@ reviewStatus: "done"
   <div style="flex:1;min-width:240px">
     <p style="margin:.25em 0;color:#44423E">崔胜勋 著 · Bellunix 出版 · 2026年6月</p>
     <p style="margin:.25em 0;color:#44423E">eBook(ePUB) · 16,000韩元</p>
-    <p style="margin:1em 0 0;color:#44423E">以下是《美国博士留学，一个人准备也可以》一书的序言。</p>
   </div>
 </div>
 
@@ -33,7 +32,6 @@ reviewStatus: "done"
 
 ![美国博士留学，一个人准备也可以](/images/inline/career-us-phd-guide.jpg)
 
-<p class="inline-image-caption">美国博士申请者通过直接处理准备过程以及录取结果，获得以下判断标准。</p>
 
 我先说明白。这本书记录的，只是我一次准备美国博士留学的个人经验。我只是把自己经历过的事照实写下，并展示一条可以自己准备的路径。怎么判断，是读者自己的事。
 
@@ -51,6 +49,6 @@ reviewStatus: "done"
 
 ---
 
-序言到这里结束。从托福准备到选校、选教授，从 cold email 和 SOP，到 Zoom 面试、推荐信，再到申请与候补名单策略，以及录取之后的 I-20 和 F-1 签证。18 个月的全过程，我都不加美化，按顺序装进了这一本书里。
+从托福准备到选校、选教授，从 cold email 和 SOP，到 Zoom 面试、推荐信，再到申请与候补名单策略，以及录取之后的 I-20 和 F-1 签证。18 个月的全过程，我都不加美化，按顺序装进了这一本书里。
 
 <p style="margin:1.2em 0 0;display:flex;flex-wrap:wrap;gap:10px"><a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013171412" target="_blank" rel="noopener" style="display:inline-block;background:#0D1B4C;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">在教保文库查看（韩语）↗</a><a href="https://smartstore.naver.com/bellunix/products/13640954951" target="_blank" rel="noopener" style="display:inline-block;background:#03C75A;color:#fff;font-weight:700;padding:14px 26px;border-radius:999px">在 Naver Smartstore 查看 ↗</a></p>

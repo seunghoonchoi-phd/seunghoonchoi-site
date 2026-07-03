@@ -11,7 +11,6 @@ reviewStatus: "done"
 ---
 ![건·습 환경에서 안정적인 EMG 기반 로봇 제어를 위한 문어 모사 점착 전극](/images/octopus-emg-electrode.jpg)
 
-<p class="inline-image-caption">젖은 피부에서도 붙는 전극은 착용형 로봇이 실제 사용 환경에서 근육 신호를 읽는 조건을 만든다.</p>
 
 (공동 1저자 논문) _International Journal of Internet, Broadcasting and Communication_(IJIBC)에 게재된 연구입니다. 문어 빨판을 모사한 미세구조로 피부에 흡착하며, 건조하거나 젖은 피부에서도 EMG(electromyography, 근전도) 신호를 안정적으로 기록합니다. 땀이나 피부 움직임에도 전극이 쉽게 떨어지지 않아, 의수나 웨어러블 로봇을 EMG 기반으로 더 안정적으로 제어할 수 있습니다.
 

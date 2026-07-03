@@ -10,11 +10,11 @@ Going forward, I want to use computational materials science and machine learnin
 
 ## Research Directions
 
-- Narrowing down material candidates faster with computation and AI
-- Designing descriptors that link atomic-scale features to real performance
-- Tracing how structure, processing, and performance connect in energy materials
+- Using computation and AI to shortlist material candidates worth testing
+- Designing descriptors that use atomic-scale features to predict real performance
+- Analyzing how structure, processing, and performance shape one another in energy materials
 - How microstructure and interfaces shape sensor and electrode performance
-- Analyzing battery electrode processes from data to narrow down conditions
+- Analyzing battery electrode process data to identify promising process conditions
 
 ## Selected Work
 
@@ -22,7 +22,7 @@ Going forward, I want to use computational materials science and machine learnin
 
 [![Advanced Functional Materials Back Cover, conductive hierarchical hairy-fiber sensor](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
-I built fine hierarchical structures on fiber surfaces and made them conductive, creating a multimodal sensor that stretches well and resists water. The electrical signal stayed stable even under large deformation, and the work showed how microstructure geometry governs electrical conduction and sensing in stretchable nanocomposites. It ran as the Back Cover of *Advanced Functional Materials* issue 50, 2019, and has been cited more than 140 times (Google Scholar).
+I built fine hierarchical structures on fiber surfaces and made them conductive, creating a multimodal sensor that stretches well and remains durable under moisture and wet conditions. The electrical signal stayed stable even under large deformation, and the work showed how microstructure geometry governs electrical conduction and sensing in stretchable nanocomposites. It ran as the Back Cover of *Advanced Functional Materials* issue 50, 2019, and has been cited more than 140 times (Google Scholar).
 
 <p class="pub-cite">Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. <strong>Seunghoon Choi</strong>†, Kukro Yoon†, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee*, Changhyun Pang*. <em>Advanced Functional Materials</em> 29(50), 2019, 1905808. · Co-first author · Back Cover</p>
 

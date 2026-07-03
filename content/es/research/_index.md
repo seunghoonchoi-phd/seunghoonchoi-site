@@ -10,11 +10,11 @@ De aquí en adelante quiero seguir investigando cómo reducir la distancia entre
 
 ## Líneas de investigación
 
-- Métodos para reducir más rápido la lista de materiales candidatos con cálculo e inteligencia artificial
-- Diseño de indicadores que conectan las propiedades a escala atómica con el rendimiento real
-- Análisis de cómo se enlazan la estructura, el proceso y el rendimiento en los materiales para energía
+- Métodos para seleccionar con más rapidez los candidatos de materiales que vale la pena probar con cálculo e inteligencia artificial
+- Diseño de indicadores que usan propiedades a escala atómica para predecir el rendimiento real
+- Análisis de cómo la estructura, el proceso y el rendimiento se influyen entre sí en los materiales para energía
 - El efecto de la microestructura y las interfaces en el rendimiento de sensores y electrodos
-- Métodos para analizar con datos el proceso de fabricación de electrodos de baterías y acotar las condiciones
+- Métodos para analizar con datos el proceso de fabricación de electrodos de baterías e identificar condiciones prometedoras
 
 ## Investigaciones destacadas
 
@@ -22,7 +22,7 @@ De aquí en adelante quiero seguir investigando cómo reducir la distancia entre
 
 [![Contraportada de Advanced Functional Materials: sensor de fibra peluda jerárquica conductora](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
-Creamos una microestructura jerárquica sobre la superficie de una fibra y le dimos conductividad, para fabricar un sensor multimodal que se estira bien y resiste el agua. La señal eléctrica se mantuvo estable incluso con grandes deformaciones, y el trabajo mostró cómo la forma de la microestructura cambia la conducción eléctrica y el rendimiento del sensor en un nanocompuesto elástico. Esta investigación apareció como contraportada (Back Cover) del número 50 de *Advanced Functional Materials* en 2019 y, según Google Scholar, se ha citado más de 140 veces.
+Creamos una microestructura jerárquica sobre la superficie de una fibra y le dimos conductividad, para fabricar un sensor multimodal que se estira bien y tiene durabilidad frente a la humedad. La señal eléctrica se mantuvo estable incluso con grandes deformaciones, y el trabajo mostró cómo la forma de la microestructura cambia la conducción eléctrica y el rendimiento del sensor en un nanocompuesto elástico. Esta investigación apareció como contraportada (Back Cover) del número 50 de *Advanced Functional Materials* en 2019 y, según Google Scholar, se ha citado más de 140 veces.
 
 <p class="pub-cite">Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. <strong>Seunghoon Choi</strong>†, Kukro Yoon†, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee*, Changhyun Pang*. <em>Advanced Functional Materials</em> 29(50), 2019, 1905808. · Coprimer autor · Back Cover</p>
 

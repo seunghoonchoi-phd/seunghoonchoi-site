@@ -11,7 +11,6 @@ seoTitle: "Rent AutoPay for International Students: What to Watch Out for Withou
 
 ![A fan of U.S. twenty-dollar bills](/images/uf-rent-autopay.jpg)
 
-<p class="inline-image-caption">Before setting up automatic payment, you must check which account the money is being withdrawn from and with what fees.</p>
 
 I'd just signed the lease on my apartment in the U.S. Move-in was still more than a month out, but I wanted to get rent AutoPay set up early. If I ever forgot a payment, I'd get hit with a late fee, so handling it ahead of time felt like one less thing to worry about. Then I hit the payment screen and stopped cold. Here's what I figured out. If you're like me and thinking "let me just set up AutoPay before I move in," this should help.
 
@@ -32,7 +31,6 @@ A Korean card makes it worse. On top of the processing fee, you stack a foreign 
 
 ![Setting Up Rent AutoPay for U.S. Grad School? Don't Use a Card Without a U.S. Bank Account](/images/inline/career-us-rent-autopay.jpg)
 
-<p class="inline-image-caption">Before you have a U.S. bank account, it may be safer to manage payment due dates yourself rather than making automatic payments.</p>
 
 ## The Right Order
 

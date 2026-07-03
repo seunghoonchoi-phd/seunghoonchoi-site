@@ -11,7 +11,6 @@ reviewStatus: "done"
 
 ![Passport and travel documents](/images/uf2-visa.jpg)
 
-<p class="inline-image-caption">F-1 입국 준비에서는 비자 서류뿐 아니라 공항에서 각 서류를 제시할 순서까지 알아야 한다.</p>
 
 F-1 신분은 합격증을 받는 순간 끝나는 게 아니라, 미국에 머무는 내내 지켜야 하는 조건입니다. 비자 인터뷰를 통과하면 안심하기 쉽지만, 실제로는 비행기에 타기 전 서류를 어떻게 챙기느냐, I-20 프로그램 시작일 기준 30일 내 체크인을 어떻게 마치느냐에서 갈립니다. 이번 편에서는 F-1 신분 유지 요건(Maintaining F-1 Status)부터 공항 입국 심사(POE, Port of Entry), 도착 직후 ISSS(International Student Services) 온라인 체크인, 정부 수수료, 그리고 공항에서 게인즈빌까지 가는 동선을 순서대로 정리합니다.
 
@@ -51,7 +50,6 @@ CBP(U.S. Customs and Border Protection, 미국 세관국경보호청) 심사 단
 
 ![F-1 비자와 미국 입국: 신분 유지 요건부터 공항 도착까지](/images/inline/career-uf-guide-2-f1-visa-entry.jpg)
 
-<p class="inline-image-caption">공항에서 서류 하나를 빠뜨리면 입국 심사와 첫날 일정에 바로 지연이 생길 수 있다.</p>
 
 ## 도착 후 필수 절차: ISSS 온라인 체크인
 

@@ -10,11 +10,11 @@ reviewStatus: "done"
 
 ## 研究の方向性
 
-- 計算とAIで素材候補をより速く絞り込む研究
-- 原子レベルの特性と実際の性能をつなぐ指標の研究
+- 計算とAIで、実験に進める素材候補をより速く選び出す研究
+- 原子レベルの計算値から実際の性能をよりよく予測する指標の研究
 - エネルギー素材の構造・プロセス・性能の関係分析
 - 微細構造と界面がセンサー・電極の性能に与える影響の分析
-- 電池電極のプロセスをデータで分析し、条件を絞り込む研究
+- 電池電極のプロセスデータを分析し、有望な条件をより速く選び出す研究
 
 ## 代表的な研究
 
@@ -22,7 +22,7 @@ reviewStatus: "done"
 
 [![Advanced Functional Materials バックカバー：導電性階層型ヘアリーファイバーセンサー](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
-ファイバー表面に微細な階層構造をつくり、そこに導電性コーティングを加えることで、よく伸びるうえに水にも強いマルチモーダルセンサーをつくりました。さまざまな種類の動きや信号を見分けることができ、大きな変形のもとでも電気信号が安定して保たれました。さらに、微細構造の形状が伸縮性ナノ複合体の電気伝導とセンサー性能をどう変えるかを示しました。この研究は _Advanced Functional Materials_ 2019年第50号のBack Coverに掲載され、Google Scholar基準で140回以上引用されています。
+ファイバー表面に微細な階層構造をつくり、そこに導電性コーティングを加えることで、よく伸びるうえに水分に対して耐久性のあるマルチモーダルセンサーをつくりました。さまざまな種類の動きや信号を見分けることができ、大きな変形のもとでも電気信号が安定して保たれました。さらに、微細構造の形状が伸縮性ナノ複合体の電気伝導とセンサー性能をどう変えるかを示しました。この研究は _Advanced Functional Materials_ 2019年第50号のBack Coverに掲載され、Google Scholar基準で140回以上引用されています。
 
 Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. Seunghoon Choi†, Kukro Yoon†, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. _Advanced Functional Materials_ 29(50), 2019, 1905808. · 共同第一著者 · Back Cover
 

@@ -69,12 +69,14 @@ const quotedCaptions = [];
 const markerLeaks = [];
 const sameFileDuplicates = [];
 const koreanStyleIssues = [];
+const nonColumnCaptions = [];
 let total = 0;
 
 for (const file of files) {
   const text = fs.readFileSync(file, "utf8");
   const rel = path.relative(process.cwd(), file);
   const relPath = rel.replace(/\\/g, "/");
+  const section = relPath.split("/")[2];
   const titleMatch = text.match(/^title:\s*["']?(.+?)["']?\s*$/m);
   const normalizedTitle = titleMatch ? normalize(titleMatch[1]) : "";
   const seenInFile = new Map();
@@ -83,6 +85,10 @@ for (const file of files) {
     total += 1;
     const caption = stripMarkup(match[1]);
     const normalizedCaption = normalize(caption);
+
+    if (section !== "column") {
+      nonColumnCaptions.push({ file: rel, caption });
+    }
 
     if (!normalizedCaption) {
       markerLeaks.push({ file: rel, caption: "(empty caption)" });
@@ -126,5 +132,6 @@ if (quotedCaptions.length) fail("Caption quality check failed: captions include 
 if (markerLeaks.length) fail("Caption quality check failed: captions contain empty text, temp markers, or mojibake.", markerLeaks);
 if (sameFileDuplicates.length) fail("Caption quality check failed: duplicate captions within the same file.", sameFileDuplicates);
 if (koreanStyleIssues.length) fail("Caption quality check failed: Korean captions should use clear subject/object/action instead of non-literal metaphors.", koreanStyleIssues);
+if (nonColumnCaptions.length) fail("Caption quality check failed: inline image captions are only allowed in column pages.", nonColumnCaptions);
 
 console.log(`Caption quality check passed (${total} captions).`);
