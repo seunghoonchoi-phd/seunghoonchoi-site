@@ -56,7 +56,7 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
   github = "https://github.com/seunghoonchoi-phd"
   instagram = "https://www.instagram.com/hoonchoi.mk1/"
   instagramUsername = "hoonchoi.mk1"
-  instagramDM = "/go/instagram-dm/"
+  instagramFollow = "/go/instagram/"
   twitter = "https://x.com/herring2141"
   threads = "https://www.threads.com/@hoonchoi.mk1"
 

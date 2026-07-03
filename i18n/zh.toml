@@ -130,13 +130,13 @@ other = "合作咨询"
 other = "邮箱地址已复制"
 
 [hero_qr_label]
-other = "扫码发送 Instagram 私信"
+other = "扫码关注 Instagram"
 
 [hero_qr_alt]
-other = "Instagram 私信二维码"
+other = "Instagram 主页二维码"
 
 [hero_qr_aria]
-other = "给 Seunghoon Choi 发送 Instagram 私信"
+other = "打开 Seunghoon Choi 的 Instagram 主页"
 
 [faq_title]
 other = "常见问题"
@@ -149,4 +149,4 @@ other = "计算材料研究者，现为佛罗里达大学（UF）博士生。经
 other = "推荐"
 
 [cta_instagram]
-other = "Instagram DM"
+other = "Instagram"

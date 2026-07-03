@@ -130,13 +130,13 @@ other = "お仕事のご相談"
 other = "メールアドレスをコピーしました"
 
 [hero_qr_label]
-other = "Instagram DM QR"
+other = "Instagramフォロー用QR"
 
 [hero_qr_alt]
-other = "Instagram DM用QRコード"
+other = "Instagramプロフィール用QRコード"
 
 [hero_qr_aria]
-other = "Seunghoon ChoiにInstagram DMを送る"
+other = "Seunghoon ChoiのInstagramプロフィールを開く"
 
 [faq_title]
 other = "よくある質問"
@@ -149,4 +149,4 @@ other = "計算材料の研究者で、フロリダ大学（UF）の博士課程
 other = "おすすめ"
 
 [cta_instagram]
-other = "Instagram DM"
+other = "Instagram"

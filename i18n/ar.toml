@@ -130,13 +130,13 @@ other = "استفسار عن تعاون"
 other = "تم نسخ عنوان البريد الإلكتروني"
 
 [hero_qr_label]
-other = "امسح رمز QR لرسالة Instagram"
+other = "امسح الرمز للمتابعة على Instagram"
 
 [hero_qr_alt]
-other = "رمز QR لرسائل Instagram"
+other = "رمز QR لملف Instagram الشخصي"
 
 [hero_qr_aria]
-other = "افتح رسالة Instagram إلى Seunghoon Choi"
+other = "افتح ملف Seunghoon Choi على Instagram"
 
 [faq_title]
 other = "أسئلة شائعة"
@@ -149,4 +149,4 @@ other = "باحث في المواد الحاسوبية وطالب دكتوراه
 other = "موصى به"
 
 [cta_instagram]
-other = "Instagram DM"
+other = "Instagram"

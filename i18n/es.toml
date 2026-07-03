@@ -130,13 +130,13 @@ other = "Consultas de colaboración"
 other = "Correo electrónico copiado"
 
 [hero_qr_label]
-other = "Escanea para enviar DM"
+other = "Escanea para seguir en Instagram"
 
 [hero_qr_alt]
-other = "Código QR para Instagram DM"
+other = "Código QR del perfil de Instagram"
 
 [hero_qr_aria]
-other = "Abrir Instagram DM con Seunghoon Choi"
+other = "Abrir el perfil de Instagram de Seunghoon Choi"
 
 [faq_title]
 other = "Preguntas frecuentes"
@@ -149,4 +149,4 @@ other = "Investigador en materiales computacionales y estudiante de doctorado en
 other = "Recomendado"
 
 [cta_instagram]
-other = "Instagram DM"
+other = "Instagram"

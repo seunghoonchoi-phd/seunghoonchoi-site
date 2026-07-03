@@ -130,13 +130,13 @@ other = "Work with me"
 other = "Email address copied"
 
 [hero_qr_label]
-other = "Scan for Instagram DM"
+other = "Scan to follow on Instagram"
 
 [hero_qr_alt]
-other = "QR code for Instagram DM"
+other = "QR code for Seunghoon Choi's Instagram profile"
 
 [hero_qr_aria]
-other = "Open Instagram DM with Seunghoon Choi"
+other = "Open Seunghoon Choi's Instagram profile"
 
 [faq_title]
 other = "Frequently asked questions"
@@ -149,4 +149,4 @@ other = "Computational materials researcher and PhD student at the University of
 other = "Recommended"
 
 [cta_instagram]
-other = "Instagram DM"
+other = "Instagram"

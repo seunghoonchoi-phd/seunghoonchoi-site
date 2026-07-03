@@ -108,14 +108,14 @@
   }
 
   /* Instagram mobile handoff. Android Chrome only opens intent links reliably
-     from a direct user gesture, so handle the homepage tap before navigating to
-     the browser fallback page. */
+     from a direct user gesture, so turn the homepage tap into a profile link
+     that opens the Instagram app when it is installed. */
   document.querySelectorAll("[data-instagram-app-link]").forEach(function (link) {
     var username = link.getAttribute("data-instagram-username") || "hoonchoi.mk1";
     var profileUrl = "https://www.instagram.com/" + encodeURIComponent(username) + "/";
     var iosAppUrl = "instagram://user?username=" + encodeURIComponent(username);
-    var androidIntentUrl = "intent://user?username=" + encodeURIComponent(username) +
-      "#Intent;scheme=instagram;package=com.instagram.android;S.browser_fallback_url=" +
+    var androidIntentUrl = "intent://www.instagram.com/" + encodeURIComponent(username) +
+      "/#Intent;package=com.instagram.android;scheme=https;S.browser_fallback_url=" +
       encodeURIComponent(profileUrl) + ";end";
     var isAndroid = /Android/i.test(navigator.userAgent);
     var isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
