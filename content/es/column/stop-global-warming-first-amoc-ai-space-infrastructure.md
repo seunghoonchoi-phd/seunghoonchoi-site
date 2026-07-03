@@ -1,22 +1,22 @@
 ---
 title: "Primero hay que frenar el calentamiento global. La primera misión de la IA y la infraestructura espacial"
-description: "Si vamos a acelerar la IA, su primer propósito debería ser asegurar tiempo para reducir el riesgo de que la gran circulación del Atlántico (AMOC) se debilite demasiado. Una persiana espacial es una respuesta temporal que frena el calentamiento mientras aumenta la remoción de CO2."
+description: "Si vamos a acelerar la IA, su primer propósito debería ser asegurar tiempo para reducir el riesgo de que la gran circulación del Atlántico (AMOC) se debilite demasiado. Una sombrilla espacial es una respuesta temporal que frena el calentamiento mientras aumenta la remoción de CO2."
 date: 2026-06-29T01:45:00+09:00
 categories: ["AI"]
 tags: ["inteligencia artificial", "calentamiento global", "AMOC", "crisis climática", "infraestructura espacial", "remoción de CO2"]
-subtitle: "Una persiana espacial puede reducir el riesgo de que se debilite la gran circulación del Atlántico (AMOC) mientras aumenta la remoción de CO2."
+subtitle: "Una sombrilla espacial puede reducir el riesgo de que se debilite la gran circulación del Atlántico (AMOC) mientras aumenta la remoción de CO2."
 seoTitle: "Primero hay que frenar el calentamiento global: la primera misión de la IA y la infraestructura espacial"
 image: /images/col-amoc-global-warming-first.jpg
 reviewStatus: "done"
 ---
 
-![Ilustración del Atlántico Norte con corrientes superficiales cálidas y corrientes profundas frías, y pequeños módulos de persiana espacial hacia el Sol](/images/col-amoc-global-warming-first.jpg)
+![Ilustración del Atlántico Norte con corrientes superficiales cálidas y corrientes profundas frías, y pequeños módulos de sombrilla espacial hacia el Sol](/images/col-amoc-global-warming-first.jpg)
 
 <p class="inline-image-caption">Reducir ligeramente la luz solar puede parecer trivial, pero en realidad afecta a todo el sistema climático del planeta.</p>
 
-Colocar láminas delgadas a unos 1,5 millones de kilómetros entre el Sol y la Tierra. No una sombrilla gigantesca, sino muchas persianas pequeñas. Usarlas para reducir un poco la luz solar de verano que llega al Ártico y a Groenlandia.
+Colocar láminas delgadas a unos 1,5 millones de kilómetros entre el Sol y la Tierra. No una sombrilla gigantesca, sino muchos paneles pequeños de sombra. Usarlos para reducir un poco la luz solar de verano que llega al Ártico y a Groenlandia.
 
-Al escucharlo por primera vez, suena loco. Una persiana espacial para enfriar la Tierra parece una idea que se fue demasiado lejos. Pero lo más loco ya está ocurriendo. Quemamos combustibles fósiles, cambiamos la composición de la atmósfera, calentamos el océano y redujimos el hielo blanco del Ártico.
+Al escucharlo por primera vez, suena loco. Una sombrilla en el espacio para enfriar la Tierra parece una idea que se fue demasiado lejos. Pero lo más loco ya está ocurriendo. Quemamos combustibles fósiles, cambiamos la composición de la atmósfera, calentamos el océano y redujimos el hielo blanco del Ártico.
 
 Lo que más me preocupa no es solo el hielo ártico. Hay un sistema de corrientes más profundo en riesgo. AMOC.
 
@@ -46,7 +46,7 @@ Por eso importa el verano ártico. En invierno casi no hay luz solar que bloquea
 
 El objetivo es simple: retrasar el ritmo al que AMOC se debilita.
 
-## Una persiana espacial es una respuesta climática temporal
+## Una sombrilla espacial es una respuesta climática temporal
 
 Hay varias ideas para reducir la luz solar. Algunas proponen partículas en la estratosfera. Otras proponen hacer que las nubes sean más brillantes. Yo prefiero la ruta espacial por una razón importante: no exige rociar directamente la atmósfera ni el océano, y se puede reducir o girar si hace falta.
 
@@ -54,21 +54,21 @@ Imaginemos pequeños módulos de sombra cerca de L1, entre el Sol y la Tierra. L
 
 La clave no es una sombrilla gigante. Tiene que ser modular. Enviar muchas sombras pequeñas y controlar el ángulo de cada una. Si miran de frente, reducen más luz. Si se inclinan, reducen menos. Si se ponen de canto, casi no bloquean nada.
 
-Inclinar es mejor que doblar y desplegar una y otra vez. Las membranas delgadas en el espacio fallan más si se pliegan continuamente. Es más seguro desplegarlas una vez y cambiar su ángulo. Serían persianas de ventana para la Tierra.
+Inclinar es mejor que doblar y desplegar una y otra vez. Las membranas delgadas en el espacio fallan más si se pliegan continuamente. Es más seguro desplegarlas una vez y cambiar su ángulo. Serían paneles de sombra ajustables para la Tierra.
 
 La idea no es totalmente nueva. En 2006, Roger Angel publicó un [artículo](https://pubmed.ncbi.nlm.nih.gov/17085589/) que proponía una nube de pequeñas naves cerca de L1 para reducir la luz solar alrededor de 1,8%. El telescopio espacial James Webb también se lanzó plegado y luego desplegó espejos y un parasol en el espacio. Un sistema a escala climática sería mucho más grande y difícil que Webb, claro. Pero la idea básica de lanzar estructuras delgadas plegadas y desplegarlas en el espacio ya existe en la ingeniería espacial.
 
 Aun así, no hay que tratar este dispositivo como la solución final al problema climático. Reducir la luz solar no elimina CO2. No resuelve la acidificación del océano. Si seguimos quemando combustibles fósiles, el problema vuelve a crecer.
 
-Una persiana espacial no es la solución final. Reduce temporalmente la radiación solar que entra en la Tierra para asegurar tiempo y reducir el riesgo de colapso de AMOC. La respuesta central es detener las emisiones de CO2 y retirar el CO2 que ya está en el aire.
+Una sombrilla espacial no es la solución final. Reduce temporalmente la radiación solar que entra en la Tierra para asegurar tiempo y reducir el riesgo de colapso de AMOC. La respuesta central es detener las emisiones de CO2 y retirar el CO2 que ya está en el aire.
 
-![Ilustración científica de pequeños módulos de persiana espacial entre el Sol y la Tierra que reducen ligeramente la luz sobre el Ártico y el Atlántico Norte](/images/col-amoc-space-blind-modules.jpg)
+![Ilustración científica de pequeños módulos de sombrilla espacial entre el Sol y la Tierra que reducen ligeramente la luz sobre el Ártico y el Atlántico Norte](/images/col-amoc-space-blind-modules.jpg)
 
-<p class="inline-image-caption">Las persianas espaciales pueden ralentizar el aumento de la temperatura, pero si no se reducen las emisiones de gases de efecto invernadero, el problema del calentamiento global seguirá ahí.</p>
+<p class="inline-image-caption">Las sombrillas espaciales pueden ralentizar el aumento de la temperatura, pero si no se reducen las emisiones de gases de efecto invernadero, el problema del calentamiento global seguirá ahí.</p>
 
 ## Primero frenar la subida de temperatura, después reducir CO2
 
-La función de una persiana espacial no es reducir CO2. Es frenar el calor adicional que entra en el Ártico y el Atlántico Norte mientras AMOC se debilita demasiado rápido.
+La función de una sombrilla espacial no es reducir CO2. Es frenar el calor adicional que entra en el Ártico y el Atlántico Norte mientras AMOC se debilita demasiado rápido.
 
 Por tanto, si AMOC se está debilitando en una dirección peligrosa, hay que hacer dos cosas al mismo tiempo.
 
@@ -76,7 +76,7 @@ Primero, reducir el calor que entra en el Ártico y el Atlántico Norte para ase
 
 Segundo, usar ese tiempo para reducir emisiones de CO2 y retirar CO2 que ya está en el aire.
 
-El orden importa. Si encendemos una persiana espacial pero fracasamos en retirar CO2, el calor adicional vuelve a entrar cuando se reduce la sombra. Entonces una respuesta temporal se convierte en una dependencia que hay que mantener.
+El orden importa. Si encendemos una sombrilla espacial pero fracasamos en retirar CO2, el calor adicional vuelve a entrar cuando se reduce la sombra. Entonces una respuesta temporal se convierte en una dependencia que hay que mantener.
 
 Por eso tiene que haber un plan de salida. Hay que saber cuánto reducir la sombra cuando baje la concentración de CO2, y cómo bajar la sombra del verano ártico cuando las observaciones de AMOC se recuperen. La sombra debe estar ligada a remoción verificada de CO2. Si ambas cosas se mueven por separado, el sistema se vuelve peligroso.
 
@@ -98,7 +98,7 @@ La IA no debe convertirse en un dios que gobierne la Tierra por nosotros. Pero s
 
 Si alguna empresa puede convertir este tipo de trabajo en una industria real, SpaceX es uno de los primeros nombres que aparecen. Lanza cohetes con frecuencia, opera satélites a gran escala y construye infraestructura espacial como una fábrica. El primer uso de esa capacidad debería ser la red de emergencia climática de la Tierra, no una ciudad en Marte.
 
-Necesitamos una red densa de satélites de observación climática. Necesitamos una red oceánica más fuerte para observar AMOC. Necesitamos probar módulos pequeños de persiana espacial, incluida la presión de la luz solar, el control de actitud y la durabilidad de largo plazo. Los modelos de IA deben recibir esos datos de forma continua y calcular sobre ellos.
+Necesitamos una red densa de satélites de observación climática. Necesitamos una red oceánica más fuerte para observar AMOC. Necesitamos probar módulos pequeños de sombrilla espacial, incluida la presión de la luz solar, el control de actitud y la durabilidad de largo plazo. Los modelos de IA deben recibir esos datos de forma continua y calcular sobre ellos.
 
 Marte puede esperar. Si AMOC colapsa, las corrientes, la lluvia, la agricultura y el nivel del mar de la Tierra cambiarán primero. Si los cohetes son de verdad una tecnología para la civilización, su primera carga no deberían ser piezas para una ciudad marciana. Deberían ser equipos para observar y proteger la circulación oceánica de la Tierra.
 
@@ -118,7 +118,7 @@ Todavía hay incertidumbre sobre cuándo y cuánto se debilitará AMOC. Un ensay
 
 Este no es un riesgo que se pueda descartar mirando solo la probabilidad. Si el daño sería enorme, compras seguro aunque la probabilidad parezca pequeña. AMOC es ese tipo de problema. Si se detiene, es difícil volver a encenderla, y sus efectos no se quedan dentro de una región.
 
-Así que el primer objetivo climático de la era de la IA no es hacer que el número de temperatura media global se vea más bonito. Es asegurar tiempo para reducir el riesgo de que AMOC se detenga. Observar con precisión el Ártico, Groenlandia y el Atlántico Norte. Escalar rápido la remoción de CO2. Preparar respuestas temporales como una persiana espacial si llegan a ser necesarias.
+Así que el primer objetivo climático de la era de la IA no es hacer que el número de temperatura media global se vea más bonito. Es asegurar tiempo para reducir el riesgo de que AMOC se detenga. Observar con precisión el Ártico, Groenlandia y el Atlántico Norte. Escalar rápido la remoción de CO2. Preparar respuestas temporales como una sombrilla espacial si llegan a ser necesarias.
 
 El centro no es la fantasía de tapar el Sol. El centro es evitar que se detenga la circulación de corrientes del Atlántico.
 
