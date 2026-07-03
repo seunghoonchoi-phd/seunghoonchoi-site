@@ -31,11 +31,11 @@ Responder al calentamiento global, cambiar el sistema energético o construir in
 
 ## ¿Qué es lo que se volvió tan rápido?
 
-La IA se siente rápida porque el resultado frente a la pantalla se volvió rápido. Borradores que antes tardaban días aparecen en minutos. Buscar, ordenar, programar, diseñar y traducir empiezan antes.
+La IA se siente rápida porque los resultados visibles se volvieron rápidos. Borradores que antes tardaban días aparecen en minutos. Buscar, ordenar, programar, diseñar y traducir empiezan antes.
 
-Pero los problemas grandes no son documentos. Bajar el calentamiento global exige mover a la vez centrales eléctricas, redes, baterías, fábricas, minas, barcos, aviones, ciudades, agricultura, finanzas y política. La caída del cabello, el envejecimiento, el cáncer, la demencia y una base lunar también están fuera del monitor.
+Pero los problemas grandes no son documentos. Bajar el calentamiento global exige mover a la vez centrales eléctricas, redes, baterías, fábricas, minas, barcos, aviones, ciudades, agricultura, finanzas y política. La caída del cabello, el envejecimiento, el cáncer, la demencia y una base lunar también dependen de biología, hardware, instituciones, dinero, seguridad y tiempo.
 
-Con ese criterio, la IA todavía es lenta. La velocidad que sentimos es la velocidad dentro del monitor. El cambio real ocurre fuera del monitor, en centrales eléctricas, fábricas, hospitales, laboratorios e instituciones públicas.
+Con ese criterio, la IA todavía es lenta. La velocidad que sentimos es la velocidad de trabajos que terminan frente a la computadora, como documentos, código y borradores de diseño. El cambio real ocurre en centrales eléctricas, fábricas, hospitales, laboratorios e instituciones públicas.
 
 ## Todavía hemos resuelto muy pocos problemas grandes
 

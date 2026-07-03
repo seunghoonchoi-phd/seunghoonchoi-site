@@ -17,7 +17,7 @@ reviewStatus: "done"
 
 Ask AI to turn a set of notes into a table, and a table appears in seconds. Ask it to explain something at a high-school level, and it lowers the difficulty. Ask it to turn an idea into a presentation, and it gives you an outline and slide draft.
 
-Research, summarizing, writing, coding, table cleanup, and slide preparation are already tasks AI can handle quickly. Human direction and review still matter, but many assignments students used to do alone in front of a screen will increasingly be handled by AI.
+Research, summarizing, writing, coding, table cleanup, and slide preparation are already tasks AI can handle quickly. Human direction and review still matter, but many assignments where students searched, wrote, made tables, and prepared slides alone will increasingly be handled by AI.
 
 That makes it hard for schools to keep spending most of their time explaining knowledge, making students memorize it, and asking them to reproduce answers on exams.
 
@@ -33,7 +33,7 @@ Of course AI can be wrong. That is exactly why students need to learn how to que
 
 Yet many schools still teach in the old way. The teacher explains, students take notes, and students memorize the material before the exam. Assignments often look similar. Students search for materials, summarize them, write reports, and make slides.
 
-The problem is that most of these assignments end in front of a screen. Screen-only assignments are the easiest ones for AI to replace.
+The problem is that most of these assignments stop at searching for materials, writing, and making tables or slides. Assignments that can be finished alone on a computer are the easiest ones for AI to replace.
 
 ## High School Needs The Biggest Change
 
@@ -59,17 +59,17 @@ Now AI handles easy work quickly. AI researches materials, summarizes content, d
 
 That changes the standard for juniors. Companies feel that “I do not know yet, but I will work hard to learn” is no longer enough. Companies expect even juniors to have a minimum level of practical judgment. A junior needs to know how to divide work, what to ask AI to do, where to doubt AI's output, and what to check in the real situation.
 
-This is where schools become more responsible. If companies can no longer spend as much time training juniors through easy work, schools need to provide some of the training before students enter companies. Before graduation, students need to apply a practical concept from beginning to end at least once. They need to research with AI, draft with AI, check the result outside the classroom, and revise what is wrong.
+This is where schools become more responsible. If companies can no longer spend as much time training juniors through easy work, schools need to provide some of the training before students enter companies. Before graduation, students need to apply a practical concept from beginning to end at least once. They need to research with AI, draft with AI, show the draft to the people who would use it, and revise what does not fit.
 
 ![AI-Era Schools Should Teach Practical Judgment, Not Just Knowledge](/images/inline/column-ai-school-practical-sense.jpg)
 
-<p class="inline-image-caption">When students directly check the AI's errors outside of the classroom, they remember the judgment criteria longer than when they only read the correct answers.</p>
+<p class="inline-image-caption">When students find the conditions AI missed outside the classroom, they remember what to question the next time they read an answer.</p>
 
-## Students Need To Check Outside The Screen
+## Students Need To Check Whether AI Fits Real Situations
 
 Future juniors need to know how to give AI structured work. If a junior only says “do this” and hands the whole task to AI, companies will not value that person highly. Juniors need to break the task into what to research, what to compare, what the draft is for, what conditions matter for calculation, and what criteria should be used for review. Then they need to check whether AI's output fits the real situation.
 
-Work happens outside the screen. Products arrive late, customers change their words, and equipment does not work exactly as planned. People object for reasons that are not written in documents. AI's answer may look clean, but the real situation may have missing conditions or wrong costs.
+Real work includes conditions that are not written on the screen or in the documents. Products arrive late, customers change their words, and equipment does not work exactly as planned. People object for reasons that are not written in documents. AI's answer may look clean, but the real situation may have missing conditions or wrong costs.
 
 So students need to meet people. Students need to look at objects directly. Students need to handle equipment. Students need to ask users what actually bothers them. Students need to apply AI's plan to a real situation and revise the parts that do not fit.
 
@@ -79,7 +79,7 @@ Practical judgment does not come from lectures alone. It does not come from solv
 
 Changing school does not require a grand slogan. It means classes should make students apply practical concepts to real problems.
 
-Students should define a problem themselves. Students should use AI to make a first draft. Students should go outside and check it. Students should decide who will use the result and ask whether that person really has the problem. Students should check whether the result is useful, and if it is not useful, they should find out why.
+Students should define a problem themselves. Students should use AI to make a first draft. Students should show that draft to the person who would use it and ask what is missing. They should ask whether that person really has the problem. Students should check whether the result is useful, and if it is not useful, they should find out why.
 
 High school students can do this. They can make a tool that reduces waste inside the school. They can investigate an inconvenient workflow at a local store. They can make a small app or document that their friends actually use. The scale does not matter. What matters is whether there is a real user, a real response, and something that must be revised.
 
@@ -93,7 +93,7 @@ The standard for a good school will change. A school that only explains a lot of
 
 A good school is one that makes students use AI while applying practical concepts to real problems. A good school makes students check why what they learned in class does not fit a real situation. A good school does not end failure with a grade; it makes students revise the failed output.
 
-Juniors will still be needed in the AI era. But juniors who can only work in front of a screen will be valued less. Companies will look for people who can use AI deeply and apply practical concepts to real situations.
+Juniors will still be needed in the AI era. But juniors who can only handle AI answers and documents will be valued less. Companies will look for people who can use AI deeply and apply practical concepts to real situations.
 
 High schools and universities should both face the same question. When students graduate, do they leave with only test scores? Or do they leave with at least one result they showed to a real person, had rejected, and revised?
 

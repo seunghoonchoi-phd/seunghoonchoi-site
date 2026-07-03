@@ -31,11 +31,11 @@ Problems like responding to global warming, transforming energy systems, and bui
 
 ## What is so fast?
 
-AI feels fast because the output on the screen has become fast. Drafts that used to take days appear in minutes. Searching, sorting, coding, design, and translation all start faster than before.
+AI feels fast because visible outputs have become faster. Drafts that used to take days appear in minutes. Searching, sorting, coding, design, and translation all start faster than before.
 
-But big problems are not documents. Climate work needs power plants, grids, batteries, factories, mines, ships, aircraft, cities, agriculture, finance, and politics to move together. Hair loss, aging, cancer, dementia, and a lunar base all sit outside the monitor too.
+But big problems are not documents. Climate work needs power plants, grids, batteries, factories, mines, ships, aircraft, cities, agriculture, finance, and politics to move together. Hair loss, aging, cancer, dementia, and a lunar base also depend on biology, hardware, institutions, money, safety, and time.
 
-By that standard, AI is still slow. The speed we feel is the speed inside the monitor. Real change happens outside the monitor, in power plants, factories, hospitals, labs, and public institutions.
+By that standard, AI is still slow. The speed we feel is the speed of work that ends at the computer, such as documents, code, and design drafts. Real change happens in power plants, factories, hospitals, labs, and public institutions.
 
 ## We have solved very few big problems yet
 

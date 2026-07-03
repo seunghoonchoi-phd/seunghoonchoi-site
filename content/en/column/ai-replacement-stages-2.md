@@ -18,7 +18,7 @@ reviewStatus: "done"
 
 If AI takes work with right answers first, the next question is natural. Is work done with the body safe?
 
-Translation, coding, summarization, and analysis end inside a screen. If they are wrong, you can run them again. Physical work is different. A robot has to move, objects collide, materials are ruined, and people can get hurt.
+Translation, coding, summarization, and analysis end inside software. If they are wrong, you can run them again. Physical work is different. A robot has to move, objects collide, materials are ruined, and people can get hurt.
 
 So physical labor is replaced later than mental work. But later does not mean safe. It takes longer because trial and error in the physical world is costly. When the cost of robots seeing, picking up, moving, and learning from failure falls, body work also shakes in order.
 
@@ -74,7 +74,7 @@ Stages 6 through 8 can be tied into one sentence: body work also shakes first wh
 
 Hand skill and field trial and error are slower, but results appear. You can check whether the weld was good, the repair succeeded, and the experiment produced results. Part of a veteran's sense is graded over time. Did the failure happen? Was the disease right? Did the customer leave? Did the defect occur? If it can be checked, it becomes data. If data accumulates, AI learns.
 
-So physical labor and sense shake later than mental work, but the principle is the same. What converges toward an answer is followed by AI. The real world is slower than the screen. Failure costs more, robots have to move, safety issues exist, and legal responsibility attaches. So physical work lasts longer. But lasting longer and being safe are different.
+So physical labor and sense shake later than mental work, but the principle is the same. What converges toward an answer is followed by AI. Work that moves real equipment and people is slower than software. Failure costs more, robots have to move, safety issues exist, and legal responsibility attaches. So physical work lasts longer. But lasting longer and being safe are different.
 
 ## What remains now is not ability, but authority
 

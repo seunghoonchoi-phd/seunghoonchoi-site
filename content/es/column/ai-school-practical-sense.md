@@ -17,7 +17,7 @@ reviewStatus: "done"
 
 Un estudiante le dice a la IA: “ordena este material en una tabla”. En segundos aparece una tabla. Le dice: “explícalo para que lo entienda un estudiante de secundaria”, y la IA baja el nivel de explicación. Le dice: “conviértelo en una presentación”, y la IA prepara un índice y un primer borrador de las diapositivas.
 
-Investigar, resumir, escribir, programar, ordenar tablas y preparar presentaciones ya son tareas que la IA procesa con rapidez. Todavía hacen falta dirección y revisión humana, pero muchas tareas que los estudiantes hacían solos frente al monitor serán cada vez más trabajo de la IA.
+Investigar, resumir, escribir, programar, ordenar tablas y preparar presentaciones ya son tareas que la IA procesa con rapidez. Todavía hacen falta dirección y revisión humana, pero muchas tareas en las que el estudiante buscaba material, escribía, ordenaba tablas y preparaba diapositivas solo serán cada vez más trabajo de la IA.
 
 Entonces se vuelve difícil que la escuela siga usando la mayor parte del tiempo para explicar conocimiento, hacer que los estudiantes lo memoricen y pedirles que escriban respuestas en un examen.
 
@@ -33,7 +33,7 @@ Por supuesto, la IA también se equivoca. Por eso el estudiante debe aprender a 
 
 Sin embargo, muchas escuelas todavía enseñan con el método antiguo. El profesor explica, los estudiantes copian, y antes del examen memorizan para escribir la respuesta. Las tareas se parecen mucho. El estudiante busca material, lo resume, escribe un informe y prepara diapositivas.
 
-El problema es que la mayoría de esas tareas termina frente a una pantalla. Y las tareas que terminan frente a una pantalla son las que la IA reemplaza más rápido.
+El problema es que la mayoría de esas tareas se queda en buscar material, escribir y preparar tablas o diapositivas. Las tareas que se pueden terminar solo en la computadora son las que la IA reemplaza más rápido.
 
 ## La secundaria es la que más debe cambiar
 
@@ -59,17 +59,17 @@ Ahora la IA procesa esas tareas simples con rapidez. Investiga materiales, resum
 
 Por eso cambia el estándar para los recién llegados. La empresa siente que “todavía no sé, pero aprenderé con esfuerzo” ya no alcanza. La empresa espera incluso de un recién llegado un mínimo de criterio práctico. Debe saber cómo dividir el trabajo, qué pedirle a la IA, dónde dudar del resultado de la IA y qué comprobar en la situación real.
 
-Aquí crece la responsabilidad de la escuela. Si la empresa ya no puede formar durante tanto tiempo a los nuevos mediante tareas simples, la escuela debe asumir parte de esa formación antes de la entrada laboral. Antes de graduarse, el estudiante debe aplicar al menos una vez un concepto práctico de principio a fin. Debe investigar con IA, preparar un borrador, salir a verificarlo y corregir lo que esté mal.
+Aquí crece la responsabilidad de la escuela. Si la empresa ya no puede formar durante tanto tiempo a los nuevos mediante tareas simples, la escuela debe asumir parte de esa formación antes de la entrada laboral. Antes de graduarse, el estudiante debe aplicar al menos una vez un concepto práctico de principio a fin. Debe investigar con IA, preparar un borrador, mostrárselo a la persona que lo usaría y corregir lo que no encaje.
 
 ![Escuela en la era de la IA: hay que enseñar criterio práctico, no solo conocimiento](/images/inline/column-ai-school-practical-sense.jpg)
 
-<p class="inline-image-caption">Cuando los estudiantes verifican directamente los errores de la IA fuera del aula, recuerdan los criterios de juicio por más tiempo que cuando solo leen las respuestas correctas.</p>
+<p class="inline-image-caption">Cuando los estudiantes encuentran fuera del aula las condiciones que la IA pasó por alto, recuerdan mejor qué deben cuestionar la próxima vez que lean una respuesta.</p>
 
-## El estudiante debe comprobar fuera de la pantalla
+## El estudiante debe comprobar si la respuesta de la IA encaja con la situación real
 
 El recién llegado del futuro debe saber encargar trabajo a la IA de forma estructurada. Si solo dice “haz esto” y entrega toda la tarea de golpe, la empresa difícilmente valorará mucho a esa persona. Debe dividir la tarea: qué investigar, con qué criterios comparar, para qué sirve el borrador, qué condiciones importan para calcular y con qué criterios revisar. Luego debe comprobar si el resultado de la IA encaja con la situación real.
 
-El trabajo de una empresa sucede fuera de la pantalla. Los productos llegan tarde, los clientes cambian de opinión y los equipos no funcionan exactamente como estaba previsto. Las personas se oponen por motivos que no aparecen en los documentos. La respuesta de la IA puede verse limpia, pero en la situación real pueden faltar condiciones o los costos pueden no cuadrar.
+En el trabajo real hay condiciones que no aparecen en la pantalla ni en los documentos. Los productos llegan tarde, los clientes cambian de opinión y los equipos no funcionan exactamente como estaba previsto. Las personas se oponen por motivos que no aparecen en los documentos. La respuesta de la IA puede verse limpia, pero en la situación real pueden faltar condiciones o los costos pueden no cuadrar.
 
 Por eso el estudiante debe conocer personas. Debe mirar objetos directamente. Debe manejar equipos. Debe preguntar al usuario qué le incomoda de verdad. Debe aplicar el plan de la IA a una situación real y corregir las partes que no encajan.
 
@@ -79,7 +79,7 @@ El criterio práctico no nace solo de escuchar clases. Tampoco nace de resolver 
 
 Cambiar la escuela no significa lanzar un gran lema. Significa que las clases deben hacer que el estudiante aplique conceptos prácticos a problemas reales.
 
-El estudiante debe definir el problema. Debe usar IA para hacer un primer borrador. Debe salir a comprobarlo. Debe decidir quién usará el resultado y preguntarle si de verdad tiene ese problema. Debe comprobar si el resultado ayuda, y si no ayuda, debe volver a preguntar por qué.
+El estudiante debe definir el problema. Debe usar IA para hacer un primer borrador. Debe llevar ese borrador a la persona que lo usaría y preguntarle qué falta. También debe preguntarle si de verdad tiene ese problema. Debe comprobar si el resultado ayuda, y si no ayuda, debe volver a preguntar por qué.
 
 Un estudiante de secundaria puede hacerlo. Puede crear una herramienta para reducir desperdicio dentro de la escuela. Puede investigar un trabajo incómodo en una tienda del barrio. Puede crear una pequeña app o documento que sus amigos usen de verdad. El tamaño no importa. Importa si hay un usuario real, una reacción real y algo que debe corregirse.
 
@@ -93,7 +93,7 @@ El estándar de una buena escuela va a cambiar. Una escuela que solo explica muc
 
 Una buena escuela hace que los estudiantes usen IA mientras aplican conceptos prácticos a problemas reales. Una buena escuela hace que los estudiantes comprueben por qué lo aprendido en clase no encaja en una situación real. Una buena escuela no termina el fracaso con una nota; hace que el estudiante corrija el resultado fallido.
 
-En la era de la IA, los recién llegados seguirán siendo necesarios. Pero un recién llegado que solo sabe trabajar frente a una pantalla será menos valorado. Las empresas buscarán personas que usen la IA a fondo y apliquen conceptos prácticos a situaciones reales.
+En la era de la IA, los recién llegados seguirán siendo necesarios. Pero un recién llegado que solo sabe manejar respuestas de IA y documentos será menos valorado. Las empresas buscarán personas que usen la IA a fondo y apliquen conceptos prácticos a situaciones reales.
 
 La secundaria y la universidad deben enfrentar la misma pregunta. Cuando el estudiante se gradúa, ¿solo le quedan notas de examen? ¿O le queda al menos un resultado que mostró a una persona real, que fue rechazado y que corrigió?
 

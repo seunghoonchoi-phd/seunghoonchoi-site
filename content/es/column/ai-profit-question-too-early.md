@@ -1,10 +1,10 @@
 ---
 title: "¿Ninguna empresa ha ganado dinero con IA? La pregunta llega demasiado pronto"
-description: "El impacto económico real de la IA no se queda en producir más rápido cosas dentro de una pantalla. La diferencia empieza cuando una persona puede llevar IA en el campo y transmitirle lo que percibe allí."
+description: "El impacto económico real de la IA no se queda en producir más rápido documentos, código e imágenes. La diferencia empieza cuando una persona puede llevar IA en el campo y transmitirle lo que percibe allí."
 date: 2026-06-27T20:10:00+09:00
 categories: ["IA"]
 tags: ["ia", "IA ponible", "IA multimodal", "agentes", "diseño organizacional"]
-subtitle: "La IA todavía no ha salido de la pantalla."
+subtitle: "La IA todavía no ha entrado a fondo en el trabajo de campo."
 seoTitle: "¿Ninguna empresa ha ganado dinero con IA? La pregunta llega demasiado pronto"
 image: /images/col-ai-profit-question-too-early.jpg
 ogimage: /images/col-ai-profit-question-too-early.jpg
@@ -67,13 +67,13 @@ La diferencia más grande aparece aquí.
 
 La diferencia es grande.
 
-En una fábrica, una persona necesita llamar a la IA mientras mira la máquina. En un laboratorio, necesita comparar una muestra con condiciones anteriores mientras la tiene delante. Lo mismo pasa en hospitales, almacenes, tiendas y reuniones de ventas. El lugar donde ocurre el trabajo muchas veces no está dentro de una pantalla. Está delante de una persona.
+En una fábrica, una persona necesita llamar a la IA mientras mira la máquina. En un laboratorio, necesita comparar una muestra con condiciones anteriores mientras la tiene delante. Lo mismo pasa en hospitales, almacenes, tiendas y reuniones de ventas. La información clave del trabajo no está solo en documentos o código. También está en la máquina, la muestra y la reacción del cliente que la persona tiene delante.
 
 El patrón actual de "vuelvo al escritorio y le pregunto a la IA" tiene un techo. El juicio de campo ocurre en el momento. Ves, oyes, tocas, hablas y decides allí mismo.
 
 Una cámara no basta. En el campo hay información que los ojos no capturan por sí solos. Una máquina suena distinto de lo normal. Una superficie ofrece otra resistencia a la mano. El aire huele o se siente diferente. El tono y la expresión de una persona no encajan. Quien está allí suele sentirlo primero.
 
-Para que la IA procese trabajo real, tiene que recibir información del momento en que el trabajo ocurre. Y el ser humano tiene que poder transmitir a la IA lo que percibe con el cuerpo tanto como sea posible. Solo así la IA juzga la situación que tiene delante, no solo documentos en una pantalla.
+Para que la IA procese trabajo real, tiene que recibir información del momento en que el trabajo ocurre. Y el ser humano tiene que poder transmitir a la IA lo que percibe con el cuerpo tanto como sea posible. Solo así la IA juzga lo que ocurre en ese momento, no solo documentos y tablas.
 
 ![¿Ninguna empresa ha ganado dinero con IA? La pregunta llega demasiado pronto](/images/inline/column-ai-profit-question-too-early.jpg)
 
@@ -93,19 +93,19 @@ Después la persona se mueve. Opera equipos, se reúne con clientes, revisa mues
 
 No es la misma historia que la de robots reemplazando humanos. Es la historia del cuerpo humano convirtiéndose en la interfaz de la IA.
 
-## La IA todavía no ha salido de la pantalla
+## La IA todavía no ha entrado a fondo en el trabajo de campo
 
 Por eso la pregunta "qué empresa ha ganado dinero con IA" solo acierta a medias.
 
-Es cierto que muchas empresas todavía no muestran grandes mejoras de beneficio. Pero es demasiado pronto para decir que la IA ya mostró su límite. En muchos lugares, la IA se usa primero en el trabajo de pantalla: documentos, código, tablas, imágenes, búsqueda.
+Es cierto que muchas empresas todavía no muestran grandes mejoras de beneficio. Pero es demasiado pronto para decir que la IA ya mostró su límite. En muchos lugares, la IA todavía se usa primero en trabajos frente a la computadora: documentos, código, tablas, imágenes, búsqueda.
 
 El cambio real empieza cuando la IA entra en el campo. ¿Una persona solo puede usar IA sentada ante una computadora? ¿O puede llamarla mientras la lleva puesta en el lugar de trabajo? Más aún, ¿qué tan bien puede transmitirle a la IA lo que percibe en ese momento?
 
 Esa diferencia marcará la próxima brecha de productividad.
 
-Mientras la IA se quede dentro del monitor, la competencia se parece bastante. Todos escriben en la misma ventana y reciben respuestas parecidas.
+Mientras la IA siga siendo una herramienta usada frente a la computadora, la competencia se parece bastante. Todos escriben en la misma ventana y reciben respuestas parecidas.
 
-La brecha se abre cuando la IA sale de la pantalla. Cuando las personas llevan IA puesta y empiezan a ver, juzgar y moverse mejor en el mundo real, también cambia el significado de "ganar dinero con IA".
+La brecha se abre cuando la IA se vuelve una herramienta que se puede usar directamente en el terreno. Cuando las personas llevan IA puesta y empiezan a ver, juzgar y moverse mejor en el mundo real, también cambia el significado de "ganar dinero con IA".
 
 ## Fuentes
 

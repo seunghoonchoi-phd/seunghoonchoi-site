@@ -18,7 +18,7 @@ reviewStatus: "done"
 
 Si la IA toma primero los trabajos con respuesta, la siguiente pregunta es natural. ¿El trabajo físico está a salvo?
 
-Traducción, código, resumen y análisis terminan dentro de una pantalla. Si salen mal, se vuelven a ejecutar. El trabajo físico es distinto. Un robot debe moverse, los objetos chocan, los materiales se dañan y una persona puede lastimarse.
+Traducción, código, resumen y análisis terminan dentro del software. Si salen mal, se vuelven a ejecutar. El trabajo físico es distinto. Un robot debe moverse, los objetos chocan, los materiales se dañan y una persona puede lastimarse.
 
 Por eso el trabajo físico se reemplaza más tarde que el mental. Pero más tarde no significa seguro. Solo tarda más porque el costo de prueba y error en el mundo físico es alto. Cuando baja el costo de que un robot vea, agarre, se mueva y aprenda de fallos, al trabajo corporal también le llega el turno por orden.
 
@@ -74,7 +74,7 @@ Si unimos las etapas 6 a 8, queda así: incluso el trabajo físico se reemplaza 
 
 La destreza manual y el prueba y error en terreno tardan, pero producen resultados. Se comprueba si la soldadura quedó bien, si la reparación funcionó, si el experimento dio resultado. Incluso parte de la intuición veterana se evalúa con el tiempo: si la falla ocurrió, si la enfermedad era esa, si el cliente abandonó, si apareció el defecto. Si se puede comprobar, se vuelve dato. Si se acumulan datos, la IA aprende.
 
-Por eso el trabajo físico y el tacto solo se reemplazan más tarde que el trabajo mental. El principio es el mismo. Lo que converge hacia una respuesta, la IA lo persigue. El mundo real es más lento que la pantalla. Fallar cuesta más, el robot debe moverse, hay seguridad y responsabilidad legal. Por eso el trabajo corporal aguanta más. Pero aguantar más no significa estar a salvo.
+Por eso el trabajo físico y el tacto solo se reemplazan más tarde que el trabajo mental. El principio es el mismo. Lo que converge hacia una respuesta, la IA lo persigue. El trabajo que mueve equipos reales y personas avanza más lento que el software. Fallar cuesta más, el robot debe moverse, hay seguridad y responsabilidad legal. Por eso el trabajo corporal aguanta más. Pero aguantar más no significa estar a salvo.
 
 ## Ahora lo que queda no es capacidad, sino autoridad
 
