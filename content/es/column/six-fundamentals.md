@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Una escaladora frente a una pared rocosa difícil, cubriéndose las manos de magnesio mientras se prepara](/images/col-six-fundamentals.jpg)
 
-<p class="inline-image-caption">A medida que la IA se vuelve más rápida, las habilidades básicas se vuelven necesarias como estándar para juzgar los resultados de la IA, en lugar de un estudio lento.</p>
+<p class="inline-image-caption">Cuanto más rápida se vuelve la IA, más importan los fundamentos. Aún hay que revisar si la respuesta de la IA es correcta, qué falta y si se puede usar tal cual.</p>
 
 Vivimos una época en la que la IA resume, traduce, redacta informes y hasta escribe código. Entonces, ¿importa menos el talento para estudiar? Yo creo que ocurre lo contrario.
 

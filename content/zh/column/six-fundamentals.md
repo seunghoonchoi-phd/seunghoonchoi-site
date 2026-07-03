@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![攀岩者在困难岩壁前往手上抹镁粉](/images/col-six-fundamentals.jpg)
 
-<p class="inline-image-caption">随着AI变得越来越快，需要基本技能作为判断AI结果的标准，而不是缓慢学习。</p>
+<p class="inline-image-caption">AI 越快，基本功越重要。人还是要检查 AI 的答案对不对、漏了什么、能不能直接用。</p>
 
 AI 已经能摘要、翻译、写报告初稿，甚至写代码。那么学习脑会不那么重要吗？恰恰相反。
 

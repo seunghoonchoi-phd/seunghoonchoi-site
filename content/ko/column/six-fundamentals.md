@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![어려운 암벽 앞에서 손에 초크를 묻히며 준비하는 클라이머](/images/col-six-fundamentals.jpg)
 
-<p class="inline-image-caption">AI가 빨라질수록 기본기는 느린 공부가 아니라, AI 결과를 판단하는 기준으로 필요해진다.</p>
+<p class="inline-image-caption">AI가 빨라질수록 기본기는 더 중요해진다. AI 답이 맞는지, 빠진 것은 없는지, 그대로 써도 되는지는 사람이 확인해야 하기 때문이다.</p>
 
 AI가 요약하고, 번역하고, 보고서 초안을 쓰고, 코드까지 짜 주는 시대가 됐다. 그러면 공부머리는 덜 중요해질까. 오히려 반대다.
 

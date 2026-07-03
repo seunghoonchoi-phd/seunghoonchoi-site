@@ -1214,6 +1214,21 @@ html[dir="rtl"] .post__toc #TableOfContents ul ul{margin:.25rem 2.1rem 0 0}
 html[dir="rtl"] .post__toc #TableOfContents li{flex-direction:row-reverse}
 html[dir="rtl"] .post__toc #TableOfContents li::before{text-align:left}
 html[dir="rtl"] .post__toc #TableOfContents a{text-align:right}
+@media(max-width:560px){
+  .post{width:100%;max-width:100%;padding-inline:clamp(18px,5vw,24px)}
+  .post__head,.post__body,.post__toc{min-width:0;max-width:100%}
+  .post__toc{padding-inline:16px;overflow:hidden}
+  .post__toc #TableOfContents li{min-width:0}
+  body.lang-ko .post__title,body.lang-ko .post__subtitle,
+  body.lang-ja .post__title,body.lang-ja .post__subtitle,
+  body.lang-zh .post__title,body.lang-zh .post__subtitle,
+  body.lang-ko .post__toc #TableOfContents a,
+  body.lang-ja .post__toc #TableOfContents a,
+  body.lang-zh .post__toc #TableOfContents a,
+  body.lang-ko .post__body .inline-image-caption,
+  body.lang-ja .post__body .inline-image-caption,
+  body.lang-zh .post__body .inline-image-caption{word-break:normal;overflow-wrap:anywhere}
+}
 .post__more{margin-top:52px;padding-top:26px;border-top:1px solid var(--hair)}
 .post__more-h{font-family:var(--sans);font-weight:700;font-size:1.05rem;color:var(--navy);margin:0 0 14px}
 .post__more ul{list-style:none;padding:0;margin:0;display:grid;gap:10px}
