@@ -15,19 +15,19 @@
     {{ with .Site.Params.instagram }}<a href="{{ $instagramFollow }}" target="_blank" rel="noopener" data-instagram-app-link data-instagram-username="{{ $instagramUsername }}" data-instagram-copied="{{ i18n "copied_instagram" }}">{{ i18n "cta_instagram" }}</a>{{ end }}
   </p>
   <p class="home-hero__copied" data-copy-toast role="status" aria-live="polite"></p>
-</section>
-
-<section class="home-search reveal" aria-label="{{ i18n "search_label" }}">
-  {{ partial "search-module.html" (dict "scope" "home") }}
   {{ with .Site.Params.instagram }}
-    <a class="home-search__qr" href="{{ $instagramFollow }}" target="_blank" rel="noopener" aria-label="{{ i18n "hero_qr_aria" }}">
-      <img class="home-search__qr-img" src="/images/qr-instagram.svg" width="72" height="72" alt="{{ i18n "hero_qr_alt" }}">
-      <span class="home-search__qr-copy">
+    <a class="home-hero__qr" href="{{ $instagramFollow }}" target="_blank" rel="noopener" aria-label="{{ i18n "hero_qr_aria" }}">
+      <img class="home-hero__qr-img" src="/images/qr-instagram.svg" width="88" height="88" alt="{{ i18n "hero_qr_alt" }}">
+      <span class="home-hero__qr-copy">
         <span>{{ i18n "hero_qr_label" }}</span>
         <strong>@hoonchoi.mk1</strong>
       </span>
     </a>
   {{ end }}
+</section>
+
+<section class="home-search reveal" aria-label="{{ i18n "search_label" }}">
+  {{ partial "search-module.html" (dict "scope" "home") }}
 </section>
 
 {{/* ===== full content — clean paper, sections reveal on scroll ===== */}}
