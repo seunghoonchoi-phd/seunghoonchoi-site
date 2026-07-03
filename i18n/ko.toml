@@ -129,6 +129,9 @@ other = "협업 문의"
 [copied_email]
 other = "이메일 주소가 복사되었습니다"
 
+[copied_instagram]
+other = "Instagram 계정명이 복사되었습니다"
+
 [hero_qr_label]
 other = "Instagram 팔로우 QR"
 

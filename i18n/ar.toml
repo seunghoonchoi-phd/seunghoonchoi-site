@@ -129,6 +129,9 @@ other = "استفسار عن تعاون"
 [copied_email]
 other = "تم نسخ عنوان البريد الإلكتروني"
 
+[copied_instagram]
+other = "تم نسخ اسم مستخدم Instagram"
+
 [hero_qr_label]
 other = "امسح الرمز للمتابعة على Instagram"
 

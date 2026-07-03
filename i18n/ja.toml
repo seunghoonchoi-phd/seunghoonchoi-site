@@ -129,6 +129,9 @@ other = "お仕事のご相談"
 [copied_email]
 other = "メールアドレスをコピーしました"
 
+[copied_instagram]
+other = "Instagramユーザー名をコピーしました"
+
 [hero_qr_label]
 other = "Instagramフォロー用QR"
 

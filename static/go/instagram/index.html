@@ -13,20 +13,61 @@
     main{width:min(420px,100%);padding:28px;border:1px solid var(--line);border-radius:12px;background:var(--card);box-shadow:0 18px 42px rgba(13,27,76,.12)}
     h1{margin:0 0 8px;font-size:24px;line-height:1.2}
     p{margin:0 0 18px;color:var(--muted);line-height:1.55}
-    a{display:flex;align-items:center;justify-content:center;min-height:46px;border-radius:8px;text-decoration:none;font-weight:700}
+    a{display:flex;align-items:center;justify-content:center;min-height:46px;padding:0 18px;border-radius:8px;text-align:center;text-decoration:none;font-weight:700}
     .primary{background:var(--brand);color:#fff}
     .secondary{margin-top:10px;color:var(--brand);border:1px solid var(--line)}
+    .status{min-height:20px;margin-top:14px;font-size:14px;color:var(--muted);text-align:center}
   </style>
   <script>
+    const username = "hoonchoi.mk1";
     const profileUrl = "https://www.instagram.com/hoonchoi.mk1/";
     const iosAppUrl = "instagram://user?username=hoonchoi.mk1";
     const androidIntentUrl = "intent://instagram.com/_u/hoonchoi.mk1/#Intent;scheme=http;package=com.instagram.android;S.browser_fallback_url=" + encodeURIComponent(profileUrl) + ";end";
     const isAndroid = /Android/i.test(navigator.userAgent);
     const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+    const appUrl = isAndroid ? androidIntentUrl : (isIOS ? iosAppUrl : profileUrl);
+
+    function copyUsername() {
+      let ta;
+      try {
+        ta = document.createElement("textarea");
+        ta.value = username;
+        ta.setAttribute("readonly", "");
+        ta.style.position = "fixed";
+        ta.style.top = "-1000px";
+        ta.style.opacity = "0";
+        document.body.appendChild(ta);
+        ta.focus();
+        ta.select();
+        ta.setSelectionRange(0, username.length);
+        document.execCommand("copy");
+      } catch (error) {
+      } finally {
+        if (ta && ta.parentNode) ta.parentNode.removeChild(ta);
+      }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        try {
+          navigator.clipboard.writeText(username).catch(() => {});
+        } catch (error) {}
+      }
+    }
 
     window.addEventListener("DOMContentLoaded", () => {
       const appButton = document.querySelector("[data-open-instagram]");
-      if (appButton) appButton.href = isAndroid ? androidIntentUrl : iosAppUrl;
+      const status = document.querySelector("[data-copy-status]");
+      if (!appButton) return;
+      appButton.href = appUrl;
+      appButton.addEventListener("click", (event) => {
+        event.preventDefault();
+        copyUsername();
+        if (status) status.textContent = "@hoonchoi.mk1 copied";
+        window.location.href = appUrl;
+        if (isIOS) {
+          window.setTimeout(() => {
+            if (!document.hidden) window.location.href = profileUrl;
+          }, 1500);
+        }
+      });
     });
   </script>
 </head>
@@ -34,8 +75,9 @@
   <main>
     <h1>Open Instagram Profile</h1>
     <p>Open Seunghoon Choi's Instagram profile, then tap Follow.</p>
-    <a class="primary" href="instagram://user?username=hoonchoi.mk1" data-open-instagram>Open Instagram Profile</a>
+    <a class="primary" href="instagram://user?username=hoonchoi.mk1" data-open-instagram>Copy & Open Instagram</a>
     <a class="secondary" href="https://www.instagram.com/hoonchoi.mk1/">Open in Browser</a>
+    <p class="status" data-copy-status></p>
   </main>
 </body>
 </html>

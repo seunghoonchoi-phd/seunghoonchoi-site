@@ -129,6 +129,9 @@ other = "सहयोग के लिए संपर्क"
 [copied_email]
 other = "ईमेल पता कॉपी हो गया"
 
+[copied_instagram]
+other = "Instagram उपयोगकर्ता नाम कॉपी हुआ"
+
 [hero_qr_label]
 other = "Instagram पर फ़ॉलो करने के लिए स्कैन करें"
 

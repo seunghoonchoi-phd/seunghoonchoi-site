@@ -129,6 +129,9 @@ other = "Work with me"
 [copied_email]
 other = "Email address copied"
 
+[copied_instagram]
+other = "Instagram username copied"
+
 [hero_qr_label]
 other = "Scan to follow on Instagram"
 

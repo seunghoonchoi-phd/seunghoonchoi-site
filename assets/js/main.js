@@ -107,11 +107,50 @@
     });
   }
 
+  function copyTextBestEffort(text) {
+    var copied = false;
+    if (!text) return copied;
+    var ta;
+    try {
+      ta = document.createElement("textarea");
+      ta.value = text;
+      ta.setAttribute("readonly", "");
+      ta.style.position = "fixed";
+      ta.style.top = "-1000px";
+      ta.style.opacity = "0";
+      document.body.appendChild(ta);
+      ta.focus();
+      ta.select();
+      ta.setSelectionRange(0, text.length);
+      copied = document.execCommand("copy");
+    } catch (err) {
+      copied = false;
+    } finally {
+      if (ta && ta.parentNode) ta.parentNode.removeChild(ta);
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      try {
+        navigator.clipboard.writeText(text).catch(function () {});
+      } catch (err) {}
+    }
+    return copied;
+  }
+
+  function showCopyToast(message) {
+    var toast = document.querySelector("[data-copy-toast]");
+    if (!toast || !message) return;
+    toast.textContent = message;
+    toast.classList.add("is-shown");
+    clearTimeout(toast._t);
+    toast._t = setTimeout(function () { toast.classList.remove("is-shown"); }, 2600);
+  }
+
   /* Instagram mobile handoff. Android Chrome only opens intent links reliably
      from a direct user gesture, so turn the homepage tap into a profile link
-     that opens the Instagram app when it is installed. */
+     that copies the username and opens the Instagram app when it is installed. */
   document.querySelectorAll("[data-instagram-app-link]").forEach(function (link) {
     var username = link.getAttribute("data-instagram-username") || "hoonchoi.mk1";
+    var copiedMsg = link.getAttribute("data-instagram-copied") || "Instagram username copied";
     var profileUrl = "https://www.instagram.com/" + encodeURIComponent(username) + "/";
     var iosAppUrl = "instagram://user?username=" + encodeURIComponent(username);
     var androidIntentUrl = "intent://instagram.com/_u/" + encodeURIComponent(username) +
@@ -119,13 +158,19 @@
       encodeURIComponent(profileUrl) + ";end";
     var isAndroid = /Android/i.test(navigator.userAgent);
     var isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+    var appUrl = isAndroid ? androidIntentUrl : (isIOS ? iosAppUrl : link.href);
 
-    if (!isAndroid && !isIOS) return;
-    link.removeAttribute("target");
-    link.href = isAndroid ? androidIntentUrl : iosAppUrl;
-    if (isAndroid) return;
+    if (isAndroid || isIOS) {
+      link.removeAttribute("target");
+      link.href = appUrl;
+    }
 
-    link.addEventListener("click", function () {
+    link.addEventListener("click", function (event) {
+      copyTextBestEffort(username);
+      showCopyToast("@" + username + " · " + copiedMsg);
+      if (!isAndroid && !isIOS) return;
+      event.preventDefault();
+      window.location.href = appUrl;
       if (isIOS) {
         window.setTimeout(function () {
           if (!document.hidden) window.location.href = profileUrl;

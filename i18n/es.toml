@@ -129,6 +129,9 @@ other = "Consultas de colaboración"
 [copied_email]
 other = "Correo electrónico copiado"
 
+[copied_instagram]
+other = "Usuario de Instagram copiado"
+
 [hero_qr_label]
 other = "Escanea para seguir en Instagram"
 

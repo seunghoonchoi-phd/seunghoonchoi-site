@@ -129,6 +129,9 @@ other = "合作咨询"
 [copied_email]
 other = "邮箱地址已复制"
 
+[copied_instagram]
+other = "Instagram 用户名已复制"
+
 [hero_qr_label]
 other = "扫码关注 Instagram"
 
