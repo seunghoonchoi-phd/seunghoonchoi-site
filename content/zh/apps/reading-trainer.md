@@ -4,8 +4,8 @@ seoTitle: "英文中文速读训练 App，基于证据、免费"
 date: 2026-06-16
 categories: ["工具"]
 tags: ["阅读", "速读", "应用", "英语", "中文"]
-subtitle: "去掉速读迷信，只留经过验证、真正能迁移的技术"
-description: "想把英文、中文读得更快又不丢理解？这款免费可安装的阅读 App 不搞一万 WPM 之类的速读迷信，而是训练词汇自动化和以理解为闸门的阅读速率。"
+subtitle: "不是只追求速度，而是用题目确认读懂了什么的阅读训练"
+description: "想把英文、中文读得更快，并用题目确认自己读懂了什么？这款免费可安装的阅读 App 不搞一万 WPM 之类的速读迷信，而是训练词汇自动化和以理解为闸门的阅读速率。"
 image: /images/reading-trainer-card.svg
 reviewStatus: "done"
 ---
@@ -15,7 +15,7 @@ reviewStatus: "done"
   <div class="appcard__body">
     <span class="appcard__free">可安装网页应用（PWA）</span>
     <h3>ReadFast · 阅读速度与理解训练</h3>
-    <p>把英文、中文读得像母语一样又快又准。只用有依据的技术。</p>
+    <p>把英文、中文读得更快，并用题目确认读懂的内容。</p>
     <a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">打开应用 →</a>
   </div>
 </div>

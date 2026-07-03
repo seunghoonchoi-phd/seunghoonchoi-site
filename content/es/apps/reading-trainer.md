@@ -4,8 +4,8 @@ seoTitle: "App de lectura rápida en inglés y chino, entrenamiento basado en ev
 date: 2026-06-16
 categories: ["Herramientas"]
 tags: ["lectura", "lectura rápida", "app", "inglés", "chino"]
-subtitle: "Sin mitos sobre la lectura rápida, solo técnicas con transferencia comprobada"
-description: "Lee inglés y chino con rapidez y precisión. En lugar de mitos como las 10.000 palabras por minuto, entrena con automatización del vocabulario y un control de comprensión. App de lectura gratuita e instalable."
+subtitle: "No se trata solo de leer más rápido: también compruebas lo que entendiste."
+description: "Lee inglés y chino más rápido y comprueba con preguntas lo que entendiste. En lugar de mitos como las 10.000 palabras por minuto, entrena con automatización del vocabulario y un control de comprensión. App de lectura gratuita e instalable."
 image: /images/reading-trainer-card.svg
 reviewStatus: "done"
 ---
@@ -14,7 +14,7 @@ reviewStatus: "done"
   <div class="appcard__body">
     <span class="appcard__free">App web instalable (PWA)</span>
     <h3>ReadFast · Entrenamiento de velocidad y comprensión lectora</h3>
-    <p>Lee inglés y chino “como si fuera tu idioma”, con rapidez y precisión. Solo técnicas con base real.</p>
+    <p>Lee inglés y chino más rápido y comprueba con preguntas lo que entendiste.</p>
     <a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">Abrir la app →</a>
   </div>
 </div>

@@ -4,8 +4,8 @@ seoTitle: "ReadFast: Train English and Chinese Reading Speed and Comprehension T
 date: 2026-06-16
 categories: ["Tools"]
 tags: ["reading", "speed-reading", "app", "English", "Chinese"]
-subtitle: "Not speed reading that only raises speed, but reading training that checks comprehension too."
-description: "ReadFast is a free installable web app for training English and Chinese reading speed and comprehension together. It includes lexical automaticity, comprehension-gated scoring, repeated reading, and step-by-step paper reading."
+subtitle: "Not speed reading that only raises speed, but reading training that checks what you understood."
+description: "ReadFast is a free installable web app for reading English and Chinese faster while checking what you understood with questions. It includes lexical automaticity, comprehension-gated scoring, repeated reading, and step-by-step paper reading."
 image: /images/reading-trainer-card.svg
 reviewStatus: "done"
 ---
@@ -14,14 +14,14 @@ reviewStatus: "done"
   <div class="appcard__body">
     <span class="appcard__free">Installable web app (PWA)</span>
     <h3>ReadFast · Reading speed and comprehension trainer</h3>
-    <p>Read English and Chinese faster without losing comprehension.</p>
+    <p>Read English and Chinese faster, then check what you understood with questions.</p>
     <a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">Open the app →</a>
   </div>
 </div>
 
 I wanted to read English and Chinese faster too. But many speed-reading methods on the market came with exaggerated claims. I did not want to simply trust methods that are hard to connect to real reading ability, such as 10,000 WPM, PhotoReading, or skimming without comprehension.
 
-So I built ReadFast. The goal is not merely to move your eyes faster. It is to recognize vocabulary faster, process sentences in chunks, and raise reading speed only within the range where comprehension does not collapse.
+So I built ReadFast. The goal is not merely to move your eyes faster. It is to recognize vocabulary faster, read sentences in meaning units, and raise speed while checking what you understood with questions.
 
 The premise is simple. Reading speed is constrained not only by the eyes, but by the brain's lexical processing. ReadFast therefore measures speed and comprehension together. If you read fast but comprehension is low, the training score does not reward it.
 
