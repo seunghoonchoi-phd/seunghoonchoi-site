@@ -10,7 +10,6 @@ description: "As AI takes over research, summarization, drafting, and other entr
 image: /images/col-ai-school-practical-sense.png
 reviewStatus: "done"
 ---
-
 ![Students using AI while checking a small device together](/images/col-ai-school-practical-sense.png)
 
 <p class="inline-image-caption">Classes using AI should be a time for students to check and correct their answers, not to write them down.</p>

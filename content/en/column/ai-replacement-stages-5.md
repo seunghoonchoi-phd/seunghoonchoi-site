@@ -25,9 +25,7 @@ Do not stop at building skill. Convert skill into credentials, responsible seats
 
 We usually believe this:
 
-If I build skill, I survive.
-If I do better, I will not be pushed out.
-If I am better than others, I will continue to be needed.
+If I build skill, I survive. If I do better, I will not be pushed out. If I am better than others, I will continue to be needed.
 
 Until now, that was somewhat true. Faster and more accurate people took more work. But in the AI era, this belief shakes. Translation, coding, summarization, analysis, and image diagnosis were once the work of skilled people. Now the very act of being good is becoming the area AI catches first.
 
@@ -41,19 +39,11 @@ The credential in the title does not only mean a test certificate. What matters 
 
 Because AI can do work, but it cannot bear responsibility.
 
-AI can write a report.
-AI can support diagnosis.
-AI can review a contract.
-AI can find risk signals.
+AI can write a report. AI can support diagnosis. AI can review a contract. AI can find risk signals.
 
-But when an accident happens, AI does not go to prison. The person is the one who pays fines, loses a license, loses reputation, and bears legal responsibility. So regulation does not protect an entire job. It usually protects the final responsible seat. The work once done by ten operators may shrink through AI. But the person who signs at the end, approves, and bears legal responsibility may remain.
+But when an accident happens, AI does not go to prison. The person is the one who pays fines, loses a license, loses reputation, and bears legal responsibility. So regulation does not protect an entire job. It usually protects the final responsible seat. The work once done by ten operators may shrink through AI. But the person who signs at the end, approves, and bears legal responsibility may remain. So ask this in your field:
 
-So ask this in your field:
-
-Who stamps the final approval?
-Who takes responsibility?
-Whose approval finishes the work?
-What qualification is needed to sit there?
+Who stamps the final approval? Who takes responsibility? Whose approval finishes the work? What qualification is needed to sit there?
 
 Credentials matter in the AI era not because of the paper itself. They matter because of the responsibility and authority attached to that paper.
 
@@ -65,13 +55,7 @@ The ability to make products can become common. But the equity I hold in a compa
 
 If you learned a temporarily advanced skill, do not stop at "I am good at this." Convert it into something that remains.
 
-Content under my name.
-Equity I own.
-A service I operate.
-Data I hold.
-A community I built.
-A brand I accumulated.
-An output I tied into rights.
+Content under my name. Equity I own. A service I operate. Data I hold. A community I built. A brand I accumulated. An output I tied into rights.
 
 These last longer than ability. Being ahead itself does not last. Others learn. AI catches up. But what you turned into ownership while you were ahead remains longer.
 
@@ -95,23 +79,15 @@ In ordinary times, the two can look similar. But when something goes wrong, the 
 
 The person in the dependent seat depends on the decisions of the supplier. If it is given, they receive. If it is reduced, they shrink. If it is cut off, they lose. This difference is not simply about having more or less money. The core is whether I can do anything about it.
 
-Am I inside a structure I understand?
-Do I have the right to decide?
-Is there a right that remains under my name?
-Do I have options when risk arrives?
+Am I inside a structure I understand? Do I have the right to decide? Is there a right that remains under my name? Do I have options when risk arrives?
 
 In the AI era, the important thing is not becoming someone protected. If possible, it is moving toward the principal seat.
 
 ## Keep the floor solid, and move boldly above it
 
-Then what should you do? First, make the floor solid. The AI era changes quickly. You do not know which ability will become common when. Work that looks safe now may become ordinary in a few years.
+Then what should you do? First, make the floor solid. The AI era changes quickly. You do not know which ability will become common when. Work that looks safe now may become ordinary in a few years. So you need a floor that does not collapse from one hit.
 
-So you need a floor that does not collapse from one hit.
-
-Emergency savings.
-Reduced debt.
-Low fixed costs.
-A life structure that can hold even if income falls for a while.
+Emergency savings. Reduced debt. Low fixed costs. A life structure that can hold even if income falls for a while.
 
 These are not flashy. But they matter. Without a floor, one failure ends everything. Then you cannot try new things. If you are not safe, you cannot be bold. After making the floor solid, move boldly above it.
 
@@ -121,19 +97,11 @@ Try new tools, make small projects, accumulate content, experiment with automate
 
 You do not need a grand start. Decide only two things this week. First, one action that makes your floor stronger.
 
-It might be reducing debt.
-It might be adding to emergency savings.
-It might be lowering fixed costs.
-It might be increasing how long you can endure if income stops.
+It might be reducing debt. It might be adding to emergency savings. It might be lowering fixed costs. It might be increasing how long you can endure if income stops.
 
 Second, one output that turns your skill into ownership.
 
-Publishing one essay.
-Making a small service.
-Accumulating content under your name.
-Organizing data you have.
-Checking credential or license requirements in your field.
-Finding the path to a seat that approves and takes responsibility.
+Publishing one essay. Making a small service. Accumulating content under your name. Organizing data you have. Checking credential or license requirements in your field. Finding the path to a seat that approves and takes responsibility.
 
 The core is not leaving skill as skill. Convert skill into credentials, responsible seats, and ownership.
 
@@ -141,24 +109,14 @@ The core is not leaving skill as skill. Convert skill into credentials, responsi
 
 The conclusion of the previous pieces gathers into one thing. AI keeps taking what it can take.
 
-Work with right answers is replaced first.
-Repeated work is replaced too.
-Body work is slowly replaced.
-Work requiring judgment and sense shakes.
-Decision authority moves little by little.
-Ownership and human interests become the final question.
+Work with right answers is replaced first. Repeated work is replaced too. Body work is slowly replaced. Work requiring judgment and sense shakes. Decision authority moves little by little. Ownership and human interests become the final question.
 
 Then an individual's strategy must change too. Becoming a more skilled person is not enough. Skill is necessary, of course. But skill is the starting point. What remains to the end is not skill. It is position.
 
-A seat connected to credentials and licenses.
-A seat that signs and takes responsibility.
-A seat where rights remain under my name.
-A seat where cash flow comes from something I own.
-A seat closer to owning and controlling AI, not merely using it.
+A seat connected to credentials and licenses. A seat that signs and takes responsibility. A seat where rights remain under my name. A seat where cash flow comes from something I own. A seat closer to owning and controlling AI, not merely using it.
 
 Surviving the AI era does not mean finding work AI can never do. It means making something that remains mine even if AI does the work. So the final question is this:
 
 What am I turning my skill into right now?
 
-Am I just becoming a more skilled person?
-Or am I moving it into credentials, responsible seats, and ownership?
+Am I just becoming a more skilled person? Or am I moving it into credentials, responsible seats, and ownership?

@@ -10,7 +10,6 @@ image: /images/col-advantage-loops.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![긴 곡선으로 늘어선 도미노 중 하나가 쓰러지며 다음 조각을 향해 기울어지는 모습](/images/col-advantage-loops.jpg)
 
 <p class="inline-image-caption">작은 우위는 다음 행동을 더 쉽게 만드는 기록과 도구가 있을 때 반복된다.</p>

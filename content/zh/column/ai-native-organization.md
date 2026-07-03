@@ -10,7 +10,6 @@ image: /images/col-ai-native-org.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![几何感的建筑结构，把组织从头重新搭建意味着什么](/images/col-ai-native-org.jpg)
 
 <p class="inline-image-caption">在人工智能原生组织中，工作从请求到审查再到决策的顺序发生变化，而不是工具列表。</p>

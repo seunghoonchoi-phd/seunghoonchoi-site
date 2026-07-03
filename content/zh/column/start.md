@@ -7,7 +7,6 @@ subtitle: "这个空间是什么"
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![A hand writing in a notebook](/images/col-start.jpg)
 
 <p class="inline-image-caption">论文外的写作解释了我正在研究的问题，而不是证明研究结果。</p>

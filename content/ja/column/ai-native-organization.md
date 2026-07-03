@@ -10,7 +10,6 @@ image: /images/col-ai-native-org.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![幾何学的な建物の構造、組織を最初から組み直すということ](/images/col-ai-native-org.jpg)
 
 <p class="inline-image-caption">AIネイティブ組織では、道具の一覧より、仕事が依頼、検討、決定へ進む順序が変わる。</p>

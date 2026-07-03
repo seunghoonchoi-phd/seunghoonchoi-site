@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 1
 reviewStatus: "done"
 ---
-
 ![Mapa completo de 16 etapas del reemplazo laboral por IA](/images/col-ai-replacement-stages.jpg)
 
 <p class="inline-image-caption">La lista de 16 pasos no es una profecía, sino un punto de referencia para comparar qué tareas se automatizarán primero y en qué condiciones.</p>

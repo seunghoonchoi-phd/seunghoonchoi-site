@@ -10,7 +10,6 @@ image: /images/col-institutions-as-games.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![सुबह होने से पहले, दुकानदारों के आने से पहले खाली पड़े खुले बाज़ार के ठेले](/images/col-institutions-as-games.jpg)
 
 <p class="inline-image-caption">किसी व्यवस्था को समझने के लिए उसके नाम से अधिक यह देखना चाहिए कि उसके भीतर कौन-सा व्यवहार करने पर व्यक्ति को पुरस्कार मिलता है।</p>

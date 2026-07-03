@@ -10,7 +10,6 @@ image: /images/col-operating-rules.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![قاعة اجتماعات فارغة يدخلها ضوء ناعم من النافذة، والكراسي موضوعة حول الطاولة كلٌّ بزاوية مختلفة](/images/col-operating-rules.jpg)
 
 <p class="inline-image-caption">قد لا يُقبل اقتراح في اجتماع ليس بسبب جودة محتواه، بل لأنه مسّ بمكانة شخص ما.</p>

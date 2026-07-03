@@ -10,7 +10,6 @@ image: /images/col-operating-rules.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![窗边洒进柔和光线的空会议室，桌子四周的椅子各自朝着不同的角度](/images/col-operating-rules.jpg)
 
 <p class="inline-image-caption">一个提案在会议上没有被采纳，原因可能不是内容质量，而是它损害了某个人的面子。</p>

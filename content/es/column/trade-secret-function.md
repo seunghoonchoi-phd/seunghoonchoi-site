@@ -9,7 +9,6 @@ seoTitle: "Por qué el conocimiento tácito es la verdadera ventaja en la era de
 image: /images/col-trade-secret-function.jpg
 reviewStatus: "done"
 ---
-
 ![Las manos de un alfarero moldeando barro húmedo sobre el torno, el instante en que la presión mínima de los dedos decide el resultado](/images/col-trade-secret-function.jpg)
 
 <p class="inline-image-caption">Las respuestas de la IA son fáciles de obtener, pero el conocimiento proviene de solucionar las razones por las que esas respuestas fallan en el trabajo real.</p>

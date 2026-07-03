@@ -10,7 +10,6 @@ image: /images/col-hand-skill.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![닳은 손도구들이 가지런히 놓인 작업대](/images/col-hand-skill.jpg)
 
 <p class="inline-image-caption">손기술은 빠른 손동작보다, 재료가 변하는 작은 신호를 작업자가 알아차리는 능력이다.</p>

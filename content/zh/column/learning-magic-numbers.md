@@ -9,7 +9,6 @@ seoTitle: "新领域学习魔法数字 3·7·30·100"
 image: /images/col-learning-magic-numbers.jpg
 reviewStatus: "done"
 ---
-
 ![傍晚城市路口，一个人站在三岔路前](/images/col-learning-magic-numbers.jpg)
 
 <p class="inline-image-caption">对一个新领域的感觉不仅仅来自于例子的数量，还来自于比较不同例子之间的差异。</p>

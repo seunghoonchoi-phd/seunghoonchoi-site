@@ -9,7 +9,6 @@ description: "Doce principios para sobrevivir en la era de la IA. No intentes se
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Una cuesta cubierta de niebla; una partida larga que se aguanta con un solo principio](/images/col-agi-strategy.jpg)
 
 <p class="inline-image-caption">En la era AGI, es necesario seguir dejando resultados que otros puedan comprobar, en lugar de simplemente decir algo que parezca inteligente.</p>

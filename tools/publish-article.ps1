@@ -237,6 +237,22 @@ if ($shouldRunRtl -and (Test-Path -LiteralPath (Join-Path $repoRoot "tools/check
     }
 }
 
+if (Test-Path -LiteralPath (Join-Path $repoRoot "tools/check-paragraph-rhythm.js")) {
+    Write-Host "check=paragraph-rhythm"
+    & node tools/check-paragraph-rhythm.js
+    if ($LASTEXITCODE -ne 0) {
+        throw "Paragraph rhythm check failed."
+    }
+}
+
+if (Test-Path -LiteralPath (Join-Path $repoRoot "tools/audit-site-text.js")) {
+    Write-Host "check=source-text-audit"
+    & node tools/audit-site-text.js --source-only --fail-on-hard
+    if ($LASTEXITCODE -ne 0) {
+        throw "Source text audit failed."
+    }
+}
+
 if ($FullBuild) {
     Write-Host "check=hugo-full-build"
     Invoke-Hugo @("--gc", "--minify")

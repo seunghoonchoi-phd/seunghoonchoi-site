@@ -10,7 +10,6 @@ image: /images/col-reading-people.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![暖光下，两个人隔着桌子，一边比划手势一边交谈](/images/col-reading-people.jpg)
 
 <p class="inline-image-caption">即使逻辑正确，如果提案增加了对方的损失和面子问题，说服也可能立刻停止。</p>

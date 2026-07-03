@@ -9,9 +9,7 @@ subtitle: "Florida 0% state income tax, the $2,000/year treaty exemption, and Fo
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![US tax forms with a pen](/images/uf4-taxes.jpg)
-
 
 Once your admission and most of your relocation prep are settled, one area tends to leave nearly everyone stuck: taxes. The rules for F-1 students differ from those for U.S. citizens and permanent residents, and in many cases those differences work in a student's favor. This post lays out just the essentials. Because tax law and policy change often, confirm with UFIC and a tax professional before you actually file.
 
@@ -33,7 +31,6 @@ For an F-1 student who came from Korea, the Korea-U.S. tax treaty adds a further
 
 ![U.S. Tax Basics for F-1 Students: 5-Year Nonresident, FICA Exemption, Korea-U.S. Treaty (Part 4)](/images/inline/career-uf-guide-4-f1-taxes.jpg)
 
-
 ## Filing forms and deadlines
 
 Which forms you owe depends on whether you have income. Here is the breakdown.
@@ -51,7 +48,6 @@ Which forms you owe depends on whether you have income. Here is the breakdown.
 In short, F-1 student taxes boil down to one line: "nonresident alien for 5 years → FICA exemption + 0% Florida state tax + Article 21 $2,000 exemption → Form 8843 (everyone) and 1040-NR (if you have income) → deadline 4/15 or 6/15." Get this framework straight and your first filing season will go much more smoothly.
 
 A deeper guide to U.S. taxes and the Enrolled Agent (EA) perspective is coming in the next post.
-
 
 ---
 

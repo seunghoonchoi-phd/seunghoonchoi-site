@@ -10,7 +10,6 @@ image: /images/col-operating-rules.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![खिड़की से नरम रोशनी आती एक खाली मीटिंग रूम, मेज़ के चारों ओर कुर्सियाँ अलग-अलग कोणों पर रखी हैं](/images/col-operating-rules.jpg)
 
 <p class="inline-image-caption">बैठक में कोई प्रस्ताव अस्वीकार हो सकता है, क्योंकि उसकी गुणवत्ता खराब नहीं थी, बल्कि उसने किसी की प्रतिष्ठा को चोट पहुँचाई थी।</p>

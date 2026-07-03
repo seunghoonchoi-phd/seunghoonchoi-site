@@ -10,7 +10,6 @@ image: /images/col-hand-skill.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![使い込まれた手道具がきれいに並んだ作業台](/images/col-hand-skill.jpg)
 
 <p class="inline-image-caption">手技は速い手の動きより、材料が変化する小さな信号に作業者が気づく能力である。</p>

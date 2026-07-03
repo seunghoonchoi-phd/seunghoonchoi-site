@@ -10,7 +10,6 @@ description: "Cuando la IA empieza a encargarse de investigar, resumir, redactar
 image: /images/col-ai-school-practical-sense.png
 reviewStatus: "done"
 ---
-
 ![Estudiantes usando IA mientras revisan juntos un pequeño dispositivo](/images/col-ai-school-practical-sense.png)
 
 <p class="inline-image-caption">Las clases que utilizan IA deberían ser un momento para que los estudiantes verifiquen y corrijan sus respuestas, no para escribirlas.</p>

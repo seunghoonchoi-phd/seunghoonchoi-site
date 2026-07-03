@@ -9,7 +9,6 @@ description: "AGIが来ても人間に残るのは知能の競争ではなく、
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![木を手で削る職人。AIには真似できない人間の実在感](/images/col-ai-human-craft.jpg)
 
 <p class="inline-image-caption">AIと直接競争するより、AIがまだ処理できない現実の入力整理と責任判断を担う必要がある。</p>

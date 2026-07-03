@@ -10,7 +10,6 @@ image: /images/col-hand-skill.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Worn hand tools laid out neatly on a workbench](/images/col-hand-skill.jpg)
 
 <p class="inline-image-caption">Manual skill is the ability of a worker to recognize small signals of changes in materials rather than quick hand movements.</p>

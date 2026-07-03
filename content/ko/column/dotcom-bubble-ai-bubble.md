@@ -9,7 +9,6 @@ seoTitle: "닷컴 버블 복습: AI 버블과 무엇이 같고 다른가"
 image: /images/col-dotcom-bubble-ai-bubble.png
 reviewStatus: "done"
 ---
-
 ![1994년부터 2005년까지 나스닥 지수가 닷컴 버블 전후로 급등락한 차트](/images/col-dotcom-bubble-ai-bubble.png)
 
 <p class="inline-image-caption">차트가 급등할 때는 사람들이 실적보다 미래 이야기에 더 큰 돈을 쓰기 시작했는지 확인해야 한다.</p>

@@ -74,9 +74,7 @@ Tie even experiments up in approvals and no one tries anything. Ship everything 
 
 ## At work, small wins. Big work, outside.
 
-So how should someone still bound to a job move?
-
-Inside the company, it's better to aim AI at small wins. Cleaning up scattered data, cutting down repetitive work, easing the load on a senior who has to review. These can be done well even within security and permissions. Stacked up quietly, they turn into trust.
+So how should someone still bound to a job move? Inside the company, it's better to aim AI at small wins. Cleaning up scattered data, cutting down repetitive work, easing the load on a senior who has to review. These can be done well even within security and permissions. Stacked up quietly, they turn into trust.
 
 The big outputs, though, are best built in a friction-free environment. Long writing, public repositories, small apps, drafts you can use right away. Try to do this kind of work inside corporate security, permissions, and context-switching, and the same task slows to several times its pace. Where you use the tool decides the result. Know that, and split the place by the nature of the work.
 

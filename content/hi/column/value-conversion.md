@@ -9,7 +9,6 @@ seoTitle: "मेहनत क्यों जमा नहीं होती: 
 image: /images/col-value-conversion.jpg
 draft: true
 ---
-
 ![कार्यशाला में तैयार लकड़ी की कुर्सी थामे एक कारीगर के हाथ, गर्म साइड लाइट में](/images/col-value-conversion.jpg)
 
 <p class="inline-image-caption">समय बेचने के बाद उसे फिर से उपयोग करना कठिन होता है, लेकिन छोड़ा गया परिणाम कोई दूसरा व्यक्ति अगले अवसर में फिर उपयोग कर सकता है।</p>

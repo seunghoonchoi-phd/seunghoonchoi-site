@@ -10,7 +10,6 @@ image: /images/col-reading-people.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![شخصان يتحدثان ويشيران بأيديهما حول طاولة تحت إضاءة دافئة](/images/col-reading-people.jpg)
 
 <p class="inline-image-caption">حتى إذا كان المنطق صحيحًا، فقد يتوقف الإقناع فورًا إذا زاد الاقتراح خسائر الطرف الآخر أو مشكلة مكانته.</p>

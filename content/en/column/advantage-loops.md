@@ -10,7 +10,6 @@ image: /images/col-advantage-loops.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![A single domino tipping over in a long curving line, leaning toward the next piece](/images/col-advantage-loops.jpg)
 
 <p class="inline-image-caption">Small advantages are repeated when you have records and tools to make the next move easier.</p>

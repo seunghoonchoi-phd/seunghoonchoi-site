@@ -32,7 +32,7 @@ other = "Read"
 [view_all]
 other = "View all"
 [no_posts]
-other = "No posts yet — more coming soon."
+other = "No posts yet. More coming soon."
 [posted_on]
 other = "Written"
 [categories]

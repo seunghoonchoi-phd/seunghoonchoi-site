@@ -9,7 +9,6 @@ reviewStatus: "done"
 ---
 ![『アメリカ博士留学、ひとりで準備しても大丈夫です』表紙](/images/book-us-phd-guide.jpg)
 
-
 Seunghoon Choi 著 · ベルニックス 刊 · 2026年6月
 
 eBook(ePUB) · 16,000ウォン

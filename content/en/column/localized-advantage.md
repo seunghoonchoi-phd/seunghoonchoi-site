@@ -44,9 +44,7 @@ A strong player doesn't hit what's weak right now. They read ahead to where it's
 
 ## Grab everything and you have no strength
 
-This is where ordinary people and strong players split.
-
-The anxious person grabs everything. Just in case, they build more defense, spread to one more position, try some harassment. Then the strength they need for the decisive moment scatters in every direction. They reach that 30 seconds with nothing left to spare.
+This is where ordinary people and strong players split. The anxious person grabs everything. Just in case, they build more defense, spread to one more position, try some harassment. Then the strength they need for the decisive moment scatters in every direction. They reach that 30 seconds with nothing left to spare.
 
 A strong player boldly throws away anything that doesn't directly help the win at that timing. The ability to throw away is the ability to focus.
 

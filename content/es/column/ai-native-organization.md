@@ -10,7 +10,6 @@ image: /images/col-ai-native-org.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Estructura geométrica de un edificio, lo que significa reconstruir una organización desde cero](/images/col-ai-native-org.jpg)
 
 <p class="inline-image-caption">En una organización nativa de IA, el orden en el que avanza el trabajo desde la solicitud hasta la revisión y la decisión cambia en lugar de una lista de herramientas.</p>

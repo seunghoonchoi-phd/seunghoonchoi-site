@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 1
 reviewStatus: "done"
 ---
-
 ![A full 16-stage map of AI job replacement](/images/col-ai-replacement-stages.jpg)
 
 <p class="inline-image-caption">The 16-step list is not a prophecy, but a benchmark for comparing which tasks will be automated first and under what conditions.</p>
@@ -88,9 +87,7 @@ But something remains here: choosing with conviction while knowing that if you a
 
 ## Stage 9, people begin delegating decision authority to AI
 
-From here, the nature changes.
-
-In the earlier stages, once AI became capable, the work naturally shifted. Decision authority is different. Even if AI can do it, people have to hand it over. Responsibility follows.
+From here, the nature changes. In the earlier stages, once AI became capable, the work naturally shifted. Decision authority is different. Even if AI can do it, people have to hand it over. Responsibility follows.
 
 At first, people do not easily let go of decision rights. Hiring, loans, insurance, medical care, legal judgment, and major company decisions cause large damage when wrong. So authority does not move only because "AI is faster." It starts to move when AI's error rate is dramatically lower than humans, and that difference is repeatedly confirmed. If data accumulates showing that AI decisions create fewer accidents, reduce losses, predict better, and apply standards more consistently than human decisions, organizations start to think differently. Is it more responsible for a person to decide, or more responsible to let the lower-error AI decide?
 

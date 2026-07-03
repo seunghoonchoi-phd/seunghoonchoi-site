@@ -18,7 +18,6 @@ faq:
   - q: "जलवायु संकट और ऊर्जा परिवर्तन में मानवीय रोज़गार महत्वपूर्ण क्यों है?"
     a: "जलवायु संकट और ऊर्जा परिवर्तन गणना की समस्या नहीं, system transition की समस्या है। transmission grid, power plant, battery, regulation, field operation, resident negotiation और safety management सब मानव संगठनों से ही वास्तविकता बनते हैं।"
 ---
-
 ![भोर में ऊर्जा अवसंरचना और शहर को देखता हुआ engineer](/images/col-reality-is-not-a-database.jpg)
 
 <p class="inline-image-caption">एआई के तेज़ दिखने का कारण यह नहीं है कि यह पूरी समस्या का समाधान करता है, बल्कि इसलिए कि यह संगठित डेटा के साथ भाग को तेज़ी से संसाधित करता है।</p>
@@ -95,9 +94,7 @@ AI के कारण सभी मनुष्य अनावश्यक न
 
 लेकिन problem definer, AI result verifier, field integrator, real-world data generator, exception judge और power plant, factory, hospital तथा infrastructure जैसे बड़े काम चलाने वाले लोग अधिक महत्वपूर्ण होंगे।
 
-[World Economic Forum का Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/) भी 2025 से 2030 के बीच technology innovation और green transition से job और skill structure में बड़ा बदलाव देखता है। WEF मानता है कि structural labor-market change से नई नौकरियाँ और खत्म होती नौकरियाँ साथ-साथ बनेंगी, और कुल मिलाकर 2030 तक net employment growth संभव है।
-
-मुख्य बात यह नहीं कि काम पूरी तरह गायब हो जाएगा। मुख्य बात यह है कि मनुष्य से अपेक्षित क्षमता का स्तर बदल जाएगा।
+[World Economic Forum का Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/) भी 2025 से 2030 के बीच technology innovation और green transition से job और skill structure में बड़ा बदलाव देखता है। WEF मानता है कि structural labor-market change से नई नौकरियाँ और खत्म होती नौकरियाँ साथ-साथ बनेंगी, और कुल मिलाकर 2030 तक net employment growth संभव है। मुख्य बात यह नहीं कि काम पूरी तरह गायब हो जाएगा। मुख्य बात यह है कि मनुष्य से अपेक्षित क्षमता का स्तर बदल जाएगा।
 
 ## लक्ष्य और ज़िम्मेदारी मनुष्य तय करते हैं
 

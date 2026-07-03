@@ -32,7 +32,7 @@ other = "읽기"
 [view_all]
 other = "전체 보기"
 [no_posts]
-other = "아직 글이 없습니다 — 곧 채워집니다."
+other = "아직 글이 없습니다. 곧 채워집니다."
 [posted_on]
 other = "작성"
 [categories]

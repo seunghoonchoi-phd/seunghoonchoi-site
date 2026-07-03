@@ -25,9 +25,7 @@ No basta con desarrollar habilidad. Hay que convertir esa habilidad en certifica
 
 Solemos creer esto.
 
-Si desarrollo habilidad, sobrevivo.
-Si soy mejor, no me desplazan.
-Si destaco más que otros, seguiré siendo necesario.
+Si desarrollo habilidad, sobrevivo. Si soy mejor, no me desplazan. Si destaco más que otros, seguiré siendo necesario.
 
 Hasta ahora era verdad en cierta medida. Quien era más rápido y exacto se llevaba más trabajo. Pero en la era de la IA esta creencia se debilita. Traducción, programación, resumen, análisis y lectura de imágenes fueron trabajos de personas buenas en eso. Ahora, justamente hacerlo bien se vuelve una de las zonas que la IA alcanza más rápido.
 
@@ -41,19 +39,11 @@ Cuando digo certificación en el título, no me refiero solo a aprobar un examen
 
 Porque la IA puede hacer trabajo, pero no puede asumir responsabilidad.
 
-La IA puede escribir un informe.
-La IA puede ayudar con un diagnóstico.
-La IA puede revisar un contrato.
-La IA puede detectar señales de riesgo.
+La IA puede escribir un informe. La IA puede ayudar con un diagnóstico. La IA puede revisar un contrato. La IA puede detectar señales de riesgo.
 
-Pero cuando ocurre un accidente, quien puede ir a juicio no es la IA. Quien paga multas, pierde licencia, pierde reputación y responde legalmente es una persona. Por eso la regulación no protege todo el empleo. Normalmente protege el lugar del responsable final. El trabajo operativo de diez personas puede reducirse con IA. Pero quien firma al final, quien aprueba, quien responde legalmente, puede permanecer.
+Pero cuando ocurre un accidente, quien puede ir a juicio no es la IA. Quien paga multas, pierde licencia, pierde reputación y responde legalmente es una persona. Por eso la regulación no protege todo el empleo. Normalmente protege el lugar del responsable final. El trabajo operativo de diez personas puede reducirse con IA. Pero quien firma al final, quien aprueba, quien responde legalmente, puede permanecer. Por eso hay que preguntar dentro de cada campo.
 
-Por eso hay que preguntar dentro de cada campo.
-
-¿Quién pone el sello final?
-¿Quién responde?
-¿Quién debe aprobar para que el trabajo termine?
-¿Qué calificación permite sentarse en ese lugar?
+¿Quién pone el sello final? ¿Quién responde? ¿Quién debe aprobar para que el trabajo termine? ¿Qué calificación permite sentarse en ese lugar?
 
 La certificación importa en la era de la IA no por un papel. Importa por la responsabilidad y autoridad conectadas a ese papel.
 
@@ -65,13 +55,7 @@ La capacidad de construir productos puede volverse común. Pero la participació
 
 Si aprendiste una técnica antes que otros, no debes terminar en "yo hago bien esto". Hay que convertirlo en algo que quede.
 
-Contenido con mi nombre.
-Participación que poseo.
-Un servicio que opero.
-Datos que tengo.
-Una comunidad que construí.
-Una marca acumulada.
-Un resultado atado a derechos.
+Contenido con mi nombre. Participación que poseo. Un servicio que opero. Datos que tengo. Una comunidad que construí. Una marca acumulada. Un resultado atado a derechos.
 
 Eso dura más que la capacidad. La ventaja momentánea no dura. Otros aprenden. La IA alcanza. Pero lo que convertiste en propiedad mientras ibas delante dura más.
 
@@ -95,23 +79,15 @@ En tiempos normales pueden verse parecidos. Pero cuando algo sale mal, aparece l
 
 Quien está en posición dependiente queda a merced de quien provee. Si le dan, recibe. Si reducen, se reduce. Si cortan, pierde. Esta diferencia no es solo tener más o menos dinero. El punto es si puedo hacer algo con mis manos.
 
-¿Estoy dentro de una estructura que entiendo?
-¿Tengo autoridad para decidir?
-¿Tengo derechos que quedan con mi nombre?
-¿Tengo opciones para moverme cuando llega el riesgo?
+¿Estoy dentro de una estructura que entiendo? ¿Tengo autoridad para decidir? ¿Tengo derechos que quedan con mi nombre? ¿Tengo opciones para moverme cuando llega el riesgo?
 
 En la era de la IA, lo importante no es convertirse en alguien protegido. Es moverse, si se puede, hacia la posición de quien manda.
 
 ## Piso firme, y sobre él moverse con audacia
 
-Entonces, ¿qué hacer? Primero hay que crear un piso firme. En la era de la IA, el cambio es rápido. No sabemos qué capacidad parecerá segura hoy y se volverá común en unos años.
+Entonces, ¿qué hacer? Primero hay que crear un piso firme. En la era de la IA, el cambio es rápido. No sabemos qué capacidad parecerá segura hoy y se volverá común en unos años. Por eso hace falta un piso que no se hunda con una sacudida.
 
-Por eso hace falta un piso que no se hunda con una sacudida.
-
-Fondo de emergencia.
-Menos deuda.
-Gastos fijos bajos.
-Una forma de vida que aguante si baja el ingreso por un tiempo.
+Fondo de emergencia. Menos deuda. Gastos fijos bajos. Una forma de vida que aguante si baja el ingreso por un tiempo.
 
 No es llamativo. Pero es importante. Sin piso, un solo fracaso puede terminarlo todo. Entonces no puedes intentar nada nuevo. Si no estás seguro, tampoco puedes ser audaz. Una vez firme el piso, encima hay que moverse con audacia.
 
@@ -121,19 +97,11 @@ Probar herramientas nuevas, crear proyectos pequeños, acumular contenido, exper
 
 No hace falta empezar de forma grandiosa. Esta semana basta decidir dos cosas. Primero, una acción para hacer más firme tu piso.
 
-Puede ser reducir deuda.
-Aumentar fondo de emergencia.
-Bajar gastos fijos.
-Aumentar el tiempo que puedes aguantar sin ingreso.
+Puede ser reducir deuda. Aumentar fondo de emergencia. Bajar gastos fijos. Aumentar el tiempo que puedes aguantar sin ingreso.
 
 Segundo, un resultado que convierta tu habilidad en propiedad.
 
-Publicar un texto.
-Crear un servicio pequeño.
-Acumular contenido con tu nombre.
-Ordenar datos que tienes.
-Revisar condiciones de certificación o licencia en tu campo.
-Buscar el camino hacia un puesto donde se aprueba y se responde.
+Publicar un texto. Crear un servicio pequeño. Acumular contenido con tu nombre. Ordenar datos que tienes. Revisar condiciones de certificación o licencia en tu campo. Buscar el camino hacia un puesto donde se aprueba y se responde.
 
 La clave es no dejar la habilidad solo como habilidad. Hay que convertirla en credencial, en un lugar responsable y en propiedad.
 
@@ -141,24 +109,14 @@ La clave es no dejar la habilidad solo como habilidad. Hay que convertirla en cr
 
 La conclusión de los textos anteriores se junta en un punto. La IA seguirá tomando lo que pueda tomar.
 
-Primero se reemplazan los trabajos con respuesta.
-También los trabajos repetitivos.
-El trabajo físico se reemplaza más despacio.
-El juicio y el tacto también se reemplazan.
-La autoridad de decisión se mueve poco a poco.
-Hasta la propiedad y los intereses entre humanos e IA se vuelven la última pregunta.
+Primero se reemplazan los trabajos con respuesta. También los trabajos repetitivos. El trabajo físico se reemplaza más despacio. El juicio y el tacto también se reemplazan. La autoridad de decisión se mueve poco a poco. Hasta la propiedad y los intereses entre humanos e IA se vuelven la última pregunta.
 
 Entonces la estrategia personal también debe cambiar. No basta con ser mejor. Claro que la habilidad hace falta. Pero la habilidad es el punto de partida. Lo que queda hasta el final no es la habilidad, sino la posición.
 
-Una posición conectada a certificación o licencia.
-Una posición donde se firma con responsabilidad.
-Una posición donde quedan derechos con mi nombre.
-Una posición donde lo que poseo produce flujo de caja.
-Una posición más cerca de poseer y controlar IA que de solo usarla.
+Una posición conectada a certificación o licencia. Una posición donde se firma con responsabilidad. Una posición donde quedan derechos con mi nombre. Una posición donde lo que poseo produce flujo de caja. Una posición más cerca de poseer y controlar IA que de solo usarla.
 
 Sobrevivir en la era de la IA no consiste en buscar eternamente lo que la IA no puede hacer. Consiste en construir algo que quede para mí aunque la IA lo haga. Por eso la última pregunta es esta.
 
 ¿En qué estoy convirtiendo mi habilidad ahora?
 
-¿Solo me estoy volviendo alguien que lo hace mejor?
-¿O me estoy moviendo hacia certificación, responsabilidad y propiedad?
+¿Solo me estoy volviendo alguien que lo hace mejor? ¿O me estoy moviendo hacia certificación, responsabilidad y propiedad?

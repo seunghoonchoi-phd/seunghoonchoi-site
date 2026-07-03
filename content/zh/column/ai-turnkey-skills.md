@@ -9,7 +9,6 @@ seoTitle: "AI 时代需要的 7 种能力，以及更重要的 EQ、信任和声
 image: /images/col-ai-turnkey-skills.png
 reviewStatus: "done"
 ---
-
 ![AI 研究助手插图](/images/col-ai-turnkey-skills.png)
 
 <p class="inline-image-caption">人工智能对思维过程的帮助越多，人类就越必须展示出检查和完成指定任务的能力。</p>

@@ -7,7 +7,6 @@ subtitle: "What this space is"
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![A hand writing in a notebook](/images/col-start.jpg)
 
 <p class="inline-image-caption">The writing outside the thesis explains what problems I am looking at rather than proving the research results.</p>

@@ -94,9 +94,7 @@ Por último, lo más sincero. Yo también quiero hablar mal de alguien a sus esp
 
 Primero reconozcámoslo: las ganas de hablar mal a espaldas no son un defecto. Son una habilidad social que el ser humano pulió durante mucho tiempo y tienen una función real. Compartir información sobre quién es de fiar y quién es peligroso. Crear, criticando juntos a alguien, el vínculo de "estamos del mismo lado". Soltar en palabras la emoción acumulada dentro. Por eso el consejo de "deja de hablar mal a espaldas" suele estar equivocado. Si lo reprimes, se acumula por dentro.
 
-El peligro es uno solo: que quien escucha aprenda "fíjate cómo despelleja a alguien que no está; cuando yo no esté, me tocará a mí". Pero hay un hecho decisivo. Este peligro vale cero o vale infinito según quién escuche. Así que la pregunta correcta no es "¿hablo mal a espaldas o no?". Es "¿delante de quién lo hago?".
-
-Por eso divido el canal en dos.
+El peligro es uno solo: que quien escucha aprenda "fíjate cómo despelleja a alguien que no está; cuando yo no esté, me tocará a mí". Pero hay un hecho decisivo. Este peligro vale cero o vale infinito según quién escuche. Así que la pregunta correcta no es "¿hablo mal a espaldas o no?". Es "¿delante de quién lo hago?". Por eso divido el canal en dos.
 
 Uno es la caja fuerte. Una minoría que nunca se fuga. Las condiciones son tres. Que sea alguien que conoce tus puntos débiles, de modo que si una parte lo suelta caigan las dos (si solo el otro tiene tu punto débil, eso no es una caja fuerte sino una bomba). Que sea alguien sin lazos sociales con el objeto de la maledicencia (las quejas del trabajo, a un amigo ajeno al trabajo). Y que tenga un historial pasado de haber guardado secretos. La pareja, un viejo amigo que vive lejos, alguien de fuera que está en la misma situación. Una o dos personas así son la caja fuerte. Aquí no hace falta aguantarse. Al contrario, hay que soltarlo a gusto. Es el conducto oficial para sacar la emoción de forma segura.
 

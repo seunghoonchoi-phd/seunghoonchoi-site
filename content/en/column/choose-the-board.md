@@ -44,13 +44,9 @@ Think about a meeting at work. Two new hires made similar proposals, but only on
 
 One small success leads to three more chances.
 
-This is compounding. Compounding does not attach only to money. It attaches to reputation, to connections, to opportunity. Better chances go to the person who produced a good result, and from those chances come more good results, and those results build the reputation again. Once it starts turning, the same amount of effort moves you faster and faster.
+This is compounding. Compounding does not attach only to money. It attaches to reputation, to connections, to opportunity. Better chances go to the person who produced a good result, and from those chances come more good results, and those results build the reputation again. Once it starts turning, the same amount of effort moves you faster and faster. The problem is that it does not turn this way everywhere.
 
-The problem is that it does not turn this way everywhere.
-
-In some positions, the result you achieved does not carry over to the next thing. It simply disappears where it stands. You do good work and no one sees it, or they see it and it does not connect to the next opportunity. The very same single success leads to three more chances in one place and ends with a single round of applause in another.
-
-This is the real reason results spread apart when ability is the same.
+In some positions, the result you achieved does not carry over to the next thing. It simply disappears where it stands. You do good work and no one sees it, or they see it and it does not connect to the next opportunity. The very same single success leads to three more chances in one place and ends with a single round of applause in another. This is the real reason results spread apart when ability is the same.
 
 ![Building Skill Alone Won't Widen Your Results. Choose Your Environment First.](/images/inline/column-choose-the-board.jpg)
 
@@ -58,9 +54,7 @@ This is the real reason results spread apart when ability is the same.
 
 ## Where Opportunity Is Blocked, Building Skill Pays Back Only That Much.
 
-This is why the common prescription so often comes up empty.
-
-When results are disappointing, the first answer we reach for is this. "I just need to get better." Read more books, learn more skills, pull more all-nighters. The effort itself is precious. The problem is when that effort goes into a position where opportunity is blocked. The skill you grew is still multiplied by a number close to zero.
+This is why the common prescription so often comes up empty. When results are disappointing, the first answer we reach for is this. "I just need to get better." Read more books, learn more skills, pull more all-nighters. The effort itself is precious. The problem is when that effort goes into a position where opportunity is blocked. The skill you grew is still multiplied by a number close to zero.
 
 Say your skill becomes 1.2 times what it was. In a position where opportunity is blocked, the result is exactly 1.2 times too. And only if you are lucky. But in a position where a small success sets up the next success, that same 1.2 times skill gets multiplied and compounded, and spreads out several times over as time passes.
 

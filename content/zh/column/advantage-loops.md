@@ -10,7 +10,6 @@ image: /images/col-advantage-loops.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![一长串弯曲排开的多米诺骨牌中，一块正倒下，朝着下一块倾斜](/images/col-advantage-loops.jpg)
 
 <p class="inline-image-caption">当你有记录和工具让下一步行动变得更容易时，小优势就会重复出现。</p>

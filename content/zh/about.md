@@ -2,7 +2,6 @@
 title: "关于"
 reviewStatus: "done"
 ---
-
 <figure class="about-portrait">
   <img src="/images/about-portrait.jpg" alt="崔胜勋" width="820" height="1093" loading="eager">
 </figure>

@@ -16,7 +16,6 @@ faq:
     a: "No basta con 'hacerla buena'. Hacen falta tres cosas. Alineación de objetivos (la supervivencia, la autonomía y la prosperidad de los humanos deben formar parte de los objetivos centrales de la AGI), control de capacidades (limitar el acceso a la autorreplicación, las finanzas, las armas, etc., para reducir el radio del daño) y límites verificables (entornos aislados, separación de permisos, registros de auditoría, verificación independiente). La obediencia no es un asunto de voluntad, sino de diseño."
 reviewStatus: "done"
 ---
-
 ![Sala de muros de piedra, piezas de ajedrez sobre el tablero bajo la luz que entra por la ventana](/images/col-why-would-agi-obey.jpg)
 
 <p class="inline-image-caption">Lo que es más aterrador en el debate sobre AGI no es la hostilidad, sino la posibilidad de que el sistema continúe funcionando incluso después de que ya no se necesiten seres humanos.</p>

@@ -10,7 +10,6 @@ image: /images/col-ai-native-org.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![A geometric building facade: what it means to rebuild an organization from the ground up](/images/col-ai-native-org.jpg)
 
 <p class="inline-image-caption">In an AI-native organization, the order in which work progresses from request to review to decision changes rather than a list of tools.</p>

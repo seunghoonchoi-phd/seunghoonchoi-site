@@ -54,9 +54,7 @@ El experto abandona sin dudar lo que no aporta directamente a la victoria de ese
 
 Cuanto menos tiene una persona, más se dispersa al intentar ganar en todos los frentes a la vez.
 
-Quien intenta agarrar al mismo tiempo el inglés, el ejercicio, los certificados y los contactos es justo así. Si repartes en porciones mínimas tu tiempo y tu fuerza limitados, no consigues una ventaja decisiva en ningún sitio. Acabas haciéndolo todo a medias.
-
-Por eso, cuando empiezo algo, no digo "vamos a hacerlo todo bien". Me pregunto esto:
+Quien intenta agarrar al mismo tiempo el inglés, el ejercicio, los certificados y los contactos es justo así. Si repartes en porciones mínimas tu tiempo y tu fuerza limitados, no consigues una ventaja decisiva en ningún sitio. Acabas haciéndolo todo a medias. Por eso, cuando empiezo algo, no digo "vamos a hacerlo todo bien". Me pregunto esto:
 
 ¿Cuál es el frente donde dentro de medio año voy a sacar el mayor beneficio? ¿Cuándo es el momento en que los demás están más débiles ahí? Para que mi fuerza llegue a ese único punto en su nivel máximo, ¿qué tengo que abandonar ahora?
 

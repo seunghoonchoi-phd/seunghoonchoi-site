@@ -2,7 +2,7 @@
 {{ $home := $p.Site.Home.RelPermalink }}
 {{ $cur := $p.RelPermalink }}
 <header class="topbar">
-  <a href="{{ "" | relLangURL }}" class="brand" aria-label="{{ .Site.Title }} — {{ i18n "home" }}">
+<a href="{{ "" | relLangURL }}" class="brand" aria-label="{{ .Site.Title }}, {{ i18n "home" }}">
     <svg class="brand__logo" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
       <g class="brand__ray">
         <polygon points="26,16 21,7.34 11,7.34 6,16 11,24.66 21,24.66"/>

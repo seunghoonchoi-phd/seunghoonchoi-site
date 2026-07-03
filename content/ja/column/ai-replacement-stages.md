@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 1
 reviewStatus: "done"
 ---
-
 ![AI雇用代替16段階の全体地図](/images/col-ai-replacement-stages.jpg)
 
 <p class="inline-image-caption">16段階のリストは予言ではなく、どの業務がどの条件で先に自動化されるかを比べるための基準表である。</p>

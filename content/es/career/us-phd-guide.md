@@ -32,7 +32,6 @@ Voy a empezar siendo honesto. Cuando decidí hacer el doctorado en Estados Unido
 
 ![Doctorado en Estados Unidos: puedes prepararlo por tu cuenta](/images/inline/career-us-phd-guide.jpg)
 
-
 No sabía cómo se escribe un Resume. Para el SOP, tuve que buscar primero qué era, hasta entender que se trata de una carta de presentación. Con qué criterio se eligen las universidades, cómo se busca a un profesor, qué hacer una vez que lo encuentras, y antes de todo eso, si yo siquiera reunía los requisitos para postular. Ni las preguntas me salían ordenadas. En internet había información de sobra, pero todo eran fragmentos. No existía en ninguna parte un mapa que mostrara, en una sola hoja, qué hacer, en qué orden y hasta dónde.
 
 Por eso pagué. En ese momento creía que no había otra opción que dejarlo en manos de alguien que conociera el camino.

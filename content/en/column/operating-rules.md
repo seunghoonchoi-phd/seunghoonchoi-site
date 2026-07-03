@@ -10,7 +10,6 @@ image: /images/col-operating-rules.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![An empty conference room in soft window light, chairs sitting at different angles around the table](/images/col-operating-rules.jpg)
 
 <p class="inline-image-caption">A proposal may fail in a meeting not because of its quality, but because it damaged someone's standing.</p>

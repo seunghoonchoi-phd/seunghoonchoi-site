@@ -44,9 +44,7 @@ Pensemos en una reunión de empresa. Dos personas recién contratadas hacen prop
 
 Un pequeño éxito lleva a tres oportunidades más.
 
-Esto es el interés compuesto. El interés compuesto no se suma solo al dinero. También a la reputación, a los contactos, a las oportunidades. A quien obtiene un buen resultado le llegan mejores oportunidades, de esas oportunidades salen más buenos resultados, y esos resultados vuelven a aumentar la reputación. Cuando esto empieza a girar, aunque pongas la misma fuerza, cada vez va más rápido.
-
-El problema es que esto no gira en todos los sitios.
+Esto es el interés compuesto. El interés compuesto no se suma solo al dinero. También a la reputación, a los contactos, a las oportunidades. A quien obtiene un buen resultado le llegan mejores oportunidades, de esas oportunidades salen más buenos resultados, y esos resultados vuelven a aumentar la reputación. Cuando esto empieza a girar, aunque pongas la misma fuerza, cada vez va más rápido. El problema es que esto no gira en todos los sitios.
 
 En algunos puestos, el resultado de una victoria no se conecta con el siguiente. Sencillamente desaparece ahí mismo. Haces un buen trabajo y nadie lo ve, y aunque lo vean, no se conecta con la siguiente oportunidad. Un mismo éxito, en un sitio lleva a tres oportunidades nuevas y en otro termina con un aplauso.
 
@@ -58,9 +56,7 @@ Aquí está la verdadera razón de que, con la misma capacidad, los resultados s
 
 ## En un sitio sin oportunidades, mejorar solo da para eso
 
-Por eso la receta de siempre suele fallar.
-
-Cuando el resultado es flojo, la primera respuesta que se nos ocurre es esta: "Si lo hago mejor, basta". Leemos más libros, aprendemos más técnicas, dormimos menos. El esfuerzo en sí es valioso. El problema es cuando ese esfuerzo cae en un sitio sin oportunidades. La habilidad que ha crecido se sigue multiplicando por un número cercano a cero.
+Por eso la receta de siempre suele fallar. Cuando el resultado es flojo, la primera respuesta que se nos ocurre es esta: "Si lo hago mejor, basta". Leemos más libros, aprendemos más técnicas, dormimos menos. El esfuerzo en sí es valioso. El problema es cuando ese esfuerzo cae en un sitio sin oportunidades. La habilidad que ha crecido se sigue multiplicando por un número cercano a cero.
 
 Supongamos que la habilidad pasa a ser 1,2 veces mayor. En un sitio sin oportunidades, el resultado es exactamente 1,2 veces. Y eso si hay suerte. En cambio, en un sitio donde un pequeño éxito es el capital del siguiente, esa misma habilidad de 1,2 veces, con el paso del tiempo, se extiende varias veces gracias a la multiplicación y al interés compuesto.
 

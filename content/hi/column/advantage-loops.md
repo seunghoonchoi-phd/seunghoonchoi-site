@@ -10,7 +10,6 @@ image: /images/col-advantage-loops.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![लंबी वक्र में खड़े डोमिनो में से एक गिरते हुए अगले टुकड़े की ओर झुकता हुआ](/images/col-advantage-loops.jpg)
 
 <p class="inline-image-caption">जब आपके पास अगले कदम को आसान बनाने के लिए रिकॉर्ड और उपकरण हों तो छोटे फायदे दोहराए जाते हैं।</p>

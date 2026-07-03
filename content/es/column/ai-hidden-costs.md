@@ -8,7 +8,6 @@ seoTitle: "Costes ocultos de la IA en la empresa: tokens, espejismo de la suscri
 image: /images/col-ai-hidden-costs.jpg
 reviewStatus: "done"
 ---
-
 ![Primer plano de la esfera de un viejo contador eléctrico analógico bajo una luz tenue](/images/col-ai-hidden-costs.jpg)
 
 <p class="inline-image-caption">El costo de la IA debería incluir no sólo las tarifas de uso sino también el tiempo humano para leer y editar los resultados.</p>
@@ -69,9 +68,7 @@ Pero "que el coste extra parezca cero" y "que el coste para la organización sea
 
 ## Usa la IA solo cuando lo que ganas es grande
 
-Por eso el lema "usemos IA en todas las decisiones", si lo decimos con franqueza, significa en realidad "sumemos un coste a cada decisión".
-
-Conviene tener un criterio. En este texto lo llamaré "el umbral para usar la IA". Es la línea que decide si una decisión debe usar IA o no. La regla es sencilla: usa la IA solo cuando lo que ganas al usarla es mayor que lo que pagas.
+Por eso el lema "usemos IA en todas las decisiones", si lo decimos con franqueza, significa en realidad "sumemos un coste a cada decisión". Conviene tener un criterio. En este texto lo llamaré "el umbral para usar la IA". Es la línea que decide si una decisión debe usar IA o no. La regla es sencilla: usa la IA solo cuando lo que ganas al usarla es mayor que lo que pagas.
 
 En el lado de lo que ganas entran la mejora de la calidad, la reducción del riesgo, el tiempo ahorrado y el valor de poder reutilizar el resultado más adelante. En el lado de lo que pagas entran los tokens, el tiempo de revisión, el retraso, el tiempo de preparación para explicar el contexto y la carga de seguridad.
 

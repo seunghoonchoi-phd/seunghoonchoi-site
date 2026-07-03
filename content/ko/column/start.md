@@ -7,7 +7,6 @@ subtitle: "이 공간은 뭐 하는 곳인가"
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![노트에 손으로 글을 쓰는 모습](/images/col-start.jpg)
 
 <p class="inline-image-caption">논문 밖의 글은 연구 성과를 증명하기보다, 내가 어떤 문제를 보고 있는지 설명한다.</p>

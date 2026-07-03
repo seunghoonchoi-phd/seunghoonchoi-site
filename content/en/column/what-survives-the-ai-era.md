@@ -9,7 +9,6 @@ description: "Even when AGI arrives, what's left for humans isn't an intelligenc
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![A craftsman carving wood by hand. The human realness AI can't fake](/images/col-ai-human-craft.jpg)
 
 <p class="inline-image-caption">Rather than compete directly with AI, people should take charge of organizing real-world inputs and making responsibility judgments that AI still cannot handle.</p>

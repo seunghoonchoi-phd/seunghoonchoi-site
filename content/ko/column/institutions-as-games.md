@@ -10,7 +10,6 @@ image: /images/col-institutions-as-games.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![동트기 전 상인이 오기 전 텅 빈 야외 시장 좌판들](/images/col-institutions-as-games.jpg)
 
 <p class="inline-image-caption">제도를 이해하려면 명칭보다, 그 제도 안에서 어떤 행동을 한 사람이 보상을 받는지 확인해야 한다.</p>

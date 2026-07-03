@@ -10,7 +10,6 @@ image: /images/col-reading-people.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Dos personas conversan con gestos a ambos lados de una mesa bajo una luz cálida](/images/col-reading-people.jpg)
 
 <p class="inline-image-caption">Aunque la lógica sea correcta, la persuasión puede detenerse de inmediato si la propuesta aumenta las pérdidas o el problema de imagen de la otra persona.</p>

@@ -9,9 +9,7 @@ journal: "International Journal of Advanced Smart Convergence"
 pubyear: 2026
 reviewStatus: "done"
 ---
-
 ![在植物叶片上记录电信号的章鱼仿生水凝胶黏附贴片](/images/plant-hydrogel-electrode.jpg)
-
 
 这是一篇共同第一作者论文。研究将水凝胶与章鱼仿生黏附结构结合为一体的贴片（H-OIA），并为其设计了硅胶界面，使其即便在粗糙、含水量不断变化的叶片表面也能紧密贴合。在咖啡树（*Coffea arabica*）叶片上，即使在常规电极会脱落的条件下，它也能稳定、长期地记录随刺激而响应的植物电信号。
 

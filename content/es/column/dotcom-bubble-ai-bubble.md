@@ -9,7 +9,6 @@ seoTitle: "Burbuja puntocom e IA: qué se parece y qué cambia"
 image: /images/col-dotcom-bubble-ai-bubble.png
 reviewStatus: "done"
 ---
-
 ![Un gráfico del Nasdaq Composite subiendo y cayendo alrededor de la burbuja puntocom entre 1994 y 2005](/images/col-dotcom-bubble-ai-bubble.png)
 
 <p class="inline-image-caption">Cuando los gráficos se disparan, es necesario ver si la gente está empezando a gastar más en historias futuras que en desempeño.</p>

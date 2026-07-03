@@ -9,7 +9,6 @@ seoTitle: "The Full Text of KAIST Professor Joungho Kim's AI Constitution"
 image: /images/col-kim-joungho-ai-constitution.jpg
 reviewStatus: "done"
 ---
-
 ![Server racks in a server room, suggesting the electricity and control behind AI systems](/images/col-kim-joungho-ai-constitution.jpg)
 
 <p class="inline-image-caption">The constitutional format does not leave AI discussions in the form of abstract slogans, but divides them into responsibilities and powers for each article.</p>

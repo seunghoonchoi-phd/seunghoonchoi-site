@@ -9,7 +9,6 @@ subtitle: "오래 남는 사람은 더 열심히 일하는 사람이 아니라, 
 seoTitle: "노력이 쌓이지 않는 이유: 시간 말고 다시 쓸 수 있는 결과물을 남겨라"
 image: /images/col-value-conversion.jpg
 ---
-
 ![작업장에서 완성된 나무 의자를 든 장인의 손, 따뜻한 측광](/images/col-value-conversion.jpg)
 
 <p class="inline-image-caption">시간은 팔고 나면 다시 쓰기 어렵지만, 결과물은 남겨 두면 다른 사람이 다음 기회에서 다시 사용할 수 있다.</p>

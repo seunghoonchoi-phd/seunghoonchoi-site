@@ -9,7 +9,6 @@ seoTitle: "Texto completo de la Constitución de la IA del profesor Joungho Kim 
 image: /images/col-kim-joungho-ai-constitution.jpg
 reviewStatus: "done"
 ---
-
 ![Filas de servidores en una sala técnica, una imagen que recuerda la electricidad y el control detrás de la IA](/images/col-kim-joungho-ai-constitution.jpg)
 
 <p class="inline-image-caption">El formato constitucional no deja los debates de AI en forma de lemas abstractos, sino que los divide en responsabilidades y poderes para cada artículo.</p>

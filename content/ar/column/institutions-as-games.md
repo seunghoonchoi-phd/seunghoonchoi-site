@@ -10,7 +10,6 @@ image: /images/col-institutions-as-games.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![بسطات سوق مكشوفة فارغة قبل الفجر، قبل وصول الباعة](/images/col-institutions-as-games.jpg)
 
 <p class="inline-image-caption">لفهم مؤسسة ما، لا يكفي النظر إلى اسمها؛ يجب التحقق من الأفعال التي يُكافأ عليها الناس داخلها.</p>

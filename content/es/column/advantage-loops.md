@@ -10,7 +10,6 @@ image: /images/col-advantage-loops.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Una larga fila de fichas de dominó en curva, donde una cae e inclina hacia la siguiente](/images/col-advantage-loops.jpg)
 
 <p class="inline-image-caption">Las pequeñas ventajas se repiten cuando se dispone de registros y herramientas para facilitar el siguiente paso.</p>

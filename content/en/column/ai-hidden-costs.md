@@ -8,7 +8,6 @@ seoTitle: "Hidden Costs of Company AI: Tokens, the Subscription Illusion, and th
 image: /images/col-ai-hidden-costs.jpg
 reviewStatus: "done"
 ---
-
 ![Close-up of an old analog electricity meter dial shot in dim light](/images/col-ai-hidden-costs.jpg)
 
 <p class="inline-image-caption">The cost of AI should include not only usage fees but also human time to read and edit the results.</p>
@@ -55,9 +54,7 @@ Fifth, talking about "I used a ton of AI" as if it were an achievement. Using a 
 
 At first it encourages use. Everyone, give it a try; fall behind if you do not. Then usage explodes. A while later the bill arrives and there is a jolt. From that point the company starts looking at who spends how much, by team, by person, by task.
 
-Next come the rules. Cheap model for this, in house model for that, sign off required for yet another. Finally it looks at outcomes: did spending those tokens actually make the work better? The question changes. From the early "is this really work?" to the later "is this a reasonable use?"
-
-In the end the pardon shifts from "was it work related" to "was it spent somewhere worthwhile."
+Next come the rules. Cheap model for this, in house model for that, sign off required for yet another. Finally it looks at outcomes: did spending those tokens actually make the work better? The question changes. From the early "is this really work?" to the later "is this a reasonable use?" In the end the pardon shifts from "was it work related" to "was it spent somewhere worthwhile."
 
 ## The cost moved onto people's time
 
@@ -69,9 +66,7 @@ Where did it go? First, it moved into the per seat subscription fee. Then it sca
 
 ## Use AI only when the payoff is big
 
-So the slogan "let's use AI for every decision," spelled out honestly, becomes "let's add a cost to every decision."
-
-It would help to keep one rule. In this piece I will call it the AI intervention threshold. It is the line that decides whether a given decision should use AI or not. The rule is simple. Use AI only when what you gain from it outweighs what you pay.
+So the slogan "let's use AI for every decision," spelled out honestly, becomes "let's add a cost to every decision." It would help to keep one rule. In this piece I will call it the AI intervention threshold. It is the line that decides whether a given decision should use AI or not. The rule is simple. Use AI only when what you gain from it outweighs what you pay.
 
 On the gain side: better quality, lower risk, time saved, value you can reuse again and again. On the cost side: tokens, verification time, delay, the prep time to explain the situation, the security burden.
 

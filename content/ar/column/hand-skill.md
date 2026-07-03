@@ -10,7 +10,6 @@ image: /images/col-hand-skill.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![أدوات يدوية بالية مرتّبة بعناية على طاولة عمل](/images/col-hand-skill.jpg)
 
 <p class="inline-image-caption">المهارة اليدوية هي قدرة العامل على التعرف على الإشارات الصغيرة للتغيرات في المواد بدلاً من حركات اليد السريعة.</p>

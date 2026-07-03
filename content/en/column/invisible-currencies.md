@@ -25,9 +25,7 @@ There is a line that comes up most often in interviews. The candidate says they 
 
 The problem is that anyone can say it. Ten applicants all say similar things. From the interviewer's side, that alone tells them nothing. These statements are different.
 
-Saying what problem you solved in a past project and how, where the result is published, what a coworker recommended you for, and how the actual numbers changed. This is not simple self-praise. It is a confirmable claim. Words cost nothing. Evidence costs something.
-
-That is why people do not easily believe words, but they believe evidence.
+Saying what problem you solved in a past project and how, where the result is published, what a coworker recommended you for, and how the actual numbers changed. This is not simple self-praise. It is a confirmable claim. Words cost nothing. Evidence costs something. That is why people do not easily believe words, but they believe evidence.
 
 ## Trust and reputation also decide opportunity
 
@@ -65,11 +63,7 @@ People are not only searching for capable people. They are searching for less ri
 
 This does not mean you should inflate skill you do not have. It is the opposite. If you have real skill, you should leave it in a form others can confirm.
 
-If you did good work, leave a record.  
-If you solved a problem, organize the process and the result.  
-If you finished a project, publish the output.  
-If the people you worked with were satisfied, get a recommendation.  
-If there was a result, leave it as a number.
+If you did good work, leave a record. If you solved a problem, organize the process and the result. If you finished a project, publish the output. If the people you worked with were satisfied, get a recommendation. If there was a result, leave it as a number.
 
 Having good skill and leaving no record at all is a loss to you. That is not humility; it is removing the chance for others to recognize you. Skill, too, has to be shown first in a form others can confirm.
 
@@ -79,11 +73,7 @@ There is also something to be careful about here. Building reputation does not m
 
 Trust is hard to build and lost in an instant. That is why reputation that lasts has to be based on fact.
 
-Keep your promises.  
-Finish the work.  
-Do not hide mistakes.  
-Do not pretend to know what you do not know.  
-Leave results others can confirm.
+Keep your promises. Finish the work. Do not hide mistakes. Do not pretend to know what you do not know. Leave results others can confirm.
 
 When these things repeat, trust accumulates. Reputation is not made with words. It is made from the record that repeated actions leave behind.
 
@@ -93,11 +83,7 @@ Building only skill is not enough. Building only evidence does not last either. 
 
 If you have no skill and only dress up the surface, it is exposed quickly. On the other hand, if you have skill but no evidence, you are not properly recognized. So the important questions in a career are these.
 
-What am I good at?  
-How can others confirm that skill?  
-Where are the results I produced left behind?  
-Who can trust me and recommend me?  
-Does a stranger have a reason to choose me?
+What am I good at? How can others confirm that skill? Where are the results I produced left behind? Who can trust me and recommend me? Does a stranger have a reason to choose me?
 
 If there are no answers to these questions, you are rated low even with skill. Verified skill is recognized more. That is because it is not simple ability, but evidence that reduces the other person's unease.
 
@@ -105,16 +91,11 @@ If there are no answers to these questions, you are rated low even with skill. V
 
 Everyone knows how to save money. Spend less, earn more, and keep the rest. But trust and reputation can also be built.
 
-Each time you keep a promise, trust accumulates.  
-Each time you publish finished work, verified skill accumulates.  
-Each time you keep a good relationship going for a long time, access accumulates.  
-Each time someone trusts you and introduces you, reputation accumulates.
+Each time you keep a promise, trust accumulates. Each time you publish finished work, verified skill accumulates. Each time you keep a good relationship going for a long time, access accumulates. Each time someone trusts you and introduces you, reputation accumulates.
 
 These do not show up in a bank account right away. But at some point they lead to opportunity before money does. Good opportunities do not come to everyone who has skill.
 
-They come to people who are visible.  
-They come to people who can be trusted.  
-They come to people who are verified.
+They come to people who are visible. They come to people who can be trusted. They come to people who are verified.
 
 So let us not build only skill. We have to make our skill something others can confirm. There is no need to keep repeating that you are good. Instead, leave evidence that you did good work.
 

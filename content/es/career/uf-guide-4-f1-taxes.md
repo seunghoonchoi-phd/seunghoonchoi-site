@@ -9,9 +9,7 @@ subtitle: "0 % de impuesto estatal sobre la renta en Florida, exención de $2,00
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Formularios de impuestos de Estados Unidos con un bolígrafo](/images/uf4-taxes.jpg)
-
 
 Cuando ya tienes la admisión al posgrado en Estados Unidos y la mudanza más o menos resuelta, queda un tema que casi todos encuentran confuso: los impuestos. Para un estudiante F-1, las reglas son distintas a las de un ciudadano o residente permanente, y esas diferencias suelen jugar a favor del estudiante internacional. Este artículo resume solo lo esencial. Ten en cuenta que las leyes y las normas fiscales cambian a menudo, así que antes de hacer cualquier trámite confírmalo una vez más con la UFIC y con un profesional en impuestos.
 
@@ -33,7 +31,6 @@ Para un estudiante F-1 que llega de Corea a Estados Unidos, el tratado fiscal Co
 
 ![Impuestos básicos para estudiantes internacionales en Estados Unidos: extranjero no residente F-1 durante 5 años, exención de FICA y tratado fiscal Corea-Estados Unidos (Parte 4)](/images/inline/career-uf-guide-4-f1-taxes.jpg)
 
-
 ## Formularios y fechas límite
 
 Qué formularios debes presentar depende de si tienes ingresos o no. Lo resumo en la siguiente tabla.
@@ -51,7 +48,6 @@ Qué formularios debes presentar depende de si tienes ingresos o no. Lo resumo e
 En resumen, los impuestos de un estudiante F-1 caben en una sola línea: "extranjero no residente durante 5 años → exención de FICA + 0 % de impuesto estatal en Florida + exención de $2,000 por el artículo 21 del tratado → formulario 8843 (todos) y 1040-NR (si tienes ingresos) → fecha límite 15 de abril o 15 de junio". Con solo tener claro este esquema, pasarás tu primera temporada de declaración mucho más tranquilo.
 
 La guía que profundiza en los impuestos de Estados Unidos y en la perspectiva del Enrolled Agent (EA) continúa en el siguiente artículo.
-
 
 ---
 

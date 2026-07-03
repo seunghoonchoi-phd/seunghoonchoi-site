@@ -10,7 +10,6 @@ image: /images/col-operating-rules.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![窓際からやわらかい光が差し込む空っぽの会議室、テーブルのまわりに椅子がそれぞれ違う角度で置かれている](/images/col-operating-rules.jpg)
 
 <p class="inline-image-caption">会議で提案が採用されない理由は、内容の品質より、その提案が誰かの面子を傷つけたからかもしれない。</p>

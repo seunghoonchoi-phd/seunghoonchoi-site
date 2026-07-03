@@ -10,7 +10,6 @@ image: /images/col-reading-people.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![따뜻한 조명 아래 테이블을 사이에 두고 손짓하며 대화하는 두 사람](/images/col-reading-people.jpg)
 
 <p class="inline-image-caption">논리가 맞아도 제안이 상대의 손해와 체면 문제를 키우면 설득은 바로 멈출 수 있다.</p>

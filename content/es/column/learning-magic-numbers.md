@@ -9,7 +9,6 @@ seoTitle: "Los números mágicos para aprender un campo nuevo: 3·7·30·100"
 image: /images/col-learning-magic-numbers.jpg
 reviewStatus: "done"
 ---
-
 ![Una persona al atardecer, parada en un cruce urbano mirando tres caminos](/images/col-learning-magic-numbers.jpg)
 
 <p class="inline-image-caption">La sensación de un nuevo campo proviene no sólo de la cantidad de ejemplos, sino también de la comparación de las diferencias entre diferentes ejemplos.</p>

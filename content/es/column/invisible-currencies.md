@@ -25,9 +25,7 @@ En una entrevista hay una frase que se repite sin parar. La persona dice que dom
 
 El problema es que cualquiera puede decirlo. Diez candidatos usan frases parecidas. Desde el lado del entrevistador, esas palabras no permiten juzgar nada. En cambio, otra clase de frase sí es distinta.
 
-Contar qué problema resolviste en un proyecto anterior y cómo lo hiciste, dónde está publicado el resultado, qué recomendó alguien que trabajó contigo, cómo cambió un número real. Eso no es simple presunción. Es una afirmación verificable. Las palabras no cuestan nada. La evidencia sí cuesta.
-
-Por eso el mercado no confía mucho en las palabras, pero sí confía en la evidencia.
+Contar qué problema resolviste en un proyecto anterior y cómo lo hiciste, dónde está publicado el resultado, qué recomendó alguien que trabajó contigo, cómo cambió un número real. Eso no es simple presunción. Es una afirmación verificable. Las palabras no cuestan nada. La evidencia sí cuesta. Por eso el mercado no confía mucho en las palabras, pero sí confía en la evidencia.
 
 ## La confianza y la reputación también deciden las oportunidades
 
@@ -65,11 +63,7 @@ La gente no busca solo a las personas capaces. Busca a las personas menos arries
 
 Esto no significa exagerar una habilidad que no existe. Es lo contrario. Si tienes habilidad real, debes dejarla en una forma que otros puedan comprobar.
 
-Si hiciste bien un trabajo, déjalo registrado.  
-Si resolviste un problema, ordena el proceso y el resultado.  
-Si terminaste un proyecto, publica el resultado.  
-Si alguien quedó satisfecho trabajando contigo, pide una recomendación.  
-Si hubo resultados, déjalos en números.
+Si hiciste bien un trabajo, déjalo registrado. Si resolviste un problema, ordena el proceso y el resultado. Si terminaste un proyecto, publica el resultado. Si alguien quedó satisfecho trabajando contigo, pide una recomendación. Si hubo resultados, déjalos en números.
 
 Tener buena habilidad y no dejar ningún registro es una pérdida. Eso no es humildad; es quitarte tú mismo la ocasión de que otros te reconozcan. La habilidad también hay que mostrarla primero en una forma que otros puedan comprobar.
 
@@ -79,11 +73,7 @@ Aquí también hay que tener cuidado. Construir reputación no significa fabrica
 
 La confianza cuesta mucho construirla y se pierde en un instante. Por eso la reputación que dura debe apoyarse en hechos.
 
-Cumplir las promesas.  
-Terminar los trabajos.  
-No esconder los errores.  
-No fingir que sabes lo que no sabes.  
-Dejar resultados que otros puedan comprobar.
+Cumplir las promesas. Terminar los trabajos. No esconder los errores. No fingir que sabes lo que no sabes. Dejar resultados que otros puedan comprobar.
 
 Cuando esto se repite, se acumula confianza. La reputación no se crea con palabras, sino con el registro que dejan las acciones repetidas.
 
@@ -93,11 +83,7 @@ Solo desarrollar la habilidad no basta. Solo desarrollar la evidencia tampoco du
 
 Si no hay habilidad y solo se cuida la apariencia, se descubre enseguida. Al contrario, si hay habilidad pero no hay evidencia, no se reconoce como debería. Por eso, en una carrera, la pregunta importante es esta.
 
-¿Qué sé hacer bien?  
-¿Cómo puede comprobarlo otra persona?  
-¿Dónde quedaron los resultados que hice?  
-¿Quién puede confiar en mí y recomendarme?  
-¿Qué razón tiene alguien que me ve por primera vez para elegirme?
+¿Qué sé hacer bien? ¿Cómo puede comprobarlo otra persona? ¿Dónde quedaron los resultados que hice? ¿Quién puede confiar en mí y recomendarme? ¿Qué razón tiene alguien que me ve por primera vez para elegirme?
 
 Si no hay respuesta a estas preguntas, la habilidad, aunque exista, se valora poco. La habilidad verificada se reconoce más, porque no es solo capacidad, sino una base que reduce la inquietud de la otra parte.
 
@@ -105,16 +91,11 @@ Si no hay respuesta a estas preguntas, la habilidad, aunque exista, se valora po
 
 Todo el mundo sabe cómo juntar dinero. Gastar poco, ganar mucho y dejar algo. Pues bien, la confianza y la reputación también se pueden acumular.
 
-Cada vez que cumples una promesa, se acumula confianza.  
-Cada vez que publicas un trabajo terminado, se acumula habilidad verificada.  
-Cada vez que mantienes una buena relación a lo largo del tiempo, se acumula acceso.  
-Cada vez que alguien te presenta con confianza, se acumula reputación.
+Cada vez que cumples una promesa, se acumula confianza. Cada vez que publicas un trabajo terminado, se acumula habilidad verificada. Cada vez que mantienes una buena relación a lo largo del tiempo, se acumula acceso. Cada vez que alguien te presenta con confianza, se acumula reputación.
 
 Estas cosas no quedan registradas de inmediato en la cuenta bancaria. Pero, en algún momento, llevan a una oportunidad antes incluso que el dinero. Las buenas oportunidades no llegan a todas las personas capaces.
 
-Llegan a quien se ve.  
-Llegan a quien resulta confiable.  
-Llegan a quien está verificado.
+Llegan a quien se ve. Llegan a quien resulta confiable. Llegan a quien está verificado.
 
 Así que no desarrolles solo la habilidad. Hay que hacer que los demás puedan comprobarla. No hace falta repetir que eres bueno. Basta con dejar la evidencia de que lo hiciste bien.
 

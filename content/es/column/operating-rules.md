@@ -10,7 +10,6 @@ image: /images/col-operating-rules.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Una sala de reuniones vacía con luz suave entrando por la ventana; alrededor de la mesa, las sillas están colocadas cada una en un ángulo distinto](/images/col-operating-rules.jpg)
 
 <p class="inline-image-caption">Una propuesta puede no ser aceptada en una reunión no por su calidad, sino porque dañó la imagen de alguien.</p>

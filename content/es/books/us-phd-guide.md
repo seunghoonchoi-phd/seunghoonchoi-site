@@ -18,7 +18,6 @@ reviewStatus: "done"
   </div>
 </div>
 
-
 Empecé con un puntaje de TOEFL de cero. Mientras trabajaba, sin nadie cerca que ya hubiera recorrido ese camino, me preparé solo durante 18 meses. Y conseguí entrar al doctorado en Ciencia de Materiales de la Universidad de Florida (UF), en Estados Unidos, con financiación completa, y obtuve también la visa F-1.
 
 Este libro es un registro de ese proceso ordenado paso a paso, sin adornarlo. No es un relato de éxito, sino más bien un mapa que la siguiente persona puede seguir tal cual.

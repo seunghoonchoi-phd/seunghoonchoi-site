@@ -9,7 +9,6 @@ reviewStatus: "done"
 ---
 ![《미국 박사 유학, 혼자 준비해도 됩니다》 표지](/images/book-us-phd-guide.jpg)
 
-
 최승훈 지음 · 벨루닉스 펴냄 · 2026년 6월
 
 eBook(ePUB) · 16,000원

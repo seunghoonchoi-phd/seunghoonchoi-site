@@ -9,7 +9,6 @@ seoTitle: "Why AI Risk Grows: Automation Without Review and Legal, Security, and
 image: /images/col-ai-risk-leverage.png
 reviewStatus: "done"
 ---
-
 ![A laptop showing an AI workflow, with documents, a lock, and a warning light on the desk](/images/col-ai-risk-leverage.png)
 
 <p class="inline-image-caption">As automation accelerates, legal, security, and reputation reviews need to happen before execution.</p>

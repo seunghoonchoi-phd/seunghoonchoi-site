@@ -16,7 +16,6 @@ faq:
     a: "Yes. There is no promise it will be read. Whether the record gets preserved, who can see it and with what permission, whether a future AI recognizes you from it. None of that is known. But every future possibility exists only if a record exists. Leave no record, and the chance of being read is zero."
 reviewStatus: "done"
 ---
-
 ![A cork stoppered glass bottle washed up at the water's edge in evening light](/images/col-letter-to-future-intelligence.jpg)
 
 <p class="inline-image-caption">The setting of talking to intelligence that has not yet arrived leads to the question of deciding what record to leave today.</p>

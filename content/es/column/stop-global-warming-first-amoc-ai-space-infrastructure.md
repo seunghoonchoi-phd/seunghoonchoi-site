@@ -25,13 +25,9 @@ AMOC significa Atlantic Meridional Overturning Circulation, o circulación merid
 
 El agua cálida se mueve hacia el norte por la superficie del Atlántico. Cuando llega al Atlántico Norte, se enfría, se vuelve más salada y se hace más pesada. Esa agua pesada se hunde. Luego el agua profunda vuelve hacia el sur.
 
-Ese patrón de corrientes es AMOC. Afecta el clima de Europa, las lluvias tropicales, el nivel del mar, las pesquerías y también la capacidad del océano para absorber carbono. [NOAA](https://oceanservice.noaa.gov/facts/amoc.html) describe AMOC como el sistema de corrientes del Atlántico que mueve agua cálida hacia el norte y agua fría hacia el sur.
+Ese patrón de corrientes es AMOC. Afecta el clima de Europa, las lluvias tropicales, el nivel del mar, las pesquerías y también la capacidad del océano para absorber carbono. [NOAA](https://oceanservice.noaa.gov/facts/amoc.html) describe AMOC como el sistema de corrientes del Atlántico que mueve agua cálida hacia el norte y agua fría hacia el sur. El problema es que esa circulación puede debilitarse.
 
-El problema es que esa circulación puede debilitarse.
-
-Para que el agua se hunda bien en el Atlántico Norte, importan dos condiciones. Tiene que estar fría y tiene que ser lo bastante salada. El calentamiento global golpea las dos. El océano se calienta, mientras el deshielo de Groenlandia y del Ártico agrega agua dulce. El agua dulce tiene menos sal. El agua superficial se vuelve menos salada y menos pesada. Entonces se debilita la fuerza que la hace hundirse.
-
-El flujo descendente en el Atlántico Norte empieza a debilitarse.
+Para que el agua se hunda bien en el Atlántico Norte, importan dos condiciones. Tiene que estar fría y tiene que ser lo bastante salada. El calentamiento global golpea las dos. El océano se calienta, mientras el deshielo de Groenlandia y del Ártico agrega agua dulce. El agua dulce tiene menos sal. Cuando el agua superficial se vuelve menos salada y menos pesada, se debilita el flujo descendente en el Atlántico Norte.
 
 ## El Ártico no es el destino, es un interruptor
 
@@ -41,9 +37,7 @@ El hielo blanco refleja mucha luz solar. El océano oscuro la absorbe. Cuando el
 
 [NASA](https://science.nasa.gov/earth/earth-observatory/arctic-amplification-81214/) explica que cuando disminuye el hielo marino del Ártico, la superficie terrestre absorbe más luz solar. No es una idea abstracta sobre un futuro lejano. Es física que ya está en marcha. Cuando desaparece la cubierta blanca, la Tierra absorbe más calor.
 
-Por eso importa el verano ártico. En invierno casi no hay luz solar que bloquear. La ventana importante va de finales de primavera al verano, cuando se derrite el hielo marino y se derrite la superficie de Groenlandia. Si logramos reducir aunque sea un poco el calor que entra en ese periodo, podemos frenar el calor y el agua dulce que llegan al Atlántico Norte.
-
-El objetivo es simple: retrasar el ritmo al que AMOC se debilita.
+Por eso importa el verano ártico. En invierno casi no hay luz solar que bloquear. La ventana importante va de finales de primavera al verano, cuando se derrite el hielo marino y se derrite la superficie de Groenlandia. Si logramos reducir aunque sea un poco el calor que entra en ese periodo, podemos frenar el calor y el agua dulce que llegan al Atlántico Norte. El objetivo es simple: retrasar el ritmo al que AMOC se debilita.
 
 ## Una sombrilla espacial es una respuesta climática temporal
 

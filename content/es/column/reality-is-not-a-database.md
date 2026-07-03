@@ -18,7 +18,6 @@ faq:
   - q: "¿Por qué es importante el empleo humano en la crisis climática y la transición energética?"
     a: "La crisis climática y la transición energética no son solo problemas de cálculo, sino de cambio de sistemas. Redes eléctricas, plantas, baterías, regulación, operación en campo, negociación con comunidades y seguridad se vuelven reales a través de organizaciones humanas."
 ---
-
 ![Un ingeniero mirando una ciudad y su infraestructura energética al amanecer](/images/col-reality-is-not-a-database.jpg)
 
 <p class="inline-image-caption">La razón por la que la IA parece rápida no es porque resuelve todo el problema, sino porque procesa rápidamente la parte con datos organizados.</p>

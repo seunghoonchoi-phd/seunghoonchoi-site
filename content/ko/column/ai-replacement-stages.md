@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 1
 reviewStatus: "done"
 ---
-
 ![AI 일자리 대체 16단계 전체 지도](/images/col-ai-replacement-stages.jpg)
 
 <p class="inline-image-caption">16단계 목록은 예언이 아니라, 어떤 업무가 어떤 조건에서 먼저 자동화될지 비교하기 위한 기준표다.</p>

@@ -9,7 +9,6 @@ description: "12 rules for surviving the age of AI. Don't try to be smarter than
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![A foggy uphill road, the long game you hold with one rule at a time](/images/col-agi-strategy.jpg)
 
 <p class="inline-image-caption">In the AGI era, you need to keep leaving results that others can check, rather than just saying something that looks smart.</p>

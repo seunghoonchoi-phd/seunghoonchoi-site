@@ -8,9 +8,7 @@ tags: ["Study Abroad","Rent","AutoPay","U.S. Bank Account","ACH","Student Life"]
 subtitle: "I tried to set up AutoPay before I'd even moved in, and figured out it was better not to."
 seoTitle: "Rent AutoPay for International Students: What to Watch Out for Without a U.S. Bank Account"
 ---
-
 ![A fan of U.S. twenty-dollar bills](/images/uf-rent-autopay.jpg)
-
 
 I'd just signed the lease on my apartment in the U.S. Move-in was still more than a month out, but I wanted to get rent AutoPay set up early. If I ever forgot a payment, I'd get hit with a late fee, so handling it ahead of time felt like one less thing to worry about. Then I hit the payment screen and stopped cold. Here's what I figured out. If you're like me and thinking "let me just set up AutoPay before I move in," this should help.
 
@@ -30,7 +28,6 @@ But before you fly out, if you don't have a U.S. bank account yet, you can't use
 A Korean card makes it worse. On top of the processing fee, you stack a foreign transaction fee and the exchange-rate loss from converting won to dollars, plus there's the risk that your card company flags a recurring overseas charge as fraud and blocks it. If the payment gets blocked, it counts as a missed payment, and you can end up paying a declined-transaction fee (often around $40) plus the late fee. AutoPay, the thing you set up to make life easier, ends up quietly increasing your costs.
 
 ![Setting Up Rent AutoPay for U.S. Grad School? Don't Use a Card Without a U.S. Bank Account](/images/inline/career-us-rent-autopay.jpg)
-
 
 ## The Right Order
 

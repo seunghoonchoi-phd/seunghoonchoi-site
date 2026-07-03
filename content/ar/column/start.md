@@ -7,7 +7,6 @@ subtitle: "ما الغرض من هذا المكان"
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![شخص يكتب بخط اليد في دفتر](/images/col-start.jpg)
 
 <p class="inline-image-caption">توضح الكتابة خارج الأطروحة المشكلات التي أبحث عنها بدلاً من إثبات نتائج البحث.</p>

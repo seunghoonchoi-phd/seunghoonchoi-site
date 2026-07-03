@@ -8,7 +8,6 @@ seoTitle: "AI 많이 쓰는 회사가 왜 더 느려질까: 토큰보다 비싼 
 image: /images/col-ai-hidden-costs.jpg
 reviewStatus: "done"
 ---
-
 ![어두운 빛 속에서 클로즈업으로 찍은 오래된 아날로그 전기 계량기 다이얼](/images/col-ai-hidden-costs.jpg)
 
 <p class="inline-image-caption">AI 비용은 사용료뿐 아니라 결과를 읽고 고치는 사람의 시간까지 포함해야 한다.</p>

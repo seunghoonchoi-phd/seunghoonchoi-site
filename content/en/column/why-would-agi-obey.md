@@ -16,7 +16,6 @@ faq:
     a: "'Making it nice' isn't enough. You need three things. Goal alignment: human survival, autonomy, and flourishing have to sit inside the AGI's core goal. Capability control: limit access to self-replication, finance, weapons, and so on to shrink the blast radius. Verifiable limits: sandboxing, permission separation, audit logs, independent verification. Obedience is a matter of design, not will."
 reviewStatus: "done"
 ---
-
 ![Chess pieces set out on a board in a stone-walled room, under light from a window](/images/col-why-would-agi-obey.jpg)
 
 <p class="inline-image-caption">What is scarier in the AGI debate is not the hostility, but the possibility that the system may continue to operate even after humans are no longer needed.</p>

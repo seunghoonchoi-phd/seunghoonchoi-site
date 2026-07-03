@@ -7,7 +7,6 @@ subtitle: "ここは何をする場所なのか"
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![ノートに手で文章を書いている様子](/images/col-start.jpg)
 
 <p class="inline-image-caption">論文の外で書く文章は、研究成果を証明するより、自分がどの問題を見ているかを説明する。</p>

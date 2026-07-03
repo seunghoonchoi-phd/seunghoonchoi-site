@@ -9,9 +9,7 @@ subtitle: "Del móvil al banco, el SSN, la licencia de Florida (reconocimiento m
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Cajas de mudanza y maletas en un lugar nuevo](/images/uf3-arrival.jpg)
-
 
 Si ya llegaste a tu posgrado en Estados Unidos, lo difícil quedó atrás: la visa, la vivienda y las cuentas. Lo que sigue son los trámites administrativos que hacen funcionar tu día a día. Si los haces en mal orden, cada paso siguiente se retrasa uno tras otro. Sin móvil, abrir una cuenta de banco es engorroso; sin banco, no consigues tarjeta; sin SSN, se retrasan la licencia y la construcción de tu crédito. Por eso este artículo, basado en la experiencia de instalarse en la University of Florida (UF), sigue tal cual el orden móvil → banco → SSN → licencia de conducir de Florida → construir crédito, y explica qué llevar y qué cuidar en cada paso.
 
@@ -42,7 +40,6 @@ Cuando ya tengas un número estadounidense, lo siguiente es el banco. Aunque tod
 - El criterio para elegir es simple. Decídete por cuántas sucursales y cajeros automáticos hay cerca del campus; eso es lo más cómodo en el día a día.
 
 ![Guía para instalarte en un posgrado en Estados Unidos, Parte 3: el orden de los trámites tras llegar (móvil, banco, SSN, licencia y crédito)](/images/inline/career-uf-guide-3-arrival-setup.jpg)
-
 
 ## 3. SSN (número de seguro social)
 
@@ -77,7 +74,6 @@ El último paso lleva tiempo, así que cuanto antes empieces, mejor. En la vida 
 - El hábito clave es uno solo. Si pagas el total cada mes y mantienes baja la tasa de uso, normalmente construyes crédito en 6 a 12 meses.
 
 Con solo terminar estos cinco pasos en orden, tu vida en Estados Unidos empieza a funcionar. Las cifras como las de la visa, los impuestos o los límites de la licencia corresponden al momento de escribir esto y pueden cambiar, así que, justo antes de hacer cada trámite, confírmalas una vez más en los sitios oficiales. Encuentras más material sobre estudiar en el extranjero e instalarte en seunghoonchoi.com.
-
 
 ---
 

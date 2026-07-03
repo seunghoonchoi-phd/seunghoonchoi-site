@@ -9,7 +9,6 @@ seoTitle: "The Magic Numbers for Learning a New Field: 3, 7, 30, 100"
 image: /images/col-learning-magic-numbers.jpg
 reviewStatus: "done"
 ---
-
 ![A person standing at a city intersection at dusk, looking at three roads](/images/col-learning-magic-numbers.jpg)
 
 <p class="inline-image-caption">A sense of a new field comes not just from the quantity of examples, but from comparing the differences between different examples.</p>

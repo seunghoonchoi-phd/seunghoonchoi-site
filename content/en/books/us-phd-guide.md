@@ -19,7 +19,6 @@ reviewStatus: "done"
   </div>
 </div>
 
-
 Other than knowing I needed a TOEFL score, I knew almost nothing. This book collects every experience and mistake from the 18 months it took me to receive an offer letter from scratch. At the end of that process, I was admitted to the materials engineering PhD program at the University of Florida (UF) with full funding, and I received my F-1 visa.
 
 This book is a record of that process, set down in order without dressing it up. It is not a success story. It is closer to a map that the next person can follow step by step.

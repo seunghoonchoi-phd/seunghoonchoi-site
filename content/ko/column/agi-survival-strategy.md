@@ -9,7 +9,6 @@ description: "AI 시대 살아남는 12원칙. AI보다 똑똑해지려 말고, 
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![안개 낀 오르막길, 원칙 하나로 버티는 장기전](/images/col-agi-strategy.jpg)
 
 <p class="inline-image-caption">AGI 시대에는 똑똑해 보이는 말보다, 다른 사람이 확인할 수 있는 결과물을 계속 남겨야 한다.</p>

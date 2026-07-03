@@ -10,7 +10,6 @@ image: /images/col-reading-people.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![温かい照明の下、テーブルをはさんで身ぶりを交えながら語り合う二人](/images/col-reading-people.jpg)
 
 <p class="inline-image-caption">論理が正しくても、提案が相手の損失と面子の問題を大きくすると説得はすぐ止まることがある。</p>

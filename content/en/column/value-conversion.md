@@ -9,7 +9,6 @@ seoTitle: "Why Your Effort Never Piles Up: Leave Reusable Results, Not Hours"
 image: /images/col-value-conversion.jpg
 draft: true
 ---
-
 ![A craftsman's hands holding a finished wooden chair in a workshop, lit warmly from the side](/images/col-value-conversion.jpg)
 
 <p class="inline-image-caption">Once time is sold, it is hard to use again, but a saved result can be reused by someone else in a later opportunity.</p>

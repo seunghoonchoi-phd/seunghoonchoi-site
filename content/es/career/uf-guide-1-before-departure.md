@@ -8,9 +8,7 @@ tags: ["Estudiar en el extranjero", "posgrado en Estados Unidos", "F-1", "prepar
 subtitle: "Una lista práctica que ordena, paso a paso, lo que debes terminar desde el día en que confirmas tu admisión a un posgrado en Estados Unidos hasta que tomas el avión"
 reviewStatus: "done"
 ---
-
 ![Avión en la puerta de embarque](/images/uf1-departure.jpg)
-
 
 Que te admitan en un posgrado de ciencias o ingeniería en Estados Unidos no es el final. Desde el momento en que recibes la carta de admisión hasta que viajas, los meses traen más tareas de las que parece y plazos muy ajustados. Si dejas pasar aunque sea una sola cosa, puede haber problemas con la admisión, la matrícula o la visa. Este artículo es la primera entrega de la guía de admisión y adaptación al posgrado de la University of Florida (UF). Aquí te explico, en orden, todo lo que debes resolver desde que te admiten hasta que sales del país: cómo leer bien la financiación (la carta de oferta), un calendario con las fechas clave, el examen de nivel y el proceso de matrícula, la preparación de la investigación antes de llegar, y por último el cierre de trámites en Corea y el envío de dinero.
 
@@ -95,7 +93,6 @@ en Corea
 
 ![Tras la admisión y antes de partir: cómo leer la carta de oferta y enviar el dinero](/images/inline/career-uf-guide-1-before-departure.jpg)
 
-
 ## 3. Examen de nivel (Placement Exam)
 
 - El plazo va de junio a principios de agosto y se hace en línea en [eLearning](https://elearning.ufl.edu/). Tiene preguntas de opción múltiple y de desarrollo.
@@ -143,7 +140,6 @@ Por último, revisa estos puntos antes de salir de Corea.
 - Salud, documentos y vida diaria: documentos en inglés de psiquiatría y enfermedades crónicas, medicación para cubrir los primeros días tras llegar, medicinas, envío internacional, emisión del IDP, comprobación de la visa física
 
 Hasta aquí el panorama general desde la admisión hasta la salida. En la próxima entrega veré, en orden, los trámites que hay que terminar dentro de los 30 días tras llegar (I-94, check-in con la ISSS, banco, SSN, exención del seguro).
-
 
 ---
 

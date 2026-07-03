@@ -9,7 +9,6 @@ seoTitle: "김정호 카이스트 교수의 AI 헌법 전문"
 image: /images/col-kim-joungho-ai-constitution.jpg
 reviewStatus: "done"
 ---
-
 ![서버룸에 늘어선 서버 랙. AI의 전기와 통제권을 떠올리게 하는 이미지](/images/col-kim-joungho-ai-constitution.jpg)
 
 <p class="inline-image-caption">헌법 형식은 AI 논의를 추상 구호로 두지 않고, 조항별 책임과 권한으로 나누게 한다.</p>

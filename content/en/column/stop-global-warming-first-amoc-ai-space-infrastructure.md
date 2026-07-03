@@ -25,13 +25,9 @@ AMOC stands for Atlantic Meridional Overturning Circulation. The words are heavy
 
 Warm seawater moves north along the surface of the Atlantic. When it reaches the North Atlantic, it cools, becomes saltier, and grows heavier. That heavier water sinks. Then the deep water flows back south.
 
-That current pattern is AMOC. It affects Europe's climate, tropical rainfall, sea level, fisheries, and even the ocean's ability to absorb carbon. [NOAA](https://oceanservice.noaa.gov/facts/amoc.html) describes AMOC as the Atlantic current system that moves warm water north and cold water south.
+That current pattern is AMOC. It affects Europe's climate, tropical rainfall, sea level, fisheries, and even the ocean's ability to absorb carbon. [NOAA](https://oceanservice.noaa.gov/facts/amoc.html) describes AMOC as the Atlantic current system that moves warm water north and cold water south. The problem is that this circulation can weaken.
 
-The problem is that this circulation can weaken.
-
-For water to sink well in the North Atlantic, two things matter. It has to be cold, and it has to be salty enough. Global warming works against both. The ocean warms, while melting Greenland ice and Arctic ice add freshwater. Freshwater has less salt. The surface water becomes less salty and less heavy. Then the sinking force weakens.
-
-The downward flow in the North Atlantic weakens.
+For water to sink well in the North Atlantic, two things matter. It has to be cold, and it has to be salty enough. Global warming works against both. The ocean warms, while melting Greenland ice and Arctic ice add freshwater. Freshwater has less salt. As the surface water becomes less salty and less heavy, the sinking flow in the North Atlantic weakens.
 
 ## The Arctic is a control point, not the final destination
 
@@ -41,9 +37,7 @@ White ice reflects a lot of sunlight. Dark ocean absorbs it. When ice retreats a
 
 [NASA](https://science.nasa.gov/earth/earth-observatory/arctic-amplification-81214/) explains that when Arctic sea ice decreases, Earth's surface absorbs more sunlight. This is not an abstract future scenario. It is physics already underway. When the white cover disappears, Earth absorbs more heat.
 
-That is why Arctic summer matters. In winter, there is little sunlight to block anyway. The important window is late spring through summer, when sea ice melts and Greenland's surface melts. If we can reduce even a small amount of incoming heat during that period, we may slow the heat and freshwater entering the North Atlantic.
-
-The goal is simple: slow the speed at which AMOC weakens.
+That is why Arctic summer matters. In winter, there is little sunlight to block anyway. The important window is late spring through summer, when sea ice melts and Greenland's surface melts. If we can reduce even a small amount of incoming heat during that period, we may slow the heat and freshwater entering the North Atlantic. The goal is simple: slow the speed at which AMOC weakens.
 
 ## A space sunshade is a temporary climate response
 

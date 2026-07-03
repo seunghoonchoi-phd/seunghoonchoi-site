@@ -10,7 +10,6 @@ image: /images/col-advantage-loops.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![長い曲線状に並んだドミノの一枚が倒れ、次の一枚に向かって傾いていく様子](/images/col-advantage-loops.jpg)
 
 <p class="inline-image-caption">小さな優位は、次の行動を楽にする記録と道具があるときに繰り返される。</p>

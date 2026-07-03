@@ -9,7 +9,6 @@ seoTitle: "Seven Skills for the AI Era, Plus EQ, Trust, and Reputation"
 image: /images/col-ai-turnkey-skills.png
 reviewStatus: "done"
 ---
-
 ![Illustration of an AI research assistant](/images/col-ai-turnkey-skills.png)
 
 <p class="inline-image-caption">The more AI assists with the thinking process, the more humans must demonstrate the ability to check and complete assigned tasks.</p>

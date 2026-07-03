@@ -32,7 +32,7 @@ other = "読む"
 [view_all]
 other = "すべて見る"
 [no_posts]
-other = "まだ記事がありません — 近日公開予定です。"
+other = "まだ記事がありません。近日公開予定です。"
 [posted_on]
 other = "公開"
 [categories]

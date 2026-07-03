@@ -9,7 +9,6 @@ seoTitle: "AI 리스크가 커지는 이유: 확인 없는 자동화와 법무·
 image: /images/col-ai-risk-leverage.png
 reviewStatus: "done"
 ---
-
 ![노트북 화면에 AI 워크플로가 표시되고, 책상 위의 문서와 잠금 장치와 경고등이 함께 놓인 장면](/images/col-ai-risk-leverage.png)
 
 <p class="inline-image-caption">자동화 속도가 빨라질수록 법무, 보안, 평판 확인은 실행 전에 끝나야 한다.</p>

@@ -15,16 +15,11 @@ reviewStatus: "done"
 
 You feed material to AI and ask it to write a report. A few seconds later a plausible document appears. It has a title, background, key points, and a conclusion. Sentence by sentence it looks quite decent. Then you walk into a meeting and someone asks:
 
-"Why is this conclusion the most important one?"  
-"How reliable is this number?"  
-"Why did you leave out the other options?"  
-"Which department carries the biggest burden if we do this?"
+"Why is this conclusion the most important one?" "How reliable is this number?" "Why did you leave out the other options?" "Which department carries the biggest burden if we do this?"
 
 At that moment your hand stops. The report went up under your name, but you cannot explain the logic inside it all the way through. Here many people misread the situation.
 
-Am I not smart enough?  
-Did I use AI badly?  
-Did I read too little?
+Am I not smart enough? Did I use AI badly? Did I read too little?
 
 No. The problem is not the sentences. The background knowledge was empty, and the report got made before that.
 
@@ -52,11 +47,7 @@ Miss this difference and you get caught out in the meeting.
 
 This state can be described as a gap in background knowledge. It means there is background knowledge you have not yet filled in to make the report your own.
 
-Why this work began in the first place.  
-What earlier attempt failed.  
-Which numbers you can trust and which numbers need caution.  
-Who will like this conclusion and who will be uncomfortable with it.  
-Where the approver will push first.
+Why this work began in the first place. What earlier attempt failed. Which numbers you can trust and which numbers need caution. Who will like this conclusion and who will be uncomfortable with it. Where the approver will push first.
 
 This kind of information is not always written in the material.
 
@@ -70,17 +61,11 @@ Many people read the material and say, "I roughly know the content, but I freeze
 
 The pieces are the individual facts.
 
-This project started in March.  
-Costs rose by 20%.  
-Customer churn rose by 5%.  
-Plan A and Plan B were reviewed.
+This project started in March. Costs rose by 20%. Customer churn rose by 5%. Plan A and Plan B were reviewed.
 
 AI organizes pieces like these well. But what a report needs is not a list of pieces. You have to know which direction the pieces point in.
 
-Why a 20% cost increase is a problem.  
-Whether a 5% churn rise is temporary noise or a structural risk.  
-Which of Plan A and Plan B was dropped, and why it was dropped.  
-Whom this report ultimately asks for what decision.
+Why a 20% cost increase is a problem. Whether a 5% churn rise is temporary noise or a structural risk. Which of Plan A and Plan B was dropped, and why it was dropped. Whom this report ultimately asks for what decision.
 
 You have to know this to explain the report. The fact that AI organized the pieces does not mean the writer understood the argument. A report is not a bundle of material; it is an argument with a direction.
 
@@ -92,11 +77,7 @@ You have to know this to explain the report. The fact that AI organized the piec
 
 When the background knowledge is empty, the most frightening moment is when you get a question.
 
-"Why?"  
-"What is the basis?"  
-"Can we trust that number?"  
-"Any plan other than this one?"  
-"Who has a hard time if we carry it out?"
+"Why?" "What is the basis?" "Can we trust that number?" "Any plan other than this one?" "Who has a hard time if we carry it out?"
 
 These questions are not asking about your writing. They are asking about the background. No matter how smoothly the report is written, if you cannot answer these, trust breaks.
 
@@ -108,13 +89,7 @@ The solution is not to tell AI to stop writing reports. AI is very useful for dr
 
 You have to dig into the background together with AI. Put the material in and ask things like this.
 
-Who is the final decision-maker for this report?  
-What is the strongest piece of evidence and the weakest piece of evidence in this material?  
-What premise is missing?  
-Where is someone who opposes it most likely to attack?  
-Which department takes on the burden if this conclusion goes through?  
-What were the other options, and why were they dropped?  
-What questions am I likely to get in the meeting?
+Who is the final decision-maker for this report? What is the strongest piece of evidence and the weakest piece of evidence in this material? What premise is missing? Where is someone who opposes it most likely to attack? Which department takes on the burden if this conclusion goes through? What were the other options, and why were they dropped? What questions am I likely to get in the meeting?
 
 When AI gives an answer, that is not the end. You take that answer and check it with people. Ask a senior, ask the person in charge, ask the person who produced the numbers, ask the department that will carry it out.
 
@@ -138,10 +113,7 @@ Where will the reader push? What will someone who opposes it find fault with? If
 
 Using a report AI wrote is not the problem. The problem is putting up a report I cannot explain under my name. The standard for a good report is not whether the sentences are smooth.
 
-Can I explain why I reached this conclusion?  
-Can I say which evidence is strong and which evidence is weak?  
-Can I defend it when an opposing question comes in?  
-Do I know who carries what if we carry it out?
+Can I explain why I reached this conclusion? Can I say which evidence is strong and which evidence is weak? Can I defend it when an opposing question comes in? Do I know who carries what if we carry it out?
 
 You have to be able to answer these questions before the report becomes your own.
 

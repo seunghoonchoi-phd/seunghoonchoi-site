@@ -43,13 +43,19 @@ jobs:
         run: node tools/check-language-shape.js
       - name: Check caption quality
         run: node tools/check-caption-quality.js
+      - name: Check paragraph rhythm
+        run: node tools/check-paragraph-rhythm.js
       - name: Check Korean literal style
         run: node tools/check-korean-literal-style.js
+      - name: Audit source text
+        run: node tools/audit-site-text.js --source-only --fail-on-hard
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
           TZ: America/New_York
         run: hugo --gc --minify
+      - name: Audit rendered text
+        run: node tools/audit-site-text.js --fail-on-hard --output text-audit
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:

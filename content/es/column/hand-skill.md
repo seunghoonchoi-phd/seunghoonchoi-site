@@ -10,7 +10,6 @@ image: /images/col-hand-skill.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Herramientas manuales gastadas, colocadas en orden sobre una mesa de trabajo](/images/col-hand-skill.jpg)
 
 <p class="inline-image-caption">La habilidad manual es la capacidad de un trabajador para reconocer pequeñas señales de cambios en los materiales en lugar de movimientos rápidos de la mano.</p>

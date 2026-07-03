@@ -8,9 +8,7 @@ tags: ["Estudiar en Estados Unidos", "Alquiler", "Domiciliación de pagos", "Cue
 subtitle: "Quise dejar domiciliado el alquiler antes incluso de mudarme, y acabé descubriendo que era mejor no hacerlo."
 seoTitle: "Domiciliar el alquiler como estudiante en EE. UU.: qué tener en cuenta si no tienes cuenta americana"
 ---
-
 ![Un abanico de billetes de veinte dólares estadounidenses](/images/uf-rent-autopay.jpg)
-
 
 Acababa de firmar el contrato de un apartamento en Estados Unidos. Aún faltaba más de un mes para mudarme, pero quise dejar el alquiler domiciliado por adelantado. Si se me olvidaba pagar la mensualidad me caería un recargo, así que pensé que dejarlo todo listo me quitaría preocupaciones. El caso es que llegué hasta la pantalla de pago y ahí me frené. Apunto lo que aprendí, porque le vendrá bien a cualquiera que, como yo, piense "voy a dejar el pago domiciliado" antes de mudarse.
 
@@ -30,7 +28,6 @@ El detalle está aquí: antes de salir del país, si todavía no tienes una cuen
 Si encima es una tarjeta coreana, peor todavía. A la comisión por pago se le suman la comisión por uso en el extranjero y la pérdida por el tipo de cambio al convertir wones a dólares, y existe incluso el riesgo de que el banco bloquee la tarjeta: ve un cargo que sale todos los meses desde el extranjero y sospecha que es un uso fraudulento. Si el pago se bloquea, eso se convierte directamente en un impago, y a la comisión por cada rechazo (suelen ser unos 40 dólares) se le puede sumar el recargo por mora. La domiciliación que configuraste para vivir más tranquilo acaba siendo, en realidad, una estructura que te encarece todo.
 
 ![Domiciliar el alquiler al estudiar en EE. UU.: si aún no tienes cuenta americana, no lo configures con tarjeta](/images/inline/career-us-rent-autopay.jpg)
-
 
 ## El orden correcto
 

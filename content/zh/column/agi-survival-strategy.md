@@ -9,7 +9,6 @@ description: "活过 AI 时代的 12 条原则。别想着比 AI 更聪明，要
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![雾里的上坡路，靠一条原则撑过的持久战](/images/col-agi-strategy.jpg)
 
 <p class="inline-image-caption">在AGI时代，你需要不断留下别人可以检查的结果，而不是只说一些看起来很聪明的话。</p>

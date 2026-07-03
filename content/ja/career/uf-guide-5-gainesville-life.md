@@ -75,9 +75,7 @@ UFの医療費は二つの財布に分かれています。
 
 ### Waiverの向き：逆に覚えると無駄なお金を払います
 
-GA（.25 FTE以上、週10時間以上）は、新規に適格になるとGatorGradCare（BlueCross BlueShield FL）に自動加入（Employee Only）します。自己負担はEmployee Only基準で月$17.65（給与天引き）で、残りはUFが負担します。
-
-ここでいちばん多い失敗が、waiverの向きを逆に理解してしまうことです。
+GA（.25 FTE以上、週10時間以上）は、新規に適格になるとGatorGradCare（BlueCross BlueShield FL）に自動加入（Employee Only）します。自己負担はEmployee Only基準で月$17.65（給与天引き）で、残りはUFが負担します。 ここでいちばん多い失敗が、waiverの向きを逆に理解してしまうことです。
 
 > ⚠️ 要点：waiverをしないと、UFの学生保険に自動登録され、term ごとに$1,000+の費用を請求されることがあります。GatorGradCareを持っていても、waiverは別途やる必要があります。だからGatorGradCareを持つGAは、「GatorGradCareでwaiveする」手続きを踏んで、UHCの自動登録と請求を止めなければなりません。
 

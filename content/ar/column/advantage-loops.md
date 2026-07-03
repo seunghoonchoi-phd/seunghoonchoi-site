@@ -10,7 +10,6 @@ image: /images/col-advantage-loops.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![صفّ طويل من قطع الدومينو على شكل منحنى، إحداها تسقط مائلةً نحو القطعة التالية](/images/col-advantage-loops.jpg)
 
 <p class="inline-image-caption">تتكرر المزايا الصغيرة عندما يكون لديك سجلات وأدوات لتسهيل الخطوة التالية.</p>

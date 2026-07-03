@@ -9,7 +9,6 @@ description: "AI時代を生き残る12原則。AIより賢くなろうとせず
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![霧のかかった上り坂、原則ひとつで耐える長期戦](/images/col-agi-strategy.jpg)
 
 <p class="inline-image-caption">AGI時代には、賢そうな言葉より、他人が確認できる成果物を残し続ける必要がある。</p>

@@ -49,9 +49,7 @@ Si se pierde esa frase, se entiende mal la economía de la IA. No basta con deci
 
 ## Un auge sin empleo no dura mucho
 
-Al principio, al mercado bursátil le puede gustar. Si las empresas dicen "la IA elevó la productividad, no necesitamos contratar tanta gente y los márgenes mejoran", los inversionistas pueden aplaudir. Si los ingresos se mantienen y los costos caen, la rentabilidad se ve mejor.
-
-Pero con el tiempo aparece otra pregunta. ¿Dónde están los consumidores?
+Al principio, al mercado bursátil le puede gustar. Si las empresas dicen "la IA elevó la productividad, no necesitamos contratar tanta gente y los márgenes mejoran", los inversionistas pueden aplaudir. Si los ingresos se mantienen y los costos caen, la rentabilidad se ve mejor. Pero con el tiempo aparece otra pregunta. ¿Dónde están los consumidores?
 
 La IA puede bajar precios. El problema es que una bajada de precios no compensa lo suficiente a alguien que perdió ingresos. Si el sueldo mensual de una persona deja de ser seguro, ahorrar unos dólares en una suscripción no estabiliza su vida. Alquiler, salud, educación, seguros y pagos de deuda no bajan de inmediato solo porque la IA mejora.
 

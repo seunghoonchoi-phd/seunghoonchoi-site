@@ -74,9 +74,7 @@ Si atas hasta el experimento con un proceso de aprobación, nadie lo intenta. Al
 
 ## En la empresa, cosas pequeñas; lo grande, afuera
 
-Entonces, ¿cómo debe moverse quien ahora mismo está atado a un empleo?
-
-Dentro de la empresa conviene apuntar la IA a pequeñas victorias. Ordenar datos dispersos, reducir tareas repetitivas, aligerar la carga de revisión de un superior. Esto se logra de sobra incluso dentro de la seguridad y los permisos. Cuando se acumula sin llamar la atención, se vuelve confianza.
+Entonces, ¿cómo debe moverse quien ahora mismo está atado a un empleo? Dentro de la empresa conviene apuntar la IA a pequeñas victorias. Ordenar datos dispersos, reducir tareas repetitivas, aligerar la carga de revisión de un superior. Esto se logra de sobra incluso dentro de la seguridad y los permisos. Cuando se acumula sin llamar la atención, se vuelve confianza.
 
 En cambio, los resultados grandes conviene crearlos en un entorno sin fricción. Textos largos, repositorios públicos, aplicaciones pequeñas, borradores listos para usar enseguida. Si intentas hacer este tipo de trabajo dentro de la seguridad, los permisos y los cambios de contexto de la empresa, la misma tarea se vuelve varias veces más lenta. Dónde usas la herramienta decide el resultado. Saber esto y repartir el lugar según el tipo de trabajo: de eso se trata.
 

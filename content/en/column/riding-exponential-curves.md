@@ -39,9 +39,7 @@ The first method is simple. Keep part of your salary no matter what. Then turn w
 
 Not all assets are the same. Some stay the same over time, while others become easier to grow as time passes. A good asset makes the next round of growth easier. More users lead to more users. Data improves the product. Writing builds search ranking and trust. A brand makes the next opportunity easier. What you have built up should help the next round of growth.
 
-A bad asset makes you start over every time. You sell it once and it is over. You have to work again each time, and what accumulated does not help the next growth. Something like that may look like an asset on the surface, but in reality it is close to labor.
-
-So when looking at an asset, ask this: over time, does this make me work less and make the next result easier?
+A bad asset makes you start over every time. You sell it once and it is over. You have to work again each time, and what accumulated does not help the next growth. Something like that may look like an asset on the surface, but in reality it is close to labor. So when looking at an asset, ask this: over time, does this make me work less and make the next result easier?
 
 ## Leave the result of work as an asset that does not disappear
 

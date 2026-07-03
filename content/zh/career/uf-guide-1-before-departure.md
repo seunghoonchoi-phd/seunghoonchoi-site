@@ -10,7 +10,6 @@ reviewStatus: "done"
 ---
 ![Airplane at the departure gate](/images/uf1-departure.jpg)
 
-
 被美国理工科研究生院录取，不是终点，而是另一条起跑线。从收到录取通知到出国前的这几个月，要做的事情比想象中多，截止日期排得很紧，只要漏掉一项，就可能耽误入学、注册或签证。本文是佛罗里达大学 (University of Florida, UF) 研究生院入学与安顿指南的第一篇，按顺序为你梳理从录取后到出国前必须打理好的事项。文章一次性涵盖：如何准确读懂资助（录取通知 / offer letter）、核心日程日历、分级考试与选课流程、到校前的研究准备，以及出国前的韩国行政事务收尾与汇款。
 
 ## 大局：从录取到出国
@@ -91,7 +90,6 @@ reviewStatus: "done"
 
 ![从录取到出国：从读懂录取通知到完成海外汇款](/images/inline/career-uf-guide-1-before-departure.jpg)
 
-
 ## 3. 分级考试 (Placement Exam)
 
 - 窗口为 6 月~8 月初，在 [eLearning](https://elearning.ufl.edu/) 上线上进行。由选择题+简答题组成。
@@ -139,7 +137,6 @@ reviewStatus: "done"
 - 健康、材料和生活：精神科·慢性病英文材料、抵达初期要接着服用的药、常备药、海外配送、IDP 办理、确认实体签证
 
 以上就是从录取后到出国前的大局。下一篇将按顺序讲解到校直后 30 天内必须完成的行政事务（I‑94、ISSS 报到、银行、SSN、保险 waiver）。
-
 
 ---
 

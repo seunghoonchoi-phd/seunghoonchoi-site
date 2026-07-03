@@ -39,9 +39,7 @@ El primer método es simple. Hay que dejar apartada una parte del salario, sí o
 
 No todos los activos son iguales. Algunos siguen igual con el tiempo; otros se vuelven más fáciles de hacer crecer. Un buen activo facilita el crecimiento futuro. Los usuarios atraen usuarios, los datos mejoran el producto, los textos crean búsqueda y confianza, la marca facilita la siguiente oportunidad. Lo acumulado debe ayudar al siguiente crecimiento.
 
-Un mal activo obliga a empezar de cero cada vez. Se vende una vez y termina. Exige trabajo nuevo en cada ciclo, y lo acumulado no ayuda al siguiente resultado. Por fuera puede parecer activo, pero por dentro se parece más a trabajo.
-
-Por eso, al mirar un activo, hay que preguntar: con el tiempo, ¿me hace trabajar menos y hace más fácil el siguiente resultado?
+Un mal activo obliga a empezar de cero cada vez. Se vende una vez y termina. Exige trabajo nuevo en cada ciclo, y lo acumulado no ayuda al siguiente resultado. Por fuera puede parecer activo, pero por dentro se parece más a trabajo. Por eso, al mirar un activo, hay que preguntar: con el tiempo, ¿me hace trabajar menos y hace más fácil el siguiente resultado?
 
 ## El resultado del trabajo debe quedar como activo que no desaparece
 

@@ -10,7 +10,6 @@ image: /images/col-institutions-as-games.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Puestos vacíos de un mercado al aire libre antes del amanecer, antes de que lleguen los vendedores](/images/col-institutions-as-games.jpg)
 
 <p class="inline-image-caption">Para entender una institución, no basta con mirar su nombre; hay que comprobar qué acciones reciben recompensa dentro de ella.</p>

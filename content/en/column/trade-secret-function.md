@@ -9,7 +9,6 @@ seoTitle: "Why Tacit Knowledge Is the Real Moat in the AI Era: Know-How That Can
 image: /images/col-trade-secret-function.jpg
 reviewStatus: "done"
 ---
-
 ![A potter's hands shaping wet clay on the spinning wheel, the tiny pressure of the fingertips deciding the result](/images/col-trade-secret-function.jpg)
 
 <p class="inline-image-caption">AI answers are easy to obtain, but know-how comes from fixing the reasons why those answers fail in real work.</p>

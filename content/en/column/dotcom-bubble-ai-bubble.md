@@ -9,7 +9,6 @@ seoTitle: "Revisiting the Dot-Com Bubble: What the AI Bubble Has in Common"
 image: /images/col-dotcom-bubble-ai-bubble.png
 reviewStatus: "done"
 ---
-
 ![A chart of the Nasdaq Composite rising and falling around the dot-com bubble from 1994 to 2005](/images/col-dotcom-bubble-ai-bubble.png)
 
 <p class="inline-image-caption">When the charts are soaring, you need to see if people are starting to spend more on future stories than on performance.</p>

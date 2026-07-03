@@ -32,7 +32,7 @@ other = "اقرأ"
 [view_all]
 other = "عرض الكل"
 [no_posts]
-other = "لا توجد مقالات بعد — سنضيفها قريبًا."
+other = "لا توجد مقالات بعد. سنضيفها قريبًا."
 [posted_on]
 other = "كُتب"
 [categories]

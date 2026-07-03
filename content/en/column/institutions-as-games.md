@@ -10,7 +10,6 @@ image: /images/col-institutions-as-games.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Empty outdoor market stalls at dawn before the vendors arrive](/images/col-institutions-as-games.jpg)
 
 <p class="inline-image-caption">To understand an institution, look past its name and check which actions people are rewarded for within it.</p>

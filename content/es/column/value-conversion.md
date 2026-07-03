@@ -9,7 +9,6 @@ seoTitle: "Por qué tu esfuerzo no se acumula: deja resultados que puedas volver
 image: /images/col-value-conversion.jpg
 draft: true
 ---
-
 ![Las manos de un artesano sosteniendo una silla de madera terminada en el taller, con luz lateral cálida](/images/col-value-conversion.jpg)
 
 <p class="inline-image-caption">Una vez vendido, el tiempo es difícil de volver a usar, pero un resultado guardado puede servirle a otra persona en una oportunidad posterior.</p>

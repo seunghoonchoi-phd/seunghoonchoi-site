@@ -15,16 +15,11 @@ reviewStatus: "done"
 
 Le das materiales a la IA y le pides que escriba un informe. Unos segundos después aparece un documento convincente. Tiene título, contexto, puntos principales y conclusión. Si miras solo las frases, no está nada mal. Entonces entras a una reunión y alguien pregunta.
 
-"¿Por qué esta conclusión es la más importante?"  
-"¿Qué tan confiable es este número?"  
-"¿Por qué descartaron las otras opciones?"  
-"Si hacemos esto, ¿qué área cargará más trabajo?"
+"¿Por qué esta conclusión es la más importante?" "¿Qué tan confiable es este número?" "¿Por qué descartaron las otras opciones?" "Si hacemos esto, ¿qué área cargará más trabajo?"
 
 En ese momento te quedas sin saber qué decir. El informe subió con mi nombre, pero yo no puedo explicar hasta el final la lógica que contiene. Mucha gente se equivoca al interpretar ese momento.
 
-¿Soy lento?  
-¿Usé mal la IA?  
-¿Leí pocos materiales?
+¿Soy lento? ¿Usé mal la IA? ¿Leí pocos materiales?
 
 No. El problema no son las frases. El conocimiento de fondo estaba vacío y el informe apareció primero.
 
@@ -52,11 +47,7 @@ Si pierdes esta diferencia, fracasas en la reunión.
 
 A este estado podemos llamarlo vacío de conocimiento de fondo. Significa que para convertir el informe en algo propio todavía hay conocimiento de fondo que no has llenado.
 
-Por qué empezó este trabajo.  
-Qué intentos fallaron antes.  
-Qué número se puede creer y cuál exige cuidado.  
-A quién le gustará esta conclusión y a quién le molestará.  
-Qué parte insistirá primero quien aprueba.
+Por qué empezó este trabajo. Qué intentos fallaron antes. Qué número se puede creer y cuál exige cuidado. A quién le gustará esta conclusión y a quién le molestará. Qué parte insistirá primero quien aprueba.
 
 Esa información no siempre está escrita en los materiales.
 
@@ -70,17 +61,11 @@ Mucha gente lee materiales y dice: "más o menos entiendo, pero si me piden expl
 
 Las piezas son hechos sueltos.
 
-El proyecto empezó en marzo.  
-El costo subió 20%.  
-La tasa de abandono de clientes subió 5%.  
-Se revisaron las opciones A y B.
+El proyecto empezó en marzo. El costo subió 20%. La tasa de abandono de clientes subió 5%. Se revisaron las opciones A y B.
 
 La IA también ordena muy bien esas piezas. Pero un informe no necesita una lista de piezas. Necesita saber hacia dónde apuntan.
 
-Por qué el aumento de costo del 20% es un problema.  
-Si el 5% de abandono es ruido temporal o riesgo estructural.  
-Qué se descartó entre A y B, y por qué.  
-Qué decisión exige finalmente este informe y a quién.
+Por qué el aumento de costo del 20% es un problema. Si el 5% de abandono es ruido temporal o riesgo estructural. Qué se descartó entre A y B, y por qué. Qué decisión exige finalmente este informe y a quién.
 
 Solo entonces puedes explicar el informe. Que la IA ordene piezas no significa que quien firma entienda la tesis. Un informe no es un paquete de materiales; es una afirmación con dirección.
 
@@ -92,11 +77,7 @@ Solo entonces puedes explicar el informe. Que la IA ordene piezas no significa q
 
 El momento más temible cuando el conocimiento de fondo está vacío es recibir una pregunta.
 
-"¿Por qué?"  
-"¿Cuál es la base?"  
-"¿Podemos creer ese número?"  
-"¿Qué pasa con la otra alternativa?"  
-"¿Quién se complica si lo ejecutamos?"
+"¿Por qué?" "¿Cuál es la base?" "¿Podemos creer ese número?" "¿Qué pasa con la otra alternativa?" "¿Quién se complica si lo ejecutamos?"
 
 Esas preguntas no preguntan por la redacción. Preguntan por el fondo. Por muy pulidas que estén las frases del informe, si no puedes responderlas, la confianza se rompe.
 
@@ -108,13 +89,7 @@ La solución no es dejar de pedir informes a la IA. La IA sirve muchísimo para 
 
 Hay que indagar el fondo junto con la IA. Después de darle materiales, hay que preguntar:
 
-Quién es el decisor final de este informe.  
-Cuál es la evidencia más fuerte y cuál la más débil de estos materiales.  
-Qué premisa falta.  
-Por dónde tiene más probabilidad de atacar quien se oponga.  
-Qué área cargará el peso si tomamos esta conclusión.  
-Qué otras opciones había y por qué se descartaron.  
-Qué preguntas podría recibir yo en la reunión.
+Quién es el decisor final de este informe. Cuál es la evidencia más fuerte y cuál la más débil de estos materiales. Qué premisa falta. Por dónde tiene más probabilidad de atacar quien se oponga. Qué área cargará el peso si tomamos esta conclusión. Qué otras opciones había y por qué se descartaron. Qué preguntas podría recibir yo en la reunión.
 
 Cuando la IA da una respuesta, no se terminó. Hay que llevar esa respuesta y confirmarla con personas. Preguntar al senior, preguntar al responsable, preguntar a quien hizo el número, preguntar al área que ejecutará.
 
@@ -138,10 +113,7 @@ Por dónde insistirá el lector. Qué problema señalará quien se oponga. Si at
 
 Usar un informe escrito por IA no es el problema. El problema es subir con mi nombre un informe que no puedo explicar. El criterio de un buen informe no es si las frases están pulidas.
 
-¿Puedo explicar por qué llegué a esta conclusión?  
-¿Puedo decir qué evidencia es fuerte y cuál es débil?  
-¿Puedo defenderlo cuando llega una pregunta contraria?  
-¿Sé quién carga qué si se ejecuta?
+¿Puedo explicar por qué llegué a esta conclusión? ¿Puedo decir qué evidencia es fuerte y cuál es débil? ¿Puedo defenderlo cuando llega una pregunta contraria? ¿Sé quién carga qué si se ejecuta?
 
 Solo si puedo responder esas preguntas el informe se vuelve mío.
 

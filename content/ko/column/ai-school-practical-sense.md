@@ -10,7 +10,6 @@ description: "AI가 자료 조사, 요약, 초안 작성 같은 초급 업무를
 image: /images/col-ai-school-practical-sense.png
 reviewStatus: "done"
 ---
-
 ![AI를 쓰며 작은 장치를 함께 점검하는 학생들](/images/col-ai-school-practical-sense.png)
 
 <p class="inline-image-caption">AI를 쓰는 수업은 학생이 답을 받아 적는 시간이 아니라, 답을 확인하고 고치는 시간이어야 한다.</p>

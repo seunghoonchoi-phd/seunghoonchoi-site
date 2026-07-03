@@ -10,7 +10,6 @@ image: /images/col-institutions-as-games.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![夜明け前、商人が来る前のがらんと空いた屋外市場の台](/images/col-institutions-as-games.jpg)
 
 <p class="inline-image-caption">制度を理解するには、名称より、その制度の中でどの行動をした人が報われるかを確認する必要がある。</p>

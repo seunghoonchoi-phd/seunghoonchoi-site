@@ -10,7 +10,6 @@ image: /images/col-ai-native-org.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![기하학적 건물 구조, 조직을 처음부터 다시 짠다는 것](/images/col-ai-native-org.jpg)
 
 <p class="inline-image-caption">AI 네이티브 조직에서는 도구 목록보다 업무가 요청, 검토, 결정으로 이어지는 순서가 달라진다.</p>

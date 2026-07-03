@@ -10,7 +10,6 @@ image: /images/col-reading-people.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Two people talking across a table in warm light, hands mid gesture](/images/col-reading-people.jpg)
 
 <p class="inline-image-caption">Even if the logic is correct, persuasion can stop immediately when a proposal increases the other person's losses or face concerns.</p>

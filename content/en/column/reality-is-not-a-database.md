@@ -18,7 +18,6 @@ faq:
   - q: "Why does human employment matter for the climate crisis and the energy transition?"
     a: "The climate crisis and energy transition are not just calculation problems. Power grids, plants, batteries, regulation, field operation, community negotiation, and safety management all become real through human organizations."
 ---
-
 ![An engineer looking over energy infrastructure and a city at dawn](/images/col-reality-is-not-a-database.jpg)
 
 <p class="inline-image-caption">The reason AI seems fast is not because it solves the entire problem, but because it quickly processes the part with organized data.</p>

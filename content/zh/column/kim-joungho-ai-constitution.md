@@ -9,7 +9,6 @@ seoTitle: "KAIST 金正浩教授的 AI 宪法全文"
 image: /images/col-kim-joungho-ai-constitution.jpg
 reviewStatus: "done"
 ---
-
 ![服务器机房里的服务器机柜，让人想到 AI 背后的电力和控制权](/images/col-kim-joungho-ai-constitution.jpg)
 
 <p class="inline-image-caption">宪法格式并没有让人工智能讨论停留在抽象口号的形式，而是将其划分为每一条的责任和权力。</p>

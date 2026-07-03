@@ -9,9 +9,7 @@ subtitle: "从手机到银行、SSN、佛罗里达驾照（中韩互认）、再
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Moving boxes and luggage at a new place](/images/uf3-arrival.jpg)
-
 
 到了美国研究生院，签证、住房、账户这些最费力的事其实已经办完了。接下来要面对的，是让日常真正运转起来的生活行政；而这部分一旦顺序没排好，各项就会互相拖延。没有手机，开银行账户就麻烦；没有银行，卡就办不出来；没有 SSN，驾照和信用积累都会被拖慢。所以这篇文章以佛罗里达大学 (University of Florida, UF) 的落地经历为基础，按照 手机 → 银行 → SSN → 佛罗里达驾照 → 积累信用 的顺序一路走下来，把每一步该带什么、该注意什么都梳理清楚。
 
@@ -42,7 +40,6 @@ build: {list: never, render: always}
 - 选择标准很简单：按 校园附近网点和 ATM 的密集程度 来挑，日常用起来最方便。
 
 ![美国研究生院落地指南 Part 3：到美后的行政办理顺序（手机、银行、SSN、驾照、信用）](/images/inline/career-uf-guide-3-arrival-setup.jpg)
-
 
 ## 3. SSN（社会安全号）
 
@@ -77,7 +74,6 @@ build: {list: never, render: always}
 - 核心习惯只有一个：每月全额还款 + 保持低使用率，这样通常 6~12 个月内就能建立起信用。
 
 把这五步按顺序走完，美国的日常生活就开始自行运转了。签证、税务、驾照额度这类数字都是以撰写时为准，可能会变动，所以在实际办理前请到官方网站再核对一次；更多留学与落地的资料，将在 seunghoonchoi.com 继续更新。
-
 
 ---
 

@@ -9,7 +9,6 @@ seoTitle: "キム・ジョンホ KAIST教授のAI憲法全文"
 image: /images/col-kim-joungho-ai-constitution.jpg
 reviewStatus: "done"
 ---
-
 ![サーバールームに並んだサーバーラック。AIの電力と制御権を思い起こさせる画像](/images/col-kim-joungho-ai-constitution.jpg)
 
 <p class="inline-image-caption">憲法形式はAI議論を抽象的なスローガンにせず、条項ごとの責任と権限に分けさせる。</p>

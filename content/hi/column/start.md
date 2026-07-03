@@ -7,7 +7,6 @@ subtitle: "यह जगह किस काम के लिए है"
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![हाथ से नोटबुक में लिखते हुए](/images/col-start.jpg)
 
 <p class="inline-image-caption">थीसिस के बाहर का लेखन शोध परिणामों को साबित करने के बजाय यह बताता है कि मैं किन समस्याओं को देख रहा हूँ।</p>

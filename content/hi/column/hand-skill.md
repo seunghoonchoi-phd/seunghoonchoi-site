@@ -10,7 +10,6 @@ image: /images/col-hand-skill.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![काम की मेज़ पर करीने से रखे घिसे हुए हाथ के औज़ार](/images/col-hand-skill.jpg)
 
 <p class="inline-image-caption">मैनुअल कौशल एक कार्यकर्ता की त्वरित हाथ आंदोलनों के बजाय सामग्री में परिवर्तन के छोटे संकेतों को पहचानने की क्षमता है।</p>

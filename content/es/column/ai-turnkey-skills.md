@@ -9,7 +9,6 @@ seoTitle: "Las 7 capacidades necesarias en la era de la IA, y el valor mayor de 
 image: /images/col-ai-turnkey-skills.png
 reviewStatus: "done"
 ---
-
 ![Ilustración de un asistente de investigación con IA](/images/col-ai-turnkey-skills.png)
 
 <p class="inline-image-caption">Cuanto más ayuda la IA al proceso de pensamiento, más deben demostrar los humanos la capacidad de comprobar y completar las tareas asignadas.</p>

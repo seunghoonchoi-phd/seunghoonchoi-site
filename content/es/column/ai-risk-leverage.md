@@ -9,7 +9,6 @@ seoTitle: "Por qué crece el riesgo de la IA: automatización sin revisión y ac
 image: /images/col-ai-risk-leverage.png
 reviewStatus: "done"
 ---
-
 ![Pantalla de portátil con un flujo de trabajo de IA, documentos, un candado y una luz de advertencia sobre el escritorio](/images/col-ai-risk-leverage.png)
 
 <p class="inline-image-caption">A medida que la automatización se acelera, la revisión legal, de seguridad y de reputación debe terminar antes de ejecutar.</p>

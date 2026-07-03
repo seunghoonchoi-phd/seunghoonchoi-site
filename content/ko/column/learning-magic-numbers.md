@@ -9,7 +9,6 @@ seoTitle: "새 분야 학습 매직넘버 3·7·30·100"
 image: /images/col-learning-magic-numbers.jpg
 reviewStatus: "done"
 ---
-
 ![해질 무렵 도시의 교차로에 서서 세 갈래 길을 바라보는 사람](/images/col-learning-magic-numbers.jpg)
 
 <p class="inline-image-caption">새 분야의 감은 사례의 양만으로 생기지 않고, 서로 다른 사례의 차이를 비교할 때 생긴다.</p>

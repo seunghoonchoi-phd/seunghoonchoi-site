@@ -9,7 +9,6 @@ seoTitle: "النص الكامل لدستور الذكاء الاصطناعي ل
 image: /images/col-kim-joungho-ai-constitution.jpg
 reviewStatus: "done"
 ---
-
 ![صفوف من خوادم داخل غرفة سيرفرات، تذكّر بالكهرباء والتحكم خلف أنظمة الذكاء الاصطناعي](/images/col-kim-joungho-ai-constitution.jpg)
 
 <p class="inline-image-caption">الصيغة الدستورية لا تترك نقاشات الذكاء الاصطناعي على شكل شعارات مجردة، بل تقسمها إلى مسؤوليات وصلاحيات لكل مادة.</p>

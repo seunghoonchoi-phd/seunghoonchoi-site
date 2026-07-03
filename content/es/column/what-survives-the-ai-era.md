@@ -9,7 +9,6 @@ description: "Aunque llegue la AGI, al ser humano no le queda competir en inteli
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Un artesano talla la madera con sus manos. La presencia humana que la IA no puede imitar](/images/col-ai-human-craft.jpg)
 
 <p class="inline-image-caption">En lugar de competir directamente con la IA, conviene asumir la organización de entradas reales y los juicios de responsabilidad que la IA aún no puede manejar.</p>

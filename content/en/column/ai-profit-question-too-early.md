@@ -48,9 +48,7 @@ Making money with AI does not mean selling whatever AI produced on the first pas
 
 Many companies have not reached that point.
 
-They put a chatbot into the workflow. They summarize meetings. They draft customer support replies. Developers use coding assistants. Even that raises productivity.
-
-But it does not transform the whole company.
+They put a chatbot into the workflow. They summarize meetings. They draft customer support replies. Developers use coding assistants. Even that raises productivity. But it does not transform the whole company.
 
 If the approval process is unchanged, AI may produce the result quickly, but the time to approval does not shrink. If data is scattered, AI cannot gather the evidence it needs for decisions. If no one has clear authority to revise AI output and apply it to field systems, the output does not get used in real work. If evaluation standards stay the same, people use AI to make old reports faster instead of creating new ways to work.
 

@@ -10,7 +10,6 @@ image: /images/col-reading-people.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![गरम रोशनी के नीचे एक मेज़ के दोनों ओर बैठकर हाथ हिलाते हुए बात करते दो लोग](/images/col-reading-people.jpg)
 
 <p class="inline-image-caption">तर्क सही हो, फिर भी यदि प्रस्ताव दूसरे व्यक्ति के नुकसान या प्रतिष्ठा की समस्या बढ़ाता है, तो समझाना तुरंत रुक सकता है।</p>

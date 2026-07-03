@@ -10,7 +10,6 @@ image: /images/col-ai-native-org.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![هيكل مبنى هندسي، إعادة بناء المؤسسة من الصفر](/images/col-ai-native-org.jpg)
 
 <p class="inline-image-caption">في منظمة تعتمد على الذكاء الاصطناعي، يتغير الترتيب الذي يتقدم به العمل من الطلب إلى المراجعة إلى القرار بدلاً من قائمة الأدوات.</p>

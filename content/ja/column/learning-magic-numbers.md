@@ -9,7 +9,6 @@ seoTitle: "新しい分野の学習マジックナンバー 3・7・30・100"
 image: /images/col-learning-magic-numbers.jpg
 reviewStatus: "done"
 ---
-
 ![夕暮れの街の交差点に立ち、三方向に分かれた道を見つめる人](/images/col-learning-magic-numbers.jpg)
 
 <p class="inline-image-caption">新しい分野の感覚は事例の量だけでは生まれず、異なる事例の差を比べるときに生まれる。</p>

@@ -93,8 +93,6 @@ So "I am good at my work" is not enough. If the work is one whose answer converg
 
 ## To the next part
 
-This is the front section of AI taking work.
-
-First, work with fixed answers shakes. Then expert analysis shakes. Then work predicting public response shakes. Then AI handles several steps by itself. Finally, in some areas, even the seat of the person who checks once more shrinks.
+This is the front section of AI taking work. First, work with fixed answers shakes. Then expert analysis shakes. Then work predicting public response shakes. Then AI handles several steps by itself. Finally, in some areas, even the seat of the person who checks once more shrinks.
 
 The next question is natural. Is work done with the body safe? Can hand skill and field sense resist AI easily? In the next piece, I look at stages 6 to 8: repetitive physical labor, hand skill and field trial and error, and judgment and sense without clear answers.

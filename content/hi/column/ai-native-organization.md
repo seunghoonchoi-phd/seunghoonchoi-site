@@ -10,7 +10,6 @@ image: /images/col-ai-native-org.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![ज्यामितीय इमारत का ढांचा](/images/col-ai-native-org.jpg)
 
 <p class="inline-image-caption">एआई-नेटिव संगठन में, टूल की सूची के बजाय अनुरोध से लेकर समीक्षा तक निर्णय परिवर्तन तक काम जिस क्रम में आगे बढ़ता है।</p>

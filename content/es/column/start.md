@@ -7,7 +7,6 @@ subtitle: "Qué es este espacio"
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Una mano escribiendo a mano en un cuaderno](/images/col-start.jpg)
 
 <p class="inline-image-caption">La escritura fuera de la tesis explica qué problemas estoy analizando en lugar de probar los resultados de la investigación.</p>

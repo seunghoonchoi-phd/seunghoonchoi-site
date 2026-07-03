@@ -48,9 +48,7 @@ Ganar dinero con IA no significa vender lo que la IA produjo en el primer intent
 
 Muchas empresas no han llegado a ese punto.
 
-Incorporan un chatbot al flujo de trabajo. Resumen reuniones. Redactan respuestas de atención al cliente. Los desarrolladores usan asistentes de código. Solo con eso la productividad mejora.
-
-Pero la empresa completa no cambia.
+Incorporan un chatbot al flujo de trabajo. Resumen reuniones. Redactan respuestas de atención al cliente. Los desarrolladores usan asistentes de código. Solo con eso la productividad mejora. Pero la empresa completa no cambia.
 
 Si el proceso de aprobación sigue igual, la IA puede producir el resultado rápido, pero el tiempo hasta la aprobación no se reduce. Si los datos están dispersos, la IA no puede reunir la evidencia que necesita para decidir. Si nadie tiene autoridad clara para corregir el resultado de la IA y aplicarlo a los sistemas del campo, ese resultado no se usa en el trabajo real. Si los criterios de evaluación siguen siendo los antiguos, la gente usa IA para hacer más rápido los viejos informes, no para crear una forma nueva de trabajar.
 
@@ -94,9 +92,7 @@ No es la misma historia que la de robots reemplazando humanos. Es la historia de
 
 ## La IA todavía no ha entrado a fondo en el trabajo de campo
 
-Por eso la pregunta "qué empresa ha ganado dinero con IA" solo acierta a medias.
-
-Es cierto que muchas empresas todavía no muestran grandes mejoras de beneficio. Pero es demasiado pronto para decir que la IA ya mostró su límite. En muchos lugares, la IA todavía se usa primero en trabajos frente a la computadora: documentos, código, tablas, imágenes, búsqueda.
+Por eso la pregunta "qué empresa ha ganado dinero con IA" solo acierta a medias. Es cierto que muchas empresas todavía no muestran grandes mejoras de beneficio. Pero es demasiado pronto para decir que la IA ya mostró su límite. En muchos lugares, la IA todavía se usa primero en trabajos frente a la computadora: documentos, código, tablas, imágenes, búsqueda.
 
 El cambio real empieza cuando la IA entra en el campo. ¿Una persona solo puede usar IA sentada ante una computadora? ¿O puede llamarla mientras la lleva puesta en el lugar de trabajo? Más aún, ¿qué tan bien puede transmitirle a la IA lo que percibe en ese momento?
 

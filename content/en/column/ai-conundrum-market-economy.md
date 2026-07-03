@@ -49,9 +49,7 @@ If we miss that one line, we misunderstand the AI economy. It is not enough to s
 
 ## A jobless boom cannot last long
 
-At first, the stock market may like it. If companies say, "AI raised productivity, we do not need to hire as many people, and margins are improving," investors may applaud. If revenue stays the same and costs fall, profit margins look better.
-
-But over time, another question appears. Where are the consumers?
+At first, the stock market may like it. If companies say, "AI raised productivity, we do not need to hire as many people, and margins are improving," investors may applaud. If revenue stays the same and costs fall, profit margins look better. But over time, another question appears. Where are the consumers?
 
 AI can lower prices. The problem is that lower prices are not enough compensation for someone who lost income. If a person's monthly paycheck is shaken, saving a few dollars on an app subscription does not stabilize life. Rent, healthcare, education, insurance, and loan payments do not fall immediately just because AI gets better.
 
