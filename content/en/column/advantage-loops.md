@@ -33,7 +33,7 @@ When you pick up something small, you usually park it as a thing to brag about. 
 
 ## Write it down so you never solve it twice
 
-A trick that stays only in your head fades over time. So you pull it outside and put it in a form you can use again. A note, a template, a piece of code you wrote well once, a checklist. The form can be anything. The point is one thing. Never solve the same problem twice. Some people rebuild something similar from the ground up every time. Others set aside the thing they built well once. Over a year, the second person has stacked up their own toolbox. Meet a new problem and half of it is already solved. Knowledge in your head scatters. What you pull out and save stacks up.
+A trick you rely on only from memory fades over time. So you turn it into a reusable form: a note, a template, a piece of code you wrote well once, a checklist. The form can be anything. The point is one thing. Never solve the same problem twice. Some people rebuild something similar from the ground up every time. Others set aside the thing they built well once. Over a year, the second person has stacked up their own toolbox. Meet a new problem and half of it is already solved. What you only know from memory scatters. Notes, code, and checklists stack up.
 
 ![How a 1% Daily Edge Compounds Into Skill Nobody Can Copy](/images/inline/column-advantage-loops.jpg)
 

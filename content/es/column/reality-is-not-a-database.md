@@ -4,7 +4,7 @@ date: 2026-06-24T00:18:00+09:00
 draft: false
 categories: ["AI"]
 tags: ["AI", "empleo", "trabajo", "crisis climática", "transición energética"]
-subtitle: "Antes de preguntar si la IA va demasiado rápido, hay que mirar los problemas que todavía no hemos resuelto. Si aún no podemos construir una base lunar, no necesitamos herramientas más lentas, sino gente capaz de terminar el trabajo en el mundo real."
+subtitle: "Antes de decir que la IA va demasiado rápido, conviene preguntar qué problemas la humanidad todavía no ha resuelto de verdad. Si aún no podemos construir una base lunar, no necesitamos herramientas más lentas, sino la capacidad de instalar, operar y corregir respuestas en el mundo real."
 description: "La IA no avanza demasiado rápido. Aún es lenta para problemas grandes como el calentamiento global, el envejecimiento, la calvicie y las bases lunares, y el empleo humano sigue siendo necesario para convertir respuestas de IA en trabajo real."
 seoTitle: "El avance de la IA no es demasiado rápido: los grandes problemas siguen sin resolverse"
 image: /images/col-reality-is-not-a-database.jpg

@@ -4,7 +4,7 @@ date: 2026-06-24T00:18:00+09:00
 draft: false
 categories: ["AI"]
 tags: ["AI", "jobs", "employment", "climate crisis", "energy transition"]
-subtitle: "Before asking whether AI is too fast, look at the problems we still have not solved. If we cannot even build a moon base yet, we need tools that help people finish work in the real world, not slower tools."
+subtitle: "Before saying AI is too fast, we should ask which problems humanity still has not actually solved. If we cannot even build a moon base yet, we need the ability to install, run, and fix answers in the real world, not slower tools."
 description: "AI is not too fast. It is still too slow for large unsolved problems like global warming, aging, hair loss, and moon bases, and human employment remains necessary to turn AI answers into real work."
 seoTitle: "AI Is Not Advancing Too Fast: The Big Problems Still Unsolved"
 image: /images/col-reality-is-not-a-database.jpg

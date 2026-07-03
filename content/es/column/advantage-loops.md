@@ -33,7 +33,7 @@ Cuando dominas algo pequeño, lo normal es guardarlo como un trofeo. Lo dejas en
 
 ## Con una nota no lo resuelves dos veces
 
-Un truco que solo está en tu cabeza se va borrando con el tiempo. Por eso lo sacas afuera y lo conviertes en algo que puedas volver a usar. Una nota, una plantilla, un código bien escrito una vez, una lista de verificación. La forma da igual. Lo importante es una sola cosa: no resolver el mismo problema dos veces. Hay quien vuelve a hacer cada cosa parecida desde cero, una y otra vez. Y hay quien aparta lo que ya hizo bien una vez. En un año, la segunda persona tiene su propia caja de herramientas. Cuando llega un problema nuevo, la mitad ya está resuelta. El conocimiento que está en la cabeza se dispersa; lo que sacaste afuera se acumula.
+Un truco que depende solo de tu memoria se va borrando con el tiempo. Por eso lo conviertes en algo que puedas volver a usar: una nota, una plantilla, un código bien escrito una vez, una lista de verificación. La forma da igual. Lo importante es una sola cosa: no resolver el mismo problema dos veces. Hay quien vuelve a hacer cada cosa parecida desde cero, una y otra vez. Y hay quien aparta lo que ya hizo bien una vez. En un año, la segunda persona tiene su propia caja de herramientas. Cuando llega un problema nuevo, la mitad ya está resuelta. Lo que solo recuerdas se dispersa; las notas, el código y las listas se acumulan.
 
 ![Cómo una ventaja del 1% al día crece con el interés compuesto hasta volverse una habilidad imposible de copiar](/images/inline/column-advantage-loops.jpg)
 
