@@ -2,4 +2,4 @@
 title: "Career Guide"
 reviewStatus: "done"
 ---
-Field-tested guides on graduate study abroad, careers, visa/status, U.S. life, and U.S. tax (Enrolled Agent).
+Information on graduate study abroad, careers, U.S. life, and U.S. tax, organized from direct experience.
