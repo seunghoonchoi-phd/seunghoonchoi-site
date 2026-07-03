@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow">
-  <title>Opening Instagram DM</title>
+  <title>Opening Instagram</title>
   <style>
     :root{color-scheme:light dark;--ink:#101828;--muted:#667085;--line:#d0d5dd;--bg:#f8f6f3;--card:#fff;--brand:#0d1b4c}
     @media (prefers-color-scheme:dark){:root{--ink:#f2f4f7;--muted:#98a2b3;--line:#344054;--bg:#0b0f1a;--card:#101828;--brand:#d4955a}}
@@ -18,17 +18,38 @@
     .secondary{margin-top:10px;color:var(--brand);border:1px solid var(--line)}
   </style>
   <script>
-    const dmUrl = "https://www.instagram.com/direct/new/?username=hoonchoi.mk1";
+    const profileUrl = "https://www.instagram.com/hoonchoi.mk1/";
+    const webDmUrl = "https://www.instagram.com/direct/new/?username=hoonchoi.mk1";
+    const iosAppUrl = "instagram://user?username=hoonchoi.mk1";
+    const androidIntentUrl = "intent://www.instagram.com/hoonchoi.mk1/#Intent;scheme=https;package=com.instagram.android;S.browser_fallback_url=" + encodeURIComponent(webDmUrl) + ";end";
+    const isAndroid = /Android/i.test(navigator.userAgent);
+    const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+
+    window.addEventListener("DOMContentLoaded", () => {
+      const appButton = document.querySelector("[data-open-instagram]");
+      if (appButton) appButton.href = isAndroid ? androidIntentUrl : iosAppUrl;
+    });
+
     window.addEventListener("pageshow", () => {
-      window.setTimeout(() => { window.location.replace(dmUrl); }, 250);
+      if (isAndroid) {
+        window.location.href = androidIntentUrl;
+        return;
+      }
+      if (isIOS) {
+        window.location.href = iosAppUrl;
+        window.setTimeout(() => { window.location.href = webDmUrl; }, 1200);
+        return;
+      }
+      window.location.replace(webDmUrl);
     });
   </script>
 </head>
 <body>
   <main>
-    <h1>Opening Instagram DM</h1>
-    <p>If Instagram does not open automatically, use the button below.</p>
-    <a class="primary" href="https://www.instagram.com/direct/new/?username=hoonchoi.mk1">Open Instagram DM</a>
+    <h1>Opening Instagram</h1>
+    <p>If the Instagram app does not open automatically, use the buttons below.</p>
+    <a class="primary" href="instagram://user?username=hoonchoi.mk1" data-open-instagram>Open Instagram App</a>
+    <a class="secondary" href="https://www.instagram.com/direct/new/?username=hoonchoi.mk1">Open DM in Browser</a>
     <a class="secondary" href="https://www.instagram.com/hoonchoi.mk1/">Open Instagram Profile</a>
   </main>
 </body>
