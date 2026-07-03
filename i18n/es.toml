@@ -129,6 +129,15 @@ other = "Consultas de colaboración"
 [copied_email]
 other = "Correo electrónico copiado"
 
+[hero_qr_label]
+other = "Escanea para enviar DM"
+
+[hero_qr_alt]
+other = "Código QR para Instagram DM"
+
+[hero_qr_aria]
+other = "Abrir Instagram DM con Seunghoon Choi"
+
 [faq_title]
 other = "Preguntas frecuentes"
 [written_by]

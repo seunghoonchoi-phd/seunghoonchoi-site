@@ -129,6 +129,15 @@ other = "合作咨询"
 [copied_email]
 other = "邮箱地址已复制"
 
+[hero_qr_label]
+other = "扫码发送 Instagram 私信"
+
+[hero_qr_alt]
+other = "Instagram 私信二维码"
+
+[hero_qr_aria]
+other = "给 Seunghoon Choi 发送 Instagram 私信"
+
 [faq_title]
 other = "常见问题"
 [written_by]

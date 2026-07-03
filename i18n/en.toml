@@ -129,6 +129,15 @@ other = "Work with me"
 [copied_email]
 other = "Email address copied"
 
+[hero_qr_label]
+other = "Scan for Instagram DM"
+
+[hero_qr_alt]
+other = "QR code for Instagram DM"
+
+[hero_qr_aria]
+other = "Open Instagram DM with Seunghoon Choi"
+
 [faq_title]
 other = "Frequently asked questions"
 [written_by]

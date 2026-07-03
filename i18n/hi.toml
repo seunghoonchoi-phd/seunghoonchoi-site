@@ -129,6 +129,15 @@ other = "सहयोग के लिए संपर्क"
 [copied_email]
 other = "ईमेल पता कॉपी हो गया"
 
+[hero_qr_label]
+other = "Instagram DM के लिए स्कैन करें"
+
+[hero_qr_alt]
+other = "Instagram DM के लिए QR कोड"
+
+[hero_qr_aria]
+other = "Seunghoon Choi को Instagram DM खोलें"
+
 [faq_title]
 other = "अक्सर पूछे जाने वाले सवाल"
 [written_by]

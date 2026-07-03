@@ -1210,9 +1210,16 @@ html[dir="rtl"] .post__toc #TableOfContents a{text-align:right}
 .home-hero__contact:hover{color:var(--copper);border-color:var(--copper)}
 .home-hero__copied{margin-top:10px;min-height:1.2em;font-family:var(--sans);font-size:13px;letter-spacing:.02em;color:var(--copper);opacity:0;transform:translateY(-3px);transition:opacity .25s ease,transform .25s ease}
 .home-hero__copied.is-shown{opacity:1;transform:none}
+.home-hero__qr{margin-top:clamp(14px,2vw,22px);display:inline-flex;align-items:center;gap:12px;padding:10px 14px 10px 10px;border:1px solid var(--hair);border-radius:8px;background:rgba(252,251,249,.78);box-shadow:0 10px 26px rgba(13,27,76,.06);text-align:left;color:var(--ink-soft);transition:transform .2s var(--ease),border-color .2s var(--ease),box-shadow .2s var(--ease)}
+.home-hero__qr:hover{transform:translateY(-2px);border-color:rgba(184,115,51,.48);box-shadow:0 14px 30px rgba(13,27,76,.08)}
+.home-hero__qr-img{display:block;width:76px;height:76px;padding:6px;background:#fff;border:1px solid var(--hair-2);border-radius:6px;flex:0 0 auto}
+.home-hero__qr-copy{display:grid;gap:2px;min-width:0;font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:12px;line-height:1.25;color:var(--muted)}
+.home-hero__qr-copy strong{font-size:13px;font-weight:700;letter-spacing:0;color:var(--navy)}
+html[dir="rtl"] .home-hero__qr{padding:10px 10px 10px 14px;text-align:right}
+@media(max-width:560px){.home-hero__qr{display:none}}
 .home-search{
   max-width:var(--maxw);
-  margin:calc(clamp(50px,7.5vw,96px) * -1) auto 0;
+  margin:calc(clamp(28px,4.5vw,56px) * -1) auto 0;
   padding:0 clamp(20px,5vw,56px) clamp(20px,3vw,36px);
   display:flex;
   justify-content:center;

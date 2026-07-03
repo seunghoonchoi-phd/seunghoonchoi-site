@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+{{ $instagramDM := .Site.Params.instagramDM | default "https://ig.me/m/hoonchoi.mk1" }}
+
 {{/* ===== HERO — identity only (first screen) ===== */}}
 <section class="home-hero">
   <p class="eyebrow"><span class="eyebrow__rule"></span> {{ .Site.Params.role }}</p>
@@ -9,9 +11,18 @@
   <p class="home-hero__cv">
     <a href="/cv/Seunghoon_Choi_CV.pdf" download>{{ i18n "cta_cv" }}</a>
     <button type="button" class="home-hero__contact" data-copy-email="{{ .Site.Params.email }}" data-copied="{{ i18n "copied_email" }}">{{ i18n "cta_contact" }}</button>
-    {{ with .Site.Params.instagram }}<a href="https://ig.me/m/hoonchoi.mk1" data-ig-follow="{{ . }}" target="_blank" rel="noopener">{{ i18n "cta_instagram" }}</a>{{ end }}
+    {{ with .Site.Params.instagram }}<a href="{{ $instagramDM }}" data-ig-follow="{{ . }}" target="_blank" rel="noopener">{{ i18n "cta_instagram" }}</a>{{ end }}
   </p>
   <p class="home-hero__copied" data-copy-toast role="status" aria-live="polite"></p>
+  {{ with .Site.Params.instagram }}
+    <a class="home-hero__qr" href="{{ $instagramDM }}" target="_blank" rel="noopener" aria-label="{{ i18n "hero_qr_aria" }}">
+      <img class="home-hero__qr-img" src="/images/qr-instagram-dm.svg" width="88" height="88" alt="{{ i18n "hero_qr_alt" }}">
+      <span class="home-hero__qr-copy">
+        <span>{{ i18n "hero_qr_label" }}</span>
+        <strong>@hoonchoi.mk1</strong>
+      </span>
+    </a>
+  {{ end }}
 </section>
 
 <section class="home-search reveal" aria-label="{{ i18n "search_label" }}">

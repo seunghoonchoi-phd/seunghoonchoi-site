@@ -129,6 +129,15 @@ other = "استفسار عن تعاون"
 [copied_email]
 other = "تم نسخ عنوان البريد الإلكتروني"
 
+[hero_qr_label]
+other = "امسح رمز QR لرسالة Instagram"
+
+[hero_qr_alt]
+other = "رمز QR لرسائل Instagram"
+
+[hero_qr_aria]
+other = "افتح رسالة Instagram إلى Seunghoon Choi"
+
 [faq_title]
 other = "أسئلة شائعة"
 [written_by]

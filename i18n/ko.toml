@@ -129,6 +129,15 @@ other = "협업 문의"
 [copied_email]
 other = "이메일 주소가 복사되었습니다"
 
+[hero_qr_label]
+other = "Instagram DM QR"
+
+[hero_qr_alt]
+other = "Instagram DM QR 코드"
+
+[hero_qr_aria]
+other = "최승훈에게 Instagram DM 보내기"
+
 [faq_title]
 other = "자주 묻는 질문"
 [written_by]
