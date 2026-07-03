@@ -1,11 +1,11 @@
 ---
 title: "韩文打字练习：从键盘指位到入籍作文"
-seoTitle: "韩文打字练习应用：从二式键盘指位练习到入籍作文范文跟打"
+seoTitle: "韩文打字练习应用：从二式键盘指位练习到入籍作文范文输入练习"
 date: 2026-06-28
 categories: ["工具"]
 tags: ["打字练习", "入籍", "应用"]
 subtitle: "第一次用韩文键盘也没关系，按屏幕提示的键就行。"
-description: "免费可安装网页应用，分阶段练习韩文二式键盘，从指位练习到入籍作文范文跟打。提示下一个要按的键和手指，支持韩语·中文·越南语·泰语。"
+description: "免费可安装网页应用，分阶段练习韩文二式键盘，从指位练习到看着入籍作文范文输入。提示下一个要按的键和手指，支持韩语·中文·越南语·泰语。"
 image: /images/typing-card.svg
 reviewStatus: "done"
 ---
@@ -14,7 +14,7 @@ reviewStatus: "done"
   <div class="appcard__body">
     <span class="appcard__free">可安装网页应用（PWA）</span>
     <h3>韩文打字练习</h3>
-    <p>从键盘指位练习到入籍作文范文跟打，一步一步来。</p>
+    <p>从键盘指位练习到入籍作文范文输入练习，一步一步来。</p>
     <a class="cta" href="https://seunghoonchoi-phd.github.io/gwiwha/typing/" target="_blank" rel="noopener">打开应用 →</a>
   </div>
 </div>
@@ -23,7 +23,7 @@ reviewStatus: "done"
 
 - 指位练习：通过 ㅎ·ㅁ·ㅂ·ㅕ 等单字母，熟悉键位和手指
 - 单字·短句练习：把辅音和元音一个字一个字组合，再练短句
-- 入籍作文练习：跟着打考试主题的 200 字范文，并显示中文意思
+- 入籍作文练习：看着考试主题的 200 字范文和中文意思，自己输入
 - 四种语言：韩语·中文·越南语·泰语，跟随你在入籍应用里选择的语言
 
 [打开应用 →](https://seunghoonchoi-phd.github.io/gwiwha/typing/)

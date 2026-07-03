@@ -26,7 +26,7 @@ Once admission is confirmed, things split quickly into "already done" and "still
 | Right after arrival (0-30 days) | I‑94 · ISSS check-in · bank · U.S. phone number · SSN · insurance waiver |
 | After settling in | License exchange · credit card · (optional) car · recurring per-semester / per-year tasks |
 
-Once admission, funding, visa, I‑20, housing, and accounts are sorted, what remains falls into three big chunks: (1) pre-departure wrap-up (documents, medications, money transfer, license), (2) right-after-arrival administration (check-in, bank, SSN, license, insurance waiver), and (3) academics (placement exam, course registration). Part 1 focuses on the items you must finish before departure.
+Once admission, funding, visa, I‑20, housing, and accounts are sorted, handle the remaining work in three tracks. Before departure, finish documents, medications, money transfer, and your International Driving Permit. Right after arrival, handle ISSS check-in, bank, SSN, license, and insurance waiver. On the academic side, confirm the placement exam and course registration. Part 1 focuses on the items you must finish before departure.
 
 ### Five Live Actions to Tackle Right After Acceptance
 
@@ -132,9 +132,12 @@ Administrative items worth settling in Korea before you leave.
 
 ## Pre-Departure (Korea) Checklist: STEP 1
 
-Finally, here is everything to finish in Korea before departure, in one line.
+Finally, check these items before leaving Korea.
 
-> GatorLink · ONE.UF Holds · housing lease · immunization records · KSA connection · short-term airport SIM / course registration discussion, English documents for psychiatric/chronic conditions & bridge medication, OTC meds, overseas shipping, IDP issuance, confirm physical visa
+- Accounts and school administration: GatorLink, ONE.UF Holds, immunization records
+- Housing and local contacts: housing lease, KSA connection, short-term airport SIM
+- Courses and research: course registration discussion
+- Health, documents, and daily life: English documents for psychiatric/chronic conditions, medication to cover the first days after arrival, OTC meds, overseas shipping, IDP issuance, physical visa check
 
 That's the big picture from acceptance through departure. In the next part, I'll walk through the administration you must finish within 30 days of arrival (I‑94, ISSS check-in, bank, SSN, insurance waiver), in order.
 

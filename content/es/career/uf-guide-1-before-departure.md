@@ -26,7 +26,7 @@ Una vez confirmada la admisión, las cosas se dividen rápido entre "lo que ya e
 | Justo al llegar (0 a 30 días) | I-94 · check-in con la ISSS · banco · número de teléfono estadounidense · SSN · exención (waiver) del seguro |
 | Ya instalado | Cambio de licencia de conducir · tarjeta de crédito · (opcional) auto · trámites que se repiten cada semestre y cada año |
 
-Cuando te admiten, se confirma la financiación, salen la visa y el I-20, y consigues casa y cuentas, lo que queda se agrupa en tres bloques grandes: 1) el cierre antes de partir (documentos, medicinas, envío de dinero, licencia), 2) los trámites justo al llegar (check-in, banco, SSN, licencia, exención del seguro) y 3) lo académico (examen de nivel, matrícula). Esta primera entrega se centra en lo que hay que terminar antes de salir del país.
+Cuando te admiten, se confirma la financiación, salen la visa y el I-20, y consigues casa y cuentas, lo que queda se puede resolver en tres frentes. Antes de partir, termina los documentos, las medicinas, el envío de dinero y el permiso internacional de conducir. Justo al llegar, haz el check-in con la ISSS, abre el banco, gestiona el SSN, la licencia y la exención del seguro. En lo académico, confirma el examen de nivel y la matrícula. Esta primera entrega se centra en lo que hay que terminar antes de salir del país.
 
 ### Las 5 cosas que debes resolver justo después de la admisión
 
@@ -135,9 +135,12 @@ Estos son los trámites que conviene dejar resueltos en Corea antes de salir.
 
 ## Lista de tareas antes de partir (en Corea): PASO 1
 
-Por último, reúno en una línea todo lo que debes terminar en Corea antes de salir.
+Por último, revisa estos puntos antes de salir de Corea.
 
-> GatorLink · Holds en ONE.UF · contrato de vivienda · registro de vacunas · conexión con la KSA · SIM de corta duración en el aeropuerto / acuerdo de matrícula, documentos en inglés de psiquiatría y enfermedades crónicas y medicación puente, medicinas, envío internacional, emisión del IDP, comprobación de la visa física
+- Cuentas y administración de la universidad: GatorLink, Holds en ONE.UF, registro de vacunas
+- Vivienda y contactos locales: contrato de vivienda, conexión con la KSA, SIM de corta duración en el aeropuerto
+- Cursos e investigación: acuerdo de matrícula
+- Salud, documentos y vida diaria: documentos en inglés de psiquiatría y enfermedades crónicas, medicación para cubrir los primeros días tras llegar, medicinas, envío internacional, emisión del IDP, comprobación de la visa física
 
 Hasta aquí el panorama general desde la admisión hasta la salida. En la próxima entrega veré, en orden, los trámites que hay que terminar dentro de los 30 días tras llegar (I-94, check-in con la ISSS, banco, SSN, exención del seguro).
 

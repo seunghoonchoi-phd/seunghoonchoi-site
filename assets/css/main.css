@@ -768,7 +768,9 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
 .post__body h3{font-family:var(--serif);font-size:22px;color:var(--ink);margin:1.4em 0 .4em}
 .post__body p{margin-bottom:1.1em}
 .post__body a{color:var(--navy);border-bottom:1px solid var(--copper)}
-.post__body blockquote{border-left:3px solid var(--copper);padding-left:20px;margin:1.2em 0;font-family:var(--serif);font-style:italic;color:var(--ink)}
+.lede blockquote,.post__body blockquote{margin:1.35em 0;padding:.85rem 0;border:0;border-top:1px solid var(--hair);border-bottom:1px solid var(--hair);background:transparent;font-family:var(--sans);font-style:normal;color:var(--ink-soft);line-height:1.68}
+.lede blockquote p,.post__body blockquote p{margin:0 0 .55em}
+.lede blockquote p:last-child,.post__body blockquote p:last-child{margin-bottom:0}
 .post__body ul,.post__body ol{margin:0 0 1.1em 1.3em}.post__body li{margin-bottom:.4em}
 .post__body img{border-radius:12px;margin:1.2em 0}
 .post__body code{font-family:var(--mono);font-size:.88em;background:rgba(13,27,76,.06);padding:.12em .4em;border-radius:5px}
@@ -802,7 +804,7 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
 @media (max-width:920px){
   .cards{grid-template-columns:repeat(2,1fr)}
 }
-@media (max-width:760px){
+@media (max-width:920px){
   .topbar{display:grid;grid-template-columns:minmax(0,1fr) auto;justify-content:normal;gap:10px;padding:0 14px}
   .brand{grid-column:1;grid-row:1;width:100%;max-width:100%;gap:7px;overflow:hidden;flex-wrap:nowrap}
   .brand__logo{width:34px;height:34px;flex:0 0 auto}
@@ -829,6 +831,8 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
   .hamburger[aria-expanded="true"] span:nth-child(1){transform:translateY(7px) rotate(45deg)}
   .hamburger[aria-expanded="true"] span:nth-child(2){opacity:0}
   .hamburger[aria-expanded="true"] span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+}
+@media (max-width:760px){
   .cards,.cards--list{grid-template-columns:1fr}
   .hero__molecule{opacity:.22;right:-25%}
 }
@@ -1090,7 +1094,6 @@ html[dir="rtl"] .post__body p img[src*="about-portrait"]{float:left;margin:.15em
 @media (max-width:560px){.post__body p img[src*="about-portrait"]{float:none;display:block;width:min(78%,260px);margin:0 auto 1.4rem}}
 /* on the about page, section headings start below the floated portrait (not beside it) */
 .post__body:has(img[src*="about-portrait"]) h2{clear:both}
-.lede blockquote,.post__body blockquote{border-left:3px solid var(--copper);background:linear-gradient(90deg,rgba(184,115,51,.06),transparent);padding:14px 20px;margin:1.3em 0;font-family:var(--serif);font-style:italic;color:var(--ink);border-radius:0 8px 8px 0}
 /* card titles pick up navy on hover, copper meta already */
 .card__title a:hover{color:var(--copper)}
 .tl__body h4{color:var(--navy)}
@@ -1200,25 +1203,26 @@ body.lang-ko .cite__text{word-break:keep-all}
 .pub-cite{margin:.2rem 0 .6rem;font-size:.82rem;color:var(--muted);line-height:1.55;letter-spacing:0}.pub-cite strong{color:var(--ink-soft);font-weight:600}.pub-cite em{font-style:italic}
 .publication-note strong{color:var(--ink-soft)}
 
-.post__toc{margin:0 0 30px;padding:14px 20px;background:var(--paper-2);border:1px solid var(--hair);border-radius:10px}
-.post__toc summary{cursor:pointer;font-family:"Kumbh Sans","Gothic A1",var(--sans);font-weight:600;font-size:.86rem;letter-spacing:.05em;text-transform:uppercase;color:var(--navy)}
-.post__toc #TableOfContents{margin-top:.7rem}
+.post__toc{margin:0 0 34px;padding:0 0 18px;background:transparent;border:0;border-bottom:1px solid var(--hair);border-radius:0}
+.post__toc summary{cursor:pointer;font-family:var(--sans);font-weight:700;font-size:.9rem;letter-spacing:0;text-transform:none;color:var(--navy)}
+.post__toc #TableOfContents{margin-top:.85rem}
 .post__toc #TableOfContents ul{margin:0;padding-left:0;list-style:none;counter-reset:toc-item}
-.post__toc #TableOfContents ul ul{margin:.25rem 0 0 2.1rem;counter-reset:toc-subitem}
-.post__toc #TableOfContents li{display:flex;flex-wrap:wrap;align-items:flex-start;gap:.55rem;margin:.32rem 0;line-height:1.5}
-.post__toc #TableOfContents li::before{counter-increment:toc-item;content:counter(toc-item, decimal-leading-zero);flex:0 0 1.55rem;padding-top:.08rem;text-align:right;font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:.72rem;font-weight:700;color:var(--navy);opacity:.72}
+.post__toc #TableOfContents ul ul{grid-column:2;margin:.24rem 0 0;padding-left:0;counter-reset:toc-subitem}
+.post__toc #TableOfContents li{display:grid;grid-template-columns:1.65rem minmax(0,1fr);column-gap:.55rem;row-gap:.16rem;margin:.38rem 0;line-height:1.45;min-width:0}
+.post__toc #TableOfContents li::before{counter-increment:toc-item;content:counter(toc-item, decimal-leading-zero);grid-column:1;padding-top:.08rem;text-align:right;font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:.72rem;font-weight:700;color:var(--navy);opacity:.72}
+.post__toc #TableOfContents li li{grid-template-columns:2.05rem minmax(0,1fr);margin:.26rem 0}
 .post__toc #TableOfContents li li::before{counter-increment:toc-subitem;content:counter(toc-item) "." counter(toc-subitem);font-size:.68rem}
-.post__toc #TableOfContents a{flex:1 1 0;min-width:0;color:var(--ink-soft);text-decoration:none;word-break:normal;overflow-wrap:anywhere}
+.post__toc #TableOfContents a{grid-column:2;min-width:0;color:var(--ink-soft);text-decoration:none;word-break:normal;overflow-wrap:anywhere}
 .post__toc #TableOfContents a:hover{color:var(--copper)}
-html[dir="rtl"] .post__toc #TableOfContents ul ul{margin:.25rem 2.1rem 0 0}
-html[dir="rtl"] .post__toc #TableOfContents li{flex-direction:row-reverse}
+html[dir="rtl"] .post__toc #TableOfContents ul ul{margin:.24rem 0 0}
 html[dir="rtl"] .post__toc #TableOfContents li::before{text-align:left}
 html[dir="rtl"] .post__toc #TableOfContents a{text-align:right}
 @media(max-width:560px){
   .post{width:100%;max-width:100%;padding-inline:clamp(18px,5vw,24px)}
   .post__head,.post__body,.post__toc{min-width:0;max-width:100%}
-  .post__toc{padding-inline:16px;overflow:hidden}
-  .post__toc #TableOfContents li{min-width:0}
+  .post__toc{overflow:hidden}
+  .post__toc #TableOfContents li{grid-template-columns:1.5rem minmax(0,1fr);column-gap:.5rem}
+  .post__toc #TableOfContents li li{grid-template-columns:1.9rem minmax(0,1fr)}
   body.lang-ko .post__title,body.lang-ko .post__subtitle,
   body.lang-ja .post__title,body.lang-ja .post__subtitle,
   body.lang-zh .post__title,body.lang-zh .post__subtitle,

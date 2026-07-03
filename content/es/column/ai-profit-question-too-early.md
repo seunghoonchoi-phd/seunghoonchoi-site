@@ -31,17 +31,17 @@ Por eso preguntar ahora "dónde están las empresas que ganan dinero con IA" es 
 
 ## Los resultados de IA se abaratan rápido
 
-La IA puede hacer un informe. Puede crear una imagen. Puede escribir código. Puede redactar un correo.
+La IA puede producir el borrador de un informe. También puede crear una imagen, escribir código o redactar un correo.
 
 Todo eso sirve. Es realmente cómodo. Pero esos resultados se vuelven comunes muy rápido. Todos pueden abrir la misma ventana, hacer una pregunta parecida y recibir una respuesta parecida.
 
 Es difícil construir un negocio duradero tomando el resultado de unos pocos prompts y publicándolo tal cual. Otros usan las mismas herramientas. Un primer borrador hecho por IA no mantiene la diferencia durante mucho tiempo.
 
-El valor real empieza después.
+La diferencia que puede convertirse en dinero se decide en el trabajo que viene después.
 
 Una persona vuelve a leer el borrador de la IA. Lo compara con datos reales. Mira cómo reaccionan los clientes. Corrige lo que se rompe en el campo. Vuelve a meter esa información en la IA. Luego juzga otra vez la siguiente salida. Revisa, añade evidencia y cambia de dirección varias veces.
 
-El resultado de ese proceso es distinto. Alguien que solo ejecutó IA una vez no lo puede copiar fácilmente. La IA calculó y ordenó, pero una persona volvió a poner encima trabajo, atención y juicio.
+El resultado de ese proceso es distinto. Alguien que solo ejecutó IA una vez no lo puede copiar fácilmente. Una persona volvió a leer el resultado de la IA, lo comparó con datos reales y corrigió los problemas en el campo.
 
 Ganar dinero con IA no significa vender lo que la IA produjo en el primer intento. Empieza cuando la IA hace hasta el fondo lo que sabe hacer, y el ser humano pasa a los juicios más difíciles.
 
@@ -53,7 +53,7 @@ Incorporan un chatbot al flujo de trabajo. Resumen reuniones. Redactan respuesta
 
 Pero la empresa completa no cambia.
 
-Si la línea de aprobación sigue igual, la velocidad se vuelve a bloquear. Si los datos están dispersos, la IA no puede tomar buenos juicios. Si los permisos son ambiguos, la IA no entra al trabajo de campo. Si los criterios de evaluación siguen siendo los antiguos, la gente usa IA para hacer más rápido los viejos informes, no para crear una forma nueva de trabajar.
+Si el proceso de aprobación sigue igual, la IA puede producir el resultado rápido, pero el tiempo hasta la aprobación no se reduce. Si los datos están dispersos, la IA no puede reunir la evidencia que necesita para decidir. Si nadie tiene autoridad clara para corregir el resultado de la IA y aplicarlo a los sistemas del campo, ese resultado no se usa en el trabajo real. Si los criterios de evaluación siguen siendo los antiguos, la gente usa IA para hacer más rápido los viejos informes, no para crear una forma nueva de trabajar.
 
 Usar bien la IA exige cambiar al mismo tiempo el orden del trabajo, el flujo de datos, la responsabilidad y la revisión. No es cuestión de instalar una herramienta más.
 

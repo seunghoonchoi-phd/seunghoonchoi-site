@@ -1,11 +1,11 @@
 ---
 title: "Korean Typing Practice: From Keyboard Basics to Citizenship Essays"
-seoTitle: "Korean Typing Practice App: Dubeolsik key drills to citizenship essay copy-typing"
+seoTitle: "Korean Typing Practice App: Dubeolsik key drills to citizenship essay typing practice"
 date: 2026-06-28
 categories: ["Tools"]
 tags: ["typing practice", "Korean citizenship", "app"]
 subtitle: "New to the Korean keyboard? Just press the key the screen shows you."
-description: "A free installable web app to practice the Korean Dubeolsik keyboard step by step, from key-position drills to copy-typing citizenship essay model answers. It shows the next key and finger, and supports Korean, Chinese, Vietnamese, and Thai."
+description: "A free installable web app to practice the Korean Dubeolsik keyboard step by step, from key-position drills to typing citizenship essay model answers while reading them. It shows the next key and finger, and supports Korean, Chinese, Vietnamese, and Thai."
 image: /images/typing-card.svg
 reviewStatus: "done"
 ---
@@ -14,7 +14,7 @@ reviewStatus: "done"
   <div class="appcard__body">
     <span class="appcard__free">Installable web app (PWA)</span>
     <h3>Korean Typing Practice</h3>
-    <p>From keyboard key drills to copy-typing citizenship essays, one step at a time.</p>
+    <p>From keyboard key drills to typing citizenship essay model answers, one step at a time.</p>
     <a class="cta" href="https://seunghoonchoi-phd.github.io/gwiwha/typing/" target="_blank" rel="noopener">Open the app →</a>
   </div>
 </div>
@@ -23,7 +23,7 @@ I built this so my wife could practice typing the citizenship essay model answer
 
 - Key-position practice: learn where each letter (ㅎ, ㅁ, ㅂ, ㅕ …) sits, with finger guidance
 - Syllable and short-sentence practice: combine consonants and vowels one character at a time, then short sentences
-- Citizenship essay practice: copy-type the 200-character model answers for real exam topics, with the meaning shown
+- Citizenship essay practice: type the 200-character model answers for real exam topics while checking the meaning
 - Four languages: Korean, Chinese, Vietnamese, Thai; it follows the language you chose in the citizenship app
 
 [Open the app →](https://seunghoonchoi-phd.github.io/gwiwha/typing/)

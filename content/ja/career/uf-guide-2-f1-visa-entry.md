@@ -21,7 +21,7 @@ UF国際センターの公式な表現では F-1 Status Requirements、つまり
 1. フルタイム登録の維持：大学院は毎学期フルタイムを維持しなければなりません。オンライン授業はフルタイムの算定に最大3単位までしか認められません。
 2. 学内勤務は週20時間まで：学期中はすべての学内の仕事を合算して週20時間を超えることはできません。GA(Graduate Assistantship, ティーチングアシスタント契約)の任用もこの上限の範囲で運用されます。長期休暇中はフルタイムの勤務が可能です。
 3. 無許可の学外勤務は禁止：CPT(Curricular Practical Training)またはOPT(Optional Practical Training)の事前承認なしに、学外で働くことはできません。
-4. 住所変更は10日以内に届け出：引っ越したら10日以内に [ONE.UF](https://one.uf.edu/) で住所を更新します。
+4. 住所変更は10日以内に届け出：引っ越したら10日以内に [ONE.UF](https://one.uf.edu/) で住所を更新しなければなりません。
 5. I-20・パスポートの有効性を維持：パスポートは常に有効期限が6か月以上残っている必要があります。
 
 さらに詳しい内容は、UF国際センターの [Maintaining F-1 Status](https://internationalcenter.ufl.edu/iss/maintaining-f-1-status/) と [登録要件](https://internationalcenter.ufl.edu/iss/maintaining-f-1-status/registration-requirements/) のページで確認できます。
@@ -58,7 +58,7 @@ CBP(U.S. Customs and Border Protection, アメリカ税関国境警備局)の審
 1. I-94の出力：入国の1〜2日後に [i94.cbp.dhs.gov](https://i94.cbp.dhs.gov) にアクセスし、*Get Most Recent I-94* で出力します。
 2. ISSSポータルでチェックイン：[isss.internationalcenter.ufl.edu](https://isss.internationalcenter.ufl.edu/) にアクセスし、I-20、I-901の領収書、DS-160のPDF、パスポート、F-1ビザ、POEのスタンプ、直近の入国I-94、渡航履歴をアップロードして提出します。
    - ⚠️ DS-160の全体PDFと確認ページは、ビザ面接の直後にすぐ保存 しておくほうが安心です。あとで再ダウンロードしにくかったり、学校のチェックインで必要になったりすることがあります。
-3. アメリカの住所を登録：P.O. Boxは認められません。住所がまだ決まっていない場合は、初日の宿泊先の住所を登録し、引っ越したら10日以内に更新します。
+3. アメリカの住所を登録：P.O. Boxは認められません。住所がまだ決まっていない場合は、初日の宿泊先の住所を登録し、引っ越したら10日以内に更新しなければなりません。
 4. チェックインが処理され、Drop/Addの締め切り後30日以内に Continued Attendance I-20(在学継続確認用のI-20) が発行されます。すべてのI-20は破棄せずに全部保管 しておくほうが安心です。
 
 ## 政府手数料

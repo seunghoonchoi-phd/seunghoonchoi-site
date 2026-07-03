@@ -31,17 +31,17 @@ So when people ask, "Where are the companies making money with AI?", the questio
 
 ## AI outputs get cheap fast
 
-AI can make a report. It can make an image. It can write code. It can draft an email.
+AI can produce a report draft. It can also make an image, write code, or draft an email.
 
 All of that is useful. It is genuinely convenient. But those outputs become common very quickly. Everyone can open the same window, ask a similar question, and get a similar answer.
 
 It is hard to build a lasting business by taking the output of a few prompts and shipping it as-is. Other people use the same tools. A single AI draft does not stay differentiated for long.
 
-The real value starts after that.
+The difference that can turn into money is decided in the work after that.
 
 A person reads the AI draft again. They compare it with real data. They watch how customers respond. They fix the parts that break in the field. They send that back into AI. Then they judge the next output again. They revise, add evidence, and change direction several times.
 
-The result is different. Someone who only ran AI once cannot easily catch up. AI did the calculation and the organizing, but a human layered labor, attention, and judgment back on top.
+The result is different. Someone who only ran AI once cannot easily catch up. A person reread the AI output, compared it with real data, and fixed it in the field.
 
 Making money with AI does not mean selling whatever AI produced on the first pass. It starts when AI is pushed all the way through what it is good at, and humans move upward into the harder judgment.
 
@@ -53,7 +53,7 @@ They put a chatbot into the workflow. They summarize meetings. They draft custom
 
 But it does not transform the whole company.
 
-If the approval line is unchanged, speed gets blocked again. If data is scattered, AI cannot make important judgments. If permissions are unclear, AI cannot enter field work. If evaluation standards stay the same, people use AI to make old reports faster instead of creating new ways to work.
+If the approval process is unchanged, AI may produce the result quickly, but the time to approval does not shrink. If data is scattered, AI cannot gather the evidence it needs for decisions. If no one has clear authority to revise AI output and apply it to field systems, the output does not get used in real work. If evaluation standards stay the same, people use AI to make old reports faster instead of creating new ways to work.
 
 Using AI well requires the order of work, the flow of data, responsibility, and review to change together. This is not just installing one more tool.
 

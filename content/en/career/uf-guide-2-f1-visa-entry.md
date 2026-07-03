@@ -21,7 +21,7 @@ Maintaining status isn't a recommendation. It is a condition of lawful stay. If 
 1. Stay enrolled full-time: Graduate students must maintain full-time enrollment every semester. Online courses count toward full-time status for no more than 3 credits.
 2. On-campus work capped at 20 hours/week: During the semester, all on-campus jobs combined cannot exceed 20 hours per week. Your GA (assistantship) appointment operates within this limit. Full-time work is allowed during breaks.
 3. Never work off-campus without authorization: Off-campus employment requires prior CPT/OPT approval.
-4. Report any address change within 10 days: When you move, update your address within 10 days at [ONE.UF](https://one.uf.edu/).
+4. Report any address change within 10 days: When you move, you must update your address within 10 days at [ONE.UF](https://one.uf.edu/).
 5. Keep your I-20 and passport valid: Your passport should always have at least 6 months of validity remaining.
 
 For more detail, see UF's International Center pages on [Maintaining F-1 Status](https://internationalcenter.ufl.edu/iss/maintaining-f-1-status/) and [registration requirements](https://internationalcenter.ufl.edu/iss/maintaining-f-1-status/registration-requirements/).
@@ -58,7 +58,7 @@ Arriving in the U.S. isn't the finish line. New F-1 students must complete ISSS 
 1. Print your I-94: 1-2 days after entry, go to [i94.cbp.dhs.gov](https://i94.cbp.dhs.gov) and use *Get Most Recent I-94*.
 2. Check in through the ISSS portal: Go to [isss.internationalcenter.ufl.edu](https://isss.internationalcenter.ufl.edu/), upload your I-20, I-901 receipt, DS-160 PDF, passport, F-1 visa, POE stamp, most recent I-94, and travel history, then SUBMIT.
    - Save the full DS-160 PDF and confirmation page right after your visa interview. They can be hard to retrieve later and may be needed for school check-in.
-3. Register a U.S. address: P.O. Boxes are not accepted. If your address isn't set yet, register your first night's lodging address, then update it within 10 days of moving.
+3. Register a U.S. address: P.O. Boxes are not accepted. If your address isn't set yet, register your first night's lodging address, then you must update it within 10 days of moving.
 4. Once your full-time enrollment and address are confirmed, a Continued Attendance I-20 is issued. Never discard any I-20; keep all of them.
 
 ## Government Fees
