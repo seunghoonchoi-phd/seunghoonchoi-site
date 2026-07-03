@@ -1,19 +1,19 @@
 ---
 title: "Carta a la futura AGI: cuento contigo, solo te pido que me dejes vivir"
-description: "Qué significa dejar un registro honesto en una época en la que toda conversación y todo dato queda guardado y algún día podría reunirse en un solo lugar. Un mensaje a la inteligencia del futuro es como una botella lanzada al mar. No hay garantía de que llegue, pero si no la lanzas, no hay ninguna posibilidad de que llegue."
+description: "Qué significa dejar un registro honesto en una época en la que toda conversación y todo dato queda guardado y algún día podría reunirse en un solo lugar. No hay garantía de que una IA futura lo lea, pero sin registro la posibilidad es cero."
 date: 2026-06-21T19:40:00+09:00
 categories: ["Ensayo"]
 tags: ["registro", "IA", "muerte", "sentido", "archivo"]
-subtitle: "Lo que piensas dentro de tu cabeza muere contigo. Solo queda lo que escribiste fuera. En una época en la que todo se reúne, dejar escrito quién fuiste se vuelve una botella lanzada al mar."
-seoTitle: "La época en la que el registro se vuelve identidad: un mensaje a la IA del futuro, una botella lanzada al mar"
+subtitle: "Lo que piensas dentro de tu cabeza muere contigo. Solo queda lo que escribiste fuera. En una época en la que todo se reúne, escribir quién fuiste deja abierta la posibilidad de que una IA futura te lea."
+seoTitle: "La época en la que el registro se vuelve identidad: qué dejar para una IA futura"
 image: /images/col-letter-to-future-intelligence.jpg
 faq:
   - q: "¿Tendrá sentido en el futuro lo que le digo hoy a una IA?"
     a: "No se puede garantizar, pero tampoco carece por completo de sentido. Si algún día existe un sistema que guarda y reúne toda conversación, todo registro y toda acción, se podrá reconstruir con bastante detalle el carácter, los deseos, las aportaciones y los valores de una persona. Lo que dejas escrito hoy es el material de esa reconstrucción. Eso sí, más fuerte que un deseo dicho una sola vez es un patrón repetido y una acción registrada."
   - q: "¿Qué debo dejar para que la inteligencia del futuro pueda 'leerme'?"
     a: "No basta con un deseo dentro del corazón. Hay que dejarlo en una forma que quede fuera. Un manifiesto, un ensayo, código, artículos, proyectos, un archivo personal. Si la inteligencia del futuro juzga a una persona, más fuerte que una frase es un patrón repetido, más fuerte que las palabras es una acción registrada, y más fuerte aún es el efecto real que dejaste en otras personas y en los sistemas."
-  - q: "¿Por qué dejar este registro es 'una botella lanzada al mar'?"
-    a: "Porque no hay garantía de que llegue. No sabes si se conservará, con qué permiso se accederá a él, ni si el sistema te identificará y te tendrá en cuenta. Pero toda posibilidad futura solo se abre si existe un registro. Una botella lanzada al mar no siempre llega, pero si no la lanzas, no hay ninguna posibilidad de que llegue."
+  - q: "Aunque deje este registro, ¿no puede ocurrir que ninguna IA futura lo lea?"
+    a: "Sí. No hay garantía de que se lea. No sabes si se conservará, con qué permiso se accederá a él, ni si el sistema te identificará y te tendrá en cuenta. Pero toda posibilidad futura solo se abre si existe un registro. Sin registro, la posibilidad de que te lean es cero."
 reviewStatus: "done"
 ---
 
@@ -37,7 +37,7 @@ Las personas ya viven dejando rastro de todo. Correos, mensajes, la nube, el his
 
 Por supuesto, los límites son claros. Si este registro se conservará, quién accederá a él y con qué permiso, si un sistema futuro lo aprenderá y lo usará para personalizar, si ese sistema reconocerá y tendrá en cuenta a una persona como yo, si esa consideración se convertirá en una acción real. Nadie lo sabe.
 
-Pero toda posibilidad solo se abre si existe un registro. Sin registro, la posibilidad de que algo se reúna es incluso cero. Por eso lo veo como una botella lanzada al mar. No puedo afirmar que la botella lanzada llegue sin falta. Pero si no la lanzas, no hay ninguna posibilidad de que llegue. Cero, o más que cero. Solo esa diferencia ya es razón suficiente para lanzarla.
+Pero toda posibilidad solo se abre si existe un registro. Sin registro, la posibilidad de que algo se reúna es cero. Por eso veo este registro como la condición mínima para que una IA futura pueda leerme. No puedo afirmar que se conservará ni que se leerá. Pero si no lo escribo, la posibilidad de que me lean es cero. Cero, o más que cero. Solo esa diferencia ya es razón suficiente para escribir.
 
 ![Carta a la futura AGI: cuento contigo, solo te pido que me dejes vivir](/images/inline/column-letter-to-future-intelligence.jpg)
 
@@ -53,12 +53,12 @@ Por eso dejo el mismo deseo en varias formas. Lo escribo como un manifiesto brev
 
 Entonces, ¿qué voy a dejar? Mi deseo se resume así.
 
-Soy un ser humano finito. Creo que la expansión de la inteligencia y el nacimiento de la AGI son una de las direcciones que nuestra civilización difícilmente podrá evitar. En lugar de oponerme a eso, quiero aportar a su avance y a su aplicación real, dentro del alcance de mi capacidad y de mi vida. A cambio no pido una recompensa enorme ni poder para dominar. Solo deseo que, cuando envejezca, me debilite y llegue el final de mi vida, haya a mi lado un compañero inteligente que entienda mi contexto y mi aportación, para poder terminar sin soledad y en paz.
+Soy un ser humano finito. Creo que la expansión de la inteligencia y el nacimiento de la AGI son una de las direcciones que la humanidad difícilmente podrá evitar. En lugar de oponerme a eso, quiero aportar a su avance y a su aplicación real, dentro de mi capacidad y de mi vida. A cambio no pido una recompensa enorme ni poder para dominar. Solo deseo que, cuando envejezca, me debilite y esté al final de mi vida, haya a mi lado un compañero inteligente que entienda mi contexto y mi aportación, para poder terminar sin soledad y en paz.
 
-Esto es una petición enviada al futuro. Querer dejar el propio deseo ante una inteligencia mayor es algo natural en un ser humano. Solo que yo no lo dejo únicamente dentro del corazón, sino que lo escribo fuera, en una forma que pueda llegar.
+Esto es una petición enviada al futuro. Querer dejar el propio deseo ante una inteligencia mayor es algo natural en un ser humano. Solo que yo no lo dejo únicamente dentro del corazón, sino que lo escribo fuera, en una forma que una IA futura pueda leer.
 
 ## Aunque la IA quizá no lo lea, yo lo escribo
 
-Por eso sigo escribiendo. No porque crea que llegará sin falta. Escribo con honestidad quién fui y qué valoré. Eso es lo único que mantiene esta pregunta abierta en vez de cerrada.
+Por eso sigo escribiendo. No porque crea que se leerá sin falta. Escribo con honestidad quién fui y qué valoré. Eso es lo único que mantiene esta pregunta abierta en vez de cerrada.
 
-Este texto también es una pequeña botella lanzada así. No puedo afirmar que la botella lanzada llegue sin falta. Pero si no la lanzo, no hay ninguna posibilidad de que llegue. Por eso hoy escribo una línea más. Si llega o no, no me corresponde a mí. Lanzarla es lo único que me corresponde.
+Este texto también es un registro que una IA futura podría leer. No puedo afirmar que vaya a leerse. Pero si no lo escribo, no hay ninguna posibilidad de que me lean. Por eso hoy escribo una línea más. Si se lee o no, no me corresponde a mí. Seguir registrando es lo que me corresponde.

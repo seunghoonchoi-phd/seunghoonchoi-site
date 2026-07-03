@@ -1,12 +1,12 @@
 ---
-title: "AI Is Not Advancing Too Fast: Compared with Civilization's Stopwatch, It Is Still Slow"
+title: "AI Is Not Advancing Too Fast: Global Warming, Hair Loss, Aging, and Moon Bases Are Still Unsolved"
 date: 2026-06-24T00:18:00+09:00
 draft: false
 categories: ["AI"]
 tags: ["AI", "jobs", "employment", "climate crisis", "energy transition"]
-subtitle: "AI can make answers. Turning those answers into civilization is still human work."
-description: "Human employment is still necessary in the AI era because humans are the sensors, executors, verifiers, and accountable operators of the real world."
-seoTitle: "AI Is Not Advancing Too Fast: Civilization's Stopwatch and Employment in the AI Era"
+subtitle: "Before asking whether AI is too fast, look at the problems we still have not solved. If we cannot even build a moon base yet, we need tools that help people finish work in the real world, not slower tools."
+description: "AI is not too fast. It is still too slow for large unsolved problems like global warming, aging, hair loss, and moon bases, and human employment remains necessary to turn AI answers into real work."
+seoTitle: "AI Is Not Advancing Too Fast: The Big Problems Still Unsolved"
 image: /images/col-reality-is-not-a-database.jpg
 ogimage: /images/col-reality-is-not-a-database.jpg
 reviewStatus: "done"
@@ -23,9 +23,9 @@ faq:
 
 <p class="inline-image-caption">The reason AI seems fast is not because it solves the entire problem, but because it quickly processes the part with organized data.</p>
 
-Human employment is still necessary in the AI era not because humans are smarter than AI. It is because humans are the sensors, actuators, accountable actors, and institutional operators of the real world. AI can make answers, but employment turns those answers into civilization. As AI takes over more work, the question naturally appears: "If AI does everything, why should humans be employed?"
+Human employment is still necessary in the AI era not because humans are smarter than AI. It is because humans sense the real world, operate equipment, verify results, and take responsibility. AI can make answers, but people have to install, test, operate, and explain those answers in the real world. As AI takes over more work, the question naturally appears: "If AI does everything, why should humans be employed?"
 
-But that question needs to be asked differently. For civilization-scale problems, employment is not merely a way to make a living. It is an execution structure. A responsibility structure. A structure that connects plans to the field.
+But that question needs to be asked differently. For large unsolved problems, employment is not merely a way to make a living. It is the link between plans, responsibility, and the field.
 
 Problems like responding to global warming, transforming energy systems, and building space infrastructure are not "knowing the answer" problems. They are problems of installing the answer in reality, maintaining it, verifying it, and moving people.
 
@@ -33,9 +33,9 @@ Problems like responding to global warming, transforming energy systems, and bui
 
 AI feels fast because the output on the screen has become fast. Drafts that used to take days appear in minutes. Searching, sorting, coding, design, and translation all start faster than before.
 
-But civilization is not a document. Climate work needs power plants, grids, batteries, factories, mines, ships, aircraft, cities, agriculture, finance, and politics to move together. Hair loss, aging, cancer, dementia, and a lunar base all sit outside the monitor too.
+But big problems are not documents. Climate work needs power plants, grids, batteries, factories, mines, ships, aircraft, cities, agriculture, finance, and politics to move together. Hair loss, aging, cancer, dementia, and a lunar base all sit outside the monitor too.
 
-By that standard, AI is still slow. The speed we feel is the speed inside the monitor. Civilization moves outside the monitor.
+By that standard, AI is still slow. The speed we feel is the speed inside the monitor. Real change happens outside the monitor, in power plants, factories, hospitals, labs, and public institutions.
 
 ## We have solved very few big problems yet
 
@@ -61,7 +61,7 @@ Climate action alone makes this clear. [IPCC AR6 WGIII](https://www.ipcc.ch/repo
 
 But what comes next is human work: securing land, negotiating with residents, construction, safety management, quality control, maintenance, regulatory response, accident responsibility, cost adjustment, and long-term operation. That is employment.
 
-Employment is not simply a way to earn money. It is the execution structure that keeps civilization projects running in reality.
+Employment is not simply a way to earn money. It is how large projects keep running in reality.
 
 The energy transition does not end with "install solar." It needs grids, plants, batteries, nuclear power, hydrogen, transmission, transformers, power semiconductors, mining, refining, manufacturing, maintenance, safety management, and permits.
 
@@ -79,21 +79,21 @@ So the AI era needs humans who verify AI outputs against real-world risk. AI pro
 
 This is the core of high-level employment going forward. We do not only need people who "know how to use AI." We need people who can check AI-made outputs again against safety, cost, responsibility, institutions, and people.
 
-![AI Is Not Advancing Too Fast: Compared with Civilization's Stopwatch, It Is Still Slow](/images/inline/column-reality-is-not-a-database.jpg)
+![AI Is Not Advancing Too Fast: Global Warming, Hair Loss, Aging, and Moon Bases Are Still Unsolved](/images/inline/column-reality-is-not-a-database.jpg)
 
 <p class="inline-image-caption">In reality, even after the answer is found, the process of installation, verification, and responsibility allocation takes time.</p>
 
-## Employment is civilization's execution structure
+## People finish the work in the field
 
-Employment is not merely "feeding people." Large-scale unemployment and exclusion make civilization projects impossible to sustain for long. When people lose jobs, income, and meaning, climate action or space development becomes politically hard to hold together. The tax base weakens, social trust erodes, extremism grows, and long-term projects can be reversed by one election.
+Employment is not merely "feeding people." Big problems have to be finished in the field. Someone has to inspect land, bring in equipment, check processes, make data, report accidents, persuade people, and carry responsibility.
 
-That is why the [ILO guidelines for a just transition](https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies) matter. A green transition is not only a technology transition. It has to move together with labor, education, wages, communities, and social dialogue. Systems last when people participate. Systems fall apart politically when people are excluded. Employment is the social stabilizer that lets civilization-scale projects keep running.
+That is why the [ILO guidelines for a just transition](https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies) matter. A green transition is not only a technology transition. It has to move together with labor, education, wages, communities, and social dialogue. Systems last when people participate. Systems fall apart politically when people are excluded. Employment is the social stabilizer that lets long projects keep running.
 
 ## AI removes lower-level work, not humans
 
 AI does not make all humans unnecessary. More precisely, it shrinks work that can be replaced by AI alone. Repetitive document writers may shrink. Simple data-entry roles may shrink. Work that only applies memorized rules may shrink.
 
-But problem definers, AI-output reviewers, field integrators, real-world data generators, exception handlers, and operators of civilization projects become more important.
+But problem definers, AI-output reviewers, field integrators, real-world data generators, exception handlers, and people who run large real-world projects in power plants, factories, hospitals, and infrastructure become more important.
 
 The [World Economic Forum Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/) also expects technological innovation and the green transition to significantly reshape jobs and skills between 2025 and 2030. WEF expects structural labor-market change to create both new and declining jobs, with the possibility of net employment growth by 2030 overall.
 
@@ -109,6 +109,6 @@ AI can optimize. But human society has to decide what to optimize. This is not a
 
 ## Conclusion: AI needs to get faster
 
-The conclusion is simple. AI creates possibilities. Humans fix those possibilities into reality. AI makes answers. Employment turns answers into civilization.
+The conclusion is simple. AI creates possibilities. Humans install, test, and operate those possibilities in the real world. AI makes answers. Employment turns answers into work that power grids, hospitals, factories, labs, and institutions can actually use.
 
-Humans are needed not because they are smarter than AI. They are needed because they are responsible for reality. What disappears in the AI era is not the need for humans, but the human role limited to small problems. If humanity is to overcome global crises and expand its zone of survival into space, humans should become not AI's competitor, but the execution layer of civilization.
+Humans are needed not because they are smarter than AI. They are needed because they are responsible for reality. What disappears in the AI era is not the need for humans, but the human role limited to small problems. If humanity is to overcome global crises and expand its zone of survival into space, humans should not try to compete with AI. They should become the people who turn AI outputs into real-world systems.
