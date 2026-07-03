@@ -428,13 +428,3 @@
   paintReviewBadges();
   window.addEventListener("storage", function (e) { if (e.key === "sc_review_status") paintReviewBadges(); });
 })();
-
-/* Instagram CTA: on touch devices (phone), swap the DM web link for the profile so it opens the app where you can follow */
-(function () {
-  try {
-    var a = document.querySelector("[data-ig-follow]");
-    if (a && window.matchMedia && matchMedia("(pointer:coarse)").matches) {
-      a.href = a.getAttribute("data-ig-follow");
-    }
-  } catch (e) {}
-})();

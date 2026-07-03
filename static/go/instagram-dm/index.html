@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Opening Instagram DM</title>
+  <style>
+    :root{color-scheme:light dark;--ink:#101828;--muted:#667085;--line:#d0d5dd;--bg:#f8f6f3;--card:#fff;--brand:#0d1b4c}
+    @media (prefers-color-scheme:dark){:root{--ink:#f2f4f7;--muted:#98a2b3;--line:#344054;--bg:#0b0f1a;--card:#101828;--brand:#d4955a}}
+    *{box-sizing:border-box}
+    body{margin:0;min-height:100vh;display:grid;place-items:center;padding:24px;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
+    main{width:min(420px,100%);padding:28px;border:1px solid var(--line);border-radius:12px;background:var(--card);box-shadow:0 18px 42px rgba(13,27,76,.12)}
+    h1{margin:0 0 8px;font-size:24px;line-height:1.2}
+    p{margin:0 0 18px;color:var(--muted);line-height:1.55}
+    a{display:flex;align-items:center;justify-content:center;min-height:46px;border-radius:8px;text-decoration:none;font-weight:700}
+    .primary{background:var(--brand);color:#fff}
+    .secondary{margin-top:10px;color:var(--brand);border:1px solid var(--line)}
+  </style>
+  <script>
+    const dmUrl = "https://www.instagram.com/direct/new/?username=hoonchoi.mk1";
+    window.addEventListener("pageshow", () => {
+      window.setTimeout(() => { window.location.replace(dmUrl); }, 250);
+    });
+  </script>
+</head>
+<body>
+  <main>
+    <h1>Opening Instagram DM</h1>
+    <p>If Instagram does not open automatically, use the button below.</p>
+    <a class="primary" href="https://www.instagram.com/direct/new/?username=hoonchoi.mk1">Open Instagram DM</a>
+    <a class="secondary" href="https://www.instagram.com/hoonchoi.mk1/">Open Instagram Profile</a>
+  </main>
+</body>
+</html>
