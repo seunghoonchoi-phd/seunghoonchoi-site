@@ -8,7 +8,6 @@ seoTitle: "Por qué los empleados no logran productividad con IA: la fricción d
 image: /images/col-execution-friction.jpg
 reviewStatus: "done"
 ---
-
 ![Montón de cables de computadora enredados de cualquier manera sobre un escritorio](/images/col-execution-friction.jpg)
 
 <p class="inline-image-caption">Si el trabajo sigue siendo lento después de adoptar IA, el tiempo puede estar yéndose en los procesos de entrada, revisión y aprobación, no en el rendimiento del modelo.</p>

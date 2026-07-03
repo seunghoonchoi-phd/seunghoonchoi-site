@@ -9,7 +9,6 @@ seoTitle: "Por qué no puedes explicar un informe escrito por IA: el conocimient
 image: /images/col-context-debt.jpg
 reviewStatus: "done"
 ---
-
 ![Un viejo mapa urbano extendido sobre una mesa, lleno de callejones pero sin marcar las avenidas principales](/images/col-context-debt.jpg)
 
 <p class="inline-image-caption">Si el autor no puede explicar un informe elaborado por AI, el autor sólo actuará como mensajero y no como responsable del documento.</p>

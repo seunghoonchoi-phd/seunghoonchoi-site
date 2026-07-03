@@ -9,7 +9,6 @@ seoTitle: "La verificación va antes que la habilidad: por qué la confianza y l
 image: /images/col-invisible-currencies.jpg
 reviewStatus: "done"
 ---
-
 ![Un vendedor de mercado entregando a una clienta un trozo de fruta cortada](/images/col-invisible-currencies.jpg)
 
 <p class="inline-image-caption">Sin datos de verificación, las afirmaciones de capacidad pueden parecer palabras que aumentan los riesgos que debe asumir el oponente.</p>

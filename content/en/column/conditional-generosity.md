@@ -9,7 +9,6 @@ seoTitle: "How to Be Good Without Being a Pushover: Goodness, Reputation, Distan
 image: /images/col-conditional-generosity.jpg
 reviewStatus: "done"
 ---
-
 ![A hand reaching into a warm sunset sky, cupping the sun](/images/col-conditional-generosity.jpg)
 
 <p class="inline-image-caption">Kindness is not an attitude that eliminates all boundaries, but an attitude that clearly informs the other person of the behavior that should not be crossed.</p>

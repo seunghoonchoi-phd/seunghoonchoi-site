@@ -9,7 +9,6 @@ seoTitle: "Why AI Beat Go but Still Struggles with Welding"
 image: /images/col-ai-cheap-vs-expensive-world.jpg
 reviewStatus: "done"
 ---
-
 ![Industrial robots working around an automobile body in a factory](/images/col-ai-cheap-vs-expensive-world.jpg)
 
 <p class="inline-image-caption">Baduk AI can learn in a space with fixed rules, but in a factory, risks and responsibilities are not organized by numerical scores alone.</p>

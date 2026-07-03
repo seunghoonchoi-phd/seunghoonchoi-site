@@ -8,7 +8,6 @@ seoTitle: "Why Employee AI Productivity Falls Flat: Execution Friction and VDI"
 image: /images/col-execution-friction.jpg
 reviewStatus: "done"
 ---
-
 ![A tangled mess of computer cables and cords piled on a desk](/images/col-execution-friction.jpg)
 
 <p class="inline-image-caption">If work is still slow after adopting AI, the delay may come from input, review, and approval processes rather than model performance.</p>

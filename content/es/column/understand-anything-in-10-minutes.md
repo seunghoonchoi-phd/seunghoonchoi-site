@@ -9,7 +9,6 @@ description: "La plantilla de 9 casillas para dominar en 10 minutos un concepto,
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Una mano que dibuja una estructura sobre un plano; no resume, construye una estructura](/images/col-understand.jpg)
 
 <p class="inline-image-caption">El objetivo de Comprensión en 10 minutos no es crear un resumen, sino comprender para qué problemas se utilizan conceptos desconocidos.</p>

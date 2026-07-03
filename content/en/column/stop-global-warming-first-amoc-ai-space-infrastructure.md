@@ -9,7 +9,6 @@ seoTitle: "Stop Global Warming First: The First Mission of AI and Space Infrastr
 image: /images/col-amoc-global-warming-first.jpg
 reviewStatus: "done"
 ---
-
 ![An illustration of warm surface currents and cold deep currents over the North Atlantic, with small space sunshade modules floating toward the Sun](/images/col-amoc-global-warming-first.jpg)
 
 <p class="inline-image-caption">Reducing sunlight slightly may seem trivial, but it actually impacts the entire planet's climate system.</p>
@@ -70,11 +69,7 @@ A space sunshade is not the final solution. It temporarily reduces the solar rad
 
 The role of a space sunshade is not to reduce CO2. It is to slow additional heat entering the Arctic and North Atlantic while AMOC is weakening too quickly.
 
-Therefore, if AMOC is weakening in a dangerous direction, two things have to happen at the same time.
-
-First, reduce the heat entering the Arctic and North Atlantic to secure time to lower the risk of AMOC collapse.
-
-Second, use that time to cut CO2 emissions and remove CO2 already in the air.
+Therefore, if AMOC is weakening in a dangerous direction, two things have to happen at the same time. First, reduce the heat entering the Arctic and North Atlantic to secure time to lower the risk of AMOC collapse. Second, use that time to cut CO2 emissions and remove CO2 already in the air.
 
 The order matters. If we turn on a space sunshade but fail at CO2 removal, additional heat input rises again when the shade is reduced. Then a temporary response becomes a dependency that has to be maintained.
 

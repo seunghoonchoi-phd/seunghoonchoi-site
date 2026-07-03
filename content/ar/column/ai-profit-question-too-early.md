@@ -10,7 +10,6 @@ image: /images/col-ai-profit-question-too-early.jpg
 ogimage: /images/col-ai-profit-question-too-early.jpg
 reviewStatus: "done"
 ---
-
 ![عامل يرتدي نظارات ذكاء اصطناعي قابلة للارتداء في موقع بناء، وينظر إلى حفارة وبيانات حساسات](/images/col-ai-profit-question-too-early.jpg)
 
 <p class="inline-image-caption">للحكم على أرباح الذكاء الاصطناعي، لا تحتاج إلى النظر إلى الشركات النموذجية فحسب، بل تحتاج أيضًا إلى النظر في كيفية قيام مقدمي البنية التحتية والطاقة والبيانات بجني الأموال.</p>

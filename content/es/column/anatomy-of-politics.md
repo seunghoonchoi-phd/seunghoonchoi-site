@@ -9,7 +9,6 @@ seoTitle: "Cómo la política gana el corazón de la gente: el método de quien 
 image: /images/col-anatomy-of-politics.jpg
 reviewStatus: "done"
 ---
-
 ![Un micrófono de latón iluminado sobre un podio en una sala oscura](/images/col-anatomy-of-politics.jpg)
 
 <p class="inline-image-caption">Las personas que no son buenas con las palabras vacías deben ganarse la confianza haciendo pequeñas promesas y cumpliéndolas.</p>

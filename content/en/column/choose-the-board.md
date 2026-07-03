@@ -10,7 +10,6 @@ image: /images/col-choose-the-board.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![An empty go board with black and white stones scattered across a wooden table, soft light coming through the window](/images/col-choose-the-board.jpg)
 
 <p class="inline-image-caption">A good environment increases the likelihood that skills will lead to results, and a bad environment limits the results of the same skills.</p>

@@ -8,7 +8,6 @@ reviewStatus: "done"
 seoTitle: "لماذا لا تظهر إنتاجية الموظف مع الذكاء الاصطناعي: احتكاك بيئة التنفيذ وVDI"
 image: /images/col-execution-friction.jpg
 ---
-
 ![كومة من كابلات الحاسوب والأسلاك المتشابكة بفوضى فوق المكتب](/images/col-execution-friction.jpg)
 
 <p class="inline-image-caption">إذا ظل العمل بطيئًا بعد اعتماد الذكاء الاصطناعي، فقد يكون السبب في مراحل الإدخال والمراجعة والموافقة لا في أداء النموذج.</p>

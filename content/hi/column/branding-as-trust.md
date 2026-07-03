@@ -10,7 +10,6 @@ image: /images/col-branding-as-trust.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![चमड़े पर अपनी छाप लगाता एक कारीगर का हाथ](/images/col-branding-as-trust.jpg)
 
 <p class="inline-image-caption">वाक्य जितने पढ़ने में आसान होते हैं, पाठक केवल लिखावट नहीं देखते; वे यह भी देखते हैं कि लेखक ने वास्तव में क्या किया है।</p>

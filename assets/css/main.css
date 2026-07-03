@@ -766,7 +766,7 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
 .post__body{font-size:18px;color:var(--ink-soft);line-height:1.75;margin-top:28px}
 .post__body h2{font-family:var(--serif);font-size:28px;color:var(--ink);margin:1.6em 0 .5em}
 .post__body h3{font-family:var(--serif);font-size:22px;color:var(--ink);margin:1.4em 0 .4em}
-.post__body p{margin-bottom:1.1em}
+.post__body p{margin-bottom:.92em}
 .post__body a{color:var(--navy);border-bottom:1px solid var(--copper)}
 .lede blockquote,.post__body blockquote{margin:1.35em 0;padding:.85rem 0;border:0;border-top:1px solid var(--hair);border-bottom:1px solid var(--hair);background:transparent;font-family:var(--sans);font-style:normal;color:var(--ink-soft);line-height:1.68}
 .lede blockquote p,.post__body blockquote p{margin:0 0 .55em}
@@ -1235,6 +1235,7 @@ html[dir="rtl"] .post__toc #TableOfContents a{text-align:right}
   body.lang-ko .post__body .inline-image-caption,
   body.lang-ja .post__body .inline-image-caption,
   body.lang-zh .post__body .inline-image-caption{word-break:normal;overflow-wrap:anywhere}
+  body.lang-ko .post__body p,body.lang-ko .post__body li{word-break:keep-all;overflow-wrap:break-word}
 }
 .post__more{margin-top:52px;padding-top:26px;border-top:1px solid var(--hair)}
 .post__more-h{font-family:var(--sans);font-weight:700;font-size:1.05rem;color:var(--navy);margin:0 0 14px}

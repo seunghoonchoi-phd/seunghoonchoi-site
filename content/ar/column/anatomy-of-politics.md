@@ -9,7 +9,6 @@ reviewStatus: "done"
 seoTitle: "كيف تكسب السياسة قلوب الناس: طريقة من لا يجيد الكلام الفارغ"
 image: /images/col-anatomy-of-politics.jpg
 ---
-
 ![ميكروفون نحاسي لامع فوق منصة في قاعة فعالية معتمة](/images/col-anatomy-of-politics.jpg)
 
 <p class="inline-image-caption">يجب على الأشخاص الذين لا يجيدون استخدام الكلمات الفارغة أن يكسبوا الثقة من خلال تقديم وعود صغيرة والوفاء بها فعليًا.</p>

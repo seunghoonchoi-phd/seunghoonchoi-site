@@ -9,7 +9,6 @@ seoTitle: "How to Build Assets That Compound: Salary, Ownership, and Asset Gaps"
 image: /images/col-riding-exponential-curves.jpg
 reviewStatus: "done"
 ---
-
 ![A surfer at sunset turning the force of a wave into momentum](/images/col-riding-exponential-curves.jpg)
 
 <p class="inline-image-caption">When you receive a salary, it may disappear due to living expenses, but assets can remain valuable even when you are not working.</p>

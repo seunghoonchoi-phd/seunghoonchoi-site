@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 2
 reviewStatus: "done"
 ---
-
 ![Los trabajos que la IA reemplaza primero: desaparece antes el trabajo mental con respuesta](/images/col-ai-replacement-stages-1.jpg)
 
 <p class="inline-image-caption">Las tareas para las que se establece la respuesta correcta son las primeras en automatizarse, independientemente del orgullo del responsable.</p>

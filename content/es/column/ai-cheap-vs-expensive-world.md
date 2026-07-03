@@ -9,7 +9,6 @@ seoTitle: "Por qué la IA venció en Go pero todavía le cuesta soldar"
 image: /images/col-ai-cheap-vs-expensive-world.jpg
 reviewStatus: "done"
 ---
-
 ![Robots industriales trabajando alrededor de la carrocería de un automóvil en una fábrica](/images/col-ai-cheap-vs-expensive-world.jpg)
 
 <p class="inline-image-caption">Baduk AI puede aprender en un espacio con reglas fijas, pero en una fábrica, los riesgos y responsabilidades no están organizados únicamente por puntuaciones numéricas.</p>

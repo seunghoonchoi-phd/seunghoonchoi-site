@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 6
 reviewStatus: "done"
 ---
-
 ![Cómo sobrevivir en la era de la IA: apuesta por certificaciones y propiedad, no solo por habilidad](/images/col-ai-replacement-stages-5.jpg)
 
 <p class="inline-image-caption">Las habilidades técnicas pueden automatizarse, pero las calificaciones, los derechos y los intereses pueden durar más dentro de las instituciones.</p>
@@ -116,12 +115,7 @@ Una forma de vida que aguante si baja el ingreso por un tiempo.
 
 No es llamativo. Pero es importante. Sin piso, un solo fracaso puede terminarlo todo. Entonces no puedes intentar nada nuevo. Si no estás seguro, tampoco puedes ser audaz. Una vez firme el piso, encima hay que moverse con audacia.
 
-Probar herramientas nuevas, crear proyectos pequeños, acumular contenido, experimentar con servicios automatizados y producir resultados que queden con tu nombre.
-
-Si solo buscas seguridad, no ganas nada.
-Si solo persigues riesgo, puedes caer de una vez.
-
-El piso debe ser seguro; los intentos, audaces.
+Probar herramientas nuevas, crear proyectos pequeños, acumular contenido, experimentar con servicios automatizados y producir resultados que queden con tu nombre. Si solo buscas seguridad, no ganas nada. Si solo persigues riesgo, puedes caer de una vez. El piso debe ser seguro; los intentos, audaces.
 
 ## Esta semana hay que hacer dos cosas
 

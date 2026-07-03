@@ -44,6 +44,7 @@ Follow the global user instructions first. These rules apply to this website rep
 
 - Apply the same subject-object-action rule to all public Korean explanatory content, not only image captions. In non-literary pages and columns, each sentence should make clear who or what acts, what it acts on, and what changes.
 - Do not use physical metaphors when the metaphor is not the point of the paragraph. Replace phrases such as `AI를 붙이다`, `손발이 묶이다`, `손대다`, `독을 빼다`, `지구의 순환계`, `그 장기`, `그 지점`, or `시간을 사다/벌다` with the actual tool, permission, system, delay, CO2 reduction, review action, or decision point.
+- Do not split ordinary Korean prose into one-sentence paragraphs by default. Group related sentences into a readable paragraph unless the short line is a deliberate punch line, transition, quote, or list-like rhythm. As a quick guard, three or more short prose paragraphs in a row should trigger a rewrite before publication.
 - Literature pages may use metaphor deliberately. Career guides, app pages, book pages, research pages, and columns should prefer literal wording unless the whole section is explicitly built around a chosen analogy.
 - Before pushing public Korean content changes, run `node tools/check-korean-literal-style.js`. If it fails, fix the Korean source first and then update every configured language from that corrected Korean source.
 

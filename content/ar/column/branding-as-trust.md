@@ -10,7 +10,6 @@ image: /images/col-branding-as-trust.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![يد حرفي تطبع ختمها على الجلد، علامة الثقة](/images/col-branding-as-trust.jpg)
 
 <p class="inline-image-caption">كلما أصبحت الجمل أسهل في القراءة، لا ينظر القارئ إلى النص وحده، بل يتحقق أيضًا مما فعله الكاتب فعليًا.</p>

@@ -9,7 +9,6 @@ seoTitle: "4 fundamentos más importantes que el talento para estudiar: comprens
 image: /images/col-six-fundamentals.jpg
 reviewStatus: "done"
 ---
-
 ![Una escaladora frente a una pared rocosa difícil, cubriéndose las manos de magnesio mientras se prepara](/images/col-six-fundamentals.jpg)
 
 <p class="inline-image-caption">Cuanto más rápida se vuelve la IA, más importan los fundamentos. Aún hay que revisar si la respuesta de la IA es correcta, qué falta y si se puede usar tal cual.</p>

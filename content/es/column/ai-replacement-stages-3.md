@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 4
 reviewStatus: "done"
 ---
-
 ![La autoridad de decidir no se entrega de golpe: etapas 9 a 14 de cómo la IA toma el trabajo](/images/col-ai-replacement-stages-3.jpg)
 
 <p class="inline-image-caption">El derecho a tomar una decisión no está determinado únicamente por la tabla de desempeño, sino que está limitado por si hay algún responsable en caso de accidente.</p>

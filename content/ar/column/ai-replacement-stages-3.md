@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 4
 reviewStatus: "done"
 ---
-
 ![سلطة القرار لا تنتقل دفعة واحدة: المراحل 9 إلى 14 من أخذ الذكاء الاصطناعي للعمل](/images/col-ai-replacement-stages-3.jpg)
 
 <p class="inline-image-caption">لا يتم تحديد الحق في اتخاذ القرار من خلال جدول الأداء فحسب، بل يقتصر على ما إذا كان هناك شخص مسؤول في حالة وقوع حادث.</p>

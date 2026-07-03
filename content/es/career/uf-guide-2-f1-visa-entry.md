@@ -8,9 +8,7 @@ tags: ["F-1", "visa", "entrada", "SEVIS", "ISSS"]
 subtitle: "Documentos para llevar en cabina, check-in de ISSS dentro de los 30 días desde la fecha de inicio del I-20, tarifas oficiales y trayecto del aeropuerto a Gainesville"
 reviewStatus: "done"
 ---
-
 ![Pasaporte y documentos de viaje](/images/uf2-visa.jpg)
-
 
 El estatus F-1 no termina en el momento en que recibes la admisión. Es una condición que debes mantener durante toda tu estancia en Estados Unidos. Después de aprobar la entrevista de la visa es fácil bajar la guardia, pero en la práctica todo depende de cómo prepares los documentos antes de subir al avión y de cómo completes el check-in dentro de los 30 días desde la fecha de inicio del programa que aparece en tu I-20. En esta entrega repasamos, en orden, los requisitos para mantener el estatus F-1, la entrada por el aeropuerto (POE, Port of Entry), el check-in en línea de ISSS (International Student Services), las tarifas oficiales y la ruta del aeropuerto a Gainesville.
 
@@ -49,7 +47,6 @@ Hay algunos puntos más que debes tener en cuenta.
 - Si solo tienes una parte de los documentos, CBP puede emitir un I-515A (admisión temporal de 30 días). En ese caso, contacta de inmediato a UFIC.
 
 ![Visa F-1 y entrada a Estados Unidos: requisitos para mantener el estatus y llegada al aeropuerto](/images/inline/career-uf-guide-2-f1-visa-entry.jpg)
-
 
 ## Trámite obligatorio tras la llegada: check-in en línea de ISSS
 
@@ -94,7 +91,6 @@ Una advertencia: la recogida de Global Connections solo se ofrece en el aeropuer
 Las tarifas de los shuttles pueden cambiar según la temporada y las condiciones de la reserva.
 
 Si tienes claras las reglas para mantener el estatus, preparas sin olvidos los documentos que llevarás en el avión y no se te pasa el plazo de 30 días contado desde la fecha de inicio del programa en el I-20, habrás superado prácticamente el obstáculo más difícil de la entrada con F-1.
-
 
 ---
 

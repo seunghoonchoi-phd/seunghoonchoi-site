@@ -9,7 +9,6 @@ seoTitle: "Verification Comes Before Skill: Why Trust and Reputation Decide Oppo
 image: /images/col-invisible-currencies.jpg
 reviewStatus: "done"
 ---
-
 ![A market vendor handing a customer a slice of cut fruit](/images/col-invisible-currencies.jpg)
 
 <p class="inline-image-caption">Without verification data, claims of ability may seem like words that increase the risks the opponent must take.</p>

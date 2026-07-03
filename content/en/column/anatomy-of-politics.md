@@ -9,7 +9,6 @@ seoTitle: "How Politics Wins People's Hearts: The Method for a Person Who Cannot
 image: /images/col-anatomy-of-politics.jpg
 reviewStatus: "done"
 ---
-
 ![A brass microphone glowing on a dim event-hall podium](/images/col-anatomy-of-politics.jpg)
 
 <p class="inline-image-caption">People who are not good at empty words must earn trust by making small promises and actually keeping them.</p>

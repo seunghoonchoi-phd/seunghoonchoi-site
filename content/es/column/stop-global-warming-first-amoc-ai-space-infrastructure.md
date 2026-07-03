@@ -9,7 +9,6 @@ seoTitle: "Primero hay que frenar el calentamiento global: la primera misión de
 image: /images/col-amoc-global-warming-first.jpg
 reviewStatus: "done"
 ---
-
 ![Ilustración del Atlántico Norte con corrientes superficiales cálidas y corrientes profundas frías, y pequeños módulos de sombrilla espacial hacia el Sol](/images/col-amoc-global-warming-first.jpg)
 
 <p class="inline-image-caption">Reducir ligeramente la luz solar puede parecer trivial, pero en realidad afecta a todo el sistema climático del planeta.</p>
@@ -70,11 +69,7 @@ Una sombrilla espacial no es la solución final. Reduce temporalmente la radiaci
 
 La función de una sombrilla espacial no es reducir CO2. Es frenar el calor adicional que entra en el Ártico y el Atlántico Norte mientras AMOC se debilita demasiado rápido.
 
-Por tanto, si AMOC se está debilitando en una dirección peligrosa, hay que hacer dos cosas al mismo tiempo.
-
-Primero, reducir el calor que entra en el Ártico y el Atlántico Norte para asegurar tiempo y reducir el riesgo de colapso de AMOC.
-
-Segundo, usar ese tiempo para reducir emisiones de CO2 y retirar CO2 que ya está en el aire.
+Por tanto, si AMOC se está debilitando en una dirección peligrosa, hay que hacer dos cosas al mismo tiempo. Primero, reducir el calor que entra en el Ártico y el Atlántico Norte para asegurar tiempo y reducir el riesgo de colapso de AMOC. Segundo, usar ese tiempo para reducir emisiones de CO2 y retirar CO2 que ya está en el aire.
 
 El orden importa. Si encendemos una sombrilla espacial pero fracasamos en retirar CO2, el calor adicional vuelve a entrar cuando se reduce la sombra. Entonces una respuesta temporal se convierte en una dependencia que hay que mantener.
 

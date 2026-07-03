@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 5
 reviewStatus: "done"
 ---
-
 ![Hasta la escritura de tu casa es, al final, una hoja de papel: las últimas etapas 15 y 16](/images/col-ai-replacement-stages-4.jpg)
 
 <p class="inline-image-caption">La propiedad opera como un derecho real cuando la sociedad reconoce y protege ciertos documentos.</p>

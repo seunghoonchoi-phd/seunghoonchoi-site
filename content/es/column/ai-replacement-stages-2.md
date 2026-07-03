@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 3
 reviewStatus: "done"
 ---
-
 ![El trabajo físico que toma la IA: desde labor repetitiva hasta juicio y tacto](/images/col-ai-replacement-stages-2.jpg)
 
 <p class="inline-image-caption">A los robots les resulta difícil repetir las mismas acciones, no porque les falte potencia, sino porque las condiciones varían en cada lugar de trabajo.</p>

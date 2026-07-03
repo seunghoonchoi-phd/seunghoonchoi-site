@@ -10,7 +10,6 @@ image: /images/col-localized-advantage.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Un rey caído sobre el tablero de ajedrez. La jugada decisiva que definió la partida](/images/col-localized-advantage.jpg)
 
 <p class="inline-image-caption">Incluso si no ganas toda la competición, puedes crear una ventaja en una condición necesaria en un momento específico.</p>

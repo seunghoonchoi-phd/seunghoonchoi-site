@@ -9,9 +9,7 @@ subtitle: "U.S. Grad School Settlement Guide, Part 5: Everything About City Life
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Sunny university campus](/images/uf5-life.jpg)
-
 
 Once your admission, visa, and administrative setup are done, real life begins. Where to live, how to get around, how much it costs per month, where to go when you're sick, what to grab when a hurricane is coming. This guide breaks down actual day-to-day life in Gainesville, Florida (University of Florida) into housing, transit, monthly budget, health, climate, community, and travel.
 
@@ -65,7 +63,6 @@ Take-home pay is roughly $2,200-$2,400/month, so living alone is possible but ti
 - Korean groceries: There's no full Korean supermarket in town. Most needs are covered by pan-Asian markets like Chun Ching Market (418 NW 8th Ave) plus online Weee! ([sayweee.com](https://www.sayweee.com/)), with a once-a-month run to H-Mart Orlando (1.5-2 hours by car) for serious stocking up.
 
 ![Living in Gainesville: Housing, Transit, Budget, Health, Climate, and Community](/images/inline/career-uf-guide-5-gainesville-life.jpg)
-
 
 ## Health and Medical Care (SHCC): The Essentials
 
@@ -153,7 +150,6 @@ When studying wears you down, here are places worth a drive:
 - Theme parks: Orlando (~2 hours, Disney and Universal) · Tampa (~2 hours) · Miami (~5 hours, a weekend trip).
 
 That's the big picture of life in Gainesville. Get familiar with it and you'll cut down on trial and error from your very first month. More study-abroad and settlement resources continue at seunghoonchoi.com.
-
 
 ---
 

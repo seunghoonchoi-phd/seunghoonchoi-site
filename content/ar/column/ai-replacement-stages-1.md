@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 2
 reviewStatus: "done"
 ---
-
 ![الأعمال التي يستبدلها الذكاء الاصطناعي أولا، أعمال الذهن ذات الإجابة تختفي أولا](/images/col-ai-replacement-stages-1.jpg)
 
 <p class="inline-image-caption">المهام التي تم تحديد الإجابة الصحيحة لها هي الأولى التي تتم آليًا، بغض النظر عن كبرياء الشخص المسؤول.</p>

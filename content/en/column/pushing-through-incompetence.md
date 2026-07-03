@@ -9,7 +9,6 @@ seoTitle: "The Power to Stand Feeling Bad: The Stretch Where Skill Starts"
 image: /images/col-pushing-through-incompetence.jpg
 reviewStatus: "done"
 ---
-
 ![A beginner's awkward hands starting violin practice alone in a quiet room](/images/col-pushing-through-incompetence.jpg)
 
 <p class="inline-image-caption">If you feel like you can't do it, it means you're dealing with something you can't handle automatically yet.</p>

@@ -9,7 +9,6 @@ reviewStatus: "done"
 seoTitle: "قوة تحمل شعور عدم الإجادة: المنطقة التي تبدأ فيها المهارة"
 image: /images/col-pushing-through-incompetence.jpg
 ---
-
 ![مبتدئ يبدأ تدريب الكمان وحده في غرفة هادئة بيد غير ماهرة](/images/col-pushing-through-incompetence.jpg)
 
 <p class="inline-image-caption">إذا شعرت أنك لا تستطيع فعل ذلك، فهذا يعني أنك تتعامل مع شيء لا يمكنك التعامل معه تلقائيًا بعد.</p>

@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 3
 reviewStatus: "done"
 ---
-
 ![أعمال الجسد التي يأخذها الذكاء الاصطناعي، من العمل الجسدي المتكرر إلى الحكم والحس](/images/col-ai-replacement-stages-2.jpg)
 
 <p class="inline-image-caption">من الصعب على الروبوتات أن تكرر نفس الأفعال، ليس لأنها تفتقر إلى الطاقة، ولكن لأن الظروف تختلف في كل موقع عمل.</p>

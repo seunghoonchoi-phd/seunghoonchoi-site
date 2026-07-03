@@ -9,7 +9,6 @@ reviewStatus: "done"
 seoTitle: "كيف تكون طيباً دون أن تُستغل: الطيبة والسمعة والابتعاد والكرم المشروط"
 image: /images/col-conditional-generosity.jpg
 ---
-
 ![يد ممدودة نحو سماء بلون الغروب الدافئ تحتضن الشمس](/images/col-conditional-generosity.jpg)
 
 <p class="inline-image-caption">اللطف ليس موقفًا يلغي كل الحدود، ولكنه موقف يُعلم الشخص الآخر بوضوح بالسلوك الذي لا ينبغي تجاوزه.</p>

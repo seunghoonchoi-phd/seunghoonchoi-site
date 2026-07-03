@@ -9,7 +9,6 @@ seoTitle: "Four Fundamentals More Important Than Study Smarts: Literacy and Stru
 image: /images/col-six-fundamentals.jpg
 reviewStatus: "done"
 ---
-
 ![A climber chalking their hands in front of a difficult rock wall](/images/col-six-fundamentals.jpg)
 
 <p class="inline-image-caption">The faster AI gets, the more basic skills matter. A person still has to check whether the AI answer is right, what it missed, and whether it can be used as-is.</p>

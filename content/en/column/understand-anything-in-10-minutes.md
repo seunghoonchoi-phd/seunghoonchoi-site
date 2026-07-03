@@ -9,7 +9,6 @@ description: "A 9-box template to take over any unfamiliar concept, paper, or me
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Hands drafting a structure on a blueprint: building structure, not a summary](/images/col-understand.jpg)
 
 <p class="inline-image-caption">The goal of 10 Minute Understanding is not to create a summary, but to understand what problems unfamiliar concepts are used for.</p>

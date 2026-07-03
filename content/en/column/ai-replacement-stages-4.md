@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 5
 reviewStatus: "done"
 ---
-
 ![Even your house deed is just a sheet of paper: the final stages where ownership shakes](/images/col-ai-replacement-stages-4.jpg)
 
 <p class="inline-image-caption">Ownership operates as a real right when society recognizes and protects certain records.</p>

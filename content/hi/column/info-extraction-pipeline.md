@@ -9,7 +9,6 @@ description: "ChatGPT और AI बातचीत से सिर्फ़ स
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![सिर्फ़ लेबल लगे कार्ड ही बचाने वाली दराज। छाँटकर फेंकना ही असली सिस्टम है](/images/col-info-extraction.jpg)
 
 <p class="inline-image-caption">भले ही आप ढेर सारी जानकारी इकट्ठा कर लें, लेकिन अगर उसे त्यागने का कोई मानक नहीं है, तो नतीजों में अनावश्यक जानकारी मिलती रहेगी।</p>

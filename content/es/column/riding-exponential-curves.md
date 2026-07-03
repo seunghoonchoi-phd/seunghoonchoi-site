@@ -9,7 +9,6 @@ seoTitle: "Cómo crear activos que crecen con interés compuesto: salario, propi
 image: /images/col-riding-exponential-curves.jpg
 reviewStatus: "done"
 ---
-
 ![Un surfista al atardecer usando la fuerza de la ola como impulso](/images/col-riding-exponential-curves.jpg)
 
 <p class="inline-image-caption">Cuando recibe un salario, este puede desaparecer debido a los gastos de manutención, pero los activos pueden seguir siendo valiosos incluso cuando no esté trabajando.</p>

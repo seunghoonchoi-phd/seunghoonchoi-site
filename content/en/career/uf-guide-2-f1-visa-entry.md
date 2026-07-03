@@ -8,9 +8,7 @@ tags: ["F-1", "visa", "entry", "SEVIS", "ISSS"]
 subtitle: "Documents to carry on board, ISSS check-in within 30 days of the I-20 program start date, government fees, and getting from the airport to Gainesville"
 reviewStatus: "done"
 ---
-
 ![Passport and travel documents](/images/uf2-visa.jpg)
-
 
 F-1 status doesn't end the moment you receive your admission letter. It is a condition you have to maintain the entire time you're in the U.S. It's easy to relax once you pass the visa interview, but the real test is how you pack your documents before boarding the plane and how you complete check-in within 30 days of the program start date on your I-20. This post walks through the whole sequence in order: F-1 status requirements, entry at the Port of Entry (POE), ISSS online check-in after arrival, government fees, and the route from the airport to Gainesville.
 
@@ -49,7 +47,6 @@ A few more things to plan for:
 - If you only have some of your documents, CBP may issue an I-515A (30-day temporary admission); in that case, contact UFIC immediately.
 
 ![F-1 Visa and U.S. Entry: From Status Requirements to Airport Arrival](/images/inline/career-uf-guide-2-f1-visa-entry.jpg)
-
 
 ## After-Arrival Obligation: ISSS Online Check-In
 
@@ -92,7 +89,6 @@ Your transportation options:
 One thing to note: Global Connections pickup is offered only from Gainesville Airport (GNV). If you fly into MCO or JAX, you'll need to arrange a separate shuttle, rental car, or Uber.
 
 Keep the status rules in your head, carry every required document on board, and don't miss the check-in deadline within 30 days of the I-20 program start date. Do those three things, and you've cleared the hardest part of the F-1 entry process.
-
 
 ---
 

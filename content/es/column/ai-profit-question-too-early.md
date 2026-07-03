@@ -10,7 +10,6 @@ image: /images/col-ai-profit-question-too-early.jpg
 ogimage: /images/col-ai-profit-question-too-early.jpg
 reviewStatus: "done"
 ---
-
 ![Un trabajador con gafas de IA ponible en una obra, observando una excavadora y datos de sensores](/images/col-ai-profit-question-too-early.jpg)
 
 <p class="inline-image-caption">Para juzgar las ganancias de la IA, es necesario observar no sólo las empresas modelo, sino también cómo ganan dinero los proveedores de infraestructura, energía y datos.</p>

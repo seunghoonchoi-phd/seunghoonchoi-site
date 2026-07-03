@@ -9,7 +9,6 @@ description: "नए और जूनियर कर्मचारियों
 image: /images/col-meetings.jpg
 reviewStatus: "done"
 ---
-
 ![खाली मीटिंग टेबल पर दूसरों की मीटिंग को निरीक्षण के मौके में बदलने का दृश्य](/images/col-meetings.jpg)
 
 <p class="inline-image-caption">अन्य लोगों की बैठकों को देखकर, आप जान सकते हैं कि कोई संगठन निर्णय लेने के लिए किन मानदंडों का उपयोग करता है।</p>

@@ -16,7 +16,6 @@ faq:
   - q: "¿Cómo pongo distancia con quien me hace daño?"
     a: "Primero separa los tipos. Con quien choca contigo por intereses se puede hablar, así que cambia sus cuentas de lo que gana y pierde. A quien le interesa hacerte daño en sí mismo, córtale la reacción (tu reacción es su premio). Las relaciones que no puedes evitar: reduce lo que muestras de tus emociones e información, y deja constancia por escrito. La forma más completa de poner distancia no es evitar, sino la indiferencia: que esa persona valga cero en las cuentas de tu cabeza."
 ---
-
 ![Una mano extendida hacia un cielo de atardecer cálido, sosteniendo el sol entre los dedos](/images/col-conditional-generosity.jpg)
 
 <p class="inline-image-caption">La bondad no es una actitud que elimina todos los límites, sino una actitud que informa claramente a la otra persona del comportamiento que no debe traspasar.</p>

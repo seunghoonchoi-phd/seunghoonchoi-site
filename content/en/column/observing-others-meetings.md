@@ -9,7 +9,6 @@ description: "How to use AI to structure the purpose, issues, decisions, open qu
 image: /images/col-meetings.jpg
 reviewStatus: "done"
 ---
-
 ![An empty meeting table turned into a place for observing someone else's meeting](/images/col-meetings.jpg)
 
 <p class="inline-image-caption">By observing other people's meetings, you can learn what criteria an organization uses for making decisions.</p>

@@ -9,7 +9,6 @@ seoTitle: "अच्छे बनकर भी ठगे न जाने का
 image: /images/col-conditional-generosity.jpg
 reviewStatus: "done"
 ---
-
 ![गर्म सूर्यास्त की रोशनी वाले आसमान की ओर हाथ बढ़ाकर सूरज को थामता हुआ हाथ](/images/col-conditional-generosity.jpg)
 
 <p class="inline-image-caption">दयालुता एक ऐसा रवैया नहीं है जो सभी सीमाओं को समाप्त कर देता है, बल्कि एक ऐसा रवैया है जो दूसरे व्यक्ति को उस व्यवहार के बारे में स्पष्ट रूप से सूचित करता है जिसे पार नहीं किया जाना चाहिए।</p>

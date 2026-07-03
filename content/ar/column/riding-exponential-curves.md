@@ -9,7 +9,6 @@ reviewStatus: "done"
 seoTitle: "كيف تصنع أصولاً تكبر بالفائدة المركبة: الراتب والملكية وفجوة الأصول"
 image: /images/col-riding-exponential-curves.jpg
 ---
-
 ![سطح البحر عند الغروب، راكب أمواج يحول قوة الموجة إلى دفع ويركبها](/images/col-riding-exponential-curves.jpg)
 
 <p class="inline-image-caption">عندما تحصل على راتب، قد يختفي بسبب نفقات المعيشة، لكن الأصول يمكن أن تظل ذات قيمة حتى عندما لا تعمل.</p>

@@ -10,7 +10,6 @@ image: /images/col-choose-the-board.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Un tablero de go vacío sobre una mesa de madera, con piedras blancas y negras dispersas y una luz suave que entra por la ventana](/images/col-choose-the-board.jpg)
 
 <p class="inline-image-caption">Un buen ambiente aumenta la probabilidad de que las habilidades conduzcan a resultados, y un mal ambiente limita los resultados de las mismas habilidades.</p>
@@ -89,8 +88,4 @@ Quien entró en el grupo fuerte perdía al principio todas las veces. Segurament
 
 Por eso, dediquemos tanto empeño a elegir dónde usar la habilidad como a acumularla. Solemos pasar años en la habilidad, pero dejamos al azar dónde usarla. El interés compuesto no se suma solo a mí. Se suma al entorno en el que estoy. Si vuelco el mismo esfuerzo en un sitio sin oportunidades, crezco solo lo que da ese sitio. Si lo vuelco en un sitio donde un pequeño éxito lleva a la siguiente oportunidad, con el tiempo el resultado crece.
 
-La pregunta que hay que lanzar hoy no es "cómo lo hago mejor". Primero es esta:
-
-¿En qué sitio estoy ahora? ¿Este sitio hace crecer mi pequeña ventaja, o la dispersa con un solo aplauso?
-
-Si la respuesta es lo segundo, antes de esforzarte más es momento de revisar tu sitio.
+La pregunta que hay que lanzar hoy no es "cómo lo hago mejor". Primero es esta: ¿En qué sitio estoy ahora? ¿Este sitio hace crecer mi pequeña ventaja, o la dispersa con un solo aplauso? Si la respuesta es lo segundo, antes de esforzarte más es momento de revisar tu sitio.

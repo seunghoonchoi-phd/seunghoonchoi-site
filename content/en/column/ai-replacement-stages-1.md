@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 2
 reviewStatus: "done"
 ---
-
 ![The first work AI replaces: mental work with right answers disappears first](/images/col-ai-replacement-stages-1.jpg)
 
 <p class="inline-image-caption">Tasks for which the correct answer is set are the first to be automated, regardless of the pride of the person in charge.</p>

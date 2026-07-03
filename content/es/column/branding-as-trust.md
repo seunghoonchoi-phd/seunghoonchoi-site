@@ -10,7 +10,6 @@ image: /images/col-branding-as-trust.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Las manos de un artesano grabando su sello en el cuero, la marca de la confianza](/images/col-branding-as-trust.jpg)
 
 <p class="inline-image-caption">A medida que las frases se vuelven más fáciles de leer, el lector no mira solo el texto; también comprueba lo que la persona realmente ha hecho.</p>

@@ -11,7 +11,6 @@ reviewStatus: "done"
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![ممر في مركز بيانات تصطف على جانبيه خزائن الخوادم](/images/col-ai-conundrum-market-economy.jpg)
 
 <p class="inline-image-caption">يمكن للتكنولوجيا أن تخفض تكاليف الإنتاج، لكن الأسواق تبقى على قيد الحياة عندما يمتلك المستهلكون المال لشرائها.</p>

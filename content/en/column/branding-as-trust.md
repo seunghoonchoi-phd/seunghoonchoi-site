@@ -10,7 +10,6 @@ image: /images/col-branding-as-trust.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![An artisan's hands pressing a maker's mark into leather, a sign of trust](/images/col-branding-as-trust.jpg)
 
 <p class="inline-image-caption">As sentences become easier to read, readers check not only the writing but also what the writer has actually done.</p>

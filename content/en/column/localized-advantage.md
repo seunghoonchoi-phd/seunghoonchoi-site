@@ -10,7 +10,6 @@ image: /images/col-localized-advantage.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![A toppled king on a chessboard. The single move that decided the game](/images/col-localized-advantage.jpg)
 
 <p class="inline-image-caption">Even if you don't win the entire competition, you can create an advantage in one condition needed at a specific moment.</p>

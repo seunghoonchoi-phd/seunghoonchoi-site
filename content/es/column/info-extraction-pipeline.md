@@ -9,7 +9,6 @@ description: "Tres prompts para extraer información de tus charlas con ChatGPT 
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Un cajón con tarjetas donde solo quedan las que tienen etiqueta. Elegir es el sistema en sí](/images/col-info-extraction.jpg)
 
 <p class="inline-image-caption">Incluso si recopila mucha información, si no existe un estándar para descartarla, la información innecesaria seguirá mezclada en los resultados.</p>

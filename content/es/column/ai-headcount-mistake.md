@@ -8,7 +8,6 @@ seoTitle: "Por qué reducir personal tras adoptar IA puede volver más lenta a l
 image: /images/col-ai-headcount-mistake.jpg
 reviewStatus: "done"
 ---
-
 ![Sillas vacías alineadas frente a escritorios en una oficina iluminada por el sol de la mañana](/images/col-ai-headcount-mistake.jpg)
 
 <p class="inline-image-caption">Cuando queda un puesto vacío en la oficina, los costos laborales bajan, pero la empresa también puede perder el contexto de trabajo que esa persona conocía.</p>

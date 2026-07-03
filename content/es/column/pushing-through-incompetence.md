@@ -9,7 +9,6 @@ seoTitle: "Soportar sentirse torpe: la zona donde empieza la habilidad"
 image: /images/col-pushing-through-incompetence.jpg
 reviewStatus: "done"
 ---
-
 ![Las manos torpes de una principiante empezando a practicar violín sola en una habitación tranquila](/images/col-pushing-through-incompetence.jpg)
 
 <p class="inline-image-caption">Si sientes que no puedes hacerlo, significa que estás lidiando con algo que aún no puedes manejar automáticamente.</p>

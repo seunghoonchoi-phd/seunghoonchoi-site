@@ -9,7 +9,6 @@ description: "A 3-stage info extraction prompt that pulls only what's worth keep
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![A drawer of card files where only the labeled ones stay. Picking is the system](/images/col-info-extraction.jpg)
 
 <p class="inline-image-caption">Even if you collect a lot of information, if there is no standard for discarding it, unnecessary information will continue to be mixed in the results.</p>

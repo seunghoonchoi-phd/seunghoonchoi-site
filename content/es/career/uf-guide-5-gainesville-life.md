@@ -9,9 +9,7 @@ subtitle: "Guía para instalarse como estudiante en Estados Unidos Parte 5: todo
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Campus universitario soleado](/images/uf5-life.jpg)
-
 
 Si ya terminaste la admisión al posgrado en Estados Unidos, la visa y los primeros trámites, ahora empieza la vida de verdad. Dónde vivir, cómo moverte, cuánto gastas al mes. Y adónde ir si te enfermas y qué preparar cuando llega un huracán. Este texto es una guía para instalarte en Gainesville, Florida (University of Florida). Organiza la vida real allí en siete temas: vivienda, transporte, costo de vida, salud, clima, comunidad y viajes.
 
@@ -65,7 +63,6 @@ Lo que recibes después de impuestos es de unos $2.200-$2.400 al mes, así que v
 - Comida coreana: en la ciudad no hay un supermercado coreano propiamente dicho. La mayoría se resuelve con tiendas panasiáticas como Chun Ching Market (418 NW 8th Ave) y la web Weee! ([sayweee.com](https://www.sayweee.com/)). Para una compra grande de verdad, lo habitual es ir una vez al mes en coche al H-Mart de Orlando, a 1,5-2 horas de distancia.
 
 ![Vivir en Gainesville de la A a la Z: vivienda, transporte y costo de vida, salud, clima y comunidad](/images/inline/career-uf-guide-5-gainesville-life.jpg)
-
 
 ## Salud y atención médica (SHCC): lo esencial que debes saber
 
@@ -153,7 +150,6 @@ Lugares a los que vale la pena ir en coche cuando el estudio te agota.
 - Parques temáticos: Orlando (unas 2 horas, Disney y Universal) · Tampa (unas 2 horas) · Miami (unas 5 horas, plan de fin de semana).
 
 Hasta aquí el panorama general de la vida en Gainesville. Si lo revisas bien con antelación, puedes reducir mucho los tropiezos desde el primer mes. Más material sobre estudiar e instalarse en el extranjero continúa en seunghoonchoi.com.
-
 
 ---
 

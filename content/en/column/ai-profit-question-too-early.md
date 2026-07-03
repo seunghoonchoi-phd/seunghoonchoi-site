@@ -10,7 +10,6 @@ image: /images/col-ai-profit-question-too-early.jpg
 ogimage: /images/col-ai-profit-question-too-early.jpg
 reviewStatus: "done"
 ---
-
 ![A worker wearing wearable AI glasses on a construction site, looking at an excavator and sensor data](/images/col-ai-profit-question-too-early.jpg)
 
 <p class="inline-image-caption">To judge AI profits, you need to look not only at model companies, but also at how infrastructure, power, and data providers make money.</p>

@@ -10,7 +10,6 @@ image: /images/col-localized-advantage.jpg
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![शतरंज की बिसात पर गिरा हुआ राजा। बाज़ी तय करने वाली निर्णायक चाल](/images/col-localized-advantage.jpg)
 
 <p class="inline-image-caption">यहां तक ​​कि अगर आप पूरी प्रतियोगिता नहीं जीत पाते हैं, तो भी आप एक विशिष्ट क्षण में आवश्यक एक स्थिति में लाभ पैदा कर सकते हैं।</p>

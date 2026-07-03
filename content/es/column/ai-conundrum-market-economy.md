@@ -11,7 +11,6 @@ reviewStatus: "done"
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![Pasillo de un centro de datos con filas de servidores](/images/col-ai-conundrum-market-economy.jpg)
 
 <p class="inline-image-caption">La tecnología puede reducir los costos de producción, pero los mercados sobreviven cuando los consumidores tienen el dinero para comprarlos.</p>

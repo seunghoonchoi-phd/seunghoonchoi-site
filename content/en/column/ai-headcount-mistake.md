@@ -8,7 +8,6 @@ seoTitle: "Why Cutting People After AI Adoption Makes Companies Slower"
 image: /images/col-ai-headcount-mistake.jpg
 reviewStatus: "done"
 ---
-
 ![Empty chairs lined up at desks in an office lit by morning sun](/images/col-ai-headcount-mistake.jpg)
 
 <p class="inline-image-caption">When a desk becomes empty, payroll costs fall, but the company may also lose the work context that person knew.</p>

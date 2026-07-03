@@ -220,6 +220,10 @@ function stripFrontMatter(text) {
   });
 }
 
+function bodyOnly(text) {
+  return text.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
+}
+
 function shouldSkip(rel) {
   return (
     rel.startsWith("content/ko/literature/") ||
@@ -228,12 +232,104 @@ function shouldSkip(rel) {
   );
 }
 
+function shouldSkipParagraphRhythm(rel, body) {
+  return (
+    rel.startsWith("content/ko/literature/") ||
+    rel.startsWith("content/ko/incomplete/") ||
+    rel.endsWith("/_index.md") ||
+    /<style\b|<article\b|<div\s+class=/i.test(body)
+  );
+}
+
+function plainParagraphText(block) {
+  return block
+    .replace(/!\[[^\]]*\]\([^)]+\)/g, "")
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+    .replace(/<[^>]+>/g, "")
+    .replace(/[`*_~]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function isProseParagraph(block) {
+  const text = block.trim();
+  if (!text) return false;
+  if (/^(#{1,6}\s|[-*+]\s|\d+\.\s|>\s|!\[|<|\||```|:::|\{\{|---+$)/.test(text)) return false;
+  if (/\u2197/.test(text) && plainParagraphText(text).length < 160) return false;
+  return text.split(/\r?\n/).every((line) => !/^\s*(#{1,6}\s|[-*+]\s|\d+\.\s|>\s|!\[|<|\||```|:::|\{\{)/.test(line));
+}
+
+function isShortProseParagraph(block) {
+  const plain = plainParagraphText(block);
+  if (!plain) return false;
+  const sentenceCount = Math.max(1, (plain.match(/[.!?。！？]|[다요죠까니다][.」”"]?(?=\s|$)/g) || []).length);
+  return plain.length < 120 || (sentenceCount <= 1 && plain.length < 180);
+}
+
+function checkParagraphRhythm(rel, text) {
+  const body = bodyOnly(text);
+  if (shouldSkipParagraphRhythm(rel, body)) return;
+
+  const blocks = [];
+  let current = [];
+  let inFence = false;
+
+  function pushCurrent() {
+    if (current.length) {
+      blocks.push(current.join("\n"));
+      current = [];
+    }
+  }
+
+  for (const line of body.split(/\r?\n/)) {
+    if (/^\s*```/.test(line)) {
+      pushCurrent();
+      inFence = !inFence;
+      continue;
+    }
+    if (inFence) continue;
+    if (/^\s*$/.test(line)) {
+      pushCurrent();
+    } else {
+      current.push(line);
+    }
+  }
+  pushCurrent();
+
+  let run = [];
+
+  function flush() {
+    if (run.length >= 3) {
+      const sample = run
+        .slice(0, 3)
+        .map((item) => item.plain.slice(0, 54))
+        .join(" / ");
+      errors.push(
+        `${rel} [paragraph-rhythm] 짧은 문단이 3개 이상 연속됩니다. 관련 문장은 2~4문장짜리 문단으로 묶으세요.\n  ${sample}`
+      );
+    }
+    run = [];
+  }
+
+  for (const block of blocks) {
+    if (isProseParagraph(block) && isShortProseParagraph(block)) {
+      run.push({ plain: plainParagraphText(block) });
+    } else {
+      flush();
+    }
+  }
+  flush();
+}
+
 for (const file of walk(koContent)) {
   const rel = path.relative(root, file).replace(/\\/g, "/");
   if (shouldSkip(rel)) continue;
 
+  const raw = fs.readFileSync(file, "utf8");
+  checkParagraphRhythm(rel, raw);
+
   let inFence = false;
-  const lines = stripFrontMatter(fs.readFileSync(file, "utf8")).split(/\r?\n/);
+  const lines = stripFrontMatter(raw).split(/\r?\n/);
   for (let index = 0; index < lines.length; index += 1) {
     const line = lines[index];
     if (/^\s*```/.test(line)) {

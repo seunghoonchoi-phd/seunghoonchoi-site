@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 6
 reviewStatus: "done"
 ---
-
 ![How to survive the AI era: bet on credentials and ownership, not skill alone](/images/col-ai-replacement-stages-5.jpg)
 
 <p class="inline-image-caption">Technical skills can be automated, but qualifications, rights and stakes can last longer within institutions.</p>
@@ -116,12 +115,7 @@ A life structure that can hold even if income falls for a while.
 
 These are not flashy. But they matter. Without a floor, one failure ends everything. Then you cannot try new things. If you are not safe, you cannot be bold. After making the floor solid, move boldly above it.
 
-Try new tools, make small projects, accumulate content, experiment with automated services, and create outputs that remain under your name.
-
-If you only seek safety, you gain nothing.
-If you only chase risk, you can collapse in one hit.
-
-Keep the floor safe and the attempts bold.
+Try new tools, make small projects, accumulate content, experiment with automated services, and create outputs that remain under your name. If you only seek safety, you gain nothing. If you only chase risk, you can collapse in one hit. Keep the floor safe and the attempts bold.
 
 ## Two things to do this week
 

@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 4
 reviewStatus: "done"
 ---
-
 ![Decision authority does not move all at once: stages 9 to 14 of AI taking work](/images/col-ai-replacement-stages-3.jpg)
 
 <p class="inline-image-caption">The right to make a decision is not determined solely by the performance table, but is limited by whether there is someone responsible in the event of an accident.</p>

@@ -11,7 +11,6 @@ reviewStatus: "done"
 hidden: true
 build: {list: never, render: always}
 ---
-
 ![A data center corridor lined with server racks](/images/col-ai-conundrum-market-economy.jpg)
 
 <p class="inline-image-caption">Technology can lower production costs, but markets survive when consumers have the money to buy them.</p>

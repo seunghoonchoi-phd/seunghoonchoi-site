@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 3
 reviewStatus: "done"
 ---
-
 ![The physical work AI takes, from repetitive labor to judgment and sense](/images/col-ai-replacement-stages-2.jpg)
 
 <p class="inline-image-caption">It is difficult for robots to repeat the same actions, not because they lack power, but because conditions vary at each work site.</p>

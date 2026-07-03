@@ -9,7 +9,6 @@ description: "Cómo usar IA para estructurar propósito, temas, decisiones, punt
 image: /images/col-meetings.jpg
 reviewStatus: "done"
 ---
-
 ![Una mesa de reuniones vacía convertida en un lugar para observar una reunión ajena](/images/col-meetings.jpg)
 
 <p class="inline-image-caption">Al observar las reuniones de otras personas, puede aprender qué criterios utiliza una organización para tomar decisiones.</p>

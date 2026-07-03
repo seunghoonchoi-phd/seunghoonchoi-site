@@ -11,7 +11,6 @@ series: "ai-replacement-stages"
 weight: 6
 reviewStatus: "done"
 ---
-
 ![AI के दौर में क्या करना चाहिए: हुनर नहीं बल्कि 'जगह' पर दांव लगाएं](/images/col-ai-replacement-stages-5.jpg)
 
 <p class="inline-image-caption">तकनीकी कौशल को स्वचालित किया जा सकता है, लेकिन योग्यता, अधिकार और हिस्सेदारी संस्थानों के भीतर लंबे समय तक रह सकती हैं।</p>
