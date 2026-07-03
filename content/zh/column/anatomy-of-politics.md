@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![昏暗会场讲台上发着黄铜光的麦克风](/images/col-anatomy-of-politics.jpg)
 
-<p class="inline-image-caption">对于那些不能说空话的人来说，剩下的武器就是做出小小的承诺并切实遵守它们。</p>
+<p class="inline-image-caption">不擅长空话的人必须通过许下小承诺并切实履行来赢得信任。</p>
 
 我一说谎，脸上就全写出来了。违心的称赞、没有真心的外交辞令，都很难从我嘴里顺出来。硬要说，我自己先难受，表情先垮下来。可政治偏偏是赢得人心的事。很多时候，得说大家爱听的话、想听的话、能让人当下安心的话。那么，像我这种不会说空话的人，是不是根本不适合搞政治？
 
@@ -44,7 +44,7 @@ reviewStatus: "done"
 
 ![政治如何赢得人心：不会说空话的人的做法](/images/inline/column-anatomy-of-politics.jpg)
 
-<p class="inline-image-caption">即使政策是根据数字设计的，人们也会根据每天的变化来接受它。</p>
+<p class="inline-image-caption">政策是根据数字制定的，但公民通过政策如何改变他们的生活来判断政策。</p>
 
 ## 赢得人气的能力，和把事做好的能力不一样
 

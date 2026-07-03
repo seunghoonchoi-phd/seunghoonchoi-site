@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![木のテーブルの上に白黒の碁石が散らばった空の碁盤、窓から差し込むやわらかな光](/images/col-choose-the-board.jpg)
 
-<p class="inline-image-caption">よい盤は実力を伸ばし、悪い盤は実力が伸びても結果を閉じ込める。</p>
+<p class="inline-image-caption">良い環境は実力が結果につながる可能性を高め、悪い環境は同じ実力から出る結果を制限する。</p>
 
 ## 同じ実力だった二人、片方だけが強くなった
 
@@ -55,7 +55,7 @@ build: {list: never, render: always}
 
 ![実力を伸ばすだけでは結果につながらない。まず環境を選べ](/images/inline/column-choose-the-board.jpg)
 
-<p class="inline-image-caption">努力の効率は、どれだけ頑張ったかより、その努力がどこに掛け合わされるかで決まる。</p>
+<p class="inline-image-caption">努力の効率は努力の量だけでなく、その努力がどの環境で使われるかによって変わる。</p>
 
 ## 機会の乏しい場所では、実力を磨いてもその分だけ
 

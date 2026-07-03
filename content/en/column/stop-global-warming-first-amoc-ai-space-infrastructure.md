@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![An illustration of warm surface currents and cold deep currents over the North Atlantic, with small space-blind modules floating toward the Sun](/images/col-amoc-global-warming-first.jpg)
 
-<p class="inline-image-caption">Reducing sunlight a little may be a small thing, but what is being touched is the entire planet's climate system.</p>
+<p class="inline-image-caption">Reducing sunlight slightly may seem trivial, but it actually impacts the entire planet's climate system.</p>
 
 Put thin shades about 1.5 million km between the Sun and Earth. Not one huge umbrella, but many small blinds. Use them to reduce a tiny amount of summer sunlight reaching the Arctic and Greenland.
 
@@ -64,7 +64,7 @@ A space blind is a fever reducer. It is an emergency drug to lower Earth's heat 
 
 ![Science illustration of small orbital sunshade modules filtering sunlight between the Sun and Earth above the Arctic and North Atlantic](/images/col-amoc-space-blind-modules.jpg)
 
-<p class="inline-image-caption">Blinds are just a device to buy time, and if emissions are not reduced, the same problem will return.</p>
+<p class="inline-image-caption">Space blinds can slow temperature rise, but unless greenhouse gas emissions are reduced, the problem of global warming remains.</p>
 
 ## Cool first, then remove the CO2
 
@@ -92,7 +92,7 @@ AI should not become an all-powerful ruler that governs Earth for us. But it can
 
 ![Science illustration of satellites, ocean buoys, and climate models connected in an AI monitoring network over the North Atlantic](/images/col-amoc-ai-monitoring-network.jpg)
 
-<p class="inline-image-caption">The value of the AI ​​observation network does not end with correct predictions, but rather allows people to first see changes that would otherwise be noticed later.</p>
+<p class="inline-image-caption">The AI ​​observation network does not stop at just guessing the forecast, but also allows us to more quickly identify climate changes that humans would notice later.</p>
 
 ## SpaceX should look at Earth's circulation before Mars
 

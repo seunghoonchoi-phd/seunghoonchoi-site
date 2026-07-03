@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![整齐摆放着用旧手工工具的工作台](/images/col-hand-skill.jpg)
 
-<p class="inline-image-caption">手动技能不是手快的能力，而是不错过素材发出的微小反应的能力。</p>
+<p class="inline-image-caption">手工技能是指工人识别材料变化的微小信号而不是快速的手部动作的能力。</p>
 
 围棋早被AI拿下了。画画、写作、写代码，也都在被拿下。可是卷紫菜包饭的大妈那双手、焊工的手、外科医生的手，到现在还稳稳的。为什么？
 
@@ -33,7 +33,7 @@ build: {list: never, render: always}
 
 ![手上功夫，AI一时半会儿抄不走的指尖手感](/images/inline/column-hand-skill.jpg)
 
-<p class="inline-image-caption">当一个角度改变时，结果就会改变。身体的反馈先于数据积累。</p>
+<p class="inline-image-caption">在单个角度改变结果的任务中，工作人员必须反复检查测量数据和手工获得的反馈。</p>
 
 ## 手上功夫的核心，是顶住和修正
 

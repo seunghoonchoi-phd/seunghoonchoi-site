@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![Mapa completo de 16 etapas del reemplazo laboral por IA](/images/col-ai-replacement-stages.jpg)
 
-<p class="inline-image-caption">La lista de 16 pasos no es una profecía, sino más bien un cuadro de secuencia para ver qué cosas sucederán primero.</p>
+<p class="inline-image-caption">La lista de 16 pasos no es una profecía, sino un punto de referencia para comparar qué tareas se automatizarán primero y en qué condiciones.</p>
 
 ¿La IA se llevará mi trabajo?
 
@@ -78,7 +78,7 @@ Pero todavía queda una diferencia: asumir pérdidas con tu propio nombre. Acert
 
 ![El orden en que la IA toma el trabajo: desde tareas con respuesta hasta la existencia humana](/images/inline/column-ai-replacement-stages.jpg)
 
-<p class="inline-image-caption">Al final del juicio, siempre queda la pregunta de quién soportará la pérdida.</p>
+<p class="inline-image-caption">Si desea utilizar el criterio de la IA en su trabajo, en última instancia debe decidir quién será responsable cuando se produzca una pérdida.</p>
 
 ## Etapa 9, empieza a entregarse autoridad de decisión a la IA
 

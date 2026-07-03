@@ -9,7 +9,7 @@ reviewStatus: "done"
 ---
 ![《미국 박사 유학, 혼자 준비해도 됩니다》 표지](/images/book-us-phd-guide.jpg)
 
-<p class="inline-image-caption">표지는 합격 결과보다, 막막했던 준비 과정을 한 권으로 묶었다는 신호에 가깝다.</p>
+<p class="inline-image-caption">이 표지는 미국 박사 지원자가 준비 과정 전체를 한 권에서 확인할 수 있다는 점을 보여준다.</p>
 
 최승훈 지음 · 벨루닉스 펴냄 · 2026년 6월
 

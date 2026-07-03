@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![동트기 전 상인이 오기 전 텅 빈 야외 시장 좌판들](/images/col-institutions-as-games.jpg)
 
-<p class="inline-image-caption">제도는 간판보다, 그 안에서 어떤 행동이 보상받는지 볼 때 제대로 보인다.</p>
+<p class="inline-image-caption">제도를 이해하려면 명칭보다, 그 제도 안에서 어떤 행동을 한 사람이 보상을 받는지 확인해야 한다.</p>
 
 ## 회사선 입 닫던 친구가 동호회선 총대 멘다
 
@@ -43,7 +43,7 @@ build: {list: never, render: always}
 
 ![제도를 읽는 법: 규칙 말고, 상과 벌부터 봐라](/images/inline/column-institutions-as-games.jpg)
 
-<p class="inline-image-caption">사람들이 이상하게 행동한다면, 먼저 그 행동에 붙은 상과 벌을 봐야 한다.</p>
+<p class="inline-image-caption">사람들이 이상하게 행동한다면, 그 행동에 어떤 보상과 불이익이 연결되어 있는지 먼저 봐야 한다.</p>
 
 ## 결재 늘렸더니 정직한 직원만 손해 본다
 

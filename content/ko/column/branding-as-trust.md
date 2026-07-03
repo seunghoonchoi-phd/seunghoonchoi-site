@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![장인이 가죽에 자기 각인을 찍는 손, 신뢰의 표식](/images/col-branding-as-trust.jpg)
 
-<p class="inline-image-caption">글이 매끈해질수록, 독자는 글솜씨보다 그 사람의 이력을 더 보게 된다.</p>
+<p class="inline-image-caption">문장이 읽기 쉬워질수록 독자는 문장만 보지 않고, 글쓴이가 실제로 해 온 일을 함께 확인한다.</p>
 
 몇 년 전만 해도 누가 일을 잘하는지 보는 법은 간단했습니다. 그 사람 글을 보면 됐어요. 제안서 한 장, 보고서 한 편, 메일 한 통. 문장이 깔끔하고 말이 척척 맞으면 "아, 이 사람 일 좀 하겠네" 싶었죠.
 
@@ -51,7 +51,7 @@ build: {list: never, render: always}
 
 ![AI가 글을 공짜로 뽑는 시대, 정작 구하기 어려워지는 건 신뢰다](/images/inline/column-branding-as-trust.jpg)
 
-<p class="inline-image-caption">신뢰는 문장 안에 들어 있지 않다. 문장 밖에서 쌓인 기록이 신뢰를 만든다.</p>
+<p class="inline-image-caption">신뢰는 문장 자체에서 생기지 않고, 글쓴이가 이전에 쌓은 기록에서 생긴다.</p>
 
 ## 브랜딩은 다섯 조각이 차례로 이어진다
 

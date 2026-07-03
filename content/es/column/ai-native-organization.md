@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![Estructura geométrica de un edificio, lo que significa reconstruir una organización desde cero](/images/col-ai-native-org.jpg)
 
-<p class="inline-image-caption">Una organización nativa de IA no es una lista de herramientas, sino una organización en la que el orden en el que fluye el trabajo ha cambiado.</p>
+<p class="inline-image-caption">En una organización nativa de IA, el orden en el que avanza el trabajo desde la solicitud hasta la revisión y la decisión cambia en lugar de una lista de herramientas.</p>
 
 Cuando me preguntan qué es una organización nativa de IA, yo respondo con otra pregunta. Si quitamos toda la IA que usan ahora, ¿qué le pasa a la empresa? Si solo se vuelve un poco más lenta, entonces es simplemente una empresa que usa IA. Si en el momento en que quitas la IA ya no se sostienen la velocidad, la estructura, los costos y la experiencia del producto, eso es una organización nativa de IA.
 
@@ -46,7 +46,7 @@ La clave es una sola. Sacar el borrador y ayudar a juzgar lo hace la IA; la resp
 
 ![Hay muchas empresas que usan IA. La 'organización nativa de IA' es la que se detiene sin ella](/images/inline/column-ai-native-organization.jpg)
 
-<p class="inline-image-caption">Solo cuando permanece una persona responsable, la automatización se puede transformar en decisiones reales dentro de la organización.</p>
+<p class="inline-image-caption">Sólo cuando la persona a cargo sigue el proceso de decisión se pueden utilizar los resultados de la automatización como decisiones organizativas reales.</p>
 
 ## La brecha se abre a partir del nivel 3
 

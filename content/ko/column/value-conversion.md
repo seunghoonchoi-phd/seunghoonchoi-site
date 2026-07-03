@@ -12,7 +12,7 @@ image: /images/col-value-conversion.jpg
 
 ![작업장에서 완성된 나무 의자를 든 장인의 손, 따뜻한 측광](/images/col-value-conversion.jpg)
 
-<p class="inline-image-caption">시간은 팔면 사라지지만, 결과물은 남겨 두면 다음 사람과 다음 기회가 다시 쓴다.</p>
+<p class="inline-image-caption">시간은 팔고 나면 다시 쓰기 어렵지만, 결과물은 남겨 두면 다른 사람이 다음 기회에서 다시 사용할 수 있다.</p>
 
 ## 같은 솜씨 목수 둘, 운명이 갈린다
 
@@ -40,7 +40,7 @@ image: /images/col-value-conversion.jpg
 
 ![아무리 일해도 안 남는 이유. 시간 말고 다시 쓸 수 있는 결과물을 남겨라](/images/inline/column-value-conversion.jpg)
 
-<p class="inline-image-caption">성과는 열심히 한 기억이 아니라, 내가 없어도 작동하는 형태로 남을 때 커진다.</p>
+<p class="inline-image-caption">성과는 열심히 했다는 기억보다, 내가 없어도 다른 사람이 사용할 수 있는 형태로 남을 때 커진다.</p>
 
 ## 이 노력은 무엇으로 남나
 

@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![長い曲線状に並んだドミノの一枚が倒れ、次の一枚に向かって傾いていく様子](/images/col-advantage-loops.jpg)
 
-<p class="inline-image-caption">小さな優位は一度に大きくならない。次の行動を楽にする仕組みがあって初めて残る。</p>
+<p class="inline-image-caption">小さな優位は、次の行動を楽にする記録と道具があるときに繰り返される。</p>
 
 同じ講義を聞いた二人がいる。一人は教室を出ながら「今日はこんなことを習ったな」で終わる。もう一人は、次にもまた使える型を一つ、ノートに残す。一か月後、似た場面がやってくる。前者は最初から頭をひねり直し、後者は作っておいた型をただ取り出す。スタートは同じだったのに、ある瞬間から二人の速さが分かれていく。
 
@@ -37,7 +37,7 @@ build: {list: never, render: always}
 
 ![1日1%の優位が複利で回り出し、誰にも真似できない実力になるまで](/images/inline/column-advantage-loops.jpg)
 
-<p class="inline-image-caption">積み上げる人が速いのは、上手だからではなく、前に作ったものを次にまた使うからだ。</p>
+<p class="inline-image-caption">以前の成果物を再利用する人は、同じ仕事を最初から始めないため、より速く処理できる。</p>
 
 ## 一つ欠けると実力はゼロ
 

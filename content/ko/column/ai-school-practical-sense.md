@@ -13,7 +13,7 @@ reviewStatus: "done"
 
 ![AI를 쓰며 작은 장치를 함께 점검하는 학생들](/images/col-ai-school-practical-sense.png)
 
-<p class="inline-image-caption">AI를 쓰는 수업은 답을 받는 시간이 아니라, 답을 검증하는 시간으로 바뀌어야 한다.</p>
+<p class="inline-image-caption">AI를 쓰는 수업은 학생이 답을 받아 적는 시간이 아니라, 답을 확인하고 고치는 시간이어야 한다.</p>
 
 학생이 AI에게 “이 자료를 표로 정리해줘”라고 말하면 몇 초 뒤 표가 나온다. “고등학생도 이해하게 설명해줘”라고 하면 AI는 설명 수준을 낮춘다. “발표 자료로 바꿔줘”라고 하면 AI는 목차와 슬라이드 초안을 만든다.
 
@@ -63,7 +63,7 @@ AI 시대에는 학교가 시간을 쓰는 방식이 달라져야 한다. 정답
 
 ![AI 시대 학교: 지식보다 실무감각을 가르쳐야 한다](/images/inline/column-ai-school-practical-sense.jpg)
 
-<p class="inline-image-caption">교실 밖에서 확인한 한 번의 오류가, 화면 안의 정답보다 더 오래 남는다.</p>
+<p class="inline-image-caption">학생이 교실 밖에서 AI의 오류를 직접 확인하면, 정답만 읽을 때보다 판단 기준을 더 오래 기억한다.</p>
 
 ## 학생은 모니터 밖에서 확인해야 한다
 

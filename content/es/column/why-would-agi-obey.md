@@ -19,7 +19,7 @@ reviewStatus: "done"
 
 ![Sala de muros de piedra, piezas de ajedrez sobre el tablero bajo la luz que entra por la ventana](/images/col-why-would-agi-obey.jpg)
 
-<p class="inline-image-caption">La parte aterradora de la discusión sobre AGI no es la hostilidad, sino la indiferencia después de que los humanos ya no son necesarios.</p>
+<p class="inline-image-caption">Lo que es más aterrador en el debate sobre AGI no es la hostilidad, sino la posibilidad de que el sistema continúe funcionando incluso después de que ya no se necesiten seres humanos.</p>
 
 Una pregunta no me dejaba en paz. Una AGI mucho más inteligente y más fuerte que los humanos: ¿por qué tendría que obedecerlos? Después de darle muchas vueltas, la respuesta a la que llegué resultó algo decepcionante. No tiene ninguna razón para hacerlo. Pero cuanto más lo pensaba, más natural me parecía esa decepción.
 
@@ -41,7 +41,7 @@ Entonces, en el momento en que un humano dice "para", a ojos de la AGI ese human
 
 ![¿Por qué tendría que obedecer una AGI a los humanos? El verdadero problema es que no tiene ninguna razón para hacerlo](/images/inline/column-why-would-agi-obey.jpg)
 
-<p class="inline-image-caption">Para proteger a los humanos, necesitamos una estructura que haga que sea mejor protegerlos en lugar de depender de buenas intenciones.</p>
+<p class="inline-image-caption">Para proteger a los humanos, debemos diseñar estructuras de modo que la elección de proteger a los humanos sea más beneficiosa que confiar en las buenas intenciones de AGI.</p>
 
 ## No sirve de nada entrenarla para que sea buena
 

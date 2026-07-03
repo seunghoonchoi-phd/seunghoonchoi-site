@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![夕暮れの街の交差点に立ち、三方向に分かれた道を見つめる人](/images/col-learning-magic-numbers.jpg)
 
-<p class="inline-image-caption">新しい分野の勘は量より間隔から生まれる。違う事例がぶつかって初めて基準ができる。</p>
+<p class="inline-image-caption">新しい分野の感覚は事例の量だけでは生まれず、異なる事例の差を比べるときに生まれる。</p>
 
 新しい分野を初めて学ぶとき、人はよくこう聞きます。「何件くらい事例を見れば勘がつかめるんだろう？」たくさん見ればいいような気がしますが、実際はそうではありません。同じ種類の事例を百件見ても、頭の中は整理がつかないままということもあります。
 
@@ -46,7 +46,7 @@ reviewStatus: "done"
 
 ![新しい分野は「たくさん見る」のではなく「違う見方をする」: マジックナンバー 3・7・30・100](/images/inline/column-learning-magic-numbers.jpg)
 
-<p class="inline-image-caption">比較していない百の事例より、違いが見える三十の事例のほうが早く教えてくれる。</p>
+<p class="inline-image-caption">差が見える三十個の事例を比べると、基準をより早く学べる。</p>
 
 ## 100回は反復ではなくフィードバックだ
 

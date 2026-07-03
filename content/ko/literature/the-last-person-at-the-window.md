@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![바다가 보이는 창가에 앉은 사람의 실루엣](/images/inline/literature-the-last-person-at-window.jpg)
 
-<p class="inline-image-caption">창밖의 바다는 사람이 할 일이 사라진 뒤에도 시간이 계속 간다는 사실을 조용히 보여준다.</p>
+<p class="inline-image-caption">창밖의 바다는 사람이 할 일을 잃은 뒤에도 시간이 계속 지나간다는 사실을 보여준다.</p>
 
 수경은 여전히 아침마다 같은 자리에 앉는다.
 

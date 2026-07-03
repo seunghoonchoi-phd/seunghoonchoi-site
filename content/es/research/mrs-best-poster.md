@@ -7,6 +7,6 @@ reviewStatus: "done"
 ---
 ![Best Poster Award, 2018 MRS Fall Meeting](/images/mrs-event.jpeg)
 
-<p class="inline-image-caption">Más que los resultados, la fotografía ganadora deja atrás el hecho de que la investigación fue verificada incluso en un entorno desconocido.</p>
+<p class="inline-image-caption">La fotografía del premio muestra que esta investigación también fue evaluada fuera de la sala de presentación.</p>
 
 Tomé como idea las ventosas del pulpo y desarrollé un sensor en forma de parche que se adhiere bien a la piel y a la vez conduce la electricidad, con el que es posible leer las señales del cuerpo. Con este trabajo recibí el Best Poster Award (Premio al Mejor Póster) en la sesión de pósteres del 2018 MRS Fall Meeting & Exhibition, celebrado en Boston.

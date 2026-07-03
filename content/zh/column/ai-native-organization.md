@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![几何感的建筑结构，把组织从头重新搭建意味着什么](/images/col-ai-native-org.jpg)
 
-<p class="inline-image-caption">AI 原生组织不是工具列表，而是工作流程顺序发生变化的组织。</p>
+<p class="inline-image-caption">在人工智能原生组织中，工作从请求到审查再到决策的顺序发生变化，而不是工具列表。</p>
 
 有人问我什么是 AI 原生组织，我会反过来问：把你现在用的 AI 全抽掉，公司会怎样？要是只是慢一点，那就是个会用 AI 的公司而已。一抽掉 AI，速度、结构、成本、产品体验全塌，那才叫 AI 原生组织。
 
@@ -46,7 +46,7 @@ build: {list: never, render: always}
 
 ![用 AI 的公司很多。离了 AI 就停摆的，才叫 AI 原生组织](/images/inline/column-ai-native-organization.jpg)
 
-<p class="inline-image-caption">只有当负责人留下来时，自动化才能转化为组织内的实际决策。</p>
+<p class="inline-image-caption">只有负责人遵循决策流程，自动化结果才能作为实际的组织决策。</p>
 
 ## 差距从第 3 阶段开始拉开
 

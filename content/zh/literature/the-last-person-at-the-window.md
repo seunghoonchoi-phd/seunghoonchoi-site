@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![一个人的剪影，坐在能望见大海的窗前](/images/inline/literature-the-last-person-at-window.jpg)
 
-<p class="inline-image-caption">窗外的大海静静地表明，即使人们无事可做，时间仍然在流逝。</p>
+<p class="inline-image-caption">窗外的大海表明，即使人们失去了一切可做的事情，时间仍然在流逝。</p>
 
 秀卿还是每天早晨坐在同一个位置。
 

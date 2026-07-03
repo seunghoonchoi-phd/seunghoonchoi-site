@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![Una mano que dibuja una estructura sobre un plano; no resume, construye una estructura](/images/col-understand.jpg)
 
-<p class="inline-image-caption">El objetivo de Comprensión en 10 minutos no es proporcionar un resumen, sino identificar en qué problemas se utilizan conceptos desconocidos.</p>
+<p class="inline-image-caption">El objetivo de Comprensión en 10 minutos no es crear un resumen, sino comprender para qué problemas se utilizan conceptos desconocidos.</p>
 
 Falta un minuto para entrar a una reunión que no conozco. Un artículo que abro por primera vez, una tecnología que escucho por primera vez. En ese momento yo no empiezo por hacer un resumen.
 
@@ -52,7 +52,7 @@ Organiza el siguiente material con la "plantilla común para entender conceptos"
 
 ![Cómo dominar un concepto nuevo en 10 minutos: la plantilla de las 9 casillas](/images/inline/column-understand-anything-in-10-minutes.jpg)
 
-<p class="inline-image-caption">Lo que necesitas justo antes de la clase no es un conocimiento perfecto, sino un estándar para descubrir lo que necesitas escuchar.</p>
+<p class="inline-image-caption">Lo que necesitas justo antes de la clase no es un conocimiento completo, sino un estándar para descubrir lo que necesitas escuchar en la conferencia.</p>
 
 ## Lo que distingue a esta plantilla: solo tres cosas
 

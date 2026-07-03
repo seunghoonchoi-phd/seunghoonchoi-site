@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![Close-up of an old analog electricity meter dial shot in dim light](/images/col-ai-hidden-costs.jpg)
 
-<p class="inline-image-caption">The cost of AI is greater in human time re-reading the results, rather than in the invoice.</p>
+<p class="inline-image-caption">The cost of AI should include not only usage fees but also human time to read and edit the results.</p>
 
 ## Company AI leaks money every time you use it
 
@@ -47,7 +47,7 @@ Fifth, talking about "I used a ton of AI" as if it were an achievement. Using a 
 
 ![Company AI Is Not Free: The Token and Subscription Illusion, and the Money Leaking Behind the Wall](/images/inline/column-ai-hidden-costs.jpg)
 
-<p class="inline-image-caption">Using a lot is not an achievement, but may be a sign that the bottleneck has not yet been found.</p>
+<p class="inline-image-caption">Teams that use a lot of AI need to check which tasks are taking the most time, apart from whether they produced results.</p>
 
 ## "It was for work" stops working soon
 

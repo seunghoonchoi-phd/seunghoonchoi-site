@@ -10,7 +10,7 @@ reviewStatus: "done"
 ---
 ![A magnifying glass beside a laptop](/images/col-qa.jpg)
 
-<p class="inline-image-caption">The purpose of inspection is not to make the result smaller, but to accurately fix only the broken parts.</p>
+<p class="inline-image-caption">Inspection is not a task of reducing the output, but a task of finding and correcting actual errors.</p>
 
 The text was sticking out past the slide. I noticed it only right before sending.
 
@@ -46,7 +46,7 @@ The core is simple. If a stronger model would also want to avoid the failure, ca
 
 ![The Trap in Reviewing AI Outputs: Do Not Lower the Ceiling While Catching Errors](/images/inline/column-dont-lobotomize-the-model.jpg)
 
-<p class="inline-image-caption">A good inspection tool should stop only the actual defects, without erasing the imagination of the model.</p>
+<p class="inline-image-caption">A good review tool should not erase the model's creative attempts; it should identify only outputs with real defects.</p>
 
 ## Not every issue is black and white
 

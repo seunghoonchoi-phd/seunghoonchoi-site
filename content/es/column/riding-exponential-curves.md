@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Un surfista al atardecer usando la fuerza de la ola como impulso](/images/col-riding-exponential-curves.jpg)
 
-<p class="inline-image-caption">El salario es dinero que pasa y los bienes son el resultado que permanece incluso cuando no estoy trabajando.</p>
+<p class="inline-image-caption">Cuando recibe un salario, este puede desaparecer debido a los gastos de manutención, pero los activos pueden seguir siendo valiosos incluso cuando no esté trabajando.</p>
 
 El salario importa. Te permite vivir ahora y sostiene la vida para que no se derrumbe. Pero solo con salario es difícil volverse rico. Entra dinero en proporción al tiempo que trabajas.
 
@@ -34,7 +34,7 @@ El primer método es simple. Hay que dejar apartada una parte del salario, sí o
 
 ![Con salario no te vuelves rico. Cómo crear activos que crecen con interés compuesto](/images/inline/column-riding-exponential-curves.jpg)
 
-<p class="inline-image-caption">Lo que necesitas dejar antes del dinero es un rastro que conducirá a la próxima oportunidad de encontrarte.</p>
+<p class="inline-image-caption">Antes que el dinero, conviene dejar un resultado que pueda mostrarse cuando llegue la siguiente oportunidad.</p>
 
 ## Cómo elegir activos que crecen con interés compuesto
 

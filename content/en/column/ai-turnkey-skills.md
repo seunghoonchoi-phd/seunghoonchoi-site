@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Illustration of an AI research assistant](/images/col-ai-turnkey-skills.png)
 
-<p class="inline-image-caption">The more AI lends its brain, the more power left to humans to carry out the tasks entrusted to them to the end.</p>
+<p class="inline-image-caption">The more AI assists with the thinking process, the more humans must demonstrate the ability to check and complete assigned tasks.</p>
 
 We have entered an age when AI produces answers quickly. Finding information, writing sentences, organizing ideas, and making drafts have become much easier. But faster answers do not automatically make work better. If anything, as a large part of intelligence gets outsourced to AI, the human role becomes clearer.
 
@@ -46,7 +46,7 @@ In the AI era, bottlenecks are not only technical shortages. Slow decisions, blo
 
 ![Seven Skills That Make Work Hold Together in the AI Era, and What Matters Even More](/images/inline/column-ai-turnkey-skills.jpg)
 
-<p class="inline-image-caption">The person who finds the bottleneck is not the person who increases the speed, but the person who makes the next move clear.</p>
+<p class="inline-image-caption">The person who finds where work takes a long time clarifies what should happen next, rather than focusing only on speed.</p>
 
 AI quickly creates drafts, ideas, code, and summaries. But turning a draft into an output that customers and colleagues can actually use is still human work. A good beginning matters less than finishing something that can truly be used.
 

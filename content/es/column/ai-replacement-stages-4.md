@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![Hasta la escritura de tu casa es, al final, una hoja de papel: las últimas etapas 15 y 16](/images/col-ai-replacement-stages-4.jpg)
 
-<p class="inline-image-caption">En última instancia, la propiedad reside en los registros que la sociedad ha prometido conservar.</p>
+<p class="inline-image-caption">La propiedad opera como un derecho real cuando la sociedad reconoce y protege ciertos documentos.</p>
 
 Imagina que compras una casa. Tu nombre queda en el registro y tienes la llave en la mano. La gente la llama tu casa. Pero ¿por qué es realmente tuya?
 
@@ -93,7 +93,7 @@ En la relación entre IA y humanos, al final hace falta una estructura así. No 
 
 ![Hasta la escritura de tu casa es, al final, una hoja de papel: las últimas etapas 15 y 16, cuando la propiedad se tambalea](/images/inline/column-ai-replacement-stages-4.jpg)
 
-<p class="inline-image-caption">En el momento en que los humanos pierden su utilidad, el lenguaje de los derechos también puede perder su poder de defensa.</p>
+<p class="inline-image-caption">Si los seres humanos pierden su papel económico, la base social para proteger los derechos humanos también puede debilitarse.</p>
 
 ## La abundancia sola no basta
 

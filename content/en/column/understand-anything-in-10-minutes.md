@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![Hands drafting a structure on a blueprint: building structure, not a summary](/images/col-understand.jpg)
 
-<p class="inline-image-caption">The goal of 10-Minute Comprehension is not to provide a summary, but to identify which problems unfamiliar concepts are used in.</p>
+<p class="inline-image-caption">The goal of 10 Minute Understanding is not to create a summary, but to understand what problems unfamiliar concepts are used for.</p>
 
 One minute before walking into a meeting in a field I don't know. The first time I open a paper, the first time I hear about a technology. At that moment, I don't start by making a summary.
 
@@ -53,7 +53,7 @@ someone seeing it for the first time can get oriented within 10 minutes.
 
 ![How to Crush Any New Concept in 10 Minutes: The 9-Box Comprehension Template](/images/inline/column-understand-anything-in-10-minutes.jpg)
 
-<p class="inline-image-caption">What you need right before class is not perfect knowledge, but a standard to find out what you need to listen to.</p>
+<p class="inline-image-caption">What you need right before class is not complete knowledge, but a standard to find out what you need to hear in the lecture.</p>
 
 ## Exactly Three Things That Set This Apart
 

@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![工匠的手把自己的印记压进皮革，象征信任的标记](/images/col-branding-as-trust.jpg)
 
-<p class="inline-image-caption">随着写作变得更加优美，读者会更多地看到这个人的历史，而不是他们的写作技巧。</p>
+<p class="inline-image-caption">句子越容易读，读者越不会只看文字，也会确认作者实际做过什么。</p>
 
 几年前，想知道谁活儿干得好，办法很简单。看他写的东西就行。一份方案、一篇报告、一封邮件。句子干净、话说得顺，你就会想：嗯，这人应该能干。
 
@@ -51,7 +51,7 @@ build: {list: never, render: always}
 
 ![AI免费帮你写字的时代，真正变贵的是信任](/images/inline/column-branding-as-trust.jpg)
 
-<p class="inline-image-caption">信任不包含在句子中。文本之外积累的记录可以建立信任。</p>
+<p class="inline-image-caption">信任不是从句子本身产生的，而是来自作者之前积累的记录。</p>
 
 ## 品牌是五块依次相连的
 

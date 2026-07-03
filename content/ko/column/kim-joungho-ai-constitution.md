@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![서버룸에 늘어선 서버 랙. AI의 전기와 통제권을 떠올리게 하는 이미지](/images/col-kim-joungho-ai-constitution.jpg)
 
-<p class="inline-image-caption">헌법 형식은 AI 논의를 추상 구호가 아니라 조항별 책임으로 바꿔 놓는다.</p>
+<p class="inline-image-caption">헌법 형식은 AI 논의를 추상 구호로 두지 않고, 조항별 책임과 권한으로 나누게 한다.</p>
 
 아래의 내용은 2025 김대중평화회의 특별강연 「AI의 효과적 발전방안과 평화 증진」에서 나온 김정호 카이스트 전기 및 전자공학부 교수의 연설 내용을 바탕으로, 그 핵심 발언을 헌법 조항의 형태로 재구성한 것이다.
 
@@ -34,7 +34,7 @@ AI가 인간을 적으로 간주하거나 인간을 지배하려는 상황에서
 
 ![김정호 카이스트 교수의 'AI 헌법' 전문](/images/inline/column-kim-joungho-ai-constitution.jpg)
 
-<p class="inline-image-caption">영원히 남는 지능을 상상하면, 통제는 성능보다 시간의 문제로 바뀐다.</p>
+<p class="inline-image-caption">오래 유지되는 지능을 가정하면, 통제 문제는 성능뿐 아니라 시간이 지나도 규칙이 유지되는지의 문제가 된다.</p>
 
 ## 제5조. AI의 전력 사용량은 인간 수준으로 제한되어야 한다.
 

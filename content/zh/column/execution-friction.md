@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![书桌上乱成一团、缠在一起的电脑线缆和电线](/images/col-execution-friction.jpg)
 
-<p class="inline-image-caption">如果添加了 AI 还是很慢，问题可能不是模型，而是模型周围的手脚。</p>
+<p class="inline-image-caption">如果引入 AI 后工作仍然缓慢，耗时的原因可能不是模型性能，而是输入、审查和审批流程。</p>
 
 ## 能力一样，为什么只有上班族产出少
 
@@ -45,7 +45,7 @@ reviewStatus: "done"
 
 ![都用一样的AI，为什么只有上班族做不出东西：执行环境摩擦的真相](/images/inline/column-execution-friction.jpg)
 
-<p class="inline-image-caption">长期任务需要不间断的执行环境而不是自动化。</p>
+<p class="inline-image-caption">需要长时间集中注意力的任务需要一个不间断持续运行的环境，而不是自动化工具。</p>
 
 ## 真正的元凶，是公司电脑里的VDI
 

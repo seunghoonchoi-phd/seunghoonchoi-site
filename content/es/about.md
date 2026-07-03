@@ -6,6 +6,8 @@ reviewStatus: "done"
   <img src="/images/about-portrait.jpg" alt="Seunghoon Choi" width="820" height="1093" loading="eager">
 </figure>
 
+<p class="inline-image-caption">Esta foto muestra que las publicaciones en el sitio tratan sobre los problemas que ha experimentado una persona, no solo una lista de carreras.</p>
+
 Antes que ingeniero, soy alguien que crea contenido. Cuando atravieso en primera persona un problema complejo y tedioso, lo convierto en textos y herramientas para que la siguiente persona se pierda menos. A partir de 2026 empiezo el doctorado en ciencia de materiales computacional en la Universidad de Florida (UF).
 
 El título y la investigación importan, pero en el fondo me interesa más vivir de una forma auténtica. Quiero convertir los cuellos de botella que he vivido en textos, aplicaciones y guías.

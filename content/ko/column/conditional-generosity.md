@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![따뜻한 노을빛 하늘로 손을 뻗어 해를 감싸 쥔 손](/images/col-conditional-generosity.jpg)
 
-<p class="inline-image-caption">착함은 선을 없애는 일이 아니라, 선을 넘은 사람에게 비용을 알리는 일이다.</p>
+<p class="inline-image-caption">착함은 모든 경계를 없애는 태도가 아니라, 상대가 넘으면 안 되는 행동을 분명히 알려 주는 태도다.</p>
 
 나는 착하게 살고 싶다. 그런데 솔직히 말하면, 나도 가끔은 누군가를 욕하고 싶다. 나를 괴롭히는 사람에게 똑같이 갚아 주고 싶고, 뒤에서 흉도 보고 싶다. 마음 한쪽은 “그래도 착해야지”라고 말하고, 다른 한쪽은 “그럼 평생 당하고만 살라는 거냐”라고 묻는다.
 
@@ -58,7 +58,7 @@ reviewStatus: "done"
 
 ![착하게 살되 호구는 안 되는 법: 성자도 악당 앞에서는 단호해진다](/images/inline/column-conditional-generosity.jpg)
 
-<p class="inline-image-caption">진짜 거리두기는 상대를 미워하는 시간이 아니라, 내 하루를 돌려받는 시간이다.</p>
+<p class="inline-image-caption">거리두기를 하면 상대를 미워하는 데 쓰던 시간보다 내 하루를 관리하는 시간이 늘어난다.</p>
 
 ## 분노와 비난은 없애지 말고 정보로 바꿔라
 

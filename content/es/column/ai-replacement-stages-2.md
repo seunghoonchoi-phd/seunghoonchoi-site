@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![El trabajo físico que toma la IA: desde labor repetitiva hasta juicio y tacto](/images/col-ai-replacement-stages-2.jpg)
 
-<p class="inline-image-caption">Lo que resulta difícil para los robots no es la potencia, sino el hecho de que el sitio cambia ligeramente cada vez.</p>
+<p class="inline-image-caption">A los robots les resulta difícil repetir las mismas acciones, no porque les falte potencia, sino porque las condiciones varían en cada lugar de trabajo.</p>
 
 Si la IA toma primero los trabajos con respuesta, la siguiente pregunta es natural. ¿El trabajo físico está a salvo?
 
@@ -48,7 +48,7 @@ Cuando ese costo baja, esta zona también queda en riesgo.
 
 ![Del trabajo físico repetitivo al trabajo que exige juicio y tacto: etapas 6 a 8 de cómo la IA toma el trabajo](/images/inline/column-ai-replacement-stages-2.jpg)
 
-<p class="inline-image-caption">La sensación no es un misterio, sino un juicio que queda en el cuerpo después de cometer muchos errores y corregirlos.</p>
+<p class="inline-image-caption">El sentido de campo es un estándar de juicio creado por los trabajadores a través de repetidos errores y correcciones.</p>
 
 ## Etapa 8, trabajos que exigen juicio y tacto
 

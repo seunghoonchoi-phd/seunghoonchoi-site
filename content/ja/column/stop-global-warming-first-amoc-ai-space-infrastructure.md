@@ -11,7 +11,7 @@ reviewStatus: "done"
 ---
 ![北大西洋の上を暖かい表層海流と冷たい深層海流が流れ、太陽側には小さな宇宙ブラインドのモジュールが浮かぶイラスト](/images/col-amoc-global-warming-first.jpg)
 
-<p class="inline-image-caption">太陽光を少し減らすという言葉は小さいが、触れている相手は地球全体の気候システムだ。</p>
+<p class="inline-image-caption">太陽光を少し減らすという表現は些細に見えるが、実際には地球全体の気候システムに影響を与える。</p>
 
 太陽と地球の間、約150万kmの場所に薄い遮光板を浮かべる。巨大な傘を一枚広げるのではなく、小さなブラインドを大量に並べ、北極とグリーンランドに入る夏の太陽光をほんの少し減らす。
 
@@ -63,7 +63,7 @@ AMOCはAtlantic Meridional Overturning Circulationの略だ。日本語では大
 
 ![太陽と地球の間に小さな宇宙ブラインドのモジュールが並び、北極と北大西洋へ入る光を少し減らす科学イラスト](/images/col-amoc-space-blind-modules.jpg)
 
-<p class="inline-image-caption">ブラインドは時間を稼ぐ装置にすぎず、排出を減らせなければ同じ問題は戻ってくる。</p>
+<p class="inline-image-caption">宇宙ブラインドは気温上昇を遅らせられるが、温室効果ガス排出を減らさなければ地球温暖化の問題は残る。</p>
 
 ## 先に冷やし、その間に毒を抜く
 
@@ -91,7 +91,7 @@ AIは地球を代わりに統治する神になってはいけない。だが、
 
 ![衛星、海洋ブイ、気候モデルのデータがつながり、北大西洋の海流変化を見るAI観測網の科学イラスト](/images/col-amoc-ai-monitoring-network.jpg)
 
-<p class="inline-image-caption">AI観測網の価値は予測を当てるだけでなく、人が遅れて気づく変化を先に見せることにある。</p>
+<p class="inline-image-caption">AI観測網は予測値を当てるだけで終わらず、人間が遅れて気づく気候変化をより早く確認させる。</p>
 
 ## SpaceXは火星より先に地球の循環系を見るべきだ
 

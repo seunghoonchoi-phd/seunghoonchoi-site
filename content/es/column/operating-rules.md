@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![Una sala de reuniones vacía con luz suave entrando por la ventana; alrededor de la mesa, las sillas están colocadas cada una en un ángulo distinto](/images/col-operating-rules.jpg)
 
-<p class="inline-image-caption">Hay ocasiones en las que una propuesta que se rechaza en una reunión se rechaza no por su calidad, sino porque lastima la cara de alguien.</p>
+<p class="inline-image-caption">Una propuesta puede no ser aceptada en una reunión no por su calidad, sino porque dañó la imagen de alguien.</p>
 
 ## La buena propuesta se cae por el orgullo del jefe
 
@@ -35,7 +35,7 @@ Aquí, la persona ingenua comete dos errores. O cumple la aprobación previa con
 
 ![La verdadera razón por la que la mejor propuesta se cae en la reunión](/images/inline/column-operating-rules.jpg)
 
-<p class="inline-image-caption">Las verdaderas reglas no son las oraciones escritas en el documento, sino las instrucciones que las personas realmente evitan y eligen.</p>
+<p class="inline-image-caption">Las reglas reales no se confirman únicamente con el texto escrito, sino que se revelan en las acciones que la gente evita o elige repetidamente.</p>
 
 ## Se contrata al proveedor caro por el orgullo del directivo
 

@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![A teacher lectures at a quantum mechanics board while one student among many feels overwhelmed by unanswered questions](/images/col-questions-lifeline.png)
 
-<p class="inline-image-caption">Asking a lot of questions doesn't mean you're slow to understand, but it just means you don't get past the stuck points.</p>
+<p class="inline-image-caption">Many questions may mean not that understanding is slow, but that the person does not skip parts they have not understood.</p>
 
 When I studied quantum mechanics in engineering school, equations like these appeared on the board first.
 
@@ -52,7 +52,7 @@ At the top end of exams, this difference becomes large. Some students can see th
 
 ![A Lifeline for People Who Ask Too Many Questions](/images/inline/column-questions-lifeline.jpg)
 
-<p class="inline-image-caption">People who are familiar with formulas do not memorize the answers, but rather look first to see where they might get stuck.</p>
+<p class="inline-image-caption">Someone familiar with a formula has not just memorized the answer; they first check which step of the solution is likely to go wrong.</p>
 
 ## There Was No One to Receive the Questions
 

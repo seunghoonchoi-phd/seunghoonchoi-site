@@ -8,7 +8,7 @@ reviewStatus: "done"
 
 ![Raindrops on a window](/images/lit-remains.jpg)
 
-<p class="inline-image-caption">剩下的越少，“我爱你”这句话就越成为最后的选择，而不是更轻松的安慰。</p>
+<p class="inline-image-caption">剩下的越少，“我爱你”这句话就越成为决定最终行动的话语，而不是安慰的话。</p>
 
 <div class="poem">
 <p>或许最要紧的，<br>

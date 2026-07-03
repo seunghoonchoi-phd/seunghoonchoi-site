@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![Cómo sobrevivir en la era de la IA: apuesta por certificaciones y propiedad, no solo por habilidad](/images/col-ai-replacement-stages-5.jpg)
 
-<p class="inline-image-caption">Las habilidades pueden desaparecer, pero las calificaciones, la autoridad y lo que está en juego permanecen por más tiempo.</p>
+<p class="inline-image-caption">Las habilidades técnicas pueden automatizarse, pero las calificaciones, los derechos y los intereses pueden durar más dentro de las instituciones.</p>
 
 Pones una frase en una app de traducción y en pocos segundos aparece un inglés convincente. Si pasaste años estudiando inglés, puede doler. Una capacidad que tardaste mucho en acumular ahora se obtiene con pulsar un botón. Esa escena resume en una línea los cuatro textos anteriores.
 
@@ -80,7 +80,7 @@ En la era de la IA no basta con preguntar "qué voy a hacer bien". Hay que pregu
 
 ![Cómo sobrevivir en la era de la IA: apuesta por certificaciones y propiedad, no solo por habilidad](/images/inline/column-ai-replacement-stages-5.jpg)
 
-<p class="inline-image-caption">En la era de la IA, los puestos recaen en quienes vinculan los resultados bajo su responsabilidad en lugar de quienes son buenos en su trabajo.</p>
+<p class="inline-image-caption">En la era de la IA, no sólo tienen autoridad quienes hacen bien el trabajo, sino también quienes asumen la responsabilidad legal y organizacional de los resultados.</p>
 
 ## Las grandes estrellas y los trabajadores comunes juegan juegos distintos
 

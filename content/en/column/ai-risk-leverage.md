@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![A laptop showing an AI workflow, with documents, a lock, and a warning light on the desk](/images/col-ai-risk-leverage.png)
 
-<p class="inline-image-caption">As automation accelerates, reviews must be done in front of the design, not behind it.</p>
+<p class="inline-image-caption">As automation accelerates, legal, security, and reputation reviews should happen before execution, not after.</p>
 
 With AI, writing one piece is quick. A customer notice, a press release, an email reply. A draft that once took a day can come out in ten minutes, in several versions. That is why the most dangerous moment is not when AI is wrong. It is when AI is too fast and too plausible.
 
@@ -64,7 +64,7 @@ Reputation failures usually do not come from one dramatic sentence alone. Small 
 
 ![AI Risk Grows with Speed: How Automation Without Review Turns Small Mistakes into Crises](/images/inline/column-ai-risk-leverage.jpg)
 
-<p class="inline-image-caption">Reputation risk arises from whether the other party feels they have been treated like a human being rather than right or wrong.</p>
+<p class="inline-image-caption">Reputational risk increases not only based on facts, but also when others feel they have been treated unfairly.</p>
 
 ## Sensitive Data Leaks When People Rush
 

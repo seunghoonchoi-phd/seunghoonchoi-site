@@ -10,7 +10,7 @@ reviewStatus: "done"
 ---
 ![A magnifying glass beside a laptop](/images/col-qa.jpg)
 
-<p class="inline-image-caption">検収の目的は結果物を小さくすることではなく、壊れた部分だけを正確に直すことだ。</p>
+<p class="inline-image-caption">検収は成果物を小さくする作業ではなく、実際に誤りがある部分を見つけて直す作業だ。</p>
 
 文字がスライドの外にはみ出していた。送る直前になって、やっと目に入った。
 
@@ -46,7 +46,7 @@ AIが作ったオフィスファイルには、こういうミスがよく出る
 
 ![AI成果物チェックの落とし穴：エラーをつぶすあまり、出来の上限まで下げてはいけない](/images/inline/column-dont-lobotomize-the-model.jpg)
 
-<p class="inline-image-caption">よい検収ツールはモデルの想像力まで消さず、本当の欠陥だけを止めるべきだ。</p>
+<p class="inline-image-caption">良い検収ツールは、モデルの創造的な試みまで消さず、実際に欠陥がある出力だけを見つける必要がある。</p>
 
 ## すべての問題を白黒で分けられるわけではない
 

@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![1994년부터 2005년까지 나스닥 지수가 닷컴 버블 전후로 급등락한 차트](/images/col-dotcom-bubble-ai-bubble.png)
 
-<p class="inline-image-caption">차트의 급등보다 중요한 것은, 사람들이 언제부터 숫자 대신 이야기를 믿기 시작했는지다.</p>
+<p class="inline-image-caption">차트가 급등할 때는 사람들이 실적보다 미래 이야기에 더 큰 돈을 쓰기 시작했는지 확인해야 한다.</p>
 
 2000년 3월 20일, Barron's 표지에는 꽤 잔인한 경고가 실렸다. 인터넷 회사들이 현금을 너무 빨리 태우고 있다는 이야기였다. 열흘 전 나스닥은 최고점을 찍었다. 시장은 아직 “새 경제”를 믿고 있었지만, 누군가는 이미 계산기를 두드리고 있었다.
 
@@ -50,7 +50,7 @@ AI도 지금 비슷한 질문 앞에 있다. AI가 세상을 바꿀지는 핵심
 
 ![닷컴 버블에 대한 복습, 그리고 AI 버블과의 비교](/images/inline/column-dotcom-bubble-ai-bubble.jpg)
 
-<p class="inline-image-caption">거품이 꺼질 때 시장은 꿈을 버리는 것이 아니라, 현금 흐름부터 다시 본다.</p>
+<p class="inline-image-caption">거품이 꺼질 때 투자자는 기업의 기대 이야기보다 실제 현금 흐름을 먼저 다시 확인한다.</p>
 
 ## 이번에는 기억이 남아 있다
 

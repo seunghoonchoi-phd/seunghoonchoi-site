@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![昏暗光线下旧式模拟电表表盘的特写](/images/col-ai-hidden-costs.jpg)
 
-<p class="inline-image-caption">人工智能在重新读取结果方面的成本比在发票方面的成本更大。</p>
+<p class="inline-image-caption">人工智能的成本不仅包括使用费，还包括人类阅读和编辑结果的时间。</p>
 
 ## 公司AI，每用一次就漏一次钱
 
@@ -47,7 +47,7 @@ AI不是这样。每跑一次都要花钱。问得越长，花得越多；把一
 
 ![公司的AI不是免费的：代币和订阅的错觉，还有从墙后漏走的钱](/images/inline/column-ai-hidden-costs.jpg)
 
-<p class="inline-image-caption">使用大量并不是一种成就，而可能是尚未找到瓶颈的标志。</p>
+<p class="inline-image-caption">大量使用 AI 的团队除了看是否取得成果，还需要确认哪些工作耗时最多。</p>
 
 ## "是为工作才用的"这话很快就不管用了
 

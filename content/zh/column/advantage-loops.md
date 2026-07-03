@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![一长串弯曲排开的多米诺骨牌中，一块正倒下，朝着下一块倾斜](/images/col-advantage-loops.jpg)
 
-<p class="inline-image-caption">小优势不会一下子全部扩大。剩下的就是一个能让下一步行动变得更容易的装置。</p>
+<p class="inline-image-caption">当你有记录和工具让下一步行动变得更容易时，小优势就会重复出现。</p>
 
 有两个人听了同一堂课。一个人走出教室，说一句「今天学了这么个东西」就完了。另一个人在笔记里留下一个下次还能掏出来用的框架。一个月后，类似的情况又来了。前一个人从头开始重新动脑，后一个人把做好的框架直接拿出来用。出发点本来一样，可从某一刻起，两人的速度就分开了。
 
@@ -37,7 +37,7 @@ build: {list: never, render: always}
 
 ![每天1%的优势怎样滚成复利，变成别人抄不走的实力](/images/inline/column-advantage-loops.jpg)
 
-<p class="inline-image-caption">积累的人速度更快，不是因为他们擅长，而是因为他们下次会重复使用他们已经做过的事情。</p>
+<p class="inline-image-caption">重写以前工作的人做得更快，因为他们不是从头开始。</p>
 
 ## 缺一样，实力就是0
 

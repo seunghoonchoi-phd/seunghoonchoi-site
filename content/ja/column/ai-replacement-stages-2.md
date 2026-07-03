@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![AIが奪っていく体の仕事、繰り返しの肉体労働から判断と感覚まで](/images/col-ai-replacement-stages-2.jpg)
 
-<p class="inline-image-caption">ロボットに難しいのは力ではなく、現場が毎回少しずつ違うことだ。</p>
+<p class="inline-image-caption">ロボットは力が足りないからではなく、作業現場ごとに条件が変わるため、同じ動作を繰り返しにくい。</p>
 
 AIが正解のある仕事を先に奪っていくのなら、次の問いは自然に出てきます。体を使う仕事は安全なのか。
 
@@ -48,7 +48,7 @@ AIが正解のある仕事を先に奪っていくのなら、次の問いは自
 
 ![繰り返しの肉体労働から判断と感覚が要る仕事まで:AIが仕事を奪う6〜8段階](/images/inline/column-ai-replacement-stages-2.jpg)
 
-<p class="inline-image-caption">感覚は神秘ではない。何度も間違えて直したあと、体に残る判断だ。</p>
+<p class="inline-image-caption">現場感覚は、作業者が失敗と修正を繰り返して作った判断基準である。</p>
 
 ## 8段階:判断と感覚が要る仕事
 

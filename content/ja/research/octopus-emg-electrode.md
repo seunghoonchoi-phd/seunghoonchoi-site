@@ -11,7 +11,7 @@ reviewStatus: "done"
 ---
 ![乾湿どちらの環境でも安定したEMGベースのロボット制御を実現するタコ模倣型粘着電極](/images/octopus-emg-electrode.jpg)
 
-<p class="inline-image-caption">濡れた皮膚にも付く電極は、実験室の外で使うウェアラブルロボットに近い条件を作る。</p>
+<p class="inline-image-caption">濡れた皮膚にも付く電極は、ウェアラブルロボットが実使用環境で筋肉信号を読む条件を作る。</p>
 
 (共同筆頭著者論文) _International Journal of Internet, Broadcasting and Communication_(IJIBC)に掲載された研究です。タコの吸盤を模した微細構造で肌に吸着し、乾いた肌でも濡れた肌でもEMG(electromyography、筋電図)信号を安定して記録します。汗や肌の動きがあっても電極が簡単には外れないため、義手やウェアラブルロボットをEMGベースでより安定して制御できます。
 

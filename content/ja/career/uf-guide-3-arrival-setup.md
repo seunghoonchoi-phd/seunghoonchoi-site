@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![Moving boxes and luggage at a new place](/images/uf3-arrival.jpg)
 
-<p class="inline-image-caption">到着直後に重いのは荷物より、後から続く行政手続きだ。</p>
+<p class="inline-image-caption">到着直後は荷物の整理より、大学登録、銀行、通信などの手続きが先に時間を使う。</p>
 
 アメリカの大学院に着いたなら、ビザや住まい、口座の準備といった難しい部分はもう乗り越えたようなものです。次は生活を回すための行政の雑用ですが、順番を間違えると後がずるずると詰まります。携帯がないと銀行の開設が面倒で、銀行がないとカードが作れず、SSNがないと一部の銀行・免許・クレジットカードの手続きが面倒になることがあります。そこでこの記事では、University of Florida(UF)での定着経験をもとに、携帯 → 銀行 → SSN → フロリダの運転免許 → クレジット作りの順番をそのままたどりながら、各ステップで何を持っていき、何に気をつければいいかをまとめました。
 
@@ -44,7 +44,7 @@ build: {list: never, render: always}
 
 ![アメリカ大学院 定着ガイド Part 3: 到着後の行政手続きの順番：携帯・銀行・SSN・免許・クレジット](/images/inline/career-uf-guide-3-arrival-setup.jpg)
 
-<p class="inline-image-caption">銀行は特典より動線だ。よく行ける場所のほうが結局便利だ。</p>
+<p class="inline-image-caption">銀行は特典だけで選ばず、通いやすい支店と口座維持条件も一緒に確認する必要がある。</p>
 
 ## 3. SSN (社会保障番号)
 

@@ -7,7 +7,7 @@ reviewStatus: "done"
 ---
 ![MaterialsViewsChina feature](/images/materialsviews.png)
 
-<p class="inline-image-caption">This research expands the use of sensors one step further in that one hand gesture is read as multiple signals.</p>
+<p class="inline-image-caption">This research expanded the input range that the sensor can distinguish by reading multiple signals from a single hand movement.</p>
 
 My *Advanced Functional Materials* work was introduced in Chinese on MaterialsViews China, expanding its reach to a broader Chinese-speaking scientific audience. The work is a conductive hierarchical hairy-fiber sensor with high sensitivity, stretchability, and wet resistance, enabling multimodal detection of human motion and gesture.
 

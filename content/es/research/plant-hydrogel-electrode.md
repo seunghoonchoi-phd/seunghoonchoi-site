@@ -11,7 +11,7 @@ reviewStatus: "done"
 ---
 ![Parche adhesivo de hidrogel inspirado en el pulpo que registra señales eléctricas en hojas de plantas](/images/plant-hydrogel-electrode.jpg)
 
-<p class="inline-image-caption">Leer las débiles señales eléctricas de las hojas de las plantas durante mucho tiempo significa poder seguir la respuesta de la planta en números.</p>
+<p class="inline-image-caption">Al medir las débiles señales eléctricas de las hojas de las plantas durante un largo período de tiempo, es posible comparar numéricamente cómo responden las plantas a los cambios ambientales.</p>
 
 Es un artículo en el que figuro como coprimer autor. Al hidrogel le añadimos una estructura adhesiva inspirada en el pulpo para formar un parche (H-OIA) y, con una capa de silicona en la interfaz, logramos que se adhiera bien incluso a hojas que tienen la superficie rugosa y la humedad cambiante. En las hojas del cafeto (*Coffea arabica*), donde los electrodos habituales se despegaban, el parche registra de forma estable y durante mucho tiempo las señales eléctricas que la planta emite al responder a un estímulo.
 

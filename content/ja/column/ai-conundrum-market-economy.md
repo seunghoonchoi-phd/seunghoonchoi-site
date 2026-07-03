@@ -14,7 +14,7 @@ build: {list: never, render: always}
 
 ![データセンターの通路にサーバーラックが並んでいる光景](/images/col-ai-conundrum-market-economy.jpg)
 
-<p class="inline-image-caption">技術が安くするのは生産費であり、市場が支えなければならないのは人々の購買力だ。</p>
+<p class="inline-image-caption">技術は生産費を下げられるが、市場は消費者が商品を買うお金を持っているときに維持される。</p>
 
 AIに書類を一枚任せてみると、もうおもちゃとは言いにくい。コードを書き、表を整理し、顧客対応の文面を作り、議事録を要約する。間違えるときもあるが、できることは確かにできる。AIはハッタリだけの技術ではない。
 
@@ -60,7 +60,7 @@ AIは価格を下げられるかもしれない。問題は、切られた人に
 
 ![AIの謎: 技術が進むほど市場経済は不安定になる](/images/inline/column-ai-conundrum-market-economy.jpg)
 
-<p class="inline-image-caption">消費が弱い市場では、自動化の利益も結局は売上の前で止まる。</p>
+<p class="inline-image-caption">消費が減った市場では、自動化が費用を下げても企業の売上問題は残る。</p>
 
 ## 既存の解法は遅すぎるか弱すぎる
 

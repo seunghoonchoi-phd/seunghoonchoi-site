@@ -21,7 +21,7 @@ faq:
 
 ![Un ingeniero mirando una ciudad y su infraestructura energética al amanecer](/images/col-reality-is-not-a-database.jpg)
 
-<p class="inline-image-caption">La razón por la que la IA parece rápida no es porque resuelve todos los problemas, sino porque pasa rápidamente por los niveles fáciles.</p>
+<p class="inline-image-caption">La razón por la que la IA parece rápida no es porque resuelve todo el problema, sino porque procesa rápidamente la parte con datos organizados.</p>
 
 Incluso en la era de la IA, el empleo humano no es necesario porque los humanos sean más inteligentes que la IA. Es necesario porque los humanos son sensores del mundo real, actuadores, responsables y operadores de instituciones. La IA puede producir respuestas, pero el empleo convierte esas respuestas en civilización. Cuando la IA empieza a hacer muchas tareas, aparece una pregunta natural: "si la IA lo hace todo, ¿por qué habría que emplear humanos?"
 
@@ -81,7 +81,7 @@ Ese será el núcleo del empleo avanzado. No bastará con "saber usar IA". Hará
 
 ![El avance de la IA no es demasiado rápido: frente al cronómetro de la civilización humana, todavía es lento](/images/inline/column-reality-is-not-a-database.jpg)
 
-<p class="inline-image-caption">En realidad, incluso después de encontrar la respuesta, la instalación, la verificación y la rendición de cuentas vuelven a ralentizarse.</p>
+<p class="inline-image-caption">En realidad, incluso después de encontrar la respuesta, el proceso de instalación, verificación y asignación de responsabilidades lleva tiempo.</p>
 
 ## El empleo es la estructura de ejecución de la civilización
 

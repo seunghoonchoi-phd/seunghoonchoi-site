@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![窗边洒进柔和光线的空会议室，桌子四周的椅子各自朝着不同的角度](/images/col-operating-rules.jpg)
 
-<p class="inline-image-caption">有时，在会议上被拒绝的提案被推出并不是因为其质量，而是因为它伤了某人的面子。</p>
+<p class="inline-image-caption">一个提案在会议上没有被采纳，原因可能不是内容质量，而是它损害了某个人的面子。</p>
 
 ## 好方案输给了主管的面子
 
@@ -35,7 +35,7 @@ build: {list: never, render: always}
 
 ![最好的方案为什么在会上落选，真正的原因](/images/inline/column-operating-rules.jpg)
 
-<p class="inline-image-caption">真正的规则不是文档中写的句子，而是人们实际避免和选择的方向。</p>
+<p class="inline-image-caption">实际的规则并不仅仅由书面文字来证实，而是在人们一再避免或选择的行为中揭示出来。</p>
 
 ## 宁可用更贵的供应商，只为护住高管的面子
 

@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Una escaladora frente a una pared rocosa difícil, cubriéndose las manos de magnesio mientras se prepara](/images/col-six-fundamentals.jpg)
 
-<p class="inline-image-caption">A medida que la IA se vuelve más rápida, lo básico se convierte en un filtro que filtra los resultados en lugar de un estudio lento.</p>
+<p class="inline-image-caption">A medida que la IA se vuelve más rápida, las habilidades básicas se vuelven necesarias como estándar para juzgar los resultados de la IA, en lugar de un estudio lento.</p>
 
 Vivimos una época en la que la IA resume, traduce, redacta informes y hasta escribe código. Entonces, ¿importa menos el talento para estudiar? Yo creo que ocurre lo contrario.
 
@@ -59,7 +59,7 @@ Aunque la IA escriba el borrador, una persona debe ver si ese borrador está mon
 
 ![Más importante que el talento para estudiar: 4 fundamentos que separan más a la gente cuanto mejor se vuelve la IA](/images/inline/column-six-fundamentals.jpg)
 
-<p class="inline-image-caption">El borrador es solo el comienzo. Las personas que conocen el orden real de trabajo guardan los resultados.</p>
+<p class="inline-image-caption">El borrador es solo un material de partida, y alguien que conozca el orden del día real debe editar el resultado hasta el final.</p>
 
 ## 3. Estructurar información: convertir datos dispersos en una forma usable
 

@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Un viejo mapa urbano extendido sobre una mesa, lleno de callejones pero sin marcar las avenidas principales](/images/col-context-debt.jpg)
 
-<p class="inline-image-caption">Si un informe creado por AI no se puede explicar, el autor se convierte en el transmisor del documento, no en el propietario.</p>
+<p class="inline-image-caption">Si el autor no puede explicar un informe elaborado por AI, el autor sólo actuará como mensajero y no como responsable del documento.</p>
 
 Le das materiales a la IA y le pides que escriba un informe. Unos segundos después aparece un documento convincente. Tiene título, contexto, puntos principales y conclusión. Si miras solo las frases, no está nada mal. Entonces entras a una reunión y alguien pregunta.
 
@@ -87,7 +87,7 @@ Solo entonces puedes explicar el informe. Que la IA ordene piezas no significa q
 
 ![Por qué no puedo explicar el informe que escribió la IA: qué es el conocimiento de fondo que falta](/images/inline/column-context-debt.jpg)
 
-<p class="inline-image-caption">El conocimiento previo no es la cantidad de datos, sino el poder de distinguir qué es una calle principal y qué es un callejón.</p>
+<p class="inline-image-caption">Las personas con conocimientos previos distinguen entre contenido importante y secundario entre una gran cantidad de datos.</p>
 
 ## Con el conocimiento de fondo vacío, una sola pregunta te deja sin respuesta
 

@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![Un rey caído sobre el tablero de ajedrez. La jugada decisiva que definió la partida](/images/col-localized-advantage.jpg)
 
-<p class="inline-image-caption">Incluso si no puedes ganar todo, puedes ganar en un momento cuando lo necesites.</p>
+<p class="inline-image-caption">Incluso si no ganas toda la competición, puedes crear una ventaja en una condición necesaria en un momento específico.</p>
 
 ¿Has visto alguna vez a Lee Young-ho dar la vuelta a una partida que llevaba muy perdida? Él no hace crecer todo su ejército por igual. Ajusta su build para ser el más fuerte solo en esos 30 segundos en que el rival está más débil, y solo en ese lugar. Si miras la fuerza total, va perdiendo. Pero en ese único momento, en ese único punto, supera al rival. Y con ese solo combate se lleva la partida. Con el mismo criterio, hagas lo que hagas, si reúnes la fuerza en un solo punto puedes ganar la vez decisiva aunque el total te falte.
 
@@ -33,7 +33,7 @@ Lo que importa no es la cantidad total de tropas. Es la fuerza que de verdad ha 
 
 ![Por qué Lee Young-ho no hace crecer todo su ejército y solo gana 30 segundos: cómo reunir la fuerza en un solo punto y atrapar el momento decisivo](/images/inline/column-localized-advantage.jpg)
 
-<p class="inline-image-caption">No pasa mucho tiempo antes de que se decida el ganador. Los preparativos se acumulan para ese breve intervalo.</p>
+<p class="inline-image-caption">Debido a que el tiempo entre juegos es corto, la preparación debe centrarse en cumplir las condiciones necesarias en ese momento.</p>
 
 ## Golpea el hueco que está a punto de aparecer
 

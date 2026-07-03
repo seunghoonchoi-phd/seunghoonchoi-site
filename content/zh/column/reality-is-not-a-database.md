@@ -21,7 +21,7 @@ faq:
 
 ![清晨看向能源基础设施和城市的工程师](/images/col-reality-is-not-a-database.jpg)
 
-<p class="inline-image-caption">AI 之所以看起来很快，并不是因为它解决了所有问题，而是因为它很快就通过了简单的关卡。</p>
+<p class="inline-image-caption">人工智能之所以看起来很快，并不是因为它解决了整个问题，而是因为它可以快速处理有组织的数据的部分。</p>
 
 AI 时代仍然需要人类就业，不是因为人比 AI 更聪明。是因为只有人能直接感知现实、在现实里执行、并为结果负责，还要让制度运转起来。AI 可以给出答案，但就业把答案变成文明。AI 替代很多工作之后，人们自然会问：“如果 AI 都能做，人为什么还要被雇用？”
 
@@ -81,7 +81,7 @@ AI 给出的答案一旦错了，损害规模也会变大。
 
 ![AI 发展并不算太快：按人类文明的时间尺度看，它仍然很慢](/images/inline/column-reality-is-not-a-database.jpg)
 
-<p class="inline-image-caption">事实上，即使找到答案后，安装、验证和问责也会再次变慢。</p>
+<p class="inline-image-caption">事实上，即使找到了答案，安装、验证和责任分配的过程也需要时间。</p>
 
 ## 就业是文明的执行结构
 

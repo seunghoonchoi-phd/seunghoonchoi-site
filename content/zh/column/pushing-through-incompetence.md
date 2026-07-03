@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![安静房间里，初学者笨拙地开始练小提琴](/images/col-pushing-through-incompetence.jpg)
 
-<p class="inline-image-caption">如果您感觉自己无法执行某些操作，则意味着您触摸了尚未自动处理的内容。</p>
+<p class="inline-image-caption">如果你觉得自己做不到，那就意味着你正在处理一些你还无法自动处理的事情。</p>
 
 学新东西时，最先来的感觉不是兴趣，而是无能感。脑子好像懂，手却跟不上；别人好像轻松做到，只有自己卡住。听说明明很简单，轮到自己做，突然全都乱了。
 
@@ -46,7 +46,7 @@ reviewStatus: "done"
 
 ![能忍受自己做不好的感觉，最后才会长出实力](/images/inline/column-pushing-through-incompetence.jpg)
 
-<p class="inline-image-caption">练习不是为了填满时间，而是为了缩小错误范围并重新演奏。</p>
+<p class="inline-image-caption">练习不是为了填补时间的行动，而是为了缩小错误并再次尝试的行动。</p>
 
 ## 拆小之后，就比较能忍
 

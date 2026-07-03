@@ -12,7 +12,7 @@ draft: true
 
 ![Las manos de un artesano sosteniendo una silla de madera terminada en el taller, con luz lateral cálida](/images/col-value-conversion.jpg)
 
-<p class="inline-image-caption">El tiempo desaparece cuando se vende, pero si los resultados se quedan atrás, pueden ser utilizados nuevamente por la siguiente persona y la siguiente oportunidad.</p>
+<p class="inline-image-caption">Una vez vendido, el tiempo es difícil de volver a usar, pero un resultado guardado puede servirle a otra persona en una oportunidad posterior.</p>
 
 ## Dos carpinteros con la misma habilidad, dos destinos distintos
 
@@ -40,7 +40,7 @@ El esfuerzo en sí no está mal. El problema es que ese esfuerzo no queda ordena
 
 ![Por qué no acumulas nada aunque trabajes mucho. Deja resultados que puedas volver a usar, no tiempo](/images/inline/column-value-conversion.jpg)
 
-<p class="inline-image-caption">Los logros crecen cuando permanecen en una forma que funciona incluso sin mí, en lugar de ser un recuerdo de trabajo duro.</p>
+<p class="inline-image-caption">Los logros son mayores cuando permanecen en una forma que otros pueden utilizar incluso cuando yo no estoy, en lugar de ser un recuerdo de trabajo duro.</p>
 
 ## ¿En qué queda este esfuerzo?
 

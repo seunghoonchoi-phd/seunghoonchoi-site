@@ -13,7 +13,7 @@ reviewStatus: "done"
 
 ![Estudiantes usando IA mientras revisan juntos un pequeño dispositivo](/images/col-ai-school-practical-sense.png)
 
-<p class="inline-image-caption">Las clases que utilizan IA deben cambiarse de un horario para recibir respuestas a un horario para verificar las respuestas.</p>
+<p class="inline-image-caption">Las clases que utilizan IA deberían ser un momento para que los estudiantes verifiquen y corrijan sus respuestas, no para escribirlas.</p>
 
 Un estudiante le dice a la IA: “ordena este material en una tabla”. En segundos aparece una tabla. Le dice: “explícalo para que lo entienda un estudiante de secundaria”, y la IA baja el nivel de explicación. Le dice: “conviértelo en una presentación”, y la IA prepara un índice y un primer borrador de las diapositivas.
 
@@ -63,7 +63,7 @@ Aquí crece la responsabilidad de la escuela. Si la empresa ya no puede formar d
 
 ![Escuela en la era de la IA: hay que enseñar criterio práctico, no solo conocimiento](/images/inline/column-ai-school-practical-sense.jpg)
 
-<p class="inline-image-caption">Un solo error visto fuera del aula permanece más tiempo que la respuesta correcta en la pantalla.</p>
+<p class="inline-image-caption">Cuando los estudiantes verifican directamente los errores de la IA fuera del aula, recuerdan los criterios de juicio por más tiempo que cuando solo leen las respuestas correctas.</p>
 
 ## El estudiante debe comprobar fuera de la pantalla
 

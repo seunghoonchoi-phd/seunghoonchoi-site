@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![따뜻한 조명 아래 테이블을 사이에 두고 손짓하며 대화하는 두 사람](/images/col-reading-people.jpg)
 
-<p class="inline-image-caption">논리가 맞아도 상대의 손해와 체면을 건드리면 설득은 바로 멈춘다.</p>
+<p class="inline-image-caption">논리가 맞아도 제안이 상대의 손해와 체면 문제를 키우면 설득은 바로 멈출 수 있다.</p>
 
 ## 맞는 말 할수록 상대는 더 버틴다
 
@@ -39,7 +39,7 @@ build: {list: never, render: always}
 
 ![사람은 논리로 안 움직인다. 손해, 체면, 책임을 읽어라](/images/inline/column-reading-people.jpg)
 
-<p class="inline-image-caption">좋은 제안은 맞는 말보다, 상대가 잃는 것을 먼저 줄여 줄 때 움직인다.</p>
+<p class="inline-image-caption">좋은 제안은 맞는 말을 반복하기보다, 상대가 잃는 것을 먼저 줄여 줄 때 받아들여지기 쉽다.</p>
 
 ## 논리보다 이득·손해·체면·책임이 먼저
 

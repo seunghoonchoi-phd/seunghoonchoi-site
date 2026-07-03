@@ -8,7 +8,7 @@ reviewStatus: "done"
 
 ![قطرات المطر على النافذة](/images/lit-remains.jpg)
 
-<p class="inline-image-caption">كلما قل الوقت المتبقي، أصبحت كلمة "أحبك" خيارًا أخيرًا بدلاً من عزاء أخف.</p>
+<p class="inline-image-caption">كلما قل عدد الكلمات المتبقية، أصبحت كلمات أحبك كلمات تحدد الإجراء النهائي بدلاً من كلمات تعزية.</p>
 
 <div class="poem">
 <p>ربما أهم شيء<br>

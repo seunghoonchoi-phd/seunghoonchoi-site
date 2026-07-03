@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![네 집문서도 결국 종이 한 장이다: 소유권이 흔들리는 AI의 마지막 15~16단계](/images/col-ai-replacement-stages-4.jpg)
 
-<p class="inline-image-caption">소유권도 결국 사회가 지켜 주기로 약속한 기록 위에 놓여 있다.</p>
+<p class="inline-image-caption">소유권은 사회가 특정 기록을 인정하고 보호할 때 실제 권리로 작동한다.</p>
 
 집을 한 채 샀다고 해 보자. 등기부에 내 이름이 올라가고, 열쇠를 손에 쥔다. 사람들은 그 집을 내 집이라고 부른다. 그런데 그 집이 정말 내 것인 이유는 뭘까.
 
@@ -93,7 +93,7 @@ AI와 인간의 관계에서도 마지막에 필요한 것은 이런 구조다. 
 
 ![네 집문서도 결국 종이 한 장이다: 소유권이 흔들리는 AI의 마지막 15~16단계](/images/inline/column-ai-replacement-stages-4.jpg)
 
-<p class="inline-image-caption">인간이 쓸모를 잃는 순간, 권리의 언어도 방어할 힘을 잃을 수 있다.</p>
+<p class="inline-image-caption">인간이 경제적 역할을 잃으면, 인간의 권리를 지키는 사회적 근거도 약해질 수 있다.</p>
 
 ## 풍요만으로는 충분하지 않다
 

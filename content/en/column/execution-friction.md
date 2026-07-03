@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![A tangled mess of computer cables and cords piled on a desk](/images/col-execution-friction.jpg)
 
-<p class="inline-image-caption">If it is slow even with AI added, the problem may not be the model but the hands and feet around the model.</p>
+<p class="inline-image-caption">If work is still slow after adopting AI, the delay may come from input, review, and approval processes rather than model performance.</p>
 
 ## Same skill, so why do employees ship less?
 
@@ -45,7 +45,7 @@ The AI is the same. The data may even be less than a company's. But the loop of 
 
 ![Same AI, Fewer Results: Why Employees Come Up Empty](/images/inline/column-execution-friction.jpg)
 
-<p class="inline-image-caption">Long-term tasks require an uninterrupted execution environment rather than automation.</p>
+<p class="inline-image-caption">Tasks that require long-term concentration require an environment to continue running without interruption rather than automation tools.</p>
 
 ## The real culprit is the company computer, the VDI
 

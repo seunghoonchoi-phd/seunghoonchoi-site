@@ -34,6 +34,8 @@ Follow the global user instructions first. These rules apply to this website rep
 
 - Treat an article image caption as one extra sentence added to the article, not as a copied body sentence or a mini title.
 - The paragraph near the image should already explain the direct point. The caption should add a related angle: what the image makes easier to notice, what risk or consequence the scene implies, or what the reader should carry into the next paragraph.
+- For Korean captions, every sentence must make the subject, object, and action clear. Do not use a physical metaphor when the point is not the metaphor itself. For example, write `햇빛을 약간 감소시킨다는 말은 사소해 보이지만, 실제로는 행성 전체의 기후 시스템에 영향을 준다`, not `말은 작지만 손대는 대상은...`.
+- Avoid compressed metaphor phrases in captions such as `손대다`, `일이 흘러가다`, `모델 주변의 손발`, `큰길/골목`, `좋은 판/나쁜 판`, `문턱이 낮아지다`, `시간이 막히다`, or `AI를 붙이다`. Name the actual system, process, delay, review step, or adoption action instead.
 - Do not reuse the exact sentence immediately before or after the image. Do not duplicate the article title, section heading, or image alt text as the caption.
 - Keep the caption short. Gray, italic quote styling is handled by CSS, so do not put literal quote marks at the start or end of the caption text.
 - Apply caption changes across every configured language, with Japanese included. Before pushing content or image caption changes, run `node tools/check-caption-quality.js` along with the usual language sync and image checks.

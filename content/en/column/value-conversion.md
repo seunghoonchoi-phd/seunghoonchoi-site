@@ -12,7 +12,7 @@ draft: true
 
 ![A craftsman's hands holding a finished wooden chair in a workshop, lit warmly from the side](/images/col-value-conversion.jpg)
 
-<p class="inline-image-caption">Time disappears when sold, but if the results are left behind, they can be used again by the next person and the next opportunity.</p>
+<p class="inline-image-caption">Once time is sold, it is hard to use again, but a saved result can be reused by someone else in a later opportunity.</p>
 
 ## Two Carpenters, Same Skill, Different Fates
 
@@ -40,7 +40,7 @@ Effort itself isn't the problem. The problem is that the effort never gets organ
 
 ![Why Working Hard Never Adds Up: Leave Behind Reusable Results, Not Hours](/images/inline/column-value-conversion.jpg)
 
-<p class="inline-image-caption">Achievements grow when they remain in a form that works even without me, rather than as a memory of hard work.</p>
+<p class="inline-image-caption">Achievements are greater when they remain in a form that others can use even when I am gone, rather than as a memory of hard work.</p>
 
 ## What Does This Effort Become?
 

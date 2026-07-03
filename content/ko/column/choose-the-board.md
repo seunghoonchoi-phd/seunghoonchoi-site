@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![나무 탁자 위에 흑백 바둑돌이 흩어진 빈 바둑판, 창으로 든 부드러운 빛](/images/col-choose-the-board.jpg)
 
-<p class="inline-image-caption">좋은 판은 실력을 키워 주고, 나쁜 판은 실력이 커져도 결과를 가둔다.</p>
+<p class="inline-image-caption">좋은 환경은 실력이 결과로 이어질 가능성을 높이고, 나쁜 환경은 같은 실력의 결과를 제한한다.</p>
 
 ## 실력 같던 둘, 한 명만 세졌다
 
@@ -55,7 +55,7 @@ build: {list: never, render: always}
 
 ![실력만 키워서는 결과가 안 벌어진다. 환경부터 골라라](/images/inline/column-choose-the-board.jpg)
 
-<p class="inline-image-caption">노력의 효율은 내가 얼마나 애쓰느냐보다, 그 노력이 어디에 곱해지느냐에서 갈린다.</p>
+<p class="inline-image-caption">노력의 효율은 노력의 양뿐 아니라, 그 노력이 어떤 환경에서 쓰이는지에 따라 달라진다.</p>
 
 ## 기회가 막힌 곳에선 실력 키워도 그만큼만
 

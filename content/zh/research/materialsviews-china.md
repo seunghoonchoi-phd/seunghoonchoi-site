@@ -8,7 +8,7 @@ reviewStatus: "done"
 
 ![MaterialsViewsChina 报道](/images/materialsviews.png)
 
-<p class="inline-image-caption">这项研究进一步扩展了传感器的使用，将一个手势读取为多个信号。</p>
+<p class="inline-image-caption">这项研究通过读取单次手部动作的多个信号，扩大了传感器可以区分的输入范围。</p>
 
 我发表在 *Advanced Functional Materials* 上的研究被 MaterialsViews China 以中文报道，让它传播到更广泛的中文科研读者群：这是一种兼具高灵敏度、可拉伸性与耐湿性的导电分级毛绒纤维传感器，能够对人体动作和手势进行多模态感知。
 

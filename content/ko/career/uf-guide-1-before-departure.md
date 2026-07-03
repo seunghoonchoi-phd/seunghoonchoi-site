@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![Airplane at the departure gate](/images/uf1-departure.jpg)
 
-<p class="inline-image-caption">비행기표를 끊기 전 끝내야 할 일은 생각보다 학교 안팎에 넓게 흩어져 있다.</p>
+<p class="inline-image-caption">비행기표를 끊기 전에는 학교 서류, 집 계약, 통신 준비를 따로 확인해야 한다.</p>
 
 미국 이공계 대학원에 합격했다고 끝이 아닙니다. 합격 통지를 받은 순간부터 출국 전까지 몇 달은 생각보다 할 일이 많고 마감이 빡빡해서, 하나라도 놓치면 입학·등록·비자에 차질이 생길 수 있습니다. 이 글은 University of Florida(UF) 대학원 입학·정착 가이드의 첫 번째 편으로, 합격 직후부터 출국 전까지 꼭 챙겨야 할 것들을 순서대로 정리합니다. 전액 펀딩 오퍼레터(offer letter)를 정확히 읽는 법, 핵심 일정 캘린더, 배치고사와 수강신청 절차, 도착 전 연구 준비, 그리고 출국 전 한국 행정 정리와 송금까지를 한 번에 다룹니다.
 
@@ -93,7 +93,7 @@ reviewStatus: "done"
 
 ![합격 후 출국 전까지: 오퍼레터(offer letter) 읽는 법부터 송금까지](/images/inline/career-uf-guide-1-before-departure.jpg)
 
-<p class="inline-image-caption">일정표는 기억을 대신하지 않는다. 마감이 겹치기 전에 먼저 보이게 만드는 도구다.</p>
+<p class="inline-image-caption">일정표를 만들면 출국 전 마감이 겹치기 전에 필요한 행동을 먼저 정할 수 있다.</p>
 
 ## 3. 배치고사 (Placement Exam)
 

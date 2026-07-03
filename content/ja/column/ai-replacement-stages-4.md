@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![あなたの権利証も、結局はただの紙一枚だ：所有権が揺らぐAIの最終15〜16段階](/images/col-ai-replacement-stages-4.jpg)
 
-<p class="inline-image-caption">所有権も結局は、社会が守ると約束した記録の上に置かれている。</p>
+<p class="inline-image-caption">所有権は、社会が特定の記録を認めて保護するときに実際の権利として機能する。</p>
 
 家を一軒買ったとしよう。登記簿に自分の名前が載り、鍵を手にする。みんなはその家を「あなたの家」と呼ぶ。でも、その家が本当にあなたのものだといえる理由は、いったい何だろう。
 
@@ -93,7 +93,7 @@ AIと人間の関係でも、最後に必要なのはこういう構造だ。人
 
 ![あなたの権利証も、結局はただの紙一枚だ：所有権が揺らぐAIの最終15〜16段階](/images/inline/column-ai-replacement-stages-4.jpg)
 
-<p class="inline-image-caption">人間が役に立たなくなった瞬間、権利という言葉も守る力を失うかもしれない。</p>
+<p class="inline-image-caption">人間が経済的役割を失うと、人間の権利を守る社会的根拠も弱くなる可能性がある。</p>
 
 ## 豊かさだけでは足りない
 

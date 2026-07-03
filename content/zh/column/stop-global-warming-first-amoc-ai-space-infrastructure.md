@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![北大西洋上方有暖色表层洋流和冷色深层洋流，太阳方向漂浮着小型太空百叶窗模块的插图](/images/col-amoc-global-warming-first.jpg)
 
-<p class="inline-image-caption">稍微减少阳光可能是一件小事，但所影响的是整个地球的气候系统。</p>
+<p class="inline-image-caption">稍微减少阳光似乎微不足道，但它实际上会影响整个地球的气候系统。</p>
 
 在太阳和地球之间大约150万公里的地方，放一组很薄的遮光板。不是一把巨大的伞，而是很多小型百叶窗。让它们把照向北极和格陵兰的夏季阳光稍微减弱一点。
 
@@ -64,7 +64,7 @@ AMOC是Atlantic Meridional Overturning Circulation的缩写，中文常译为大
 
 ![太阳和地球之间排列着小型太空百叶窗模块，略微减少进入北极和北大西洋阳光的科学插图](/images/col-amoc-space-blind-modules.jpg)
 
-<p class="inline-image-caption">百叶窗只是一种争取时间的装置，如果不减少排放，同样的问题还会再次出现。</p>
+<p class="inline-image-caption">太空遮光板可以减缓温度上升，但如果不减少温室气体排放，全球变暖问题仍会存在。</p>
 
 ## 先降温，再去除CO2
 
@@ -92,7 +92,7 @@ AI不应该成为替人类统治地球的存在。但它可以承担这样的角
 
 ![卫星、海洋浮标和气候模型数据连接成AI监测网络，观察北大西洋海流变化的科学插图](/images/col-amoc-ai-monitoring-network.jpg)
 
-<p class="inline-image-caption">AI观察网络的价值并不在于正确的预测，而是让人们首先看到原本会在以后注意到的变化。</p>
+<p class="inline-image-caption">AI观测网络不仅仅停留在猜测预测，还可以让我们更快地识别人类稍后会注意到的气候变化。</p>
 
 ## SpaceX应该先看地球的循环系统，再看火星
 

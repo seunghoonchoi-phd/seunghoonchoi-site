@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![A potter's hands shaping wet clay on the spinning wheel, the tiny pressure of the fingertips deciding the result](/images/col-trade-secret-function.jpg)
 
-<p class="inline-image-caption">AI answers come easily, but know-how is created from the moment the answer is broken in reality.</p>
+<p class="inline-image-caption">AI answers are easy to obtain, but know-how comes from fixing the reasons why those answers fail in real work.</p>
 
 The whole recipe leaked online. Grams of each ingredient, heat level, timing, all of it written down. And yet you cook it exactly as written and it still doesn't taste like that restaurant's. You have all the information, but you can't get the result. Why?
 
@@ -54,7 +54,7 @@ This failure map never makes it into the finished product, the published paper, 
 
 ![Why the Copy Never Tastes the Same: The Real Moat in the AI Era](/images/inline/column-trade-secret-function.jpg)
 
-<p class="inline-image-caption">The reason why the results vary even when using the same tool is because what was fixed after the failure is different.</p>
+<p class="inline-image-caption">The reason why results vary even when using the same tool is because what was checked and corrected after the failure is different.</p>
 
 ## You can explain it, but you still can't reproduce it
 

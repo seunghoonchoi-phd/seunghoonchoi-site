@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![一张木桌上散落着黑白棋子的空棋盘,柔和的光从窗子洒进来](/images/col-choose-the-board.jpg)
 
-<p class="inline-image-caption">好的游戏可以提高您的技能，而糟糕的游戏会限制您的成绩，即使您的技能有所提高。</p>
+<p class="inline-image-caption">良好的环境会增加技能产生结果的可能性，而糟糕的环境会限制相同技能的结果。</p>
 
 ## 实力相当的两人,只有一个变强了
 
@@ -55,7 +55,7 @@ build: {list: never, render: always}
 
 ![光练实力,结果拉不开。先挑环境](/images/inline/column-choose-the-board.jpg)
 
-<p class="inline-image-caption">努力的效率取决于努力在哪里倍增，而不是我投入了多少努力。</p>
+<p class="inline-image-caption">努力的效率不仅取决于努力的数量，还取决于努力的使用环境。</p>
 
 ## 在机会被堵死的地方练实力,练多少就只到多少
 

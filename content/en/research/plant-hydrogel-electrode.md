@@ -11,7 +11,7 @@ reviewStatus: "done"
 ---
 ![Hydrogel octopus-inspired adhesive patch recording electrical signals from plant leaves](/images/plant-hydrogel-electrode.jpg)
 
-<p class="inline-image-caption">Reading the weak electrical signals of plant leaves for a long time means being able to follow the plant's response in numbers.</p>
+<p class="inline-image-caption">By measuring the weak electrical signals of plant leaves over a long period of time, it is possible to numerically compare how plants respond to environmental changes.</p>
 
 A co-first-authored paper introduces a hydrogel-integrated, octopus-inspired adhesive (H-OIA) patch with an engineered silicone interface that conforms to the rough, variably-hydrated surface of plant leaves. On *Coffea arabica*, it enables stable long-term recording of stimulus-responsive plant bioelectrical signals where conventional electrodes detach.
 

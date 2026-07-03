@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![ظل شخص يجلس عند نافذة تطل على البحر](/images/inline/literature-the-last-person-at-window.jpg)
 
-<p class="inline-image-caption">يظهر البحر خارج النافذة بهدوء أن الوقت يستمر في المرور حتى بعد نفاد الأشياء التي يجب على الأشخاص القيام بها.</p>
+<p class="inline-image-caption">يظهر البحر خارج النافذة أن الوقت يستمر في المرور حتى بعد أن فقد الناس كل ما يفعلونه.</p>
 
 ما زالت سو-غيونغ تجلس في المكان نفسه كل صباح.
 

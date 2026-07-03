@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![汽车车身旁正在作业的工业机器人](/images/col-ai-cheap-vs-expensive-world.jpg)
 
-<p class="inline-image-caption">棋盘的规则是干净的，但工厂车间的风险并不会直接转化为分数。</p>
+<p class="inline-image-caption">围棋AI可以在有固定规则的空间中学习，但在工厂里，风险和责任并不是仅由数字分数来组织的。</p>
 
 每次提到 AI 战胜人类顶尖围棋棋手，人们都会问类似的问题："都到这个程度了，人类的工作是不是很快都会被拿走？"
 
@@ -62,7 +62,7 @@ reviewStatus: "done"
 
 ![AI 赢了围棋，为什么焊接仍然困难：人会停下，机器会重复](/images/inline/column-ai-cheap-vs-expensive-world.jpg)
 
-<p class="inline-image-caption">机器尝试的次数越多，人类识别停止时刻的成本就越高。</p>
+<p class="inline-image-caption">机器尝试的次数越多，人们就越需要明确指定机器应该停止尝试的条件。</p>
 
 ## 数字孪生给机器提供练习场
 

@@ -9,7 +9,7 @@ reviewStatus: "done"
 ---
 ![『アメリカ博士留学、ひとりで準備しても大丈夫です』表紙](/images/book-us-phd-guide.jpg)
 
-<p class="inline-image-caption">表紙が示すのは合格そのものより、途方に暮れた準備を一冊にまとめたという事実だ。</p>
+<p class="inline-image-caption">この表紙は、米国博士課程の出願者が準備の全体像を一冊で確認できることを示している。</p>
 
 Seunghoon Choi 著 · ベルニックス 刊 · 2026年6月
 

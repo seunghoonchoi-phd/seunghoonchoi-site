@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![在蓝图上勾勒结构的手，搭的是结构，不是摘要](/images/col-understand.jpg)
 
-<p class="inline-image-caption">10 分钟理解的目标不是提供摘要，而是识别哪些问题使用了不熟悉的概念。</p>
+<p class="inline-image-caption">10 分钟理解的目标不是创建摘要，而是了解不熟悉的概念用于哪些问题。</p>
 
 走进一场陌生会议的前一分钟。第一次翻开的论文，第一次听到的技术。这种时候，我不会先去做摘要。
 
@@ -52,7 +52,7 @@ build: {list: never, render: always}
 
 ![10分钟拿下一个全新概念：纯理解九宫格模板](/images/inline/column-understand-anything-in-10-minutes.jpg)
 
-<p class="inline-image-caption">上课前你需要的不是完美的知识，而是一个找出你需要听的内容的标准。</p>
+<p class="inline-image-caption">上课前你需要的不是完整的知识，而是一个标准来找出你在讲座中需要听到的内容。</p>
 
 ## 这套模板不一样的地方，就三点
 

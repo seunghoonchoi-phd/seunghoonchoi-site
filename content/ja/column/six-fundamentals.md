@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![難しい岩壁の前で手にチョークをつけて準備するクライマー](/images/col-six-fundamentals.jpg)
 
-<p class="inline-image-caption">AIが速くなるほど、基礎力は遅い勉強ではなく、結果をふるい分けるフィルターになる。</p>
+<p class="inline-image-caption">AIが速くなるほど、基礎力は遅い勉強ではなく、AIの結果を判断する基準として必要になる。</p>
 
 AIが要約し、翻訳し、レポートの下書きを書き、コードまで組んでくれる時代になりました。では、勉強の地頭は重要でなくなるのでしょうか。むしろ逆です。
 
@@ -59,7 +59,7 @@ AIが下書きを書いてくれても、その下書きが実際の仕事の流
 
 ![勉強の地頭より大切なもの：AIが賢くなるほど差が開く4つの基礎力](/images/inline/column-six-fundamentals.jpg)
 
-<p class="inline-image-caption">下書きは始まりにすぎない。実際の仕事の順番を知る人が結果物を生かす。</p>
+<p class="inline-image-caption">初稿は出発点にすぎず、実際の業務順序を知る人が成果物を最後まで直す必要がある。</p>
 
 ## 3. 構造化する力：散らばった情報を使える形にまとめる力
 

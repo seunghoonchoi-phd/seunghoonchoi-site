@@ -11,7 +11,7 @@ reviewStatus: "done"
 ---
 ![문어 모사 소프트 그리퍼: Suction cup · Arm · 하이브리드 구조와 센싱 (Biomimetics, 2025)](/images/octopus-grippers-review.jpg)
 
-<p class="inline-image-caption">문어 빨판을 따라 한 구조는 부드러운 그리퍼가 물체를 잡고 느끼는 방식을 함께 고민하게 한다.</p>
+<p class="inline-image-caption">문어 빨판을 본뜬 구조는 부드러운 그리퍼가 물체를 잡으면서 접촉 상태를 감지하게 해 준다.</p>
 
 (공동 1저자 논문) 국제 학술지 Biomimetics에 게재된 문어 모사 소프트 그리퍼 리뷰입니다. 문어 모사 소프트 그리퍼를 구조 설계, 센싱 소자, 제어 전략, AI 응용 세 갈래로 정리하고, 흡착컵형·팔형·하이브리드 설계가 지능형 소프트 로봇으로 어떻게 이어지는지 설명했습니다.
 

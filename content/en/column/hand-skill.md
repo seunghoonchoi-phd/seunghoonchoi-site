@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![Worn hand tools laid out neatly on a workbench](/images/col-hand-skill.jpg)
 
-<p class="inline-image-caption">Manual skill is not the ability to have quick hands, but the ability to not miss the small reactions sent by the material.</p>
+<p class="inline-image-caption">Manual skill is the ability of a worker to recognize small signals of changes in materials rather than quick hand movements.</p>
 
 AI now beats people at Go. Painting, writing, and coding are going the same way too. And yet the hands of the woman rolling gimbap, the welder, the surgeon are still doing fine. Why is that?
 
@@ -33,7 +33,7 @@ Press over a wide area and it spreads softly. Put it on one point and the pressu
 
 ![Hand Skill: The Fingertip Sense AI Can't Copy in One Shot](/images/inline/column-hand-skill.jpg)
 
-<p class="inline-image-caption">When one angle changes, the results change. Feedback from the body accumulates before data.</p>
+<p class="inline-image-caption">In tasks where a single angle changes the result, workers must repeatedly check measurement data and feedback obtained by hand.</p>
 
 ## The core of hand skill is holding and fixing
 

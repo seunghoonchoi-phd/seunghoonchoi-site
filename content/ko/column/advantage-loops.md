@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![긴 곡선으로 늘어선 도미노 중 하나가 쓰러지며 다음 조각을 향해 기울어지는 모습](/images/col-advantage-loops.jpg)
 
-<p class="inline-image-caption">작은 우위는 한 번에 커지지 않는다. 다음 행동을 쉽게 만드는 장치가 있어야 남는다.</p>
+<p class="inline-image-caption">작은 우위는 다음 행동을 더 쉽게 만드는 기록과 도구가 있을 때 반복된다.</p>
 
 같은 강의를 들은 두 사람이 있다. 한 사람은 강의실을 나오며 "오늘 이런 걸 배웠네" 하고 만다. 다른 사람은 노트에 다음에도 꺼내 쓸 틀 하나를 남긴다. 한 달 뒤 비슷한 상황이 온다. 앞사람은 처음부터 다시 머리를 굴리고, 뒷사람은 만들어 둔 틀을 그냥 꺼낸다. 출발은 똑같았는데, 어느 순간부터 둘의 속도가 갈린다.
 
@@ -37,7 +37,7 @@ build: {list: never, render: always}
 
 ![하루 1%의 우위가 복리로 굴러가서 못 베끼는 실력이 되는 법](/images/inline/column-advantage-loops.jpg)
 
-<p class="inline-image-caption">쌓이는 사람은 잘해서가 아니라, 해둔 것을 다음번에 다시 쓰기 때문에 빨라진다.</p>
+<p class="inline-image-caption">이전 결과물을 다시 쓰는 사람은 같은 일을 처음부터 시작하지 않기 때문에 더 빨리 처리한다.</p>
 
 ## 하나 빠지면 실력 0
 

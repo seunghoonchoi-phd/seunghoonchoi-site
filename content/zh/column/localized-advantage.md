@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![棋盘上被将倒的王。决定胜负的那关键一步](/images/col-localized-advantage.jpg)
 
-<p class="inline-image-caption">即使您无法赢得全部胜利，您也可以在需要时赢得某一时刻。</p>
+<p class="inline-image-caption">即使您没有赢得整个比赛，您也可以在特定时刻所需的某种条件下创造优势。</p>
 
 你见过李永浩把一盘大比分落后的局翻回来吗。他不会把整支部队一股脑地养大。他调整自己的运营，让对手最弱的那30秒里，就在那一个点上，自己变得最强。从总实力看，他是落后的。可在那一瞬间、那一处，他压制住了对手。然后就靠这一次交战，把整局赢走。同样的道理，无论做什么事，只要把力气集中到一个点上，就算整体不足，也能赢下决定性的那一次。
 
@@ -33,7 +33,7 @@ build: {list: never, render: always}
 
 ![李永浩为什么不养整支部队，只赢那30秒：把力气集中到一个点，抓住决定性瞬间](/images/inline/column-localized-advantage.jpg)
 
-<p class="inline-image-caption">很快就会决定获胜者。为这段短暂的间隙做好准备。</p>
+<p class="inline-image-caption">由于比赛之间的时间很短，准备工作应侧重于满足当时所需的条件。</p>
 
 ## 打那个马上要出现的破绽
 

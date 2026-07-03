@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![자동차 차체를 사이에 두고 산업용 로봇들이 작업하는 공장](/images/col-ai-cheap-vs-expensive-world.jpg)
 
-<p class="inline-image-caption">바둑판의 규칙은 깨끗하지만, 공장 바닥의 위험은 점수로 바로 환산되지 않는다.</p>
+<p class="inline-image-caption">바둑 AI는 규칙이 고정된 공간에서 배울 수 있지만, 공장에서는 위험과 책임이 숫자 점수만으로 정리되지 않는다.</p>
 
 바둑으로 인간 최고수를 이긴 AI 이야기가 나올 때마다 사람들은 비슷한 질문을 한다. “이 정도면 곧 사람 일은 다 가져가는 것 아닌가?”
 
@@ -62,7 +62,7 @@ AI가 배우기에는 거의 완벽한 조건이다. 수없이 시도하고, 틀
 
 ![AI는 바둑은 이겼는데 왜 용접은 아직 어려울까: 인간은 멈추고, 기계는 반복한다](/images/inline/column-ai-cheap-vs-expensive-world.jpg)
 
-<p class="inline-image-caption">기계가 많이 시도할수록, 사람이 멈춰야 할 순간을 알아보는 능력은 더 비싸진다.</p>
+<p class="inline-image-caption">기계가 여러 번 시도할수록, 사람은 시도를 멈춰야 하는 조건을 더 분명히 정해야 한다.</p>
 
 ## 디지털 트윈은 기계가 마음껏 연습하게 해 준다
 

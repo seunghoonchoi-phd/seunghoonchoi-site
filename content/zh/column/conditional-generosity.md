@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![伸向温暖晚霞天空、把太阳捧在掌心里的手](/images/col-conditional-generosity.jpg)
 
-<p class="inline-image-caption">善意并不是要消除排队，而是告知那些越过排队的人要付出的代价。</p>
+<p class="inline-image-caption">仁慈不是一种消除一切界限的态度，而是一种明确告知对方不应该跨越的行为的态度。</p>
 
 我想做个好人。可说句实话，我也偶尔想说谁两句坏话，想在背后嚼嚼舌根，想把那个铁了心折磨我的人，原样还回去。这两种心思，在我心里斗了很久。一边说“再怎么样也得善良”，另一边说“那我这辈子就只能忍着？”
 
@@ -62,7 +62,7 @@ reviewStatus: "done"
 
 ![做个好人，又不当软柿子：圣人面对恶人，也要拔刀](/images/inline/column-conditional-generosity.jpg)
 
-<p class="inline-image-caption">真正的距离不是恨对方的时间，而是重新开始生活的时间。</p>
+<p class="inline-image-caption">如果你保持距离，你将有更多的时间来管理你的一天，而不是花时间去憎恨对方。</p>
 
 ## 想开骂的冲动，翻译成信息
 

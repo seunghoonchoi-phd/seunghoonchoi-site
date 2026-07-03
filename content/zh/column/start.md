@@ -10,7 +10,7 @@ build: {list: never, render: always}
 
 ![A hand writing in a notebook](/images/col-start.jpg)
 
-<p class="inline-image-caption">论文外的文字是揭示我正在研究的问题的空间，而不是提供证据。</p>
+<p class="inline-image-caption">论文外的写作解释了我正在研究的问题，而不是证明研究结果。</p>
 
 白天，我用计算和材料打交道。晚上，我在这里写别的东西。
 

@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![Moving boxes and luggage at a new place](/images/uf3-arrival.jpg)
 
-<p class="inline-image-caption">Upon arrival, baggage requires more administrative procedures than bags.</p>
+<p class="inline-image-caption">Immediately after arrival, administrative procedures such as school registration, banking, and communication take up more time than packing up luggage.</p>
 
 By the time you land for U.S. grad school, the big tasks (visa, housing, accounts) are already done. What comes next is the everyday admin that makes daily life actually work, and getting the order wrong makes each step block the next. No phone makes opening a bank account a hassle; no bank means no card; no SSN delays your license and your credit. So this post walks through the University of Florida (UF) settlement sequence exactly as it runs, from phone to bank to SSN to Florida driver's license to building credit, and spells out what to bring and what to watch at each stage.
 
@@ -44,7 +44,7 @@ Once you have a U.S. number, the bank is next. Students can open an account even
 
 ![U.S. Grad School Settlement Guide Part 3: Post-Arrival Admin in Order (Phone, Bank, SSN, License, Credit)](/images/inline/career-uf-guide-3-arrival-setup.jpg)
 
-<p class="inline-image-caption">Banks are more about movement than benefits. In the end, a place you can go often is more convenient.</p>
+<p class="inline-image-caption">Rather than choosing a bank based solely on benefits, you should check the branches you can frequently visit and the conditions for maintaining an account.</p>
 
 ## 3. SSN (Social Security Number)
 

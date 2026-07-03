@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![量子力学の黒板の前で先生が講義し、複数の学生の中で一人が答えのない質問に圧倒されているイラスト](/images/col-questions-lifeline.png)
 
-<p class="inline-image-caption">質問が多いのは理解が遅いからではなく、詰まった場所をそのまま通り過ぎないからだ。</p>
+<p class="inline-image-caption">質問が多いことは、理解が遅いという意味より、理解できていない部分をそのまま通り過ぎないという意味である場合がある。</p>
 
 工学部で量子力学を学んだとき、黒板にはまずこんな式が出てきた。
 
@@ -52,7 +52,7 @@ reviewStatus: "done"
 
 ![質問が多い人の救い](/images/inline/column-questions-lifeline.jpg)
 
-<p class="inline-image-caption">式に慣れた人は答えを覚えたのではなく、どこで詰まるかを先に見ている。</p>
+<p class="inline-image-caption">公式に慣れた人は答えだけを覚えた人ではなく、解き方のどの段階で間違いやすいかを先に確認する人だ。</p>
 
 ## 質問を受け止めてくれる人がいなかった
 

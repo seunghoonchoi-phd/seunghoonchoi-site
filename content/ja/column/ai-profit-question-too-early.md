@@ -13,7 +13,7 @@ reviewStatus: "done"
 
 ![建設現場でウェアラブルAIグラスをつけた作業者が、掘削機とセンサーデータを見ている様子](/images/col-ai-profit-question-too-early.jpg)
 
-<p class="inline-image-caption">AIの利益を問う前に、まず誰がスコップと道路と電気を売っているのかを見る必要がある。</p>
+<p class="inline-image-caption">AIの収益を判断するには、モデル会社だけでなく、インフラ、電力、データ事業者が稼ぐ仕組みも見る必要がある。</p>
 
 AI投資の記事やYouTubeの解説を見ていると、よくこの問いが出てくる。
 
@@ -77,7 +77,7 @@ AIが本当の仕事につながるには、その瞬間に一緒にいなけれ
 
 ![AIで稼いだ会社がない？その質問はまだ早い](/images/inline/column-ai-profit-question-too-early.jpg)
 
-<p class="inline-image-caption">現場のデータが入って初めて、AIはきれいな報告書ではなく判断の道具になる。</p>
+<p class="inline-image-caption">現場データを確保してこそ、AIは報告書作成ツールを超えて、実際の判断に必要な根拠を出せる。</p>
 
 ## ロボットだけを考えると、大事な部分を見落とす
 

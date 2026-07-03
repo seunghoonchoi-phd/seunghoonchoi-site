@@ -14,7 +14,7 @@ build: {list: never, render: always}
 
 ![A data center corridor lined with server racks](/images/col-ai-conundrum-market-economy.jpg)
 
-<p class="inline-image-caption">What technology makes cheaper is the cost of production, and what the market must sustain is the purchasing power of people.</p>
+<p class="inline-image-caption">Technology can lower production costs, but markets survive when consumers have the money to buy them.</p>
 
 Ask AI to handle a document now, and it is hard to call it a toy. It writes code, cleans up tables, drafts customer support replies, and summarizes meeting notes. It still gets things wrong, but plenty of it works. AI is not a technology running on pure hype.
 
@@ -60,7 +60,7 @@ A jobless boom can look impressive in the numbers. But people do not live on ave
 
 ![The AI Conundrum: The More the Technology Advances, the More Unstable the Market Economy Becomes](/images/inline/column-ai-conundrum-market-economy.jpg)
 
-<p class="inline-image-caption">In a market where consumption is weak, the benefits of automation eventually stop before sales.</p>
+<p class="inline-image-caption">In a market with reduced consumption, even if automation lowers costs, companies still have sales problems.</p>
 
 ## The usual answers are too slow or too weak
 

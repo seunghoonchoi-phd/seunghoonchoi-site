@@ -33,7 +33,7 @@ To put the conclusion first: I did it. I took the TOEFL, chose schools and profe
 
 ![You Can Prepare for a US PhD on Your Own](/images/inline/career-us-phd-guide.jpg)
 
-<p class="inline-image-caption">What is more important than the passing certificate is the process that you went through from the beginning to the end.</p>
+<p class="inline-image-caption">American doctoral applicants obtain the following judgment criteria by directly processing the preparation process as well as the acceptance results.</p>
 
 Let me be clear up front. What this book holds is only my own experience from one US PhD preparation process. I am simply setting down what I went through, just as it was, and showing the route that was possible on my own. The judgment is the reader's to make.
 

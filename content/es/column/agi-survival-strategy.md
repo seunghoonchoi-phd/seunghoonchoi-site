@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![Una cuesta cubierta de niebla; una partida larga que se aguanta con un solo principio](/images/col-agi-strategy.jpg)
 
-<p class="inline-image-caption">Sobrevivir en la era AGI se trata menos de pretender ser más inteligente y más de seguir dejando resultados reconocidos.</p>
+<p class="inline-image-caption">En la era AGI, es necesario seguir dejando resultados que otros puedan comprobar, en lugar de simplemente decir algo que parezca inteligente.</p>
 
 Quien se esfuerza por ser más listo que la IA, pierde. De eso estoy seguro.
 
@@ -33,6 +33,6 @@ Sobre qué hacer con mi vida en la era de la IA, reduje la respuesta a doce prin
 
 ![12 principios para sobrevivir en la era de la AGI: no hagas lo que no deja nada](/images/inline/column-agi-survival-strategy.jpg)
 
-<p class="inline-image-caption">Aunque aumente el número de herramientas, si no hay un centro, lo aprendido se dispersará y quedará poco.</p>
+<p class="inline-image-caption">Incluso si hay más herramientas, si el objetivo no está claro, es difícil trasladar lo aprendido al siguiente resultado.</p>
 
 Resumido en una línea, es esto. Quien sobrevive en la era de la AGI no es el humano más brillante que la IA. Es el humano que, usando la IA, sigue produciendo activos reales que el mundo de las personas reconoce.

@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![A full 16-stage map of AI job replacement](/images/col-ai-replacement-stages.jpg)
 
-<p class="inline-image-caption">The list of 16 steps is not a prophecy, but rather a sequence chart to see which things will shake out first.</p>
+<p class="inline-image-caption">The 16-step list is not a prophecy, but a benchmark for comparing which tasks will be automated first and under what conditions.</p>
 
 Will AI take my work?
 
@@ -84,7 +84,7 @@ But something remains here: choosing with conviction while knowing that if you a
 
 ![The Order AI Takes Work: From Work with Right Answers to Human Existence](/images/inline/column-ai-replacement-stages.jpg)
 
-<p class="inline-image-caption">At the end of the judgment, there always remains the question of who will bear the loss.</p>
+<p class="inline-image-caption">If you want to use AI judgment in your work, you must ultimately decide who will be responsible when a loss occurs.</p>
 
 ## Stage 9, people begin delegating decision authority to AI
 

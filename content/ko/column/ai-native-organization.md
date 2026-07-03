@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![기하학적 건물 구조, 조직을 처음부터 다시 짠다는 것](/images/col-ai-native-org.jpg)
 
-<p class="inline-image-caption">AI 네이티브 조직은 도구 목록이 아니라, 일이 흘러가는 순서가 달라진 조직이다.</p>
+<p class="inline-image-caption">AI 네이티브 조직에서는 도구 목록보다 업무가 요청, 검토, 결정으로 이어지는 순서가 달라진다.</p>
 
 AI 네이티브 조직이 뭐냐고 물으면 나는 거꾸로 묻는다. 지금 쓰는 AI를 다 빼면 회사가 어떻게 되냐고. 좀 느려질 뿐이면 그냥 AI 쓰는 회사다. AI를 빼는 순간 속도도, 구조도, 원가도, 제품 경험도 다 무너지면 그게 AI 네이티브 조직이다.
 
@@ -46,7 +46,7 @@ AI 네이티브 조직이 뭐냐고 물으면 나는 거꾸로 묻는다. 지금
 
 ![AI 쓰는 회사는 많다. AI 없으면 멈추는 회사가 'AI 네이티브 조직'이다](/images/inline/column-ai-native-organization.jpg)
 
-<p class="inline-image-caption">책임자가 남아 있어야 자동화도 조직 안에서 실제 결정으로 바뀐다.</p>
+<p class="inline-image-caption">책임자가 결정 과정을 지켜야 자동화 결과가 실제 조직의 판단으로 쓰일 수 있다.</p>
 
 ## 격차는 3단계부터 벌어진다
 

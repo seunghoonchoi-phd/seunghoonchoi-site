@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![Sillas vacías alineadas frente a escritorios en una oficina iluminada por el sol de la mañana](/images/col-ai-headcount-mistake.jpg)
 
-<p class="inline-image-caption">La silla vacía es una señal de reducción de costos, pero al mismo tiempo, puede ser el asiento de un contexto faltante.</p>
+<p class="inline-image-caption">Cuando queda un puesto vacío en la oficina, los costos laborales bajan, pero la empresa también puede perder el contexto de trabajo que esa persona conocía.</p>
 
 Cuando una empresa introduce herramientas de IA, hay una frase que aparece siempre: "entonces, ¿cuántas personas podemos recortar?" Por fuera suena razonable. La IA escribe informes, ordena minutas, investiga materiales, programa y arma propuestas. Algunas tareas las hace de verdad más rápido que una persona.
 
@@ -79,7 +79,7 @@ Por fuera, todo funciona. Salen documentos, hay reuniones, continúa la atenció
 
 ![Si reduces personal porque la IA hace el trabajo, la empresa se vuelve más lenta: el contexto que solo conoce un animal social](/images/inline/column-ai-headcount-mistake.jpg)
 
-<p class="inline-image-caption">El conocimiento que es visible solo después de reducir el número de personas es conocimiento que ya tiene un costo de recuperación asociado.</p>
+<p class="inline-image-caption">Si el conocimiento necesario se revela sólo después de reducir el personal, la empresa incurre en el costo de recrear ese conocimiento.</p>
 
 ## Si recortas el nivel intermedio, desaparece la memoria de la empresa
 

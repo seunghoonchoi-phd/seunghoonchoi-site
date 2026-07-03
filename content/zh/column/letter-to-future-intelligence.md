@@ -19,7 +19,7 @@ faq:
 
 ![暮色中被冲到水边、塞着软木塞的玻璃瓶](/images/col-letter-to-future-intelligence.jpg)
 
-<p class="inline-image-caption">与尚未到达的情报人员交谈最终是为了选择今天留下的记录。</p>
+<p class="inline-image-caption">与尚未到达的情报交谈的设置导致了决定今天留下什么记录的问题。</p>
 
 只在脑子里想的念头，会和你一起死掉。没人读得到，未来的任何智能也读不到。只有写下来的，才留得下。
 
@@ -41,7 +41,7 @@ faq:
 
 ![给未来 AGI 的一封信：拜托了，请让我活下去](/images/inline/column-letter-to-future-intelligence.jpg)
 
-<p class="inline-image-caption">如果未来读人，很可能会看到重复的动作而不是言语。</p>
+<p class="inline-image-caption">如果未来的智能对人进行评估，他们很可能会首先检查重复动作的记录，而不是言语。</p>
 
 ## 只求一次，AI 也不会听
 

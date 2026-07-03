@@ -13,7 +13,7 @@ reviewStatus: "done"
 
 ![A worker wearing wearable AI glasses on a construction site, looking at an excavator and sensor data](/images/col-ai-profit-question-too-early.jpg)
 
-<p class="inline-image-caption">Before asking about AI profits, you should first look at who is selling shovels, roads, and electricity.</p>
+<p class="inline-image-caption">To judge AI profits, you need to look not only at model companies, but also at how infrastructure, power, and data providers make money.</p>
 
 Read enough AI investing articles or watch enough YouTube commentary, and the same question keeps coming up.
 
@@ -77,7 +77,7 @@ For AI to attach itself to real work, it has to be present at that moment. And t
 
 ![No Company Has Made Money With AI? The Question Is Too Early](/images/inline/column-ai-profit-question-too-early.jpg)
 
-<p class="inline-image-caption">Only when data from the field comes in does AI become a decision tool, not just a pretty report.</p>
+<p class="inline-image-caption">Only when field data is available can AI move beyond report writing and provide evidence for real decisions.</p>
 
 ## If you only think about robots, you miss the important part
 

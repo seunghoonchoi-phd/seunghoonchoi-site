@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![A craftsman carving wood by hand. The human realness AI can't fake](/images/col-ai-human-craft.jpg)
 
-<p class="inline-image-caption">Instead of competing with AI, we need to connect with reality that AI has not yet been able to touch.</p>
+<p class="inline-image-caption">Rather than compete directly with AI, people should take charge of organizing real-world inputs and making responsibility judgments that AI still cannot handle.</p>
 
 "Get smarter than AI and you survive." Everyone says it. They're wrong. AGI will overwhelm humans at almost any job that runs on brainpower. Try to win on brains and you lose.
 
@@ -46,7 +46,7 @@ The conclusion is this. Most existing positions stay. There are just fewer of th
 
 ![The Real Reason AI Can't Beat You. What Survives Isn't Smarts, It's the Power to Touch Reality](/images/inline/column-what-survives-the-ai-era.jpg)
 
-<p class="inline-image-caption">The point where people enter is not a surveillance position, but an actual boundary where input and responsibility change.</p>
+<p class="inline-image-caption">People become more necessary in work where input conditions and responsible parties change, not in simple monitoring.</p>
 
 ## Stop hiring juniors and you cut off your future seniors
 

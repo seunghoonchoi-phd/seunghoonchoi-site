@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![暖光下，两个人隔着桌子，一边比划手势一边交谈](/images/col-reading-people.jpg)
 
-<p class="inline-image-caption">即使逻辑正确，如果对他人造成损害并损害他们的声誉，劝说也会立即停止。</p>
+<p class="inline-image-caption">即使逻辑正确，如果提案增加了对方的损失和面子问题，说服也可能立刻停止。</p>
 
 ## 越说对，对方越要顶着干
 
@@ -39,7 +39,7 @@ build: {list: never, render: always}
 
 ![人不靠逻辑动起来，要读懂他的损失、面子和责任](/images/inline/column-reading-people.jpg)
 
-<p class="inline-image-caption">一个好的提案首先要减少对方的损失，而不是说正确的话。</p>
+<p class="inline-image-caption">当一个好的提议首先减少对方的损失而不是重复正确的事情时，它更有可能被接受。</p>
 
 ## 比起逻辑，先想得失、面子、责任
 

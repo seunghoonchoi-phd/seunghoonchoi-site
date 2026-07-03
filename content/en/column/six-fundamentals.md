@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![A climber chalking their hands in front of a difficult rock wall](/images/col-six-fundamentals.jpg)
 
-<p class="inline-image-caption">As AI becomes faster, the basics become a filter that filters out results rather than a slow study.</p>
+<p class="inline-image-caption">As AI gets faster, basic skills become necessary as a standard for judging AI results, rather than slow study.</p>
 
 AI now summarizes, translates, drafts reports, and even writes code. Does that make study smarts less important? I think the opposite is true.
 
@@ -59,7 +59,7 @@ Even if AI writes the draft, a person has to check whether that draft matches th
 
 ![What Matters More Than Study Smarts: Four Fundamentals That Matter More as AI Gets Better](/images/inline/column-six-fundamentals.jpg)
 
-<p class="inline-image-caption">The draft is just the beginning. People who know the actual order of work save the results.</p>
+<p class="inline-image-caption">The draft is only a starting material, and the resulting work should be revised until the end by someone who knows the actual work order.</p>
 
 ## 3. Structuring ability: binding scattered information into a usable shape
 

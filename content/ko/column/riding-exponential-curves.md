@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![해 질 녘 바다, 파도의 힘을 추진력으로 바꾸며 올라탄 서퍼](/images/col-riding-exponential-curves.jpg)
 
-<p class="inline-image-caption">월급은 지나가는 돈이고, 자산은 내가 일하지 않는 시간에도 남아 있는 결과다.</p>
+<p class="inline-image-caption">월급은 받으면 생활비로 사라질 수 있지만, 자산은 내가 일하지 않는 시간에도 가치가 남을 수 있다.</p>
 
 월급은 중요하다. 당장 먹고살게 해 주고, 삶을 무너지지 않게 받쳐 준다. 하지만 월급만으로 부자가 되기는 어렵다. 내가 일한 시간만큼만 들어오기 때문이다.
 
@@ -34,7 +34,7 @@ AI, 바이오, 플랫폼, 금융처럼 앞으로 커질 분야는 분명 있다.
 
 ![월급만으로는 부자 못 된다. 복리로 커지는 자산 만드는 법](/images/inline/column-riding-exponential-curves.jpg)
 
-<p class="inline-image-caption">돈보다 먼저 남겨야 할 것은, 다음 기회가 나를 찾아오게 만드는 흔적이다.</p>
+<p class="inline-image-caption">돈보다 먼저 남겨야 할 것은, 다음 기회를 얻을 때 보여줄 수 있는 결과물이다.</p>
 
 ## 복리로 커지는 자산을 고르는 법
 

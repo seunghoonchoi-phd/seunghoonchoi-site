@@ -13,7 +13,7 @@ reviewStatus: "done"
 
 ![Un trabajador con gafas de IA ponible en una obra, observando una excavadora y datos de sensores](/images/col-ai-profit-question-too-early.jpg)
 
-<p class="inline-image-caption">Antes de preguntar sobre las ganancias de la IA, primero debes mirar quién vende palas, carreteras y electricidad.</p>
+<p class="inline-image-caption">Para juzgar las ganancias de la IA, es necesario observar no sólo las empresas modelo, sino también cómo ganan dinero los proveedores de infraestructura, energía y datos.</p>
 
 En artículos sobre inversión en IA o en videos de YouTube, aparece una pregunta una y otra vez.
 
@@ -77,7 +77,7 @@ Para que la IA se pegue al trabajo real, tiene que estar presente en ese momento
 
 ![¿Ninguna empresa ha ganado dinero con IA? La pregunta llega demasiado pronto](/images/inline/column-ai-profit-question-too-early.jpg)
 
-<p class="inline-image-caption">Solo cuando llegan datos del campo, la IA se convierte en una herramienta de decisión, no solo en un bonito informe.</p>
+<p class="inline-image-caption">Solo con datos del terreno la IA puede ir más allá de redactar informes y aportar evidencia para decisiones reales.</p>
 
 ## Si solo piensas en robots, pierdes la parte importante
 

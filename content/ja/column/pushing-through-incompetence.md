@@ -11,7 +11,7 @@ reviewStatus: "done"
 ---
 ![静かな部屋でひとりバイオリンの練習を始める初心者のぎこちない手](/images/col-pushing-through-incompetence.jpg)
 
-<p class="inline-image-caption">できない感覚が来るのは、まだ自動処理できない部分に触れたということだ。</p>
+<p class="inline-image-caption">できないと感じるのは、まだ自動で処理できない部分を自分で扱っているという意味だ。</p>
 
 新しいことを学ぶとき、最初に来る感覚は興味ではない。無能感だ。頭ではわかる気がするのに手がついてこない。ほかの人は簡単にこなしているように見えるのに、自分だけがもたつく。説明を聞いているときは簡単そうだったのに、いざ自分でやろうとすると急にすべてがこんがらがる。
 
@@ -45,7 +45,7 @@ reviewStatus: "done"
 
 ![実力を伸ばす一番確実な方法 ： 下手な時期を最後まで耐え抜くこと](/images/inline/column-pushing-through-incompetence.jpg)
 
-<p class="inline-image-caption">練習とは時間を埋めることではなく、間違えた部分を狭めてもう一度打つことだ。</p>
+<p class="inline-image-caption">練習は時間を埋める行動ではなく、間違えた部分を絞ってもう一度試す行動だ。</p>
 
 ## 小さく分ければ耐えられるようになる
 

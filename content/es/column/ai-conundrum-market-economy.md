@@ -14,7 +14,7 @@ build: {list: never, render: always}
 
 ![Pasillo de un centro de datos con filas de servidores](/images/col-ai-conundrum-market-economy.jpg)
 
-<p class="inline-image-caption">Lo que la tecnología abarata es el coste de producción, y lo que el mercado debe sostener es el poder adquisitivo de las personas.</p>
+<p class="inline-image-caption">La tecnología puede reducir los costos de producción, pero los mercados sobreviven cuando los consumidores tienen el dinero para comprarlos.</p>
 
 Si hoy le encargas a la IA una página de trabajo, ya cuesta llamarla juguete. Escribe código, ordena tablas, redacta respuestas para clientes y resume actas de reunión. Se equivoca, claro. Pero muchas cosas sí las hace. La IA no es una tecnología hecha solo de humo.
 
@@ -60,7 +60,7 @@ Un auge sin empleo puede verse brillante en los números. Pero la gente no vive 
 
 ![El enigma de la IA: cuanto más avanza la tecnología, más inestable se vuelve la economía de mercado](/images/inline/column-ai-conundrum-market-economy.jpg)
 
-<p class="inline-image-caption">En un mercado donde el consumo es débil, los beneficios de la automatización eventualmente terminan antes que las ventas.</p>
+<p class="inline-image-caption">En un mercado con consumo reducido, aunque la automatización reduce los costes, las empresas siguen teniendo problemas de ventas.</p>
 
 ## Las respuestas habituales son demasiado lentas o demasiado débiles
 

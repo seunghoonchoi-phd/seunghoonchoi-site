@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Ilustración de un asistente de investigación con IA](/images/col-ai-turnkey-skills.png)
 
-<p class="inline-image-caption">Cuanto más presta la IA su cerebro, más poder les queda a los humanos para llevar a cabo hasta el final las tareas que se les confían.</p>
+<p class="inline-image-caption">Cuanto más ayuda la IA al proceso de pensamiento, más deben demostrar los humanos la capacidad de comprobar y completar las tareas asignadas.</p>
 
 Llegó una época en la que la IA produce respuestas con rapidez. Buscar materiales, escribir frases, ordenar ideas y crear borradores es mucho más fácil que antes. Pero que la respuesta llegue rápido no significa que el trabajo mejore solo. Al contrario: cuanto más se externaliza una parte de la inteligencia hacia la IA, más claro se vuelve el papel que queda para la persona.
 
@@ -46,7 +46,7 @@ En la era de la IA, los cuellos de botella no son solo falta de técnica. Tambi�
 
 ![En la era de la IA, si falta una sola de estas 7 capacidades, el trabajo se tambalea. Y hay algo aún más importante](/images/inline/column-ai-turnkey-skills.jpg)
 
-<p class="inline-image-caption">La persona que encuentra el cuello de botella no es la persona que aumenta la velocidad, sino la persona que deja claro el siguiente movimiento.</p>
+<p class="inline-image-caption">Quien encuentra las partes que toman más tiempo aclara qué debe hacerse después, en lugar de fijarse solo en la velocidad.</p>
 
 La IA produce borradores, ideas, código y resúmenes con rapidez. Pero convertir ese borrador en algo que clientes y colegas puedan usar de verdad sigue siendo tarea humana. Un buen comienzo importa menos que llevarlo hasta un resultado utilizable.
 

@@ -13,7 +13,7 @@ reviewStatus: "done"
 ---
 ![Advanced Functional Materials: Back Cover](/images/afm-backcover.jpeg)
 
-<p class="inline-image-caption">封底图片显示，论文的成果不仅仅是一个传感器，而是一个连接身体和机器的设备。</p>
+<p class="inline-image-caption">封底图片显示，这篇论文使用头发结构的电极来连接身体运动和机械信号。</p>
 
 我们关于导电分级绒毛纤维（一种高灵敏、可拉伸、耐湿的多模态手势识别传感器）的研究，入选了《Advanced Functional Materials》50/2019 期的封底（Back Cover），凸显了其在可穿戴电子器件与 VR 界面方面的应用潜力。
 

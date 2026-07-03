@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![A person standing at a city intersection at dusk, looking at three roads](/images/col-learning-magic-numbers.jpg)
 
-<p class="inline-image-caption">The excitement of a new field comes from spacing rather than quantity. Standards are created only when different cases collide.</p>
+<p class="inline-image-caption">A sense of a new field comes not just from the quantity of examples, but from comparing the differences between different examples.</p>
 
 When people first learn a new field, they often ask, "How many examples do I need before I get a feel for it?" It seems like seeing more should solve it, but that is not how it works. You can look at a hundred examples of the same kind and your thoughts can still stay unorganized.
 
@@ -46,7 +46,7 @@ For example, if you look at thirty photos of well-cooked steaks, you still do no
 
 ![A New Field Is Not Learned by Seeing More, but by Seeing Differently: 3, 7, 30, 100](/images/inline/column-learning-magic-numbers.jpg)
 
-<p class="inline-image-caption">Thirty cases where differences are visible teach faster than one hundred cases without comparison.</p>
+<p class="inline-image-caption">Comparing thirty cases with visible differences can teach the criteria faster.</p>
 
 ## One hundred times is feedback, not repetition
 

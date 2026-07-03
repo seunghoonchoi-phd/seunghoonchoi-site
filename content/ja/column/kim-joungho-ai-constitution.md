@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![サーバールームに並んだサーバーラック。AIの電力と制御権を思い起こさせる画像](/images/col-kim-joungho-ai-constitution.jpg)
 
-<p class="inline-image-caption">憲法という形は、AI論議を抽象的な標語ではなく条文ごとの責任に変える。</p>
+<p class="inline-image-caption">憲法形式はAI議論を抽象的なスローガンにせず、条項ごとの責任と権限に分けさせる。</p>
 
 以下の内容は、2025金大中平和会議の特別講演「AIの効果的な発展方策と平和の増進」で語られたキム・ジョンホ KAIST電気・電子工学部教授のスピーチをもとに、その核心となる発言を憲法条項の形に再構成したものです。
 
@@ -34,7 +34,7 @@ AIが人間を敵とみなしたり、人間を支配しようとしたりする
 
 ![キム・ジョンホ KAIST教授による「AI憲法」全文](/images/inline/column-kim-joungho-ai-constitution.jpg)
 
-<p class="inline-image-caption">永遠に残る知能を想像すると、制御は性能より時間の問題になる。</p>
+<p class="inline-image-caption">長く維持される知能を仮定すると、統制問題は性能だけでなく、時間が過ぎても規則が保たれるかどうかの問題になる。</p>
 
 ## 第5条. AIの電力使用量は人間並みに制限されなければならない。
 

@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Server racks in a server room, suggesting the electricity and control behind AI systems](/images/col-kim-joungho-ai-constitution.jpg)
 
-<p class="inline-image-caption">The constitutional format turns the AI ​​discussion into clause-by-clause responsibilities rather than abstract slogans.</p>
+<p class="inline-image-caption">The constitutional format does not leave AI discussions in the form of abstract slogans, but divides them into responsibilities and powers for each article.</p>
 
 The text below is a reconstruction of the core remarks made by KAIST School of Electrical Engineering Professor Joungho Kim in his 2025 Kim Dae Jung Peace Forum special lecture, "Effective Development of AI and Peace Promotion," rewritten in the form of constitutional articles.
 
@@ -34,7 +34,7 @@ Just as humans die, AI should not remain forever. Kim suggested that after 100 y
 
 ![The Full Text of KAIST Professor Joungho Kim's 'AI Constitution'](/images/inline/column-kim-joungho-ai-constitution.jpg)
 
-<p class="inline-image-caption">When we imagine intelligence lasting forever, control becomes a matter of time rather than performance.</p>
+<p class="inline-image-caption">Assuming long-lasting intelligence, the control problem becomes not only one of performance but also of whether rules are maintained over time.</p>
 
 ## Article 5. AI power use must be limited to the human level.
 

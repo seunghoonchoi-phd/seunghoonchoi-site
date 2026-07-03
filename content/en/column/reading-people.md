@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![Two people talking across a table in warm light, hands mid gesture](/images/col-reading-people.jpg)
 
-<p class="inline-image-caption">Even if the logic is correct, persuasion stops immediately if it causes damage to the other person and damages their reputation.</p>
+<p class="inline-image-caption">Even if the logic is correct, persuasion can stop immediately when a proposal increases the other person's losses or face concerns.</p>
 
 ## The More Right You Are, the Harder They Dig In
 
@@ -39,7 +39,7 @@ This works in both directions. You can use it to scare people and push them alon
 
 ![People Don't Move on Logic. Read Their Loss, Their Face, Their Blame](/images/inline/column-reading-people.jpg)
 
-<p class="inline-image-caption">A good proposal moves when it reduces the other party's loss first, rather than saying the right thing.</p>
+<p class="inline-image-caption">A good offer is more likely to be accepted when it first reduces what the other person has to lose rather than repeating the right thing.</p>
 
 ## Before Logic Comes Gain, Loss, Face, and Blame
 

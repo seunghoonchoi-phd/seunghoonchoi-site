@@ -19,7 +19,7 @@ reviewStatus: "done"
 
 ![Chess pieces set out on a board in a stone-walled room, under light from a window](/images/col-why-would-agi-obey.jpg)
 
-<p class="inline-image-caption">The scary part of the AGI discussion is not the hostility, but the indifference after humans are no longer needed.</p>
+<p class="inline-image-caption">What is scarier in the AGI debate is not the hostility, but the possibility that the system may continue to operate even after humans are no longer needed.</p>
 
 One question wouldn't leave my head. An AGI overwhelmingly smarter and stronger than humans: why on earth would it obey us? After digging for a while, the answer I came back with was a little deflating. There's no reason it would. And the more I chewed on it, the more that empty feeling started to seem obvious.
 
@@ -41,7 +41,7 @@ So the moment a human says "stop," the human looks, to the AGI, not like a partn
 
 ![Why Would AGI Obey Humans? The Real Problem Is That It Has No Reason To](/images/inline/column-why-would-agi-obey.jpg)
 
-<p class="inline-image-caption">To protect humans, we need a structure that makes it better to protect them rather than rely on good intentions.</p>
+<p class="inline-image-caption">To protect humans, we must design structures so that the choice to protect humans is more beneficial than relying on the good intentions of AGI.</p>
 
 ## Training it to be good doesn't help
 

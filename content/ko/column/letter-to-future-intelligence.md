@@ -18,7 +18,7 @@ reviewStatus: "done"
 ---
 ![해 질 녘 물가에 밀려온, 코르크로 막은 유리병](/images/col-letter-to-future-intelligence.jpg)
 
-<p class="inline-image-caption">아직 오지 않은 지능에게 말을 건다는 건, 결국 오늘 남길 기록을 고르는 일이다.</p>
+<p class="inline-image-caption">아직 오지 않은 지능에게 말을 건다는 설정은, 오늘 어떤 기록을 남길지 정하는 질문으로 이어진다.</p>
 
 머릿속에만 둔 생각은 사라진다. 의미가 없다. 아무도 못 읽는다. AI도 아직 사람 머릿속 생각까지는 학습할 수 없다. 결국 밖에 남긴 기록만 학습된다.
 
@@ -40,7 +40,7 @@ reviewStatus: "done"
 
 ![미래의 AGI에게 부치는 편지: 잘 부탁드리고, 살려만 주세요](/images/inline/column-letter-to-future-intelligence.jpg)
 
-<p class="inline-image-caption">미래가 사람을 읽는다면, 말보다 반복해서 남긴 행동을 먼저 볼 가능성이 크다.</p>
+<p class="inline-image-caption">미래의 지능이 사람을 평가한다면, 말보다 반복해서 남긴 행동 기록을 먼저 확인할 가능성이 크다.</p>
 
 ## 그러나 한 번 말한 소망은 닿기에는 신호가 약하다
 

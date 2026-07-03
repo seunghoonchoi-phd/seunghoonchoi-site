@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![A chart of the Nasdaq Composite rising and falling around the dot-com bubble from 1994 to 2005](/images/col-dotcom-bubble-ai-bubble.png)
 
-<p class="inline-image-caption">What is more important than the rapid rise in the charts is when did people start believing in stories instead of numbers.</p>
+<p class="inline-image-caption">When the charts are soaring, you need to see if people are starting to spend more on future stories than on performance.</p>
 
 On March 20, 2000, Barron's ran a brutal warning on its cover. Internet companies were burning through cash too fast. Ten days earlier, the Nasdaq had hit its peak. The market still believed in the "new economy," but someone had already opened the spreadsheet.
 
@@ -50,7 +50,7 @@ Companies that cannot answer that question will have a hard time surviving. Some
 
 ![Revisiting the Dot-Com Bubble and Comparing It With the AI Bubble](/images/inline/column-dotcom-bubble-ai-bubble.jpg)
 
-<p class="inline-image-caption">When the bubble bursts, the market does not give up the dream, but first looks at cash flow again.</p>
+<p class="inline-image-caption">When a bubble bursts, investors check the actual cash flow first rather than the company's expectations.</p>
 
 ## This time, the memory is still alive
 

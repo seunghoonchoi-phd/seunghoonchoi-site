@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![Primer plano de la esfera de un viejo contador eléctrico analógico bajo una luz tenue](/images/col-ai-hidden-costs.jpg)
 
-<p class="inline-image-caption">El costo de la IA es mayor en el tiempo humano releyendo los resultados, que en la factura.</p>
+<p class="inline-image-caption">El costo de la IA debería incluir no sólo las tarifas de uso sino también el tiempo humano para leer y editar los resultados.</p>
 
 ## La IA de la empresa pierde dinero cada vez que la usas
 
@@ -47,7 +47,7 @@ Quinto, presumir de "he usado muchísimo la IA" como si fuera un logro. Usarla m
 
 ![La IA de la empresa no es gratis. El espejismo de los tokens y la suscripción, y el dinero que se escapa sin que nadie lo vea](/images/inline/column-ai-hidden-costs.jpg)
 
-<p class="inline-image-caption">Usar mucho no es un logro, pero puede ser una señal de que aún no se ha encontrado el cuello de botella.</p>
+<p class="inline-image-caption">Los equipos que usan mucha IA deben comprobar en qué tareas se consume más tiempo, además de si lograron resultados.</p>
 
 ## "Es para el trabajo" deja de valer pronto
 

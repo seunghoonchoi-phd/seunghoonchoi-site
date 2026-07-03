@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![Pasaporte y documentos de viaje](/images/uf2-visa.jpg)
 
-<p class="inline-image-caption">Prepararse para ingresar al país se trata más de saber cuándo y dónde mostrar los documentos que de una visa.</p>
+<p class="inline-image-caption">Al prepararse para la entrada F-1, debe conocer no sólo los documentos de la visa sino también el orden en que se debe presentar cada documento en el aeropuerto.</p>
 
 El estatus F-1 no termina en el momento en que recibes la admisión. Es una condición que debes mantener durante toda tu estancia en Estados Unidos. Después de aprobar la entrevista de la visa es fácil bajar la guardia, pero en la práctica todo depende de cómo prepares los documentos antes de subir al avión y de cómo completes el check-in dentro de los 30 días desde la fecha de inicio del programa que aparece en tu I-20. En esta entrega repasamos, en orden, los requisitos para mantener el estatus F-1, la entrada por el aeropuerto (POE, Port of Entry), el check-in en línea de ISSS (International Student Services), las tarifas oficiales y la ruta del aeropuerto a Gainesville.
 
@@ -51,7 +51,7 @@ Hay algunos puntos más que debes tener en cuenta.
 
 ![Visa F-1 y entrada a Estados Unidos: requisitos para mantener el estatus y llegada al aeropuerto](/images/inline/career-uf-guide-2-f1-visa-entry.jpg)
 
-<p class="inline-image-caption">Perder un pequeño documento en el aeropuerto puede costarte un día entero del primer día de llegada.</p>
+<p class="inline-image-caption">La falta de un documento en el aeropuerto puede causar retrasos inmediatos en el control de inmigración y en el horario del primer día.</p>
 
 ## Trámite obligatorio tras la llegada: check-in en línea de ISSS
 

@@ -11,7 +11,7 @@ reviewStatus: "done"
 ---
 ![植物の葉から電気信号を記録する生体模倣ハイドロゲル電極](/images/plant-hydrogel-electrode.jpg)
 
-<p class="inline-image-caption">植物の葉の弱い電気信号を長く読むことは、植物の反応を数字で追えるということだ。</p>
+<p class="inline-image-caption">植物の葉の弱い電気信号を長く測定すると、植物が環境変化にどう反応するかを数値で比較できる。</p>
 
 (共同筆頭著者の論文) _International Journal of Advanced Smart Convergence_（IJASC）に掲載されました。タコの吸着構造を模倣したハイドロゲルパッチにシリコーン界面を加え、表面が粗く水分の変化も大きい葉の上にも安定して貼り付く研究を行いました。これまでの電極では記録が難しかったコーヒーノキ（_Coffea arabica_）の葉でも、刺激に反応する電気信号を長く安定して記録できます。
 

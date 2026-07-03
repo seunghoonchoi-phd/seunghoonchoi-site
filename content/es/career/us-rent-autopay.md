@@ -11,7 +11,7 @@ seoTitle: "Domiciliar el alquiler como estudiante en EE. UU.: qué tener en cuen
 
 ![Un abanico de billetes de veinte dólares estadounidenses](/images/uf-rent-autopay.jpg)
 
-<p class="inline-image-caption">El pago automático no es una cuestión de conveniencia, sino de qué cuenta y con qué gastos.</p>
+<p class="inline-image-caption">Antes de configurar el pago automático, debes comprobar de qué cuenta se retira el dinero y con qué comisiones.</p>
 
 Acababa de firmar el contrato de un apartamento en Estados Unidos. Aún faltaba más de un mes para mudarme, pero quise dejar el alquiler domiciliado por adelantado. Si se me olvidaba pagar la mensualidad me caería un recargo, así que pensé que dejarlo todo listo me quitaría preocupaciones. El caso es que llegué hasta la pantalla de pago y ahí me frené. Apunto lo que aprendí, porque le vendrá bien a cualquiera que, como yo, piense "voy a dejar el pago domiciliado" antes de mudarse.
 
@@ -32,7 +32,7 @@ Si encima es una tarjeta coreana, peor todavía. A la comisión por pago se le s
 
 ![Domiciliar el alquiler al estudiar en EE. UU.: si aún no tienes cuenta americana, no lo configures con tarjeta](/images/inline/career-us-rent-autopay.jpg)
 
-<p class="inline-image-caption">Hasta que tengas una cuenta en EE. UU., a veces mantenerla es más seguro que la automatización.</p>
+<p class="inline-image-caption">Antes de tener una cuenta bancaria en EE. UU., puede ser más seguro administrar usted mismo las fechas de vencimiento de los pagos en lugar de realizar pagos automáticos.</p>
 
 ## El orden correcto
 

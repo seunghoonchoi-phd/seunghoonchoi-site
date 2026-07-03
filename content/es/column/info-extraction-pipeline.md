@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![Un cajón con tarjetas donde solo quedan las que tienen etiqueta. Elegir es el sistema en sí](/images/col-info-extraction.jpg)
 
-<p class="inline-image-caption">Incluso si recopilas mucha información, si no existe un estándar para descartarla, organizarla se convierte en un ruido más.</p>
+<p class="inline-image-caption">Incluso si recopila mucha información, si no existe un estándar para descartarla, la información innecesaria seguirá mezclada en los resultados.</p>
 
 Cuanto más hablas con la IA, menos conocimiento te queda en la mano. Suena raro, pero pasa.
 
@@ -47,7 +47,7 @@ El mecanismo central es "marcar si es supuesto". Obliga a separar la estructura 
 
 ![Hablas mucho con la IA y no te queda nada en la mano. Tres prompts para ordenar en Notion](/images/inline/column-info-extraction-pipeline.jpg)
 
-<p class="inline-image-caption">Un buen sistema de organización no es aquel que almacena mucho, sino uno que elimina estructuras infundadas.</p>
+<p class="inline-image-caption">Un buen sistema de organización no se limita a almacenar una gran cantidad de datos; también debe eliminar continuamente las clasificaciones infundadas.</p>
 
 ## Prompts para copiar y pegar, úsalos tal cual
 

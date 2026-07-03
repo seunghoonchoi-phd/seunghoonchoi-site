@@ -8,7 +8,7 @@ reviewStatus: "done"
 
 ![Raindrops on a window](/images/lit-remains.jpg)
 
-<p class="inline-image-caption">The less there is left, the more the words “I love you” become a last option rather than a lighter consolation.</p>
+<p class="inline-image-caption">The less there is left, the more the words I love you become words that determine the final action rather than words of comfort.</p>
 
 <div class="poem">
 <p>Perhaps what matters most<br>

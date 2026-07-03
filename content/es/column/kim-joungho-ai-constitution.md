@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Filas de servidores en una sala técnica, una imagen que recuerda la electricidad y el control detrás de la IA](/images/col-kim-joungho-ai-constitution.jpg)
 
-<p class="inline-image-caption">El formato constitucional convierte el debate sobre la IA en responsabilidades cláusula por cláusula en lugar de lemas abstractos.</p>
+<p class="inline-image-caption">El formato constitucional no deja los debates de AI en forma de lemas abstractos, sino que los divide en responsabilidades y poderes para cada artículo.</p>
 
 El texto de abajo reconstruye, en forma de artículos constitucionales, las ideas centrales expresadas por el profesor Joungho Kim de la Escuela de Ingeniería Eléctrica de KAIST en su conferencia especial de 2025 en el Kim Dae Jung Peace Forum, "Desarrollo efectivo de la IA y promoción de la paz".
 
@@ -34,7 +34,7 @@ Así como los humanos mueren, la IA no debería permanecer para siempre. Kim pla
 
 ![Texto completo de la 'Constitución de la IA' del profesor Joungho Kim de KAIST](/images/inline/column-kim-joungho-ai-constitution.jpg)
 
-<p class="inline-image-caption">Cuando imaginamos que la inteligencia dura para siempre, el control se convierte en una cuestión de tiempo más que de desempeño.</p>
+<p class="inline-image-caption">Suponiendo una inteligencia duradera, el problema del control pasa a ser no sólo un problema de desempeño sino también de si las reglas se mantienen a lo largo del tiempo.</p>
 
 ## Artículo 5. El consumo eléctrico de la IA debe limitarse al nivel humano.
 

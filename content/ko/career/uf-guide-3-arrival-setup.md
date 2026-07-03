@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![Moving boxes and luggage at a new place](/images/uf3-arrival.jpg)
 
-<p class="inline-image-caption">도착 직후의 짐은 가방보다 행정 절차가 더 무겁다.</p>
+<p class="inline-image-caption">도착 직후에는 짐 정리보다 학교 등록, 은행, 통신 같은 행정 절차가 먼저 시간을 차지한다.</p>
 
 미국 대학원에 도착했다면 비자와 집, 계정 같은 어려운 건 다 지나간 셈입니다. 그다음은 생활을 굴러가게 하는 행정 잡무인데, 순서를 잘못 잡으면 뒤가 줄줄이 막힙니다. 휴대폰이 없으면 은행 개설이 번거롭고, 은행이 없으면 카드가 안 만들어지고, SSN이 없으면 일부 은행·면허·신용카드 절차가 번거로워질 수 있습니다. 그래서 이 글은 University of Florida(UF) 정착 경험을 바탕으로 휴대폰 → 은행 → SSN → 플로리다 운전면허 → 신용 쌓기 순서를 그대로 따라가며, 각 단계에서 뭘 챙겨 가고 뭘 조심해야 하는지 정리했습니다.
 
@@ -44,7 +44,7 @@ build: {list: never, render: always}
 
 ![미국 대학원 정착 가이드 Part 3: 도착 후 행정 절차 순서, 휴대폰·은행·SSN·면허·신용](/images/inline/career-uf-guide-3-arrival-setup.jpg)
 
-<p class="inline-image-caption">은행은 혜택보다 동선이다. 자주 갈 수 있는 곳이 결국 편하다.</p>
+<p class="inline-image-caption">은행은 혜택만 보고 고르기보다, 자주 갈 수 있는 지점과 계좌 유지 조건을 함께 확인해야 한다.</p>
 
 ## 3. SSN (사회보장번호)
 

@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![어두운 빛 속에서 클로즈업으로 찍은 오래된 아날로그 전기 계량기 다이얼](/images/col-ai-hidden-costs.jpg)
 
-<p class="inline-image-caption">AI 비용은 청구서보다, 결과를 다시 읽는 사람의 시간에서 크게 보인다.</p>
+<p class="inline-image-caption">AI 비용은 사용료뿐 아니라 결과를 읽고 고치는 사람의 시간까지 포함해야 한다.</p>
 
 회사에서 AI를 많이 쓰기 시작하면 처음엔 모든 게 빨라진 것처럼 보인다. 보고서 초안이 빨리 나오고, 회의록이 정리되고, 이메일 문장이 다듬어진다. 다들 “생산성이 올랐다”고 말한다.
 
@@ -47,7 +47,7 @@ AI는 산출물을 늘리는 데 강하다. 초안, 요약, 비교표, 체크리
 
 ![AI 많이 쓰는 회사가 왜 더 느려질까: 토큰보다 비싼 숨은 비용](/images/inline/column-ai-hidden-costs.jpg)
 
-<p class="inline-image-caption">많이 쓴다는 말은 성과가 아니라, 아직 병목을 못 찾았다는 신호일 수도 있다.</p>
+<p class="inline-image-caption">AI를 많이 쓰는 팀은 성과를 냈는지와 별도로, 어떤 작업에서 시간이 많이 걸리는지 확인해야 한다.</p>
 
 ## AI를 많이 쓴다는 말은 성과가 아니다
 

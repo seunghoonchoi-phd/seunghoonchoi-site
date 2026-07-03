@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![AI 시대에 살아남는 법, 실력 말고 '자격증'과 '소유권'에 걸어라](/images/col-ai-replacement-stages-5.jpg)
 
-<p class="inline-image-caption">실력은 사라질 수 있지만, 자격과 권한과 지분은 더 오래 남는다.</p>
+<p class="inline-image-caption">기술 실력은 자동화될 수 있지만, 자격, 권한, 지분은 제도 안에서 더 오래 유지될 수 있다.</p>
 
 번역 앱에 한 문장을 넣으면 몇 초 만에 그럴듯한 영어가 나온다. 영어를 몇 년씩 붙잡고 공부한 사람이라면 속이 쓰릴 수 있다. 오래 쌓은 능력이 버튼 하나로 압축되는 느낌이 들기 때문이다. 이 장면이 지난 네 편을 한 줄로 보여 준다.
 
@@ -90,7 +90,7 @@ AI 시대에 자격증이 중요한 이유는 종이 한 장 때문이 아니다
 
 ![AI 시대에 살아남는 법, 실력 말고 '자격증'과 '소유권'에 걸어라](/images/inline/column-ai-replacement-stages-5.jpg)
 
-<p class="inline-image-caption">AI 시대의 자리는 일을 잘하는 사람보다, 결과를 자기 책임 아래 묶는 사람에게 간다.</p>
+<p class="inline-image-caption">AI 시대에는 일을 직접 잘하는 사람뿐 아니라, 결과에 법적·조직적 책임을 지는 사람이 권한을 가진다.</p>
 
 ## 갑의 위치에 선 사람과 을의 입장에 선 사람은 다르다
 

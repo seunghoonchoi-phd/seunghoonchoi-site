@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![Los trabajos que la IA reemplaza primero: desaparece antes el trabajo mental con respuesta](/images/col-ai-replacement-stages-1.jpg)
 
-<p class="inline-image-caption">Las tareas con respuestas correctas se automatizan primero, independientemente del orgullo de una persona.</p>
+<p class="inline-image-caption">Las tareas para las que se establece la respuesta correcta son las primeras en automatizarse, independientemente del orgullo del responsable.</p>
 
 ¿La IA se llevará mi trabajo? Para responder, primero hay que mirar el orden. La IA no se lleva cualquier trabajo al azar. Hay trabajos que se reemplazan primero y otros a los que les llega el turno mucho después. Entre ellos, lo primero que se mueve es el trabajo con respuesta.
 
@@ -62,7 +62,7 @@ La reacción del público no tiene una única respuesta exacta. Pero métricas c
 
 ![Primero se reemplazan los trabajos con respuesta: etapas 1 a 5 de cómo la IA toma el trabajo](/images/inline/column-ai-replacement-stages-1.jpg)
 
-<p class="inline-image-caption">En un lugar donde cada clic cuenta como una puntuación, la IA obtiene rápidamente un libro de práctica.</p>
+<p class="inline-image-caption">En tareas en las que el comportamiento de los clics se puede registrar como una puntuación, la IA obtiene rápidamente los datos necesarios para repetir los experimentos.</p>
 
 ## Etapa 4, procesar un trabajo completo de principio a fin
 

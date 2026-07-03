@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![시장 좌판에서 상인이 손님에게 깎은 과일 한 조각을 건네는 모습](/images/col-invisible-currencies.jpg)
 
-<p class="inline-image-caption">검증이 없으면 실력은 상대에게 비용을 떠넘기는 주장으로 보일 뿐이다.</p>
+<p class="inline-image-caption">검증 자료가 없으면 실력 주장은 상대가 감수해야 할 위험을 늘리는 말처럼 보일 수 있다.</p>
 
 실력은 혼자 드러나지 않는다. 실력은 누군가에게 확인될 때 비로소 제대로 평가받는다. 아무리 일을 잘해도, 상대가 그 실력을 확인할 방법이 없으면 거의 없는 것이나 마찬가지로 취급된다.
 
@@ -60,7 +60,7 @@ reviewStatus: "done"
 
 ![실력보다 '검증'이 먼저다: 신뢰와 평판이 기회를 좌우하는 이유](/images/inline/column-invisible-currencies.jpg)
 
-<p class="inline-image-caption">평판은 칭찬이 아니라, 상대가 위험을 덜 느끼게 만드는 장치다.</p>
+<p class="inline-image-caption">평판은 칭찬의 양보다, 상대가 거래나 협업에서 느끼는 위험을 줄이는 근거로 작동한다.</p>
 
 ## 좋은 실력은 증거로 남겨야 한다
 

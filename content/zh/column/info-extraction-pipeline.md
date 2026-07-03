@@ -12,7 +12,7 @@ build: {list: never, render: always}
 
 ![一整柜贴着标签的卡片抽屉，只留下贴了标签的那些。会挑会扔，本身就是系统](/images/col-info-extraction.jpg)
 
-<p class="inline-image-caption">即使您收集了大量信息，如果没有丢弃这些信息的标准，那么将其组织起来也只是另一种噪音。</p>
+<p class="inline-image-caption">即使你收集了很多信息，如果没有丢弃它的标准，不必要的信息仍然会混杂在结果中。</p>
 
 跟 AI 聊得越多，奇怪的是，手里真正留下的知识反而越少。
 
@@ -47,7 +47,7 @@ build: {list: never, render: always}
 
 ![天天跟 AI 聊天，为什么手里啥也没留下？三段式 Notion 整理提示词](/images/inline/column-info-extraction-pipeline.jpg)
 
-<p class="inline-image-caption">一个好的组织系统不是一个能存储大量信息的系统，而是一个能够排除毫无根据的结构的系统。</p>
+<p class="inline-image-caption">一个好的组织系统不仅仅限于存储大量数据；它还必须不断消除毫无根据的分类。</p>
 
 ## 复制即用的提示词，直接抄走
 

@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![Un profesor da clase frente a una pizarra de mecanica cuantica mientras un estudiante entre muchos se siente abrumado por preguntas sin respuesta](/images/col-questions-lifeline.png)
 
-<p class="inline-image-caption">Hacer muchas preguntas no significa que seas lento para entender, sino que simplemente significa que no superas los puntos estancados.</p>
+<p class="inline-image-caption">Hacer muchas preguntas puede no significar que se entienda lento, sino que la persona no pasa por alto las partes que no entendió.</p>
 
 Cuando estudie mecanica cuantica en ingenieria, en la pizarra aparecian primero ecuaciones como estas.
 
@@ -52,7 +52,7 @@ En la competencia de examenes de alto nivel, esa diferencia se agranda. Algunos 
 
 ![Un salvavidas para quienes hacen demasiadas preguntas](/images/inline/column-questions-lifeline.jpg)
 
-<p class="inline-image-caption">Las personas que están familiarizadas con las fórmulas no memorizan las respuestas, sino que miran primero para ver dónde pueden quedarse atascados.</p>
+<p class="inline-image-caption">Una persona que conoce bien una fórmula no solo memorizó la respuesta; primero identifica en qué paso de la solución es más fácil equivocarse.</p>
 
 ## No habia quien recibiera las preguntas
 

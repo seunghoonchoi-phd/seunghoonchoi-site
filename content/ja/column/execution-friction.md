@@ -11,7 +11,7 @@ reviewStatus: "done"
 
 ![机の上に乱雑に絡まったパソコンのケーブルと配線の山](/images/col-execution-friction.jpg)
 
-<p class="inline-image-caption">AIを付けても遅いなら、問題はモデルではなくモデルの周りの手足かもしれない。</p>
+<p class="inline-image-caption">AIを導入しても仕事が遅いなら、モデル性能ではなく入力、検討、承認の過程に時間がかかっている可能性がある。</p>
 
 会社も今やAIを使えと言う。報告書もAIで書き、議事録もAIで整理し、資料調査もAIで速くやれと言う。ところがいざ仕事をしてみると、おかしい。AIは速くなったのに、自分の仕事はたいして速くならない。
 
@@ -55,7 +55,7 @@ AIは成果物を増やすのが得意だ。下書き、要約、比較表、チ
 
 ![会社員がAIで仕事を速くできない理由：環境を制限したままAIだけ使えと言われても困る](/images/inline/column-execution-friction.jpg)
 
-<p class="inline-image-caption">長く向き合う仕事には、自動化より先に邪魔されない実行環境が必要だ。</p>
+<p class="inline-image-caption">長く集中する必要がある仕事では、自動化ツールより、邪魔されずに実行し続ける環境が先に必要になる。</p>
 
 ## 会議とメッセンジャーは、AIがくれた速度をまた削っていく
 

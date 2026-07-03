@@ -12,7 +12,7 @@ reviewStatus: "done"
 
 ![自動車のボディを挟んで産業用ロボットが作業する工場](/images/col-ai-cheap-vs-expensive-world.jpg)
 
-<p class="inline-image-caption">碁盤のルールはきれいだが、工場の床にある危険はすぐ点数に置き換えられない。</p>
+<p class="inline-image-caption">囲碁AIはルールが固定された空間で学べるが、工場ではリスクと責任を点数だけで整理できない。</p>
 
 囲碁で人間の最強棋士に勝ったAIの話が出るたびに、人はよく似た質問をします。「ここまで来たら、もうすぐ人の仕事は全部持っていかれるんじゃないか?」
 
@@ -62,7 +62,7 @@ AIが学ぶには、ほぼ完璧な条件です。何度も試して、間違え
 
 ![AIは囲碁では勝ったのに、なぜ溶接はまだ難しいのか：人間は止まり、機械は繰り返す](/images/inline/column-ai-cheap-vs-expensive-world.jpg)
 
-<p class="inline-image-caption">機械が試行を重ねるほど、人が止まるべき瞬間を見抜く力は高くなる。</p>
+<p class="inline-image-caption">機械が何度も試すほど、人は試行を止める条件をより明確に決める必要がある。</p>
 
 ## デジタルツインは機械に安全に試せる場をつくる
 

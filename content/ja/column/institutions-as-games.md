@@ -13,7 +13,7 @@ build: {list: never, render: always}
 
 ![夜明け前、商人が来る前のがらんと空いた屋外市場の台](/images/col-institutions-as-games.jpg)
 
-<p class="inline-image-caption">制度は看板より、その中でどんな行動が報われるかを見るとよく分かる。</p>
+<p class="inline-image-caption">制度を理解するには、名称より、その制度の中でどの行動をした人が報われるかを確認する必要がある。</p>
 
 ## 会社では口を閉ざす友人が、同好会では先頭に立つ
 
@@ -43,7 +43,7 @@ build: {list: never, render: always}
 
 ![制度の読み方：ルールよりも、まず賞と罰を見よ](/images/inline/column-institutions-as-games.jpg)
 
-<p class="inline-image-caption">人が変に動いているなら、まずその行動に付いた報酬と罰を見るべきだ。</p>
+<p class="inline-image-caption">人々が奇妙に行動するなら、その行動にどの報酬と不利益がつながっているかを先に見る必要がある。</p>
 
 ## 決裁を増やしたら、正直な社員だけが損をする
 

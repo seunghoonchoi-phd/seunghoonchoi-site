@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![The physical work AI takes, from repetitive labor to judgment and sense](/images/col-ai-replacement-stages-2.jpg)
 
-<p class="inline-image-caption">What is difficult for robots is not the power, but the fact that the site changes slightly every time.</p>
+<p class="inline-image-caption">It is difficult for robots to repeat the same actions, not because they lack power, but because conditions vary at each work site.</p>
 
 If AI takes work with right answers first, the next question is natural. Is work done with the body safe?
 
@@ -48,7 +48,7 @@ The moment that cost falls, this area shakes too.
 
 ![From Repetitive Physical Labor to Work That Needs Judgment and Sense: Stages 6 to 8 of AI Taking Work](/images/inline/column-ai-replacement-stages-2.jpg)
 
-<p class="inline-image-caption">Sensation is not a mystery, but a judgment that remains in the body after making many mistakes and correcting them.</p>
+<p class="inline-image-caption">Field sense is a judgment standard created by workers through repeated failures and corrections.</p>
 
 ## Stage 8, work that needs judgment and sense
 

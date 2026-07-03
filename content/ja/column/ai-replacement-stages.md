@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ![AI雇用代替16段階の全体地図](/images/col-ai-replacement-stages.jpg)
 
-<p class="inline-image-caption">16段階の一覧は予言ではなく、どの仕事が先に揺れるかを見る順番表だ。</p>
+<p class="inline-image-caption">16段階のリストは予言ではなく、どの業務がどの条件で先に自動化されるかを比べるための基準表である。</p>
 
 AIが私の仕事を奪うのだろうか。
 
@@ -84,7 +84,7 @@ AIによる代替は、頭を使う仕事で終わりません。体を使う仕
 
 ![AIが仕事を奪っていく順番:答えのある仕事から人間の存在まで](/images/inline/column-ai-replacement-stages.jpg)
 
-<p class="inline-image-caption">判断の最後には、いつも誰が損を引き受けるのかという問いが残る。</p>
+<p class="inline-image-caption">AI判断を業務に使うには、最後に損害が出たとき責任を負う人を決める必要がある。</p>
 
 ## 第9段階、決定権限をAIに任せはじめる
 
