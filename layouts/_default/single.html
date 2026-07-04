@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article class="post">
+<article class="post{{ with .Section }} post--{{ . }}{{ end }}">
   <header class="post__head reveal">
     {{ if not .Date.IsZero }}
     <div class="post__meta">

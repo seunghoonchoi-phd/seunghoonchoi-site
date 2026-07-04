@@ -1248,6 +1248,9 @@ html[dir="rtl"] .post__toc #TableOfContents a{text-align:right}
 .post__more ul{list-style:none;padding:0;margin:0;display:grid;gap:10px}
 .post__more a{color:var(--copper);text-decoration:none;font-weight:500}
 .post__more a:hover{text-decoration:underline}
+.post--apps .post__body blockquote{border-top:0;border-bottom:0;padding:.2rem 0;margin:1.1em 0}
+.post--apps .post__tags{border-top:0;padding-top:0;margin-top:28px}
+.post--apps .post__more{border-top:0;padding-top:0}
 
 .home-hero__cv{margin-top:clamp(16px,2.4vw,24px);display:flex;gap:0 22px;justify-content:center;align-items:center;flex-wrap:wrap}
 .home-hero__cv a{font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:14px;letter-spacing:.02em;color:var(--muted);text-decoration:none;border-bottom:1px solid var(--hair);padding-bottom:2px}
