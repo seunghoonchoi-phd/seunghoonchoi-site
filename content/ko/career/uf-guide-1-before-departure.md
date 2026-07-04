@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ## 큰 그림: 합격에서 출국까지
 
-입학이 확정되면 "이미 끝난 일"과 "아직 남은 일"이 빠르게 갈립니다. 보통 아래 순서로 진행됩니다.
+입학이 확정되면 "이미 끝난 일"과 "아직 남은 일"이 빠르게 나뉩니다. 보통 아래 순서로 진행됩니다.
 
 | 단계 | 핵심 항목 |
 |---|---|
@@ -29,7 +29,7 @@ reviewStatus: "done"
 ### 합격 후 바로 처리할 5가지
 
 1. 배치고사(Placement Exam): 입학 전 온라인 배치고사 창구가 열립니다(보통 6월~8월 초, eLearning). 75% 이상을 목표로 보고, 미만이면 개론 과목 수강이 권고됩니다(졸업 기간엔 영향 없음, 선택과목(elective)으로 인정).
-2. 오리엔테이션 참석 회신(RSVP): 학과·대학원 오리엔테이션 참석 회신 마감은 보통 8월 초입니다. 날짜·장소는 GatorMail 통지를 확인하세요.
+2. 오리엔테이션 참석 회신(RSVP, Répondez s'il vous plaît: 참석 여부 회신): 학과·대학원 오리엔테이션 참석 회신 마감은 보통 8월 초입니다. 날짜·장소는 GatorMail 통지를 확인하세요.
 3. 지도교수가 권하는 사전 학습: 많은 교수가 도착 전 관련 논문 정독과 연구도구 숙달을 권합니다. 합류 전 미리 준비합니다.
 4. 수강신청: 대학원 수강신청은 One.UF에서 직접 끝나는 방식이 아닙니다. 과목은 지도교수와의 미팅에서 함께 확정하고, 교수 서명을 받은 등록폼을 학과로 제출합니다(마감 엄수, 지각 시 벌금).
 5. 지속 치료 약물·진료서류: 약을 복용 중이라면, 영문 진료기록을 미리 발급받아 도착 전 Student Health Care Center(SHCC, 학생건강센터)로 보내 두면 치료 공백을 막을 수 있습니다.
@@ -67,11 +67,11 @@ reviewStatus: "done"
 | 6월~8월 초 | 배치고사 창구 | eLearning 온라인, 75% 이상 목표 |
 | 8월 초 | GradStart(대학원 오리엔테이션) Canvas 학습 모듈 개방 | [gradadvance](https://gradadvance.graduateschool.ufl.edu/programs/orientation/) |
 | 프로그램 시작 30일 전~ | 미국 입국 가능 | I‑20 *Earliest Admission Date*(가장 이른 입국 가능일) 이후만 |
-| 8월 초 | 학과 오리엔테이션 참석 회신(RSVP) 마감 | GatorMail 통지 확인 |
+| 8월 초 | 학과 오리엔테이션 참석 회신(RSVP, 참석 여부 회신) 마감 | GatorMail 통지 확인 |
 | 8월 중순 | 임용·프로그램 시작일 | 첫 급여는 한 달 뒤쯤 입금 |
 | (8월 중) | 랩 합류일 지도교수와 협의 | 정착(폰·차·SSN, Social Security Number) 진척 보며 |
 | 8월 중순 | 학과 오리엔테이션 · 조식 제공 | 프로그램 요건 설명 |
-| 8월 중순 | 공대 신입 PhD Welcome | [공대 안내](https://www.eng.ufl.edu/graduate/herbert-wertheim-college-of-engineering-new-ph-d-student-welcome/) |
+| 8월 중순 | 공대 신입 PhD Welcome | [Herbert Wertheim College of Engineering 신입 PhD Welcome 안내](https://www.eng.ufl.edu/graduate/herbert-wertheim-college-of-engineering-new-ph-d-student-welcome/) |
 | 수강신청 마감 | 보통 개강 첫 주 | 수강신청 지연 시 벌금($100) |
 | 개강 직후 | Drop/Add(수강 정정) 기간 | 정정 가능 |
 | I-20 프로그램 시작일 기준 30일 내 | ISSS(International Student Services) 온라인 체크인 3단계 | 도착 후 절차 |

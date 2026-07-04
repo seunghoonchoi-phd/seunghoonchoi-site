@@ -81,7 +81,7 @@ When the background knowledge is empty, the most frightening moment is when you 
 
 These questions are not asking about your writing. They are asking about the background. No matter how smoothly the report is written, if you cannot answer these, trust breaks.
 
-If anything, the more plausible the sentences, the more dangerous it is. The reader assumes the writer knew the content while writing it. But if you cannot answer the question, you give the impression, "So this person just turned in what AI wrote." At that moment it goes past a problem with the report; the writer's trust is shaken.
+If anything, the more plausible the sentences, the more dangerous it is. The reader assumes the writer knew the content while writing it. But if you cannot answer the question, you give the impression, "So this person just turned in what AI wrote." At that moment it goes past a problem with the report; the writer's trust breaks.
 
 ## Have AI write it, but dig into the background together
 

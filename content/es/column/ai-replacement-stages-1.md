@@ -11,7 +11,7 @@ series: "ai-replacement-stages"
 weight: 2
 reviewStatus: "done"
 ---
-![Los trabajos que la IA reemplaza primero: desaparece antes el trabajo mental con respuesta](/images/col-ai-replacement-stages-1.jpg)
+![Los trabajos que la IA reemplaza primero: el trabajo de conocimiento con respuesta verificable se automatiza antes](/images/col-ai-replacement-stages-1.jpg)
 
 <p class="inline-image-caption">Las tareas para las que se establece la respuesta correcta son las primeras en automatizarse, independientemente del orgullo del responsable.</p>
 
@@ -23,7 +23,7 @@ Cuando una persona se equivoca, pierde tiempo, ánimo y tarda en aprender otra v
 
 Este texto trata las primeras cinco etapas en que la IA toma el trabajo.
 
-La etapa 1 son tareas con respuesta definida. La etapa 2 es el análisis experto. La etapa 3 es predecir la reacción del público. La etapa 4 es procesar un trabajo de principio a fin por cuenta propia. La etapa 5 es el trabajo donde la revisión humana empieza a volverlo más lento.
+La etapa 1 son tareas con respuesta definida. La etapa 2 es el análisis experto. La etapa 3 es predecir la reacción del público. La etapa 4 es procesar trabajos que conectan varios pasos. La etapa 5 es el trabajo donde la revisión humana empieza a volverlo más lento.
 
 Hasta aquí todo se mueve en la misma dirección. Crear una respuesta, comprobarla, corregirla y volver a procesar pasa cada vez más a la IA.
 
@@ -63,7 +63,7 @@ La reacción del público no tiene una única respuesta exacta. Pero métricas c
 
 <p class="inline-image-caption">En tareas en las que el comportamiento de los clics se puede registrar como una puntuación, la IA obtiene rápidamente los datos necesarios para repetir los experimentos.</p>
 
-## Etapa 4, procesar un trabajo completo de principio a fin
+## Etapa 4, procesar trabajos que conectan varios pasos
 
 La IA inicial tomaba piezas pequeñas: una frase, una línea de código, un resumen. Pero cada vez más procesa trabajos completos. Le das un objetivo, arma un plan, busca materiales, crea un borrador, corrige y entrega un resultado. En esta etapa la IA deja de ser solo una herramienta que responde y se vuelve ejecutora de varias etapas conectadas.
 

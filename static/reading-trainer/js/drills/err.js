@@ -8,10 +8,10 @@ import { drillHeader, compQuiz, resultCard, tierPicker, tierLabel, setTeardown }
 function unitsName(lang) { return lang === 'zh' ? '자/분' : 'WPM'; }
 
 export default {
-  id: 'err', name: 'ERR 정독', icon: '📖', track: '속도',
-  goal: '이해를 유지한 채 개인 한계까지 읽기 속도를 끌어올립니다. (ERR = 속도 × 이해율)',
+  id: 'err', name: '이해도 반영 정독', icon: '📖', track: '속도',
+  goal: '이해를 유지한 채 개인 한계까지 읽기 속도를 끌어올립니다. (ERR, Effective Reading Rate = 속도 × 이해율)',
   langs: ['en', 'zh'],
-  why: '속도 단독 점수는 훑기로 조작됩니다. 모든 속도 시도에 이해 문제를 묶어 ERR(유효 읽기속도) = 속도 × 이해율로만 점수화하고, 이해가 60% 미만이면 0점 처리합니다. 페이서는 정상 레이아웃 위 하이라이트일 뿐, 언제든 끄고 되돌아갈 수 있습니다.',
+  why: '속도 단독 점수는 훑기로 조작됩니다. 그래서 모든 속도 시도에 이해 문제를 묶어 ERR(Effective Reading Rate, 이해도 반영 읽기 속도) = 속도 × 이해율로만 점수화하고, 이해가 60% 미만이면 0점 처리합니다. 페이서는 정상 레이아웃 위 하이라이트일 뿐, 언제든 끄고 되돌아갈 수 있습니다.',
   evidence: '속도-이해 트레이드오프와 WPM 단독 무효(Rayner 2016; Miyata 2012). 현실적 기준선 ~238/260 WPM(Brysbaert 2019).',
 
   render(root, lang, exit) {
@@ -25,8 +25,8 @@ export default {
       mount(root,
         drillHeader(this.name, exit, this.why),
         h('div', { class: 'card fade-in' },
-          h('h2', { class: 'h2' }, 'ERR 정독'),
-          h('p', { class: 'muted' }, '지문을 평소처럼 읽고(되돌아 읽기 허용) “다 읽었어요”를 누르면 이해 문제가 나옵니다. 점수 = ', h('b', null, '속도 × 이해율'), '.'),
+          h('h2', { class: 'h2' }, '이해도 반영 정독'),
+          h('p', { class: 'muted' }, '지문을 평소처럼 읽고(되돌아 읽기 허용) “다 읽었어요”를 누르면 이해 문제가 나옵니다. ERR(Effective Reading Rate)는 ', h('b', null, '속도 × 이해율'), '로 계산하는 이해도 반영 읽기 속도입니다.'),
           tierPicker(lang, tier, t => { tier = t; setup(); }),
           h('hr', { class: 'sep' }),
           h('label', { class: 'row', style: { gap: '10px', cursor: 'pointer' } },
@@ -123,10 +123,10 @@ export default {
         floored ? h('div', { class: 'note note--warn' }, '이해도 60% 미만 → ERR 0점. 훑기는 정독 점수를 이길 수 없습니다. 조금 더 천천히, 정확하게. 난이도를 한 단계 낮추는 것도 방법입니다.') : null,
         h('div', { class: 'note small' }, `${dirMsg}  ·  다음 목표 ${upd.pace} ${unitsName(lang)}` + (ceil ? `  ·  개인 최고 ${ceil}` : '')),
         nextLv ? h('div', { class: 'note note--good small' }, `이 난이도에서 이해 90%를 넘겼습니다. 설정에서 레벨을 ‘${nextLv.label}’로 올려 더 어려운 지문에 도전해 보세요.`) : null,
-        h('p', { class: 'small muted' }, 'ERR(유효 읽기속도) = 속도 × 이해율. 이것만이 헤드라인 지표입니다.'));
+        h('p', { class: 'small muted' }, 'ERR(Effective Reading Rate, 이해도 반영 읽기 속도) = 속도 × 이해율. 이것만이 헤드라인 지표입니다.'));
       mount(root, drillHeader(this.name, exit, null),
         resultCard([
-          [err + '', 'ERR ' + unitsName(lang), '유효 읽기속도'],
+          [err + '', 'ERR ' + unitsName(lang), '이해도 반영 읽기 속도'],
           [Math.round(wpm) + '', '원속도 ' + unitsName(lang), '(참고용)'],
           [Math.round(comp * 100) + '%', '이해도', `${Math.round(comp * (p.questions || []).length)}/${(p.questions || []).length}`],
         ], () => this.render(root, lang, exit), exit, extra));

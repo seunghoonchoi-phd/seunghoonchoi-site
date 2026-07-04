@@ -4,7 +4,7 @@ date: 2026-06-21T17:43:00+09:00
 draft: false
 categories: ["AI"]
 tags: ["AI", "automation", "jobs", "future", "survival strategy", "career"]
-subtitle: "Physical work is replaced later than mental work. But if it can be repeated, measured, and its answer converges, it eventually moves to AI and robots."
+subtitle: "Physical work is replaced later than knowledge work. But if it can be repeated, measured, and its answer converges, it eventually moves to AI and robots."
 seoTitle: "The Order of AI Job Replacement, Part 2: From Repetitive Physical Labor to Judgment and Sense"
 image: /images/col-ai-replacement-stages-2.jpg
 series: "ai-replacement-stages"
@@ -17,9 +17,9 @@ reviewStatus: "done"
 
 If AI takes work with right answers first, the next question is natural. Is work done with the body safe?
 
-Translation, coding, summarization, and analysis end inside software. If they are wrong, you can run them again. Physical work is different. A robot has to move, objects collide, materials are ruined, and people can get hurt.
+Translation, coding, summarization, and analysis are usually work whose results can be checked on screen and revised again. If they are wrong, you can run them again. Physical work is different. A robot has to move, objects collide, materials are ruined, and people can get hurt.
 
-So physical labor is replaced later than mental work. But later does not mean safe. It takes longer because trial and error in the physical world is costly. When the cost of robots seeing, picking up, moving, and learning from failure falls, body work also shakes in order.
+So physical labor is replaced later than knowledge work. But later does not mean safe. It takes longer because trial and error in the physical world is costly. When the cost of robots seeing, picking up, moving, and learning from failure falls, body work also faces replacement pressure in order.
 
 This piece looks at stages 6 through 8. Stage 6 is repetitive physical labor. Stage 7 is work that requires hand skill and field trial and error. Stage 8 is work that needs judgment and sense. The key standard is one thing: work that can be repeated, whose failures can be measured, and whose answer converges eventually moves to AI and robots.
 
@@ -63,7 +63,7 @@ The other is a sense that reads high-level context.
 
 This is different from simple prediction. Should I put my own money behind this direction? Should I push this business? Should I trust this person and go together? Should I accept this risk now? What should matter more?
 
-Here, sense is not only getting it right. It is reading situation, people, responsibility, timing, and possible loss, then choosing. If it is wrong, I lose. I lose money, time, reputation. This is not merely an answer-matching problem. It is a problem of bearing loss. AI can predict what people will choose. But AI does not want something on its own. More precisely, AI is not the legal and social subject that bears the loss.
+Here, sense is not only the ability to predict correctly. It is reading situation, people, responsibility, timing, and possible loss, then choosing. If it is wrong, I lose. I lose money, time, reputation. This is not merely an answer-matching problem. It is a problem of bearing loss. AI can predict what people will choose. But AI does not want something on its own. More precisely, AI is not the legal and social subject that bears the loss.
 
 So the conclusion of Stage 8 is not simple. Some sense moves over. Especially the kind whose right or wrong is confirmed over time can be done better by AI. But the sense of accepting the loss under my own name when wrong is a different problem. From here, the next stage opens. It is no longer only about ability. It becomes about authority and responsibility.
 
@@ -73,7 +73,7 @@ Stages 6 through 8 can be tied into one sentence: body work also shakes first wh
 
 Hand skill and field trial and error are slower, but results appear. You can check whether the weld was good, the repair succeeded, and the experiment produced results. Part of a veteran's sense is graded over time. Did the failure happen? Was the disease right? Did the customer leave? Did the defect occur? If it can be checked, it becomes data. If data accumulates, AI learns.
 
-So physical labor and sense shake later than mental work, but the principle is the same. What converges toward an answer is followed by AI. Work that moves real equipment and people is slower than software. Failure costs more, robots have to move, safety issues exist, and legal responsibility attaches. So physical work lasts longer. But lasting longer and being safe are different.
+So physical labor and sense are automated later than knowledge work, but the principle is the same. What converges toward an answer is followed by AI. Work that moves real equipment and people changes more slowly than screen-based work. Failure costs more, robots have to move, safety issues exist, and legal responsibility attaches. So physical work lasts longer. But lasting longer and being safe are different.
 
 ## What remains now is not ability, but authority
 

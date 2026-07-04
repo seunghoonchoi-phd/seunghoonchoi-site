@@ -18,7 +18,7 @@ El problema no es que la IA no pueda trabajar. Es lo contrario. La IA puede hace
 
 ## Aunque la IA haga el trabajo, quedan responsabilidad y contexto
 
-La IA puede crear una parte considerable de los resultados de un puesto. Escribe informes, hace análisis, arma presentaciones y programa. Hará aún más tareas. Pero en una empresa lo importante no es solo si algo se puede producir.
+La IA puede crear una parte considerable de los resultados de un puesto. Escribe informes, hace análisis, arma presentaciones y programa. Hará aún más tareas. Pero una empresa no mira solo si la IA puede producirlo.
 
 ¿Se puede subir este informe en este momento? ¿Podemos interpretar este número así? ¿Cómo leerá esta frase el cliente? ¿Otra área se opondrá si usamos esta expresión? ¿Legal encontrará un problema? ¿Coincide con lo que realmente quiere la persona de arriba?
 
@@ -30,7 +30,7 @@ Estas preguntas no son simples problemas de redacción. Preguntan si el resultad
 
 Alguien tiene que leerlo. Detectar números erróneos. Añadir condiciones faltantes. Cambiarlo al lenguaje interno de la empresa. Confirmar si se puede enviar al cliente. Revisar seguridad y legal.
 
-Más importante todavía: el contexto.
+Al final, alguien tiene que revisar el contexto.
 
 Una frase creada por IA puede ser correcta por sí misma y aun así estar mal en la situación actual de la organización. Puede haber afirmaciones correctas que no conviene decir ahora. El número puede ser correcto, pero su interpretación peligrosa. Una propuesta puede ser buena y aun así no ejecutarse por presupuesto, autoridad, calendario o intereses.
 

@@ -45,9 +45,9 @@ Un mal activo obliga a empezar de cero cada vez. Se vende una vez y termina. Exi
 
 No hace falta empezar moviendo mucho dinero ni creando una empresa. Basta con dejar resultados que no desaparezcan dentro del trabajo que ya haces. Si se acumulan, luego se vuelven activos que llaman dinero y oportunidades. Casi todo trabajo tiene una forma de convertirse en activo. Si escribes, deja registro. Si programas, conviértelo en herramienta. Si investigas, deja datos y artículos. Si hablas bien, conviértelo en clases y contenido. Quien trabaja bien puede convertir su proceso en plantilla. El resultado del trabajo debe quedar. Si queda a tu nombre, se reutiliza, se vuelve a vender o trae la siguiente oportunidad, es un activo. No debe terminar con el trabajo; la huella del trabajo debe seguir ayudándote.
 
-## La palabra más peligrosa es "después"
+## Decir "después" también retrasa el interés compuesto
 
-"Después" es una palabra cómoda. Te da una razón para no hacerlo ahora. Pero cuanto más tarde empiezas a construir activos, más desventaja tienes. El interés compuesto necesita tiempo para volverse fuerte.
+"Lo hago después" se vuelve fácilmente una excusa para no actuar ahora. Pero cuanto más tarde empiezas a construir activos, más desventaja tienes. El interés compuesto necesita tiempo para volverse fuerte.
 
 No hace falta crear un gran activo desde el principio. Basta con comprar un poco de propiedad cada mes y crear un poco de resultado que permanezca cada semana. Lo importante es la dirección: reducir la proporción que desaparece en consumo y aumentar la proporción que queda y crece.
 

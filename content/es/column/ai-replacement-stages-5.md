@@ -45,11 +45,11 @@ Pero cuando ocurre un accidente, quien puede ir a juicio no es la IA. Quien paga
 
 ¿Quién pone el sello final? ¿Quién responde? ¿Quién debe aprobar para que el trabajo termine? ¿Qué calificación permite sentarse en ese lugar?
 
-La certificación importa en la era de la IA no por un papel. Importa por la responsabilidad y autoridad conectadas a ese papel.
+La certificación importa en la era de la IA no por el certificado en sí. Importa por la responsabilidad y autoridad conectadas a esa credencial.
 
-## La propiedad dura más que la habilidad
+## La propiedad no desaparece solo porque la habilidad se automatice
 
-Lo segundo es la propiedad. Una capacidad se puede reemplazar. Pero los derechos que tengo se mueven mucho más tarde. La habilidad de escribir bien puede ser alcanzada por IA. Pero el copyright de un libro que escribí no desaparece de inmediato.
+Lo segundo es la propiedad. Una capacidad se puede reemplazar. Pero los derechos que tengo permanecen más tiempo. La habilidad de escribir bien puede ser alcanzada por IA. Pero el copyright de un libro que escribí no desaparece de inmediato.
 
 La capacidad de construir productos puede volverse común. Pero la participación que tengo en una empresa sigue ahí. La técnica para crear contenido puede volverse común. Pero los lectores, la marca, los datos y los canales de distribución que reuní permanecen. Por eso lo importante es convertir capacidad en resultados.
 
@@ -65,11 +65,11 @@ En la era de la IA no basta con preguntar "qué voy a hacer bien". Hay que pregu
 
 <p class="inline-image-caption">En la era de la IA, no sólo tienen autoridad quienes hacen bien el trabajo, sino también quienes asumen la responsabilidad legal y organizacional de los resultados.</p>
 
-## Las grandes estrellas y los trabajadores comunes juegan juegos distintos
+## No conviene copiar tal cual el modelo de las grandes estrellas
 
 Aquí mucha gente piensa en el mundo del espectáculo. Cuando miras a estrellas como Suzy o Karina, aunque la IA pueda hacer canciones y videos, la gente sigue mirando a esa persona. Un fan no compra solo una canción terminada. El dinero se pega al hecho de que esa persona esté en el escenario, de que una marca elija ese rostro y de que el público recuerde ese nombre.
 
-Un trabajador común juega otro juego. Si la tarea es solo "haz esta imagen", "escribe este texto" o "resume estos datos", la IA puede entrar al centro. La diferencia no es que la estrella tenga talento y el empleado no. La diferencia es el tablero. Las grandes estrellas tienen nombre, público, contratos, derechos de autor, imagen y canales de distribución atados entre sí. A muchos trabajadores comunes les queda solo la tarea que reciben.
+Un trabajador común ocupa otra posición. Si la tarea es solo "haz esta imagen", "escribe este texto" o "resume estos datos", la IA puede entrar al centro. La diferencia no es que la estrella tenga talento y el empleado no. La diferencia está en la estructura que rodea el trabajo. Las grandes estrellas tienen nombre, público, contratos, derechos de autor, imagen y canales de distribución atados entre sí. A muchos trabajadores comunes les queda solo la tarea que reciben.
 
 ## Quien está en posición de mando y quien está en posición dependiente no son iguales
 

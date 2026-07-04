@@ -4,7 +4,7 @@ date: 2026-06-21T17:44:27+09:00
 draft: false
 categories: ["AI"]
 tags: ["AI", "automatización", "empleo", "futuro", "estrategia de supervivencia", "carrera"]
-subtitle: "La IA no toma cualquier trabajo al azar. Sacude primero lo que converge hacia una respuesta, luego responsabilidad, control, propiedad, juicio de valor y, al final, la propia cuestión de la existencia humana."
+subtitle: "La IA no toma cualquier trabajo al azar. Reemplaza primero lo que converge hacia una respuesta, luego responsabilidad, control, propiedad, juicio de valor y, al final, la propia cuestión de la existencia humana."
 seoTitle: "El orden en que la IA toma el trabajo, desde tareas con respuesta hasta la existencia humana"
 image: /images/col-ai-replacement-stages.jpg
 series: "ai-replacement-stages"
@@ -19,7 +19,7 @@ reviewStatus: "done"
 
 La pregunta ya no es un chiste. La traducción ya la hacen máquinas. El código se escribe junto con IA. En hospitales, la IA mira imágenes antes que la persona; en las plataformas, la gente consume videos y textos recomendados por IA.
 
-Entonces, ¿qué viene después? ¿Cuándo llega el turno de mi trabajo? Lo importante es que la IA no toma cualquier cosa al azar. Hay trabajos que se reemplazan primero y otros a los que les llega el turno mucho más tarde. Ese orden tiene una razón. Este texto despliega el mapa completo de 16 etapas en que la IA toma el trabajo.
+Entonces, ¿qué viene después? ¿Cuándo llega el turno de mi trabajo? Lo importante es que la IA no toma cualquier cosa al azar. Hay trabajos que se reemplazan primero y otros a los que les llega la presión mucho más tarde. Ese orden tiene una razón. Este texto ordena las 16 etapas en que la IA toma el trabajo.
 
 ## Los trabajos que la IA toma primero tienen algo en común
 
@@ -45,7 +45,7 @@ La IA no lee mágicamente el corazón humano. Mira datos de comportamiento y pre
 
 Lo que se reemplaza primero no es entender profundamente a una persona, sino predecir reacciones de mucha gente para optimizar contenido, anuncios, recomendaciones, precios y promociones. Acertar estadísticamente no es dar a una persona un servicio perfecto, pero en mercados masivos basta para mover mucho trabajo.
 
-## Etapa 4, procesar un trabajo de principio a fin (Agentic LLM)
+## Etapa 4, procesar trabajos que conectan varios pasos
 
 La IA empezó tomando piezas pequeñas: una frase, una línea de código, un resumen. Ahora empieza a tomar flujos completos. Le das un objetivo, arma plan, busca materiales, crea borrador, corrige y entrega.
 
@@ -59,7 +59,7 @@ Esto afecta clasificación repetitiva, aprobaciones simples y procesamiento auto
 
 ## Etapa 6, trabajo físico repetitivo
 
-La sustitución no termina en el trabajo mental. Pasa al cuerpo: mover objetos en almacenes, repetir movimientos en fábricas, limpiar, ensamblar, empacar, atender rutinas simples.
+La sustitución no termina en el trabajo de conocimiento. Pasa al cuerpo: mover objetos en almacenes, repetir movimientos en fábricas, limpiar, ensamblar, empacar, atender rutinas simples.
 
 Cuanto más repetitivo y controlado es el entorno, antes llega. Una fábrica, un almacén o una cocina diseñada para robots cambia antes. Usar el cuerpo no vuelve seguro a un trabajo; si el cuerpo repite patrones claros, es un buen objetivo para robots.
 
@@ -139,4 +139,4 @@ Al comienzo la persona queda porque lo hace mejor. Después queda porque debe re
 
 La razón cambia de capacidad a responsabilidad, de responsabilidad a control y propiedad, de control y propiedad a juicio de valor, y finalmente a existencia. Por eso "trabajo mejor que la IA" no resiste mucho tiempo. La capacidad se alcanza. Lo importante es qué responsabilidad tienes, qué autoridad, qué activos y relaciones, cuánto control ejerces, y cómo ayudas a que los humanos sigan importando.
 
-Este texto es el mapa completo. En los siguientes textos veremos cada zona con más detalle. Primero empieza el trabajo mental con respuesta clara: traducción, programación y diagnóstico, donde es fácil comprobar aciertos y errores.
+Este texto ordenó el mapa completo. En los siguientes textos veremos cada zona con más detalle. Primero empieza el trabajo de conocimiento con respuesta clara: traducción, programación y diagnóstico, donde es fácil comprobar aciertos y errores.

@@ -82,4 +82,4 @@ The big outputs, though, are best built in a friction-free environment. Long wri
 
 Using AI and rapidly making AI-native output are completely different jobs. The first only asks that you know how to call a model. The second needs an environment where the build-and-check loop turns without snagging.
 
-The slow, interrupted, locked-down corporate environment is that loop's biggest enemy. And at its center sits VDI. So when the output won't come, don't doubt your own skill first. The first thing to look at is the constrained environment around you, that execution friction. Whoever loosens it ends up making more, and faster.
+The slow, interrupted, locked-down corporate environment is that loop's biggest enemy. And at its center sits VDI. So when the output will not come, inspect the constrained execution environment before blaming your own skill. Whoever loosens that friction ends up making more, and faster.

@@ -52,9 +52,9 @@ Pero en la práctica pasa esto. Cuanto más honesto es un empleado, más se cans
 
 Una regla, al final, es un documento que dice "esta conducta es barata y esta otra es cara". En el momento en que añades tres pasos de aprobación, sube el "precio" de la conducta de reclamar honestamente. Cuando un precio sube, la gente evita esa conducta o busca un atajo para hacerla más barata. Quien hizo la regla cree que subió el precio del fraude, pero en realidad subió también, de paso, el precio de la honestidad. Así, una regla hecha con buena intención fomenta en silencio las triquiñuelas y los atajos ocultos. No es que la regla sea mala. Es que también cambió el precio de una conducta que no tenía intención de cambiar.
 
-## Sin un papel, por bueno que seas, te quedas fuera
+## Sin una credencial, por bueno que seas, te quedas fuera
 
-El mundo laboral que se aferra a los títulos también se lee con claridad si lo miras con esta misma mirada. Hay trabajos que ni siquiera puedes empezar sin un título. Por bueno que seas, sin ese papel no te admiten; y aunque seas del montón, si tienes el papel, al menos te consideran.
+El mundo laboral que se aferra a los títulos también se lee con claridad si lo miras con esta misma mirada. Hay trabajos que ni siquiera puedes empezar sin un título. Por bueno que seas, sin esa credencial no te admiten; y aunque seas del montón, si tienes esa credencial, al menos te consideran.
 
 La justificación original del título es garantizar la calidad. Impedir que cualquiera lo haga a la ligera para proteger a la gente. Y de hecho cumple ese papel. Pero, al mismo tiempo, es también una restricción de acceso. A quien ya tiene el título le reduce los competidores; a quien no lo tiene le encarece el ingreso. Por eso, en ciertos oficios, la gente gasta más fuerza en conseguir ese título que en hacer bien el trabajo. Es natural, porque el premio más grande está puesto sobre la conducta de obtener el título.
 

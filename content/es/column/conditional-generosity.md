@@ -26,7 +26,7 @@ Durante un tiempo creí que esto era una contradicción sin salida. Pensaba que 
 
 Este texto desarrolla esa sola frase. Por qué ahora la buena persona empieza a ganar. Por qué dar sin medida no es ser bueno. Cómo apartar al canalla. Y hacia dónde hay que desviar ese impulso de criticar y de hablar mal a espaldas que de pronto te sube.
 
-## La buena persona gana por el registro
+## Cuando queda registro, la bondad se vuelve reputación
 
 Últimamente se oye mucho eso de que "la bondad es competitividad". Lo dicen Jensen Huang, Elon Musk, gente parecida. Pero que ellos lo digan no lo convierte en prueba. Solo son personas que llegaron antes a la misma conclusión. La razón de verdad está en otro lado. Son tres.
 

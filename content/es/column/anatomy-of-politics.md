@@ -17,7 +17,7 @@ Cuando miento, se me nota todo en la cara. Los elogios que no siento y las frase
 
 Lo pensé durante mucho tiempo. Pero cuanto más lo miraba, más distinta se veía la respuesta. Quien no sabe decir frases vacías también puede ganarse a la gente. Solo tiene que pasar del modo de engañar con palabras al modo de prometer y cumplir.
 
-## La gente mira primero de qué lado estás, no la lógica
+## La gente mira primero si estás de su lado, antes que la lógica
 
 En política, la gente no lee primero la lista de políticas. Primero pregunta: ¿esta persona está de nuestro lado? ¿Conoce mi dolor? ¿Dice en voz alta mi inquietud?
 
@@ -51,7 +51,7 @@ La capacidad de ganar votos y la de sacar adelante el trabajo son distintas. En 
 
 Para hacer política hay que reconocer esa diferencia. Hay que saber si uno es alguien que gana el corazón de la gente o alguien que hace funcionar el trabajo. Si es difícil hacer bien ambas cosas solo, hay que tener al lado a quien complete el lado que falta.
 
-## Quien no sabe decir frases vacías queda en desventaja en el modo rápido
+## Quien no sabe decir frases vacías no gana rápido solo con palabras bonitas
 
 Alguien como yo queda en desventaja en la política que avanza rápido a base de palabras. Me cuesta ensalzar a alguien en el momento, repartir palabras agradables y lanzar promesas ambiguas con seguridad. Se me nota en la cara.
 

@@ -19,7 +19,7 @@ For a while I thought those two feelings could not go together. If I was good, I
 
 Living well does not mean handing yourself over to anyone. It means cooperating first, but not cooperating again with someone who takes advantage of it. This piece is for setting that standard.
 
-## Good people win because the world leaves records
+## When records remain, good behavior becomes reputation
 
 Being good is not about repeating something from a moral textbook. Goodness has become a real advantage now. The reason is simple: relationships leave records.
 

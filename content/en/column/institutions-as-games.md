@@ -52,9 +52,9 @@ But here is what happens on the ground. The more honest the employee, the more t
 
 A rule is, in the end, a document that writes down which actions are cheap and which actions are expensive. The instant you add three approval steps, the "price" of filing an honest claim goes up. When the price goes up, people either avoid the action or find a cheaper way around it. The rule maker believes he raised the price of fraud, but what he actually did was raise the price of honesty right alongside it. That is how a rule made with good intentions quietly produces workarounds and evasions. It isn't because the rule is bad. It is because the rule also changed the price of behavior it never meant to change.
 
-## No Piece of Paper and You're Shut Out, No Matter How Good You Are
+## Without a Credential, Skill Alone Does Not Open the Door
 
-The job world that depends on credentials reads cleanly the same way. In some lines of work you can't even start without a certificate. No matter how skilled you are, without that one piece of paper you can't get in. And even if your skill is only so-so, with that paper you are allowed in.
+The job world that depends on credentials reads cleanly the same way. In some lines of work you can't even start without a certificate. No matter how skilled you are, without the credential you can't get in. And even if your skill is only so-so, with the credential you are allowed in.
 
 The original justification for a credential is quality assurance. It keeps just anyone from doing harm, so it protects people. It does play that role in practice. But at the same time it restricts entry. For the people already inside, it cuts down their competition. For the people outside, it makes the price of getting in expensive. So in some fields people pour more energy into getting past that barrier than into actually doing the work well. The biggest reward is attached to the act of getting the credential, so of course they do.
 

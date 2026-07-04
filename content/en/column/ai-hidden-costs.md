@@ -76,7 +76,7 @@ Then the answer splits. If the stakes are high, the choices are many, and you wi
 
 The token bill is really only the shadow of a bigger problem. The real problem is fake productivity.
 
-Suppose you spent all day making twenty versions, pulling summaries, tidying up meeting notes. But if not a single decision got made that day, and nothing got faster, that is not productivity. It is just a tall pile of digital paper. It looks busy, but nothing moved forward.
+Suppose you spent all day making twenty versions, pulling summaries, tidying up meeting notes. But if not a single decision got made that day, and no work was shipped or executed faster, that is not productivity. It is just a tall pile of digital paper. It looks busy, but it did not change the actual work.
 
 AI earns its keep only when it shrinks the work. If output grew but decisions did not get any faster, that is not automation. It is louder noise. The volume goes up and the work stays exactly where it was.
 

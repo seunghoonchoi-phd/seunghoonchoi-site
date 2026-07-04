@@ -27,7 +27,7 @@ The seven basic skills underneath that are:
 - Learning and adaptation
 - Relationship and trust building
 
-If even one of these is missing, work shakes easily. But something sits above them. In the end, the person assigning work is not only judging the output. They are judging whether this is a person they can trust with the work. The more intelligence is outsourced to AI, the more the difference comes from EQ, trust, reputation, and being remembered as someone people want to work with.
+If even one of these is missing, the work easily goes wrong. But something sits above them. In the end, the person assigning work is not only judging the output. They are judging whether this is a person they can trust with the work. The more intelligence is outsourced to AI, the more the difference comes from EQ, trust, reputation, and being remembered as someone people want to work with.
 
 ## If the goal is wrong, AI answers go the wrong way too
 

@@ -11,11 +11,11 @@ series: "ai-replacement-stages"
 weight: 2
 reviewStatus: "done"
 ---
-![The first work AI replaces: mental work with right answers disappears first](/images/col-ai-replacement-stages-1.jpg)
+![The first work AI replaces: knowledge work with checkable answers is automated first](/images/col-ai-replacement-stages-1.jpg)
 
 <p class="inline-image-caption">Tasks for which the correct answer is set are the first to be automated, regardless of the pride of the person in charge.</p>
 
-Will AI take my work? To answer that, first look at the order. AI does not take work at random. Some work is replaced first, and other work shakes much later. The first work to shake is work with right answers.
+Will AI take my work? To answer that, first look at the order. AI does not take work at random. Some work is replaced first, and other work faces pressure much later. The first work to face pressure is work with answers that can be checked.
 
 Is the translation right? Does the code run? Is the calculation correct? Was the diagnosis correct? Did the ad copy create clicks? In this kind of work, the result can be checked. If the result can be checked, it can be scored. If it can be scored, AI learns quickly.
 
@@ -23,7 +23,7 @@ When a person is wrong once, they lose time, lose motivation, and take a while t
 
 This piece covers the first five stages of AI taking work.
 
-Stage 1 is work with fixed answers. Stage 2 is expert analysis. Stage 3 is predicting public response. Stage 4 is work handled from beginning to end by itself. Stage 5 is work where human review only slows things down.
+Stage 1 is work with fixed answers. Stage 2 is expert analysis. Stage 3 is predicting public response. Stage 4 is work that connects several steps. Stage 5 is work where human review only slows things down.
 
 All of these move in the same direction. Work that creates, checks, corrects, and processes answers gradually moves to AI.
 
@@ -63,13 +63,13 @@ Public response does not have one fixed answer. But click-through rate, purchase
 
 <p class="inline-image-caption">In tasks where click behavior can be recorded as a score, AI quickly obtains the data needed for repeat experiments.</p>
 
-## Stage 4, work handled from beginning to end by itself
+## Stage 4, work that connects several steps
 
 Early AI handled small pieces: one sentence, one line of code, one summary. But AI increasingly handles work from beginning to end. Give it a goal and it plans, finds needed material, drafts, revises, and produces the result. At this stage, AI is no longer only a tool that gives answers. It becomes an executor that connects several steps.
 
 In the past, people split the work: find material, organize it, make the document, fit the format, submit it, pass it to the next step. Now AI can handle that flow in one bundle. Inside a company, middle execution work shrinks. The small steps a person handled directly get bundled into automation. People move toward deciding "what should be done" and "what standard counts as done." This is the moment when "write this sentence" becomes "achieve this goal."
 
-This change is frightening not because one or two tasks disappear. It shakes the seat of the person who connected many small tasks. The middle-processing work of finding, organizing, putting into forms, and making something reportable shrinks. Of course AI cannot complete every job fully. Authority, security, responsibility, organizational context, and final approval remain. But the number of people needed for the middle stages of moving work can fall.
+This change is frightening not because one or two tasks disappear. It can reduce the role of the person who connected many small tasks. The middle-processing work of finding, organizing, putting into forms, and making something reportable shrinks. Of course AI cannot complete every job fully. Authority, security, responsibility, organizational context, and final approval remain. But the number of people needed for the middle stages of moving work can fall.
 
 ## Stage 5, work where human review only slows things down
 
@@ -83,16 +83,16 @@ People who take responsibility, judge what matters, make final decisions while a
 
 At that moment, the reviewer's seat quietly shrinks.
 
-## Why work with right answers shakes first
+## Why work with checkable answers is automated first
 
 Stages 1 through 5 can be tied into one sentence: work with right answers is replaced first. A right answer does not mean there is only one answer. It means the result can be checked, feedback can be given, and the direction of a better answer narrows over time.
 
 Translation, summarization, coding, diagnosis, analysis, recommendation, advertising, predicting public response, repeated approval, and low-risk automatic processing all have answers that converge to some degree. When answers converge, AI learns through repetition. When AI learns through repetition, it gets cheaper and faster. When it gets cheaper and faster, human seats shrink. The human seat moves elsewhere: choosing the problem, taking responsibility, reading real-world context, holding authority, and accepting losses when wrong.
 
-So "I am good at my work" is not enough. If the work is one whose answer converges, the good person is compared with AI first. And when AI becomes cheap and fast enough, even the value of a good person shakes.
+So "I am good at my work" is not enough. If the work is one whose answer converges, the good person is compared with AI first. And when AI becomes cheap and fast enough, even the value of a good person falls.
 
 ## To the next part
 
-This is the front section of AI taking work. First, work with fixed answers shakes. Then expert analysis shakes. Then work predicting public response shakes. Then AI handles several steps by itself. Finally, in some areas, even the seat of the person who checks once more shrinks.
+This is the front section of AI taking work. First, work with checkable answers is automated. Then expert analysis, public-response prediction, and work that connects several steps are automated in order. Finally, in some areas, even the seat of the person who checks once more shrinks.
 
 The next question is natural. Is work done with the body safe? Can hand skill and field sense resist AI easily? In the next piece, I look at stages 6 to 8: repetitive physical labor, hand skill and field trial and error, and judgment and sense without clear answers.

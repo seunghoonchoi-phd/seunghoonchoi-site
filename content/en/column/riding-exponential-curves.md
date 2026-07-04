@@ -45,9 +45,9 @@ A bad asset makes you start over every time. You sell it once and it is over. Yo
 
 You do not need to move large sums or build a company from the start. Leave behind outputs from the work you already do that do not disappear. If they accumulate, they later become assets that bring in money and opportunity. Every kind of work has a way to become an asset. If you write, leave records. If you code, make tools. If you do research, leave data and papers. If you speak well, turn it into lectures and content. A person good at work can leave their process as a template. The result of work has to remain. If it stays under my name, is reused, is sold again, and brings the next opportunity, it is an asset. Work should not end when the work ends. The trace of the work should keep helping me.
 
-## The most dangerous word is "later"
+## Saying "later" delays compounding too
 
-"Later" is a comfortable word. It gives you a reason not to do it now. But the later you start building assets, the more disadvantaged you become. Compounding needs time to build up.
+"I will do it later" easily becomes an excuse not to act now. But the later you start building assets, the more disadvantaged you become. Compounding needs time to build up.
 
 You do not need to build a large asset from the beginning. Buy a little ownership each month. Make a little remaining output each week. What matters is direction: reduce the share that disappears into consumption, and increase the share that remains and grows.
 

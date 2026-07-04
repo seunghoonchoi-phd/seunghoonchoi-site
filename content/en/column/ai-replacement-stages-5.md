@@ -27,7 +27,7 @@ We usually believe this:
 
 If I build skill, I survive. If I do better, I will not be pushed out. If I am better than others, I will continue to be needed.
 
-Until now, that was somewhat true. Faster and more accurate people took more work. But in the AI era, this belief shakes. Translation, coding, summarization, analysis, and image diagnosis were once the work of skilled people. Now the very act of being good is becoming the area AI catches first.
+Until now, that was somewhat true. Faster and more accurate people took more work. But in the AI era, this belief is no longer enough. Translation, coding, summarization, analysis, and image diagnosis were once the work of skilled people. Now the very act of being good is becoming the area AI catches first.
 
 Abilities with right answers, repeatable practice, and checkable results eventually enter machines. So skill only gets you started. It lets you begin the work. It does not guarantee that you can keep doing it.
 
@@ -45,11 +45,11 @@ But when an accident happens, AI does not go to prison. The person is the one wh
 
 Who stamps the final approval? Who takes responsibility? Whose approval finishes the work? What qualification is needed to sit there?
 
-Credentials matter in the AI era not because of the paper itself. They matter because of the responsibility and authority attached to that paper.
+Credentials matter in the AI era not because of the certificate itself. They matter because of the responsibility and authority attached to that credential.
 
-## Ownership lasts longer than skill
+## Ownership does not disappear just because skill is automated
 
-The second thing is ownership. Ability can be replaced. A right you own shakes much later. AI can catch up with the ability to write well. But the copyright to a book I wrote does not immediately disappear.
+The second thing is ownership. Ability can be replaced. A right you own lasts longer. AI can catch up with the ability to write well. But the copyright to a book I wrote does not immediately disappear.
 
 The ability to make products can become common. But the equity I hold in a company remains. The skill of making content can become common. But the audience, brand, data, and distribution channel I built remain. So the important thing is turning ability into outputs.
 
@@ -65,11 +65,11 @@ So in the AI era, it is not enough to ask, "What will I be good at?" Ask, "What 
 
 <p class="inline-image-caption">In the AI ​​era, not only those who do the work well, but also those who take legal and organizational responsibility for the results have authority.</p>
 
-## Top stars and ordinary workers are playing different games
+## Do not copy the top-star model as it is
 
 The example many people think of here is entertainment. When you look at top stars like Suzy or Karina, people still watch that person even if AI can make songs and videos. Fans do not buy only one finished song. Money attaches to the fact that the person stands on stage, brands choose that face, and the public remembers that name.
 
-But an ordinary worker is in a different game. If the task is only "make this image," "write this text," or "summarize this data," AI can move into the center. The difference is not that stars have talent and office workers do not. The difference is the game board. Top stars have name, audience, contracts, copyright, likeness, and distribution channels bundled together. Ordinary workers are often left with only the assigned task.
+But an ordinary worker stands in a different position. If the task is only "make this image," "write this text," or "summarize this data," AI can move into the center. The difference is not that stars have talent and office workers do not. The difference is the structure around the work. Top stars have name, audience, contracts, copyright, likeness, and distribution channels bundled together. Ordinary workers are often left with only the assigned task.
 
 ## The person in the principal seat and the person in the dependent seat are different
 
@@ -83,13 +83,13 @@ Am I inside a structure I understand? Do I have the right to decide? Is there a 
 
 In the AI era, the important thing is not becoming someone protected. If possible, it is moving toward the principal seat.
 
-## Keep the floor solid, and move boldly above it
+## Build a safety floor, then make small bold experiments
 
 Then what should you do? First, make the floor solid. The AI era changes quickly. You do not know which ability will become common when. Work that looks safe now may become ordinary in a few years. So you need a floor that does not collapse from one hit.
 
 Emergency savings. Reduced debt. Low fixed costs. A life structure that can hold even if income falls for a while.
 
-These are not flashy. But they matter. Without a floor, one failure ends everything. Then you cannot try new things. If you are not safe, you cannot be bold. After making the floor solid, move boldly above it.
+These are not flashy. But they matter. Without a floor, one failure ends everything. Then you cannot try new things. If you are not safe, you cannot be bold. After making the floor solid, try small experiments boldly.
 
 Try new tools, make small projects, accumulate content, experiment with automated services, and create outputs that remain under your name. If you only seek safety, you gain nothing. If you only chase risk, you can collapse in one hit. Keep the floor safe and the attempts bold.
 
@@ -109,7 +109,7 @@ The core is not leaving skill as skill. Convert skill into credentials, responsi
 
 The conclusion of the previous pieces gathers into one thing. AI keeps taking what it can take.
 
-Work with right answers is replaced first. Repeated work is replaced too. Body work is slowly replaced. Work requiring judgment and sense shakes. Decision authority moves little by little. Ownership and human interests become the final question.
+Work with right answers is replaced first. Repeated work is replaced too. Body work is slowly replaced. Work requiring judgment and sense is also gradually handled by AI. Decision authority moves little by little. Ownership and human interests become the final question.
 
 Then an individual's strategy must change too. Becoming a more skilled person is not enough. Skill is necessary, of course. But skill is the starting point. What remains to the end is not skill. It is position.
 

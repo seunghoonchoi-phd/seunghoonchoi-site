@@ -4,7 +4,7 @@ date: 2026-06-21T17:44:27+09:00
 draft: false
 categories: ["AI"]
 tags: ["AI", "automation", "jobs", "future", "survival strategy", "career"]
-subtitle: "AI does not take work at random. It shakes work in order: tasks where answers converge, responsibility, control, ownership, value judgment, and finally the question of human existence."
+subtitle: "AI does not take work at random. It replaces work in order: tasks where answers converge, responsibility, control, ownership, value judgment, and finally the question of human existence."
 seoTitle: "The Order AI Takes Work, from Right Answers to Human Existence"
 image: /images/col-ai-replacement-stages.jpg
 series: "ai-replacement-stages"
@@ -19,7 +19,7 @@ Will AI take my work?
 
 This is no longer a joke. Machines already translate. AI writes code with us. In hospitals, AI scans images first, and people watch videos and read posts AI recommended.
 
-Then what comes next? When does my work get its turn? The important point is that AI does not take work at random. Some work is replaced first, and other work shakes much later. There is a reason for the order. This piece is the full map of the 16 stages in which AI takes work.
+Then what comes next? When does my work get its turn? The important point is that AI does not take work at random. Some work is replaced first, and other work faces pressure much later. There is a reason for the order. This piece lays out the 16 stages in which AI takes work.
 
 ## The work AI takes first has something in common
 
@@ -51,7 +51,7 @@ Choosing ad copy, comparing thumbnails, segmenting customers, building recommend
 
 So what is replaced at this stage is not the ability to completely understand one person. It is the work of predicting many people's responses and optimizing content, ads, and recommendations from that prediction.
 
-## Stage 4, work handled from beginning to end by itself (agentic LLM)
+## Stage 4, work that connects several steps
 
 Early AI handled small pieces: one sentence, one line of code, one summary. But AI increasingly handles work from beginning to end. Give it a goal and it plans, finds needed material, drafts, revises, and produces the result. At this stage, intermediary coordination roles shrink. People do not give every small instruction. Their role shifts toward setting the goal and standard.
 
@@ -65,13 +65,13 @@ What disappears at this stage is not every human role. It is the role of "the pe
 
 ## Stage 6, repetitive physical labor
 
-AI replacement does not end with mental work. It moves to physical work. Robots move items in warehouses, repeat the same motions in factories, handle simple responses in stores, and take on repeated patterns such as cleaning and assembly. The more repetitive the work and the more controlled the environment, the earlier it moves. Factories, warehouses, and kitchens change faster because the environment can be designed.
+AI replacement does not stop at knowledge work. It also moves to physical work. Robots move items in warehouses, repeat the same motions in factories, handle simple responses in stores, and take on repeated patterns such as cleaning and assembly. The more repetitive the work and the more controlled the environment, the earlier it is automated. Factories, warehouses, and kitchens change faster because the environment can be designed.
 
 Using the body does not make work safe. Repetitive body work is actually a good target for AI and robots.
 
 ## Stage 7, hand skill and field trial and error
 
-Hand skill and field sense move more slowly. Welding, piping, repair, construction, fine assembly, and medical procedures are jobs where one real-world failure carries a high cost. They do not end just because AI has watched many videos. The work has to be tried in reality. If it fails, material is ruined, time is lost, and accidents can happen.
+Hand skill and field sense are automated more slowly. Welding, piping, repair, construction, fine assembly, and medical procedures are jobs where one real-world failure carries a high cost. They do not end just because AI has watched many videos. The work has to be tried in reality. If it fails, material is ruined, time is lost, and accidents can happen.
 
 So AI learns slowly. This does not mean it will never catch up. It means it arrives late because practice in reality is expensive.
 
@@ -131,7 +131,7 @@ What is fair? Whom should we help first? Which risk should we accept? What kind 
 
 These questions do not have right answers. So it is hard to say AI is "more accurate." Human society has to decide what it values. But at some point, people may try to hand even these judgments to AI. If problems become too complex, interests too tangled, and human judgment too distrusted, that can happen. This stage does not arrive because AI replaces humans by capability alone. It arrives when people hand it over themselves.
 
-## Stage 15, the frame of ownership shakes
+## Stage 15, who will protect ownership?
 
 One of the last grounds on which people believe they can endure is ownership: my land, my house, my company, my money, my rights. But ownership is not a physical fact. It is a social promise. Someone has to recognize and protect that right for it to mean anything.
 
@@ -153,4 +153,4 @@ At first, people remain because they are better. Then because they must take res
 
 In other words, the reason people remain moves from ability to responsibility, from responsibility to control and ownership, from control and ownership to value judgment, and finally to existence. So "I am fine because I do the work better than AI" cannot hold for long. Ability is eventually caught. What matters is what responsibility I bear, what authority I hold, what assets and relationships I have, which controlled area I stand inside, and how we build a structure where humans continue to matter.
 
-This piece is the full map. Starting with the next piece, I will look at each stretch in more detail. First comes mental work with clear answers. Let us look at why work that is easy to check, such as translation, coding, and diagnosis, moves first.
+This piece laid out the full order. Starting with the next piece, I will look at each stretch in more detail. First comes knowledge work with clear answers. Let us look at why work that is easy to check, such as translation, coding, and diagnosis, is automated first.

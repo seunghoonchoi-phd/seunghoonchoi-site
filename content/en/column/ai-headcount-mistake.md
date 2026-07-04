@@ -18,7 +18,7 @@ The problem is not that AI cannot work. It is the opposite. AI can do more than 
 
 ## Even when AI works, responsibility and context remain
 
-AI can create a large part of the output for a role. It writes reports, analyzes, makes slides, and codes. It will do more. But in a company, the important question is not only "can it make this?"
+AI can create a large part of the output for a role. It writes reports, analyzes, makes slides, and codes. It will do more. But a company does not judge the work only by whether AI can create the output.
 
 Can this report go up at this timing? Can this number be interpreted this way? How will a customer receive this sentence? Will another department push back if we use this expression? Is there anything legal will object to? Does it match the direction the senior person actually wants?
 
@@ -28,9 +28,7 @@ These are not simple writing problems. They are questions of whether an output c
 
 "AI can write the draft." That is true. Simple drafts, summaries, formatting, and repeated documentation really do shrink. There is no need to deny that. But a fast draft does not mean the work is finished.
 
-Someone has to read that draft. They have to verify wrong numbers, add missing conditions, rewrite it in the company's internal language, check whether it can be sent to customers, and look for security or legal issues.
-
-The more important thing is context.
+Someone has to read that draft. They have to verify wrong numbers, add missing conditions, rewrite it in the company's internal language, check whether it can be sent to customers, and look for security or legal issues. In the end, someone still has to check the context.
 
 An AI-written sentence may be correct by itself, but wrong in the current organizational situation. A claim may be true, but not something to raise right now. The number may be right, but the interpretation may be risky. A proposal may be good, but budget, authority, schedule, or interests may make execution impossible.
 

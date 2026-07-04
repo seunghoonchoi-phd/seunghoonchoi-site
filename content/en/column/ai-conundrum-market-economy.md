@@ -51,7 +51,7 @@ If we miss that one line, we misunderstand the AI economy. It is not enough to s
 
 At first, the stock market may like it. If companies say, "AI raised productivity, we do not need to hire as many people, and margins are improving," investors may applaud. If revenue stays the same and costs fall, profit margins look better. But over time, another question appears. Where are the consumers?
 
-AI can lower prices. The problem is that lower prices are not enough compensation for someone who lost income. If a person's monthly paycheck is shaken, saving a few dollars on an app subscription does not stabilize life. Rent, healthcare, education, insurance, and loan payments do not fall immediately just because AI gets better.
+AI can lower prices. The problem is that lower prices are not enough compensation for someone who lost income. If a person's monthly paycheck shrinks or disappears, saving a few dollars on an app subscription does not stabilize life. Rent, healthcare, education, insurance, and loan payments do not fall immediately just because AI gets better.
 
 A jobless boom can look impressive in the numbers. But people do not live on average productivity. They live with this month's rent and next month's job postings. If wage income weakens, consumption weakens. If consumption weakens, corporate revenue starts to weaken as well. Then one question remains: margins improved, but where is the revenue growth?
 
@@ -109,4 +109,4 @@ AI raises productivity. That much is almost certain. But higher productivity doe
 
 If they do not, AI can become a technology that lets us make more with fewer people while also reducing the number of people who can afford to buy what gets made. The technology succeeds, and the market still becomes unstable.
 
-So the question we should ask is no longer "How smart will AI get?" The questions are more concrete now. What physical problem will AI solve? Who will keep paying for that solution? And whose income will that money become? If we cannot answer those three questions, AI can succeed and still shake the market.
+So the question we should ask is no longer "How smart will AI get?" The questions are more concrete now. What physical problem will AI solve? Who will keep paying for that solution? And whose income will that money become? If we cannot answer those three questions, AI can succeed and still weaken the market's investment logic.

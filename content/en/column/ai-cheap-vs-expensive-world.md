@@ -37,7 +37,7 @@ The larger problem is danger. A failed weld is not just a wrong answer. It can l
 
 Then the learning structure machines like breaks down. They need many attempts to learn, but they cannot fail many times. They need fast results to correct themselves, but the results come late or only partly show. The most important failure data can be too dangerous to create deliberately.
 
-In Go, you can make a million bad moves. In welding, you cannot make a million bad welds. That is why automation that handles real equipment is slower than automation that stays inside software.
+In Go, you can make a million bad moves. In welding, you cannot make a million bad welds. That is why automation that handles real equipment is slower than automation where you can check documents, code, and logs, then fix them again.
 
 ## Humans infer causes from a few clues
 

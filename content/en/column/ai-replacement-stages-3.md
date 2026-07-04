@@ -13,7 +13,7 @@ reviewStatus: "done"
 ---
 ![Decision authority does not move all at once: stages 9 to 14 of AI taking work](/images/col-ai-replacement-stages-3.jpg)
 
-<p class="inline-image-caption">The right to make a decision is not determined solely by the performance table, but is limited by whether there is someone responsible in the event of an accident.</p>
+<p class="inline-image-caption">Decision authority does not move just because a table says AI performs better. Someone must be named to take responsibility when an accident happens.</p>
 
 When you get an MRI at a hospital, the suspicious areas may be marked on the screen first. AI scans the image and points to spots that look abnormal. But the person who writes their name at the bottom of the diagnosis and takes responsibility is still the doctor. AI saw the image first. AI found the abnormal region. But the final decision authority remains with a person.
 
@@ -91,7 +91,7 @@ This does not happen all at once. It moves differently by field, by regulation, 
 
 Still, replacement does not stop. The actor doing the replacement shifts from individual users to states, large companies, and approved organizations. So the seat that remains for humans is not simple user. It is the seat that holds authority, bears responsibility, controls, and owns. Everything whose answer converges eventually moves toward AI. But decisions with no right answer, decisions that require responsibility, and decisions society must permit move slowly.
 
-That slow movement is the core of stages 9 through 14. In the next part, this flow goes deeper. AI begins not only to take work, but to shake ownership and the interests between AI and humans.
+That slow movement is the core of stages 9 through 14. In the next part, this flow goes deeper. Beyond work automation, ownership and the interests between AI and humans become the next problem.
 
 Series: The 16 Stages of AI Job Replacement, Part 3
 

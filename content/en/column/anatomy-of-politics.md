@@ -17,7 +17,7 @@ When I lie, it shows all over my face. Praise I do not mean, and soulless diplom
 
 I thought so for a long time. But the deeper I looked, the answer was a little different. A person who cannot make empty talk can still win people's hearts. They just have to move away from deceiving with words and toward promising and keeping.
 
-## People see sides before logic
+## People ask who is on their side before they follow logic
 
 In politics, people do not read the policy table first. They ask first: is this person on our side? Do they know my pain? Do they speak my anxiety for me?
 
@@ -51,7 +51,7 @@ The ability to win votes and the ability to get the work done are different. In 
 
 To enter politics you have to admit this difference. You have to know whether you are a person who wins hearts or a person who actually keeps the work running. If it is hard to do both well alone, you have to keep someone beside you who fills the weaker side.
 
-## A person who cannot make empty talk is at a disadvantage in the fast way
+## A person who cannot fake warmth has trouble winning people quickly with words
 
 A person like me is at a disadvantage in politics that pushes ahead quickly with words. It is hard to flatter the other side on the spot, scatter pleasing words, and throw out vague promises with confidence. It shows on my face.
 

@@ -192,7 +192,7 @@ function renderOnboarding() {
         '이 앱은 속독 미신(시야 확장, 1만 WPM) 없이, 근거가 검증된 방법만 씁니다 — 자세한 근거는 「원리」 탭에.'))));
 }
 
-// 배치 테스트: 중간 난이도(티어 3) 지문 1편 → ERR 측정 → 레벨 추천 (기준선 기록으로도 저장)
+// 배치 테스트: 중간 난이도(티어 3) 지문 1편 → ERR(Effective Reading Rate) 측정 → 레벨 추천
 function placement() {
   const p = content.passagesFor(lang, 3).length ? content.pickPassage(lang, 3) : content.pickPassage(lang, null);
   if (!p) { alert('지문 데이터를 불러오지 못했습니다.'); return; }
@@ -255,7 +255,7 @@ function renderHome() {
         h('span', { class: 'metric__lbl' }, '연속일')),
       h('div', { class: 'metric' },
         h('span', { class: 'metric__num' }, lastErr != null ? String(lastErr) : '—'),
-        h('span', { class: 'metric__lbl', title: 'ERR(유효 읽기속도) = 속도 × 이해율' }, lang === 'zh' ? 'ERR · 자/분' : 'ERR · WPM')),
+        h('span', { class: 'metric__lbl', title: 'ERR(Effective Reading Rate, 이해도 반영 읽기 속도) = 속도 × 이해율' }, lang === 'zh' ? 'ERR · 자/분' : 'ERR · WPM')),
       h('div', { class: 'metric' },
         h('span', { class: 'metric__num' }, String(todayN)),
         h('span', { class: 'metric__lbl' }, '오늘 세션'))),
@@ -426,7 +426,7 @@ function renderMyTexts() {
       h('button', { class: 'iconbtn', title: '삭제', 'aria-label': '삭제', onClick: () => { if (confirm(`'${t.title}' 글을 삭제할까요?`)) { store.removeMyText(t.id); renderMyTexts(); } } }, icon('trash', { size: 18 }))),
     h('div', { class: 'btnrow', style: { marginTop: '10px' } },
       h('button', { class: 'btn btn--primary', onClick: () => { clear(view); drillActive = true; conquer.render(view, t.lang, backToTexts, t); } }, '정복 모드'),
-      h('button', { class: 'btn', onClick: () => runCustomERR(t) }, '정독(ERR)'),
+      h('button', { class: 'btn', onClick: () => runCustomERR(t) }, '이해도 반영 정독'),
       h('button', { class: 'btn', onClick: () => { clear(view); drillActive = true; triage.render(view, t.lang, backToTexts, t); } }, '논문 3-패스'),
       h('button', { class: 'btn btn--ghost', onClick: () => runCustomRecall(t) }, '자기설명·인출'))))
     : [h('div', { class: 'empty' }, '저장한 글이 없습니다. 위에 붙여넣어 보세요.')];
@@ -601,7 +601,7 @@ function renderProgress() {
 
   mount(view, h('div', { class: 'fade-in' },
     h('h1', { class: 'h1' }, '기록'),
-    h('p', { class: 'lead' }, (lang === 'en' ? 'English' : '中文') + ' 진행 상황. ERR(유효 읽기속도)과 이해도(정독 vs 훑기)를 분리해 정직하게 봅니다.'),
+    h('p', { class: 'lead' }, (lang === 'en' ? 'English' : '中文') + ' 진행 상황. ERR(Effective Reading Rate, 이해도 반영 읽기 속도)와 이해도(정독 vs 훑기)를 분리해 정직하게 봅니다.'),
 
     h('div', { class: 'card' },
       h('div', { class: 'row spread', style: { alignItems: 'center', marginBottom: '4px' } },
@@ -618,8 +618,8 @@ function renderProgress() {
         : '검증된 절대점수가 아니라 활동·이해 기록에서 추정한 상대 프로필입니다. 가장 짧은 축이 다음에 집중할 영역입니다.')),
 
     h('div', { class: 'card' },
-      h('h2', { class: 'h2' }, 'ERR 추이 (유효 읽기속도 = 속도 × 이해율)'),
-      fullErr.length > 1 ? sparkline(fullErr, 340, 64) : h('p', { class: 'muted small' }, 'ERR 정독을 몇 번 하면 추이가 그려집니다.'),
+      h('h2', { class: 'h2' }, 'ERR 추이 (Effective Reading Rate = 속도 × 이해율)'),
+      fullErr.length > 1 ? sparkline(fullErr, 340, 64) : h('p', { class: 'muted small' }, '이해도 반영 정독을 몇 번 하면 추이가 그려집니다.'),
       h('div', { class: 'stat-row', style: { marginTop: '12px' } },
         stat(fullErr.length ? Math.round(fullErr[fullErr.length - 1]) : '—', '최근 ERR'),
         stat(fullErr.length ? Math.round(Math.max(...fullErr)) : '—', '최고 ERR'),

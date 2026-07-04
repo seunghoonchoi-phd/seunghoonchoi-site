@@ -37,7 +37,7 @@ El problema más grande es el riesgo. Un fallo en soldadura no termina como una 
 
 Entonces se rompe la estructura de aprendizaje que le conviene a la máquina. Para aprender necesita muchos intentos, pero no puede fallar muchas veces. Para corregir necesita saber pronto el resultado, pero el resultado puede llegar tarde o verse solo en parte. Los datos de fracaso más importantes son peligrosos de crear a propósito.
 
-En Go puedes jugar un millón de malas jugadas. En soldadura no puedes crear un millón de malas soldaduras. Por eso la automatización que maneja equipos reales avanza más lento que la automatización que se queda dentro del software.
+En Go puedes jugar un millón de malas jugadas. En soldadura no puedes crear un millón de malas soldaduras. Por eso la automatización que maneja equipos reales avanza más lento que la automatización donde puedes revisar documentos, código y registros, y luego corregirlos de nuevo.
 
 ## El humano infiere causas con pocas señales
 
