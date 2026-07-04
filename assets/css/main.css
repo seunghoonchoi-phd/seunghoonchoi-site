@@ -1112,6 +1112,7 @@ body.lang-ko .hero__name,body.lang-ko .brand__name,body.lang-ko .brand__mark,bod
 body.lang-ko .section__title,body.lang-ko .post__title,body.lang-ko .contact__title,
 body.lang-ko .card__title,body.lang-ko .featured__title,body.lang-ko .pinned__title,
 body.lang-ko .lede h2,body.lang-ko .post__body h2{font-weight:700;letter-spacing:-.02em}
+body.lang-ko .post__title{word-break:keep-all;overflow-wrap:break-word}
 body.lang-ko .lede h3,body.lang-ko .post__body h3,body.lang-ko .tl__body h4{font-weight:600;letter-spacing:-.01em}
 body.lang-ko .eyebrow,body.lang-ko .stat__label,body.lang-ko .subhead,body.lang-ko .appcard__free,body.lang-ko .featured__tag,body.lang-ko .pinned__tag{letter-spacing:.01em}
 body.lang-ko .nav__link{font-weight:500}
