@@ -804,6 +804,32 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
 @media (max-width:920px){
   .cards{grid-template-columns:repeat(2,1fr)}
 }
+/* Arabic navigation labels are long enough to collide in the desktop bar, so Arabic uses the drawer header at every width. */
+body.lang-ar .topbar{display:grid;grid-template-columns:minmax(0,1fr) auto;justify-content:normal;gap:10px;padding:0 14px}
+body.lang-ar .brand{grid-column:1;grid-row:1;width:100%;max-width:100%;gap:7px;overflow:hidden;flex-wrap:nowrap}
+body.lang-ar .brand__logo{width:34px;height:34px;flex:0 0 auto}
+body.lang-ar .brand__name{display:block;min-width:0;max-width:100%;overflow:hidden;text-overflow:ellipsis;font-size:17px;white-space:nowrap!important;word-break:normal;overflow-wrap:normal}
+body.lang-ar .topbar__right{grid-column:2;grid-row:1;justify-self:end;flex:0 0 auto;gap:8px}
+body.lang-ar .nav{position:fixed;inset:var(--header-h) 0 auto 0;flex-direction:column;align-items:stretch;gap:0;background:var(--paper-2);
+  border-bottom:1px solid var(--hair);padding:8px 0;transform:translateY(-120%);transition:transform .35s var(--ease);box-shadow:var(--shadow);max-height:calc(100vh - var(--header-h));overflow-y:auto}
+body.lang-ar .nav.is-open{transform:none}
+body.lang-ar .nav__link{padding:14px clamp(20px,5vw,56px);font-size:18px}
+body.lang-ar .nav__group{flex-direction:column;align-items:stretch}
+body.lang-ar .nav__toggle{width:100%;justify-content:space-between;padding:14px clamp(20px,5vw,56px)}
+body.lang-ar .nav__caret{display:inline-flex;align-items:center;justify-content:center;margin-left:auto;width:30px;height:30px;color:var(--navy);font-size:0;line-height:1;transition:transform .2s var(--ease),color .2s var(--ease)}
+body.lang-ar .nav__caret::before{content:"";width:12px;height:12px;border-right:2.5px solid currentColor;border-bottom:2.5px solid currentColor;transform:rotate(45deg) translate(-2px,-2px)}
+body.lang-ar .nav__group.is-open .nav__caret{transform:rotate(180deg);color:var(--copper)}
+body.lang-ar .nav__menu{position:static;transform:none;opacity:1;visibility:visible;pointer-events:auto;display:none;
+  background:transparent;border:0;border-radius:0;box-shadow:none;padding:0 0 6px;min-width:0}
+body.lang-ar .nav__group.is-open .nav__menu{display:block;transform:none}
+body.lang-ar .nav__menu::before{display:none}
+body.lang-ar .nav__sublink{padding:11px clamp(36px,8vw,72px);color:var(--ink-soft);text-align:right;border-top:0}
+body.lang-ar .admin-private-link--top{display:none}
+body.lang-ar .admin-private-link--mobile{display:block}
+body.lang-ar .hamburger{display:flex}
+body.lang-ar .hamburger[aria-expanded="true"] span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+body.lang-ar .hamburger[aria-expanded="true"] span:nth-child(2){opacity:0}
+body.lang-ar .hamburger[aria-expanded="true"] span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
 @media (max-width:920px){
   .topbar{display:grid;grid-template-columns:minmax(0,1fr) auto;justify-content:normal;gap:10px;padding:0 14px}
   .brand{grid-column:1;grid-row:1;width:100%;max-width:100%;gap:7px;overflow:hidden;flex-wrap:nowrap}
