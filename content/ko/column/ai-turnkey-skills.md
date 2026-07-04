@@ -1,5 +1,5 @@
 ---
-title: "AI 시대, 하나라도 빠지면 일이 흔들리는 7가지 역량. 그리고 이보다 더 중요한 것"
+title: "AI 시대 7가지 업무 역량: EQ·신뢰·평판이 마지막 차이를 만든다"
 description: "AI 시대에 필요한 7가지 업무 기본기와, 지능이 외주화될수록 더 중요해지는 EQ, 신뢰, 평판의 의미를 설명한다."
 date: 2026-06-24
 categories: ["AI"]
@@ -43,7 +43,7 @@ AI 시대의 병목은 기술 부족만이 아니다. 어디에서 결정이 늦
 
 ## 초안을 실제 결과물로 완성하는 사람이 필요하다
 
-![AI 시대, 하나라도 빠지면 일이 흔들리는 7가지 역량. 그리고 이보다 더 중요한 것](/images/inline/column-ai-turnkey-skills.jpg)
+![AI 시대 7가지 업무 역량: EQ·신뢰·평판이 마지막 차이를 만든다](/images/inline/column-ai-turnkey-skills.jpg)
 
 <p class="inline-image-caption">시간이 오래 걸리는 부분을 찾는 사람은 속도 자체보다, 다음에 무엇을 해야 하는지 분명히 정한다.</p>
 

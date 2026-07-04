@@ -1,11 +1,11 @@
 ---
-title: "AI Risk Grows with Speed: Automation Without Review Makes Accidents Bigger"
+title: "AI Automation Risk: Pre-Release Review Prevents Failures"
 date: 2026-06-23T20:22:55+09:00
 categories: ["AI"]
 tags: ["AI risk", "AI review", "security", "reputation", "legal"]
-subtitle: "AI makes writing and coding faster, but without pre-release review, legal, security, and reputation failures speed up too."
-description: "AI increases execution speed. Without a pre-release review step, legal, reputation, and security failures grow as well. Draft fast, but review strictly before release."
-seoTitle: "Why AI Risk Grows: Automation Without Review and Legal, Security, and Reputation Failures"
+subtitle: "AI makes writing and coding faster. Without pre-release review, unsupported claims, sensitive data, and cold-sounding messages can go out unchanged."
+description: "AI increases execution speed. If pre-release review is missing, unsupported claims, sensitive data, or cold-sounding messages can be published unchanged. Draft fast, then check evidence, sensitive information, and how the reader will receive it before release."
+seoTitle: "AI Automation Risk: Pre-Release Review for Legal, Security, and Reputation Failures"
 image: /images/col-ai-risk-leverage.png
 reviewStatus: "done"
 ---
@@ -61,7 +61,7 @@ Brand tone works the same way. Whether it is a personal website or a company acc
 
 Reputation failures usually do not come from one dramatic sentence alone. Small mismatches accumulate until a reader feels, "No human is actually seeing me here. This is just automatic speech." The faster we write with AI, the more the final read has to be human. We have to ask not only whether the sentence is correct, but how it will sound to this person, now. Reputation is not only an information problem. It is a relationship problem.
 
-![AI Risk Grows with Speed: Automation Without Review Makes Accidents Bigger](/images/inline/column-ai-risk-leverage.jpg)
+![AI Automation Risk: Pre-Release Review Prevents Failures](/images/inline/column-ai-risk-leverage.jpg)
 
 <p class="inline-image-caption">Reputational risk increases not only based on facts, but also when others feel they have been treated unfairly.</p>
 

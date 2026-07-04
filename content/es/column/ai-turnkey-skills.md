@@ -1,5 +1,5 @@
 ---
-title: "En la era de la IA, si falta una sola de estas 7 capacidades, el trabajo se tambalea. Y hay algo aún más importante"
+title: "7 capacidades laborales para la era de la IA: EQ, confianza y reputación marcan la diferencia final"
 description: "Las 7 capacidades básicas de trabajo que exige la era de la IA, y por qué EQ, confianza y reputación se vuelven más importantes cuando la inteligencia se externaliza."
 date: 2026-06-24
 categories: ["AI"]
@@ -43,7 +43,7 @@ En la era de la IA, los cuellos de botella no son solo falta de técnica. Tambi�
 
 ## La persona valiosa convierte borradores en resultados usables
 
-![En la era de la IA, si falta una sola de estas 7 capacidades, el trabajo se tambalea. Y hay algo aún más importante](/images/inline/column-ai-turnkey-skills.jpg)
+![7 capacidades laborales para la era de la IA: EQ, confianza y reputación marcan la diferencia final](/images/inline/column-ai-turnkey-skills.jpg)
 
 <p class="inline-image-caption">Quien encuentra las partes que toman más tiempo aclara qué debe hacerse después, en lugar de fijarse solo en la velocidad.</p>
 

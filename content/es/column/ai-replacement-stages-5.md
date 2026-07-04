@@ -1,17 +1,17 @@
 ---
-title: "Cómo sobrevivir en la era de la IA: apuesta por certificaciones y propiedad, no solo por habilidad"
+title: "Estrategia para la era de la IA: convierte la habilidad en certificación y propiedad"
 date: 2026-06-21T17:40:00+09:00
 draft: false
 categories: ["AI"]
 tags: ["AI", "automatización", "empleo", "futuro", "estrategia de supervivencia", "carrera"]
 subtitle: "La habilidad es necesaria, pero no te protege hasta el final. En la era de la IA hay que convertir capacidad en certificación, responsabilidad y propiedad."
-seoTitle: "Estrategia de supervivencia en la era de la IA: apuesta por certificaciones y propiedad, no solo por habilidad"
+seoTitle: "Estrategia para la era de la IA: convierte la habilidad en certificación y propiedad"
 image: /images/col-ai-replacement-stages-5.jpg
 series: "ai-replacement-stages"
 weight: 6
 reviewStatus: "done"
 ---
-![Cómo sobrevivir en la era de la IA: apuesta por certificaciones y propiedad, no solo por habilidad](/images/col-ai-replacement-stages-5.jpg)
+![Estrategia para la era de la IA: convierte la habilidad en certificación y propiedad](/images/col-ai-replacement-stages-5.jpg)
 
 <p class="inline-image-caption">Las habilidades técnicas pueden automatizarse, pero las calificaciones, los derechos y los intereses pueden durar más dentro de las instituciones.</p>
 
@@ -61,7 +61,7 @@ Eso dura más que la capacidad. La ventaja momentánea no dura. Otros aprenden. 
 
 En la era de la IA no basta con preguntar "qué voy a hacer bien". Hay que preguntar: "de lo que hago bien, ¿qué queda como mío?"
 
-![Cómo sobrevivir en la era de la IA: apuesta por certificaciones y propiedad, no solo por habilidad](/images/inline/column-ai-replacement-stages-5.jpg)
+![Estrategia para la era de la IA: convierte la habilidad en certificación y propiedad](/images/inline/column-ai-replacement-stages-5.jpg)
 
 <p class="inline-image-caption">En la era de la IA, no sólo tienen autoridad quienes hacen bien el trabajo, sino también quienes asumen la responsabilidad legal y organizacional de los resultados.</p>
 

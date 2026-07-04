@@ -105,7 +105,7 @@ Are you someone who uses AI? Are you someone who owns AI? Are you someone inside
 
 At the final stage, the important thing is not one ability. It is position. Ability can be replaced. Position is set inside structure. Where I am connected, what I own, what responsibility I bear, and which side of rule-making I stand on become more important. So the next piece moves to practice.
 
-What should an individual do in the AI era? What does it mean to bet on position, not ability? Where should we spend time now so we do not regret it no matter what future arrives?
+What should an individual do in the AI era? What does it mean to turn skill into credentials, responsible seats, and ownership? Where should we spend time now so we do not regret it no matter what future arrives?
 
 The final question is this. In an age when AI becomes smarter than humans, what position should I move toward?
 
@@ -113,4 +113,4 @@ Series: The 16 Stages of AI Job Replacement, Part 4
 
 - Full map: [In what order does AI replace human work?](/column/ai-replacement-stages/)
 - Previous: [Decision authority does not move all at once: stages 9 to 14](/column/ai-replacement-stages-3/)
-- Next: [Bet on position, not ability: practice](/column/ai-replacement-stages-5/)
+- Next: [Turn Skill into Credentials and Ownership: Practice](/column/ai-replacement-stages-5/)

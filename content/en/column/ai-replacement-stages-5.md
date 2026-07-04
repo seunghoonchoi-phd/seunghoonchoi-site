@@ -1,17 +1,17 @@
 ---
-title: "How to Survive the AI Era: Bet on Credentials and Ownership, Not Skill Alone"
+title: "AI Era Survival Strategy: Turn Skill into Credentials and Ownership"
 date: 2026-06-21T17:40:00+09:00
 draft: false
 categories: ["AI"]
 tags: ["AI", "automation", "jobs", "future", "survival strategy", "career"]
 subtitle: "Skill is necessary, but it does not protect you to the end. In the AI era, skill has to be converted into credentials, responsible seats, and ownership."
-seoTitle: "AI Era Survival Strategy: Bet on Credentials and Ownership, Not Skill Alone"
+seoTitle: "AI Era Survival Strategy: Turn Skill into Credentials and Ownership"
 image: /images/col-ai-replacement-stages-5.jpg
 series: "ai-replacement-stages"
 weight: 6
 reviewStatus: "done"
 ---
-![How to survive the AI era: bet on credentials and ownership, not skill alone](/images/col-ai-replacement-stages-5.jpg)
+![AI Era Survival Strategy: Turn Skill into Credentials and Ownership](/images/col-ai-replacement-stages-5.jpg)
 
 <p class="inline-image-caption">Technical skills can be automated, but qualifications, rights and stakes can last longer within institutions.</p>
 
@@ -61,7 +61,7 @@ These last longer than ability. Being ahead itself does not last. Others learn. 
 
 So in the AI era, it is not enough to ask, "What will I be good at?" Ask, "What result of my being good will remain mine?"
 
-![How to Survive the AI Era: Bet on Credentials and Ownership, Not Skill Alone](/images/inline/column-ai-replacement-stages-5.jpg)
+![AI Era Survival Strategy: Turn Skill into Credentials and Ownership](/images/inline/column-ai-replacement-stages-5.jpg)
 
 <p class="inline-image-caption">In the AI ​​era, not only those who do the work well, but also those who take legal and organizational responsibility for the results have authority.</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Seven Skills That Make Work Hold Together in the AI Era, and What Matters Even More"
+title: "Seven AI-Era Work Skills: EQ, Trust, and Reputation Make the Final Difference"
 description: "The seven work fundamentals needed in the AI era, and why EQ, trust, and reputation matter more as intelligence is outsourced to AI."
 date: 2026-06-24
 categories: ["AI"]
@@ -43,7 +43,7 @@ In the AI era, bottlenecks are not only technical shortages. You have to see whe
 
 ## The valuable person turns drafts into usable results
 
-![Seven Skills That Make Work Hold Together in the AI Era, and What Matters Even More](/images/inline/column-ai-turnkey-skills.jpg)
+![Seven AI-Era Work Skills: EQ, Trust, and Reputation Make the Final Difference](/images/inline/column-ai-turnkey-skills.jpg)
 
 <p class="inline-image-caption">The person who finds where work takes a long time clarifies what should happen next, rather than focusing only on speed.</p>
 

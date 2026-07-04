@@ -107,7 +107,7 @@ No basta con preguntar qué haré mejor. Hay que preguntar en qué posición est
 
 En la última etapa, lo importante no es una capacidad aislada. Es la posición. La capacidad puede reemplazarse. La posición se define dentro de una estructura: con qué estoy conectado, qué poseo, qué responsabilidad tengo y de qué lado estoy al crear reglas. Por eso la próxima parte pasa a la práctica.
 
-¿Qué debe hacer una persona en la era de la IA? ¿Qué significa apostar por una posición y no solo por habilidad? Para no arrepentirse venga el futuro que venga, ¿dónde conviene poner tiempo ahora?
+¿Qué debe hacer una persona en la era de la IA? ¿Qué significa convertir la habilidad en certificación, responsabilidad y propiedad? Para no arrepentirse venga el futuro que venga, ¿dónde conviene poner tiempo ahora?
 
 La última pregunta es esta: en una era donde la IA se vuelve más inteligente que los humanos, ¿a qué posición debo moverme?
 
@@ -117,4 +117,4 @@ Serie "16 etapas del reemplazo laboral por IA" · Parte 4
 
 - Mapa completo: [En qué orden reemplaza la IA el trabajo humano (mapa completo)](/es/column/ai-replacement-stages/)
 - Texto anterior: [La autoridad de decidir no se entrega de golpe: etapas 9 a 14](/es/column/ai-replacement-stages-3/)
-- Texto siguiente: [Apuesta por la posición, no solo por habilidad: práctica](/es/column/ai-replacement-stages-5/)
+- Texto siguiente: [Convierte la habilidad en certificación y propiedad: práctica](/es/column/ai-replacement-stages-5/)

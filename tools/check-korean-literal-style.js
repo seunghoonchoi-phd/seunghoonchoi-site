@@ -229,6 +229,16 @@ const rules = [
     message: "`밖으로 나간 말`, `내 말`처럼 안팎 비유와 소유 표현으로 뭉개지 말고 `내가 보낸 문장`, `내가 한 말`, `고객이나 대중이 보는 문서`처럼 책임 주체와 대상을 직접 쓰세요.",
   },
   {
+    id: "title-hides-action",
+    pattern: /(?:빠르면\s*사고도\s*커진다|살아남는\s*법[^.\n]{0,70}(?:걸어라|에\s*걸)|정치는\s*어떻게\s*사람\s*마음[^.\n]{0,50}(?:방법|얻는가)|빈말\s*못\s*하는\s*사람의\s*방법|느린\s*신뢰\s*쌓기에\s*걸어라|그리고\s*이보다\s*더\s*중요한\s*것)/,
+    message: "제목과 소제목은 `무엇을 어떻게 하는지`가 바로 보여야 합니다. `뭘 걸어?`, `무슨 방법?`, `뭐가 커져?`라고 되물을 수 있으면 행동과 대상을 직접 쓰세요.",
+  },
+  {
+    id: "ambiguous-bet-action",
+    pattern: /(?:자리에\s*건다는|(?:능력|실력|자리|신뢰)[^.\n]{0,25}(?:에\s*)?걸어라|에\s*걸어라)/,
+    message: "`걸어라`처럼 비유로 방향을 말하지 말고 `실력을 자격으로 바꾼다`, `약속을 지킨다`, `시간을 쓴다`처럼 실제 행동을 쓰세요.",
+  },
+  {
     id: "important-part-vague",
     pattern: /중요한\s*부분을\s*놓치는\s*것이다/,
     message: "`중요한 부분을 놓치는 것이다`처럼 결론만 말하지 말고, 놓치는 대상이 현장 데이터인지 착용형 기기인지 실제로 드러나게 쓰세요.",
@@ -250,7 +260,7 @@ function stripFrontMatter(text) {
   return text.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, (match) => {
     return match
       .split(/\r?\n/)
-      .map((line) => (/^(title|subtitle|description):/.test(line) ? line : ""))
+      .map((line) => (/^(title|subtitle|description|seoTitle):/.test(line) ? line : ""))
       .join("\n");
   });
 }

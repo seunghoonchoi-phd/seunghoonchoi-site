@@ -1,11 +1,11 @@
 ---
-title: "How Politics Wins People's Hearts: The Method for a Person Who Cannot Fake It"
-description: "Politics moves emotion and sides before logic. A person who cannot make empty promises should not deceive with words, but go the slow way of promising and keeping."
+title: "How to Earn Trust in Politics: Keep Promises Instead of Faking It"
+description: "Politics moves emotion and sides before logic. A person who cannot fake warmth should earn trust by making small promises and keeping them."
 date: 2026-06-21T19:10:00+09:00
 categories: ["Essays"]
 tags: ["politics", "emotion", "trust", "leadership", "political psychology"]
-subtitle: "Politics moves emotion and sides before logic. A person who cannot make empty promises should not deceive with words, but go the slow way of promising and keeping."
-seoTitle: "How Politics Wins People's Hearts: The Method for a Person Who Cannot Fake It"
+subtitle: "Politics moves emotion and sides before logic. A person who cannot fake warmth should earn trust by making small promises and keeping them."
+seoTitle: "How to Earn Trust in Politics: Keep Promises Instead of Faking It"
 image: /images/col-anatomy-of-politics.jpg
 reviewStatus: "done"
 ---
@@ -41,7 +41,7 @@ Good policy is usually complex. Its effects come late. Education, health care, i
 
 So good politics gets a raw deal. The more genuinely helpful a policy is, the longer its explanation, the later it is felt, and the louder the people who oppose it. The many who benefit are quiet, and the few who lose resist hard. So a good politician must not only make good policy. They have to turn that policy into words people can feel. They have to turn numbers into a person's face, and a distant future benefit into a small change people can feel now. `A 2% drop in unemployment` is weaker than `one day of a person who got a job back`. People react first to a concrete life, not to a statistic.
 
-![How Politics Wins People's Hearts: The Method for a Person Who Cannot Fake It](/images/inline/column-anatomy-of-politics.jpg)
+![How to Earn Trust in Politics: Keep Promises Instead of Faking It](/images/inline/column-anatomy-of-politics.jpg)
 
 <p class="inline-image-caption">Policies are designed based on numbers, but citizens judge the policy by how it changes their day.</p>
 
@@ -67,7 +67,7 @@ The image of being honest is not created by saying "I am honest." It is created 
 
 A person who cannot make empty talk does not need to copy a flashy manner of speaking. They have to turn the reliability of their words into an asset.
 
-## Bet on building trust slowly
+## Promise Less and Keep It
 
 Politics is in the end the work of winning people's hearts. But there is more than one way to win hearts. Some people gather anger and rise quickly. Some people keep their promises and build trust slowly.
 

@@ -1,11 +1,11 @@
 ---
-title: "El riesgo de la IA crece por la velocidad: la automatización sin revisión agranda los accidentes"
+title: "Riesgo de automatización con IA: revisar antes de publicar evita fallos"
 date: 2026-06-23T20:22:55+09:00
 categories: ["AI"]
 tags: ["riesgo de IA", "verificación de IA", "seguridad", "reputación", "legal"]
-subtitle: "La IA acelera textos y código, pero sin revisión antes de publicar también acelera accidentes legales, de seguridad y de reputación."
-description: "La IA aumenta la velocidad de ejecución. Sin una revisión antes de publicar, también crecen los accidentes legales, reputacionales y de seguridad. El borrador puede ser rápido; la publicación debe revisarse con rigor."
-seoTitle: "Por qué crece el riesgo de la IA: automatización sin revisión y accidentes legales, de seguridad y de reputación"
+subtitle: "La IA acelera textos y código. Sin revisión antes de publicar, afirmaciones sin base, datos sensibles o mensajes fríos pueden salir tal cual."
+description: "La IA aumenta la velocidad de ejecución. Sin revisión antes de publicar, afirmaciones sin base, datos sensibles o mensajes fríos pueden publicarse tal cual. El borrador puede ser rápido; antes de publicar hay que revisar evidencias, datos sensibles y cómo lo recibirá la otra persona."
+seoTitle: "Riesgo de automatización con IA: revisión previa para fallos legales, de seguridad y reputación"
 image: /images/col-ai-risk-leverage.png
 reviewStatus: "done"
 ---
@@ -55,7 +55,7 @@ Lo mismo pasa con el tono de marca. En una página personal o en una cuenta de e
 
 Los daños de reputación no siempre surgen de una gran frase. A menudo nacen de pequeñas desalineaciones acumuladas, hasta que el lector siente: "aquí no me están mirando como persona, me están respondiendo en automático". Cuanto más rápido se escribe con IA, más importante es que una persona lea al final. No solo para ver si la frase es correcta, sino para ver cómo le sonará a quien la recibe. La reputación no es un problema de información. Es un problema de relación.
 
-![El riesgo de la IA crece por la velocidad: la automatización sin revisión agranda los accidentes](/images/inline/column-ai-risk-leverage.jpg)
+![Riesgo de automatización con IA: revisar antes de publicar evita fallos](/images/inline/column-ai-risk-leverage.jpg)
 
 <p class="inline-image-caption">El riesgo reputacional aumenta no sólo en función de los hechos, sino también cuando otros sienten que han sido tratados injustamente.</p>
 

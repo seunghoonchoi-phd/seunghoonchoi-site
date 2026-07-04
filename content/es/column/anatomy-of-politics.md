@@ -1,11 +1,11 @@
 ---
-title: "Cómo la política gana el corazón de la gente. El método de quien no sabe decir frases vacías"
-description: "La política mueve emociones y bandos antes que la lógica. Quien no sabe decir frases vacías debe ir por el camino lento de prometer y cumplir, en vez del modo de engañar con palabras."
+title: "Cómo ganar confianza en política: promete menos y cumple"
+description: "La política mueve emociones y bandos antes que la lógica. Quien no sabe decir frases vacías debe ganar confianza prometiendo poco y cumpliendo de verdad."
 date: 2026-06-21T19:10:00+09:00
 categories: ["Ensayo"]
 tags: ["política", "emoción", "confianza", "liderazgo", "psicología política"]
-subtitle: "La política mueve emociones y bandos antes que la lógica. Quien no sabe decir frases vacías debe ir por el camino lento de prometer y cumplir, en vez del modo de engañar con palabras."
-seoTitle: "Cómo la política gana el corazón de la gente: el método de quien no sabe decir frases vacías"
+subtitle: "La política mueve emociones y bandos antes que la lógica. Quien no sabe decir frases vacías debe ganar confianza prometiendo poco y cumpliendo de verdad."
+seoTitle: "Cómo ganar confianza en política: promete menos y cumple"
 image: /images/col-anatomy-of-politics.jpg
 reviewStatus: "done"
 ---
@@ -41,7 +41,7 @@ Las buenas políticas suelen ser complejas. El efecto también llega tarde. La e
 
 Por eso la buena política queda en desventaja injusta. Cuanto más útil es de verdad una política, más larga es su explicación, más tarde se siente y más ruidosos son quienes se oponen. La mayoría que se beneficia se queda callada; la minoría que pierde algo resiste con fuerza. Así que un buen político no puede limitarse a crear buenas políticas. Debe convertir esa política en palabras que la gente pueda sentir. Convertir los números en historias de personas concretas y mostrar el beneficio del futuro lejano como un pequeño cambio que se siente hoy. `Reducir el desempleo un 2%` es más débil que `un día de una persona que recuperó su trabajo`. La gente responde antes a una vida concreta que a una estadística.
 
-![Cómo la política gana el corazón de la gente. El método de quien no sabe decir frases vacías](/images/inline/column-anatomy-of-politics.jpg)
+![Cómo ganar confianza en política: promete menos y cumple](/images/inline/column-anatomy-of-politics.jpg)
 
 <p class="inline-image-caption">Las políticas se diseñan en base a números, pero los ciudadanos juzgan la política por cómo cambia su día.</p>
 
@@ -67,7 +67,7 @@ La imagen de honestidad no nace al decir "soy honesto". Nace de un historial rep
 
 Quien no sabe decir frases vacías no necesita imitar un tono brillante. Tiene que convertir la fiabilidad de sus palabras en un valor.
 
-## Apuesta por construir confianza despacio
+## Promete menos y cumple de verdad
 
 La política es, al final, ganar el corazón de la gente. Pero no hay una sola forma de ganarlo. Hay quien junta rabia y sube rápido. Hay quien cumple promesas y acumula confianza despacio.
 
