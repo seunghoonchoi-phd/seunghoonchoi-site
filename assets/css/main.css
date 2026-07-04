@@ -1289,17 +1289,17 @@ html[dir="rtl"] .home-hero__qr{right:auto;left:calc(608px - 50vw);padding:10px 1
 }
 .home-search{
   max-width:var(--maxw);
-  margin:calc(clamp(104px,11vw,132px) * -1) auto 0;
-  padding:0 clamp(20px,5vw,56px) clamp(20px,3vw,36px);
+  margin:0 auto;
+  padding:clamp(18px,3vw,30px) clamp(20px,5vw,56px) clamp(20px,3vw,36px);
   display:flex;
   justify-content:center;
   position:relative;
-  z-index:2;
+  z-index:1;
 }
 .home-search .search-module{width:min(374px,100%)}
 .home-search .searchbox__input{background:rgba(252,251,249,.98)}
 @media(max-width:700px){
-  .home-search{margin:-58px auto 0;justify-content:stretch}
+  .home-search{margin:0 auto;justify-content:stretch}
   .home-search .search-module{width:100%}
 }
 /* FAQ block (front-matter `faq` → FAQPage schema + visible accordion) */
