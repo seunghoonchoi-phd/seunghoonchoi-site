@@ -323,6 +323,8 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
     -webkit-box-orient:vertical;
     overflow-wrap:break-word;
   }
+  /* 한국어 목록 제목은 어절 단위 줄바꿈 (음절 중간 절단 방지) */
+  body.lang-ko .content-row__title a{word-break:keep-all}
   .content-row__excerpt{
     display:block;
     overflow:visible;
