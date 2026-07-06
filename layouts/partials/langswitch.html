@@ -4,7 +4,7 @@
 {{ $order := slice "en" "zh" "es" "hi" "ar" "ja" "ko" }}
 {{ $labels := dict "en" "English" "zh" "中文" "es" "Español" "hi" "हिन्दी" "ar" "العربية" "ja" "日本語" "ko" "한국어" }}
 {{ $avail := slice }}
-{{ range $page.Site.Languages }}{{ $avail = $avail | append .Lang }}{{ end }}
+{{ range hugo.Sites }}{{ $avail = $avail | append .Language.Lang }}{{ end }}
 {{ $tail := $page.RelPermalink }}
 {{ if eq $cur "en" }}
   {{ $tail = strings.TrimPrefix "/" $tail }}

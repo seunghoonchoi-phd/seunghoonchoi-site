@@ -5,7 +5,11 @@ const path = require("path");
 
 const root = process.cwd();
 const errors = [];
-const parityFrontMatterKeys = ["draft", "hidden", "build", "pinned", "series", "weight", "image", "ogimage"];
+// Structural flags must hold the same VALUE across languages.
+const parityFrontMatterKeys = ["draft", "hidden", "build", "pinned", "series", "weight"];
+// Card / preview images are localizable: every language must declare the key (presence parity),
+// but the value may differ so non-Korean pages can carry a language-appropriate image.
+const imageParityKeys = ["image", "ogimage"];
 
 function read(rel) {
   return fs.readFileSync(path.join(root, rel), "utf8");
@@ -133,7 +137,14 @@ if (!ko) {
 
         const koFm = parseFrontMatter(`${ko.contentDir}/${rel}`);
         const langFm = parseFrontMatter(target);
+        // Structural flags: exact value must match ko.
         const mismatches = parityFrontMatterKeys.filter((key) => (koFm[key] || "") !== (langFm[key] || ""));
+        // Image keys: only presence must match ko (value may be localized).
+        for (const key of imageParityKeys) {
+          const koHas = Boolean(koFm[key]);
+          const langHas = Boolean(langFm[key]);
+          if (koHas !== langHas) mismatches.push(key);
+        }
 
         if (mismatches.length) {
           errors.push(

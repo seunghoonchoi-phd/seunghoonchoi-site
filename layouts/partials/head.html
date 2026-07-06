@@ -27,7 +27,7 @@
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
-<meta property="og:locale" content="{{ .Site.Language.LanguageCode | default .Site.Language.Lang }}">
+<meta property="og:locale" content="{{ .Site.Language.Locale | default .Site.Language.Lang }}">
 <meta property="og:description" content="{{ $metadesc }}">
 {{- /* Default link-preview image (1200x630). Pages may override via front-matter `ogimage`. */ -}}
 {{ $ogimg := "images/og-default.png" }}{{ with .Params.ogimage }}{{ $ogimg = . }}{{ end }}
@@ -52,9 +52,12 @@
 <meta name="theme-color" content="#0D1B4C">
 {{ range .AllTranslations }}<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
 {{ end }}
+{{- /* x-default points language-unmatched visitors at the default-language (en) version, else this page. */ -}}
+{{ $xdefault := .Permalink }}{{ range .AllTranslations }}{{ if eq .Language.Lang "en" }}{{ $xdefault = .Permalink }}{{ end }}{{ end }}
+<link rel="alternate" hreflang="x-default" href="{{ $xdefault }}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Noto+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Kumbh+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Sans+3:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&family=Kumbh+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 {{ if eq .Site.Language.Lang "ko" }}<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&family=Gothic+A1:wght@400;500;700&display=swap" rel="stylesheet">{{ end }}
 {{ if eq .Site.Language.Lang "zh" }}<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;600;700&display=swap" rel="stylesheet">{{ end }}
 {{ $css := resources.Get "css/main.css" | resources.Minify | resources.Fingerprint }}

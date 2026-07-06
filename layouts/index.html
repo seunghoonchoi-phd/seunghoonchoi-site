@@ -34,7 +34,7 @@
 <div class="home-full">
 
   <section class="hsec reveal">
-    <div class="hsec__head"><h2 class="hsec__h">Highlighted</h2><a class="hsec__more" href="{{ "research/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
+    <div class="hsec__head"><h2 class="hsec__h">{{ i18n "hero_highlighted" }}</h2><a class="hsec__more" href="{{ "research/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
     <div class="cards hsec__grid">{{ range first 3 (where .Site.RegularPages "Section" "research").ByDate.Reverse }}{{ partial "post-card.html" . }}{{ end }}</div>
   </section>
 

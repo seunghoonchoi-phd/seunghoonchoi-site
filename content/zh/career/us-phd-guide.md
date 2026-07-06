@@ -4,7 +4,7 @@ subtitle: "除了知道需要托福成绩之外一无所知的人，走到全额
 date: 2026-06-22
 categories: ["留学"]
 tags: ["美国留学", "博士留学", "TOEFL", "SOP", "F-1 签证", "研究生院"]
-image: /images/book-us-phd-guide-card.jpg
+image: /images/book-us-phd-guide-card-en.jpg
 pinned: true
 reviewStatus: "done"
 ---

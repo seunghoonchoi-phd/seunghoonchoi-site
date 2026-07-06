@@ -4,7 +4,7 @@ subtitle: "ثمانية عشر شهراً قطعها شخص لم يكن يعرف
 date: 2026-06-22
 categories: ["الدراسة في الخارج"]
 tags: ["الدراسة في أمريكا", "دكتوراه في الخارج", "التوفل", "SOP", "تأشيرة F-1", "الدراسات العليا"]
-image: /images/book-us-phd-guide-card.jpg
+image: /images/book-us-phd-guide-card-en.jpg
 pinned: true
 reviewStatus: "done"
 ---
