@@ -6,11 +6,11 @@ tags: ["AI", "勉強法", "質問", "理解", "試験", "学習"]
 subtitle: "全体像が見えないと動けない人にとって、AIは弱点を隠す道具ではなく、質問を点数に変える道具になりうる。"
 description: "全体構造が見えてから理解が始まる学生が、なぜ従来の試験で不利だったのか。AIがその質問を本当の理解と点数につなげる理由。"
 seoTitle: "質問が多い人の救い: AIが勉強の仕方を変える地点"
-image: /images/col-questions-lifeline.png
+image: /images/col-questions-lifeline-opt.jpg
 reviewStatus: "done"
 ---
 
-![量子力学の黒板の前で先生が講義し、複数の学生の中で一人が答えのない質問に圧倒されているイラスト](/images/col-questions-lifeline.png)
+![量子力学の黒板の前で先生が講義し、複数の学生の中で一人が答えのない質問に圧倒されているイラスト](/images/col-questions-lifeline-opt.jpg)
 
 <p class="inline-image-caption">質問が多いことは、理解が遅いという意味より、理解できていない部分をそのまま通り過ぎないという意味である場合がある。</p>
 

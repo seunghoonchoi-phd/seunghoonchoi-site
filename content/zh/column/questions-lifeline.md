@@ -6,11 +6,11 @@ tags: ["AI", "学习方法", "提问", "理解", "考试", "学习"]
 subtitle: "对必须先看到整体结构才能行动的人来说，AI 不只是遮住弱点的工具，而可能把问题变成分数。"
 description: "为什么必须先看到整体结构才开始理解的学生，在过去的考试中容易吃亏；AI 又如何把这些问题连接到真正的理解和分数。"
 seoTitle: "问题很多的人的救命绳：AI 如何改变学习方式"
-image: /images/col-questions-lifeline.png
+image: /images/col-questions-lifeline-opt.jpg
 reviewStatus: "done"
 ---
 
-![老师在量子力学黑板前讲课，多名学生中有一个学生因问题得不到回答而崩溃的插图](/images/col-questions-lifeline.png)
+![老师在量子力学黑板前讲课，多名学生中有一个学生因问题得不到回答而崩溃的插图](/images/col-questions-lifeline-opt.jpg)
 
 <p class="inline-image-caption">问题很多可能并不意味着理解慢，而是说明这个人不会把没理解的部分直接跳过。</p>
 

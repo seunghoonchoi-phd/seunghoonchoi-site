@@ -6,10 +6,10 @@ categories: ["AI"]
 tags: ["AI era", "work skills", "EQ", "trust", "reputation", "productivity", "fundamentals"]
 subtitle: "The more intelligence is outsourced to AI, the more valuable it becomes to be someone people can hand work to and trust through the finish."
 seoTitle: "Seven Skills for the AI Era, Plus EQ, Trust, and Reputation"
-image: /images/col-ai-turnkey-skills.png
+image: /images/col-ai-turnkey-skills-opt.jpg
 reviewStatus: "done"
 ---
-![Illustration of an AI research assistant](/images/col-ai-turnkey-skills.png)
+![Illustration of an AI research assistant](/images/col-ai-turnkey-skills-opt.jpg)
 
 <p class="inline-image-caption">The more AI assists with the thinking process, the more humans must demonstrate the ability to check and complete assigned tasks.</p>
 

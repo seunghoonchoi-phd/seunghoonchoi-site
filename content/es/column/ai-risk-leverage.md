@@ -6,10 +6,10 @@ tags: ["riesgo de IA", "verificación de IA", "seguridad", "reputación", "legal
 subtitle: "La IA acelera textos y código. Sin revisión antes de publicar, afirmaciones sin base, datos sensibles o mensajes fríos pueden salir tal cual."
 description: "La IA aumenta la velocidad de ejecución. Sin revisión antes de publicar, afirmaciones sin base, datos sensibles o mensajes fríos pueden publicarse tal cual. El borrador puede ser rápido; antes de publicar hay que revisar evidencias, datos sensibles y cómo lo recibirá la otra persona."
 seoTitle: "Riesgo de automatización con IA: revisión previa para fallos legales, de seguridad y reputación"
-image: /images/col-ai-risk-leverage.png
+image: /images/col-ai-risk-leverage-opt.jpg
 reviewStatus: "done"
 ---
-![Pantalla de portátil con un flujo de trabajo de IA, documentos, un candado y una luz de advertencia sobre el escritorio](/images/col-ai-risk-leverage.png)
+![Pantalla de portátil con un flujo de trabajo de IA, documentos, un candado y una luz de advertencia sobre el escritorio](/images/col-ai-risk-leverage-opt.jpg)
 
 <p class="inline-image-caption">A medida que la automatización se acelera, la revisión legal, de seguridad y de reputación debe terminar antes de ejecutar.</p>
 

@@ -7,10 +7,10 @@ categories: ["AI", "教育"]
 tags: ["AI", "教育改革", "实务判断", "高中", "新人招聘"]
 subtitle: "知识讲解已经是AI的强项。学校应该教学生如何应用实务概念。"
 description: "当AI快速接手资料查找、总结、初稿和许多初级工作时，学校必须从知识传授转向实务判断和实务概念应用训练。"
-image: /images/col-ai-school-practical-sense.png
+image: /images/col-ai-school-practical-sense-opt.jpg
 reviewStatus: "done"
 ---
-![学生一边使用AI一边检查小型装置](/images/col-ai-school-practical-sense.png)
+![学生一边使用AI一边检查小型装置](/images/col-ai-school-practical-sense-opt.jpg)
 
 <p class="inline-image-caption">使用人工智能的课堂应该是学生检查和纠正答案的时间，而不是写下来的时间。</p>
 

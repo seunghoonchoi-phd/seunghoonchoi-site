@@ -7,10 +7,10 @@ categories: ["AI", "교육"]
 tags: ["AI", "교육개혁", "실무감각", "고등학교", "신입채용"]
 subtitle: "지식을 설명하는 것은 AI가 더 잘한다. 학교는 학생에게 실무 개념을 적용하는 법을 가르쳐야 한다."
 description: "AI가 자료 조사, 요약, 초안 작성 같은 초급 업무를 빠르게 대신하는 시대에 학교가 지식 전달을 넘어 실무감각과 실무 개념 적용을 가르쳐야 하는 이유."
-image: /images/col-ai-school-practical-sense.png
+image: /images/col-ai-school-practical-sense-opt.jpg
 reviewStatus: "done"
 ---
-![AI를 쓰며 작은 장치를 함께 점검하는 학생들](/images/col-ai-school-practical-sense.png)
+![AI를 쓰며 작은 장치를 함께 점검하는 학생들](/images/col-ai-school-practical-sense-opt.jpg)
 
 <p class="inline-image-caption">AI를 쓰는 수업은 학생이 답을 받아 적는 시간이 아니라, 답을 확인하고 고치는 시간이어야 한다.</p>
 

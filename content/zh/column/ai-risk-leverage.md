@@ -6,10 +6,10 @@ tags: ["AI风险", "AI验证", "安全", "声誉", "法务"]
 subtitle: "AI 能更快地产出文字和代码。发布前检查一旦缺席，没有依据的说法、敏感信息和冷冰冰的话就可能直接发出去。"
 description: "AI 会提高执行速度。没有发布前检查时，没有依据的说法、敏感信息和冷冰冰的话可能直接发布。草稿可以快，发布前必须检查依据、敏感信息，以及读者会怎么理解。"
 seoTitle: "AI 自动化风险：用发布前检查减少法律、安全和声誉事故"
-image: /images/col-ai-risk-leverage.png
+image: /images/col-ai-risk-leverage-opt.jpg
 reviewStatus: "done"
 ---
-![笔记本电脑上显示 AI 工作流，桌上放着文件、锁和警示灯](/images/col-ai-risk-leverage.png)
+![笔记本电脑上显示 AI 工作流，桌上放着文件、锁和警示灯](/images/col-ai-risk-leverage-opt.jpg)
 
 <p class="inline-image-caption">自动化速度越快，法律、安全和声誉检查就越应该在执行前完成。</p>
 

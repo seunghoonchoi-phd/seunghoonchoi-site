@@ -7,10 +7,10 @@ categories: ["AI", "शिक्षा"]
 tags: ["AI", "शिक्षा सुधार", "व्यावहारिक समझ", "हाई स्कूल", "एंट्री-लेवल हायरिंग"]
 subtitle: "ज्ञान समझाने में AI पहले से बहुत अच्छा है। स्कूलों को छात्रों को व्यावहारिक अवधारणाएं लागू करना सिखाना होगा।"
 description: "जब AI शोध, सारांश, ड्राफ्ट और शुरुआती स्तर के काम तेजी से करने लगे, तब स्कूलों को ज्ञान देने से आगे बढ़कर व्यावहारिक समझ सिखानी होगी।"
-image: /images/col-ai-school-practical-sense.png
+image: /images/col-ai-school-practical-sense-opt.jpg
 reviewStatus: "done"
 ---
-![छात्र AI का उपयोग करते हुए एक छोटे उपकरण की जांच कर रहे हैं](/images/col-ai-school-practical-sense.png)
+![छात्र AI का उपयोग करते हुए एक छोटे उपकरण की जांच कर रहे हैं](/images/col-ai-school-practical-sense-opt.jpg)
 
 <p class="inline-image-caption">एआई का उपयोग करने वाली कक्षाएं छात्रों के लिए अपने उत्तरों को जांचने और सही करने का समय होना चाहिए, न कि उन्हें लिखने का।</p>
 

@@ -7,10 +7,10 @@ categories: ["AI", "Education"]
 tags: ["AI", "education reform", "practical judgment", "high school", "entry-level hiring"]
 subtitle: "AI is already better at explaining knowledge. Schools need to teach students how to apply practical concepts."
 description: "As AI takes over research, summarization, drafting, and other entry-level tasks, schools need to move beyond knowledge delivery and teach students practical judgment."
-image: /images/col-ai-school-practical-sense.png
+image: /images/col-ai-school-practical-sense-opt.jpg
 reviewStatus: "done"
 ---
-![Students using AI while checking a small device together](/images/col-ai-school-practical-sense.png)
+![Students using AI while checking a small device together](/images/col-ai-school-practical-sense-opt.jpg)
 
 <p class="inline-image-caption">Classes using AI should be a time for students to check and correct their answers, not to write them down.</p>
 

@@ -6,10 +6,10 @@ categories: ["AI"]
 tags: ["AI时代","工作能力","EQ","信任","声誉","生产力","基本功"]
 subtitle: "AI 越能把智能外包出去，越需要那种接下任务就负责到底、让人愿意一起工作的人。"
 seoTitle: "AI 时代需要的 7 种能力，以及更重要的 EQ、信任和声誉"
-image: /images/col-ai-turnkey-skills.png
+image: /images/col-ai-turnkey-skills-opt.jpg
 reviewStatus: "done"
 ---
-![AI 研究助手插图](/images/col-ai-turnkey-skills.png)
+![AI 研究助手插图](/images/col-ai-turnkey-skills-opt.jpg)
 
 <p class="inline-image-caption">人工智能对思维过程的帮助越多，人类就越必须展示出检查和完成指定任务的能力。</p>
 

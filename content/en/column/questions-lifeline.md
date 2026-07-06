@@ -6,11 +6,11 @@ tags: ["AI", "studying", "questions", "understanding", "exams", "learning"]
 subtitle: "For people who need the whole map before they can move, AI can turn questions into scores instead of merely covering a weakness."
 description: "Why learners who need the whole structure before they understand were disadvantaged by older exams, and how AI can connect their questions to real understanding and better scores."
 seoTitle: "A Lifeline for Question-Rich Learners: How AI Changes Studying"
-image: /images/col-questions-lifeline.png
+image: /images/col-questions-lifeline-opt.jpg
 reviewStatus: "done"
 ---
 
-![A teacher lectures at a quantum mechanics board while one student among many feels overwhelmed by unanswered questions](/images/col-questions-lifeline.png)
+![A teacher lectures at a quantum mechanics board while one student among many feels overwhelmed by unanswered questions](/images/col-questions-lifeline-opt.jpg)
 
 <p class="inline-image-caption">Many questions may mean not that understanding is slow, but that the person does not skip parts they have not understood.</p>
 

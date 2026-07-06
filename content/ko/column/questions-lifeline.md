@@ -6,10 +6,10 @@ tags: ["AI", "공부법", "질문", "이해", "시험", "학습"]
 subtitle: "전체를 알아야 움직이는 사람에게 AI는 약점을 가려주는 도구가 아니라, 질문을 점수로 바꾸는 도구가 될 수 있다."
 description: "전체 구조를 봐야 이해가 시작되는 학생이 왜 기존 시험에서 불리했는지, AI가 어떻게 그 질문을 실제 이해와 점수로 연결할 수 있는지 쓴 글."
 seoTitle: "질문이 많은 사람들의 구세주: AI가 공부 방식을 바꾸는 지점"
-image: /images/col-questions-lifeline.png
+image: /images/col-questions-lifeline-opt.jpg
 reviewStatus: "done"
 ---
-![교실 앞에서 선생님이 양자역학 식을 설명하고, 여러 학생 사이에서 한 학생이 질문으로 멘붕에 빠진 삽화](/images/col-questions-lifeline.png)
+![교실 앞에서 선생님이 양자역학 식을 설명하고, 여러 학생 사이에서 한 학생이 질문으로 멘붕에 빠진 삽화](/images/col-questions-lifeline-opt.jpg)
 
 <p class="inline-image-caption">질문이 많다는 것은 이해가 느리다는 뜻보다, 이해하지 못한 부분을 그대로 넘기지 않는다는 뜻일 수 있다.</p>
 

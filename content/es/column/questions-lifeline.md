@@ -6,11 +6,11 @@ tags: ["IA", "estudio", "preguntas", "comprension", "examenes", "aprendizaje"]
 subtitle: "Para quienes necesitan ver la estructura completa antes de avanzar, la IA puede convertir las preguntas en puntaje, no solo esconder una debilidad."
 description: "Por que los estudiantes que necesitan ver la estructura completa antes de entender salian perdiendo en los examenes antiguos, y como la IA puede conectar sus preguntas con comprension real y mejores puntajes."
 seoTitle: "Un salvavidas para estudiantes con muchas preguntas: como la IA cambia el estudio"
-image: /images/col-questions-lifeline.png
+image: /images/col-questions-lifeline-opt.jpg
 reviewStatus: "done"
 ---
 
-![Un profesor da clase frente a una pizarra de mecanica cuantica mientras un estudiante entre muchos se siente abrumado por preguntas sin respuesta](/images/col-questions-lifeline.png)
+![Un profesor da clase frente a una pizarra de mecanica cuantica mientras un estudiante entre muchos se siente abrumado por preguntas sin respuesta](/images/col-questions-lifeline-opt.jpg)
 
 <p class="inline-image-caption">Hacer muchas preguntas puede no significar que se entienda lento, sino que la persona no pasa por alto las partes que no entendió.</p>
 

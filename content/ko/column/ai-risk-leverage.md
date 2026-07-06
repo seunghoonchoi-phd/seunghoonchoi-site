@@ -6,10 +6,10 @@ tags: ["AI 리스크", "AI 검증", "보안", "평판", "법무"]
 subtitle: "AI는 글과 코드를 빨리 만든다. 공개 전 검토가 빠지면 근거 없는 주장, 민감정보, 상대를 불편하게 할 표현이 고객 메일이나 웹사이트에 들어간다."
 description: "AI는 실행 속도를 높인다. 공개 전 검토 단계가 없으면 근거 없는 주장, 민감정보, 상대를 불편하게 할 표현이 고객 메일이나 웹사이트에 그대로 들어갈 수 있다. 초안은 빠르게 만들고, 공개 전에는 근거와 민감정보, 상대가 어떻게 받아들일지를 확인해야 한다."
 seoTitle: "AI 자동화 리스크: 법무·보안·평판 사고를 막는 공개 전 검토"
-image: /images/col-ai-risk-leverage.png
+image: /images/col-ai-risk-leverage-opt.jpg
 reviewStatus: "done"
 ---
-![노트북 화면에 AI 워크플로가 표시되고, 책상 위의 문서와 잠금 장치와 경고등이 함께 놓인 장면](/images/col-ai-risk-leverage.png)
+![노트북 화면에 AI 워크플로가 표시되고, 책상 위의 문서와 잠금 장치와 경고등이 함께 놓인 장면](/images/col-ai-risk-leverage-opt.jpg)
 
 <p class="inline-image-caption">자동화가 빨라질수록 공개 전에 법무 위험, 보안 위험, 상대가 어떻게 받아들일지를 먼저 봐야 한다.</p>
 

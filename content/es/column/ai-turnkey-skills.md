@@ -6,10 +6,10 @@ categories: ["AI"]
 tags: ["era de la IA", "capacidades laborales", "EQ", "confianza", "reputación", "productividad", "fundamentos"]
 subtitle: "Cuanto más externaliza la IA la inteligencia, más valen las personas que se hacen cargo hasta el final y con las que otros quieren trabajar."
 seoTitle: "Las 7 capacidades necesarias en la era de la IA, y el valor mayor de EQ, confianza y reputación"
-image: /images/col-ai-turnkey-skills.png
+image: /images/col-ai-turnkey-skills-opt.jpg
 reviewStatus: "done"
 ---
-![Ilustración de un asistente de investigación con IA](/images/col-ai-turnkey-skills.png)
+![Ilustración de un asistente de investigación con IA](/images/col-ai-turnkey-skills-opt.jpg)
 
 <p class="inline-image-caption">Cuanto más ayuda la IA al proceso de pensamiento, más deben demostrar los humanos la capacidad de comprobar y completar las tareas asignadas.</p>
 

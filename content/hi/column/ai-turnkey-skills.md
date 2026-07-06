@@ -6,10 +6,10 @@ categories: ["AI"]
 tags: ["AI युग", "कामकाजी क्षमता", "EQ", "भरोसा", "प्रतिष्ठा", "उत्पादकता", "बुनियाद"]
 subtitle: "AI जितना बुद्धि का काम बाहर संभालेगा, उतना ही उस व्यक्ति का मूल्य बढ़ेगा जो काम लेकर अंत तक ज़िम्मेदारी निभाता है और जिसके साथ लोग काम करना चाहते हैं।"
 seoTitle: "AI युग में ज़रूरी सात क्षमताएँ और उनसे भी ज़्यादा महत्वपूर्ण EQ, भरोसा, प्रतिष्ठा"
-image: /images/col-ai-turnkey-skills.png
+image: /images/col-ai-turnkey-skills-opt.jpg
 reviewStatus: "done"
 ---
-![AI शोध सहायक का चित्र](/images/col-ai-turnkey-skills.png)
+![AI शोध सहायक का चित्र](/images/col-ai-turnkey-skills-opt.jpg)
 
 <p class="inline-image-caption">जितना अधिक एआई सोचने की प्रक्रिया में सहायता करता है, उतना ही अधिक मनुष्यों को सौंपे गए कार्यों को जांचने और पूरा करने की क्षमता प्रदर्शित करनी होगी।</p>
 

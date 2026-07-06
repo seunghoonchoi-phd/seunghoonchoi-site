@@ -7,10 +7,10 @@ categories: ["AI", "教育"]
 tags: ["AI", "教育改革", "実務感覚", "高校", "新卒採用"]
 subtitle: "知識の説明はAIのほうが上手い。学校は、実務概念を現実に当てはめる方法を学生に教えるべきだ。"
 description: "AIが調査、要約、下書き作成のような初級業務を速く代替する時代に、学校が知識伝達を超えて実務感覚と実務概念の適用を教えるべき理由。"
-image: /images/col-ai-school-practical-sense.png
+image: /images/col-ai-school-practical-sense-opt.jpg
 reviewStatus: "done"
 ---
-![AIを使いながら小さな装置を一緒に点検する学生たち](/images/col-ai-school-practical-sense.png)
+![AIを使いながら小さな装置を一緒に点検する学生たち](/images/col-ai-school-practical-sense-opt.jpg)
 
 <p class="inline-image-caption">AIを使う授業は、学生が答えを書き写す時間ではなく、答えを確認して直す時間であるべきだ。</p>
 

@@ -6,10 +6,10 @@ tags: ["AI risk", "AI review", "security", "reputation", "legal"]
 subtitle: "AI makes writing and coding faster. Without pre-release review, unsupported claims, sensitive data, and cold-sounding messages can go out unchanged."
 description: "AI increases execution speed. If pre-release review is missing, unsupported claims, sensitive data, or cold-sounding messages can be published unchanged. Draft fast, then check evidence, sensitive information, and how the reader will receive it before release."
 seoTitle: "AI Automation Risk: Pre-Release Review for Legal, Security, and Reputation Failures"
-image: /images/col-ai-risk-leverage.png
+image: /images/col-ai-risk-leverage-opt.jpg
 reviewStatus: "done"
 ---
-![A laptop showing an AI workflow, with documents, a lock, and a warning light on the desk](/images/col-ai-risk-leverage.png)
+![A laptop showing an AI workflow, with documents, a lock, and a warning light on the desk](/images/col-ai-risk-leverage-opt.jpg)
 
 <p class="inline-image-caption">As automation accelerates, legal, security, and reputation reviews need to happen before execution.</p>
 

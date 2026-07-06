@@ -6,10 +6,10 @@ tags: ["AIリスク", "AI検証", "セキュリティ", "評判", "法務"]
 subtitle: "AIは文章やコードを速く作ります。公開前の確認が抜けると、根拠のない主張や機密情報、冷たく聞こえる文面がそのまま外に出ます。"
 description: "AIは実行速度を上げます。ただし公開前の確認がなければ、根拠のない主張、機密情報、冷たく読まれる文面がそのまま公開されます。下書きは速く作り、公開前には根拠、機密情報、相手がどう受け取るかを確認するべきです。"
 seoTitle: "AI自動化リスク：法務・セキュリティ・評判の事故を防ぐ公開前確認"
-image: /images/col-ai-risk-leverage.png
+image: /images/col-ai-risk-leverage-opt.jpg
 reviewStatus: "done"
 ---
-![ノートパソコンの画面にAIのワークフローが表示され、机の上には書類と錠前と警告灯が一緒に置かれている場面](/images/col-ai-risk-leverage.png)
+![ノートパソコンの画面にAIのワークフローが表示され、机の上には書類と錠前と警告灯が一緒に置かれている場面](/images/col-ai-risk-leverage-opt.jpg)
 
 <p class="inline-image-caption">自動化の速度が上がるほど、法務、セキュリティ、評判の検討は実行後ではなく実行前に行われる必要がある。</p>
 

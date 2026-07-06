@@ -7,10 +7,10 @@ categories: ["IA", "Educación"]
 tags: ["IA", "reforma educativa", "criterio práctico", "secundaria", "empleo inicial"]
 subtitle: "La IA ya explica conocimiento muy bien. La escuela debe enseñar a aplicar conceptos prácticos."
 description: "Cuando la IA empieza a encargarse de investigar, resumir, redactar y muchas tareas iniciales, la escuela debe ir más allá de transmitir conocimiento y enseñar criterio práctico."
-image: /images/col-ai-school-practical-sense.png
+image: /images/col-ai-school-practical-sense-opt.jpg
 reviewStatus: "done"
 ---
-![Estudiantes usando IA mientras revisan juntos un pequeño dispositivo](/images/col-ai-school-practical-sense.png)
+![Estudiantes usando IA mientras revisan juntos un pequeño dispositivo](/images/col-ai-school-practical-sense-opt.jpg)
 
 <p class="inline-image-caption">Las clases que utilizan IA deberían ser un momento para que los estudiantes verifiquen y corrijan sus respuestas, no para escribirlas.</p>
 
