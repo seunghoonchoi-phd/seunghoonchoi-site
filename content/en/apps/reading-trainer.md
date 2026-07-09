@@ -1,11 +1,11 @@
 ---
-title: "ReadFast - English and Chinese Reading Speed and Comprehension Trainer"
-seoTitle: "ReadFast: Train English and Chinese Reading Speed and Comprehension Together"
+title: "ReadFast: English and Chinese Reading Speed and Comprehension Trainer"
+seoTitle: "ReadFast: Track English and Chinese Reading Speed and Comprehension Separately"
 date: 2026-06-16
 categories: ["Tools"]
 tags: ["reading", "speed-reading", "app", "English", "Chinese"]
-subtitle: "Not speed reading that only raises speed, but reading training that checks what you understood."
-description: "ReadFast is a free installable web app for reading English and Chinese faster while checking what you understood with questions. It includes lexical automaticity, comprehension-gated scoring, repeated reading, and step-by-step paper reading."
+subtitle: "Choose a reading purpose, track speed and comprehension separately, then check the result on an unseen text."
+description: "ReadFast is a free installable web app that tracks English and Chinese reading speed and comprehension separately and checks whether performance holds on unseen texts."
 image: /images/reading-trainer-card.svg
 reviewStatus: "done"
 ---
@@ -13,28 +13,30 @@ reviewStatus: "done"
   <img class="appcard__icon" src="/images/reading-trainer-card.svg" alt="ReadFast reading trainer app icon">
   <div class="appcard__body">
     <span class="appcard__free">Installable web app (PWA)</span>
-    <h3>ReadFast · Reading speed and comprehension trainer</h3>
-    <p>Read English and Chinese faster, then check what you understood with questions.</p>
+    <h3>ReadFast · Reading speed and comprehension training</h3>
+    <p>Choose a purpose and train English or Chinese while tracking speed and comprehension separately.</p>
     <a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">Open the app →</a>
   </div>
 </div>
 
-I wanted to read English and Chinese faster too. But many speed-reading methods on the market came with exaggerated claims. I did not want to simply trust methods that are hard to connect to real reading ability, such as 10,000 WPM, PhotoReading, or skimming without comprehension.
+I wanted to read English and Chinese faster too. A words-per-minute number alone, however, cannot show whether the meaning was lost. ReadFast therefore records reading rate and comprehension as separate results.
 
-So I built ReadFast. The goal is not merely to move your eyes faster. It is to recognize vocabulary faster, read sentences in meaning units, and raise speed while checking what you understood with questions.
+Each session begins with a purpose. You can read for accurate understanding, capture the main idea, or find a specific name, number, or claim. Results from those three tasks are never combined.
 
-The premise is simple. Reading speed is constrained not only by the eyes, but by the brain's lexical processing. ReadFast therefore measures speed and comprehension together. If you read fast but comprehension is low, the training score does not reward it.
+The program repeats four stages: measure your current performance on an unseen text, practice the weakest area, try another unseen text, and reassess weekly. A faster rereading of the same passage is shown as practice, not as proof of general improvement.
 
-- Lexical automaticity + coverage - frequency-ordered spaced repetition to make word recognition fast and steady
-- ERR close reading - score = speed x comprehension. Reading fast means little if comprehension is low
-- Conquer mode - fully grasp a difficult text through first-pass reading, repeated speed passes, and transfer to a new text
-- Step-by-step paper reading, self-explanation, and retrieval practice - do not try to understand a paper all at once; skim first, grasp the structure, then read deeply
-- Chinese segmentation and character-recognition training - practice reading Chinese in chunks where word boundaries are less visible
-- Principles tab - why each training mode exists and which speed-reading claims to treat carefully
-- Installable web app (PWA, Progressive Web App) - add it to your home screen and use it like an app, even offline
+- Three daily blocks: brief preparation, focused reading, and unseen transfer or retrieval in about ten minutes
+- Separate results: WPM or characters per minute beside raw comprehension and question-type accuracy
+- Comprehension-maintained rate: based on recent unseen, unassisted attempts with at least 80 percent comprehension
+- App difficulty 1 to 6: plain in-app text difficulty, not a language certification claim
+- Purpose-specific reading: separate tasks and records for accurate reading, gist, and information finding
+- Language support and practical tools: English phrase guidance, Chinese character and segmentation practice, repeated reading, self-explanation, and three-pass paper reading
+- Installable PWA: Korean and English interface options, with offline use after the first successful load
+
+After two unseen results with at least 80 percent comprehension and low fatigue, the target pace rises by about five percent. A result from 60 to 79 percent holds the target. A result below 60 percent, or high fatigue, lowers only the target pace by about five percent. This is an initial product policy, not a scientific constant. Texts you paste and training records stay in this browser, and the app itself does not load third-party analytics scripts.
 
 [Open the app →](/reading-trainer/)
 
 Open source → [GitHub](https://github.com/seunghoonchoi-phd/reading-trainer)
 
-> Install: open the link on your phone browser and tap "Add to Home Screen", or click the install icon in your desktop browser's address bar.
+> Install: open the link in a mobile browser and choose "Add to Home Screen." On a desktop, use the install icon in the address bar.
