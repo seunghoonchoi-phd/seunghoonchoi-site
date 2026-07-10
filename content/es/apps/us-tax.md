@@ -1,11 +1,11 @@
 ---
 title: "Navegador fiscal para estudiantes en EE. UU.: completa el 1040-NR y el 8843 en tu navegador"
-seoTitle: "App de impuestos para estudiantes internacionales: 1040-NR, Form 8843 y Misuri para F-1/J-1"
+seoTitle: "App de impuestos para estudiantes internacionales: 1040-NR, Form 8843 y el impuesto estatal para F-1/J-1"
 date: 2026-07-11
 categories: ["Herramientas"]
 tags: ["estudiar en el extranjero", "impuestos", "1040-NR", "F-1", "app"]
 subtitle: "Responde seis pasos para calcular tu impuesto y rellenar los PDF oficiales del IRS. Lo que ingresas nunca se envía a un servidor."
-description: "Navegador fiscal para estudiantes es una app web gratuita que calcula el 1040-NR federal, el Form 8843 y el impuesto MO-1040 de Misuri para estudiantes F-1/J-1 del año fiscal 2026, y rellena los PDF oficiales del IRS. Todo lo que ingresas se queda en este navegador."
+description: "Navegador fiscal para estudiantes es una app web gratuita que calcula el 1040-NR federal, el Form 8843 y el impuesto estatal para estudiantes F-1/J-1 del año fiscal 2026, y rellena los PDF oficiales del IRS. Todo lo que ingresas se queda en este navegador."
 image: /images/us-tax-card.svg
 reviewStatus: "done"
 ---
@@ -14,7 +14,7 @@ reviewStatus: "done"
   <div class="appcard__body">
     <span class="appcard__free">App web gratuita</span>
     <h3>Navegador fiscal para estudiantes</h3>
-    <p>Calcula en seis pasos el 1040-NR, el Form 8843 y el impuesto de Misuri para estudiantes F-1/J-1, y rellena los PDF oficiales del IRS. Todo lo que ingresas se guarda solo en este navegador y nunca se envía a un servidor.</p>
+    <p>Calcula en seis pasos el 1040-NR, el Form 8843 y el impuesto estatal para estudiantes F-1/J-1, y rellena los PDF oficiales del IRS. Todo lo que ingresas se guarda solo en este navegador y nunca se envía a un servidor.</p>
     <a class="cta" href="/us-tax/" target="_blank" rel="noopener">Abrir la app →</a>
   </div>
 </div>
@@ -23,7 +23,7 @@ Los estudiantes internacionales con visa F-1 o J-1 declaran impuestos con formul
 
 ## Calcula en seis pasos
 
-El primer paso es la residencia. Ingresa tu tipo de visa, el año de entrada y los días de presencia por año, y la app comprueba primero si eres extranjero no residente (NRA) a efectos fiscales. Después ingresa la beca de tu universidad (Form 1042-S), dividendos, intereses, ganancias y pérdidas de acciones, deducciones y pagos estimados, y el paso de resultados muestra juntos el impuesto federal del 1040-NR y el impuesto MO-1040 de Misuri.
+El primer paso es la residencia. Ingresa tu tipo de visa, el año de entrada y los días de presencia por año, y la app comprueba primero si eres extranjero no residente (NRA) a efectos fiscales. Después ingresa la beca de tu universidad (Form 1042-S), dividendos, intereses, ganancias y pérdidas de acciones, deducciones y pagos estimados, y el paso de resultados muestra juntos el impuesto federal del 1040-NR y el impuesto estatal. Si eliges un estado sin impuesto sobre la renta, como Florida, te indica que no necesitas declarar impuesto estatal, y si eliges Misuri, calcula el impuesto MO-1040.
 
 ## Compatible con el tratado fiscal y con CSV de corredores
 
@@ -39,4 +39,4 @@ Esta app es una aplicación web estática que funciona sin servidor. Todo lo que
 
 ## Una calculadora de referencia, no asesoría fiscal
 
-Esta app es una calculadora de referencia y no reemplaza la asesoría fiscal profesional. Está dirigida a estudiantes no residentes F-1/J-1 del año fiscal 2026, y Misuri es el único estado admitido. Si resultas ser residente, debes declarar con el Form 1040, así que toma los números de esta app solo como estimaciones aproximadas. Antes de presentar, revisa directamente los valores escritos en los formularios y consulta a un profesional de impuestos si tu situación es compleja.
+Esta app es una calculadora de referencia y no reemplaza la asesoría fiscal profesional. Está dirigida a estudiantes no residentes F-1/J-1 del año fiscal 2026, y para el cálculo del impuesto estatal solo admite Misuri, además de mostrar un aviso de que Florida no tiene impuesto sobre la renta. Si resultas ser residente, debes declarar con el Form 1040, así que toma los números de esta app solo como estimaciones aproximadas. Antes de presentar, revisa directamente los valores escritos en los formularios y consulta a un profesional de impuestos si tu situación es compleja.
