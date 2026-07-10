@@ -2,7 +2,7 @@
 
 const APP_BASE = "/language-recall/";
 const CACHE_PREFIX = "language-recall-demo-";
-const SHELL_CACHE = `${CACHE_PREFIX}v3`;
+const SHELL_CACHE = `${CACHE_PREFIX}v4`;
 const SHELL_ASSETS = [
   APP_BASE,
   `${APP_BASE}index.html`,

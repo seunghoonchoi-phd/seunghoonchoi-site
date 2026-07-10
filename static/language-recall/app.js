@@ -8,10 +8,13 @@ const appState = {
   searchCompleted: false,
   searchQuery: "",
   searchResults: [],
-  pendingCardPayload: null,
+  pendingQuickPayload: null,
   activeUseCard: null,
+  collectionOpenId: null,
   toastTimer: null,
 };
+
+const DAY_MS = 24 * 60 * 60 * 1000;
 
 const dom = {};
 
@@ -31,7 +34,7 @@ function init() {
   bindEvents();
   restorePreferences();
   updateConnectionStatus();
-  updateNewCardLanguageFields();
+  updateQuickSaveLanguage();
   registerServiceWorker();
   loadState();
   applyInitialScreenFromQuery();
@@ -44,12 +47,18 @@ function cacheDom() {
   dom.searchQuery = document.querySelector("#search-query");
   dom.searchMessage = document.querySelector("#search-message");
   dom.searchResults = document.querySelector("#search-results");
-  dom.newCardSection = document.querySelector("#new-card-section");
-  dom.newCardForm = document.querySelector("#new-card-form");
-  dom.cardLanguage = document.querySelector("#card-language");
-  dom.cardAlias = document.querySelector("#card-alias");
-  dom.pronunciationField = document.querySelector("#pronunciation-field");
+  dom.quickSaveSection = document.querySelector("#quick-save-section");
+  dom.quickSaveForm = document.querySelector("#quick-save-form");
+  dom.quickSaveLanguage = document.querySelector("#quick-save-language");
+  dom.quickSaveLanguageChip = document.querySelector("#quick-save-language-chip");
+  dom.quickPronunciationField = document.querySelector("#quick-pronunciation-field");
   dom.duplicatePanel = document.querySelector("#duplicate-panel");
+  dom.inboxPendingSection = document.querySelector("#inbox-pending-section");
+  dom.inboxPendingCount = document.querySelector("#inbox-pending-count");
+  dom.collectionList = document.querySelector("#collection-list");
+  dom.collectionCount = document.querySelector("#collection-count");
+  dom.collectionFilterText = document.querySelector("#collection-filter-text");
+  dom.collectionFilterLanguage = document.querySelector("#collection-filter-language");
   dom.reviewSummary = document.querySelector("#review-summary");
   dom.pendingUseSection = document.querySelector("#pending-use-section");
   dom.pendingUseCount = document.querySelector("#pending-use-count");
@@ -80,9 +89,11 @@ function cacheDom() {
 
 function bindEvents() {
   dom.languageSelect.addEventListener("change", onLanguageChange);
-  dom.cardLanguage.addEventListener("change", updateNewCardLanguageFields);
+  dom.quickSaveLanguage.addEventListener("change", updateQuickSaveLanguage);
   dom.searchForm.addEventListener("submit", onSearch);
-  dom.newCardForm.addEventListener("submit", onNewCardSubmit);
+  dom.quickSaveForm.addEventListener("submit", onQuickSaveSubmit);
+  dom.collectionFilterText.addEventListener("input", renderCollection);
+  dom.collectionFilterLanguage.addEventListener("change", renderCollection);
   dom.notionSyncButton.addEventListener("click", onNotionSync);
   dom.navButtons.forEach((button) => {
     button.addEventListener("click", () => navigate(button.dataset.nav));
@@ -109,6 +120,7 @@ function restorePreferences() {
     appState.language = savedLanguage;
     dom.languageSelect.value = savedLanguage;
   }
+  if (appState.language !== "all") dom.quickSaveLanguage.value = appState.language;
 }
 
 function onLanguageChange() {
@@ -117,12 +129,12 @@ function onLanguageChange() {
   appState.searchCompleted = false;
   appState.searchQuery = "";
   appState.searchResults = [];
+  appState.collectionOpenId = null;
   dom.searchResults.replaceChildren();
   dom.searchMessage.textContent = "";
-  dom.newCardSection.hidden = true;
   dom.duplicatePanel.hidden = true;
-  if (appState.language !== "all") dom.cardLanguage.value = appState.language;
-  updateNewCardLanguageFields();
+  if (appState.language !== "all") dom.quickSaveLanguage.value = appState.language;
+  updateQuickSaveLanguage();
   loadState();
 }
 
@@ -182,7 +194,10 @@ function setScreenLoading() {
   hidePendingUses();
   dom.reviewStage.replaceChildren(emptyState("불러오는 중", "복습 항목을 확인하고 있습니다."));
   dom.discoverStage.replaceChildren(emptyState("불러오는 중", "묻혀 있던 원문을 확인하고 있습니다."));
-  dom.inboxList.replaceChildren(emptyState("불러오는 중", "받은함 상태를 확인하고 있습니다."));
+  dom.inboxPendingSection.hidden = true;
+  dom.inboxList.replaceChildren();
+  dom.collectionCount.textContent = "";
+  dom.collectionList.replaceChildren(emptyState("불러오는 중", "저장한 표현을 확인하고 있습니다."));
   setNotionSyncLoading();
   dom.mapStats.replaceChildren();
   dom.mapTableWrap.replaceChildren(emptyState("불러오는 중", "학습 지도를 계산하고 있습니다."));
@@ -194,7 +209,10 @@ function renderStateError(error) {
   hidePendingUses();
   dom.reviewStage.replaceChildren(emptyState("불러오지 못했습니다", message));
   dom.discoverStage.replaceChildren(emptyState("불러오지 못했습니다", message));
-  dom.inboxList.replaceChildren(emptyState("불러오지 못했습니다", message));
+  dom.inboxPendingSection.hidden = true;
+  dom.inboxList.replaceChildren();
+  dom.collectionCount.textContent = "";
+  dom.collectionList.replaceChildren(emptyState("불러오지 못했습니다", message));
   renderNotionSyncError(message);
   dom.mapStats.replaceChildren();
   dom.mapTableWrap.replaceChildren(emptyState("불러오지 못했습니다", message));
@@ -220,7 +238,6 @@ async function onSearch(event) {
   setSearchBusy(true);
   setSearchMessage(APP_IS_DEMO ? "합성 노트 원문과 검색 별칭을 찾고 있습니다." : "노션 원문과 검색 별칭을 찾고 있습니다.");
   dom.searchResults.replaceChildren();
-  dom.newCardSection.hidden = true;
   dom.duplicatePanel.hidden = true;
 
   try {
@@ -230,13 +247,13 @@ async function onSearch(event) {
     appState.searchQuery = data.query || query;
     appState.searchResults = Array.isArray(data.results) ? data.results.slice(0, 3) : [];
     renderSearchResults();
-    prepareNewCardForm();
     const count = appState.searchResults.length;
     setSearchMessage(
       count
         ? `${APP_IS_DEMO ? "합성 노트 원문" : "기존 원문"} ${count}개를 먼저 확인하세요.`
-        : `가까운 ${APP_IS_DEMO ? "합성 노트 원문" : "기존 원문"}을 찾지 못했습니다. 새 후보를 만들 수 있습니다.`
+        : `가까운 ${APP_IS_DEMO ? "합성 노트 원문" : "기존 원문"}을 찾지 못했습니다. 아래 바로 저장으로 추가하세요.`
     );
+    if (!count) prefillQuickSave(appState.searchQuery);
   } catch (error) {
     appState.searchCompleted = false;
     setSearchMessage(friendlyError(error), true);
@@ -336,7 +353,7 @@ function unverifiedSearchAction(card) {
   const archivedNotion = verification === "notion-original" || ["archive", "archived"].includes(lifecycle);
   if (archivedNotion) return { label: "검수 후보로 보내기", sendToInbox: true };
 
-  return { label: "받은함에서 검수하기", sendToInbox: false };
+  return { label: "내 표현에서 검수하기", sendToInbox: false };
 }
 
 async function handleUnverifiedSearchResult(card, action, trigger) {
@@ -355,7 +372,7 @@ async function handleUnverifiedSearchResult(card, action, trigger) {
       method: "POST",
       body: JSON.stringify({ cardId: card.id, decision: "soon" }),
     });
-    showToast("검수 후보를 받은함으로 보냈습니다.");
+    showToast("검수 후보를 내 표현의 검수 대기로 보냈습니다.");
     await loadState();
     navigate("inbox");
   } catch (error) {
@@ -365,36 +382,33 @@ async function handleUnverifiedSearchResult(card, action, trigger) {
   }
 }
 
-function prepareNewCardForm() {
-  if (!appState.searchCompleted) return;
-  dom.newCardSection.hidden = false;
-  dom.duplicatePanel.hidden = true;
-  const intentInput = dom.newCardForm.elements.intentKo;
-  intentInput.value = appState.searchQuery;
-  dom.cardAlias.value = appState.searchQuery;
-  if (appState.language !== "all") dom.cardLanguage.value = appState.language;
-  updateNewCardLanguageFields();
-}
-
-function updateNewCardLanguageFields() {
-  const isChinese = dom.cardLanguage.value === "Chinese";
-  dom.pronunciationField.hidden = !isChinese;
-  dom.newCardForm.elements.pronunciation.required = isChinese;
-}
-
-async function onNewCardSubmit(event) {
-  event.preventDefault();
-  if (!appState.searchCompleted) {
-    showToast(`새 표현을 저장하기 전에 ${APP_IS_DEMO ? "합성 노트 원문" : "기존 원문"} 검색을 먼저 해야 합니다.`);
-    dom.searchQuery.focus();
-    return;
+function prefillQuickSave(query) {
+  const intentInput = dom.quickSaveForm.elements.intentKo;
+  if (!intentInput.value.trim() || intentInput.dataset.autofilled === "true") {
+    intentInput.value = query;
+    intentInput.dataset.autofilled = "true";
   }
-  if (!dom.newCardForm.reportValidity()) return;
+  if (appState.language !== "all") dom.quickSaveLanguage.value = appState.language;
+  updateQuickSaveLanguage();
+  dom.quickSaveSection.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  dom.quickSaveForm.elements.targetText.focus({ preventScroll: true });
+}
 
-  const payload = newCardPayload("check");
-  appState.pendingCardPayload = payload;
-  const submit = dom.newCardForm.querySelector("button[type='submit']");
-  setButtonBusy(submit, true, "중복 확인 중…");
+function updateQuickSaveLanguage() {
+  const isChinese = dom.quickSaveLanguage.value === "Chinese";
+  dom.quickSaveLanguageChip.textContent = isChinese ? "저장 언어 · 中文" : "저장 언어 · English";
+  dom.quickPronunciationField.hidden = !isChinese;
+  dom.quickSaveForm.elements.pronunciation.required = isChinese;
+}
+
+async function onQuickSaveSubmit(event) {
+  event.preventDefault();
+  if (!dom.quickSaveForm.reportValidity()) return;
+
+  const payload = quickSavePayload();
+  appState.pendingQuickPayload = payload;
+  const submit = dom.quickSaveForm.querySelector("button[type='submit']");
+  setButtonBusy(submit, true, "저장 중…");
   dom.duplicatePanel.hidden = true;
 
   try {
@@ -402,26 +416,22 @@ async function onNewCardSubmit(event) {
     if (data?.requiresConfirmation && Array.isArray(data.duplicates) && data.duplicates.length) {
       renderDuplicateChoices(data.duplicates);
     } else {
-      onCandidateSaved(data);
+      onQuickSaved(data);
     }
   } catch (error) {
-    const duplicates = Array.isArray(error.details?.duplicates) ? error.details.duplicates : [];
-    if (error.status === 409 && duplicates.length) {
-      renderDuplicateChoices(duplicates);
-    } else {
-      showToast(friendlyError(error));
-    }
+    showToast(friendlyError(error));
   } finally {
     setButtonBusy(submit, false);
   }
 }
 
-function newCardPayload(action) {
-  const data = new FormData(dom.newCardForm);
+function quickSavePayload() {
+  const data = new FormData(dom.quickSaveForm);
+  const intentKo = String(data.get("intentKo") || "").trim();
   return {
-    action,
-    language: String(data.get("language") || ""),
-    intentKo: String(data.get("intentKo") || "").trim(),
+    action: "save",
+    language: String(data.get("language") || "English"),
+    intentKo,
     targetText: String(data.get("targetText") || "").trim(),
     pronunciation: String(data.get("pronunciation") || "").trim(),
     kind: String(data.get("kind") || "expression"),
@@ -430,7 +440,7 @@ function newCardPayload(action) {
     purpose: String(data.get("purpose") || "").trim(),
     habitualText: String(data.get("habitualText") || "").trim(),
     note: String(data.get("note") || "").trim(),
-    alias: String(data.get("alias") || appState.searchQuery).trim(),
+    alias: intentKo,
   };
 }
 
@@ -439,7 +449,7 @@ function renderDuplicateChoices(duplicates) {
   dom.duplicatePanel.hidden = false;
   dom.duplicatePanel.append(
     element("h3", "", "비슷한 기존 항목이 있습니다"),
-    element("p", "supporting-copy", "자동으로 합치지 않습니다. 기존 항목에 이번 검색 별칭을 붙이거나, 다른 상황이면 새 후보로 저장하세요.")
+    element("p", "supporting-copy", "자동으로 합치지 않습니다. 기존 항목에 이번 상황을 별칭으로 붙이거나, 다른 상황이면 새로 저장하세요.")
   );
   const list = element("div", "duplicate-list");
   duplicates.forEach((item) => {
@@ -450,24 +460,32 @@ function renderDuplicateChoices(duplicates) {
       element("p", "target-text", displayExpression(card) || "학습 표현 없음")
     );
     const mergeButton = button("기존 항목에 별칭 추가", "secondary-button");
-    mergeButton.addEventListener("click", () => resolveDuplicate("merge", card, mergeButton));
+    mergeButton.addEventListener("click", () => resolveQuickDuplicate("merge", card, mergeButton));
     row.append(mergeButton);
     list.append(row);
   });
-  const forceButton = button("그래도 새 후보로 저장", "primary-button");
-  forceButton.addEventListener("click", () => resolveDuplicate("force", null, forceButton));
+  const forceButton = button("그래도 새로 저장", "primary-button");
+  forceButton.addEventListener("click", () => resolveQuickDuplicate("force", null, forceButton));
   dom.duplicatePanel.append(list, forceButton);
   dom.duplicatePanel.scrollIntoView({ behavior: "smooth", block: "nearest" });
 }
 
-async function resolveDuplicate(action, card, trigger) {
-  if (!appState.pendingCardPayload) return;
-  const payload = { ...appState.pendingCardPayload, action };
-  if (action === "merge") payload.mergeIntoId = card.id;
+async function resolveQuickDuplicate(kind, card, trigger) {
+  if (!appState.pendingQuickPayload) return;
+  const payload = kind === "merge"
+    ? { ...appState.pendingQuickPayload, action: "merge", mergeIntoId: card.id }
+    : { ...appState.pendingQuickPayload, action: "save", force: true };
   setButtonBusy(trigger, true, "저장 중…");
   try {
     const data = await api("/api/cards", { method: "POST", body: JSON.stringify(payload) });
-    onCandidateSaved(data, action === "merge");
+    if (kind === "merge") {
+      dom.duplicatePanel.hidden = true;
+      appState.pendingQuickPayload = null;
+      showToast("기존 항목에 이번 상황을 별칭으로 연결했습니다.");
+      await loadState();
+    } else {
+      onQuickSaved(data);
+    }
   } catch (error) {
     showToast(friendlyError(error));
   } finally {
@@ -475,34 +493,123 @@ async function resolveDuplicate(action, card, trigger) {
   }
 }
 
-function onCandidateSaved(data, merged = false) {
-  showToast(merged ? "기존 항목에 검색 별칭을 추가했습니다." : "새 후보를 받은함에 저장했습니다.");
+function onQuickSaved(data) {
+  const card = normalizeCard(data);
+  const review = data?.review || null;
+  appState.pendingQuickPayload = null;
   dom.duplicatePanel.hidden = true;
-  appState.pendingCardPayload = null;
-  if (!merged) {
-    dom.newCardForm.reset();
-    if (appState.language !== "all") dom.cardLanguage.value = appState.language;
-    updateNewCardLanguageFields();
-  }
-  loadState().then(() => navigate(merged ? "search" : "inbox"));
-  return data;
+  dom.quickSaveForm.reset();
+  delete dom.quickSaveForm.elements.intentKo.dataset.autofilled;
+  if (appState.language !== "all") dom.quickSaveLanguage.value = appState.language;
+  updateQuickSaveLanguage();
+  loadState();
+  showToast("오늘 복습에 추가했습니다.", {
+    label: "지금 말해보기",
+    onAction: () => startInstantReview({ card, review }),
+  });
+}
+
+function startInstantReview(item) {
+  const card = normalizeCard(item);
+  if (!card.id) return;
+  navigate("review");
+  dom.reviewSummary.textContent = "방금 저장한 표현부터 말해 봅니다.";
+  dom.reviewStage.replaceChildren(buildReviewCard(item, 1));
 }
 
 function renderReview() {
   renderPendingUses();
   const queue = asArray(appState.server?.queue);
   const stats = appState.server?.stats || {};
-  const cap = 5;
-  const interactionCap = 7;
+  const limits = appState.server?.limits || {};
+  const cap = safeCount(limits.dailyQueue) || 5;
+  const interactionCap = safeCount(limits.interactions) || 7;
   dom.reviewSummary.textContent = queue.length
     ? `${queue.length}개가 준비됐습니다. 언어별 하루 ${cap}개, 실패 재시도까지 최대 ${interactionCap}개입니다.`
     : "오늘 꺼내 말할 항목이 없습니다.";
   dom.reviewStage.replaceChildren();
   if (!queue.length) {
-    dom.reviewStage.append(emptyState("오늘 복습을 마쳤습니다", safeCount(stats.nextDue) ? `다음 예정 ${safeCount(stats.nextDue)}개가 있습니다.` : "검색하거나 실제로 쓴 표현부터 다시 보게 됩니다."));
+    dom.reviewStage.append(emptyState(
+      "오늘 복습을 마쳤습니다",
+      safeCount(stats.nextDue)
+        ? `다음 예정 ${safeCount(stats.nextDue)}개가 아래 일정에 있습니다.`
+        : "찾기 화면의 바로 저장으로 새 표현을 추가하면 오늘 복습에 바로 들어옵니다."
+    ));
+    const upcomingPanel = buildUpcomingPanel();
+    if (upcomingPanel) dom.reviewStage.append(upcomingPanel);
     return;
   }
   dom.reviewStage.append(buildReviewCard(queue[0], queue.length));
+}
+
+function buildUpcomingPanel() {
+  const upcoming = asArray(appState.server?.upcoming);
+  if (!upcoming.length) return null;
+  const panel = element("div", "upcoming-panel");
+  panel.append(element("span", "detail-label", "다가오는 복습 · 7일"));
+
+  const today = startOfDay(new Date());
+  const dayCounts = new Map();
+  let beyond = 0;
+  upcoming.forEach((item) => {
+    const dueAt = effectiveDueDate(item?.review);
+    if (!dueAt) return;
+    const diffDays = Math.round((startOfDay(dueAt) - today) / DAY_MS);
+    if (diffDays <= 7) {
+      const key = formatDateOnly(dueAt);
+      dayCounts.set(key, (dayCounts.get(key) || 0) + 1);
+    } else {
+      beyond += 1;
+    }
+  });
+
+  const daysList = element("ul", "upcoming-days");
+  dayCounts.forEach((count, label) => {
+    const line = document.createElement("li");
+    line.append(element("span", "", label), element("span", "upcoming-count", `${count}개`));
+    daysList.append(line);
+  });
+  if (beyond) {
+    const line = document.createElement("li");
+    line.append(element("span", "", "8일 이후"), element("span", "upcoming-count", `${beyond}개`));
+    daysList.append(line);
+  }
+  panel.append(daysList);
+
+  const preview = upcoming.slice(0, 3);
+  if (preview.length) {
+    const previewWrap = element("div", "upcoming-preview");
+    previewWrap.append(element("span", "detail-label", "가장 이른 카드"));
+    preview.forEach((item) => {
+      const card = normalizeCard(item);
+      const dueAt = effectiveDueDate(item?.review);
+      const line = element("p", "upcoming-preview-item");
+      line.append(
+        element("strong", "", displayExpression(card) || card.intentKo || "표현 없음"),
+        document.createTextNode(dueAt ? ` · ${formatDateOnly(dueAt)}` : "")
+      );
+      previewWrap.append(line);
+    });
+    panel.append(previewWrap);
+  }
+  return panel;
+}
+
+function effectiveDueDate(review) {
+  if (!review || !review.dueAt) return null;
+  const dueAt = new Date(review.dueAt);
+  if (Number.isNaN(dueAt.getTime())) return null;
+  if (review.snoozedUntil) {
+    const snoozed = new Date(review.snoozedUntil);
+    if (!Number.isNaN(snoozed.getTime()) && snoozed > dueAt) return snoozed;
+  }
+  return dueAt;
+}
+
+function startOfDay(value) {
+  const date = new Date(value);
+  date.setHours(0, 0, 0, 0);
+  return date.getTime();
 }
 
 function renderPendingUses() {
@@ -723,11 +830,241 @@ async function submitDiscover(cardId, decision, trigger) {
 function renderInbox() {
   const items = asArray(appState.server?.inbox);
   dom.inboxList.replaceChildren();
-  if (!items.length) {
-    dom.inboxList.append(emptyState("받은함이 비었습니다", "새 후보와 재검수 항목이 생기면 여기에 표시됩니다."));
+  dom.inboxPendingSection.hidden = !items.length;
+  dom.inboxPendingCount.textContent = items.length ? `${items.length}개` : "";
+  items.forEach((item) => dom.inboxList.append(buildInboxCard(item)));
+  renderCollection();
+}
+
+function renderCollection() {
+  const items = asArray(appState.server?.collection);
+  const textFilter = String(dom.collectionFilterText.value || "").trim().toLocaleLowerCase();
+  const languageFilter = dom.collectionFilterLanguage.value;
+  const filtered = items.filter((item) => {
+    const card = normalizeCard(item);
+    if (languageFilter !== "all" && card.language !== languageFilter) return false;
+    if (!textFilter) return true;
+    const haystack = [card.intentKo, card.targetText, card.learnedText, (card.aliases || []).join(" ")]
+      .join(" ")
+      .toLocaleLowerCase();
+    return haystack.includes(textFilter);
+  });
+  dom.collectionCount.textContent = `${filtered.length}개`;
+  dom.collectionList.replaceChildren();
+  if (!filtered.length) {
+    dom.collectionList.append(emptyState(
+      "표시할 표현이 없습니다",
+      items.length ? "필터를 지우면 전체 목록이 다시 보입니다." : "찾기 화면의 바로 저장으로 첫 표현을 추가해 보세요."
+    ));
     return;
   }
-  items.forEach((item) => dom.inboxList.append(buildInboxCard(item)));
+  filtered.forEach((item) => dom.collectionList.append(buildCollectionItem(item)));
+}
+
+function buildCollectionItem(item) {
+  const card = normalizeCard(item);
+  const review = item?.review || null;
+  const wrap = element("article", "collection-item");
+  const row = element("button", "collection-row");
+  row.type = "button";
+  row.setAttribute("aria-expanded", "false");
+  const copy = element("div", "collection-copy");
+  copy.append(
+    element("p", "collection-intent", card.intentKo || "상황 설명 없음"),
+    element("p", "collection-expression", displayExpression(card) || "학습 표현 없음")
+  );
+  const side = element("div", "collection-side");
+  side.append(collectionBadge(card, review));
+  const dueLabel = collectionDueLabel(card, review);
+  if (dueLabel) side.append(element("span", "collection-due", dueLabel));
+  row.append(copy, side);
+
+  const detail = element("div", "collection-detail");
+  detail.hidden = true;
+
+  row.addEventListener("click", () => {
+    const willOpen = detail.hidden;
+    if (willOpen && !detail.childElementCount) detail.append(buildCollectionDetail(card, review));
+    detail.hidden = !willOpen;
+    row.setAttribute("aria-expanded", String(willOpen));
+    appState.collectionOpenId = willOpen ? card.id : null;
+  });
+
+  if (appState.collectionOpenId === card.id) {
+    detail.append(buildCollectionDetail(card, review));
+    detail.hidden = false;
+    row.setAttribute("aria-expanded", "true");
+  }
+
+  wrap.append(row, detail);
+  return wrap;
+}
+
+function collectionBadge(card, review) {
+  const lifecycle = String(card?.lifecycle || "").toLowerCase();
+  const verification = String(card?.verification || "").toLowerCase();
+  let label = "후보";
+  let className = "badge-candidate";
+  if (["needs-review", "source-changed"].includes(verification) || lifecycle === "needs-review") {
+    label = "재검수";
+    className = "badge-review";
+  } else if (["archive", "archived"].includes(lifecycle)) {
+    label = "보관 원문";
+    className = "";
+  } else if (isVerified(card) && Number(review?.step) >= 6 && Number(review?.successfulUses) >= 2) {
+    label = "익힘";
+    className = "badge-learned";
+  } else if (isVerified(card) && lifecycle === "learning") {
+    label = "학습중";
+    className = "badge-learning";
+  }
+  return element("span", `collection-badge ${className}`.trim(), label);
+}
+
+function collectionDueLabel(card, review) {
+  if (!isVerified(card) || card.active === false || String(card?.lifecycle).toLowerCase() !== "learning") return "";
+  const dueAt = effectiveDueDate(review);
+  if (!dueAt) return "";
+  return dueAt.getTime() <= Date.now() ? "오늘 복습" : `다음 ${formatDateOnly(dueAt)}`;
+}
+
+function buildCollectionDetail(card, review) {
+  const wrap = element("div");
+  const meta = element("div", "card-meta");
+  meta.append(element("span", "meta-chip", languageLabel(card.language)), statusChip(card));
+  if (safeCount(review?.reviewCount)) meta.append(element("span", "meta-chip", `복습 ${safeCount(review.reviewCount)}회`));
+  if (safeCount(card.actualUseCount)) meta.append(element("span", "meta-chip", `실사용 ${safeCount(card.actualUseCount)}회`));
+  if (card.createdAt) meta.append(element("span", "meta-chip", `저장 ${formatDateOnly(card.createdAt)}`));
+  wrap.append(meta);
+
+  const form = element("form", "field-grid collection-edit-form");
+  form.append(
+    editField("한국어 상황·뜻", "intentKo", card.intentKo, { type: "textarea", required: true, full: true }),
+    editField("학습 표현", "targetText", card.targetText, { type: "textarea", required: true, full: true })
+  );
+  if (card.language === "Chinese") {
+    form.append(editField("병음", "pronunciation", card.pronunciation, { required: isVerified(card), full: true }));
+  }
+  if (isVerified(card)) {
+    form.append(editField("검수 학습본", "learnedText", card.learnedText, { type: "textarea", full: true }));
+  }
+  form.append(
+    buildKindSelect(card.kind),
+    editField("말의 목적", "purpose", card.purpose),
+    editField("장면", "scene", card.scene),
+    editField("상대", "counterpart", card.counterpart),
+    editField("평소 표현", "habitualText", card.habitualText, { full: true }),
+    editField("메모", "note", card.note, { type: "textarea", full: true })
+  );
+
+  const actions = element("div", "collection-detail-actions field-full");
+  const saveButton = button("변경 저장", "primary-button");
+  saveButton.type = "submit";
+  actions.append(saveButton);
+  if (isVerified(card)) {
+    const useButton = button("지금 쓰기", "secondary-button");
+    useButton.addEventListener("click", () => openUseDialog(card));
+    actions.append(useButton);
+  }
+  const retireButton = button("보관", "secondary-button retire-button");
+  retireButton.addEventListener("click", () => retireCard(card, retireButton));
+  actions.append(retireButton);
+  form.append(actions);
+
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    if (!form.reportValidity()) return;
+    submitCollectionEdit(card, form, saveButton);
+  });
+
+  wrap.append(form);
+  return wrap;
+}
+
+function editField(labelText, name, value, { type = "input", rows = 2, required = false, full = false } = {}) {
+  const label = element("label", `field${full ? " field-full" : ""}`);
+  const title = element("span", "", `${labelText} `);
+  if (required) title.append(element("b", "", "*"));
+  label.append(title);
+  let control;
+  if (type === "textarea") {
+    control = document.createElement("textarea");
+    control.rows = rows;
+  } else {
+    control = document.createElement("input");
+    control.type = "text";
+    control.autocomplete = "off";
+  }
+  control.name = name;
+  control.value = value || "";
+  control.required = required;
+  label.append(control);
+  return label;
+}
+
+function buildKindSelect(value) {
+  const label = element("label", "field");
+  label.append(element("span", "", "항목 유형"));
+  const select = document.createElement("select");
+  select.name = "kind";
+  [
+    ["expression", "실전 표현"],
+    ["script", "장면 스크립트·공식 문의"],
+    ["concept", "단어·개념"],
+    ["checklist", "시험 노하우·체크리스트"],
+    ["reference", "일회성·오래된 정보"],
+  ].forEach(([optionValue, optionLabel]) => {
+    const option = document.createElement("option");
+    option.value = optionValue;
+    option.textContent = optionLabel;
+    if (optionValue === (value || "expression")) option.selected = true;
+    select.append(option);
+  });
+  label.append(select);
+  return label;
+}
+
+async function submitCollectionEdit(card, form, trigger) {
+  const data = new FormData(form);
+  const payload = {
+    action: "update",
+    cardId: card.id,
+    intentKo: String(data.get("intentKo") || "").trim(),
+    targetText: String(data.get("targetText") || "").trim(),
+    pronunciation: data.has("pronunciation") ? String(data.get("pronunciation") || "").trim() : (card.pronunciation || ""),
+    kind: String(data.get("kind") || card.kind || "expression"),
+    purpose: String(data.get("purpose") || "").trim(),
+    scene: String(data.get("scene") || "").trim(),
+    counterpart: String(data.get("counterpart") || "").trim(),
+    habitualText: String(data.get("habitualText") || "").trim(),
+    note: String(data.get("note") || "").trim(),
+  };
+  if (data.has("learnedText")) payload.learnedText = String(data.get("learnedText") || "").trim();
+  setButtonBusy(trigger, true, "저장 중…");
+  try {
+    await api("/api/cards", { method: "POST", body: JSON.stringify(payload) });
+    appState.collectionOpenId = card.id;
+    showToast("표현을 수정했습니다.");
+    await loadState();
+  } catch (error) {
+    showToast(friendlyError(error));
+    setButtonBusy(trigger, false);
+  }
+}
+
+async function retireCard(card, trigger) {
+  if (!card.id) return;
+  if (!window.confirm("이 표현을 보관할까요? 복습과 목록에서 빠집니다.")) return;
+  setButtonBusy(trigger, true, "보관 중…");
+  try {
+    await api("/api/cards", { method: "POST", body: JSON.stringify({ action: "retire", cardId: card.id }) });
+    appState.collectionOpenId = null;
+    showToast("표현을 보관했습니다.");
+    await loadState();
+  } catch (error) {
+    showToast(friendlyError(error));
+    setButtonBusy(trigger, false);
+  }
 }
 
 function setNotionSyncLoading() {
@@ -1418,13 +1755,21 @@ function setButtonBusy(buttonElement, busy, busyLabel = "처리 중…") {
   }
 }
 
-function showToast(message) {
+function showToast(message, action = null) {
   window.clearTimeout(appState.toastTimer);
-  dom.toast.textContent = message;
+  dom.toast.replaceChildren(element("span", "toast-message", message));
+  if (action && action.label && typeof action.onAction === "function") {
+    const actionButton = button(action.label, "toast-action");
+    actionButton.addEventListener("click", () => {
+      dom.toast.hidden = true;
+      action.onAction();
+    });
+    dom.toast.append(actionButton);
+  }
   dom.toast.hidden = false;
   appState.toastTimer = window.setTimeout(() => {
     dom.toast.hidden = true;
-  }, 4200);
+  }, action ? 8000 : 4200);
 }
 
 function asArray(value) {
@@ -1457,6 +1802,12 @@ function formatDateTime(value) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return String(value);
   return new Intl.DateTimeFormat("ko-KR", { dateStyle: "medium", timeStyle: "short" }).format(date);
+}
+
+function formatDateOnly(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return String(value ?? "");
+  return new Intl.DateTimeFormat("ko-KR", { month: "long", day: "numeric", weekday: "short" }).format(date);
 }
 
 function registerServiceWorker() {

@@ -3,7 +3,7 @@
 (() => {
   const STATE_KEY = "language-recall-demo-state-v1";
   const PRIVATE_URL_KEY = "language-recall-private-app-url-v1";
-  const LIMITS = Object.freeze({ active: 4, discovery: 1, interactions: 7, perSourcePage: 2 });
+  const LIMITS = Object.freeze({ active: 200, dailyQueue: 5, discovery: 1, interactions: 7, perSourcePage: 2 });
   const DAY_MS = 24 * 60 * 60 * 1000;
   const nativeFetch = typeof window.fetch === "function" ? window.fetch.bind(window) : null;
   let memoryState = null;
@@ -321,6 +321,20 @@
       .slice(0, 3)
       .map((item) => ({ card: publicCard(item.card), plannedAt: item.plannedAt }));
 
+    const collection = cards
+      .filter((card) => card.lifecycle !== "retired")
+      .sort((left, right) => new Date(right.createdAt || 0) - new Date(left.createdAt || 0))
+      .map((card) => ({ card: publicCard(card), review: clone(state.reviews[card.id]) || null }));
+
+    const upcoming = cards
+      .filter((card) => {
+        const review = state.reviews[card.id];
+        return isActive(card) && review && !reviewDue(review, instant);
+      })
+      .map((card) => ({ card: publicCard(card), review: clone(state.reviews[card.id]) }))
+      .sort((left, right) => new Date(left.review.dueAt) - new Date(right.review.dueAt))
+      .slice(0, 30);
+
     const map = buildMapRows(cards, state.reviews);
     const active = cards.filter(isActive).length;
     const learned = cards.filter((card) => {
@@ -334,10 +348,12 @@
     }).length;
 
     return {
-      queue: dueItems.slice(0, LIMITS.active),
+      queue: dueItems.slice(0, LIMITS.dailyQueue),
       discovery,
       inbox,
       pendingUses,
+      collection,
+      upcoming,
       stats: {
         total: cards.filter((card) => card.lifecycle !== "retired").length,
         active,
@@ -358,7 +374,7 @@
     };
   }
 
-  function candidateFromBody(state, body) {
+  function candidateFromBody(state, body, mode = "candidate") {
     const language = body.language === "Chinese" ? "Chinese" : "English";
     const instant = nowIso();
     const id = `demo-added-${state.nextCardNumber}`;
@@ -376,7 +392,7 @@
       purpose: cleanText(body.purpose),
       habitualText: cleanText(body.habitualText),
       note: cleanText(body.note),
-      aliases: uniqueText([body.alias]),
+      aliases: uniqueText([body.alias, body.intentKo]),
       verification: "candidate",
       lifecycle: "candidate",
       active: false,
@@ -385,8 +401,8 @@
       createdAt: instant,
       updatedAt: instant,
       source: {
-        pageTitle: "이 브라우저에서 추가한 합성 데모 후보",
-        path: ["합성 데모 자료", "직접 추가"],
+        pageTitle: mode === "save" ? "이 브라우저에서 바로 저장한 합성 데모 표현" : "이 브라우저에서 추가한 합성 데모 후보",
+        path: ["합성 데모 자료", mode === "save" ? "바로 저장" : "직접 추가"],
         rawText: cleanText(body.targetText),
       },
     });
@@ -402,6 +418,83 @@
 
   function handleCards(state, body) {
     const action = cleanText(body.action) || "check";
+
+    if (action === "save") {
+      const validation = validateCandidate(body);
+      if (validation) return failure("INVALID_CARD", validation, 400);
+      const language = body.language === "Chinese" ? "Chinese" : "English";
+      const preview = {
+        language,
+        intentKo: cleanText(body.intentKo),
+        targetText: cleanText(body.targetText),
+        aliases: uniqueText([body.alias, body.intentKo]),
+      };
+      const duplicates = duplicateRows(state, preview);
+      if (duplicates.length && body.force !== true) {
+        return success({ requiresConfirmation: true, duplicates });
+      }
+      if (countActive(state.cards, language) >= LIMITS.active) {
+        return failure(
+          "ACTIVE_LIMIT",
+          `언어별 학습 카드 ${LIMITS.active}개 상한에 도달했습니다.`,
+          409
+        );
+      }
+      const card = candidateFromBody(state, body, "save");
+      card.learnedText = card.targetText;
+      card.verification = "verified";
+      card.lifecycle = "learning";
+      card.active = true;
+      state.cards.push(card);
+      state.reviews[card.id] = {
+        cardId: card.id,
+        step: 0,
+        reviewCount: 0,
+        successfulUses: 0,
+        dueAt: nowIso(),
+      };
+      writeState(state);
+      return success({ card: publicCard(card), review: clone(state.reviews[card.id]), duplicates }, 201);
+    }
+
+    if (action === "update") {
+      const card = findCard(state, cleanText(body.cardId));
+      if (!card) return failure("CARD_NOT_FOUND", "수정할 항목을 찾지 못했습니다.", 404);
+      if (card.lifecycle === "retired") return failure("CARD_RETIRED", "보관한 항목은 수정할 수 없습니다.", 409);
+      const intentKo = cleanText(body.intentKo);
+      const targetText = cleanText(body.targetText);
+      if (!intentKo) return failure("INVALID_CARD", "한국어 상황을 적어 주세요.", 400);
+      if (!targetText) return failure("INVALID_CARD", "학습 표현을 적어 주세요.", 400);
+      const pronunciation = cleanText(body.pronunciation !== undefined ? body.pronunciation : card.pronunciation);
+      if (card.language === "Chinese" && isVerified(card) && !pronunciation) {
+        return failure("PRONUNCIATION_REQUIRED", "중국어는 병음을 함께 적어 주세요.", 400);
+      }
+      card.intentKo = intentKo;
+      card.targetText = targetText;
+      card.pronunciation = pronunciation;
+      if (body.learnedText !== undefined) card.learnedText = cleanText(body.learnedText);
+      if (isVerified(card) && !card.learnedText) card.learnedText = targetText;
+      ["kind", "scene", "counterpart", "purpose", "habitualText", "note"].forEach((field) => {
+        if (body[field] !== undefined) card[field] = cleanText(body[field]);
+      });
+      card.aliases = uniqueText([...(card.aliases || []), intentKo]);
+      card.updatedAt = nowIso();
+      writeState(state);
+      return success({ card: publicCard(card), review: clone(state.reviews[card.id]) || null });
+    }
+
+    if (action === "retire") {
+      const card = findCard(state, cleanText(body.cardId));
+      if (!card) return failure("CARD_NOT_FOUND", "보관할 항목을 찾지 못했습니다.", 404);
+      if (card.lifecycle === "retired") return failure("CARD_RETIRED", "이미 보관한 항목입니다.", 409);
+      card.lifecycle = "retired";
+      card.active = false;
+      card.updatedAt = nowIso();
+      delete state.reviews[card.id];
+      state.pendingUses = state.pendingUses.filter((item) => item.cardId !== card.id);
+      writeState(state);
+      return success({ card: publicCard(card), retired: true });
+    }
 
     if (["check", "force"].includes(action)) {
       const validation = validateCandidate(body);

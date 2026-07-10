@@ -14,16 +14,21 @@
     <a class="skip-link" href="#main">본문으로 건너뛰기</a>
 
     <section class="demo-banner" aria-labelledby="demo-banner-title">
-      <div class="demo-banner-copy">
-        <p class="demo-banner-kicker">Public demo</p>
-        <h2 id="demo-banner-title">합성 예시로 작동하는 공개 데모입니다</h2>
-        <p>화면의 문장과 노트는 실제 개인 자료가 아닙니다. 데모에서 만든 기록은 이 브라우저에만 저장됩니다.</p>
-      </div>
-      <div class="demo-banner-actions">
-        <button id="demo-reset" class="secondary-button" type="button">데모 초기화</button>
-        <button id="private-config" class="secondary-button" type="button">개인 앱 연결 설정</button>
-        <button id="private-launch" class="primary-button" type="button" hidden>개인 앱 열기</button>
-      </div>
+      <details class="demo-banner-details">
+        <summary class="demo-banner-line">
+          <span class="demo-banner-kicker">Public demo</span>
+          <h2 id="demo-banner-title">합성 예시 공개 데모</h2>
+          <span class="demo-banner-more" aria-hidden="true">자세히</span>
+        </summary>
+        <div class="demo-banner-body">
+          <p>화면의 문장과 노트는 실제 개인 자료가 아닙니다. 데모에서 만든 기록은 이 브라우저에만 저장됩니다.</p>
+          <div class="demo-banner-actions">
+            <button id="demo-reset" class="secondary-button" type="button">데모 초기화</button>
+            <button id="private-config" class="secondary-button" type="button">개인 앱 연결 설정</button>
+            <button id="private-launch" class="primary-button" type="button" hidden>개인 앱 열기</button>
+          </div>
+        </div>
+      </details>
     </section>
 
     <header class="app-header">
@@ -70,71 +75,72 @@
         <div id="search-message" class="inline-status" role="status" aria-live="polite"></div>
         <div id="search-results" class="result-stack" aria-label="검색 결과"></div>
 
-        <section id="new-card-section" class="panel new-card-panel" hidden aria-labelledby="new-card-title">
+        <section id="quick-save-section" class="panel quick-save-panel" aria-labelledby="quick-save-title">
           <div class="panel-heading">
             <div>
-              <p class="panel-kicker">Not found</p>
-              <h2 id="new-card-title">새 후보로 추가</h2>
+              <p class="panel-kicker">Save now</p>
+              <h2 id="quick-save-title">바로 저장</h2>
             </div>
-            <span class="status-chip status-pending">후보·미검수</span>
+            <span id="quick-save-language-chip" class="meta-chip">English</span>
           </div>
-          <p class="supporting-copy">GPT에서 확정한 표현 한 문장을 붙여 넣으세요. 저장 전에 중복을 한 번 더 확인합니다.</p>
+          <p class="supporting-copy">쓸 만한 표현을 두 칸만 적어 저장하면 곧바로 오늘 복습에 들어갑니다.</p>
 
-          <form id="new-card-form" class="field-grid" novalidate>
-            <label class="field">
-              <span>언어 <b aria-hidden="true">*</b></span>
-              <select id="card-language" name="language" required>
-                <option value="English">English</option>
-                <option value="Chinese">中文</option>
-              </select>
-            </label>
-            <label class="field">
-              <span>이번 검색 별칭</span>
-              <input id="card-alias" name="alias" type="text" readonly>
-            </label>
+          <form id="quick-save-form" class="field-grid quick-save-form" novalidate>
             <label class="field field-full">
-              <span>한국어 상황·의도 <b aria-hidden="true">*</b></span>
-              <textarea name="intentKo" rows="2" required></textarea>
+              <span>한국어 상황·뜻 <b aria-hidden="true">*</b></span>
+              <textarea name="intentKo" rows="2" required placeholder="예: 처방약이 언제 준비되는지 묻기"></textarea>
             </label>
             <label class="field field-full">
               <span>학습 표현 <b aria-hidden="true">*</b></span>
-              <textarea name="targetText" rows="3" required></textarea>
+              <textarea name="targetText" rows="2" required placeholder="예: When will my prescription be ready?"></textarea>
             </label>
-            <label id="pronunciation-field" class="field field-full" hidden>
+            <label id="quick-pronunciation-field" class="field field-full" hidden>
               <span>병음 <b aria-hidden="true">*</b></span>
               <input name="pronunciation" type="text" autocomplete="off">
             </label>
-            <label class="field">
-              <span>항목 유형</span>
-              <select name="kind">
-                <option value="expression">실전 표현</option>
-                <option value="script">장면 스크립트·공식 문의</option>
-                <option value="concept">단어·개념</option>
-                <option value="checklist">시험 노하우·체크리스트</option>
-                <option value="reference">일회성·오래된 정보</option>
-              </select>
-            </label>
-            <label class="field">
-              <span>말의 목적</span>
-              <input name="purpose" type="text" autocomplete="off">
-            </label>
-            <label class="field">
-              <span>장면</span>
-              <input name="scene" type="text" autocomplete="off">
-            </label>
-            <label class="field">
-              <span>상대</span>
-              <input name="counterpart" type="text" autocomplete="off">
-            </label>
-            <label class="field field-full">
-              <span>평소 표현</span>
-              <input name="habitualText" type="text" autocomplete="off">
-            </label>
-            <label class="field field-full">
-              <span>메모</span>
-              <textarea name="note" rows="2"></textarea>
-            </label>
-            <button class="primary-button field-full" type="submit">중복 확인 후 후보 저장</button>
+            <details id="quick-save-details" class="quick-save-details field-full">
+              <summary>자세히 입력</summary>
+              <div class="field-grid quick-save-detail-grid">
+                <label class="field">
+                  <span>언어</span>
+                  <select id="quick-save-language" name="language">
+                    <option value="English">English</option>
+                    <option value="Chinese">中文</option>
+                  </select>
+                </label>
+                <label class="field">
+                  <span>항목 유형</span>
+                  <select name="kind">
+                    <option value="expression">실전 표현</option>
+                    <option value="script">장면 스크립트·공식 문의</option>
+                    <option value="concept">단어·개념</option>
+                    <option value="checklist">시험 노하우·체크리스트</option>
+                    <option value="reference">일회성·오래된 정보</option>
+                  </select>
+                </label>
+                <label class="field">
+                  <span>말의 목적</span>
+                  <input name="purpose" type="text" autocomplete="off">
+                </label>
+                <label class="field">
+                  <span>장면</span>
+                  <input name="scene" type="text" autocomplete="off">
+                </label>
+                <label class="field">
+                  <span>상대</span>
+                  <input name="counterpart" type="text" autocomplete="off">
+                </label>
+                <label class="field">
+                  <span>평소 표현</span>
+                  <input name="habitualText" type="text" autocomplete="off">
+                </label>
+                <label class="field field-full">
+                  <span>메모</span>
+                  <textarea name="note" rows="2"></textarea>
+                </label>
+              </div>
+            </details>
+            <button class="primary-button field-full" type="submit">저장하고 오늘 복습에 넣기</button>
           </form>
 
           <div id="duplicate-panel" class="duplicate-panel" hidden aria-live="polite"></div>
@@ -171,9 +177,9 @@
 
       <section id="screen-inbox" class="screen" data-screen="inbox" aria-labelledby="inbox-title" hidden>
         <header class="screen-heading compact-heading">
-          <p class="mp-eyebrow">Candidate queue</p>
-          <h1 id="inbox-title" class="mp-title">받은함</h1>
-            <p class="screen-intro">새 데모 후보와 다시 검수할 항목을 한곳에서 확인합니다.</p>
+          <p class="mp-eyebrow">My expressions</p>
+          <h1 id="inbox-title" class="mp-title">내 표현</h1>
+            <p class="screen-intro">저장한 표현 전체를 훑어보고 고치며, 검수 대기 항목을 처리합니다.</p>
           </header>
         <section id="notion-sync-panel" class="notion-sync-panel" aria-labelledby="notion-sync-title" hidden>
           <div class="notion-sync-copy">
@@ -186,7 +192,40 @@
           </div>
           <button id="notion-sync-button" class="secondary-button notion-sync-button" type="button">Notion 새로고침</button>
         </section>
-        <div id="inbox-list" class="result-stack" aria-live="polite"></div>
+        <section id="inbox-pending-section" class="inbox-pending-section" aria-labelledby="inbox-pending-title" hidden>
+          <div class="collection-heading">
+            <div>
+              <p class="panel-kicker">Needs review</p>
+              <h2 id="inbox-pending-title">검수 대기</h2>
+            </div>
+            <span id="inbox-pending-count" class="status-chip status-pending"></span>
+          </div>
+          <div id="inbox-list" class="result-stack" aria-live="polite"></div>
+        </section>
+        <section id="collection-section" class="collection-section" aria-labelledby="collection-title">
+          <div class="collection-heading">
+            <div>
+              <p class="panel-kicker">All saved</p>
+              <h2 id="collection-title">저장한 표현</h2>
+            </div>
+            <span id="collection-count" class="status-chip"></span>
+          </div>
+          <div class="collection-filters">
+            <label class="field collection-filter-text">
+              <span class="visually-hidden">표현 안에서 찾기</span>
+              <input id="collection-filter-text" type="search" placeholder="뜻이나 표현으로 거르기" autocomplete="off">
+            </label>
+            <label class="field collection-filter-language">
+              <span class="visually-hidden">언어 필터</span>
+              <select id="collection-filter-language">
+                <option value="all">전체 언어</option>
+                <option value="English">English</option>
+                <option value="Chinese">中文</option>
+              </select>
+            </label>
+          </div>
+          <div id="collection-list" class="collection-list" aria-live="polite"></div>
+        </section>
       </section>
 
       <section id="screen-map" class="screen" data-screen="map" aria-labelledby="map-title" hidden>
@@ -215,7 +254,7 @@
       </button>
       <button type="button" class="nav-item" data-nav="inbox">
         <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 5h16v14H4V5Zm0 9h5l1.5 2h3L15 14h5"/></svg>
-        <span>받은함</span>
+        <span>내 표현</span>
       </button>
       <button type="button" class="nav-item" data-nav="map">
         <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m3 6 6-3 6 3 6-3v15l-6 3-6-3-6 3V6Zm6-3v15m6-12v15"/></svg>

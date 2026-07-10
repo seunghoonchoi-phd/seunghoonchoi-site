@@ -130,9 +130,11 @@ function checkContentParity() {
   }
 }
 
-async function executeDemoAdapter() {
-  const storage = new Map();
-  let nativeFetches = 0;
+const DEMO_STATE_KEY = "language-recall-demo-state-v1";
+
+function createDemoSandbox(initialStorage = null) {
+  const storage = new Map(initialStorage || []);
+  const counters = { nativeFetches: 0 };
   const elements = Object.fromEntries(["#demo-reset", "#private-config", "#private-launch"].map((selector) => [selector, {
     hidden: selector === "#private-launch",
     href: "",
@@ -178,7 +180,7 @@ async function executeDemoAdapter() {
     prompt: () => null,
     open: () => null,
     fetch: async () => {
-      nativeFetches += 1;
+      counters.nativeFetches += 1;
       throw new Error("public demo attempted a native network request");
     },
   };
@@ -187,6 +189,55 @@ async function executeDemoAdapter() {
   vm.createContext(sandbox);
   vm.runInContext(read(path.join(appDir, "demo-data.js")), sandbox, { filename: "demo-data.js" });
   vm.runInContext(read(path.join(appDir, "demo-adapter.js")), sandbox, { filename: "demo-adapter.js" });
+  return { sandbox, elements, storage, counters };
+}
+
+function syntheticActiveState(schemaVersion, count) {
+  const instant = new Date().toISOString();
+  const future = new Date(Date.now() + (24 * 60 * 60 * 1000)).toISOString();
+  const cards = [];
+  const reviews = {};
+  for (let index = 0; index < count; index += 1) {
+    const id = `cap-${index}`;
+    cards.push({
+      id,
+      language: "English",
+      intentKo: `합성 상한 검사 상황 ${index}`,
+      targetText: `Synthetic cap phrase ${index}.`,
+      learnedText: `Synthetic cap phrase ${index}.`,
+      pronunciation: "",
+      kind: "expression",
+      scene: "자동 검사",
+      counterpart: "",
+      purpose: "",
+      habitualText: "",
+      note: "",
+      aliases: [],
+      verification: "verified",
+      lifecycle: "learning",
+      active: true,
+      actualUseCount: 0,
+      lastUsedAt: null,
+      createdAt: instant,
+      updatedAt: instant,
+      source: { pageTitle: "합성 상한 검사", path: ["합성 상한 검사"], rawText: "" },
+    });
+    reviews[id] = { cardId: id, step: 0, reviewCount: 0, successfulUses: 0, dueAt: future };
+  }
+  return {
+    schemaVersion,
+    cards,
+    reviews,
+    pendingUses: [],
+    useHistory: [],
+    nextCardNumber: 1,
+    lastSyncAt: instant,
+    updatedAt: instant,
+  };
+}
+
+async function executeDemoAdapter() {
+  const { sandbox, elements, counters } = createDemoSandbox();
 
   const privateUrl = "https://private.example.test/review";
   sandbox.RecallDemo.setPrivateAppUrl(privateUrl);
@@ -249,32 +300,112 @@ async function executeDemoAdapter() {
   });
 
   sandbox.RecallDemo.reset();
-  const fourthCreated = await post("/api/cards", candidate("four"));
-  const fourthId = fourthCreated.payload.data?.card?.id;
-  const fourthApproved = await post("/api/cards", { action: "approve", cardId: fourthId, force: true });
-  if (fourthCreated.status !== 201 || fourthApproved.status !== 200 || !fourthApproved.payload.ok) {
-    fail("demo adapter did not allow the fourth active English card");
+
+  const seedVersion = Number(sandbox.RecallDemoSeed?.schemaVersion) || 1;
+  const seedCardCount = Array.isArray(sandbox.RecallDemoSeed?.cards) ? sandbox.RecallDemoSeed.cards.length : 0;
+
+  const limitsPayload = await (await sandbox.fetch("https://example.test/api/state?language=English")).json();
+  const limits = limitsPayload.data?.limits || {};
+  if (limits.active !== 200) fail(`collection limit must be 200, found ${limits.active}`);
+  if (limits.dailyQueue !== 5) fail(`daily review queue limit must be 5, found ${limits.dailyQueue}`);
+  if ((limitsPayload.data?.queue || []).length > limits.dailyQueue) {
+    fail("review queue exceeds the daily limit");
   }
 
-  const fifthCreated = await post("/api/cards", candidate("five"));
-  const fifthId = fifthCreated.payload.data?.card?.id;
-  const fifthApproved = await post("/api/cards", { action: "approve", cardId: fifthId, force: true });
-  if (fifthApproved.status !== 409 || fifthApproved.payload.error?.code !== "ACTIVE_LIMIT") {
-    fail("demo adapter did not reject the fifth active English card with ACTIVE_LIMIT");
+  const quickSave = (suffix, overrides = {}) => ({
+    action: "save",
+    language: "English",
+    intentKo: `합성 바로 저장 상황 ${suffix}`,
+    targetText: `Synthetic quick save phrase ${suffix}.`,
+    pronunciation: "",
+    alias: `합성 바로 저장 상황 ${suffix}`,
+    ...overrides,
+  });
+
+  const savedDirect = await post("/api/cards", quickSave("one"));
+  const savedCard = savedDirect.payload.data?.card;
+  const savedReview = savedDirect.payload.data?.review;
+  if (savedDirect.status !== 201 || savedCard?.verification !== "verified" || savedCard?.lifecycle !== "learning" || savedCard?.active !== true) {
+    fail("direct save did not create an immediately active card");
+  }
+  if (!savedReview?.dueAt || new Date(savedReview.dueAt).getTime() > Date.now() + 1000) {
+    fail("direct save did not schedule the card for today's review");
   }
 
-  const inactiveReview = await post("/api/review", { cardId: fifthId, rating: "good" });
+  const afterSave = await (await sandbox.fetch("https://example.test/api/state?language=English")).json();
+  if (!afterSave.data?.queue?.some((item) => item.card?.id === savedCard?.id)) {
+    fail("directly saved card did not enter today's review queue");
+  }
+  if (afterSave.data?.collection?.[0]?.card?.id !== savedCard?.id) {
+    fail("directly saved card is not the newest item in the collection list");
+  }
+
+  const directReview = await post("/api/review", { cardId: savedCard?.id, rating: "good" });
+  if (directReview.status !== 200 || !directReview.payload.ok) {
+    fail("directly saved card could not be reviewed without inbox approval");
+  }
+
+  const duplicateSave = await post("/api/cards", quickSave("dupe", {
+    intentKo: "약국에서 처방약이 언제 준비되는지 묻기",
+    targetText: "When will my prescription be ready?",
+    alias: "약국에서 처방약이 언제 준비되는지 묻기",
+  }));
+  if (duplicateSave.status !== 200 || duplicateSave.payload.data?.requiresConfirmation !== true || !(duplicateSave.payload.data?.duplicates || []).length) {
+    fail("direct save skipped the duplicate confirmation for a near-identical card");
+  }
+
+  const updated = await post("/api/cards", {
+    action: "update",
+    cardId: savedCard?.id,
+    intentKo: "합성 바로 저장 상황 하나 수정",
+    targetText: "Synthetic quick save phrase one edited.",
+  });
+  if (updated.status !== 200 || updated.payload.data?.card?.intentKo !== "합성 바로 저장 상황 하나 수정") {
+    fail("collection edit action did not update the card");
+  }
+
+  const retired = await post("/api/cards", { action: "retire", cardId: savedCard?.id });
+  const afterRetire = await (await sandbox.fetch("https://example.test/api/state?language=English")).json();
+  if (retired.status !== 200 || afterRetire.data?.collection?.some((item) => item.card?.id === savedCard?.id)) {
+    fail("retire action did not remove the card from the collection list");
+  }
+
+  sandbox.RecallDemo.reset();
+  for (const suffix of ["two", "three", "extra"]) {
+    await post("/api/cards", quickSave(suffix, { force: true }));
+  }
+  const overflow = await (await sandbox.fetch("https://example.test/api/state?language=English")).json();
+  if ((overflow.data?.stats?.due || 0) <= limits.dailyQueue) {
+    fail("daily queue overflow scenario did not produce more due cards than the daily limit");
+  }
+  if ((overflow.data?.queue || []).length !== limits.dailyQueue) {
+    fail("review queue is not clamped to the daily limit");
+  }
+
+  const candidateCreated = await post("/api/cards", candidate("gate"));
+  const candidateId = candidateCreated.payload.data?.card?.id;
+  const candidateCard = candidateCreated.payload.data?.card;
+  if (candidateCreated.status !== 201 || candidateCard?.active !== false || candidateCard?.lifecycle !== "candidate") {
+    fail("candidate path no longer creates an inactive inbox card");
+  }
+  const inactiveReview = await post("/api/review", { cardId: candidateId, rating: "good" });
   if (inactiveReview.status !== 409 || inactiveReview.payload.error?.code !== "CARD_NOT_REVIEWABLE") {
     fail("demo adapter allowed review of an inactive candidate");
   }
-  const inactiveUse = await post("/api/use", { cardId: fifthId, action: "plan" });
+  const inactiveUse = await post("/api/use", { cardId: candidateId, action: "plan" });
   if (inactiveUse.status !== 409 || inactiveUse.payload.error?.code !== "CARD_NOT_USABLE") {
     fail("demo adapter allowed use of an inactive candidate");
   }
+  const approved = await post("/api/cards", { action: "approve", cardId: candidateId, force: true });
+  if (approved.status !== 200 || approved.payload.data?.card?.active !== true) {
+    fail("inbox approval did not activate the candidate");
+  }
 
+  const secondCandidate = await post("/api/cards", candidate("dupe-guard"));
+  const secondCandidateId = secondCandidate.payload.data?.card?.id;
   const languageMismatch = await post("/api/cards", {
     action: "resolve-duplicate",
-    cardId: fifthId,
+    cardId: secondCandidateId,
     mergeIntoId: "demo-zh-slowly",
   });
   if (languageMismatch.status !== 409 || languageMismatch.payload.error?.code !== "LANGUAGE_MISMATCH") {
@@ -289,7 +420,31 @@ async function executeDemoAdapter() {
     fail("demo adapter allowed duplicate resolution from a non-candidate card");
   }
 
-  if (nativeFetches !== 0) fail(`demo made ${nativeFetches} native network request(s)`);
+  const boundary = createDemoSandbox([[DEMO_STATE_KEY, JSON.stringify(syntheticActiveState(seedVersion, 199))]]);
+  const boundaryPost = async (pathname, body) => {
+    const response = await boundary.sandbox.fetch(`https://example.test${pathname}`, {
+      method: "POST",
+      body: JSON.stringify(body),
+    });
+    return { status: response.status, payload: await response.json() };
+  };
+  const twoHundredth = await boundaryPost("/api/cards", quickSave("boundary-a", { force: true }));
+  if (twoHundredth.status !== 201 || !twoHundredth.payload.ok) {
+    fail("demo adapter rejected the 200th active English card");
+  }
+  const twoHundredFirst = await boundaryPost("/api/cards", quickSave("boundary-b", { force: true }));
+  if (twoHundredFirst.status !== 409 || twoHundredFirst.payload.error?.code !== "ACTIVE_LIMIT") {
+    fail("demo adapter did not reject the 201st active English card with ACTIVE_LIMIT");
+  }
+
+  const legacy = createDemoSandbox([[DEMO_STATE_KEY, JSON.stringify({ schemaVersion: seedVersion - 1, cards: [], reviews: {} })]]);
+  const legacyState = await (await legacy.sandbox.fetch("https://example.test/api/state?language=all")).json();
+  if ((legacyState.data?.stats?.total || 0) !== seedCardCount) {
+    fail("old-schema demo state was not safely reset to the synthetic seed");
+  }
+
+  const nativeTotal = counters.nativeFetches + boundary.counters.nativeFetches + legacy.counters.nativeFetches;
+  if (nativeTotal !== 0) fail(`demo made ${nativeTotal} native network request(s)`);
 
   const serialized = JSON.stringify(statePayload.data);
   if (/https?:\/\//i.test(serialized) || /\b[0-9a-f]{8}-[0-9a-f-]{27,}\b/i.test(serialized)) {
@@ -298,6 +453,15 @@ async function executeDemoAdapter() {
 }
 
 async function executeServiceWorkerIsolation() {
+  const swSource = read(path.join(appDir, "sw.js"));
+  const versionMatch = swSource.match(/\$\{CACHE_PREFIX\}(v\d+)`/);
+  if (!versionMatch) {
+    fail("service worker shell cache version could not be determined");
+    return;
+  }
+  const cachePrefix = "language-recall-demo-";
+  const shellCache = `${cachePrefix}${versionMatch[1]}`;
+  const fakeKeys = [`${cachePrefix}old`, `${cachePrefix}v3`, shellCache, "reading-trainer-v12", "site-shell-v1"];
   const listeners = new Map();
   const deleted = [];
   const sandbox = {
@@ -305,7 +469,7 @@ async function executeServiceWorkerIsolation() {
     URL,
     Promise,
     caches: {
-      keys: async () => ["language-recall-demo-old", "language-recall-demo-v3", "reading-trainer-v12", "site-shell-v1"],
+      keys: async () => fakeKeys.slice(),
       delete: async (key) => { deleted.push(key); return true; },
       open: async () => ({ addAll: async () => {}, put: async () => {} }),
       match: async () => null,
@@ -319,7 +483,7 @@ async function executeServiceWorkerIsolation() {
     fetch: async () => new Response("", { status: 200 }),
   };
   vm.createContext(sandbox);
-  vm.runInContext(read(path.join(appDir, "sw.js")), sandbox, { filename: "sw.js" });
+  vm.runInContext(swSource, sandbox, { filename: "sw.js" });
   const activate = listeners.get("activate");
   if (!activate) {
     fail("service worker has no activate handler");
@@ -328,8 +492,16 @@ async function executeServiceWorkerIsolation() {
   let activation = Promise.resolve();
   activate({ waitUntil: (promise) => { activation = promise; } });
   await activation;
-  if (JSON.stringify(deleted) !== JSON.stringify(["language-recall-demo-old"])) {
-    fail(`service worker deleted caches outside its own old prefix: ${deleted.join(", ")}`);
+  const expectedDeleted = fakeKeys.filter((key) => key.startsWith(cachePrefix) && key !== shellCache);
+  const foreignDeleted = deleted.filter((key) => !key.startsWith(cachePrefix));
+  if (foreignDeleted.length) {
+    fail(`service worker deleted caches outside its own prefix: ${foreignDeleted.join(", ")}`);
+  }
+  if (deleted.includes(shellCache)) {
+    fail("service worker deleted its own live shell cache");
+  }
+  if (JSON.stringify(deleted.filter((key) => key.startsWith(cachePrefix)).sort()) !== JSON.stringify(expectedDeleted.slice().sort())) {
+    fail(`service worker did not purge exactly its own stale caches: ${deleted.join(", ") || "none"}`);
   }
 }
 

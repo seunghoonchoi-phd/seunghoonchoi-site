@@ -256,7 +256,7 @@
   }
 
   window.RecallDemoSeed = deepFreeze({
-    schemaVersion: 1,
+    schemaVersion: 2,
     cards,
     reviews,
     pendingUses: [],
