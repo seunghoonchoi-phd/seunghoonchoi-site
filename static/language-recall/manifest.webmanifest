@@ -1,0 +1,20 @@
+{
+  "name": "외국어 회상지도 · 공개 데모",
+  "short_name": "회상지도 데모",
+  "description": "합성 예시로 검색·검수·복습 흐름을 체험하는 공개 데모",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "/language-recall/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F8F6F3",
+  "theme_color": "#0D1B4C",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

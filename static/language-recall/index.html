@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#0D1B4C">
+    <meta name="description" content="합성 예시로 외국어 회상지도의 검색·검수·복습 흐름을 체험하는 공개 데모">
+    <link rel="manifest" href="./manifest.webmanifest">
+    <link rel="icon" href="./icon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./styles.css">
+    <title>외국어 회상지도 · 공개 데모</title>
+  </head>
+  <body class="mp brand-bg">
+    <a class="skip-link" href="#main">본문으로 건너뛰기</a>
+
+    <section class="demo-banner" aria-labelledby="demo-banner-title">
+      <div class="demo-banner-copy">
+        <p class="demo-banner-kicker">Public demo</p>
+        <h2 id="demo-banner-title">합성 예시로 작동하는 공개 데모입니다</h2>
+        <p>화면의 문장과 노트는 실제 개인 자료가 아닙니다. 데모에서 만든 기록은 이 브라우저에만 저장됩니다.</p>
+      </div>
+      <div class="demo-banner-actions">
+        <button id="demo-reset" class="secondary-button" type="button">데모 초기화</button>
+        <button id="private-config" class="secondary-button" type="button">개인 앱 연결 설정</button>
+        <button id="private-launch" class="primary-button" type="button" hidden>개인 앱 열기</button>
+      </div>
+    </section>
+
+    <header class="app-header">
+      <div class="brand-lockup" aria-label="외국어 회상지도">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <div>
+          <p class="brand-kicker">Recall Map</p>
+          <p class="brand-name">외국어 회상지도</p>
+        </div>
+      </div>
+      <label class="language-field" for="language-select">
+        <span>언어</span>
+        <select id="language-select" name="language">
+          <option value="English">English</option>
+          <option value="Chinese">中文</option>
+          <option value="all">전체</option>
+        </select>
+      </label>
+    </header>
+
+    <div id="offline-banner" class="offline-banner" role="status" hidden>
+      오프라인입니다. 데모 기록은 이 브라우저에 저장되므로 계속 사용할 수 있습니다.
+    </div>
+
+    <main id="main" class="app-main" tabindex="-1">
+      <section id="screen-search" class="screen is-active" data-screen="search" aria-labelledby="search-title">
+        <header class="screen-heading">
+          <p class="mp-eyebrow">Synthetic notes first</p>
+          <h1 id="search-title" class="mp-title">지금 하고 싶은 말을 찾아보세요</h1>
+          <p class="screen-intro">새 답을 만들기 전에 합성 노트 원문과 검색 별칭부터 확인합니다.</p>
+        </header>
+
+        <form id="search-form" class="search-form" novalidate>
+          <label for="search-query">한국어 상황이나 하고 싶은 말</label>
+          <div class="search-row">
+            <textarea id="search-query" name="q" rows="3" required placeholder="예: 상대에게 무엇을 확인하고 싶은지 적기"></textarea>
+            <button class="primary-button search-button" type="submit">
+              <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m21 21-4.4-4.4m2.4-5.1a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z"/></svg>
+              <span>먼저 찾기</span>
+            </button>
+          </div>
+        </form>
+
+        <div id="search-message" class="inline-status" role="status" aria-live="polite"></div>
+        <div id="search-results" class="result-stack" aria-label="검색 결과"></div>
+
+        <section id="new-card-section" class="panel new-card-panel" hidden aria-labelledby="new-card-title">
+          <div class="panel-heading">
+            <div>
+              <p class="panel-kicker">Not found</p>
+              <h2 id="new-card-title">새 후보로 추가</h2>
+            </div>
+            <span class="status-chip status-pending">후보·미검수</span>
+          </div>
+          <p class="supporting-copy">GPT에서 확정한 표현 한 문장을 붙여 넣으세요. 저장 전에 중복을 한 번 더 확인합니다.</p>
+
+          <form id="new-card-form" class="field-grid" novalidate>
+            <label class="field">
+              <span>언어 <b aria-hidden="true">*</b></span>
+              <select id="card-language" name="language" required>
+                <option value="English">English</option>
+                <option value="Chinese">中文</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>이번 검색 별칭</span>
+              <input id="card-alias" name="alias" type="text" readonly>
+            </label>
+            <label class="field field-full">
+              <span>한국어 상황·의도 <b aria-hidden="true">*</b></span>
+              <textarea name="intentKo" rows="2" required></textarea>
+            </label>
+            <label class="field field-full">
+              <span>학습 표현 <b aria-hidden="true">*</b></span>
+              <textarea name="targetText" rows="3" required></textarea>
+            </label>
+            <label id="pronunciation-field" class="field field-full" hidden>
+              <span>병음 <b aria-hidden="true">*</b></span>
+              <input name="pronunciation" type="text" autocomplete="off">
+            </label>
+            <label class="field">
+              <span>항목 유형</span>
+              <select name="kind">
+                <option value="expression">실전 표현</option>
+                <option value="script">장면 스크립트·공식 문의</option>
+                <option value="concept">단어·개념</option>
+                <option value="checklist">시험 노하우·체크리스트</option>
+                <option value="reference">일회성·오래된 정보</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>말의 목적</span>
+              <input name="purpose" type="text" autocomplete="off">
+            </label>
+            <label class="field">
+              <span>장면</span>
+              <input name="scene" type="text" autocomplete="off">
+            </label>
+            <label class="field">
+              <span>상대</span>
+              <input name="counterpart" type="text" autocomplete="off">
+            </label>
+            <label class="field field-full">
+              <span>평소 표현</span>
+              <input name="habitualText" type="text" autocomplete="off">
+            </label>
+            <label class="field field-full">
+              <span>메모</span>
+              <textarea name="note" rows="2"></textarea>
+            </label>
+            <button class="primary-button field-full" type="submit">중복 확인 후 후보 저장</button>
+          </form>
+
+          <div id="duplicate-panel" class="duplicate-panel" hidden aria-live="polite"></div>
+        </section>
+      </section>
+
+      <section id="screen-review" class="screen" data-screen="review" aria-labelledby="review-title" hidden>
+        <header class="screen-heading compact-heading">
+          <p class="mp-eyebrow">Today · Recall</p>
+          <h1 id="review-title" class="mp-title">오늘 복습</h1>
+          <p id="review-summary" class="screen-intro">오늘 큐를 불러오는 중입니다.</p>
+        </header>
+        <section id="pending-use-section" class="pending-use-section" aria-labelledby="pending-use-title" hidden>
+          <div class="pending-use-heading">
+            <div>
+              <p class="panel-kicker">After use</p>
+              <h2 id="pending-use-title">사용 후 복기</h2>
+            </div>
+            <span id="pending-use-count" class="status-chip status-pending"></span>
+          </div>
+          <div id="pending-use-list" class="pending-use-list" aria-live="polite"></div>
+        </section>
+        <div id="review-stage" class="review-stage" aria-live="polite"></div>
+      </section>
+
+      <section id="screen-discover" class="screen" data-screen="discover" aria-labelledby="discover-title" hidden>
+        <header class="screen-heading compact-heading">
+          <p class="mp-eyebrow">One synthetic note</p>
+          <h1 id="discover-title" class="mp-title">다시 발견</h1>
+          <p class="screen-intro">묻혀 있던 합성 노트 한 개만 보고 앞으로 어떻게 쓸지 분류합니다.</p>
+        </header>
+        <div id="discover-stage" class="discover-stage" aria-live="polite"></div>
+      </section>
+
+      <section id="screen-inbox" class="screen" data-screen="inbox" aria-labelledby="inbox-title" hidden>
+        <header class="screen-heading compact-heading">
+          <p class="mp-eyebrow">Candidate queue</p>
+          <h1 id="inbox-title" class="mp-title">받은함</h1>
+            <p class="screen-intro">새 데모 후보와 다시 검수할 항목을 한곳에서 확인합니다.</p>
+          </header>
+        <section id="notion-sync-panel" class="notion-sync-panel" aria-labelledby="notion-sync-title" hidden>
+          <div class="notion-sync-copy">
+            <div class="notion-sync-heading">
+              <h2 id="notion-sync-title">Notion 새로고침</h2>
+              <span id="notion-sync-status" class="status-chip status-pending">확인 중</span>
+            </div>
+            <p id="notion-sync-summary">동기화 상태를 확인하고 있습니다.</p>
+            <p id="notion-sync-error" class="notion-sync-error" hidden></p>
+          </div>
+          <button id="notion-sync-button" class="secondary-button notion-sync-button" type="button">Notion 새로고침</button>
+        </section>
+        <div id="inbox-list" class="result-stack" aria-live="polite"></div>
+      </section>
+
+      <section id="screen-map" class="screen" data-screen="map" aria-labelledby="map-title" hidden>
+        <header class="screen-heading compact-heading">
+          <p class="mp-eyebrow">Coverage</p>
+          <h1 id="map-title" class="mp-title">학습 지도</h1>
+          <p class="screen-intro">생활 영역과 말의 목적별로 익힌 표현과 실제 사용을 봅니다.</p>
+        </header>
+        <div id="map-stats" class="stat-grid" aria-live="polite"></div>
+        <div id="map-table-wrap" class="map-table-wrap" aria-live="polite"></div>
+      </section>
+    </main>
+
+    <nav class="bottom-nav" aria-label="주요 화면">
+      <button type="button" class="nav-item is-active" data-nav="search" aria-current="page">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m21 21-4.4-4.4m2.4-5.1a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z"/></svg>
+        <span>찾기</span>
+      </button>
+      <button type="button" class="nav-item" data-nav="review">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 6.5C6.5 5.5 9 5.7 12 8v12c-3-2.3-5.5-2.5-8-1.5v-12Zm16 0c-2.5-1-5-.8-8 1.5v12c3-2.3 5.5-2.5 8-1.5v-12Z"/></svg>
+        <span>복습</span>
+      </button>
+      <button type="button" class="nav-item" data-nav="discover">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v3m0 12v3M3 12h3m12 0h3m-2.6-7.4-2.1 2.1M7.7 16.3l-2.1 2.1m0-13.8 2.1 2.1m8.6 9.6 2.1 2.1"/><circle cx="12" cy="12" r="4"/></svg>
+        <span>발견</span>
+      </button>
+      <button type="button" class="nav-item" data-nav="inbox">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 5h16v14H4V5Zm0 9h5l1.5 2h3L15 14h5"/></svg>
+        <span>받은함</span>
+      </button>
+      <button type="button" class="nav-item" data-nav="map">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m3 6 6-3 6 3 6-3v15l-6 3-6-3-6 3V6Zm6-3v15m6-12v15"/></svg>
+        <span>지도</span>
+      </button>
+    </nav>
+
+    <dialog id="use-dialog" class="use-dialog" aria-labelledby="use-title">
+      <div class="use-shell">
+        <header class="use-header">
+          <p class="use-kicker">지금 쓰기</p>
+          <button id="use-close" class="icon-button" type="button" aria-label="닫기">
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></svg>
+          </button>
+        </header>
+        <div class="use-content">
+          <p id="use-language" class="language-chip"></p>
+          <h2 id="use-title" class="use-expression"></h2>
+          <p id="use-pronunciation" class="use-pronunciation" hidden></p>
+          <div class="use-actions">
+            <button id="use-copy" class="primary-button" type="button">
+              <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M9 8h10v12H9V8Zm-4 8H4V4h10v1"/></svg>
+              복사
+            </button>
+            <button id="use-speak" class="secondary-button" type="button">
+              <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 10v4h4l5 4V6L9 10H5Zm12-1c1.3 1.8 1.3 4.2 0 6m2.5-8.5c3 3 3 8 0 11"/></svg>
+              듣기
+            </button>
+          </div>
+          <button id="reflect-toggle" class="text-button" type="button" aria-expanded="false" aria-controls="reflect-form">사용 결과 기록</button>
+          <form id="reflect-form" class="reflect-form" hidden>
+            <label class="field">
+              <span>어떻게 말했나요?</span>
+              <select name="delivery" required>
+                <option value="memory">외워서 말함</option>
+                <option value="read">보고 말함</option>
+                <option value="not-used">못 씀</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>통했나요?</span>
+              <select name="understood">
+                <option value="">해당 없음·모름</option>
+                <option value="yes">통함</option>
+                <option value="needed-repeat">다시 설명함</option>
+              </select>
+            </label>
+            <label class="field field-full">
+              <span>짧은 메모</span>
+              <textarea name="note" rows="2"></textarea>
+            </label>
+            <button class="primary-button field-full" type="submit">결과 저장</button>
+          </form>
+        </div>
+      </div>
+    </dialog>
+
+    <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+    <script src="./demo-data.js" defer></script>
+    <script src="./demo-adapter.js" defer></script>
+    <script src="./app.js" defer></script>
+  </body>
+</html>

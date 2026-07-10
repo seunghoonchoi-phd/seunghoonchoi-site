@@ -41,6 +41,8 @@ jobs:
         run: node tools/check-language-sync.js
       - name: Check language shape
         run: node tools/check-language-shape.js
+      - name: Check Language Recall public safety
+        run: node tools/check-language-recall-public.js
       - name: Check caption quality
         run: node tools/check-caption-quality.js
       - name: Check paragraph rhythm

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Language recall map</title>
+  <desc id="desc">A cream recall path connects copper nodes across a navy field.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#091632"/>
+      <stop offset="0.58" stop-color="#0D1B4C"/>
+      <stop offset="1" stop-color="#16295C"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#E7B07D" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#E7B07D" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#020817" flood-opacity="0.46"/>
+    </filter>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse">
+      <path d="M54 0H0V54" fill="none" stroke="#D8D4C8" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="675" rx="42" fill="url(#bg)"/>
+  <rect width="1200" height="675" rx="42" fill="url(#grid)"/>
+  <circle cx="603" cy="334" r="250" fill="url(#glow)"/>
+  <circle cx="603" cy="334" r="122" fill="#D78A59" opacity="0.13" filter="url(#soft)"/>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M142 222C246 174 322 196 395 261S520 334 603 334" stroke="#E9E2D3" stroke-opacity="0.54" stroke-width="5"/>
+    <path d="M145 474C255 504 337 461 409 403S532 334 603 334" stroke="#C78658" stroke-opacity="0.82" stroke-width="6"/>
+    <path d="M603 334C690 334 742 271 814 224S947 171 1060 211" stroke="#E9E2D3" stroke-opacity="0.54" stroke-width="5"/>
+    <path d="M603 334C685 334 750 395 821 444S951 501 1060 454" stroke="#C78658" stroke-opacity="0.82" stroke-width="6"/>
+    <path d="M337 124C410 151 453 205 475 267" stroke="#C78658" stroke-opacity="0.38" stroke-width="3" stroke-dasharray="4 15"/>
+    <path d="M732 398C776 499 819 540 887 566" stroke="#E9E2D3" stroke-opacity="0.34" stroke-width="3" stroke-dasharray="4 15"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="82" y="152" width="184" height="140" rx="28" fill="#F2EEE5"/>
+    <rect x="82" y="404" width="184" height="140" rx="28" fill="#F2EEE5"/>
+    <rect x="934" y="142" width="184" height="140" rx="28" fill="#F2EEE5"/>
+    <rect x="934" y="384" width="184" height="140" rx="28" fill="#F2EEE5"/>
+  </g>
+
+  <g fill="none" stroke="#0D1B4C" stroke-width="12" stroke-linecap="round">
+    <path d="M123 200h99M123 235h68"/>
+    <path d="M123 452h99M123 487h54"/>
+    <path d="M975 190h99M1006 225h68"/>
+    <path d="M975 432h99M1002 467h72"/>
+  </g>
+  <g fill="#C78658">
+    <circle cx="222" cy="235" r="11"/>
+    <circle cx="206" cy="487" r="11"/>
+    <circle cx="980" cy="225" r="11"/>
+    <circle cx="980" cy="467" r="11"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <circle cx="603" cy="334" r="118" fill="#F2EEE5"/>
+    <circle cx="603" cy="334" r="91" fill="#0D1B4C"/>
+    <path d="M651 296a67 67 0 1 0 8 66" fill="none" stroke="#E4A470" stroke-width="18" stroke-linecap="round"/>
+    <path d="M655 273l4 42-41-5" fill="none" stroke="#E4A470" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="603" cy="334" r="20" fill="#F2EEE5"/>
+  </g>
+
+  <g fill="#E4A470" stroke="#F2EEE5" stroke-width="7">
+    <circle cx="142" cy="222" r="19"/>
+    <circle cx="145" cy="474" r="19"/>
+    <circle cx="337" cy="124" r="15"/>
+    <circle cx="1060" cy="211" r="19"/>
+    <circle cx="1060" cy="454" r="19"/>
+    <circle cx="887" cy="566" r="15"/>
+  </g>
+  <g fill="#F2EEE5">
+    <circle cx="395" cy="261" r="10"/>
+    <circle cx="409" cy="403" r="10"/>
+    <circle cx="814" cy="224" r="10"/>
+    <circle cx="821" cy="444" r="10"/>
+  </g>
+</svg>
