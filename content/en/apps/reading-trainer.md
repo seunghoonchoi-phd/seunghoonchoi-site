@@ -21,9 +21,13 @@ reviewStatus: "done"
 
 I wanted to read English and Chinese faster too. A words-per-minute number alone, however, cannot show whether the meaning was lost. ReadFast therefore records reading rate and comprehension as separate results.
 
+## How the training works
+
 Each session begins with a purpose. You can read for accurate understanding, capture the main idea, or find a specific name, number, or claim. Results from those three tasks are never combined.
 
 The program repeats four stages: measure your current performance on an unseen text, practice the weakest area, try another unseen text, and reassess weekly. A faster rereading of the same passage is shown as practice, not as proof of general improvement.
+
+## What ReadFast records
 
 - Three daily blocks: brief preparation, focused reading, and unseen transfer or retrieval in about ten minutes
 - Separate results: WPM or characters per minute beside raw comprehension and question-type accuracy
@@ -32,6 +36,8 @@ The program repeats four stages: measure your current performance on an unseen t
 - Purpose-specific reading: separate tasks and records for accurate reading, gist, and information finding
 - Language support and practical tools: English phrase guidance, Chinese character and segmentation practice, repeated reading, self-explanation, and three-pass paper reading
 - Installable PWA: Korean and English interface options, with offline use after the first successful load
+
+## Pace adjustment and privacy
 
 After two unseen results with at least 80 percent comprehension and low fatigue, the target pace rises by about five percent. A result from 60 to 79 percent holds the target. A result below 60 percent, or high fatigue, lowers only the target pace by about five percent. This is an initial product policy, not a scientific constant. Texts you paste and training records stay in this browser, and the app itself does not load third-party analytics scripts.
 

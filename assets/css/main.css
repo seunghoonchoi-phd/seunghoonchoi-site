@@ -75,7 +75,7 @@ body.lang-es .nav__link,body.lang-es .nav__toggle{font-size:16px;letter-spacing:
 .langswitch[data-open] .langswitch__caret{transform:rotate(180deg)}
 .langswitch__menu{position:absolute;top:calc(100% + 8px);right:0;display:none;flex-direction:column;min-width:128px;background:#fff;border:1px solid var(--hair);border-radius:12px;box-shadow:0 14px 34px rgba(13,27,76,.16);padding:6px;z-index:60}
 .langswitch[data-open] .langswitch__menu{display:flex}
-.langswitch__opt{display:block;padding:9px 12px;border-radius:8px;color:var(--ink-soft);font-weight:600;line-height:1.2;white-space:nowrap;text-align:left;transition:background .15s,color .15s}
+.langswitch__opt{display:block;padding:9px 12px;border-radius:8px;color:var(--ink-soft);font-weight:600;line-height:1.2;white-space:nowrap;text-align:start;transition:background .15s,color .15s}
 .langswitch__opt:hover{background:#EEF2FF;color:var(--navy)}
 .langswitch__opt.is-current{color:var(--navy);background:#F4F6FC}
 html[dir="rtl"] .langswitch__menu{right:auto;left:0}
@@ -89,7 +89,7 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
 .section__head{display:flex;align-items:baseline;gap:18px;margin-bottom:28px;flex-wrap:wrap}
 .section__head--page{flex-direction:column;align-items:flex-start;gap:14px}
 .section__title{font-family:var(--serif);font-weight:600;font-size:clamp(30px,4.5vw,48px);line-height:1.05;color:var(--ink);letter-spacing:-.01em}
-.section__head .link{margin-left:auto}
+.section__head .link{margin-inline-start:auto}
 .lede{font-size:18px;color:var(--ink-soft);max-width:760px}
 .lede p{margin-bottom:.6em}
 .muted{color:var(--muted);font-style:italic}
@@ -768,8 +768,8 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
 .post__meta{display:flex;align-items:center;gap:14px;flex-wrap:wrap;font-family:var(--mono);font-size:13px;color:var(--muted);margin-bottom:18px}
 .post__back{color:var(--navy)} .post__back:hover{color:var(--copper)}
 .post__cat{color:var(--copper)}
-.post__title{font-family:var(--serif);font-weight:600;font-size:clamp(30px,5vw,46px);line-height:1.12;letter-spacing:-.01em;color:var(--ink);margin-bottom:12px;word-break:normal;overflow-wrap:anywhere}
-.post__subtitle{font-family:var(--serif);font-style:italic;font-size:clamp(18px,2.4vw,22px);color:var(--navy-soft);margin-bottom:8px;word-break:normal;overflow-wrap:anywhere}
+.post__title{font-family:var(--serif);font-weight:600;font-size:clamp(30px,5vw,46px);line-height:1.12;letter-spacing:-.01em;color:var(--ink);margin-bottom:12px;text-wrap:balance;word-break:normal;overflow-wrap:break-word}
+.post__subtitle{font-family:var(--serif);font-style:italic;font-size:clamp(18px,2.4vw,22px);line-height:1.45;color:var(--navy-soft);margin-bottom:8px;text-wrap:balance;word-break:normal;overflow-wrap:break-word}
 .post__body{font-size:18px;color:var(--ink-soft);line-height:1.75;margin-top:28px}
 .post__body h2{font-family:var(--serif);font-size:28px;color:var(--ink);margin:1.6em 0 .5em}
 .post__body h3{font-family:var(--serif);font-size:22px;color:var(--ink);margin:1.4em 0 .4em}
@@ -778,7 +778,7 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
 .lede blockquote,.post__body blockquote{margin:1.35em 0;padding:.85rem 0;border:0;border-top:1px solid var(--hair);border-bottom:1px solid var(--hair);background:transparent;font-family:var(--sans);font-style:normal;color:var(--ink-soft);line-height:1.68}
 .lede blockquote p,.post__body blockquote p{margin:0 0 .55em}
 .lede blockquote p:last-child,.post__body blockquote p:last-child{margin-bottom:0}
-.post__body ul,.post__body ol{margin:0 0 1.1em 1.3em}.post__body li{margin-bottom:.4em}
+.post__body ul,.post__body ol{margin-block:0 1.1em;margin-inline:0;padding-inline-start:1.3em}.post__body li{margin-bottom:.4em}
 .post__body img{border-radius:12px;margin:1.2em 0}
 .post__body code{font-family:var(--mono);font-size:.88em;background:rgba(13,27,76,.06);padding:.12em .4em;border-radius:5px}
 .post__body pre{background:var(--navy);color:#EDEBE6;padding:20px;border-radius:12px;overflow:auto;margin:1.2em 0}
@@ -799,7 +799,7 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
 .foot__inner{max-width:var(--maxw);margin:0 auto;padding:36px clamp(20px,5vw,56px);display:flex;align-items:center;gap:24px;flex-wrap:wrap}
 .foot__name{font-family:var(--serif);font-size:18px;font-weight:600;color:var(--ink);display:block}
 .foot__role{font-size:13px;color:var(--muted)}
-.foot__links{display:flex;gap:20px;margin-left:auto;font-size:14px}
+.foot__links{display:flex;gap:20px;margin-inline-start:auto;font-size:14px}
 .foot__links a{color:var(--ink-soft)}.foot__links a:hover{color:var(--copper)}
 .foot__legal{width:100%;font-size:12px;color:var(--muted);letter-spacing:.02em;border-top:1px solid var(--hair-2);padding-top:16px}
 .foot__legal a{color:inherit;text-decoration:none}
@@ -825,14 +825,15 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
   /* dropdowns open inline only after tapping the section label */
   .nav__group{flex-direction:column;align-items:stretch}
   .nav__toggle{width:100%;justify-content:space-between;padding:14px clamp(20px,5vw,56px)}
-  .nav__caret{display:inline-flex;align-items:center;justify-content:center;margin-left:auto;width:30px;height:30px;color:var(--navy);font-size:0;line-height:1;transition:transform .2s var(--ease),color .2s var(--ease)}
+  .nav__caret{display:inline-flex;align-items:center;justify-content:center;margin-inline-start:auto;width:30px;height:30px;color:var(--navy);font-size:0;line-height:1;transition:transform .2s var(--ease),color .2s var(--ease)}
   .nav__caret::before{content:"";width:12px;height:12px;border-right:2.5px solid currentColor;border-bottom:2.5px solid currentColor;transform:rotate(45deg) translate(-2px,-2px)}
   .nav__group.is-open .nav__caret{transform:rotate(180deg);color:var(--copper)}
   .nav__menu{position:static;transform:none;opacity:1;visibility:visible;pointer-events:auto;display:none;
     background:transparent;border:0;border-radius:0;box-shadow:none;padding:0 0 6px;min-width:0}
   .nav__group.is-open .nav__menu{display:block;transform:none}
   .nav__menu::before{display:none}
-  .nav__sublink{padding:11px clamp(36px,8vw,72px);color:var(--ink-soft);text-align:left;border-top:0}
+  .nav__sublink{padding:11px clamp(36px,8vw,72px);color:var(--ink-soft);text-align:start;border-top:0}
+  html[dir="rtl"] .nav__sublink{text-align:right}
   .admin-private-link--top{display:none}
   .admin-private-link--mobile{display:block}
   .hamburger{display:flex}
@@ -866,13 +867,13 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
 .appcard{display:flex;gap:24px;align-items:center;background:var(--navy);color:#EDEBE6;border-radius:16px;padding:clamp(24px,4vw,36px);margin:10px 0 22px;box-shadow:0 22px 60px rgba(13,27,76,.22);flex-wrap:wrap}
 .appcard__icon{width:84px;height:84px;border-radius:20px;flex:none;box-shadow:0 8px 24px rgba(0,0,0,.25)}
 .appcard__body{flex:1;min-width:240px}
-.appcard__body h3{font-family:var(--serif);font-size:24px;color:#fff;margin:0 0 6px}
+.appcard__body h3{font-family:var(--serif);font-size:24px;line-height:1.25;color:#fff;margin:0 0 6px;text-wrap:balance;word-break:normal;overflow-wrap:break-word}
 .appcard__body p{color:#C7C9D6;font-size:15.5px;margin:0 0 6px}
 .appcard__free{display:inline-block;font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--copper-soft);margin-bottom:8px}
 .cta{display:inline-block;background:var(--copper);color:#fff;font-weight:600;font-size:15px;padding:12px 26px;border-radius:999px;border-bottom:0;transition:transform .25s var(--ease),background .25s}
 .cta:hover{background:var(--copper-soft);transform:translateY(-2px)}
 .post__body .cta{border-bottom:0}
-@media (max-width:560px){ .appcard{flex-direction:column;text-align:center;align-items:center} }
+@media (max-width:560px){.appcard{flex-direction:column;text-align:center;align-items:center}.appcard__body{min-width:0;width:100%}}
 
 /* ---------- Typographic color & richness ---------- */
 .section__title{color:var(--navy)}
@@ -887,7 +888,7 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
 .lede a,.post__body a{color:var(--navy);border-bottom:1px solid var(--copper);transition:color .2s,border-color .2s}
 .lede a:hover,.post__body a:hover{color:var(--copper)}
 .lede a:has(img),.post__body a:has(img){border:0;display:inline-block}
-.lede ol,.lede ul,.post__body ol,.post__body ul{margin:.6em 0 1.2em 1.4em}
+.lede ol,.lede ul,.post__body ol,.post__body ul{margin-block:.6em 1.2em;margin-inline:0;padding-inline-start:1.4em}
 .lede li,.post__body li{margin-bottom:.5em}
 .lede p,.post__body p{color:var(--ink-soft)}
 .lede ol li::marker,.post__body ol li::marker{color:var(--copper);font-family:var(--mono);font-weight:500}
@@ -1120,9 +1121,12 @@ body.lang-ko .hero__name,body.lang-ko .brand__name,body.lang-ko .brand__mark,bod
 body.lang-ko .section__title,body.lang-ko .post__title,body.lang-ko .contact__title,
 body.lang-ko .card__title,body.lang-ko .featured__title,body.lang-ko .pinned__title,
 body.lang-ko .lede h2,body.lang-ko .post__body h2{font-weight:700;letter-spacing:-.02em}
-body.lang-ko .post__title,body.lang-ko .post__subtitle,
+body.lang-ko .post__title,body.lang-ko .post__subtitle{word-break:keep-all;overflow-wrap:break-word}
+body.lang-ko .appcard__body h3{word-break:keep-all;overflow-wrap:break-word}
 body.lang-ja .post__title,body.lang-ja .post__subtitle,
-body.lang-zh .post__title,body.lang-zh .post__subtitle{word-break:keep-all;overflow-wrap:break-word}
+body.lang-zh .post__title,body.lang-zh .post__subtitle,
+body.lang-ja .appcard__body h3,body.lang-zh .appcard__body h3{word-break:normal;line-break:strict;overflow-wrap:normal;word-break:auto-phrase;text-wrap:balance}
+body.lang-ja .post__body,body.lang-zh .post__body{word-break:normal;line-break:strict;overflow-wrap:normal}
 body.lang-ko .lede h3,body.lang-ko .post__body h3,body.lang-ko .tl__body h4{font-weight:600;letter-spacing:-.01em}
 body.lang-ko .eyebrow,body.lang-ko .stat__label,body.lang-ko .subhead,body.lang-ko .appcard__free,body.lang-ko .featured__tag,body.lang-ko .pinned__tag{letter-spacing:.01em}
 body.lang-ko .nav__link{font-weight:500}
@@ -1131,9 +1135,10 @@ body.lang-ko .nav__link{font-weight:500}
 /* .post__body h3/p/a rules above would otherwise darken the card text to ink/navy
    (invisible on the navy card). Re-assert with higher specificity + later source. */
 .appcard .appcard__free{color:var(--copper-soft)}
-.appcard .appcard__body h3{color:#fff;font-size:24px;margin:0 0 6px}
+.appcard .appcard__body h3{color:#fff;font-size:24px;line-height:1.25;margin:0 0 6px}
 .appcard .appcard__body p{color:#C7C9D6}
 .appcard .cta,.appcard .cta:hover{color:#fff;border-bottom:0}
+@media (max-width:380px){.post__title{font-size:29px}.appcard .appcard__body h3{font-size:21px}}
 
 /* ---------- Poem / literature ---------- */
 .poem{text-align:center;max-width:560px;margin:8px auto}
@@ -1217,8 +1222,8 @@ body.lang-ko .cite__text{word-break:keep-all}
 .post__toc{margin:0 0 34px;padding:0 0 18px;background:transparent;border:0;border-bottom:1px solid var(--hair);border-radius:0}
 .post__toc summary{cursor:pointer;font-family:var(--sans);font-weight:700;font-size:.9rem;letter-spacing:0;text-transform:none;color:var(--navy)}
 .post__toc #TableOfContents{margin-top:.85rem}
-.post__toc #TableOfContents ul{margin:0;padding-left:0;list-style:none;counter-reset:toc-item}
-.post__toc #TableOfContents ul ul{grid-column:2;margin:.24rem 0 0;padding-left:0;counter-reset:toc-subitem}
+.post__toc #TableOfContents ul{margin:0;padding-inline-start:0;list-style:none;counter-reset:toc-item}
+.post__toc #TableOfContents ul ul{grid-column:2;margin:.24rem 0 0;padding-inline-start:0;counter-reset:toc-subitem}
 .post__toc #TableOfContents li{display:grid;grid-template-columns:1.65rem minmax(0,1fr);column-gap:.55rem;row-gap:.16rem;margin:.38rem 0;line-height:1.45;min-width:0}
 .post__toc #TableOfContents li::before{counter-increment:toc-item;content:counter(toc-item, decimal-leading-zero);grid-column:1;padding-top:.08rem;text-align:right;font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:.72rem;font-weight:700;color:var(--navy);opacity:.72}
 .post__toc #TableOfContents li li{grid-template-columns:2.05rem minmax(0,1fr);margin:.26rem 0}
@@ -1234,22 +1239,16 @@ html[dir="rtl"] .post__toc #TableOfContents a{text-align:right}
   .post__toc{overflow:hidden}
   .post__toc #TableOfContents li{grid-template-columns:1.5rem minmax(0,1fr);column-gap:.5rem}
   .post__toc #TableOfContents li li{grid-template-columns:1.9rem minmax(0,1fr)}
-  body.lang-ko .post__title,body.lang-ko .post__subtitle,
+  body.lang-ko .post__body p,body.lang-ko .post__body li,body.lang-ko .post__body a,
+  body.lang-ko .post__toc #TableOfContents a,
+  body.lang-ko .post__body .inline-image-caption{word-break:keep-all;overflow-wrap:break-word}
+  body.lang-ko .post__title,body.lang-ko .post__subtitle{word-break:keep-all;overflow-wrap:break-word}
   body.lang-ja .post__title,body.lang-ja .post__subtitle,
   body.lang-zh .post__title,body.lang-zh .post__subtitle,
-  body.lang-ko .post__body p,body.lang-ko .post__body li,body.lang-ko .post__body a,
   body.lang-ja .post__body p,body.lang-ja .post__body li,body.lang-ja .post__body a,
   body.lang-zh .post__body p,body.lang-zh .post__body li,body.lang-zh .post__body a,
-  body.lang-ko .post__toc #TableOfContents a,
-  body.lang-ja .post__toc #TableOfContents a,
-  body.lang-zh .post__toc #TableOfContents a,
-  body.lang-ko .post__body .inline-image-caption,
-  body.lang-ja .post__body .inline-image-caption,
-  body.lang-zh .post__body .inline-image-caption{word-break:normal;overflow-wrap:anywhere}
-  body.lang-ko .post__body p,body.lang-ko .post__body li{word-break:keep-all;overflow-wrap:break-word}
-  body.lang-ko .post__title,body.lang-ko .post__subtitle,
-  body.lang-ja .post__title,body.lang-ja .post__subtitle,
-  body.lang-zh .post__title,body.lang-zh .post__subtitle{word-break:keep-all;overflow-wrap:break-word}
+  body.lang-ja .post__toc #TableOfContents a,body.lang-zh .post__toc #TableOfContents a,
+  body.lang-ja .post__body .inline-image-caption,body.lang-zh .post__body .inline-image-caption{word-break:normal;line-break:strict;overflow-wrap:normal;word-break:auto-phrase}
 }
 .post__more{margin-top:52px;padding-top:26px;border-top:1px solid var(--hair)}
 .post__more-h{font-family:var(--sans);font-weight:700;font-size:1.05rem;color:var(--navy);margin:0 0 14px}

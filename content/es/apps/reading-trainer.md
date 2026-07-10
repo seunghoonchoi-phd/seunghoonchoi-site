@@ -21,9 +21,13 @@ reviewStatus: "done"
 
 Yo también quería leer más rápido en inglés y en chino. Sin embargo, una cifra de palabras por minuto no dice si se perdió el significado. Por eso ReadFast registra la velocidad de lectura y la comprensión como resultados separados.
 
+## Cómo funciona el entrenamiento
+
 Cada sesión comienza con un propósito. Puedes leer para comprender con precisión, captar la idea principal o encontrar un nombre, una cifra o una afirmación concreta. Las preguntas y los resultados de esas tres tareas nunca se combinan.
 
 El programa repite cuatro etapas: medir el estado actual con un texto nuevo, practicar el punto más débil, probar otro texto nuevo y volver a medir cada semana. Leer más rápido el mismo pasaje se muestra como práctica, no como prueba de una mejora general.
+
+## Qué registra ReadFast
 
 - Tres bloques diarios: preparación breve, lectura enfocada y transferencia a un texto nuevo o recuperación, en unos diez minutos
 - Resultados separados: WPM o caracteres por minuto junto con la comprensión original y la precisión por tipo de pregunta
@@ -32,6 +36,8 @@ El programa repite cuatro etapas: medir el estado actual con un texto nuevo, pra
 - Lectura según el propósito: tareas y registros independientes para lectura precisa, idea principal y búsqueda de información
 - Apoyo lingüístico y herramientas prácticas: grupos de palabras en inglés, caracteres y segmentación en chino, lectura repetida, autoexplicación y lectura de artículos en tres pasos
 - PWA instalable: interfaz en coreano e inglés y uso sin conexión después de la primera carga correcta
+
+## Ajuste del ritmo y privacidad
 
 Después de dos resultados en textos nuevos con al menos un 80 % de comprensión y poca fatiga, el ritmo objetivo sube aproximadamente un 5 %. Entre el 60 % y el 79 % se mantiene. Por debajo del 60 %, o con fatiga alta, solo el ritmo objetivo baja aproximadamente un 5 %. Esta es una política inicial del producto, no una constante científica. Los textos que pegas y tus registros permanecen en este navegador, y la app no carga scripts de análisis de terceros.
 
