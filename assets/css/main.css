@@ -1,21 +1,26 @@
 /* ============================================================
-   Molecular Precision — Seunghoon Choi (multilingual, multi-page)
+   Waypoint — Seunghoon Choi (multilingual, multi-page)
+   Editorial travel-mag DNA: white canvas, near-black ink, one
+   coral accent, flat geometry, giant uppercase display type.
+   Token NAMES are kept from the previous system so every
+   component below keeps working; only the values changed.
    ============================================================ */
 :root{
-  --paper:#F8F6F3; --paper-2:#FCFBF9; --ink:#1B1B1A; --ink-soft:#44423E;
-  --muted:#8A857C; --navy:#0D1B4C; --navy-soft:#2C3A78; --copper:#B87333; --copper-soft:#D4955A;
-  --hair:rgba(13,27,76,.12); --hair-2:rgba(13,27,76,.07);
-  --shadow:0 1px 2px rgba(27,27,26,.04),0 12px 40px rgba(13,27,76,.06);
-  --serif:"Playfair Display",Georgia,serif; --serif-en:"Playfair Display",Georgia,serif;
-  --sans:"Source Sans 3","Noto Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
-  --mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
-  --maxw:1120px; --ease:cubic-bezier(.2,.7,.2,1); --header-h:76px;
+  --paper:#FFFFFF; --paper-2:#FFFFFF; --ink:#242424; --ink-soft:#4E4E4E;
+  --muted:#8C8C8C; --navy:#1E1E1E; --navy-soft:#3C3C3C; --copper:#D6363C; --copper-soft:#FF4F55;
+  --dark:#16181A; --accent-2:#F0C029;
+  --hair:rgba(0,0,0,.13); --hair-2:rgba(0,0,0,.07);
+  --shadow:none;
+  --serif:"Pretendard Variable",Pretendard,-apple-system,system-ui,"Segoe UI","Noto Sans KR","Helvetica Neue",Arial,sans-serif;
+  --serif-en:"Pretendard Variable",Pretendard,-apple-system,system-ui,"Segoe UI","Helvetica Neue",Arial,sans-serif;
+  --sans:"Pretendard Variable",Pretendard,-apple-system,system-ui,"Segoe UI","Noto Sans KR","Noto Sans SC","Helvetica Neue",Arial,sans-serif;
+  --mono:"Pretendard Variable",Pretendard,-apple-system,system-ui,"Segoe UI",sans-serif;
+  --maxw:1200px; --ease:cubic-bezier(.2,.7,.2,1); --header-h:76px;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 [hidden]{display:none!important}
 html{scroll-behavior:smooth;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;-webkit-text-size-adjust:100%;text-size-adjust:100%;font-size:110%}
-body{background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:18.5px;line-height:1.6;
-  background-image:linear-gradient(rgba(248,246,243,.5),rgba(248,246,243,.5)),url(/images/molecular-bg.svg);background-size:auto,1200px 800px;background-repeat:repeat}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:18px;line-height:1.65}
 body.lang-ko{word-break:keep-all}
 a{color:inherit;text-decoration:none}
 img{max-width:100%;height:auto}
@@ -26,7 +31,7 @@ img{max-width:100%;height:auto}
 
 /* ---------- Header ---------- */
 .topbar{position:sticky;top:0;z-index:50;height:var(--header-h);display:grid;grid-template-columns:minmax(max-content,1fr) auto minmax(max-content,1fr);align-items:center;gap:24px;
-  padding:0 clamp(20px,5vw,56px);background:rgba(248,246,243,.86);backdrop-filter:blur(10px);border-bottom:1px solid var(--hair)}
+  padding:0 clamp(20px,5vw,56px);background:rgba(255,255,255,.94);backdrop-filter:blur(10px);border-bottom:1px solid var(--hair)}
 .brand{display:flex;align-items:center;gap:12px;justify-self:start;min-width:0;white-space:nowrap}
 .brand__mark{font-family:var(--serif-en);font-weight:700;font-size:18px;color:var(--navy);
   width:40px;height:40px;display:grid;place-items:center;border:1.5px solid var(--navy);border-radius:50%}
@@ -1335,4 +1340,148 @@ body.lang-ko .post__faq-a,body.lang-ko .post__authorbox-bio{word-break:keep-all}
   /* On touch, dropdown submenus are always expanded inline. When a header is tapped
      (.is-open), keep the submenu aligned — don't inherit the desktop centered transform. */
   .nav .nav__group.is-open .nav__menu{transform:none}
+}
+
+/* ============================================================
+   WAYPOINT LAYER — editorial overrides on top of the legacy
+   component rules above. Appended last so equal-specificity
+   rules here win the cascade. Signatures: flat geometry,
+   giant uppercase display headings, dark hero/footer blocks,
+   small letterspaced uppercase labels, one coral accent.
+   ============================================================ */
+
+/* ---------- Flat geometry pass ---------- */
+.card,.card__thumb,.pinned,.content-list,.incomplete-list,.dircard,.appcard,
+.post__faq-item,.cite,.post__authorbox,.searchbox__input,.search-results,
+.pagination .page-link,.chip,.btn,.cta,.nav__menu,.langswitch__menu,
+.post__body img,.lede img,.post__body pre,.rfig,.content-row__thumb,.incomplete-row__thumb{border-radius:0}
+.card,.pinned,.content-list,.incomplete-list,.search-results,.searchbox__input,
+.appcard,.lede img,.post__body img,.dircard:hover{box-shadow:none}
+.searchbox__input{background:#fff}
+
+/* ---------- Small uppercase label voice ---------- */
+.card__meta{font-family:var(--sans);font-size:11.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.card__meta .card__cat,.post__cat{color:var(--copper)}
+.post__meta{font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase}
+.link{font-size:11.5px;font-weight:800;letter-spacing:.14em;text-transform:uppercase}
+.pinned__tag{font-family:var(--sans);letter-spacing:.14em}
+.card__tag,.content-row__tag,.incomplete-row__tag,.tag{font-family:var(--sans)}
+
+/* ---------- Topbar ---------- */
+.brand__name{font-family:var(--sans);font-size:17px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+.nav__link{font-family:var(--sans);font-size:13px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--ink)}
+body.lang-es .nav__link,body.lang-es .nav__toggle{font-size:12px;letter-spacing:.05em}
+.nav__link:hover,.nav__link.is-active{color:var(--copper)}
+.nav__link::after{background:var(--copper);height:2px}
+.nav__sublink{font-family:var(--sans);font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
+
+/* ---------- Buttons ---------- */
+.btn,.cta,.cite__btn{border-radius:0;font-family:var(--sans);font-weight:800;font-size:13px;letter-spacing:.12em;text-transform:uppercase}
+.cta{padding:15px 30px}
+.chip{border-radius:0;font-weight:600}
+.langswitch__toggle{border-radius:4px}
+.pagination .page-link{font-family:var(--sans);font-weight:700}
+
+/* ---------- Home hero: full-bleed dark block ---------- */
+.home-hero{max-width:none;width:100%;margin:0;min-height:min(880px,calc(100svh - var(--header-h)));
+  padding:clamp(56px,8vw,110px) clamp(20px,5vw,56px);
+  background:var(--dark) url(/images/topo-contours.svg) center/860px auto repeat;color:#fff}
+.home-hero .eyebrow{color:rgba(255,255,255,.85);font-weight:700;letter-spacing:.22em;font-size:13px}
+.home-hero .eyebrow__rule{background:var(--copper-soft)}
+.home-hero__name{font-family:var(--sans);font-weight:900;font-size:clamp(3rem,8.5vw,7rem);line-height:.94;letter-spacing:-.015em;text-transform:uppercase;color:#fff}
+.home-hero__name .hero__name-accent{color:var(--copper-soft)}
+.home-hero__intro{color:rgba(255,255,255,.82)}
+.home-hero__intro .stat__num{font-family:var(--sans);font-weight:800;color:var(--copper-soft)}
+.home-hero__intro .stat__label{color:rgba(255,255,255,.6)}
+.home-hero__cv{gap:12px}
+.home-hero__cv a,.home-hero__contact{font-family:var(--sans);font-size:12.5px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;
+  color:#fff;background:transparent;border:2px solid rgba(255,255,255,.85);border-radius:0;padding:13px 26px;
+  transition:background .2s,color .2s,border-color .2s}
+.home-hero__cv a:hover,.home-hero__contact:hover{background:#fff;color:var(--dark);border-color:#fff}
+.home-hero__cv a:first-child{background:var(--copper-soft);border-color:var(--copper-soft)}
+.home-hero__cv a:first-child:hover{background:#E8393F;border-color:#E8393F;color:#fff}
+.home-hero__copied{color:var(--copper-soft)}
+.home-hero__qr{right:clamp(20px,4vw,56px);background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.28);box-shadow:none;color:rgba(255,255,255,.75);border-radius:0}
+.home-hero__qr:hover{border-color:var(--copper-soft);box-shadow:none}
+.home-hero__qr-copy{color:rgba(255,255,255,.7)}
+.home-hero__qr-copy strong{color:#fff}
+html[dir="rtl"] .home-hero__qr{right:auto;left:clamp(20px,4vw,56px)}
+
+/* ---------- Home tiles (section shortcuts, destination-tile grammar) ---------- */
+.home-tiles{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;max-width:none;margin:0;padding:8px}
+.tile{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;
+  min-height:clamp(150px,18vw,220px);padding:24px 18px;overflow:hidden;text-align:center;
+  background:var(--dark) url(/images/topo-contours.svg) center/620px auto repeat}
+.tile::after{content:"";position:absolute;inset:0;background:linear-gradient(160deg,rgba(0,0,0,0) 30%,rgba(0,0,0,.42));transition:background .3s}
+.tile[data-tile="research"]{background-color:#1A2430}
+.tile[data-tile="writing"]{background-color:#2A2022}
+.tile[data-tile="apps"]{background-color:#16241F}
+.tile[data-tile="career"]{background-color:#26202E}
+.tile[data-tile="about"]{background-color:#292417}
+.tile[data-tile="youtube"]{background-color:#2B1A1B}
+.tile__label{position:relative;z-index:1;color:#fff;font-weight:900;font-size:clamp(1.15rem,2.2vw,1.7rem);letter-spacing:.12em;text-transform:uppercase;transition:letter-spacing .3s var(--ease)}
+.tile__sub{position:relative;z-index:1;color:rgba(255,255,255,.62);font-size:12.5px;line-height:1.5;max-width:34ch;transition:color .3s}
+.tile:hover::after{background:linear-gradient(160deg,rgba(255,79,85,.18) 0%,rgba(214,54,60,.5))}
+.tile:hover .tile__label{letter-spacing:.18em}
+.tile:hover .tile__sub{color:rgba(255,255,255,.85)}
+body.lang-ko .tile__sub,body.lang-ja .tile__sub,body.lang-zh .tile__sub{word-break:keep-all}
+@media(max-width:920px){.home-tiles{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:460px){.home-tiles{grid-template-columns:1fr}.tile{min-height:120px}}
+
+/* ---------- Giant display headings ---------- */
+.hsec__h{font-family:var(--sans);font-weight:900;font-size:clamp(2.1rem,5.6vw,4.2rem);line-height:1.02;letter-spacing:-.01em;text-transform:uppercase;color:var(--ink)}
+.hsec__h::after{content:"";display:block;width:52px;height:5px;background:var(--copper-soft);margin-top:14px}
+.hsec--contact .hsec__h::after{margin-inline:auto}
+.hsec__h .amp{font-family:var(--sans);font-style:normal;font-weight:900;font-size:1em;color:var(--copper);padding:0}
+.hsec__more{font-size:11.5px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--ink)}
+.hsec__more:hover{color:var(--copper)}
+.hsec__head{align-items:flex-end}
+.section__title{font-family:var(--sans);font-weight:900;font-size:clamp(2rem,5vw,3.6rem);line-height:1.04;letter-spacing:-.01em;text-transform:uppercase}
+.section__head:not(.section__head--page) .section__title::after,
+.section__head--page .section__title::after{content:"";display:block;width:52px;height:5px;background:var(--copper-soft);margin-top:12px}
+
+/* ---------- Cards: flat editorial ---------- */
+.card{border:0;background:transparent}
+.card:hover{transform:none;border-color:transparent;box-shadow:none}
+.card__thumb{border-bottom:0;background:#F2F2F2}
+.card__body{padding:16px 2px 8px;gap:7px}
+.card__title{font-size:20px;font-weight:700;line-height:1.3}
+.card__title a:hover{color:var(--copper)}
+.cards{gap:34px 26px}
+.pinned{border-left-width:5px}
+.pinned:hover{transform:none}
+
+/* ---------- Post pages ---------- */
+.post__title{font-family:var(--sans);font-weight:800;letter-spacing:-.015em}
+.post__subtitle{font-family:var(--sans);font-style:normal;color:var(--ink-soft)}
+.post__body h2,.lede h2{font-family:var(--sans);font-weight:800}
+.post__body h3,.lede h3{font-family:var(--sans);font-weight:700}
+.lede em,.post__body em{color:inherit}
+.lede strong,.post__body strong{color:var(--ink);font-weight:700}
+.rfig__cap{background:linear-gradient(transparent,rgba(0,0,0,.78))}
+
+/* ---------- Footer: dark block ---------- */
+.foot{background:var(--dark);border-top:0;margin-top:72px;color:rgba(255,255,255,.72)}
+.foot__inner{padding-block:44px 30px}
+.foot__name{font-family:var(--sans);font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#fff}
+.foot__role{color:rgba(255,255,255,.5)}
+.foot__links{font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase}
+.foot__links a{color:rgba(255,255,255,.72)}
+.foot__links a:hover{color:var(--copper-soft)}
+.foot__legal{border-top:1px solid rgba(255,255,255,.14);color:rgba(255,255,255,.42)}
+
+/* ---------- Waypoint responsive re-assertions (this layer sits after
+   the legacy media queries, so small-screen sizes are restated here) ---------- */
+@media(max-width:560px){
+  .home-hero__name{font-size:clamp(2.7rem,13vw,3.9rem)}
+  .home-hero__cv{gap:10px}
+  .home-hero__cv a,.home-hero__contact{font-size:11.5px;padding:12px 18px;letter-spacing:.1em}
+}
+@media(max-width:420px){
+  .home-hero{padding-left:14px;padding-right:14px}
+  .home-hero__cv a,.home-hero__contact{font-size:11px;padding:11px 14px;letter-spacing:.08em}
+  .home-hero .eyebrow{gap:8px;font-size:11px;letter-spacing:.14em;white-space:nowrap}
+}
+@media(max-width:340px){
+  .home-hero__cv a,.home-hero__contact{font-size:10px;padding:10px 12px}
 }
