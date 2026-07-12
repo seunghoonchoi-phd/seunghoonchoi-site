@@ -8,6 +8,8 @@ subtitle: "أجب عن ست خطوات ليحسب التطبيق ضريبتك و
 description: "مرشد الضرائب للطلاب تطبيق ويب مجاني يحسب ضريبة 1040-NR الفيدرالية وForm 8843 والضريبة الحكومية لطلاب F-1/J-1 عن السنة الضريبية 2026، ويملأ ملفات PDF الرسمية من IRS. كل ما تدخله يبقى في هذا المتصفح."
 image: /images/us-tax-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/us-tax/icon.svg" alt="أيقونة تطبيق مرشد الضرائب للطلاب">
