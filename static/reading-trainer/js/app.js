@@ -1,4 +1,4 @@
-// ===== app.js: shell, four-step program, settings, and progress =====
+﻿// ===== app.js: shell, four-step program, settings, and progress =====
 import {
   h, mount, $, $$, clear, countUnits, startTimer, fmtClock, sparkline,
   median, setPressed,
@@ -71,19 +71,19 @@ registerMessages('ko', {
   'app.plan.transfer': '전이·인출',
   'app.plan.minutes': '약 {minutes}분',
   'app.plan.repeat': '한 번 더',
-  'app.plan.reason.prepare.baseline': '어휘를 짧게 깨우고 기준선 읽기를 준비합니다.',
+  'app.plan.reason.prepare.baseline': '문단 첫 문장으로 글의 방향을 짧게 확인한 뒤 기준선 읽기를 시작합니다.',
   'app.plan.reason.focus.baseline': '처음 보는 글을 도움 없이 읽고 현재 속도와 이해를 잽니다.',
   'app.plan.reason.transfer.baseline': '방금 읽은 내용을 보지 않고 꺼내 봅니다.',
-  'app.plan.reason.prepare.weakness': '본훈련 전에 자주 쓰는 어휘를 복습합니다.',
+  'app.plan.reason.prepare.weakness': '본훈련 전에 문단 구조를 짧게 확인합니다.',
   'app.plan.reason.focus.weakness': '최근 오답에서 가장 약한 한 부분만 연습합니다.',
   'app.plan.reason.transfer.weakness': '연습 뒤 기억에서 핵심을 다시 꺼냅니다.',
   'app.plan.reason.prepare.transfer': '새 글 전이 전에 앞서 읽은 내용을 짧게 떠올립니다.',
   'app.plan.reason.focus.transfer': '같은 글 연습 뒤 처음 보는 관련 글에서 다시 확인합니다.',
   'app.plan.reason.transfer.transfer': '도움 없는 정확 읽기로 전이 결과를 한 번 더 확인합니다.',
-  'app.plan.reason.prepare.reassessment': '주간 재측정 전에 어휘를 짧게 복습합니다.',
+  'app.plan.reason.prepare.reassessment': '주간 재측정 전에 문단 구조를 짧게 확인합니다.',
   'app.plan.reason.focus.reassessment': '처음 보는 글로 이번 주 속도와 이해를 다시 잽니다.',
   'app.plan.reason.transfer.reassessment': '측정한 내용을 보지 않고 다시 꺼내 봅니다.',
-  'app.plan.reason.prepare.maintenance': '재측정일까지 자주 쓰는 어휘를 짧게 복습합니다.',
+  'app.plan.reason.prepare.maintenance': '재측정일까지 문단 첫 문장으로 글의 방향을 확인합니다.',
   'app.plan.reason.focus.maintenance': '새 평가 글을 쓰지 않고 최근에 약했던 부분을 유지합니다.',
   'app.plan.reason.transfer.maintenance': '이미 읽은 글의 핵심을 보지 않고 다시 꺼냅니다.',
   'app.phase.baseline': '현재 상태 확인',
@@ -247,19 +247,19 @@ registerMessages('en', {
   'app.plan.transfer': 'Transfer or retrieve',
   'app.plan.minutes': 'about {minutes} min',
   'app.plan.repeat': 'Repeat',
-  'app.plan.reason.prepare.baseline': 'Warm up frequent words before a baseline read.',
+  'app.plan.reason.prepare.baseline': 'Preview paragraph openings before the baseline read.',
   'app.plan.reason.focus.baseline': 'Read an unseen text without help and measure rate and comprehension.',
   'app.plan.reason.transfer.baseline': 'Retrieve the main points without looking back.',
-  'app.plan.reason.prepare.weakness': 'Review frequent words before focused practice.',
+  'app.plan.reason.prepare.weakness': 'Preview paragraph structure before focused practice.',
   'app.plan.reason.focus.weakness': 'Practice only the weakest area in recent answers.',
   'app.plan.reason.transfer.weakness': 'Retrieve the key information after practice.',
   'app.plan.reason.prepare.transfer': 'Recall the prior text briefly before the transfer check.',
   'app.plan.reason.focus.transfer': 'After rereading practice, check a related unseen text.',
   'app.plan.reason.transfer.transfer': 'Use an unassisted accurate read for another transfer check.',
-  'app.plan.reason.prepare.reassessment': 'Review vocabulary briefly before weekly reassessment.',
+  'app.plan.reason.prepare.reassessment': 'Preview paragraph structure before weekly reassessment.',
   'app.plan.reason.focus.reassessment': 'Measure this week’s rate and comprehension on an unseen text.',
   'app.plan.reason.transfer.reassessment': 'Retrieve what you measured without looking back.',
-  'app.plan.reason.prepare.maintenance': 'Review frequent words while waiting for reassessment day.',
+  'app.plan.reason.prepare.maintenance': 'Use paragraph openings to preview text while waiting for reassessment.',
   'app.plan.reason.focus.maintenance': 'Maintain a recent weak area without consuming a new assessment text.',
   'app.plan.reason.transfer.maintenance': 'Retrieve the main points of a text you have already read.',
   'app.phase.baseline': 'Check the current level',
@@ -377,10 +377,10 @@ registerMessages('en', {
 
 const m = (key, params) => t('app.' + key, params || {});
 const view = $('#view');
-const ROUTES = ['home', 'train', 'mytexts', 'progress', 'theory', 'settings'];
-const TAB_ICON = { home: 'today', train: 'train', mytexts: 'mytexts', progress: 'progress', theory: 'theory' };
+const ROUTES = ['train', 'mytexts', 'progress', 'theory', 'settings'];
+const TAB_ICON = { train: 'train', mytexts: 'mytexts', progress: 'progress', theory: 'theory' };
 let lang = store.getSetting('lang') || 'en';
-let route = 'home';
+let route = 'train';
 let drillActive = false;
 let installPrompt = null;
 
@@ -506,8 +506,7 @@ function render() {
   setDrillActive(false);
   clear(view);
   window.scrollTo(0, 0);
-  if (route === 'home') renderHome();
-  else if (route === 'train') renderTrain();
+  if (route === 'train') renderTrain();
   else if (route === 'mytexts') renderMyTexts();
   else if (route === 'progress') renderProgress();
   else if (route === 'theory') renderTheory(view);
@@ -580,7 +579,7 @@ function drillGoal(drill) {
 
 function launch(drill, options = {}) {
   if (!drill || !drill.langs?.includes(lang) || !confirmLeave()) return;
-  const from = route === 'home' || route === 'train' ? route : 'train';
+  const from = route === 'train' ? route : 'train';
   const exit = () => {
     runTeardown();
     setDrillActive(false);
@@ -750,7 +749,7 @@ function renderTrain() {
     h('section', { class: 'card' },
       h('h2', { class: 'h2' }, m('train.cycle')),
       renderCycle(cycle)),
-    h('details', { class: 'drill-library' },
+    h('details', { class: 'drill-library', open: true },
       h('summary', null, m('train.library')),
       h('div', { class: 'drill-library__body' },
         h('p', { class: 'small muted' }, m('train.library_help')),
@@ -1029,7 +1028,7 @@ function renderSettings() {
       lang = store.getSetting('lang') || 'en';
       applyTheme();
       applyReadingSettings();
-      go('home');
+       go('train');
     } catch (error) {
       alert(m('settings.import_failed', { reason: error.code || error.message || m('common.error') }));
     }
@@ -1115,7 +1114,7 @@ function renderSettings() {
             if (confirm(m('settings.reset_progress_confirm'))) {
               try {
                 store.resetProgress();
-                go('home');
+                 go('train');
               } catch (error) {
                 alert(error.message || m('common.storage_error'));
               }
@@ -1129,7 +1128,7 @@ function renderSettings() {
             if (confirm(m('settings.reset_all_confirm1')) && confirm(m('settings.reset_all_confirm2'))) {
               try {
                 store.resetEverything();
-                go('home');
+                 go('train');
               } catch (error) {
                 alert(error.message || m('common.storage_error'));
               }
@@ -1160,7 +1159,7 @@ function changeTrainingLanguage(next) {
   render();
 }
 
-$('.appbar__brand')?.addEventListener('click', () => go('home'));
+$('.appbar__brand')?.addEventListener('click', () => go('train'));
 $('#settingsBtn')?.addEventListener('click', () => go('settings'));
 $('#uiLangToggle')?.addEventListener('click', event => {
   if (drillActive && !confirmLeave()) {
@@ -1211,7 +1210,10 @@ async function boot() {
   applyReadingSettings();
   paintTabIcons();
   const hash = location.hash.slice(1);
-  if (ROUTES.includes(hash)) route = hash;
+  if (hash === 'home') {
+    route = 'train';
+    history.replaceState(null, '', `${location.pathname}${location.search}#train`);
+  } else if (ROUTES.includes(hash)) route = hash;
   syncTabs();
   syncTrainingLanguage();
   if (store.getLoadIssue()) {

@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-  <meta name="theme-color" content="#fafafa" />
+  <meta name="theme-color" content="#FCFBF9" />
   <meta name="description" content="영어와 중국어 읽기 훈련 앱. 속도와 이해를 따로 기록하고, 처음 보는 글에서도 이해가 유지되는지 확인합니다." />
   <title>리드패스트 | 읽기 속도와 이해 훈련</title>
   <meta property="og:type" content="website" />
@@ -17,23 +17,19 @@
   <link rel="manifest" href="manifest.webmanifest" />
   <link rel="icon" type="image/svg+xml" href="icon.svg" />
   <link rel="apple-touch-icon" href="icons/icon-180.png" />
-  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
   <link rel="stylesheet" href="css/styles.css" />
-  <script src="/admin/app-edit.js?v=1" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#view" data-i18n="shell.skip">본문으로 건너뛰기</a>
 
   <header class="appbar">
-    <button class="appbar__brand" type="button" title="홈으로" aria-label="홈으로" data-i18n-title="shell.home" data-i18n-aria-label="shell.home">
+    <button class="appbar__brand" type="button" title="훈련으로" aria-label="훈련으로">
       <span class="appbar__logo" aria-hidden="true"></span>
       <span class="appbar__title" data-i18n="shell.brand">리드패스트</span>
       <span class="appbar__sub" data-i18n="shell.tagline">읽기 속도와 이해 훈련</span>
     </button>
     <nav class="tabbar" aria-label="주 메뉴" data-i18n-aria-label="shell.nav">
-      <button class="tab is-active" data-route="home" type="button" aria-current="page"><span class="tab__ico" aria-hidden="true"></span><span class="tab__lbl" data-i18n="shell.nav.today">오늘</span></button>
-      <button class="tab" data-route="train" type="button"><span class="tab__ico" aria-hidden="true"></span><span class="tab__lbl" data-i18n="shell.nav.train">훈련</span></button>
+      <button class="tab is-active" data-route="train" type="button" aria-current="page"><span class="tab__ico" aria-hidden="true"></span><span class="tab__lbl" data-i18n="shell.nav.train">훈련</span></button>
       <button class="tab" data-route="mytexts" type="button"><span class="tab__ico" aria-hidden="true"></span><span class="tab__lbl" data-i18n="shell.nav.myTexts">내 글</span></button>
       <button class="tab" data-route="progress" type="button"><span class="tab__ico" aria-hidden="true"></span><span class="tab__lbl" data-i18n="shell.nav.progress">기록</span></button>
       <button class="tab" data-route="theory" type="button"><span class="tab__ico" aria-hidden="true"></span><span class="tab__lbl" data-i18n="shell.nav.theory">원리</span></button>
