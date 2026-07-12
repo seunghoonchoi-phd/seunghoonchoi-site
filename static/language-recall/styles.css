@@ -1,40 +1,40 @@
 :root {
-  --navy: #0D1B4C;
-  --navy-soft: #2C3A78;
-  --copper: #B87333;
-  --copper-soft: #C98F54;
-  --cream: #F8F6F3;
-  --cream-2: #F0EDE8;
-  --card: #FCFBF9;
-  --ink: #1B1B1A;
-  --ink-soft: #44423E;
-  --muted: #8A857C;
-  --border: #E2DFD9;
-  --hair: rgba(13, 27, 76, .12);
-  --hair-2: rgba(13, 27, 76, .07);
-  --copper-bg: rgba(184, 115, 51, .08);
-  --copper-line: rgba(184, 115, 51, .35);
-  --navy-bg: rgba(13, 27, 76, .05);
-  --serif: "Playfair Display", Georgia, "Times New Roman", serif;
-  --sans: "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --navy: #191f28;
+  --navy-soft: #4e5968;
+  --copper: #3182f6;
+  --copper-soft: #2272eb;
+  --cream: #fafafa;
+  --cream-2: #f4f5f7;
+  --card: #ffffff;
+  --ink: #191f28;
+  --ink-soft: #4e5968;
+  --muted: #6b7684;
+  --border: #e5e8eb;
+  --hair: rgba(25, 31, 40, .12);
+  --hair-2: rgba(25, 31, 40, .06);
+  --copper-bg: rgba(49, 130, 246, .08);
+  --copper-line: rgba(49, 130, 246, .35);
+  --navy-bg: rgba(25, 31, 40, .05);
+  --serif: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
+  --sans: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
   --mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
-  --fs-display: clamp(2.5rem, 6vw, 5rem);
-  --fs-title: clamp(1.875rem, 4vw, 3rem);
-  --fs-h2: 1.75rem;
+  --fs-display: clamp(2rem, 5vw, 2.5rem);
+  --fs-title: clamp(1.5rem, 3.5vw, 2rem);
+  --fs-h2: 1.5rem;
   --fs-h3: 1.25rem;
-  --fs-lead: 1.25rem;
-  --fs-body: 1.0625rem;
+  --fs-lead: 1.125rem;
+  --fs-body: 1rem;
   --fs-sm: .875rem;
   --fs-meta: .75rem;
-  --fs-eyebrow: .625rem;
-  --fs-stat: 2.5rem;
-  --lh-tight: .95;
-  --lh-snug: 1.2;
-  --lh-body: 1.65;
-  --lh-loose: 1.8;
+  --fs-eyebrow: .75rem;
+  --fs-stat: 2rem;
+  --lh-tight: 1.15;
+  --lh-snug: 1.35;
+  --lh-body: 1.6;
+  --lh-loose: 1.7;
   --ls-tight: -.02em;
-  --ls-eyebrow: .25em;
-  --ls-meta: .1em;
+  --ls-eyebrow: 0;
+  --ls-meta: 0;
   --space-xs: .5rem;
   --space-sm: .75rem;
   --space-md: 1rem;
@@ -43,14 +43,14 @@
   --space-2xl: 3rem;
   --space-3xl: 4rem;
   --space-4xl: 6rem;
-  --radius-sm: 2px;
-  --radius-md: 4px;
-  --radius-lg: 8px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
   --radius-full: 9999px;
-  --shadow-soft: 0 1px 2px rgba(27, 27, 26, .04), 0 12px 40px rgba(13, 27, 76, .06);
-  --shadow-lift: 0 12px 48px rgba(13, 27, 76, .06), 0 4px 16px rgba(184, 115, 51, .04);
-  --ease: cubic-bezier(.2, .7, .2, 1);
-  --dur: .3s;
+  --shadow-soft: 0 1px 2px rgba(0, 0, 0, .04);
+  --shadow-lift: 0 8px 24px rgba(0, 0, 0, .12);
+  --ease: cubic-bezier(.3, .3, .3, 1);
+  --dur: .15s;
   --maxw: 1000px;
   --maxw-wide: 80rem;
   --nav-height: 68px;
@@ -127,8 +127,6 @@ textarea:focus-visible {
 
 .brand-bg {
   background-color: var(--cream);
-  background-image: radial-gradient(var(--hair-2) 1px, transparent 1px);
-  background-size: 26px 26px;
 }
 
 .skip-link {
@@ -170,10 +168,10 @@ textarea:focus-visible {
 .demo-banner-kicker {
   margin: 0;
   color: var(--copper);
-  font-family: var(--mono);
+  font-family: var(--sans);
   font-size: var(--fs-eyebrow);
+  font-weight: 600;
   letter-spacing: var(--ls-eyebrow);
-  text-transform: uppercase;
   white-space: nowrap;
 }
 
@@ -294,11 +292,11 @@ textarea:focus-visible {
 
 .brand-kicker {
   color: var(--copper);
-  font-family: var(--mono);
-  font-size: .55rem;
-  letter-spacing: .16em;
+  font-family: var(--sans);
+  font-size: .7rem;
+  font-weight: 600;
+  letter-spacing: 0;
   line-height: 1.2;
-  text-transform: uppercase;
 }
 
 .brand-name {
@@ -317,10 +315,10 @@ textarea:focus-visible {
   align-items: center;
   gap: var(--space-xs);
   color: var(--muted);
-  font-family: var(--mono);
+  font-family: var(--sans);
   font-size: var(--fs-eyebrow);
+  font-weight: 600;
   letter-spacing: var(--ls-meta);
-  text-transform: uppercase;
 }
 
 .language-field select {
@@ -344,8 +342,8 @@ textarea:focus-visible {
   top: 64px;
   padding: var(--space-sm) var(--space-md);
   border-bottom: 1px solid var(--copper-line);
-  background: #fff8ed;
-  color: #704213;
+  background: #fff3e0;
+  color: #b25b00;
   font-size: var(--fs-sm);
   text-align: center;
 }
@@ -380,17 +378,10 @@ textarea:focus-visible {
   align-items: center;
   gap: var(--space-sm);
   color: var(--copper);
-  font-family: var(--mono);
+  font-family: var(--sans);
   font-size: var(--fs-eyebrow);
+  font-weight: 600;
   letter-spacing: var(--ls-eyebrow);
-  text-transform: uppercase;
-}
-
-.mp-eyebrow::before {
-  width: 2rem;
-  height: 1px;
-  background: var(--copper);
-  content: "";
 }
 
 .mp-title {
@@ -482,14 +473,14 @@ select:focus {
 }
 
 .primary-button {
-  border: 1px solid var(--navy);
-  background: var(--navy);
-  color: var(--cream);
+  border: 1px solid var(--copper);
+  background: var(--copper);
+  color: #ffffff;
 }
 
 .primary-button:hover {
-  border-color: var(--navy-soft);
-  background: var(--navy-soft);
+  border-color: var(--copper-soft);
+  background: var(--copper-soft);
 }
 
 .secondary-button,
@@ -544,7 +535,7 @@ select:focus {
 
 .inline-status.is-error,
 .error-copy {
-  color: #922f2f;
+  color: #d22030;
 }
 
 .result-stack {
@@ -649,10 +640,10 @@ select:focus {
 .language-chip,
 .map-cell small {
   color: var(--copper);
-  font-family: var(--mono);
+  font-family: var(--sans);
   font-size: var(--fs-eyebrow);
+  font-weight: 600;
   letter-spacing: var(--ls-meta);
-  text-transform: uppercase;
 }
 
 .status-chip,
@@ -675,21 +666,21 @@ select:focus {
 .status-review {
   border-color: var(--copper-line);
   background: var(--copper-bg);
-  color: #74441c;
+  color: #b25b00;
 }
 
 .status-verified,
 .status-learning {
-  border-color: rgba(38, 105, 68, .3);
-  background: rgba(38, 105, 68, .07);
-  color: #266944;
+  border-color: rgba(3, 178, 108, .3);
+  background: rgba(3, 178, 108, .07);
+  color: #067647;
 }
 
 .status-changed,
 .status-error {
-  border-color: rgba(146, 47, 47, .3);
-  background: rgba(146, 47, 47, .06);
-  color: #922f2f;
+  border-color: rgba(240, 68, 82, .3);
+  background: rgba(240, 68, 82, .06);
+  color: #d22030;
 }
 
 .field-grid {
@@ -843,7 +834,7 @@ select:focus {
   padding: var(--space-md);
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
-  background: rgba(240, 237, 232, .72);
+  background: rgba(244, 245, 247, .72);
 }
 
 .pending-use-heading {
@@ -935,13 +926,13 @@ select:focus {
 }
 
 .review-actions .rating-again {
-  border-color: rgba(146, 47, 47, .22);
-  color: #922f2f;
+  border-color: rgba(240, 68, 82, .22);
+  color: #d22030;
 }
 
 .review-actions .rating-good {
-  border-color: rgba(38, 105, 68, .25);
-  color: #266944;
+  border-color: rgba(3, 178, 108, .25);
+  color: #067647;
 }
 
 .snooze-wrap {
@@ -981,7 +972,7 @@ select:focus {
   padding: var(--space-md);
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
-  background: rgba(240, 237, 232, .72);
+  background: rgba(244, 245, 247, .72);
 }
 
 .notion-sync-heading {
@@ -1007,7 +998,7 @@ select:focus {
 }
 
 .notion-sync-copy > .notion-sync-error {
-  color: #922f2f;
+  color: #d22030;
   overflow-wrap: anywhere;
 }
 
@@ -1027,7 +1018,7 @@ select:focus {
   border: 1px solid var(--copper-line);
   border-radius: var(--radius-sm);
   background: var(--copper-bg);
-  color: #74441c;
+  color: #b25b00;
   font-size: var(--fs-sm);
   line-height: 1.45;
 }
@@ -1194,9 +1185,9 @@ select:focus {
 }
 
 .collection-badge.badge-learning {
-  border-color: rgba(38, 105, 68, .3);
-  background: rgba(38, 105, 68, .07);
-  color: #266944;
+  border-color: rgba(3, 178, 108, .3);
+  background: rgba(3, 178, 108, .07);
+  color: #067647;
 }
 
 .collection-badge.badge-learned {
@@ -1208,13 +1199,13 @@ select:focus {
 .collection-badge.badge-candidate {
   border-color: var(--copper-line);
   background: var(--copper-bg);
-  color: #74441c;
+  color: #b25b00;
 }
 
 .collection-badge.badge-review {
-  border-color: rgba(146, 47, 47, .3);
-  background: rgba(146, 47, 47, .06);
-  color: #922f2f;
+  border-color: rgba(240, 68, 82, .3);
+  background: rgba(240, 68, 82, .06);
+  color: #d22030;
 }
 
 .collection-due {
@@ -1246,13 +1237,13 @@ select:focus {
 }
 
 .retire-button {
-  border-color: rgba(146, 47, 47, .25);
-  color: #922f2f;
+  border-color: rgba(240, 68, 82, .25);
+  color: #d22030;
 }
 
 .retire-button:hover {
-  border-color: rgba(146, 47, 47, .45);
-  color: #922f2f;
+  border-color: rgba(240, 68, 82, .45);
+  color: #d22030;
 }
 
 .upcoming-panel {
@@ -1337,11 +1328,11 @@ select:focus {
   display: block;
   margin-top: var(--space-xs);
   color: var(--muted);
-  font-family: var(--mono);
-  font-size: .58rem;
-  letter-spacing: .08em;
+  font-family: var(--sans);
+  font-size: .72rem;
+  font-weight: 600;
+  letter-spacing: 0;
   line-height: 1.3;
-  text-transform: uppercase;
 }
 
 .map-table-wrap {
@@ -1430,7 +1421,7 @@ select:focus {
   padding: 0 max(var(--space-xs), env(safe-area-inset-right)) env(safe-area-inset-bottom) max(var(--space-xs), env(safe-area-inset-left));
   border-top: 1px solid var(--border);
   background: var(--card);
-  box-shadow: 0 -8px 28px rgba(13, 27, 76, .06);
+  box-shadow: 0 -8px 28px rgba(0, 0, 0, .06);
 }
 
 .nav-item {
@@ -1493,7 +1484,7 @@ select:focus {
 }
 
 .use-dialog::backdrop {
-  background: rgba(13, 27, 76, .48);
+  background: rgba(15, 17, 21, .48);
 }
 
 .use-shell {
