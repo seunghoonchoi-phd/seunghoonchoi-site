@@ -8,6 +8,8 @@ subtitle: "回答六个步骤即可计算税额，并填入 IRS 官方 PDF。输
 description: "美国留学生报税助手是一款免费网页应用，为 F-1/J-1 留学生计算 2026 纳税年度的联邦 1040-NR、Form 8843 和州税，并自动填入 IRS 官方 PDF。所有输入的数据只保存在当前浏览器中。"
 image: /images/us-tax-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/us-tax/icon.svg" alt="美国留学生报税助手应用图标">
