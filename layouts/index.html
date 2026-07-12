@@ -26,16 +26,6 @@
   {{ end }}
 </section>
 
-{{/* ===== Section tiles — destination-tile grammar: where do you want to go? ===== */}}
-<nav class="home-tiles" aria-label="{{ i18n "explore" }}">
-  <a class="tile" href="{{ "research/" | relLangURL }}" data-tile="research"><span class="tile__label">{{ i18n "research" }}</span><span class="tile__sub">{{ i18n "dir_research" }}</span></a>
-  <a class="tile" href="{{ "column/" | relLangURL }}" data-tile="writing"><span class="tile__label">{{ i18n "writing" }}</span><span class="tile__sub">{{ i18n "dir_writing" }}</span></a>
-  <a class="tile" href="{{ "apps/" | relLangURL }}" data-tile="apps"><span class="tile__label">{{ i18n "apps" }}</span><span class="tile__sub">{{ i18n "dir_apps" }}</span></a>
-  <a class="tile" href="{{ "career/" | relLangURL }}" data-tile="career"><span class="tile__label">{{ i18n "career" }}</span><span class="tile__sub">{{ i18n "dir_career" }}</span></a>
-  <a class="tile" href="{{ "youtube/" | relLangURL }}" data-tile="youtube"><span class="tile__label">{{ i18n "youtube" }}</span><span class="tile__sub">{{ i18n "dir_youtube" }}</span></a>
-  <a class="tile" href="{{ "about/" | relLangURL }}" data-tile="about"><span class="tile__label">{{ i18n "about" }}</span><span class="tile__sub">{{ i18n "dir_about" }}</span></a>
-</nav>
-
 <section class="home-search reveal" aria-label="{{ i18n "search_label" }}">
   {{ partial "search-module.html" (dict "scope" "home") }}
 </section>
