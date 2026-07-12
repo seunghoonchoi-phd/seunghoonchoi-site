@@ -1294,21 +1294,6 @@ html[dir="rtl"] .home-hero__qr{right:auto;left:calc(608px - 50vw);padding:10px 1
   .home-hero__cv{gap:0 6px}
   .home-hero__cv a,.home-hero__contact{font-size:11px}
 }
-.home-search{
-  max-width:var(--maxw);
-  margin:0 auto;
-  padding:clamp(18px,3vw,30px) clamp(20px,5vw,56px) clamp(20px,3vw,36px);
-  display:flex;
-  justify-content:center;
-  position:relative;
-  z-index:1;
-}
-.home-search .search-module{width:min(374px,100%)}
-.home-search .searchbox__input{background:rgba(252,251,249,.98)}
-@media(max-width:700px){
-  .home-search{margin:0 auto;justify-content:stretch}
-  .home-search .search-module{width:100%}
-}
 /* FAQ block (front-matter `faq` → FAQPage schema + visible accordion) */
 .post__faq{margin:48px 0 0;padding-top:26px;border-top:1px solid var(--hair)}
 .post__faq-h{font-family:var(--sans);font-weight:700;font-size:1.15rem;color:var(--navy);margin:0 0 16px}
