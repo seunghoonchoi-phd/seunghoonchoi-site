@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="게인즈빌과 University of Florida 캠퍼스의 건물 및 강의실 위치를 익히는 3D 길찾기 시제품"
+    />
+    <link rel="icon" href="/gainesville-campus-3d/favicon.svg" type="image/svg+xml" />
+    <title>Gainesville Campus 3D · 건물·방 위치 미리보기</title>
+    <script type="module" crossorigin src="/gainesville-campus-3d/assets/index-Da7UajEF.js"></script>
+    <link rel="stylesheet" crossorigin href="/gainesville-campus-3d/assets/index-Cz_vDcHC.css">
+  </head>
+  <body>
+    <main id="app">
+      <canvas id="world" aria-label="게인즈빌 캠퍼스 건물과 방을 표시한 독립 3D 화면"></canvas>
+
+      <header class="topbar glass">
+        <div class="brand-mark" aria-hidden="true">G</div>
+        <div class="brand-copy">
+          <p>GAINESVILLE CAMPUS · INDEPENDENT 3D PROTOTYPE</p>
+          <h1>Gainesville Campus 3D</h1>
+        </div>
+        <div class="view-switch" role="group" aria-label="보기 전환">
+          <button id="campus-view" class="is-active" type="button">캠퍼스</button>
+          <button id="indoor-view" type="button" disabled>실내</button>
+        </div>
+      </header>
+
+      <section class="search-panel glass" aria-label="강의실 검색">
+        <label for="destination-search">어디를 찾으세요?</label>
+        <div class="search-box">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z" />
+          </svg>
+          <input
+            id="destination-search"
+            type="search"
+            autocomplete="off"
+            placeholder="건물 또는 방 번호, 예: Rhines 125"
+          />
+          <kbd>/</kbd>
+        </div>
+        <div id="search-results" class="search-results" aria-live="polite"></div>
+      </section>
+
+      <aside id="place-card" class="place-card glass" aria-live="polite">
+        <div class="eyebrow-row">
+          <span id="support-badge" class="support-badge verified">실내 위치 확인</span>
+          <span id="place-distance">UF 중심부</span>
+        </div>
+        <h2 id="place-title">Rhines Hall · 125</h2>
+        <p id="place-subtitle">Central Meeting Room · 1층</p>
+        <ol id="route-steps" class="route-steps">
+          <li class="is-current"><span>1</span> Rhines Hall 주 출입구로 들어가기</li>
+          <li><span>2</span> 왼쪽 계단 옆 복도로 진입</li>
+          <li><span>3</span> 서쪽의 Central Meeting Room 125 도착</li>
+        </ol>
+        <div class="card-actions">
+          <button id="route-button" class="primary-action" type="button">길찾기 시작</button>
+          <button id="enter-button" class="secondary-action" type="button">실내 보기</button>
+        </div>
+        <a id="source-link" class="source-link" href="https://mse.ufl.edu/wp-content/uploads/sites/41/2025/02/Faculty-Meeting-Locations-2.pdf" target="_blank" rel="noreferrer">
+          UF 공식 자료에서 확인
+        </a>
+        <a id="layout-source-link" class="source-link source-link--secondary" href="https://mse.ufl.edu/wp-content/uploads/sites/41/2025/02/Faculty-Meeting-Locations-2.pdf" target="_blank" rel="noreferrer" hidden>
+          실내 배치의 UF 공식 근거 보기
+        </a>
+      </aside>
+
+      <aside class="legend glass" aria-label="정확도 범례">
+        <p class="legend-title">지도 정확도</p>
+        <div><span class="legend-dot verified"></span>공개 실내 안내도 확인</div>
+        <div><span class="legend-dot building"></span>건물·방 번호만 확인</div>
+        <p class="legend-note">앱 제작자는 건물 위치와 축척을 개략적으로 배치했습니다. 비상 대피용 지도가 아닙니다.</p>
+      </aside>
+
+      <div id="floor-picker" class="floor-picker glass" aria-label="층 선택" hidden></div>
+
+      <div class="compass glass" aria-hidden="true">
+        <span>N</span>
+        <i></i>
+      </div>
+
+      <div id="status-strip" class="status-strip glass" aria-live="polite">
+        <span class="pulse"></span>
+        <strong>준비됨</strong>
+        <span>검색창에서 실제 UF 방 번호를 찾아보세요.</span>
+      </div>
+
+      <footer class="attribution">
+        공개 자료를 참고해 독립적으로 만든 시제품입니다. University of Florida는 이 앱을 만들거나 승인하지 않았습니다.
+      </footer>
+    </main>
+  </body>
+</html>
