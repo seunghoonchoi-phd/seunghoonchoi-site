@@ -8,6 +8,8 @@ subtitle: "Save a useful expression on the spot, use it today, and review it bef
 description: "Phrase Recall Map is a public demo app that saves English and Chinese expressions with two fields, puts them into today's review, and lets you browse and edit everything you saved in one list."
 image: /images/language-recall-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/language-recall/icon.svg" alt="Phrase Recall Map app icon">
