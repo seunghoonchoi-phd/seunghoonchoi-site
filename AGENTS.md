@@ -11,6 +11,19 @@ Follow the global user instructions first. These rules apply to this website rep
 - After creating or updating a `미완료` draft, run the relevant Hugo build check, commit the scoped change, and push to `origin/main`.
 - Do not move a `미완료` draft into a public section such as `column`, `career`, `apps`, `research`, `books`, or `literature` unless the user explicitly asks.
 
+## App Design System (Clarity) — required for every app
+
+- Every web app / PWA under `static/<app>/` MUST use the "Clarity" design system (Toss-style: neutral gray canvas, one blue primary, Pretendard). This is the owner's standing rule — apply it to any NEW app from the first commit, and never ship an app in another palette. The five current apps (`gwiwha`, `language-recall`, `reading-trainer`, `ai-vibe-check`, `us-tax`) already follow it; `static/language-recall/styles.css` is the reference implementation to copy tokens from.
+- Canonical light-mode tokens (copy verbatim into each app's `:root`; token NAMES vary slightly per app for historical reasons — `--copper`/`--accent` both mean the blue — but the VALUES below are fixed):
+  - Surfaces: canvas `#fafafa`, card `#ffffff`, subtle surface `#f4f5f7`, border `#e5e8eb`.
+  - Text: ink `#191f28`, ink-soft `#4e5968`, muted `#6b7684`.
+  - Primary (blue): base `#3182f6`, hover/pressed `#2272eb` (a.k.a. accent-ink `#1b64da`), tint bg `rgba(49,130,246,.08)`, tint line `rgba(49,130,246,.35)`, soft fill `#e8f3ff`. Primary buttons are solid blue with white text.
+  - Semantic: good `#067647`, warn `#b25b00`, bad `#d22030` (soft bg variants `#e6f7f0` / `#fff3e0` / `#fdeaec`).
+  - Type: `--sans`/`--serif` both = `"Pretendard Variable", Pretendard, -apple-system, system-ui, "Segoe UI", "Noto Sans KR", sans-serif`, loaded from `https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css`. No serif, no italics. Weights 400/600/700 only.
+  - Shape: radius 8 / 12 / 16px, pill `9999px`. Shadows soft: `0 1px 2px rgba(0,0,0,.04)` and `0 8px 24px rgba(0,0,0,.12)`. No background textures/gradients on the canvas.
+- Dark mode (apps that support it, e.g. `reading-trainer`): canvas `#0f1115`, surface `#191c22`, ink `#f2f4f6`; lift the blue to accent `#4593fc` / accent-ink `#9cc3fd`.
+- `<meta name="theme-color">` = `#fafafa` (or the dark canvas when dark). Do NOT reintroduce the retired Molecular navy `#0D1B4C` / copper `#B87333` or the Waypoint coral — those were rolled back. See memory `molecular-precision-brand-canon`.
+
 ## App UI Edit Overrides
 
 - Each PWA app under `static/<app>/` may contain a `ui-edits.json`, written by the owner from the in-app admin editor (`static/admin/app-edit.js`, the "✎ UI 편집" button; auth and commits reuse the sc-admin-api Worker). The file holds runtime UI overrides: `rootScale` (percent page zoom), `text` (exact-match `{find, replace}` text swaps — the owner edits the Korean UI as the source), and `style` (`{selector, fontScale, hide}`).
