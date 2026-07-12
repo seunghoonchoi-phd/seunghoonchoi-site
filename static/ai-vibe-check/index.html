@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#0D1B4C">
+    <meta name="description" content="새 AI 모델이 나올 때마다 같은 프롬프트 배터리로 직접 채점하고 이전 모델과 비교하는 체감 테스트 도구">
+    <link rel="manifest" href="./manifest.webmanifest">
+    <link rel="icon" href="./icon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./styles.css">
+    <title>AI 새 모델 체감 테스트</title>
+  </head>
+  <body class="brand-bg">
+    <a class="skip-link" href="#main">본문으로 건너뛰기</a>
+
+    <header class="app-header">
+      <div class="brand-lockup" aria-label="AI 새 모델 체감 테스트">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <div>
+          <p class="brand-kicker">AI Vibe Check</p>
+          <p class="brand-name">AI 새 모델 체감 테스트</p>
+        </div>
+      </div>
+      <p id="active-session-chip" class="meta-chip" title="현재 채점 중인 세션">세션 없음</p>
+    </header>
+
+    <main id="main" class="app-main" tabindex="-1">
+
+      <!-- ── 세션 화면 ─────────────────────────────── -->
+      <section id="screen-sessions" class="screen is-active" data-screen="sessions" aria-labelledby="sessions-title">
+        <header class="screen-heading">
+          <p class="mp-eyebrow">Sessions</p>
+          <h1 id="sessions-title" class="mp-title">모델별 테스트 세션</h1>
+          <p class="screen-intro">새 모델이 나오면 세션을 하나 만들고, 같은 문항으로 채점해 이전 모델과 비교합니다.</p>
+        </header>
+
+        <details id="guide-box" class="guide-box" open>
+          <summary class="guide-summary">
+            <span class="guide-kicker">How to</span>
+            <span class="guide-title">사용법 3단계</span>
+            <span class="guide-more" aria-hidden="true">접기/펼치기</span>
+          </summary>
+          <ol class="guide-steps">
+            <li><strong>① 프롬프트 붙여넣기</strong> — 테스트 화면에서 프롬프트를 복사해 새 AI 모델에게 그대로 붙여넣습니다.</li>
+            <li><strong>② 0/1/2 채점</strong> — 모델의 답을 채점 기준(실패/부분/통과)과 대조해 점수를 매깁니다. 채점 즉시 저장됩니다.</li>
+            <li><strong>③ 세션 비교</strong> — 이전 모델 세션과 레이더 차트로 겹쳐 보고 어느 분야가 좋아졌는지 확인합니다.</li>
+          </ol>
+        </details>
+
+        <section class="panel" aria-labelledby="new-session-title">
+          <div class="panel-heading">
+            <div>
+              <p class="panel-kicker">New session</p>
+              <h2 id="new-session-title">새 세션 만들기</h2>
+            </div>
+          </div>
+          <form id="session-form" class="field-grid" novalidate>
+            <label class="field">
+              <span>모델명 <b aria-hidden="true">*</b></span>
+              <input name="model" type="text" required autocomplete="off" placeholder="예: Claude Fable 5">
+            </label>
+            <label class="field">
+              <span>메모 (선택)</span>
+              <input name="memo" type="text" autocomplete="off" placeholder="예: 출시 첫날, 웹 버전">
+            </label>
+            <button class="primary-button field-full" type="submit">세션 만들고 테스트 시작</button>
+          </form>
+        </section>
+
+        <section class="session-list-section" aria-labelledby="session-list-title">
+          <div class="collection-heading">
+            <div>
+              <p class="panel-kicker">Saved</p>
+              <h2 id="session-list-title">저장된 세션</h2>
+            </div>
+            <span id="session-count" class="status-chip">0개</span>
+          </div>
+          <div id="session-list" class="result-stack" aria-live="polite"></div>
+        </section>
+
+        <section class="panel transfer-panel" aria-labelledby="transfer-title">
+          <div class="panel-heading">
+            <div>
+              <p class="panel-kicker">Backup</p>
+              <h2 id="transfer-title">내보내기 / 가져오기</h2>
+            </div>
+          </div>
+          <p class="supporting-copy">모든 세션과 사용자 정의 테스트를 JSON 파일 하나로 저장하거나, 다른 브라우저에서 만든 파일을 병합해 불러옵니다.</p>
+          <div class="transfer-actions">
+            <button id="export-button" class="secondary-button" type="button">JSON으로 내보내기</button>
+            <label class="secondary-button file-button">
+              JSON 가져오기
+              <input id="import-input" type="file" accept=".json,application/json" class="visually-hidden">
+            </label>
+          </div>
+        </section>
+      </section>
+
+      <!-- ── 테스트 화면 ───────────────────────────── -->
+      <section id="screen-test" class="screen" data-screen="test" aria-labelledby="test-title" hidden>
+        <header class="screen-heading compact-heading">
+          <p class="mp-eyebrow">Battery</p>
+          <h1 id="test-title" class="mp-title">테스트 진행</h1>
+          <p id="test-session-intro" class="screen-intro">세션을 만들면 채점이 가능합니다.</p>
+        </header>
+
+        <div id="no-session-notice" class="notice-box" hidden>
+          <p>채점하려면 먼저 세션이 필요합니다.</p>
+          <button id="go-sessions" class="primary-button" type="button">세션 만들러 가기</button>
+        </div>
+
+        <div class="progress-wrap" aria-hidden="false">
+          <div class="progress-labels">
+            <span id="progress-text" class="progress-text">진행률 0 / 0</span>
+            <span id="progress-percent" class="progress-percent"></span>
+          </div>
+          <div class="progress-track" role="progressbar" id="progress-bar-track" aria-label="채점 진행률" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+            <div id="progress-bar" class="progress-bar"></div>
+          </div>
+        </div>
+
+        <div class="filter-row">
+          <div id="category-tabs" class="category-tabs" role="group" aria-label="분야 필터"></div>
+          <button id="quick-toggle" class="quick-toggle" type="button" aria-pressed="false">빠른 코스(8문항)</button>
+        </div>
+
+        <div id="test-list" class="test-stack" aria-live="polite"></div>
+
+        <section class="panel custom-test-panel" aria-labelledby="custom-test-title">
+          <div class="panel-heading">
+            <div>
+              <p class="panel-kicker">Custom</p>
+              <h2 id="custom-test-title">사용자 정의 테스트 추가</h2>
+            </div>
+          </div>
+          <p class="supporting-copy">나만의 단골 질문을 추가하면 내장 문항과 같은 방식으로 채점·비교됩니다.</p>
+          <form id="custom-test-form" class="field-grid" novalidate>
+            <label class="field">
+              <span>제목 <b aria-hidden="true">*</b></span>
+              <input name="title" type="text" required autocomplete="off" placeholder="예: 우리 회사 도메인 질문">
+            </label>
+            <label class="field">
+              <span>분야 <b aria-hidden="true">*</b></span>
+              <select name="category" required></select>
+            </label>
+            <label class="field field-full">
+              <span>프롬프트 <b aria-hidden="true">*</b></span>
+              <textarea name="prompt" rows="4" required placeholder="모델에게 붙여넣을 프롬프트 전문"></textarea>
+            </label>
+            <label class="field field-full">
+              <span>살펴볼 포인트 (한 줄에 하나씩)</span>
+              <textarea name="watchFor" rows="3" placeholder="예: 근거를 제시하는지&#10;예: 모르면 모른다고 하는지"></textarea>
+            </label>
+            <button class="primary-button field-full" type="submit">테스트 추가</button>
+          </form>
+        </section>
+      </section>
+
+      <!-- ── 결과 화면 ─────────────────────────────── -->
+      <section id="screen-results" class="screen" data-screen="results" aria-labelledby="results-title" hidden>
+        <header class="screen-heading compact-heading">
+          <p class="mp-eyebrow">Report</p>
+          <h1 id="results-title" class="mp-title">결과</h1>
+          <p class="screen-intro">현재 세션의 총점과 분야별 프로필입니다.</p>
+        </header>
+        <label class="field results-session-field">
+          <span>세션 선택</span>
+          <select id="results-session-select"></select>
+        </label>
+        <div id="results-body"></div>
+      </section>
+
+      <!-- ── 비교 화면 ─────────────────────────────── -->
+      <section id="screen-compare" class="screen" data-screen="compare" aria-labelledby="compare-title" hidden>
+        <header class="screen-heading compact-heading">
+          <p class="mp-eyebrow">Versus</p>
+          <h1 id="compare-title" class="mp-title">세션 비교</h1>
+          <p class="screen-intro">이전 모델(기준)과 새 모델을 골라 분야별 변화를 봅니다.</p>
+        </header>
+        <div class="compare-selects">
+          <label class="field">
+            <span>기준 세션 (이전 모델)</span>
+            <select id="compare-a"></select>
+          </label>
+          <label class="field">
+            <span>비교 세션 (새 모델)</span>
+            <select id="compare-b"></select>
+          </label>
+        </div>
+        <div id="compare-body"></div>
+      </section>
+    </main>
+
+    <nav class="bottom-nav" aria-label="주요 화면">
+      <button type="button" class="nav-item is-active" data-nav="sessions" aria-current="page">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 5h16v5H4V5Zm0 9h16v5H4v-5Z"/><path d="M7 7.5h.01M7 16.5h.01"/></svg>
+        <span>세션</span>
+      </button>
+      <button type="button" class="nav-item" data-nav="test">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 4h14v16H5V4Zm3 5h8M8 12h8M8 15h5"/></svg>
+        <span>테스트</span>
+      </button>
+      <button type="button" class="nav-item" data-nav="results">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 20V10m5.5 10V4m5.5 16v-8m5 8V7"/></svg>
+        <span>결과</span>
+      </button>
+      <button type="button" class="nav-item" data-nav="compare">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v18M5 8l7-4 7 4M5 16l7 4 7-4"/></svg>
+        <span>비교</span>
+      </button>
+    </nav>
+
+    <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+    <script src="./tests-data.js" defer></script>
+    <script src="./app.js" defer></script>
+  </body>
+</html>

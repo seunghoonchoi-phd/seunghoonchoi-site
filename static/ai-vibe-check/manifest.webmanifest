@@ -1,0 +1,19 @@
+{
+  "name": "AI 새 모델 체감 테스트",
+  "short_name": "AI Vibe Check",
+  "description": "새 AI 모델을 같은 프롬프트 배터리로 직접 채점하고 이전 모델과 비교하는 도구",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F8F6F3",
+  "theme_color": "#0D1B4C",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

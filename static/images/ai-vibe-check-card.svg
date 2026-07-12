@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">AI vibe check</title>
+  <desc id="desc">A navy field with two overlapping radar polygons in cream and copper, flanked by score cards.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#091632"/>
+      <stop offset="0.58" stop-color="#0D1B4C"/>
+      <stop offset="1" stop-color="#16295C"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#E7B07D" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#E7B07D" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#020817" flood-opacity="0.46"/>
+    </filter>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse">
+      <path d="M54 0H0V54" fill="none" stroke="#D8D4C8" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="675" rx="42" fill="url(#bg)"/>
+  <rect width="1200" height="675" rx="42" fill="url(#grid)"/>
+  <circle cx="600" cy="337" r="260" fill="url(#glow)"/>
+  <circle cx="600" cy="337" r="126" fill="#D78A59" opacity="0.13" filter="url(#soft)"/>
+
+  <!-- 레이더 프레임: 8각형 격자 -->
+  <g fill="none" stroke="#E9E2D3" stroke-linejoin="round">
+    <path d="M600 117 755.6 181.4 820 337l-64.4 155.6L600 557l-155.6-64.4L380 337l64.4-155.6Z" stroke-opacity="0.5" stroke-width="3"/>
+    <path d="M600 190.3 703.7 233.3 746.7 337l-43 103.7L600 483.7l-103.7-43L453.3 337l43-103.7Z" stroke-opacity="0.3" stroke-width="2"/>
+    <path d="M600 263.7 651.8 285.2 673.3 337l-21.5 51.8L600 410.3l-51.8-21.5L526.7 337l21.5-51.8Z" stroke-opacity="0.22" stroke-width="2"/>
+  </g>
+  <g stroke="#E9E2D3" stroke-opacity="0.24" stroke-width="2">
+    <path d="M600 337V117M600 337l155.6-155.6M600 337h220M600 337l155.6 155.6M600 337V557M600 337 444.4 492.6M600 337H380M600 337 444.4 181.4"/>
+  </g>
+
+  <!-- 기준 모델 다각형 (크림) -->
+  <path d="M600 205 705 232 745 337l-98 106-47 62-108-45-121-53 90-133Z" fill="#E9E2D3" fill-opacity="0.14" stroke="#E9E2D3" stroke-opacity="0.75" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- 새 모델 다각형 (구리) -->
+  <path d="M600 137 736 199 806 337l-77 129-129 73-124-51-96-151 81-141Z" fill="#C78658" fill-opacity="0.24" stroke="#E4A470" stroke-width="6" stroke-linejoin="round"/>
+  <g fill="#E4A470" stroke="#F2EEE5" stroke-width="6">
+    <circle cx="600" cy="137" r="15"/>
+    <circle cx="736" cy="199" r="15"/>
+    <circle cx="806" cy="337" r="15"/>
+    <circle cx="729" cy="466" r="15"/>
+    <circle cx="600" cy="539" r="15"/>
+    <circle cx="476" cy="488" r="15"/>
+    <circle cx="380" cy="337" r="15"/>
+    <circle cx="461" cy="196" r="15"/>
+  </g>
+  <g fill="#F2EEE5" opacity="0.85">
+    <circle cx="600" cy="205" r="8"/>
+    <circle cx="705" cy="232" r="8"/>
+    <circle cx="745" cy="337" r="8"/>
+    <circle cx="647" cy="443" r="8"/>
+    <circle cx="553" cy="505" r="8"/>
+    <circle cx="445" cy="460" r="8"/>
+    <circle cx="416" cy="392" r="8"/>
+    <circle cx="510" cy="270" r="8"/>
+  </g>
+
+  <!-- 좌측: 채점 카드 (0/1/2) -->
+  <g filter="url(#shadow)">
+    <rect x="78" y="150" width="196" height="150" rx="28" fill="#F2EEE5"/>
+    <rect x="78" y="396" width="196" height="150" rx="28" fill="#F2EEE5"/>
+  </g>
+  <g fill="none" stroke="#0D1B4C" stroke-width="12" stroke-linecap="round">
+    <path d="M120 200h112M120 235h74"/>
+  </g>
+  <g stroke-linejoin="round">
+    <rect x="120" y="258" width="38" height="20" rx="6" fill="#B87333" fill-opacity="0.35"/>
+    <rect x="166" y="258" width="38" height="20" rx="6" fill="#B87333" fill-opacity="0.65"/>
+    <rect x="212" y="258" width="38" height="20" rx="6" fill="#B87333"/>
+  </g>
+  <g fill="none" stroke="#0D1B4C" stroke-width="12" stroke-linecap="round">
+    <path d="M120 446h112M120 481h58"/>
+  </g>
+  <g>
+    <rect x="120" y="504" width="38" height="20" rx="6" fill="#B87333" fill-opacity="0.35"/>
+    <rect x="166" y="504" width="38" height="20" rx="6" fill="#B87333" fill-opacity="0.65"/>
+    <rect x="212" y="504" width="38" height="20" rx="6" fill="#B87333"/>
+  </g>
+
+  <!-- 우측: 비교 막대 카드 -->
+  <g filter="url(#shadow)">
+    <rect x="926" y="150" width="196" height="150" rx="28" fill="#F2EEE5"/>
+    <rect x="926" y="396" width="196" height="150" rx="28" fill="#F2EEE5"/>
+  </g>
+  <g stroke-linecap="round" fill="none">
+    <path d="M968 272V226" stroke="#0D1B4C" stroke-width="18"/>
+    <path d="M1000 272V202" stroke="#C78658" stroke-width="18"/>
+    <path d="M1044 272V240" stroke="#0D1B4C" stroke-width="18"/>
+    <path d="M1076 272V188" stroke="#C78658" stroke-width="18"/>
+  </g>
+  <g fill="none" stroke="#0D1B4C" stroke-width="12" stroke-linecap="round">
+    <path d="M968 442h112M968 477h72"/>
+  </g>
+  <path d="M1046 516l22-24 22 24" fill="none" stroke="#2E7D4F" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="990" cy="507" r="11" fill="#C78658"/>
+
+  <!-- 연결선 -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M274 225C330 240 360 270 420 300" stroke="#C78658" stroke-opacity="0.5" stroke-width="4" stroke-dasharray="4 14"/>
+    <path d="M274 471C336 452 372 424 436 398" stroke="#E9E2D3" stroke-opacity="0.4" stroke-width="4" stroke-dasharray="4 14"/>
+    <path d="M780 300C838 272 872 250 926 232" stroke="#E9E2D3" stroke-opacity="0.4" stroke-width="4" stroke-dasharray="4 14"/>
+    <path d="M772 420C834 442 870 458 926 470" stroke="#C78658" stroke-opacity="0.5" stroke-width="4" stroke-dasharray="4 14"/>
+  </g>
+</svg>

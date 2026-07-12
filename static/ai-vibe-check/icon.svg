@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">AI 새 모델 체감 테스트</title>
+  <desc id="desc">크림색 바탕 위 네이비색 레이더 차트와 구리색 점수 다각형</desc>
+  <rect width="512" height="512" rx="28" fill="#F8F6F3"/>
+  <g fill="none" stroke="#0D1B4C" stroke-width="14" stroke-linejoin="round">
+    <path d="M256 86 403 171v170L256 426 109 341V171Z"/>
+    <path d="M256 156 342 206v100l-86 50-86-50V206Z" stroke-width="8" opacity=".45"/>
+  </g>
+  <g stroke="#0D1B4C" stroke-width="8" opacity=".45">
+    <path d="M256 256V86M256 256l147-85M256 256l147 85M256 256 109 341M256 256 109 171M256 256v170"/>
+  </g>
+  <path d="M256 124 372 196v126l-116 38-70-104V196Z" fill="#B87333" fill-opacity=".28" stroke="#B87333" stroke-width="16" stroke-linejoin="round"/>
+  <circle cx="256" cy="124" r="22" fill="#B87333"/>
+  <circle cx="372" cy="196" r="16" fill="#B87333"/>
+  <circle cx="372" cy="322" r="16" fill="#B87333"/>
+  <circle cx="256" cy="360" r="22" fill="#B87333"/>
+  <circle cx="186" cy="256" r="16" fill="#B87333"/>
+  <circle cx="186" cy="196" r="16" fill="#B87333"/>
+  <circle cx="256" cy="256" r="12" fill="#0D1B4C"/>
+</svg>
