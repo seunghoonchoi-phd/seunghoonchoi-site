@@ -8,6 +8,8 @@ subtitle: "8分野24問の標準プロンプトで新しいモデルを採点し
 description: "AI新モデル体感チェックは、新しいAIモデルが出たときに以前のモデルとの違いを自分で確かめられるよう、8分野24問の標準テストプロンプトを提供する無料ウェブアプリです。モデルごとの採点記録はこのブラウザーだけに保存されます。"
 image: /images/ai-vibe-check-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/ai-vibe-check/icon.svg" alt="AI新モデル体感チェックのアプリアイコン">
