@@ -8,6 +8,8 @@ subtitle: "앱은 게인즈빌의 UF 캠퍼스 건물과 공개된 방 정보를
 description: "Gainesville Campus 3D는 University of Florida 캠퍼스의 일부 건물과 공개된 방 번호를 검색하고, 캠퍼스 경로와 공개 안내도에 나온 실내 동선을 3D로 보는 무료 독립 웹 시제품입니다."
 image: /images/gainesville-campus-3d-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard" contenteditable="false"><img class="appcard__icon" src="/images/gainesville-campus-3d-card.svg" alt="Gainesville Campus 3D 앱 아이콘"><div class="appcard__body"><span class="appcard__free">무료 웹 시제품</span><h3>Gainesville Campus 3D</h3><p>UF 캠퍼스의 건물과 공개된 방 번호를 검색하고, 선택한 목적지의 개략적인 3D 경로를 확인합니다.</p><a class="cta" href="/gainesville-campus-3d/" target="_blank" rel="noopener">3D 지도 열기 →</a></div></div>
 
