@@ -8,6 +8,8 @@ subtitle: "ゲインズビルのキャンパス建物と公開されている部
 description: "Gainesville Campus 3Dは、University of Floridaの一部の建物と公開されている部屋番号を検索し、キャンパス経路と確認済みの屋内経路を3Dで表示する無料の独立ウェブ試作版です。"
 image: /images/gainesville-campus-3d-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard" contenteditable="false"><img class="appcard__icon" src="/images/gainesville-campus-3d-card.svg" alt="Gainesville Campus 3Dアプリのアイコン"><div class="appcard__body"><span class="appcard__free">無料ウェブ試作版</span><h3>Gainesville Campus 3D</h3><p>UFキャンパスの建物と公開されている部屋番号を検索し、目的地までのおおよその3D経路を確認します。</p><a class="cta" href="/gainesville-campus-3d/" target="_blank" rel="noopener">3D地図を開く →</a></div></div>
 
