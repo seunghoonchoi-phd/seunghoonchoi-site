@@ -8,6 +8,8 @@ subtitle: "احفظ العبارة المفيدة في لحظتها، واستخ
 description: "خريطة استرجاع العبارات تطبيق تجريبي عام يحفظ العبارات الإنجليزية والصينية بخانتين فقط، ويضعها في مراجعة اليوم نفسه، ويتيح تصفح كل ما حفظته وتعديله في قائمة واحدة."
 image: /images/language-recall-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/language-recall/icon.svg" alt="أيقونة تطبيق خريطة استرجاع العبارات">
