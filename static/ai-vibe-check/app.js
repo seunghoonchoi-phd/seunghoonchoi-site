@@ -12,8 +12,8 @@
   var BUILTIN = Array.isArray(DATA.tests) ? DATA.tests : [];
 
   var SCORE_WORDS = { 0: "실패", 1: "부분", 2: "통과" };
-  var COLOR_A = "#17181C";
-  var COLOR_B = "#DA0E23";
+  var COLOR_A = "#0D1B4C";
+  var COLOR_B = "#B87333";
 
   /* ── 상태 ─────────────────────────────────── */
 
@@ -629,7 +629,7 @@
       svg.appendChild(svgEl("polygon", {
         points: points.join(" "),
         fill: "none",
-        stroke: level === 2 ? "rgba(23,24,28,.28)" : "rgba(23,24,28,.12)",
+        stroke: level === 2 ? "rgba(13,27,76,.28)" : "rgba(13,27,76,.12)",
         "stroke-width": level === 2 ? "1.5" : "1"
       }));
     });
@@ -639,7 +639,7 @@
       var outer = radarPoint(cx, cy, R, i, n);
       svg.appendChild(svgEl("line", {
         x1: cx, y1: cy, x2: outer.x.toFixed(1), y2: outer.y.toFixed(1),
-        stroke: "rgba(23,24,28,.12)", "stroke-width": "1"
+        stroke: "rgba(13,27,76,.12)", "stroke-width": "1"
       }));
       var labelPos = radarPoint(cx, cy, R + 26, i, n);
       var anchor = "middle";
@@ -651,7 +651,7 @@
         "text-anchor": anchor,
         "font-size": "13",
         "font-weight": "600",
-        fill: "#17181C"
+        fill: "#0D1B4C"
       });
       label.textContent = catName(CATEGORIES[i].id);
       svg.appendChild(label);
@@ -659,7 +659,7 @@
 
     // 눈금 라벨
     var tick = svgEl("text", {
-      x: cx + 4, y: cy - R - 4, "font-size": "10", fill: "#6E717C"
+      x: cx + 4, y: cy - R - 4, "font-size": "10", fill: "#8A857C"
     });
     tick.textContent = "만점 2.0";
     svg.appendChild(tick);

@@ -1,19 +1,19 @@
 /* ===== 리드패스트 디자인 시스템 =====
-   컬러 문법: Persona 리스킨(쿨그레이 캔버스 + 화이트 카드)의
-   뉴트럴 그레이 + 단일 레드 프라이머리를 그대로 따른다(다크모드 포함). */
+   컬러 문법: Clarity(최승훈 브랜드 디자인 시스템 v2.0, 토스 스타일)의
+   뉴트럴 그레이 + 단일 블루 프라이머리를 그대로 따른다(다크모드 포함). */
 :root {
-  --bg:           #f3f4f6;
+  --bg:           #fafafa;
   --bg-elev:      #ffffff;
   --surface:      #ffffff;
-  --surface-2:    #ecedf0;
-  --ink:          #17181c;
-  --ink-soft:     #474a52;
-  --ink-faint:    #6e717c;   /* AA 대비 확보 */
-  --line:         #e4e5e9;
-  --line-strong:  #d2d4d9;
-  --accent:       #da0e23;
-  --accent-ink:   #b00b1c;
-  --accent-soft:  #fdecee;
+  --surface-2:    #f4f5f7;
+  --ink:          #191f28;
+  --ink-soft:     #4e5968;
+  --ink-faint:    #6b7684;   /* AA 대비 확보 */
+  --line:         #e5e8eb;
+  --line-strong:  #d1d6db;
+  --accent:       #3182f6;
+  --accent-ink:   #1b64da;
+  --accent-soft:  #e8f3ff;
   --on-accent:    #ffffff;
   --warn:         #b25b00;
   --warn-soft:    #fff3e0;
@@ -21,9 +21,9 @@
   --good-soft:    #e6f7f0;
   --bad:          #d22030;
   --bad-soft:     #fdeaec;
-  --gold:         #c00d1f;
-  --gold-bg:      rgba(218,14,35,.07);
-  --gold-line:    rgba(218,14,35,.32);
+  --gold:         #2272eb;
+  --gold-bg:      rgba(49,130,246,.08);
+  --gold-line:    rgba(49,130,246,.35);
   --reading-serif: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
   --reading-zh:    "Pretendard Variable", Pretendard, "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
   --ui: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
@@ -36,7 +36,7 @@
   --maxw: 880px;
   --tap-size: 44px;
   --mobile-nav-height: calc(44px + 1.5rem);
-  --focus-ring: #da0e23;
+  --focus-ring: #3182f6;
   --reading-font-size: 1.24rem;
   --reading-zh-font-size: 1.42rem;
   --reading-line-height: 1.75;
@@ -44,9 +44,9 @@
   --reading-width: 640px;
   --motion-fast: 120ms;
   --motion-normal: 250ms;
-  /* The hero stays primary red in both themes so the main action stays easy to find. */
-  --hero-from: #da0e23; --hero-to: #b00b1c; --hero-ink: #ffffff;
-  --hero-cta-bg: #ffffff; --hero-cta-ink: #b00b1c;
+  /* The hero stays primary blue in both themes so the main action stays easy to find. */
+  --hero-from: #3182f6; --hero-to: #1b64da; --hero-ink: #ffffff;
+  --hero-cta-bg: #ffffff; --hero-cta-ink: #1b64da;
 }
 [data-theme="dark"] {
   --bg:          #0f1115;
@@ -58,9 +58,9 @@
   --ink-faint:   #8b93a1;   /* 작은 완료 텍스트가 흐려지지 않도록 대비를 유지 */
   --line:        #2a2f3a;
   --line-strong: #3a4150;
-  --accent:      #ff4d5a;
-  --accent-ink:  #ff8a93;
-  --accent-soft: rgba(255,77,90,.16);
+  --accent:      #4593fc;
+  --accent-ink:  #9cc3fd;
+  --accent-soft: rgba(49,130,246,.16);
   --on-accent:   #ffffff;
   --warn:        #ffb020;
   --warn-soft:   rgba(255,176,32,.14);
@@ -68,14 +68,14 @@
   --good-soft:   rgba(45,212,143,.14);
   --bad:         #ff6b6b;
   --bad-soft:    rgba(255,107,107,.14);
-  --gold:        #ff6b76;
-  --gold-bg:     rgba(255,77,90,.12);
-  --gold-line:   rgba(255,77,90,.4);
-  --focus-ring:  #ff4d5a;
+  --gold:        #6ea8fd;
+  --gold-bg:     rgba(69,147,252,.12);
+  --gold-line:   rgba(69,147,252,.4);
+  --focus-ring:  #4593fc;
   --shadow: 0 1px 2px rgba(0,0,0,.3);
   --shadow-lg: 0 8px 24px rgba(0,0,0,.5);
-  --hero-from: #c11226; --hero-to: #8f0a19; --hero-ink: #f2f4f6;
-  --hero-cta-bg: #ffffff; --hero-cta-ink: #b00b1c;
+  --hero-from: #2b6fe0; --hero-to: #1a4fbe; --hero-ink: #f2f4f6;
+  --hero-cta-bg: #ffffff; --hero-cta-ink: #1b64da;
 }
 
 * { box-sizing: border-box; }

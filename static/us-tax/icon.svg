@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
   <title id="title">US Tax Navigator</title>
-  <desc id="desc">White background with an ink tax form outline and a red check mark</desc>
-  <rect width="512" height="512" rx="28" fill="#FFFFFF"/>
-  <path d="M140 76h168l64 64v296H140V76Z" fill="none" stroke="#17181C" stroke-width="16" stroke-linejoin="round"/>
-  <path d="M308 76v64h64" fill="none" stroke="#17181C" stroke-width="14" stroke-linejoin="round"/>
-  <path d="M180 200h150M180 244h150M180 288h96" fill="none" stroke="#17181C" stroke-width="12" stroke-linecap="round"/>
-  <circle cx="342" cy="372" r="62" fill="#DA0E23"/>
-  <path d="m314 372 22 22 38-44" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <desc id="desc">Cream background with a navy tax form outline and a copper check mark</desc>
+  <rect width="512" height="512" rx="28" fill="#F8F6F3"/>
+  <path d="M140 76h168l64 64v296H140V76Z" fill="none" stroke="#0D1B4C" stroke-width="16" stroke-linejoin="round"/>
+  <path d="M308 76v64h64" fill="none" stroke="#0D1B4C" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M180 200h150M180 244h150M180 288h96" fill="none" stroke="#0D1B4C" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="342" cy="372" r="62" fill="#B87333"/>
+  <path d="m314 372 22 22 38-44" fill="none" stroke="#F8F6F3" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

@@ -7,8 +7,8 @@
   "scope": "/language-recall/",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#F3F4F6",
-  "theme_color": "#17181C",
+  "background_color": "#F8F6F3",
+  "theme_color": "#0D1B4C",
   "icons": [
     {
       "src": "./icon.svg",

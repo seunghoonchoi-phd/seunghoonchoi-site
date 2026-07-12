@@ -423,7 +423,7 @@ function paintThemeToggle(theme) {
 function applyTheme() {
   const theme = resolveTheme();
   document.documentElement.dataset.theme = theme;
-  document.querySelector('meta[name=theme-color]')?.setAttribute('content', theme === 'dark' ? '#14181d' : '#f3f4f6');
+  document.querySelector('meta[name=theme-color]')?.setAttribute('content', theme === 'dark' ? '#14181d' : '#FCFBF9');
   paintThemeToggle(theme);
 }
 
