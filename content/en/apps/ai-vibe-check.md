@@ -8,6 +8,8 @@ subtitle: "Score a new model on 24 standard prompts across 8 areas and overlay t
 description: "AI Model Vibe Check is a free web app that provides 24 standard test prompts in 8 areas so you can see for yourself how a new AI model differs from the previous one. Scores for each model are stored only in this browser."
 image: /images/ai-vibe-check-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/ai-vibe-check/icon.svg" alt="AI Model Vibe Check app icon">
