@@ -1,29 +1,29 @@
 :root {
-  --navy: #0D1B4C;
-  --navy-soft: #2C3A78;
-  --copper: #B87333;
-  --copper-soft: #C98F54;
-  --copper-hi: #E7B07D;
-  --cream: #F8F6F3;
-  --cream-2: #F0EDE8;
-  --card: #FCFBF9;
-  --ink: #1B1B1A;
-  --ink-soft: #44423E;
-  --muted: #8A857C;
-  --border: #E2DFD9;
-  --hair: rgba(13, 27, 76, .12);
-  --hair-2: rgba(13, 27, 76, .07);
-  --copper-bg: rgba(184, 115, 51, .08);
-  --copper-line: rgba(184, 115, 51, .35);
-  --navy-bg: rgba(13, 27, 76, .05);
-  --good: #266944;
-  --good-bg: rgba(38, 105, 68, .07);
-  --good-line: rgba(38, 105, 68, .3);
-  --bad: #922f2f;
-  --bad-bg: rgba(146, 47, 47, .06);
-  --bad-line: rgba(146, 47, 47, .3);
-  --serif: "Playfair Display", Georgia, "Times New Roman", serif;
-  --sans: "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --navy: #191f28;
+  --navy-soft: #4e5968;
+  --copper: #3182f6;
+  --copper-soft: #2272eb;
+  --copper-hi: #4593fc;
+  --cream: #fafafa;
+  --cream-2: #f4f5f7;
+  --card: #ffffff;
+  --ink: #191f28;
+  --ink-soft: #4e5968;
+  --muted: #6b7684;
+  --border: #e5e8eb;
+  --hair: rgba(25, 31, 40, .12);
+  --hair-2: rgba(25, 31, 40, .07);
+  --copper-bg: rgba(49, 130, 246, .08);
+  --copper-line: rgba(49, 130, 246, .35);
+  --navy-bg: rgba(25, 31, 40, .05);
+  --good: #067647;
+  --good-bg: rgba(3, 178, 108, .07);
+  --good-line: rgba(3, 178, 108, .3);
+  --bad: #d22030;
+  --bad-bg: rgba(240, 68, 82, .06);
+  --bad-line: rgba(240, 68, 82, .3);
+  --serif: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Noto Sans KR", sans-serif;
+  --sans: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Noto Sans KR", sans-serif;
   --mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
   --fs-title: clamp(1.875rem, 4vw, 3rem);
   --fs-h3: 1.25rem;
@@ -34,7 +34,7 @@
   --lh-snug: 1.2;
   --lh-body: 1.65;
   --ls-tight: -.02em;
-  --ls-eyebrow: .25em;
+  --ls-eyebrow: .06em;
   --ls-meta: .1em;
   --space-xs: .5rem;
   --space-sm: .75rem;
@@ -42,9 +42,9 @@
   --space-lg: 1.5rem;
   --space-xl: 2rem;
   --space-2xl: 3rem;
-  --radius-sm: 2px;
-  --radius-md: 4px;
-  --shadow-soft: 0 1px 2px rgba(27, 27, 26, .04), 0 12px 40px rgba(13, 27, 76, .06);
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --shadow-soft: 0 1px 2px rgba(0, 0, 0, .04), 0 12px 40px rgba(25, 31, 40, .06);
   --ease: cubic-bezier(.2, .7, .2, 1);
   --dur: .3s;
   --nav-height: 68px;
@@ -120,7 +120,6 @@ summary:focus-visible {
 
 .brand-bg {
   background-color: var(--cream);
-  background-image: radial-gradient(var(--hair-2) 1px, transparent 1px);
   background-size: 26px 26px;
 }
 
@@ -345,14 +344,14 @@ select:focus {
 }
 
 .primary-button {
-  border: 1px solid var(--navy);
-  background: var(--navy);
-  color: var(--cream);
+  border: 1px solid var(--copper);
+  background: var(--copper);
+  color: #ffffff;
 }
 
 .primary-button:hover {
-  border-color: var(--navy-soft);
-  background: var(--navy-soft);
+  border-color: var(--copper-soft);
+  background: var(--copper-soft);
 }
 
 .secondary-button {
@@ -437,7 +436,7 @@ select:focus {
 .meta-chip.is-active-session {
   border-color: var(--copper-line);
   background: var(--copper-bg);
-  color: #74441c;
+  color: #1b64da;
 }
 
 .field-grid {
@@ -660,7 +659,7 @@ select:focus {
   border: 1px solid var(--copper-line);
   border-radius: var(--radius-md);
   background: var(--copper-bg);
-  color: #74441c;
+  color: #1b64da;
 }
 
 .notice-box p {
@@ -819,7 +818,7 @@ select:focus {
 .custom-badge {
   border-color: var(--copper-line);
   background: var(--copper-bg);
-  color: #74441c;
+  color: #1b64da;
 }
 
 .quick-badge {
@@ -863,7 +862,7 @@ select:focus {
   justify-content: space-between;
   gap: var(--space-sm);
   padding: .35rem .5rem .35rem var(--space-md);
-  border-bottom: 1px solid rgba(248, 246, 243, .14);
+  border-bottom: 1px solid rgba(255, 255, 255, .14);
   color: var(--copper-hi);
   font-family: var(--mono);
   font-size: var(--fs-eyebrow);
@@ -1228,7 +1227,7 @@ select:focus {
   padding: 0 max(var(--space-xs), env(safe-area-inset-right)) env(safe-area-inset-bottom) max(var(--space-xs), env(safe-area-inset-left));
   border-top: 1px solid var(--border);
   background: var(--card);
-  box-shadow: 0 -8px 28px rgba(13, 27, 76, .06);
+  box-shadow: 0 -8px 28px rgba(25, 31, 40, .06);
 }
 
 .nav-item {
