@@ -4,7 +4,7 @@ import * as content from '../content.js';
 import * as store from '../store.js';
 import { t } from '../i18n.js';
 import {
-  drillHeader, askMCQ, compQuiz, resultCard, tierPicker, tierLabel,
+  drillHeader, trainingRationale, askMCQ, compQuiz, resultCard, tierPicker, tierLabel,
   createDrillTimer, markPassageStarted, pickRelatedPracticePassage,
   askFatigue, recordAttempt, attemptErrorNote, timingValidity,
   questionTypeBreakdown,
@@ -61,7 +61,7 @@ export default {
 
   render(root, lang, exit, options = {}) {
     const name = t(this.nameKey);
-    const why = t(this.whyKey);
+    const why = trainingRationale(this.id, t(this.whyKey));
     const normalizedOptions = normalizeDrillOptions(options);
     const preset = normalizedOptions.customText;
     const context = attemptContext(normalizedOptions);
@@ -126,7 +126,6 @@ export default {
         wrap.append(el);
       });
       const proceed = () => {
-        unknown.forEach(key => store.srReview(`conquer-vocab-${language}`, key, 0));
         const host = h('div');
         const item = isPreset ? content.autoCloze(p.text, language, 1)[0] : p.gist;
         if (!item) return phase2(p, isPreset, language, novelAtStart, null);
