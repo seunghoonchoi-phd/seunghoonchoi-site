@@ -8,6 +8,8 @@ subtitle: "Califica el nuevo modelo con un set estándar de 24 preguntas en 8 á
 description: "Prueba práctica de modelos de IA es una app web gratuita que ofrece un set estándar de 24 preguntas en 8 áreas para que compruebes tú mismo la diferencia entre un nuevo modelo de IA y el anterior. Las calificaciones de cada modelo se guardan solo en este navegador."
 image: /images/ai-vibe-check-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/ai-vibe-check/icon.svg" alt="Ícono de la app Prueba práctica de modelos de IA">
