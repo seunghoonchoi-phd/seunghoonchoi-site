@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
   <title id="title">외국어 회상지도</title>
-  <desc id="desc">크림색 바탕 위에 네이비색 연결망과 구리색 강조점</desc>
-  <rect width="512" height="512" rx="28" fill="#F8F6F3"/>
-  <circle cx="256" cy="256" r="166" fill="none" stroke="#0D1B4C" stroke-width="18"/>
-  <path d="M154 190 256 134l106 66v122L256 382l-102-60V190Z" fill="none" stroke="#0D1B4C" stroke-width="14" stroke-linejoin="round"/>
-  <path d="m154 190 102 62 106-52M256 252v130" fill="none" stroke="#0D1B4C" stroke-width="12" stroke-linecap="round"/>
-  <circle cx="154" cy="190" r="22" fill="#B87333"/>
-  <circle cx="362" cy="200" r="14" fill="#B87333"/>
-  <circle cx="256" cy="382" r="18" fill="#B87333"/>
-  <circle cx="256" cy="134" r="10" fill="#B87333"/>
+  <desc id="desc">흰 바탕 위에 잉크색 연결망과 붉은 강조점</desc>
+  <rect width="512" height="512" rx="28" fill="#FFFFFF"/>
+  <circle cx="256" cy="256" r="166" fill="none" stroke="#17181C" stroke-width="18"/>
+  <path d="M154 190 256 134l106 66v122L256 382l-102-60V190Z" fill="none" stroke="#17181C" stroke-width="14" stroke-linejoin="round"/>
+  <path d="m154 190 102 62 106-52M256 252v130" fill="none" stroke="#17181C" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="154" cy="190" r="22" fill="#DA0E23"/>
+  <circle cx="362" cy="200" r="14" fill="#DA0E23"/>
+  <circle cx="256" cy="382" r="18" fill="#DA0E23"/>
+  <circle cx="256" cy="134" r="10" fill="#DA0E23"/>
 </svg>
