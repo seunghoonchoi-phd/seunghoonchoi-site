@@ -1,17 +1,17 @@
 ---
-title: "星际争霸操作与判断训练：练习在快速操作时继续判断"
-seoTitle: "星际争霸操作与判断训练：测量快速操作时的判断表现"
+title: "双任务操作与判断训练：练习在快速操作时继续判断"
+seoTitle: "双任务操作与判断训练：测量快速操作时的判断表现"
 date: 2026-07-12
 categories: ["工具"]
-tags: ["星际争霸", "游戏", "判断", "训练", "应用"]
+tags: ["双任务", "操作", "判断", "训练", "应用"]
 subtitle: "应用会比较单独操作时的速度和准确率，以及同时操作和判断时的表现。"
-description: "星际争霸操作与判断训练是一款免费的可安装网页应用。它会测量玩家在快速使用数字键和鼠标时能保留多少判断准确率，并让玩家同时练习操作与判断。"
+description: "双任务操作与判断训练是一款免费的可安装网页应用。它会测量用户在快速使用键盘和鼠标时能保留多少判断准确率，并让用户同时练习操作与判断。"
 image: /images/starcraft-think-trainer-card.svg
 reviewStatus: "done"
 ---
-<div class="appcard" contenteditable="false"><img class="appcard__icon" src="/images/starcraft-think-trainer-card.svg" alt="星际争霸操作与判断训练应用图标"><div class="appcard__body"><span class="appcard__free">免费可安装网页应用（PWA）</span><h3>星际争霸操作与判断训练</h3><p>应用先分别测量操作速度和判断准确率，再与同时执行两项任务时的结果比较。</p><a class="cta" href="https://seunghoonchoi-phd.github.io/starcraft-think-trainer/" target="_blank" rel="noopener">打开应用 →</a></div></div>
+<div class="appcard" contenteditable="false"><img class="appcard__icon" src="/images/starcraft-think-trainer-card.svg" alt="双任务操作与判断训练应用图标"><div class="appcard__body"><span class="appcard__free">免费可安装网页应用（PWA）</span><h3>双任务操作与判断训练</h3><p>应用先分别测量操作速度和判断准确率，再与同时执行两项任务时的结果比较。</p><a class="cta" href="https://seunghoonchoi-phd.github.io/starcraft-think-trainer/" target="_blank" rel="noopener">打开应用 →</a></div></div>
 
-玩家在《星际争霸》中加快数字键和鼠标操作时，有时会更难决定下一步。这个问题不能只用手速解释。玩家既要选择输入顺序，又要判断战局。当这两个选择同时出现时，玩家决定下一步所需的时间可能会变长。这款应用不会只给操作速度计分。它还会单独测量玩家在操作时保留的判断表现。
+用户在加快数字键和鼠标操作时，同时判断新的视觉情况，有时会更难决定下一步。这个问题不能只用手速解释。用户既要选择输入顺序，又要判断情况。当这两个选择同时出现时，用户决定下一步所需的时间可能会变长。这款应用不会只给操作速度计分。它还会单独测量用户在操作时保留的判断表现。
 
 ## 应用先分别测量操作和判断，再测量同时执行的结果
 
@@ -27,11 +27,11 @@ reviewStatus: "done"
 
 只有操作准确率和判断准确率都达到标准，应用才会缩短目标间隔。玩家离开训练页面时，应用会暂停训练计时。浏览器只会把训练记录保存在当前设备上。
 
-## 应用参考了研究结果，但不保证玩家的游戏水平会提高
+## 应用参考了研究结果，但不保证特定任务的表现会提高
 
 应用参考了同时执行两项任务时的反应延迟研究，也参考了重复练习效果的研究。应用还会根据玩家水平调整难度，并用不同于练习内容的题目再次测量表现。
 
-研究人员尚未测试这款应用能否提高《星际争霸》的天梯段位。玩家仍需查看实际对局录像，分别确认交战期间的停产时间、人口卡住的时间和重要判断遗漏次数是否减少。这款应用不会检查或治疗健康状况、智力或ADHD症状。本项目与Blizzard Entertainment无关，也不使用Blizzard的图片、声音或代码。
+研究人员尚未测试这款应用能否提高特定游戏或工作的表现。用户仍需在实际任务中确认行动遗漏和延迟是否减少。这款应用不会检查或治疗健康状况、智力或ADHD症状。
 
 [打开应用 →](https://seunghoonchoi-phd.github.io/starcraft-think-trainer/)
 

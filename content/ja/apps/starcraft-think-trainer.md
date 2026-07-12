@@ -1,17 +1,17 @@
 ---
-title: "StarCraftの入力・判断トレーニング：操作中も判断を続ける練習"
-seoTitle: "StarCraftの入力・判断トレーニング：高速入力中の判断を測定"
+title: "二重課題の入力・判断トレーニング：操作中も判断を続ける練習"
+seoTitle: "二重課題の入力・判断トレーニング：高速入力中の判断を測定"
 date: 2026-07-12
 categories: ["ツール"]
-tags: ["StarCraft", "ゲーム", "判断", "トレーニング", "アプリ"]
+tags: ["二重課題", "入力", "判断", "トレーニング", "アプリ"]
 subtitle: "入力だけを行ったときの速度と正確さを、入力しながら判断したときの成績と分けて比較します。"
-description: "StarCraftの入力・判断トレーニングは、数字キーとマウスを速く操作している間に判断の正確さをどれだけ保てるか測定し、入力と判断を一緒に練習する無料のインストール型ウェブアプリです。"
+description: "二重課題の入力・判断トレーニングは、キーボードとマウスを速く操作している間に判断の正確さをどれだけ保てるか測定し、入力と判断を一緒に練習する無料のインストール型ウェブアプリです。"
 image: /images/starcraft-think-trainer-card.svg
 reviewStatus: "done"
 ---
-<div class="appcard" contenteditable="false"><img class="appcard__icon" src="/images/starcraft-think-trainer-card.svg" alt="StarCraft入力・判断トレーニングアプリのアイコン"><div class="appcard__body"><span class="appcard__free">無料インストール型ウェブアプリ（PWA）</span><h3>StarCraftの入力・判断トレーニング</h3><p>入力速度と判断の正確さを別々に測定し、二つの課題を同時に行った結果と比較します。</p><a class="cta" href="https://seunghoonchoi-phd.github.io/starcraft-think-trainer/" target="_blank" rel="noopener">アプリを開く →</a></div></div>
+<div class="appcard" contenteditable="false"><img class="appcard__icon" src="/images/starcraft-think-trainer-card.svg" alt="二重課題の入力・判断トレーニングアプリのアイコン"><div class="appcard__body"><span class="appcard__free">無料インストール型ウェブアプリ（PWA）</span><h3>二重課題の入力・判断トレーニング</h3><p>入力速度と判断の正確さを別々に測定し、二つの課題を同時に行った結果と比較します。</p><a class="cta" href="https://seunghoonchoi-phd.github.io/starcraft-think-trainer/" target="_blank" rel="noopener">アプリを開く →</a></div></div>
 
-プレイヤーがStarCraftで数字キーとマウスを速く操作すると、次の行動を決めにくくなることがあります。原因は手の速さだけではありません。プレイヤーは入力順を選びながら、ゲームの状況も判断します。この二つの選択が重なると、次の行動を選ぶまでの時間が長くなる場合があります。このアプリは入力速度だけを採点しません。操作中に保てた判断成績も別に測定します。
+ユーザーが数字キーとマウスを速く操作しながら新しい視覚状況を判断すると、次の行動を決めにくくなることがあります。原因は手の速さだけではありません。ユーザーは入力順を選びながら、状況も判断します。この二つの選択が重なると、次の行動を選ぶまでの時間が長くなる場合があります。このアプリは入力速度だけを採点しません。操作中に保てた判断成績も別に測定します。
 
 ## 入力と判断を別々に測定してから同時に測定します
 
@@ -27,11 +27,11 @@ reviewStatus: "done"
 
 入力と判断の正確さが両方とも基準を超えた場合だけ、アプリは目標の表示間隔を短くします。プレイヤーがトレーニング画面を離れると、アプリは時間を停止します。ブラウザはトレーニング記録を現在の端末だけに保存します。
 
-## 研究結果を取り入れていますが、ゲームの上達は保証しません
+## 研究結果を取り入れていますが、特定の作業の上達は保証しません
 
 このアプリは、二つの課題を同時に行うときの反応の遅れと、反復練習の効果を調べた研究を参考にしています。また、プレイヤーに合わせて難易度を調整し、練習とは異なる問題でもう一度成績を測定します。
 
-研究者は、このアプリでStarCraftのラダー順位が上がるかを検証していません。プレイヤーは実際のリプレイを確認し、交戦中に生産が止まった時間、サプライ上限で生産できなかった時間、重要な判断を見落とした回数が減ったかを別に確認する必要があります。このアプリは健康状態、知能、ADHDの症状を検査または治療しません。このプロジェクトはBlizzard Entertainmentと関係がなく、Blizzardの画像、音声、コードを使用していません。
+研究者は、このアプリで特定のゲームや仕事の成績が上がるかを検証していません。ユーザーは実際の作業で行動の抜けと遅れが減ったかを別に確認する必要があります。このアプリは健康状態、知能、ADHDの症状を検査または治療しません。
 
 [アプリを開く →](https://seunghoonchoi-phd.github.io/starcraft-think-trainer/)
 
