@@ -8,6 +8,8 @@ subtitle: "Answer six steps to calculate your tax and fill official IRS PDFs. Wh
 description: "US Tax Navigator is a free web app that calculates the federal 1040-NR, Form 8843, and state tax for F-1/J-1 students in tax year 2026 and fills official IRS PDFs. Everything you enter stays in this browser."
 image: /images/us-tax-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/us-tax/icon.svg" alt="US Tax Navigator app icon">
