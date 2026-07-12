@@ -8,6 +8,8 @@ subtitle: "छह चरणों के जवाब दें, टैक्स
 description: "अमेरिकी छात्र टैक्स नेविगेटर एक मुफ़्त वेब ऐप है जो कर वर्ष 2026 के F-1/J-1 छात्रों के लिए संघीय 1040-NR, Form 8843 और राज्य टैक्स की गणना करता है और IRS के आधिकारिक PDF भरता है। आपकी भरी हुई सारी जानकारी इसी ब्राउज़र में रहती है।"
 image: /images/us-tax-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/us-tax/icon.svg" alt="अमेरिकी छात्र टैक्स नेविगेटर ऐप का आइकन">
