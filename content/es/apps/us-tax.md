@@ -8,6 +8,8 @@ subtitle: "Responde seis pasos para calcular tu impuesto y rellenar los PDF ofic
 description: "Navegador fiscal para estudiantes es una app web gratuita que calcula el 1040-NR federal, el Form 8843 y el impuesto estatal para estudiantes F-1/J-1 del año fiscal 2026, y rellena los PDF oficiales del IRS. Todo lo que ingresas se queda en este navegador."
 image: /images/us-tax-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/us-tax/icon.svg" alt="Ícono de la app Navegador fiscal para estudiantes">
