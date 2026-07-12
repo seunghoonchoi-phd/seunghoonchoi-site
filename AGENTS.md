@@ -11,6 +11,18 @@ Follow the global user instructions first. These rules apply to this website rep
 - After creating or updating a `미완료` draft, run the relevant Hugo build check, commit the scoped change, and push to `origin/main`.
 - Do not move a `미완료` draft into a public section such as `column`, `career`, `apps`, `research`, `books`, or `literature` unless the user explicitly asks.
 
+## App UI Edit Overrides
+
+- Each PWA app under `static/<app>/` may contain a `ui-edits.json`, written by the owner from the in-app admin editor (`static/admin/app-edit.js`, the "✎ UI 편집" button; auth and commits reuse the sc-admin-api Worker). The file holds runtime UI overrides: `rootScale` (percent page zoom), `text` (exact-match `{find, replace}` text swaps — the owner edits the Korean UI as the source), and `style` (`{selector, fontScale, hide}`).
+- Every visitor gets these overrides applied at runtime, so the live app already shows the owner's manual edits before any source change lands.
+- When the owner asks Claude to bake the edits in (typically "한국어 기준으로 다른 언어 반영해줘"), do it in one commit:
+  1. Read `static/<app>/ui-edits.json`.
+  2. Apply each `text` change at the Korean source of that string (static HTML, JS string table, or the app's i18n dictionary), then update the app's other UI languages from the new Korean wording — translate the meaning, keep each language natural, and do not leave any UI language behind.
+  3. Bake `style` and `rootScale` changes into the app's own CSS.
+  4. Reset the overrides file to `{ "version": 1, "app": "<app>", "rootScale": 100, "text": [], "style": [] }` so the runtime overlay goes quiet.
+  5. Run the usual checks plus a Hugo build before push.
+- `us-tax` is a built Vite artifact: apply text/CSS changes in its source project and rebuild, or edit the built `assets/index-*.css`/`.js` following the established cache-bust rename pattern.
+
 ## Article Publish Harness
 
 - For article-only changes under `content/<lang>/...`, use `tools/publish-article.ps1` instead of a manual full-site check.

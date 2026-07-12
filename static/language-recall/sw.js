@@ -2,7 +2,7 @@
 
 const APP_BASE = "/language-recall/";
 const CACHE_PREFIX = "language-recall-demo-";
-const SHELL_CACHE = `${CACHE_PREFIX}v5`;
+const SHELL_CACHE = `${CACHE_PREFIX}v6`;
 const SHELL_ASSETS = [
   APP_BASE,
   `${APP_BASE}index.html`,
@@ -46,6 +46,12 @@ self.addEventListener("fetch", (event) => {
     event.respondWith(
       fetch(request).catch(() => caches.match(`${APP_BASE}index.html`))
     );
+    return;
+  }
+
+  // 관리자 UI 오버라이드는 항상 최신을 우선(수정이 방문자에게 바로 가야 함)
+  if (url.pathname === `${APP_BASE}ui-edits.json`) {
+    event.respondWith(fetch(request).catch(() => caches.match(request)));
     return;
   }
 
