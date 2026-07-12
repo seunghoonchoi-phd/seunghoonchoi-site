@@ -8,6 +8,8 @@ subtitle: "6つのステップに答えると税額を計算し、IRSの公式PD
 description: "アメリカ留学生タックスナビゲーターは、2026課税年度のF-1/J-1留学生の連邦1040-NR、Form 8843、州税を計算し、IRSの公式PDFに自動記入する無料ウェブアプリです。入力したデータはすべてこのブラウザーだけに保存されます。"
 image: /images/us-tax-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/us-tax/icon.svg" alt="アメリカ留学生タックスナビゲーターのアプリアイコン">
