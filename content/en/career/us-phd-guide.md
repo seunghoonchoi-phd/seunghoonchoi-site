@@ -4,7 +4,7 @@ subtitle: "Eighteen months, from someone who knew nothing except that you needed
 date: 2026-06-22
 categories: ["Study Abroad"]
 tags: ["Study in the US", "PhD abroad", "TOEFL", "SOP", "F-1 visa", "Graduate school"]
-image: /images/book-us-phd-guide-card-en.jpg
+image: /images/book-us-phd-guide-card.jpg
 pinned: true
 reviewStatus: "done"
 ---

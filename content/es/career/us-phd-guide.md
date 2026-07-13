@@ -4,7 +4,7 @@ subtitle: "Una persona que no sabía nada, salvo que hacía falta un puntaje de 
 date: 2026-06-22
 categories: ["Estudiar en el extranjero"]
 tags: ["Estudiar en Estados Unidos", "Doctorado en el extranjero", "TOEFL", "SOP", "visa F-1", "Posgrado"]
-image: /images/book-us-phd-guide-card-en.jpg
+image: /images/book-us-phd-guide-card.jpg
 pinned: true
 reviewStatus: "done"
 ---
