@@ -3,7 +3,7 @@
 <head>
   {{ partial "head.html" . }}
 </head>
-<body class="lang-{{ .Site.Language.Lang }}">
+<body class="lang-{{ .Site.Language.Lang }}{{ if .IsHome }} is-home{{ end }}">
   <a class="skip" href="#main">{{ i18n "skip_to_content" }}</a>
   {{ partial "header.html" . }}
   <main id="main" class="main">
@@ -13,6 +13,8 @@
   <script>window.SC={author:{{ i18n "author_name" }},srcLabel:{{ i18n "copy_source" }},title:{{ .Title }},url:{{ .Permalink }}};</script>
   {{ $js := resources.Get "js/main.js" | resources.Minify | resources.Fingerprint }}
   <script src="{{ $js.RelPermalink }}" defer></script>
+  {{ if .IsHome }}{{ $traceJS := resources.Get "js/first-trace-preview.js" | resources.Minify | resources.Fingerprint }}
+  <script src="{{ $traceJS.RelPermalink }}" defer></script>{{ end }}
   {{ partial "inline-edit.html" . }}
 </body>
 </html>

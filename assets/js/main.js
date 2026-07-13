@@ -243,7 +243,8 @@
   window.setInterval(paintAdminPrivateNav, 60000);
 
   /* Reveal on scroll */
-  var reveals = document.querySelectorAll(".reveal");
+  /* FIRST TRACE has a home-specific observer with its own timing and fallback. */
+  var reveals = document.body.classList.contains("is-home") ? [] : document.querySelectorAll(".reveal");
   if ("IntersectionObserver" in window && reveals.length) {
     var ro = new IntersectionObserver(function (entries) {
       entries.forEach(function (e) {
