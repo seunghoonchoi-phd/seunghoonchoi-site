@@ -31,6 +31,8 @@ reviewStatus: "done"
 
 中文文章旁边会显示成语、常见搭配、句式和连接结构。每个项目都附有文章中的例句和韩语释义。
 
+## 安装和使用
+
 [打开应用 →](/reading-trainer/)
 
 开源项目 → [GitHub](https://github.com/seunghoonchoi-phd/reading-trainer)

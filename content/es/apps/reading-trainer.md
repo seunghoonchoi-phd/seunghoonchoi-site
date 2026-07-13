@@ -31,6 +31,8 @@ Al registrar un texto, el mismo texto se añade a la pestaña Textos. Allí se m
 
 En los textos chinos, un panel muestra modismos, combinaciones frecuentes, estructuras de oración y conectores. Cada elemento incluye un fragmento del texto y su significado en coreano.
 
+## Instalar y usar
+
 [Abrir la aplicación →](/reading-trainer/)
 
 Código abierto → [GitHub](https://github.com/seunghoonchoi-phd/reading-trainer)

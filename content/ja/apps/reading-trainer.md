@@ -31,6 +31,8 @@ reviewStatus: "done"
 
 中国語の文章では、成語、よく使う組み合わせ、文型、接続表現を横のパネルに表示します。各項目には本文の例と韓国語の意味があります。
 
+## インストールして使う
+
 [アプリを開く →](/reading-trainer/)
 
 オープンソース → [GitHub](https://github.com/seunghoonchoi-phd/reading-trainer)
