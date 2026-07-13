@@ -17,24 +17,8 @@ First, register the English or Chinese text you want to read. ReadFast uses that
 
 Select a registered title in the Train tab to open its reading screen. English passages alternate between plain and soft-green phrases or short clauses. One color marks one unit to take in before connecting it to the next. The original blank lines and paragraph breaks remain visible.
 
-## Reading sequence
-
-1. Take in one meaning unit at once.
-2. Identify who did what, or how the unit relates to the preceding text.
-3. Connect the next unit to what you have already read.
-
-The goal is not to translate every word before moving on. Build a situation for concrete content, and track relations such as contrast, cause, and result for connective language.
-
 ## Registration also adds the text to Texts
 
 Registration adds the same text to the Texts tab. The tab places the full original beside a natural Korean translation. You can leave a marker where you stopped, save it with Ctrl+S, and return to it with Ctrl+E.
 
 For Chinese passages, a panel beside the text lists idioms, common collocations, sentence constructions, and connective structures. Each entry includes an excerpt from the passage and a Korean meaning.
-
-## Install and use it
-
-[Open the app →](/reading-trainer/)
-
-Open source → [GitHub](https://github.com/seunghoonchoi-phd/reading-trainer)
-
-> Install: open the link in a mobile browser and choose "Add to Home Screen." On a desktop, use the install icon in the address bar.

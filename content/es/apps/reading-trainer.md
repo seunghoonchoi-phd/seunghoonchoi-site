@@ -17,22 +17,8 @@ Primero registra el texto en inglés o chino que quieres leer. ReadFast usa ese 
 
 Elige un título en la pestaña Entrenar para abrir la pantalla de lectura. Los textos en inglés alternan grupos de palabras o cláusulas breves sin color y en verde suave. Un color corresponde a una unidad que debes captar antes de enlazarla con la siguiente. Los saltos de línea y los párrafos originales se conservan.
 
-## Orden de lectura
-
-1. Capta una unidad de sentido de una vez.
-2. Identifica quién hizo qué o cómo se relaciona la unidad con el texto anterior.
-3. Une la siguiente unidad con lo que ya leíste.
-
-No hace falta traducir cada palabra antes de avanzar. Para contenido concreto, forma una situación. Para conectores, sigue relaciones como contraste, causa y resultado.
-
 ## El registro también añade el texto a Textos
 
 Al registrar un texto, el mismo texto se añade a la pestaña Textos. Allí se muestra el original completo junto con una traducción natural al coreano. Puedes guardar un marcador con Ctrl+S y volver a él con Ctrl+E.
 
 En los textos chinos, un panel muestra modismos, combinaciones frecuentes, estructuras de oración y conectores. Cada elemento incluye un fragmento del texto y su significado en coreano.
-
-## Instalar y usar
-
-[Abrir la aplicación →](/reading-trainer/)
-
-Código abierto → [GitHub](https://github.com/seunghoonchoi-phd/reading-trainer)
