@@ -1,45 +1,37 @@
 ---
-title: "ReadFast: English and Chinese Reading Speed and Comprehension Trainer"
-seoTitle: "ReadFast: Track English and Chinese Reading Speed and Comprehension Separately"
+title: "ReadFast: English and Chinese Meaning-Unit Reading Practice"
+seoTitle: "ReadFast: Read English and Chinese in Meaning Units"
 date: 2026-06-16
 categories: ["Tools"]
-tags: ["reading", "speed-reading", "app", "English", "Chinese"]
-subtitle: "Choose a reading purpose, track speed and comprehension separately, then check the result on an unseen text."
-description: "ReadFast is a free installable web app that tracks English and Chinese reading speed and comprehension separately and checks whether performance holds on unseen texts."
+tags: ["reading", "meaning units", "app", "English", "Chinese"]
+subtitle: "Register a text, read it in meaning units, and view the original beside a natural Korean translation."
+description: "ReadFast is an installable web app for reading registered English and Chinese texts in meaning units, with the original and a natural Korean translation shown together."
 image: /images/reading-trainer-card.svg
 reviewStatus: "done"
 ---
-<div class="appcard">
-  <img class="appcard__icon" src="/images/reading-trainer-card.svg" alt="ReadFast reading trainer app icon">
-  <div class="appcard__body">
-    <span class="appcard__free">Installable web app (PWA)</span>
-    <h3>ReadFast · Reading speed and comprehension training</h3>
-    <p>Choose a purpose and train English or Chinese while tracking speed and comprehension separately.</p>
-    <a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">Open the app →</a>
-  </div>
-</div>
+<div class="appcard"><img class="appcard__icon" src="/images/reading-trainer-card.svg" alt="ReadFast reading practice app icon"><div class="appcard__body"><span class="appcard__free">Installable web app (PWA)</span><h3>ReadFast: English and Chinese meaning-unit reading</h3><p>Select a registered passage and take in each connected unit of meaning at once.</p><a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">Open the app →</a></div></div>
 
-I wanted to read English and Chinese faster too. A words-per-minute number alone, however, cannot show whether the meaning was lost. ReadFast therefore records reading rate and comprehension as separate results.
+When you translate an English sentence one word at a time, you often have to rebuild the beginning once you reach the end. The same problem appears in Chinese when each character is followed separately. ReadFast presents registered English and Chinese texts in short connected units, so you can keep linking the meaning as you read.
 
-## How the training works
+## Start with a registered text
 
-Each session begins with a purpose. You can read for accurate understanding, capture the main idea, or find a specific name, number, or claim. Results from those three tasks are never combined.
+Select a registered title in the Train tab to open the reading screen. English passages alternate between plain and soft-green phrases or short clauses. One color marks one unit to take in before connecting it to the next. The original blank lines and paragraph breaks remain visible.
 
-The program repeats four stages: measure your current performance on an unseen text, practice the weakest area, try another unseen text, and reassess weekly. A faster rereading of the same passage is shown as practice, not as proof of general improvement.
+## Reading sequence
 
-## What ReadFast records
+1. Take in one meaning unit at once.
+2. Identify who did what, or how the unit relates to the preceding text.
+3. Connect the next unit to what you have already read.
 
-- Three daily blocks: brief preparation, focused reading, and unseen transfer or retrieval in about ten minutes
-- Separate results: WPM or characters per minute beside raw comprehension and question-type accuracy
-- Comprehension-maintained rate: based on recent unseen, unassisted attempts with at least 80 percent comprehension
-- App difficulty 1 to 6: plain in-app text difficulty, not a language certification claim
-- Purpose-specific reading: separate tasks and records for accurate reading, gist, and information finding
-- Language support and practical tools: English phrase guidance, Chinese character and segmentation practice, repeated reading, self-explanation, and three-pass paper reading
-- Installable PWA: Korean and English interface options, with offline use after the first successful load
+The goal is not to translate every word before moving on. Build a situation for concrete content, and track relations such as contrast, cause, and result for connective language.
 
-## Pace adjustment and privacy
+## Read the original and translation together
 
-After two unseen results with at least 80 percent comprehension and low fatigue, the target pace rises by about five percent. A result from 60 to 79 percent holds the target. A result below 60 percent, or high fatigue, lowers only the target pace by about five percent. This is an initial product policy, not a scientific constant. Texts you paste and training records stay in this browser, and the app itself does not load third-party analytics scripts.
+The Texts tab places the full original beside a natural Korean translation. You can leave a marker where you stopped, save it with Ctrl+S, and return to it with Ctrl+E.
+
+For Chinese passages, a panel beside the text lists idioms, common collocations, sentence constructions, and connective structures. Each entry includes an excerpt from the passage and a Korean meaning.
+
+## Install and use it
 
 [Open the app →](/reading-trainer/)
 

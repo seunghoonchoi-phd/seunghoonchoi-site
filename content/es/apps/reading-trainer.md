@@ -1,48 +1,36 @@
 ---
-title: "ReadFast: entrenamiento de velocidad y comprensión en inglés y chino"
-seoTitle: "ReadFast: registra por separado la velocidad y la comprensión en inglés y chino"
+title: "ReadFast: práctica de lectura por unidades de sentido en inglés y chino"
+seoTitle: "ReadFast: leer inglés y chino por unidades de sentido"
 date: 2026-06-16
 categories: ["Herramientas"]
-tags: ["lectura", "lectura rápida", "app", "inglés", "chino"]
-subtitle: "Elige un propósito, revisa por separado la velocidad y la comprensión, y vuelve a comprobar el resultado con un texto nuevo."
-description: "ReadFast es una app web gratuita e instalable que registra por separado la velocidad y la comprensión al leer en inglés o chino, y comprueba si el rendimiento se mantiene con textos nuevos."
+tags: ["lectura", "unidades de sentido", "app", "inglés", "chino"]
+subtitle: "Registra un texto, léelo por unidades de sentido y consulta el original junto con una traducción natural al coreano."
+description: "ReadFast es una aplicación web instalable para leer textos registrados en inglés y chino por unidades de sentido, con el original y una traducción natural al coreano juntos."
 image: /images/reading-trainer-card.svg
 reviewStatus: "done"
 ---
-<div class="appcard">
-  <img class="appcard__icon" src="/images/reading-trainer-card.svg" alt="Ícono de la app de entrenamiento de lectura ReadFast">
-  <div class="appcard__body">
-    <span class="appcard__free">App web instalable (PWA)</span>
-    <h3>ReadFast · Entrenamiento de velocidad y comprensión lectora</h3>
-    <p>Elige un propósito y entrena inglés o chino con resultados separados de velocidad y comprensión.</p>
-    <a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">Abrir la app →</a>
-  </div>
-</div>
+<div class="appcard"><img class="appcard__icon" src="/images/reading-trainer-card.svg" alt="Icono de la aplicación ReadFast"><div class="appcard__body"><span class="appcard__free">Aplicación web instalable (PWA)</span><h3>ReadFast: lectura por unidades de sentido</h3><p>Elige un texto registrado y lee cada unidad de significado conectada de una vez.</p><a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">Abrir la aplicación →</a></div></div>
 
-Yo también quería leer más rápido en inglés y en chino. Sin embargo, una cifra de palabras por minuto no dice si se perdió el significado. Por eso ReadFast registra la velocidad de lectura y la comprensión como resultados separados.
+Cuando traduces una frase de inglés palabra por palabra, al final tienes que reconstruir el comienzo. En chino ocurre algo parecido si sigues cada carácter por separado. ReadFast muestra textos registrados en inglés y chino en unidades breves conectadas para que puedas enlazar el significado mientras lees.
 
-## Cómo funciona el entrenamiento
+## Empieza con un texto registrado
 
-Cada sesión comienza con un propósito. Puedes leer para comprender con precisión, captar la idea principal o encontrar un nombre, una cifra o una afirmación concreta. Las preguntas y los resultados de esas tres tareas nunca se combinan.
+Elige un título en la pestaña Entrenar para abrir la pantalla de lectura. Los textos en inglés alternan grupos de palabras o cláusulas breves sin color y en verde suave. Un color corresponde a una unidad que debes captar antes de enlazarla con la siguiente. Los saltos de línea y los párrafos originales se conservan.
 
-El programa repite cuatro etapas: medir el estado actual con un texto nuevo, practicar el punto más débil, probar otro texto nuevo y volver a medir cada semana. Leer más rápido el mismo pasaje se muestra como práctica, no como prueba de una mejora general.
+## Orden de lectura
 
-## Qué registra ReadFast
+1. Capta una unidad de sentido de una vez.
+2. Identifica quién hizo qué o cómo se relaciona la unidad con el texto anterior.
+3. Une la siguiente unidad con lo que ya leíste.
 
-- Tres bloques diarios: preparación breve, lectura enfocada y transferencia a un texto nuevo o recuperación, en unos diez minutos
-- Resultados separados: WPM o caracteres por minuto junto con la comprensión original y la precisión por tipo de pregunta
-- Velocidad con comprensión mantenida: se calcula con intentos recientes, sin ayuda y sobre textos nuevos, con al menos un 80 % de comprensión
-- Dificultad de la app del 1 al 6: indica la dificultad del texto dentro de la app, no un nivel de certificación lingüística
-- Lectura según el propósito: tareas y registros independientes para lectura precisa, idea principal y búsqueda de información
-- Apoyo lingüístico y herramientas prácticas: grupos de palabras en inglés, caracteres y segmentación en chino, lectura repetida, autoexplicación y lectura de artículos en tres pasos
-- PWA instalable: interfaz en coreano e inglés y uso sin conexión después de la primera carga correcta
+No hace falta traducir cada palabra antes de avanzar. Para contenido concreto, forma una situación. Para conectores, sigue relaciones como contraste, causa y resultado.
 
-## Ajuste del ritmo y privacidad
+## Original y traducción en la misma pantalla
 
-Después de dos resultados en textos nuevos con al menos un 80 % de comprensión y poca fatiga, el ritmo objetivo sube aproximadamente un 5 %. Entre el 60 % y el 79 % se mantiene. Por debajo del 60 %, o con fatiga alta, solo el ritmo objetivo baja aproximadamente un 5 %. Esta es una política inicial del producto, no una constante científica. Los textos que pegas y tus registros permanecen en este navegador, y la app no carga scripts de análisis de terceros.
+La pestaña Textos muestra el original completo junto con una traducción natural al coreano. Puedes guardar un marcador con Ctrl+S y volver a él con Ctrl+E.
 
-[Abrir la app →](/reading-trainer/)
+En los textos chinos, un panel muestra modismos, combinaciones frecuentes, estructuras de oración y conectores. Cada elemento incluye un fragmento del texto y su significado en coreano.
+
+[Abrir la aplicación →](/reading-trainer/)
 
 Código abierto → [GitHub](https://github.com/seunghoonchoi-phd/reading-trainer)
-
-> Instalación: abre el enlace en el navegador del teléfono y elige «Añadir a la pantalla de inicio». En una computadora, usa el ícono de instalación de la barra de direcciones.
