@@ -3,7 +3,7 @@ title: "نبذة"
 reviewStatus: "done"
 ---
 <figure class="about-portrait">
-  <img src="/images/about-portrait.jpg" alt="سيونغ هون تشوي" width="820" height="1093" loading="eager">
+  <img src="/images/about-portrait.jpg" alt="سيونغ هون تشوي" width="975" height="1254" loading="eager">
 </figure>
 
 قبل أن أكون مهندسًا، أنا صانع محتوى. عندما أواجه بنفسي مشكلة معقدة ومرهقة، أحولها إلى كتابة وأدوات كي يتوه الشخص التالي أقل. ومن عام 2026 أبدأ الدكتوراه في علم المواد الحاسوبي في جامعة فلوريدا (UF).

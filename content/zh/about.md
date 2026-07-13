@@ -3,7 +3,7 @@ title: "关于"
 reviewStatus: "done"
 ---
 <figure class="about-portrait">
-  <img src="/images/about-portrait.jpg" alt="崔胜勋" width="820" height="1093" loading="eager">
+  <img src="/images/about-portrait.jpg" alt="崔胜勋" width="975" height="1254" loading="eager">
 </figure>
 
 在成为工程师之前，我首先是一个做内容的人。遇到复杂又麻烦的问题，我会亲自走一遍，再把它整理成文章和工具，让下一个人少走弯路。从 2026 年起，我将在佛罗里达大学 (UF) 开始计算材料科学博士阶段的学习。

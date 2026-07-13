@@ -3,7 +3,7 @@ title: "परिचय"
 reviewStatus: "done"
 ---
 <figure class="about-portrait">
-  <img src="/images/about-portrait.jpg" alt="Seunghoon Choi" width="820" height="1093" loading="eager">
+  <img src="/images/about-portrait.jpg" alt="Seunghoon Choi" width="975" height="1254" loading="eager">
 </figure>
 
 मैं इंजीनियर होने से पहले कंटेंट बनाने वाला व्यक्ति हूँ। जब मैं किसी जटिल और झंझट भरी समस्या से खुद गुजरता हूँ, तो उसे लेखों और टूल्स में बदल देता हूँ, ताकि अगला व्यक्ति कम भटके। 2026 से मैं फ्लोरिडा विश्वविद्यालय (UF) में कम्प्यूटेशनल मैटेरियल्स साइंस में पीएचडी शुरू करूँगा।

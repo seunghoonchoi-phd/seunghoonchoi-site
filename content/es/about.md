@@ -3,7 +3,7 @@ title: "Acerca de"
 reviewStatus: "done"
 ---
 <figure class="about-portrait">
-  <img src="/images/about-portrait.jpg" alt="Seunghoon Choi" width="820" height="1093" loading="eager">
+  <img src="/images/about-portrait.jpg" alt="Seunghoon Choi" width="975" height="1254" loading="eager">
 </figure>
 
 Antes que ingeniero, soy alguien que crea contenido. Cuando atravieso en primera persona un problema complejo y tedioso, lo convierto en textos y herramientas para que la siguiente persona se pierda menos. A partir de 2026 empiezo el doctorado en ciencia de materiales computacional en la Universidad de Florida (UF).

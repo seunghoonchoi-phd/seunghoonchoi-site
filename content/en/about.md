@@ -3,7 +3,7 @@ title: "About"
 reviewStatus: "done"
 ---
 <figure class="about-portrait">
-  <img src="/images/about-portrait.jpg" alt="Seunghoon Choi" width="820" height="1093" loading="eager">
+  <img src="/images/about-portrait.jpg" alt="Seunghoon Choi" width="975" height="1254" loading="eager">
 </figure>
 
 Before I am an engineer, I am someone who creates content. When I work through complex, tedious problems myself, I turn them into writing and tools so the next person has to wander less. Starting in 2026, I will begin a Ph.D. in Computational Materials Science at the University of Florida (UF).
