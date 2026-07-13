@@ -4,12 +4,12 @@ seoTitle: "리드패스트: 영어·중국어를 의미 단위로 읽는 훈련 
 date: 2026-06-16
 categories: ["도구"]
 tags: ["읽기", "의미 단위", "앱", "영어", "중국어"]
-subtitle: "지문을 등록하면 그 글로 훈련 세션을 시작하고, 원문과 자연스러운 한국어 번역을 지문 탭에서 함께 봅니다."
+subtitle: "지문을 등록하면 그 글로 훈련 세션을 시작하고, 원문과 자연스러운 한국어 번역을 지문 탭에서 볼 수 있습니다."
 description: "리드패스트는 사용자가 등록한 영어와 중국어 지문으로 훈련 세션을 진행하고, 같은 글의 원문과 자연스러운 한국어 번역을 지문 탭에 제공하는 설치형 웹앱입니다."
 image: /images/reading-trainer-card.svg
 reviewStatus: "done"
 ---
-<div class="appcard" contenteditable="false"><img class="appcard__icon" src="/images/reading-trainer-card.svg" alt="리드패스트 읽기 훈련 앱 아이콘"><div class="appcard__body"><span class="appcard__free">설치형 웹앱(PWA)</span><h3>리드패스트: 영어·중국어 의미 단위 읽기 훈련</h3><p>지문을 등록하면 그 글로 바로 훈련하고, 원문과 한국어 번역을 지문 탭에서 봅니다.</p><a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">앱 열기 →</a></div></div>
+<div class="appcard" contenteditable="false"><img class="appcard__icon" src="/images/reading-trainer-card.svg" alt="리드패스트 읽기 훈련 앱 아이콘"><div class="appcard__body"><span class="appcard__free">설치형 웹앱(PWA)</span><h3>리드패스트: 영어·중국어 의미 단위 읽기 훈련</h3><p>지문을 등록하면 그 글로 바로 훈련하고, 원문과 한국어 번역을 지문 탭에서 볼 수 있습니다.</p><a class="cta" href="/reading-trainer/" target="_blank" rel="noopener">앱 열기 →</a></div></div>
 
 읽고 싶은 영어·중국어 글을 먼저 등록합니다. 리드패스트는 등록한 글을 훈련 세션에 넣고, 같은 글을 지문 탭에도 원문과 자연스러운 한국어 번역으로 저장합니다. 훈련 화면에서는 문장을 짧은 의미 단위로 보여 주므로, 사용자는 앞뒤 내용을 이어서 읽을 수 있습니다.
 
