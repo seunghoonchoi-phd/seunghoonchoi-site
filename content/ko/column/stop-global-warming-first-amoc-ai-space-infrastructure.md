@@ -4,7 +4,7 @@ description: "대서양 자오선 역전 순환(AMOC)의 약화 위험을 줄이
 date: 2026-06-29T01:45:00+09:00
 categories: ["AI"]
 tags: ["AI", "지구온난화", "AMOC", "기후위기", "우주인프라", "CO2제거"]
-subtitle: "우주 햇빛 가림막이 AMOC 위험을 줄일 수 있다는 가설은 아직 입증되지 않았다. 이 글은 필요한 관측과 검증 조건을 묻는다."
+subtitle: "우주에 띄우는 햇빛 가림막으로 대서양 자오선 역전 순환(AMOC)이 무너질 가능성을 낮추고, CO2 제거가 진행될 시간을 확보하자는 구상이다."
 seoTitle: "AMOC 약화 위험과 우주 햇빛 가림막: 검증이 필요한 사고실험"
 image: /images/col-amoc-global-warming-first.jpg
 reviewStatus: "done"
