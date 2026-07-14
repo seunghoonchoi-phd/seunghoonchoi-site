@@ -68,9 +68,7 @@ En cambio, para una tarea sencilla, urgente, de respuesta casi definida y poco d
 
 Si solo miramos tokens y suscripciones, la IA casi siempre parece barata. En una empresa, sin embargo, también cuestan la concentración, la velocidad de decisión y una responsabilidad clara. Al introducir IA hay que decidir quién formula la pregunta, quién revisa la respuesta y quién asume la decisión final. Sin esa estructura, la IA no acelera la organización: difumina la responsabilidad.
 
-“La IA lo dijo” no es una forma de responsabilizarse. Las decisiones siguen siendo humanas. La IA puede ordenar pruebas, ampliar opciones y encontrar omisiones, pero no debe convertirse en una excusa para delegar la responsabilidad.
-
-Por eso conviene medir si, después de introducir la IA, se han reducido las reuniones, las decisiones llegan antes, baja el tiempo de revisión y queda más claro quién responde.
+“La IA lo dijo” no es una forma de responsabilizarse. Las decisiones siguen siendo humanas. La IA puede ordenar pruebas, ampliar opciones y encontrar omisiones, pero no debe convertirse en una excusa para delegar la responsabilidad. Por eso conviene medir si, después de introducir la IA, se han reducido las reuniones, las decisiones llegan antes, baja el tiempo de revisión y queda más claro quién responde.
 
 ## No gana quien usa menos IA, sino quien la usa con precisión
 
