@@ -16,7 +16,7 @@
     </svg>
     <span class="brand__name">{{ .Site.Title }}</span>
   </a>
-  <nav class="nav" aria-label="Primary">
+  <nav class="nav" aria-label="{{ i18n "primary_nav" }}">
     {{/* Home */}}
     <a href="{{ "" | relLangURL }}" class="nav__link{{ if eq $cur $home }} is-active{{ end }}">{{ i18n "home" }}</a>
 
@@ -52,6 +52,6 @@
   </nav>
   <div class="topbar__right">
     {{ partial "langswitch.html" . }}
-    <button class="hamburger" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+    <button class="hamburger" aria-label="{{ i18n "menu" }}" aria-expanded="false"><span></span><span></span><span></span></button>
   </div>
 </header>

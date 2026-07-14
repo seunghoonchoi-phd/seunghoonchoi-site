@@ -42,10 +42,10 @@ Qué formularios debes presentar depende de si tienes ingresos o no. Lo resumo e
 | Formularios que recibes | W-2 · 1042-S |
 
 - Sprintax. Cada año, desde principios de febrero, la UFIC te da acceso gratuito para la declaración del impuesto federal y el formulario 8843 (la parte estatal puede tener costo, pero Florida no cobra impuesto estatal sobre la renta).
-- Fechas límite. Si tienes ingresos, es el 15 de abril; si no tienes ingresos y solo presentas el formulario 8843, es el 15 de junio. Se considera la fecha del matasellos del correo.
+- Fechas límite. Si recibiste salarios sujetos a retención del impuesto federal sobre la renta, el plazo habitual es el 15 de abril. Si no recibiste esos salarios, el plazo habitual es el 15 de junio, aunque presentes el 1040-NR por otros ingresos, como una beca; también es el 15 de junio si solo presentas el Form 8843. Los fines de semana y festivos pueden mover la fecha. Por correo, cuenta la fecha del matasellos.
 - Como el asistente puede obtener un SSN, no necesitas un ITIN aparte.
 
-En resumen, los impuestos de un estudiante F-1 caben en una sola línea: "extranjero no residente durante 5 años → exención de FICA + 0 % de impuesto estatal en Florida + exención de $2,000 por el artículo 21 del tratado → formulario 8843 (todos) y 1040-NR (si tienes ingresos) → fecha límite 15 de abril o 15 de junio". Con solo tener claro este esquema, pasarás tu primera temporada de declaración mucho más tranquilo.
+En resumen, primero determina tu residencia fiscal en EE. UU. y si se aplica alguna disposición del tratado. El plazo habitual del 1040-NR es el 15 de abril si recibiste salarios sujetos a retención federal y el 15 de junio si no los recibiste. Si solo presentas el Form 8843, el plazo habitual también es el 15 de junio.
 
 La guía que profundiza en los impuestos de Estados Unidos y en la perspectiva del Enrolled Agent (EA) continúa en el siguiente artículo.
 

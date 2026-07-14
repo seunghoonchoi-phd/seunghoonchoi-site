@@ -1,5 +1,6 @@
 ---
 title: "研究"
+description: "材料、柔性传感器和电池电极工艺相关的论文、专利与研究成果。"
 reviewStatus: "done"
 ---
 

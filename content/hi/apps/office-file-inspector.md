@@ -17,7 +17,7 @@ aliases: ["/apps/llm-office-qa/"]
     <span class="appcard__free">ओपन सोर्स (MIT)</span>
     <h3>Office File Inspector</h3>
     <p>AI से बने PowerPoint, Excel और Word में साफ दिखने वाली खराबियां जाँचने वाला चेकर, जो स्टाइल के फैसलों को जानबूझकर नहीं बदलता।</p>
-    <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">GitHub पर देखें -></a>
+    <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">GitHub पर देखें →</a>
   </div>
 </div>
 
@@ -37,6 +37,6 @@ python check_office_file.py proposal.docx
 
 पुराने लिंक टूटें नहीं, इसलिए GitHub repository URL अभी भी `llm-office-qa` है। लेकिन सार्वजनिक नाम, README और चलाने की संरचना Office File Inspector के आधार पर व्यवस्थित कर दी गई है।
 
-[GitHub पर देखें ->](https://github.com/seunghoonchoi-phd/llm-office-qa)
+[GitHub पर देखें →](https://github.com/seunghoonchoi-phd/llm-office-qa)
 
-मैंने इसे इस तरह क्यों बनाया, और QA परत को बेहतर परिणाम की संभावना क्यों नहीं रोकनी चाहिए -> [मॉडल को कमजोर मत बनाइए](/hi/column/dont-lobotomize-the-model/)
+मैंने इसे इस तरह क्यों बनाया, और QA परत को समीक्षा के दौरान गुणवत्ता की ऊपरी सीमा क्यों नहीं घटानी चाहिए → [समीक्षा के दौरान गुणवत्ता की सीमा मत घटाइए](/hi/column/dont-lobotomize-the-model/)

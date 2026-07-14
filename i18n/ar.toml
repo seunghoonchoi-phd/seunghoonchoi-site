@@ -32,9 +32,9 @@ other = "اقرأ"
 [view_all]
 other = "عرض الكل"
 [no_posts]
-other = "لا توجد مقالات بعد. سنضيفها قريبًا."
+other = "لا توجد مقالات منشورة بعد."
 [posted_on]
-other = "كُتب"
+other = "نُشر"
 [categories]
 other = "التصنيفات"
 [tags]
@@ -42,7 +42,29 @@ other = "الوسوم"
 [all]
 other = "الكل"
 [contact]
-other = "تواصل"
+other = "التواصل"
+[primary_nav]
+other = "التنقل الرئيسي"
+[menu]
+other = "القائمة"
+[language]
+other = "اختيار اللغة"
+[list_number]
+other = "رقم القائمة"
+[new_label]
+other = "جديد"
+[review_pending]
+other = "لم يُراجَع"
+[reviewing]
+other = "قيد المراجعة"
+[review_complete]
+other = "اكتملت المراجعة"
+[admin_incomplete]
+other = "غير مكتمل"
+[review_private_title]
+other = "حالة المراجعة · تظهر لك وحدك"
+[admin_panel]
+other = "لوحة الإدارة"
 [connect_linkedin]
 other = "تواصل على LinkedIn ↗"
 [email_university]
@@ -80,7 +102,7 @@ other = "نسخ الاستشهاد"
 [cite_copied]
 other = "تم النسخ!"
 [copy_source]
-other = "المصدر"
+other = "نسخ المصدر"
 [rf_heading]
 other = "أبرز الأبحاث"
 [rf_gripper]
@@ -92,7 +114,7 @@ other = "قطب هيدروجيل لأوراق النباتات"
 [dir_research]
 other = "أوراق علمية وبراءات اختراع وأبحاث مواد حاسوبية"
 [dir_writing]
-other = "مقالات ومقالات قصيرة وكتب ونصوص أدبية"
+other = "مقالات وخواطر وكتب ونصوص أدبية"
 [dir_youtube]
 other = "فيديو"
 [dir_apps]
@@ -146,7 +168,7 @@ other = "أسئلة شائعة"
 [written_by]
 other = "كتبه"
 [author_bio]
-other = "باحث في المواد الحاسوبية وطالب دكتوراه في جامعة فلوريدا (UF). بعد العمل في تصنيع البطاريات وأبحاث المواد، يجرّب الآن ويوثّق كيف يمكن للفرد أن ينجو في عصر الذكاء الاصطناعي. يؤمن بالبنية أكثر من السلطة، وبالنماذج أكثر من الحدس، وبالأنظمة أكثر من الجهد."
+other = "باحث في المواد الحاسوبية يستعد لبدء الدكتوراه في جامعة فلوريدا (UF) في خريف 2026. عمل من 2021 إلى 2025 في تشغيل عمليات تصنيع الأقطاب والاستشارات التقنية في كوريا والصين. ويحوّل المشكلات التي حلها في التصنيع وأبحاث المواد إلى مقالات وأدوات عملية."
 
 [pinned_label]
 other = "موصى به"
@@ -155,4 +177,20 @@ other = "موصى به"
 other = "Instagram"
 
 [hero_highlighted]
-other = "مختارات"
+other = "أبرز الأبحاث"
+[draft_count]
+other = "عدد المسودات"
+[draft_unit]
+other = " مسودة"
+[draft_pending]
+other = "مسودات بانتظار المراجعة"
+[draft_empty]
+other = "لا توجد مسودات حتى الآن."
+[incomplete_label]
+other = "غير مكتمل"
+[draft_fallback]
+other = "مسودة"
+[source_label]
+other = "المصدر"
+[hidden_label]
+other = "مخفي"

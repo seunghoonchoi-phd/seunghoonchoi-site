@@ -17,7 +17,7 @@ aliases: ["/apps/llm-office-qa/"]
     <span class="appcard__free">Open source (MIT)</span>
     <h3>Office File Inspector</h3>
     <p>Un comprobador que detecta defectos evidentes en PowerPoint, Excel y Word creados con IA, sin cambiar las decisiones de estilo.</p>
-    <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">Ver en GitHub -></a>
+    <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">Ver en GitHub →</a>
   </div>
 </div>
 
@@ -37,6 +37,6 @@ Si quieres revisar directamente por tipo de archivo, usa `tools/check_powerpoint
 
 La URL del repositorio de GitHub se mantiene como `llm-office-qa` para no romper enlaces antiguos. Pero el nombre público, el README y la estructura de ejecución ya están organizados alrededor de Office File Inspector.
 
-[Ver en GitHub ->](https://github.com/seunghoonchoi-phd/llm-office-qa)
+[Ver en GitHub →](https://github.com/seunghoonchoi-phd/llm-office-qa)
 
-Por qué lo construí así y por qué una capa de QA no debe bloquear la posibilidad de un mejor resultado -> [No lobotomices el modelo](/es/column/dont-lobotomize-the-model/)
+Por qué lo construí así y por qué una capa de QA no debe rebajar el techo de calidad durante la revisión → [No rebajes el techo de calidad durante la revisión](/es/column/dont-lobotomize-the-model/)

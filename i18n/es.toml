@@ -28,27 +28,27 @@ other = "Inicio"
 [latest]
 other = "Artículos recientes"
 [read_more]
-other = "Leer"
+other = "Ver detalles"
 [view_all]
 other = "Ver todo"
 [no_posts]
-other = "Todavía no hay artículos. Pronto habrá nuevos."
+other = "Todavía no hay contenido publicado."
 [posted_on]
-other = "Escrito"
+other = "Publicado el"
 [categories]
 other = "Categorías"
 [tags]
 other = "Etiquetas"
 [all]
-other = "Todo"
+other = "Todos"
 [contact]
-other = "Contacto"
+other = "Datos de contacto"
 [connect_linkedin]
 other = "Conéctate en LinkedIn ↗"
 [email_university]
-other = "Universidad"
+other = "Correo universitario"
 [email_personal]
-other = "Personal"
+other = "Correo personal"
 [skip_to_content]
 other = "Ir al contenido"
 [explore]
@@ -146,7 +146,7 @@ other = "Preguntas frecuentes"
 [written_by]
 other = "Escrito por"
 [author_bio]
-other = "Investigador en materiales computacionales y estudiante de doctorado en la Universidad de Florida (UF). Tras trabajar en fabricación de baterías e investigación de materiales, ahora experimenta y documenta cómo puede sobrevivir una persona en la era de la IA. Confía más en la estructura que en la autoridad, más en los modelos que en la intuición y más en los sistemas que en el esfuerzo."
+other = "Ingeniero de materiales e investigador. Tiene previsto comenzar el doctorado en ciencia de materiales computacional en la Universidad de Florida (UF) en otoño de 2026. Ha trabajado en producción de electrodos e investigación de materiales, y crea textos y herramientas que documentan cómo resuelve problemas reales."
 
 [pinned_label]
 other = "Recomendado"
@@ -155,4 +155,47 @@ other = "Recomendado"
 other = "Instagram"
 
 [hero_highlighted]
-other = "Destacados"
+other = "Investigación reciente"
+
+[primary_nav]
+other = "Navegación principal"
+
+[menu]
+other = "Abrir menú"
+
+[language]
+other = "Elegir idioma"
+
+[list_number]
+other = "Número de la lista"
+
+[new_label]
+other = "Nuevo"
+[review_pending]
+other = "Sin revisar"
+[reviewing]
+other = "En revisión"
+[review_complete]
+other = "Revisión completa"
+[admin_incomplete]
+other = "Incompleto"
+[review_private_title]
+other = "Estado de revisión · solo visible para ti"
+[admin_panel]
+other = "Panel de administración"
+[draft_count]
+other = "Número de borradores"
+[draft_unit]
+other = " borradores"
+[draft_pending]
+other = "Borradores pendientes de revisión"
+[draft_empty]
+other = "Todavía no hay borradores."
+[incomplete_label]
+other = "Incompleto"
+[draft_fallback]
+other = "Borrador"
+[source_label]
+other = "Fuente"
+[hidden_label]
+other = "Oculto"

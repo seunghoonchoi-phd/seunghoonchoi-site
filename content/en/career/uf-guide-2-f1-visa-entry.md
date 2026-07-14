@@ -10,7 +10,7 @@ reviewStatus: "done"
 ---
 ![Passport and travel documents](/images/uf2-visa.jpg)
 
-F-1 status doesn't end the moment you receive your admission letter. It is a condition you have to maintain the entire time you're in the U.S. It's easy to relax once you pass the visa interview, but the real test is how you pack your documents before boarding the plane and how you complete check-in within 30 days of the program start date on your I-20. This post walks through the whole sequence in order: F-1 status requirements, entry at the Port of Entry (POE), ISSS online check-in after arrival, government fees, and the route from the airport to Gainesville.
+Receiving an admission offer or an F-1 visa does not complete the process. After entering the United States, students must continue to meet the conditions of F-1 status. Before departure, they also need to carry the right documents and understand the school's check-in deadline. This post covers F-1 status requirements, inspection at the Port of Entry (POE), ISSS online check-in after arrival, government fees, and travel from the airport to Gainesville.
 
 ## F-1 Status Requirements
 
@@ -20,7 +20,7 @@ Maintaining status isn't a recommendation. It is a condition of lawful stay. If 
 2. On-campus work capped at 20 hours/week: During the semester, all on-campus jobs combined cannot exceed 20 hours per week. Your GA (assistantship) appointment operates within this limit. Full-time work is allowed during breaks.
 3. Never work off-campus without authorization: Off-campus employment requires prior CPT/OPT approval.
 4. Report any address change within 10 days: When you move, you must update your address within 10 days at [ONE.UF](https://one.uf.edu/).
-5. Keep your I-20 and passport valid: Your passport should always have at least 6 months of validity remaining.
+5. Keep your I-20 and passport valid: Your passport must remain valid. As a general rule, it should be valid for at least six months beyond your date of entry, but exemptions depend on nationality. Check current CBP and UF International Center guidance before departure.
 
 For more detail, see UF's International Center pages on [Maintaining F-1 Status](https://internationalcenter.ufl.edu/iss/maintaining-f-1-status/) and [registration requirements](https://internationalcenter.ufl.edu/iss/maintaining-f-1-status/registration-requirements/).
 
@@ -30,9 +30,9 @@ The timing matters from the very start. You can only enter the U.S. starting 30 
 
 Carry the documents below on board; never put them in checked baggage.
 
-- Passport (6+ months of validity)
+- Passport (generally valid for at least six months beyond the date of entry; check nationality-based exemptions)
 - F-1 visa
-- Printed and signed I-20 (signed in blue ink on page 1)
+- Printed I-20, signed on page 1
 - I-901 SEVIS receipt
 - Proof of finances (offer letter)
 - Admission letter
@@ -53,8 +53,8 @@ A few more things to plan for:
 Arriving in the U.S. isn't the finish line. New F-1 students must complete ISSS online check-in within 30 days of the program start date on the I-20. Here's the sequence.
 
 1. Print your I-94: 1-2 days after entry, go to [i94.cbp.dhs.gov](https://i94.cbp.dhs.gov) and use *Get Most Recent I-94*.
-2. Check in through the ISSS portal: Go to [isss.internationalcenter.ufl.edu](https://isss.internationalcenter.ufl.edu/), upload your I-20, I-901 receipt, DS-160 PDF, passport, F-1 visa, POE stamp, most recent I-94, and travel history, then SUBMIT.
-   - Save the full DS-160 PDF and confirmation page right after your visa interview. They can be hard to retrieve later and may be needed for school check-in.
+2. Check in through the ISSS portal: Go to [isss.internationalcenter.ufl.edu](https://isss.internationalcenter.ufl.edu/), upload your signed I-20, I-901 receipt, passport, F-1 visa, most recent I-94, and travel history, then submit. If you completed a DS-160 for your visa application, upload that PDF as well.
+   - UF advises students to save a copy of the DS-160 when applying for a visa. If you no longer have the file or were not required to complete a DS-160, UF's check-in instructions allow you to proceed without uploading it.
 3. Register a U.S. address: P.O. Boxes are not accepted. If your address isn't set yet, register your first night's lodging address, then you must update it within 10 days of moving.
 4. Once your full-time enrollment and address are confirmed, a Continued Attendance I-20 is issued. Never discard any I-20; keep all of them.
 

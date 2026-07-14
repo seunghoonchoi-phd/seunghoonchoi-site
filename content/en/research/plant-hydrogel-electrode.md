@@ -1,5 +1,6 @@
 ---
 title: "Bio-Inspired Hydrogel Electrode for Plant-Leaf Signals: IJASC"
+subtitle: "A co-first-author study of a hydrogel electrode that adheres to rough, moisture-changing leaf surfaces and records electrical signals."
 date: 2026-02-28
 categories: ["Publication"]
 tags: ["bio-inspired", "hydrogel", "plant biosignals", "electrode", "octopus"]

@@ -101,12 +101,12 @@ Si en Corea tomas medicación de forma continua por una enfermedad crónica, un 
 
 ### Urgencias: adónde ir
 
-El orden de decisión es SHCC (días laborables, casos leves) → Urgent Care (de leve a moderado) → ER (riesgo vital, casos graves).
+Si existe peligro para la vida, llama de inmediato al 911 o acude a la sala de urgencias más cercana. Si no es una emergencia vital pero necesitas orientación el mismo día, contacta primero con el SHCC. Fuera de su horario puedes llamar al servicio de guardia del SHCC, (352) 392-1161, para preguntar si debes acudir a urgent care o a urgencias. La red médica también depende del seguro, así que compruébalo con tu aseguradora.
 
 - UF Health Shands ER / centro de trauma Nivel I: 1515-1600 SW Archer Rd (24h)
 - Springhill, ER independiente (24/7): 8475 NW 39th Ave, (352) 627-0400
 
-Ten esto presente: el ER y la ambulancia son muy caros (incluso con seguro, de cientos a $1.000+). Si el caso es leve, el SHCC o un urgent care son mucho más baratos. Crisis de salud mental: 988 / CWC (352) 392-1575 / 911.
+El coste de urgencias y ambulancia varía mucho según el seguro y la atención recibida. No retrases el tratamiento por su precio si existe peligro para la vida. Para una crisis de salud mental llama al 988; el CWC atiende en el (352) 392-1575 y, si hay peligro inmediato, llama al 911.
 
 ## Clima, huracanes y fauna (información extra)
 

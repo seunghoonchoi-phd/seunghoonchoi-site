@@ -1,5 +1,6 @@
 ---
 title: "Obras literarias"
+description: "Relatos breves y poemas."
 reviewStatus: "done"
 ---
-Relatos cortos e intentos. Solo escribiéndolos sabré si funcionan, así que dejo aquí una pieza cada vez.
+Reúno aquí relatos breves y poemas.

@@ -23,8 +23,8 @@ Al llegar conviene conseguir primero un número de Estados Unidos. Tanto para ab
 
 | Operador | Red | Precio mensual aproximado |
 |---|---|---|
-| Mint Mobile | T-Mobile | Pago anual ~$15 (mejor relación precio-valor) |
-| US Mobile | Eliges entre 3 redes | Ilimitado ~$16.6 |
+| Mint Mobile | T-Mobile | Varía según la promoción y el pago anual por adelantado |
+| US Mobile | Eliges entre 3 redes | Varía entre pago mensual, anual y ofertas del primer año |
 | Visible (Verizon) | Verizon | $25 ilimitado |
 | Prepago de grandes operadores | Red propia | $30~$50 |
 
@@ -36,7 +36,7 @@ Al llegar conviene conseguir primero un número de Estados Unidos. Tanto para ab
 Cuando ya tengas un número estadounidense, lo siguiente es el banco. Aunque todavía no tengas SSN, como estudiante puedes abrir una cuenta, así que no hace falta esperar al SSN.
 
 - Tienes que ir en persona a la sucursal. A los estudiantes extranjeros muchas veces no les permiten abrir la cuenta por internet. Lleva: pasaporte + I-20 + (si es posible) I-94 + un comprobante de domicilio en Estados Unidos + número de teléfono.
-- Las opciones más usadas: Chase College Checking (para estudiantes, $0 al mes, y con muchas sucursales cerca del campus), BoA, Wells Fargo. Suele haber promociones de bono por abrir cuenta de $100 a $300, así que revísalo.
+- Los productos bancarios, las cuotas mensuales y los bonos de apertura cambian con frecuencia. Antes de solicitar una cuenta, confirma en Chase, Bank of America, Wells Fargo u otro banco los requisitos para estudiantes, las opciones sin SSN y las condiciones actuales para eximir la cuota.
 - El criterio para elegir es simple. Decídete por cuántas sucursales y cajeros automáticos hay cerca del campus; eso es lo más cómodo en el día a día.
 
 ![Guía para instalarte en un posgrado en Estados Unidos, Parte 3: el orden de los trámites tras llegar (móvil, banco, SSN, licencia y crédito)](/images/inline/career-uf-guide-3-arrival-setup.jpg)

@@ -56,7 +56,7 @@ En ciencias e ingeniería, los doctorados suelen admitirse con financiación com
 
 ### Cómo aceptar la oferta (para tu registro)
 
-Entra en `admissions.ufl.edu/appstatus` → VIEW UPDATE → acepta la oferta → devuelve el formulario firmado al departamento. Según la [resolución del 15 de abril de la CGS](http://www.cgsnet.org/april-15-resolution), no tienes obligación de responder antes del 15 de abril, pero solo cerrarás el trámite si firmas y devuelves el formulario. Si falta tu copia firmada, puede bloquearse la emisión del I-20, así que confírmalo hasta el final.
+Entra en `admissions.ufl.edu/appstatus` → VIEW UPDATE → acepta la oferta → devuelve el formulario firmado al departamento. La [resolución del 15 de abril de la CGS](https://cgsnet.org/resources/for-current-prospective-graduate-students/april-15-resolution) se aplica a ofertas de apoyo financiero, como matrícula, becas, programas de formación y ayudantías, de instituciones participantes; no fija el plazo de respuesta de la admisión en sí. Comprueba si tu carta indica que la resolución se aplica y sigue el plazo y los pasos del departamento.
 
 ## 2. Calendario con las fechas clave (ejemplo del semestre de otoño)
 

@@ -1,12 +1,13 @@
 ---
-title: "تعريف بالبحث في موقع MaterialsViewsChina الصيني"
+title: "تعريف بالبحث في موقع MaterialsViews China الصيني"
+subtitle: "قدّم موقع MaterialsViews China باللغة الصينية بحث مستشعر الألياف المنشور في Advanced Functional Materials."
 date: 2019-12-15
 categories: ["جوائز وأخبار"]
 tags: ["مستشعرات"]
 reviewStatus: "done"
 ---
-![تعريف على موقع MaterialsViewsChina](/images/materialsviews.png)
+![تعريف على موقع MaterialsViews China](/images/materialsviews.png)
 
-عُرِّف بالبحث الذي نُشر في مجلة *Advanced Functional Materials* على موقع MaterialsViews China باللغة الصينية، فأصبح معروفًا لدى القراء العلميين في المنطقة الناطقة بالصينية. وهو مستشعر مصنوع من ألياف رفيعة جدًا تشبه الشعر الناعم، رُتّبت في بنية متعددة الطبقات ثم غُطّيت بمادة موصلة للكهرباء. يتمدد هذا المستشعر بسهولة، ويتحمل ملامسة الماء، ويلتقط حتى الإشارات الدقيقة. يقرأ هذا المستشعر الواحد حركات الجسم وحركات اليد بعدة طرق في الوقت نفسه.
+قدّم موقع MaterialsViews China باللغة الصينية البحث المنشور في *Advanced Functional Materials*. استخدم البحث بنية هرمية من الألياف الدقيقة مكسوة بطبقة موصلة. يعمل المستشعر عند التمدد الكبير والتعرض للرطوبة، ويقيس المؤثرات الميكانيكية الخفيفة ويميّز عدة حركات للجسم واليد.
 
 [عرض التعريف ↗](https://mp.weixin.qq.com/s/r0QAnvMYlBQvqXosUhBiEA)

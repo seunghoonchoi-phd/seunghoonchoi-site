@@ -1,5 +1,6 @@
 ---
 title: "연구·성과"
+description: "전극 공정, 유연 센서, 계산재료과학 분야의 연구와 논문, 특허를 소개합니다."
 reviewStatus: "done"
 ---
 소재의 구조, 공정 조건, 실제 성능 사이의 관계를 더 예측 가능하게 만드는 방법을 연구합니다. 석사 과정에서는 미세구조와 계면이 센서 성능을 어떻게 바꾸는지 연구했고, 이후 전극 공정 현장에서는 슬러리, 코팅 같은 공정 조건이 품질에 어떤 영향을 미치는지 연구했습니다.
@@ -10,11 +11,9 @@ reviewStatus: "done"
 
 ## 연구 방향
 
-- 계산재료과학과 머신러닝으로 실험 소재 후보군을 빠르게 선별하는 연구
-- 원자 단위 계산값을 실제 성능 예측 지표로 연결하는 연구
-- 에너지 소재의 구조·공정·성능 관계 분석
-- 미세구조와 계면이 센서·전극 성능에 미치는 영향 분석
-- 전극 공정 데이터를 분석해 유망한 실험 조건을 빠르게 선별하는 연구
+- 계산과 머신러닝으로 실험할 소재 후보를 추려내는 계산재료 연구
+- 슬러리와 코팅 데이터를 분석해 전극 공정 조건을 비교하는 연구
+- 미세구조와 계면이 유연 센서의 측정 성능에 미치는 영향을 확인하는 연구
 
 ## 대표 연구
 
@@ -22,7 +21,7 @@ reviewStatus: "done"
 
 [![Advanced Functional Materials Back Cover: 전도성 계층형 섬유형 미세구조 센서](/images/afm-cover.webp)](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201905808)
 
-섬유형 표면 미세구조를 형성하고, 표면에 전도성 코팅 처리를 통해 잘 늘어나면서도 수분에 내구성이 있는 멀티모달 센서를 만들었습니다. 여러 종류의 움직임과 신호를 구분하고, 큰 변형에서도 전기 신호를 안정적으로 유지하는 데 성공하였습니다. 또한, 미세구조의 형상이 신축성 나노복합체의 전기 전도와 센서 성능을 바꾸는 메커니즘을 증명했습니다. 이 연구는 _Advanced Functional Materials_ 2019년 50호 Back Cover로 실렸고, Google Scholar 기준 140회 이상 인용됐습니다.
+섬유형 표면 미세구조와 전도성 코팅을 결합해, 크게 늘어나고 수분에 노출된 조건에서도 작동하는 센서를 만들었습니다. 실험에서 여러 움직임과 신호를 구분했고, 미세구조 형상이 신축성 나노복합체의 전기 전도와 센서 성능에 미치는 영향을 분석했습니다. 이 연구는 Advanced Functional Materials 2019년 50호 Back Cover로 실렸습니다.
 
 Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and Water-Resistant Multimodal Gesture-Distinguishable Sensor. Seunghoon Choi†, Kukro Yoon†, Sanggeun Lee, Heon Joon Lee, Jaehong Lee, Da Wan Kim, Min-Seok Kim, Taeyoon Lee\*, Changhyun Pang\*. _Advanced Functional Materials_ 29(50), 2019, 1905808. 공동 1저자 · Back Cover
 

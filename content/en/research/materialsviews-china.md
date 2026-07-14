@@ -1,5 +1,6 @@
 ---
 title: "Research Featured in Chinese on MaterialsViewsChina"
+subtitle: "MaterialsViews China introduced in Chinese our fiber-sensor research published in Advanced Functional Materials."
 date: 2019-12-15
 categories: ["Recognition"]
 tags: ["sensors"]

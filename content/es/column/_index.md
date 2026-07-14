@@ -1,6 +1,6 @@
 ---
 title: "Columna"
+description: "Artículos sobre IA, trabajo y aprendizaje a partir de mi experiencia en ingeniería e investigación."
 reviewStatus: "done"
 ---
-Cosas que he visto de primera mano como ingeniero, académico y persona.<br>
-Aquí publico solo textos útiles para la vida y que de verdad llegan al lector.
+Escribo sobre IA, trabajo y aprendizaje a partir de lo que he vivido como ingeniero e investigador.

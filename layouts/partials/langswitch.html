@@ -13,7 +13,7 @@
   {{ $tail = strings.TrimPrefix "/" $tail }}
 {{ end }}
 <div class="langswitch" data-langswitch>
-  <button type="button" class="langswitch__toggle" aria-haspopup="true" aria-expanded="false" aria-label="Language">
+  <button type="button" class="langswitch__toggle" aria-haspopup="true" aria-expanded="false" aria-label="{{ i18n "language" }}">
     <span class="langswitch__globe" aria-hidden="true">🌐</span><span class="langswitch__cur">{{ index $labels $cur }}</span><span class="langswitch__caret" aria-hidden="true">▾</span>
   </button>
   <div class="langswitch__menu" role="menu">

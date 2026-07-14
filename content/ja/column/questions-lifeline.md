@@ -1,11 +1,11 @@
 ---
-title: "質問が多い人の救い"
+title: "質問が多い学生にAIが役立つ理由"
 date: 2026-06-27T22:55:00+09:00
 categories: ["AI"]
 tags: ["AI", "勉強法", "質問", "理解", "試験", "学習"]
 subtitle: "全体像が見えないと動けない人にとって、AIは弱点を隠す道具ではなく、質問を点数に変える道具になりうる。"
 description: "全体構造が見えてから理解が始まる学生が、なぜ従来の試験で不利だったのか。AIがその質問を本当の理解と点数につなげる理由。"
-seoTitle: "質問が多い人の救い: AIが勉強の仕方を変える地点"
+seoTitle: "質問が多い学生にAIが役立つ理由"
 image: /images/col-questions-lifeline-opt.jpg
 reviewStatus: "done"
 ---
@@ -50,7 +50,7 @@ reviewStatus: "done"
 
 最上位の試験になるほど、この差は大きくなる。説明が完璧でなくても、問題を見てすぐ構造をつかむ学生がいる。式の形、条件の流れ、グラフの姿を見て、手が先に動く。従来の試験は、この直感型に有利だった。
 
-![質問が多い人の救い](/images/inline/column-questions-lifeline.jpg)
+![質問が多い学生がAIを学習に活用する様子](/images/inline/column-questions-lifeline.jpg)
 
 <p class="inline-image-caption">公式に慣れた人は答えだけを覚えた人ではなく、解き方のどの段階で間違いやすいかを先に確認する人だ。</p>
 

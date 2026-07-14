@@ -1,11 +1,11 @@
 ---
-title: "A Lifeline for People Who Ask Too Many Questions"
+title: "How AI Can Help Students Who Ask Many Questions"
 date: 2026-06-27T22:55:00+09:00
 categories: ["AI"]
 tags: ["AI", "studying", "questions", "understanding", "exams", "learning"]
 subtitle: "For people who need the whole map before they can move, AI can turn questions into scores instead of merely covering a weakness."
 description: "Why learners who need the whole structure before they understand were disadvantaged by older exams, and how AI can connect their questions to real understanding and better scores."
-seoTitle: "A Lifeline for Question-Rich Learners: How AI Changes Studying"
+seoTitle: "How AI Can Help Students Who Ask Many Questions"
 image: /images/col-questions-lifeline-opt.jpg
 reviewStatus: "done"
 ---
@@ -50,7 +50,7 @@ They were not the kind of people who first put the whole structure into words an
 
 At the top end of exams, this difference becomes large. Some students can see the structure of a problem even when the explanation is incomplete. The shape of an equation, the flow of conditions, the look of a graph: their hands move first. Older exams favored this intuitive type.
 
-![A Lifeline for People Who Ask Too Many Questions](/images/inline/column-questions-lifeline.jpg)
+![A student using AI to explore questions while studying](/images/inline/column-questions-lifeline.jpg)
 
 <p class="inline-image-caption">Someone familiar with a formula has not just memorized the answer; they first check which step of the solution is likely to go wrong.</p>
 

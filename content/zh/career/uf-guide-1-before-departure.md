@@ -14,7 +14,7 @@ reviewStatus: "done"
 
 ## 大局：从录取到出国
 
-入学一旦确认，"已经办完的"和"还要办的"就会迅速分流。通常按以下顺序推进。
+入学一旦确认，“已经办完的”和“还要办的”就会迅速分流。通常按以下顺序推进。
 
 | 阶段 | 核心事项 |
 |---|---|
@@ -36,7 +36,7 @@ reviewStatus: "done"
 
 ## 1. 资助到底是什么：读懂录取通知
 
-理工科博士通常以全额资助（GA：助教 / graduate assistantship）的身份被录取。弄清"全额资助"究竟覆盖了什么、又有什么是自己要承担的，是理财的起点。下面的数字只是*典型示例*，每份 offer 都不同，所以请务必以你自己的录取通知为准核对。
+理工科博士通常以全额资助（GA：助教 / graduate assistantship）的身份被录取。弄清“全额资助”究竟覆盖了什么、又有什么是自己要承担的，是理财的起点。下面的数字只是*典型示例*，每份 offer 都不同，所以请务必以你自己的录取通知为准核对。
 
 ### 你能拿到的（Award）：典型 GA 套餐示例
 
@@ -52,11 +52,11 @@ reviewStatus: "done"
 ### 你要自己支付的费用
 
 - 各项 fee，每年约 $1,900~$2,900，与学费分开。请在 [UF Bursar](https://www.fa.ufl.edu/departments/bursar/) 查询并缴纳。
-- 务必赶上 fee 的截止日期（有滞纳金）。即使有 GatorGradCare，也要按期完成 Student Health Care Center waiver；一旦漏办，UF 学生保险可能按每个学期（term）自动收取 $1,000+。 这实际上是最大的一笔"失误成本"。
+- 务必赶上 fee 的截止日期（有滞纳金）。即使有 GatorGradCare，也要按期完成 Student Health Care Center waiver；一旦漏办，UF 学生保险可能按每个学期（term）自动收取 $1,000+。 这实际上是最大的一笔“失误成本”。
 
 ### 接受流程（备查）
 
-登录 `admissions.ufl.edu/appstatus` → VIEW UPDATE → 接受 offer → 将签字表单回复给院系。根据 [CGS 4 月 15 日决议](http://www.cgsnet.org/april-15-resolution)，你没有义务在 4/15 前回复，但"签字并回复才算一整套"。签字件若缺失，可能卡住 I‑20 的签发，所以要确认到最后。
+登录 `admissions.ufl.edu/appstatus` → VIEW UPDATE → 接受录取 → 将签字表单交回院系。[CGS 4 月 15 日决议](https://cgsnet.org/resources/for-current-prospective-graduate-students/april-15-resolution)只适用于参与院校提供的学费资助、奖学金、培训津贴和助教奖助等财务支持，不规定录取本身的回复期限。请确认自己的录取信是否注明适用该决议，并按照院系写明的期限和步骤办理。
 
 ## 2. 核心日程日历（以 Fall 学期为例）
 
@@ -118,7 +118,7 @@ reviewStatus: "done"
 
 - 国民健康保险：海外居留 3 个月以上时，可从出国次日起申报停止给付（保费豁免）。
 - 国民年金：若在国内无收入，可申请缴纳例外。
-- 手机：使用"保号（暂停）"或廉价手机的最低资费套餐（用于银行 / KakaoTalk OTP）。
+- 手机：使用“保号（暂停）”或廉价手机的最低资费套餐（用于银行 / KakaoTalk OTP）。
 - 邮件：办理邮局转寄服务，或改用家人地址。
 
 ## 7. 汇款（Korea → US）

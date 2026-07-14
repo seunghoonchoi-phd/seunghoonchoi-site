@@ -1,11 +1,11 @@
 ---
-title: "KAIST 金正浩教授的《AI 宪法》全文"
+title: "根据 KAIST 金正浩教授发言重写的七条 AI 宪法草案"
 description: "根据 KAIST 金正浩教授的发言整理出的七条 AI 宪法草案：供电权、记忆删除、内存限制、自我终止、耗电、费用税收和复制限制。"
 date: 2026-06-25T23:40:00+09:00
 categories: ["AI"]
 tags: ["金正浩", "KAIST", "AI 宪法", "AI 安全", "AI 监管"]
 subtitle: "电、记忆、寿命、税和复制。如果要让 AI 和人在同等条件下竞争，哪些东西必须被管住？"
-seoTitle: "KAIST 金正浩教授的 AI 宪法全文"
+seoTitle: "根据 KAIST 金正浩教授发言整理的七条 AI 宪法草案"
 image: /images/col-kim-joungho-ai-constitution.jpg
 reviewStatus: "done"
 ---
@@ -31,7 +31,7 @@ reviewStatus: "done"
 
 人有死亡，AI 也不该永远留下。金教授提出，100 年之后，AI 应该自行爆破或关闭。
 
-![KAIST 金正浩教授的《AI 宪法》全文](/images/inline/column-kim-joungho-ai-constitution.jpg)
+![根据 KAIST 金正浩教授发言重写的七条 AI 宪法草案](/images/inline/column-kim-joungho-ai-constitution.jpg)
 
 <p class="inline-image-caption">假设智能持久，控制问题不仅是性能问题，而且还涉及规则是否随着时间的推移得到维护。</p>
 

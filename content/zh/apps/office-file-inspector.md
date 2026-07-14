@@ -17,7 +17,7 @@ aliases: ["/apps/llm-office-qa/"]
     <span class="appcard__free">开源（MIT）</span>
     <h3>Office File Inspector</h3>
     <p>只检查 AI 生成的 PowerPoint、Excel、Word 中的明显缺陷，刻意不干预风格选择。</p>
-    <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">在 GitHub 查看 -></a>
+    <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">在 GitHub 查看 →</a>
   </div>
 </div>
 
@@ -37,6 +37,6 @@ python check_office_file.py proposal.docx
 
 为了保持旧链接可用，GitHub 仓库地址仍然保留为 `llm-office-qa`。但公开名称、README 和执行文件结构已经按 Office File Inspector 重新整理。
 
-[在 GitHub 查看 ->](https://github.com/seunghoonchoi-phd/llm-office-qa)
+[在 GitHub 查看 →](https://github.com/seunghoonchoi-phd/llm-office-qa)
 
-为什么这样设计，以及为什么 QA 层不应该阻碍更好结果的可能性 -> [不要把模型做成“脑叶切除版”](/zh/column/dont-lobotomize-the-model/)
+为什么这样设计，以及为什么 QA 层不该在审核时降低结果的质量上限 → [审核时不要降低质量上限](/zh/column/dont-lobotomize-the-model/)

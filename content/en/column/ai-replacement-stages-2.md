@@ -1,5 +1,5 @@
 ---
-title: "From Repetitive Physical Labor to Work That Needs Judgment and Sense: Stages 6 to 8 of AI Taking Work"
+title: "From Repetitive Physical Labor to Work Requiring Judgment: Stages 6 to 8"
 date: 2026-06-21T17:43:00+09:00
 draft: false
 categories: ["AI"]
@@ -15,7 +15,7 @@ reviewStatus: "done"
 
 <p class="inline-image-caption">It is difficult for robots to repeat the same actions, not because they lack power, but because conditions vary at each work site.</p>
 
-If AI takes work with right answers first, the next question is natural. Is work done with the body safe?
+If AI automates tasks with checkable answers first, the next question is whether physical work is safer from automation.
 
 Translation, coding, summarization, and analysis are usually work whose results can be checked on screen and revised again. If they are wrong, you can run them again. Physical work is different. A robot has to move, objects collide, materials are ruined, and people can get hurt.
 
@@ -45,7 +45,7 @@ It begins in organized environments. Then it moves little by little into environ
 
 The moment that cost falls, this area shakes too.
 
-![From Repetitive Physical Labor to Work That Needs Judgment and Sense: Stages 6 to 8 of AI Taking Work](/images/inline/column-ai-replacement-stages-2.jpg)
+![From repetitive physical labor to work requiring judgment: stages 6 to 8](/images/inline/column-ai-replacement-stages-2.jpg)
 
 <p class="inline-image-caption">Field sense is a judgment standard created by workers through repeated failures and corrections.</p>
 

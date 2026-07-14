@@ -1,5 +1,6 @@
 ---
 title: "2018 MRS 秋季会议：荣获最佳海报奖（Best Poster Award）"
+subtitle: "仿章鱼吸盘结构的生物电信号传感器研究获得了 2018 MRS 秋季会议最佳海报奖。"
 date: 2018-11-25
 categories: ["获奖·消息"]
 tags: ["仿生"]

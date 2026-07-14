@@ -1,5 +1,6 @@
 ---
 title: "Pinzas blandas inspiradas en el pulpo: reseña en Biomimetics"
+subtitle: "Revisión con coautoría principal que compara la estructura, la detección y el control de pinzas inspiradas en el pulpo."
 date: 2025-12-04
 categories: ["Artículo"]
 tags: ["biomimética", "robótica blanda", "pulpo", "pinza", "IA"]

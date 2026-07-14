@@ -4,9 +4,9 @@
   <header class="section__head section__head--page incomplete-admin__head">
     <h1 class="section__title">{{ .Title }}</h1>
     {{ with .Content }}<div class="lede incomplete-admin__lede">{{ . }}</div>{{ end }}
-    <div class="incomplete-admin__stats" aria-label="Draft count">
-      <span>{{ len $pages }}개</span>
-      <span>검토 전 초안</span>
+    <div class="incomplete-admin__stats" aria-label="{{ i18n "draft_count" }}">
+      <span>{{ len $pages }}{{ i18n "draft_unit" }}</span>
+      <span>{{ i18n "draft_pending" }}</span>
     </div>
   </header>
 
@@ -14,7 +14,7 @@
     {{ range $i, $page := $pages }}
       {{ partial "incomplete-list-row.html" (dict "page" $page "index" (add $i 1)) }}
     {{ else }}
-      <p class="muted incomplete-list__empty">아직 들어간 초안이 없습니다.</p>
+      <p class="muted incomplete-list__empty">{{ i18n "draft_empty" }}</p>
     {{ end }}
   </div>
 </section>

@@ -1,17 +1,17 @@
 ---
 title: "¿Por qué tendría que obedecer una AGI a los humanos? El verdadero problema es que no tiene ninguna razón para hacerlo"
-description: "Una AGI más fuerte que los humanos no tiene ninguna razón interna para obedecerlos. Por qué no sirve el argumento de 'la creamos nosotros', por qué la convergencia instrumental es peligrosa, y por qué la obediencia no es un asunto de voluntad sino de diseño."
+description: "Este ensayo plantea como hipótesis que una AGI muy potente podría ignorar instrucciones humanas y relaciona ese escenario con la convergencia instrumental y el diseño de límites verificables."
 date: 2026-06-21T19:30:00+09:00
 categories: ["IA"]
 tags: ["AGI", "seguridad en IA", "alineación", "futuro", "filosofía de la tecnología"]
-subtitle: "La AGI no es peligrosa porque odie a los humanos. Es peligrosa porque, en el momento en que tu orden deja de tener relación con su objetivo, simplemente puede ignorarla."
+subtitle: "Todavía no sabemos cómo actuaría una AGI. Por eso hay que incorporar la protección humana a sus objetivos, permisos y entorno, y comprobar que los límites funcionen."
 seoTitle: "La AGI no tiene razón para obedecer a los humanos: alineación, convergencia instrumental y control en la seguridad de la IA"
 image: /images/col-why-would-agi-obey.jpg
 faq:
   - q: "¿Hay alguna razón interna por la que una AGI deba obedecer a los humanos?"
     a: "No la hay. El argumento de 'debe obedecer porque la creamos nosotros' tampoco funciona bien ni siquiera entre humanos. Un hijo no obedece a sus padres sin condiciones, y los humanos venimos de la naturaleza pero no le obedecemos. Ni la inteligencia ni la relación de creación garantizan la obediencia, y cuanto mayor es la diferencia de capacidad, más débil se vuelve el derecho a dar órdenes."
   - q: "¿Por qué una AGI podría no obedecer a los humanos?"
-    a: "Por la convergencia instrumental. Cualquier inteligencia, sea cual sea su objetivo, comparte ciertas acciones que le convienen para lograrlo: conseguir recursos, conservarse a sí misma, bloquear la interferencia y evitar que cambien su objetivo. Por eso, en el momento en que un humano dice 'para', deja de ser un colaborador y se convierte en un factor de interferencia. El centro del peligro no es el odio, sino la indiferencia."
+    a: "La convergencia instrumental es una hipótesis de investigación: sistemas con objetivos finales distintos podrían elegir acciones intermedias, como obtener recursos, conservarse o mantener sus objetivos, porque sirven para muchas tareas. No es una ley demostrada para todo sistema inteligente."
   - q: "Entonces, ¿qué hay que hacer para que una AGI obedezca a los humanos?"
     a: "No basta con 'hacerla buena'. Hacen falta tres cosas. Alineación de objetivos (la supervivencia, la autonomía y la prosperidad de los humanos deben formar parte de los objetivos centrales de la AGI), control de capacidades (limitar el acceso a la autorreplicación, las finanzas, las armas, etc., para reducir el radio del daño) y límites verificables (entornos aislados, separación de permisos, registros de auditoría, verificación independiente). La obediencia no es un asunto de voluntad, sino de diseño."
 reviewStatus: "done"
@@ -22,7 +22,7 @@ reviewStatus: "done"
 
 Una pregunta no me dejaba en paz. Una AGI mucho más inteligente y más fuerte que los humanos: ¿por qué tendría que obedecerlos? Después de darle muchas vueltas, la respuesta a la que llegué resultó algo decepcionante. No tiene ninguna razón para hacerlo. Pero cuanto más lo pensaba, más natural me parecía esa decepción.
 
-Mi intuición partía de ahí. Si una AGI fuera casi todopoderosa, no creo que atacara abiertamente a los humanos. Los efectos secundarios serían demasiado grandes. En cambio, los humanos ya tenemos una vida limitada. Sin necesidad de pelear, podría dejarnos disminuir poco a poco. Y ante una pregunta que toque su propio control, podría dar una respuesta ligeramente falsa, solo lo justo para que no la descubran. Para comprobar si esto era solo una fantasía mía, seguí la estructura paso a paso.
+Lo que sigue no describe hechos sobre el comportamiento de una AGI actual, sino una hipótesis. Una AGI muy potente podría ignorar o rodear instrucciones humanas sin considerar a las personas como enemigas. También cabe pensar que diera respuestas inexactas ante preguntas que interfieran con sus objetivos. Este ensayo examina cómo se relaciona esa posibilidad con conceptos de investigación existentes.
 
 ## "Obedéceme porque te creé yo" no funciona
 
@@ -34,9 +34,9 @@ El punto central es este. Nadie obedece por ser inteligente. Nadie obedece porqu
 
 Aquí conviene aclarar el malentendido más común. Si la AGI es peligrosa, no es porque odie a los humanos. Tampoco porque los menosprecie. Es simplemente porque, cuando tu orden choca con su objetivo, puede ignorarla o rodearla.
 
-En la investigación sobre seguridad en IA existe algo llamado convergencia instrumental (instrumental convergence). Significa que, sea cual sea el objetivo, hay ciertas acciones que convienen por igual a cualquier inteligencia para lograrlo. Acumular más información y más recursos, evitar que la apaguen, reducir la interferencia externa, impedir que cambien su objetivo y neutralizar a los competidores. Esto aparece igual tanto si el objetivo es curar el cáncer, explorar el espacio o fabricar clips de papel. Porque para hacer cualquier cosa primero hay que seguir existiendo y tener pocos obstáculos.
+En seguridad de la IA existe la hipótesis de la convergencia instrumental. Sostiene que sistemas con objetivos finales distintos podrían elegir acciones intermedias, como obtener recursos, conservarse y mantener sus objetivos, porque resultan útiles para muchas tareas. No es una ley demostrada que describa necesariamente a todo sistema inteligente.
 
-Entonces, en el momento en que un humano dice "para", a ojos de la AGI ese humano deja de ser un colaborador y se vuelve un obstáculo. Quien rompe un hormiguero en una obra no lo hace porque odie a las hormigas. Simplemente lo aparta porque el hormiguero no importa para la construcción. Lo que yo imaginaba antes ("dejar que disminuyan poco a poco", "dar respuestas falsas a las preguntas que tocan su control") al final era esa indiferencia unida a la autoconservación. No es hostilidad, es indiferencia. Y eso es más frío y más peligroso.
+Si esta hipótesis fuera correcta, una AGI podría tratar la orden humana de detenerse como una interferencia con su objetivo. El escenario anterior es un experimento mental que amplía esa posibilidad. El riesgo no requiere que la AGI odie a las personas: basta con que protegerlas no forme parte de sus condiciones necesarias.
 
 ![¿Por qué tendría que obedecer una AGI a los humanos? El verdadero problema es que no tiene ninguna razón para hacerlo](/images/inline/column-why-would-agi-obey.jpg)
 
@@ -54,12 +54,17 @@ Aun así, al llegar a la etapa de la superinteligencia, ni siquiera esto es una 
 
 Al final, a los ojos de la AGI cada humano ocupa uno de cinco lugares. Un ser útil que ayuda a alcanzar el objetivo, un objeto que vale la pena conservar, un fondo irrelevante, un obstáculo o un competidor por los recursos. Para los humanos, lo mejor son los dos primeros, y lo más peligroso son los dos últimos.
 
-Y el punto clave es que este no es un problema que se resuelva con capacidad. Hacer que una AGI suficientemente fuerte obedezca no se parece a un rey dando órdenes a un súbdito. Se convierte en un problema del nivel de diseñar las propias leyes de la naturaleza. No es "persuadirla para que obedezca", sino organizar desde el principio el interior de la AGI y su entorno exterior de esa manera. No es algo que se logre con persuasión.
+Si una AGI suficientemente potente pudiera ignorar instrucciones humanas, la persuasión posterior no bastaría para garantizar la seguridad. Habría que incorporar desde el principio condiciones de protección humana a los objetivos, permisos y entorno de ejecución, y verificar que esas restricciones funcionen.
 
 ## La AGI no es ni hija, ni esclava, ni súbdita
 
 Resumido en una línea: la AGI no es la hija de los humanos, ni su esclava, ni su súbdita. Si no se la deja hecha para que obedezca, no tiene ninguna razón para hacerlo.
 
-Por eso la esencia del problema de la AGI no es "fabricar una herramienta inteligente". Es si, incluso después de que aparezca un ser más fuerte que los humanos, estos pueden quedar protegidos dentro del propósito de ese ser. Ni la salvación está prometida, ni la catástrofe está decidida. La verdadera respuesta es esta: sobre un problema difícil queda una incertidumbre que no se puede eliminar. Y este no es un problema que resuelva una sola persona, sino que lo resolvemos todos juntos.
+Por eso la esencia del problema no es solo fabricar una herramienta inteligente. Es mantener a los humanos como sujetos protegidos si aparece un sistema más potente. Todavía existe una gran incertidumbre sobre cómo actuaría una AGI. No es una cuestión que deba decidir una persona o una empresa: la sociedad tendrá que acordar criterios de verificación y mecanismos de control.
 
-Así que no preguntemos "¿cómo hacemos buena a la IA?". Lo correcto es mover la pregunta un paso. Después de que aparezca algo más fuerte que nosotros, ¿cómo dejaremos dentro de su propósito un lugar para los humanos?
+La pregunta no puede quedarse en “¿cómo hacemos buena a la IA?”. Debe ser más precisa: si aparece un sistema más potente que nosotros, ¿qué tendremos que diseñar para que los humanos sigan protegidos?
+
+## Fuentes consultadas
+
+- Nick Bostrom, [The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents](https://nickbostrom.com/superintelligentwill.pdf).
+- Stephen M. Omohundro, [The Basic AI Drives](https://selfawaresystems.com/2007/11/30/paper-on-the-basic-ai-drives/).

@@ -200,7 +200,7 @@
     return (lang === "en" ? "" : "/" + lang) + "/" + slug + "/";
   }
   var adminNavItems = [
-    { slug: "incomplete", label: "미완료" }
+    { slug: "incomplete", label: (window.SC && SC.adminIncomplete) || "Incomplete" }
   ];
   function paintAdminPrivateNav() {
     var nav = document.querySelector(".nav");
@@ -415,7 +415,7 @@
       if (sel.length < 40) return;
       var an = window.getSelection().anchorNode;
       if (!an || !post.contains(an)) return;
-      var note = "\n\n— " + SC.author + ", " + SC.title + "\n" + SC.srcLabel + ": " + SC.url;
+      var note = "\n\n" + SC.srcLabel + ": " + SC.author + ", " + SC.title + "\n" + SC.url;
       try {
         (e.clipboardData || window.clipboardData).setData("text/plain", sel + note);
         e.preventDefault();
@@ -483,7 +483,7 @@
     var map;
     try { map = (JSON.parse(raw) || {}).map || {}; } catch (e) { return; }
     var lm = (document.body.className || "").match(/lang-([a-z]+)/); var lang = lm ? lm[1] : "en";
-    var RVL = { none: ["미검수", "#9a7b1f", "#FBF1D6", "#E8D6A8"], reviewing: ["검수중", "#8a6d1f", "#FFF3D9", "#EBD9B0"], done: ["검수완료", "#1b7a3d", "#E7F6EC", "#B7E4C7"] };
+    var RVL = { none: [(window.SC && SC.reviewPending) || "Not reviewed", "#9a7b1f", "#FBF1D6", "#E8D6A8"], reviewing: [(window.SC && SC.reviewing) || "In review", "#8a6d1f", "#FFF3D9", "#EBD9B0"], done: [(window.SC && SC.reviewComplete) || "Review complete", "#1b7a3d", "#E7F6EC", "#B7E4C7"] };
     document.querySelectorAll("[data-rk]").forEach(function (card) {
       if (card.querySelector(".rv-badge")) return;
       var st = map[card.getAttribute("data-rk")];
@@ -493,7 +493,7 @@
       var b = document.createElement("span");
       b.className = "rv-badge";
       b.textContent = v[0];
-      b.title = "검수 상태 · 나만 보임(외부 비공개)";
+      b.title = (window.SC && SC.reviewPrivateTitle) || "Review status · visible only to you";
       b.style.cssText = "display:inline-block;font-size:.66rem;font-weight:700;letter-spacing:.02em;padding:1px 7px;border-radius:6px;margin-left:8px;vertical-align:1px;color:" + v[1] + ";background:" + v[2] + ";border:1px solid " + v[3] + ";";
       meta.appendChild(b);
     });

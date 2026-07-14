@@ -1,5 +1,6 @@
 ---
 title: "Libros"
+description: "Manuscritos en preparación, libros publicados y novedades editoriales."
 reviewStatus: "done"
 ---
-Libros que estoy escribiendo y libros que ya he publicado. Aquí reúno los manuscritos en los que trabajo y las novedades sobre mis publicaciones.
+Aquí reúno los libros que estoy escribiendo, los que ya he publicado y las novedades editoriales.

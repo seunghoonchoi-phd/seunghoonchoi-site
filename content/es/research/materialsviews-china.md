@@ -1,5 +1,6 @@
 ---
 title: "MaterialsViewsChina de China presenta mi investigación"
+subtitle: "MaterialsViews China presentó en chino nuestra investigación sobre sensores de fibra publicada en Advanced Functional Materials."
 date: 2019-12-15
 categories: ["Premios y noticias"]
 tags: ["sensores"]

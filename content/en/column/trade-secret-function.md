@@ -1,86 +1,72 @@
 ---
-title: "Why the Copy Never Tastes the Same: The Real Moat in the AI Era"
-description: "The recipe gets copied; the cook's feel never does. Why interlocking variables and a map of failures make tacit knowledge the one edge AI can't reproduce."
+title: "An AI Answer Is Only the Start: Know-How Comes from Testing It in Reality"
+description: "AI can help people reach a conclusion quickly. Know-how develops when they apply that answer, record the conditions under which it fails, and revise it."
 date: 2026-06-21
 categories: ["AI"]
-tags: ["know-how","competitive moat","AI era","tacit knowledge","value of failure"]
-subtitle: "The real secret isn't the method. It's the hidden conditions that make the method actually work."
-seoTitle: "Why Tacit Knowledge Is the Real Moat in the AI Era: Know-How That Can't Be Copied"
+tags: ["know-how","competitive advantage","AI era","failure conditions","execution"]
+subtitle: "The valuable knowledge is not just the answer AI provides, but the record of where that answer fails in practice and how it must be changed."
+seoTitle: "Know-How in the AI Era: Apply the Answer, Record the Failures"
 image: /images/col-trade-secret-function.jpg
 reviewStatus: "done"
 ---
-![A potter's hands shaping wet clay on the spinning wheel, the tiny pressure of the fingertips deciding the result](/images/col-trade-secret-function.jpg)
+![A potter's hands shaping wet clay on a wheel, where small changes in fingertip pressure affect the result](/images/col-trade-secret-function.jpg)
 
-<p class="inline-image-caption">AI answers are easy to obtain, but know-how comes from fixing the reasons why those answers fail in real work.</p>
+<p class="inline-image-caption">AI answers are easy to obtain. Know-how develops when people identify and correct the reasons those answers fail in real work.</p>
 
-The whole recipe leaked online. Grams of each ingredient, heat level, timing, all of it written down. And yet you cook it exactly as written and it still doesn't taste like that restaurant's. You have all the information, but you can't get the result. Why?
+AI has made it much faster to find a method. In the past, people had to search books, talk to experts, and collect examples before they could choose a direction. Now AI can produce several plausible options in seconds. It can suggest a strategy, report structure, code, marketing copy, experimental design, or study method.
 
-The entire secret of competitiveness in the AI era is sitting right here.
+That is a significant change. Reaching a useful conclusion quickly with AI is already an important skill. One person may spend all day thinking about a problem without acting. Another can use AI to generate hypotheses, compare options, and begin testing. They start at different speeds.
 
-Think back to a problem you solved in middle school. x + 2 = 8. There's exactly one answer: 6. It's 6 no matter who solves it, and once you've learned it, every time after that takes five seconds. It's knowledge that costs almost nothing to copy. The world is full of this kind of thing. You search and it comes up, it fits on one line, and the moment it's written down, anyone can repeat it.
+But an AI answer has not yet passed through reality. It may look correct on the page, follow a sound argument, and include supporting examples. Once someone tries to use it, unexpected constraints appear. That is where know-how begins to develop.
 
-But mix in two or three variables and the whole picture changes. If you don't know x, you don't know y, and the right value of y depends on how you set x, then the answer is no longer a single thing. It becomes a bundle of answers that split apart depending on conditions. Almost all real know-how lives in this second world. Yet we keep trying to write know-how in the language of the first world, as one right answer. That's why it gets copied. And it's why it gets copied even faster in the AI era.
+## Reaching a conclusion with AI is a skill
 
-## The recipe copies; the cook's feel doesn't
+Skilled AI users do not simply ask for the right answer. They divide the problem, specify conditions, request counterarguments, and compare alternatives. That can produce a first conclusion much faster than thinking alone.
 
-Back to the kitchen. You have the whole recipe, so why doesn't it taste right?
+Even this stage creates a large advantage. A draft that once took a day can become several options reviewed within an hour. The user can quickly see which direction is plausible, which evidence is weak, and which option is missing.
 
-The reason is simple. A written recipe is just one single point, measured under average conditions. In the real kitchen, that cook looks at how watery the ingredients are that came in that day and cuts the liquid by a spoonful. They feel with the back of the hand that the pan is hotter than usual and kill the heat thirty seconds early. When they taste for salt, they aren't checking for "bland." They're measuring the kind of bland that will turn salty once it cools. None of this gets written down. Not because it's too much trouble to write. It's because it was never a single value in the first place. It's a judgment that moves with the situation.
+The ability to reach a conclusion with AI is real productivity. It is not usually a durable advantage by itself, however, because other people can generate similar conclusions with the same tools.
 
-If the recipe is one right answer, the cook's feel is a map of different answers for different conditions. The line between what can be copied and what can't sits exactly there.
+## The real difference appears during application
 
-## When variables interlock, the right answer disappears
+AI produces orderly conclusions. Reality is not orderly. Customers do not always respond as expected. Organizations do not move according to logic alone. Workplaces contain constraints that never appeared in the document.
 
-Let's make it sharper. One variable, one answer. Even with two variables, if they run independently, you just tune each one, so it's manageable. It gets genuinely hard when the variables interlock. When the right value of A depends on how you set B, and B in turn depends on C.
+A plan may look convincing but require more ongoing management than the team can provide. Marketing copy may sound strong while customers respond to a different word. Automation may run in a test environment and fail on real business files. The AI conclusion was not necessarily wrong. The conditions were more complicated than the answer assumed.
 
-Once things interlock like this, the very phrase "right answer" falls apart. All that's left is conditional answers. Set the temperature like this, then the time goes like that, but only when the ingredient is in this state. The same settings work one day and fail badly the next. Not because the settings were wrong, but because the state of another variable they quietly depended on had changed.
+This produces valuable experience. A person learns which ideas work in theory but fail in use, why a perfect document goes unused, and where a sound argument becomes impractical. Someone who has faced those conditions can avoid them sooner the next time.
 
-Look at the board game Go and it's easy to see. A handful of standard sequences are all printed in the books. But knowing when to use one, when it's a strong move given the shape of the board and when it's a blunder, lives only in the body of someone who has played tens of thousands of games. AI beat the best human players for the same reason. It searched this space of interlocking far more densely than a person ever could, by playing against itself. Not by memorizing the sequences. By learning the conditions between them.
+## Record the conditions behind each failure
 
-## The real secret is knowing where it breaks
+Writing only "it did not work" preserves almost nothing. Recording the conditions that caused the failure creates knowledge that can be reused.
 
-But the core of know-how isn't the settings that work. The more valuable thing is knowledge of how it breaks. I call this the failure map.
+"This prompt was bad" is not very useful. "It worked on short inputs, but forgot the opening constraints when the document became long" is useful. "The automation failed" says little. "It worked when filenames followed the standard, but broke when employees renamed files manually" gives the next attempt a clear starting point.
 
-Three things are written on the failure map.
+The process is straightforward: reach a conclusion with AI, apply it, record where it fails, change the conditions, and test again. Someone who repeats that cycle will produce very different results from a person using the same model without testing.
 
-First, what breaks the result. Which variable, the moment you touch it, ruins everything at once.
+![An AI Answer Is Only the Start: Know-How Comes from Testing It in Reality](/images/inline/column-trade-secret-function.jpg)
 
-Second, how order ties in. The points where doing the same task with the same materials in a different order splits the outcome. The way bread comes out different depending on whether you let the dough rest first or last.
+<p class="inline-image-caption">People using the same tool get different results because they inspect and correct different causes after a failure.</p>
 
-Third, and this one is the scariest. The things that look fine now and fail later. Perfect when fresh, cracked three days on. Running smoothly in the demo, falling apart in the real environment.
+## Methods spread quickly, but application conditions do not
 
-This failure map never makes it into the finished product, the published paper, or the released recipe. Of course it doesn't. The finished product shows only the one point that succeeded. The hundreds of failures it took to get there, and the boundary line those failures drew that says "do not go in here," survive nowhere in the output. Yet the thing that saves you time the next time you build something similar isn't the one successful point. It's that boundary line.
+Methods are easy to copy. Good prompts, report structures, code patterns, and marketing formulas spread quickly. Once published, other people can read them and AI can reproduce similar versions.
 
-![Why the Copy Never Tastes the Same: The Real Moat in the AI Era](/images/inline/column-trade-secret-function.jpg)
+Application conditions are harder to see. A method may work for one team and fail for another. It may persuade one customer and repel another. It may remain stable with one dataset and break with another. The final output rarely reveals those differences.
 
-<p class="inline-image-caption">The reason why results vary even when using the same tool is because what was checked and corrected after the failure is different.</p>
+To learn the conditions, someone must try the method, fail, and revise it. In the AI era, valuable know-how is not merely knowing a method. It is knowing when and why that method fails.
 
-## You can explain it, but you still can't reproduce it
+## AI skill and execution must work together
 
-There's an interesting border. Motions anyone can explain but almost no one can pull off again.
+Using AI and carrying out work once seemed like separate abilities. They now need to operate together. The fastest learner uses AI to reach a conclusion, tests it on a small scale, records the failure, and returns to AI with better evidence.
 
-Watch a potter's wheel. Gather the clay to the center, keep steady pressure in your hands, match the speed of the wheel. In words it's three sentences and you're done. Watch the video a hundred times and your head understands it all. Then a beginner sits down in front of it and the clay slips out of their hands. The explanation transferred perfectly, but the result didn't. The pressure at the fingertips has to respond, moment by moment, conditionally, to the moisture of the clay and the speed of the spin. And that conditional response doesn't carry over through words or video.
+Someone who collects AI conclusions without acting only produces more documents. An untested strategy, unapplied automation, or unverified analysis may look polished, but it remains shallow. A conclusion that has not passed through reality is not yet personal know-how.
 
-An instrument, a single movement in sport, the feel for when to fall silent at the negotiating table: all the same. Being able to explain something and being able to do it again are two different problems. Explanations copy easily. Reproduction doesn't. And what the copier really wants to walk away with is always the second one.
+Skill does not develop by memorizing an AI answer. It develops by applying the answer, seeing where it fails, and correcting it. AI accelerates the first conclusion. Reality tests whether that conclusion works.
 
-## Putting a rough number on what can't be copied
+## Conclusions tested through failure last longer
 
-To make this visible, here's a rough way to put a number on it.
+Methods will continue to spread and become standardized more quickly. Saying "I know this method" will therefore provide less protection. The stronger claim will be: "I have used this method, and I know where it fails."
 
-How hard a piece of know-how is to copy is roughly proportional to (the number of interlocking variables x knowledge of how it breaks x the cost of building it again from scratch), divided by (how easily it can be accessed x how easily you can reverse-engineer it from the output alone).
+Reaching conclusions with AI matters. So does applying them. The final requirement is a habit of recording failures with their conditions instead of discarding them. Together, those three practices become know-how.
 
-Look at the numerator. The more variables there are and the more they interlock, the more ways you know it can break, the more time and money it takes to rediscover from scratch, the stronger it gets.
-
-Look at the denominator. The faster it shows up in a single search, the more the trick reveals itself when you just take the finished product apart, the weaker it gets.
-
-So the weakest secret is knowledge that's searchable and fully exposed in the output. x + 2 = 8 is exactly that. The strongest secret is knowledge with many interlocking variables, a long history of failure, and an output that never shows you which conditions made it work, no matter how hard you take it apart. The cook's feel, the wheel, the sense built over tens of thousands of games: those.
-
-## If writing it down ends it, AI will copy it
-
-Now back to our own work. A lot of people believe "I work hard" is their edge. But if the product of all that hard work is a recipe that ends the moment it's written down, that's not a moat. AI reads written recipes far faster than a person, combines them, and builds them back. A method that's been made public belongs to no one the instant it goes public.
-
-So what should you build up? The answer is clear. You have to build up knowledge that's expensive to rediscover. Even doing the same work, you should work in the direction of learning deeply how that work breaks, what has to be done in what order, what looks fine on the surface and fails later. Instead of showing off one successful result, you hold the map of conditions that lead to it.
-
-For that, the way you work has to change. Don't only record what went right. Record what went wrong. Collect "this failed because of that" more than "this is how you do it." Take a setting that worked once and run it again under changed conditions, and draw with your own hand the boundary of where it holds and where it collapses. That boundary line is exactly the asset no one can ever restore by looking at the finished product alone.
-
-Know-how that can't be copied isn't a single flash of genius. It's the record built from countless failures, and the depth of judgment that shifts with every condition. In an age when AI reads every recipe, the way to stay uncopyable isn't to work harder. It's to build up what is expensive to rediscover. To do the kind of work that doesn't end the moment it's written down, work that, at the very least, never fully transfers.
+Other people can copy a method. They cannot instantly copy a record built by applying AI conclusions, encountering problems, and revising the work. To gain that knowledge, they must attempt the work and learn from their own failures. Durable skill in the AI era comes from combining fast AI-assisted reasoning with a verified record of what works in reality.

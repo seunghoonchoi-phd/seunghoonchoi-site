@@ -1,5 +1,5 @@
 ---
-title: "Decision Authority Does Not Move All at Once: Stages 9 to 14 of AI Taking Work"
+title: "Decision Authority Does Not Shift All at Once: Stages 9 to 14"
 date: 2026-06-21T17:42:00+09:00
 draft: false
 categories: ["AI"]
@@ -11,7 +11,7 @@ series: "ai-replacement-stages"
 weight: 4
 reviewStatus: "done"
 ---
-![Decision authority does not move all at once: stages 9 to 14 of AI taking work](/images/col-ai-replacement-stages-3.jpg)
+![Decision authority does not shift all at once: stages 9 to 14 of AI job automation](/images/col-ai-replacement-stages-3.jpg)
 
 <p class="inline-image-caption">Decision authority does not move just because a table says AI performs better. Someone must be named to take responsibility when an accident happens.</p>
 
@@ -49,7 +49,7 @@ The report looks perfect. The logic seems plausible. The numbers look right. But
 
 The problem is not AI openly saying something false. It is a case where the logic is perfect on the document but misaligned with the real field. At that point, the expert is no longer someone who fully verifies AI. They become someone who states the responsibility and conditions for an AI result.
 
-![Decision Authority Does Not Move All at Once: Stages 9 to 14 of AI Taking Work](/images/inline/column-ai-replacement-stages-3.jpg)
+![Decision authority does not shift all at once: stages 9 to 14](/images/inline/column-ai-replacement-stages-3.jpg)
 
 <p class="inline-image-caption">Rather than providing answers on behalf of experts, experts will take on more of a role in clarifying the responsibilities and conditions of the answers provided by AI.</p>
 

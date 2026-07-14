@@ -34,7 +34,7 @@ other = "View all"
 [no_posts]
 other = "No posts yet. More coming soon."
 [posted_on]
-other = "Written"
+other = "Published on"
 [categories]
 other = "Categories"
 [tags]
@@ -43,6 +43,28 @@ other = "Tags"
 other = "All"
 [contact]
 other = "Contact"
+[primary_nav]
+other = "Primary navigation"
+[menu]
+other = "Menu"
+[language]
+other = "Language"
+[list_number]
+other = "List number"
+[new_label]
+other = "New"
+[review_pending]
+other = "Not reviewed"
+[reviewing]
+other = "In review"
+[review_complete]
+other = "Review complete"
+[admin_incomplete]
+other = "Incomplete"
+[review_private_title]
+other = "Review status · visible only to you"
+[admin_panel]
+other = "Admin panel"
 [connect_linkedin]
 other = "Connect on LinkedIn ↗"
 [email_university]
@@ -146,7 +168,7 @@ other = "Frequently asked questions"
 [written_by]
 other = "Written by"
 [author_bio]
-other = "Computational materials researcher and PhD student at the University of Florida (UF). After working in battery manufacturing and materials research, he now experiments with and documents how individuals can survive in the AI era. He trusts structure over authority, models over gut feeling, and systems over effort."
+other = "Computational materials researcher preparing to begin a Ph.D. at the University of Florida (UF) in fall 2026. From 2021 to 2025, he worked in electrode manufacturing operations and technical advisory roles in Korea and China. He turns problems he has solved in manufacturing and materials research into practical writing and tools."
 
 [pinned_label]
 other = "Recommended"
@@ -156,3 +178,19 @@ other = "Instagram"
 
 [hero_highlighted]
 other = "Highlighted"
+[draft_count]
+other = "Draft count"
+[draft_unit]
+other = " drafts"
+[draft_pending]
+other = "Drafts awaiting review"
+[draft_empty]
+other = "No drafts have been added yet."
+[incomplete_label]
+other = "Incomplete"
+[draft_fallback]
+other = "Draft"
+[source_label]
+other = "Source"
+[hidden_label]
+other = "Hidden"

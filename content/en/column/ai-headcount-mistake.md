@@ -1,5 +1,5 @@
 ---
-title: "If You Cut People Because AI Does the Work, the Company Gets Slower: The Context Only Social Animals Know"
+title: "Why Cutting Staff After Adopting AI Can Make a Company Slower"
 date: 2026-06-21T17:56:30+09:00
 categories: ["AI"]
 tags: ["AI adoption","headcount cuts","organization operations","AI review","productivity","leadership"]
@@ -74,7 +74,7 @@ On the surface, work continues. Documents come out, meetings happen, and custome
 
 "Can we really reduce people now?" Headcount cuts should be the last question, not the starting point.
 
-![If You Cut People Because AI Does the Work, the Company Gets Slower: The Context Only Social Animals Know](/images/inline/column-ai-headcount-mistake.jpg)
+![Why cutting staff after adopting AI can make a company slower](/images/inline/column-ai-headcount-mistake.jpg)
 
 <p class="inline-image-caption">If needed knowledge is revealed only after reducing staff, the company incurs the cost of recreating that knowledge.</p>
 

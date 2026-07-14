@@ -11,22 +11,22 @@ image: /images/col-reality-is-not-a-database.jpg
 ogimage: /images/col-reality-is-not-a-database.jpg
 reviewStatus: "done"
 faq:
-  - q: "Why is human employment still necessary as AI advances?"
-    a: "Not because humans calculate better than AI. Humans are needed because they are the sensors, executors, verifiers, and accountable operators of the real world."
-  - q: "What is the difference between work that disappears and work that remains in the AI era?"
-    a: "Repetitive output work that can end with AI alone will shrink. Work connected to reality, such as problem definition, field integration, risk verification, responsibility, and institutional operation, becomes more important."
-  - q: "Why does human employment matter for the climate crisis and the energy transition?"
-    a: "The climate crisis and energy transition are not just calculation problems. Power grids, plants, batteries, regulation, field operation, community negotiation, and safety management all become real through human organizations."
+  - q: "Is AI really advancing too fast?"
+    a: "Measured against problems such as global warming, aging, hair loss, and building a lunar base, it is difficult to say that AI is already too fast. Those problems remain unsolved."
+  - q: "Could we solve those problems without AI?"
+    a: "We could solve parts of them, but much more slowly and at greater cost. Materials discovery, energy-grid optimization, drug development, robotic operation, and risk verification require stronger computation and automation."
+  - q: "Why will human employment still matter in the AI era?"
+    a: "Not because people calculate better than AI. People are still needed to install AI answers in the field, verify the results, persuade others, and accept responsibility."
 ---
 ![An engineer looking over energy infrastructure and a city at dawn](/images/col-reality-is-not-a-database.jpg)
 
 <p class="inline-image-caption">The reason AI seems fast is not because it solves the entire problem, but because it quickly processes the part with organized data.</p>
 
-Human employment is still necessary in the AI era not because humans are smarter than AI. It is because humans sense the real world, operate equipment, verify results, and take responsibility. AI can make answers, but people have to install, test, operate, and explain those answers in the real world. As AI takes over more work, the question naturally appears: "If AI does everything, why should humans be employed?"
+Global warming remains unsolved. So do hair loss and aging, and humanity still has no lunar base. We also cannot freely control cancer, dementia, commercial fusion power, or extremely low-cost energy infrastructure. Yet people say AI is advancing too fast.
 
-But that question needs to be asked differently. For large unsolved problems, employment is not merely a way to make a living. It is the link between plans, responsibility, and the field.
+That claim sounds strange to me. AI can write, code, and generate images quickly. But measured against global warming, aging, hair loss, and a lunar base, it is not moving too fast. Ask whether it has solved our most important problems, and the answer is still mostly no.
 
-Problems like responding to global warming, transforming energy systems, and building space infrastructure are not "knowing the answer" problems. They are problems of installing the answer in reality, maintaining it, verifying it, and moving people.
+The question should change. Instead of asking whether AI is advancing too fast, we should ask how we expect to solve these problems if the AI we have is still not capable enough.
 
 ## What is so fast?
 
@@ -88,7 +88,7 @@ Employment is not merely "feeding people." Big problems have to be finished in t
 
 That is why the [ILO guidelines for a just transition](https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies) matter. A green transition is not only a technology transition. It has to move together with labor, education, wages, communities, and social dialogue. Systems last when people participate. Systems fall apart politically when people are excluded. Employment is the social stabilizer that lets long projects keep running.
 
-## AI removes lower-level work, not humans
+## AI automates narrowly defined work, not humanity
 
 AI does not make all humans unnecessary. More precisely, it shrinks work that can be replaced by AI alone. Repetitive document writers may shrink. Simple data-entry roles may shrink. Work that only applies memorized rules may shrink.
 

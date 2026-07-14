@@ -1,11 +1,11 @@
 ---
-title: "The Order AI Takes Work: From Work with Right Answers to Human Existence"
+title: "The Order of AI Job Automation: From Checkable Tasks to Human Roles"
 date: 2026-06-21T17:44:27+09:00
 draft: false
 categories: ["AI"]
 tags: ["AI", "automation", "jobs", "future", "survival strategy", "career"]
 subtitle: "AI does not take work at random. It replaces work in order: tasks where answers converge, responsibility, control, ownership, value judgment, and finally the question of human existence."
-seoTitle: "The Order AI Takes Work, from Right Answers to Human Existence"
+seoTitle: "The Order of AI Job Automation, from Checkable Tasks to Human Roles"
 image: /images/col-ai-replacement-stages.jpg
 series: "ai-replacement-stages"
 weight: 1
@@ -19,7 +19,7 @@ Will AI take my work?
 
 This is no longer a joke. Machines already translate. AI writes code with us. In hospitals, AI scans images first, and people watch videos and read posts AI recommended.
 
-Then what comes next? When does my work get its turn? The important point is that AI does not take work at random. Some work is replaced first, and other work faces pressure much later. There is a reason for the order. This piece lays out the 16 stages in which AI takes work.
+Then what comes next? When will my work be affected? AI does not automate jobs at random. Some tasks are automated first, while others face pressure much later. This piece explains that order in 16 stages.
 
 ## The work AI takes first has something in common
 
@@ -81,7 +81,7 @@ Next comes judgment and sense without clear answers: situations that have not ha
 
 But something remains here: choosing with conviction while knowing that if you are wrong, you take the loss. It is not merely getting the answer right. It is taking responsibility for the judgment. AI can follow sense. Responsibility still remains with people.
 
-![The Order AI Takes Work: From Work with Right Answers to Human Existence](/images/inline/column-ai-replacement-stages.jpg)
+![The order of AI job automation, from checkable tasks to human roles](/images/inline/column-ai-replacement-stages.jpg)
 
 <p class="inline-image-caption">If you want to use AI judgment in your work, you must ultimately decide who will be responsible when a loss occurs.</p>
 

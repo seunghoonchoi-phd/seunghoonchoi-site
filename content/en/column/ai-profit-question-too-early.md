@@ -1,6 +1,6 @@
 ---
 title: "No Company Has Made Money With AI? The Question Is Too Early"
-description: "The real economic impact of AI will not stop at making documents, code, and images faster. The bigger shift begins when people can wear AI in the field and send real-world sensory context back into the system."
+description: "The real economic impact of AI will not stop at making documents, code, and images faster. The larger shift begins when people use wearable AI devices in the field and share real-world context with the system."
 date: 2026-06-27T20:10:00+09:00
 categories: ["AI"]
 tags: ["ai", "wearable AI", "multimodal AI", "agents", "organization design"]
@@ -60,7 +60,7 @@ So it is not strange that AI's effect takes time to show up in the profit line o
 
 The bigger difference appears here.
 
-Does AI-enabled work still require a person to sit in front of a computer? Or can a person wear AI in the field, call it up immediately, and send what they see, hear, touch, and notice back into AI as fully as possible?
+Does AI-enabled work still require a person to sit in front of a computer? Or can a person use a wearable AI device in the field, call it up immediately, and share what they see, hear, touch, and notice?
 
 That difference matters.
 
@@ -82,7 +82,7 @@ When people imagine AI entering the physical world, they often jump straight to 
 
 That path matters. But if you only look at robots, you miss the important part. The physical world already has a body in it. The human body.
 
-There is a more immediate path in between: humans wear AI.
+There is a more immediate path in between: people use AI through wearable devices.
 
 Glasses, earbuds, cameras, microphones, location sensors, motion sensors, temperature and pressure data, and equipment data connect to AI. AI sees and hears alongside the person. It knows where the person is, what they are looking at, and how the current scene differs from past records.
 
@@ -102,7 +102,7 @@ That difference will shape the next productivity gap.
 
 While AI remains a tool used in front of a computer, the contest looks similar. Everyone types into the same window and receives similar answers.
 
-The gap opens when AI becomes a tool people can use directly in the field. When humans wear AI and start seeing, judging, and moving better in the real world, the meaning of "making money with AI" changes too.
+The gap opens when AI becomes a tool people can use directly in the field. When people use wearable AI devices to see, judge, and act more effectively, the meaning of "making money with AI" changes too.
 
 ## Sources
 

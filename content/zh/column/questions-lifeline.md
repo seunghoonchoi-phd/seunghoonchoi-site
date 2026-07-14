@@ -1,11 +1,11 @@
 ---
-title: "问题很多的人的救命绳"
+title: "AI 如何帮助问题很多的学生学习"
 date: 2026-06-27T22:55:00+09:00
 categories: ["AI"]
 tags: ["AI", "学习方法", "提问", "理解", "考试", "学习"]
-subtitle: "对必须先看到整体结构才能行动的人来说，AI 不只是遮住弱点的工具，而可能把问题变成分数。"
+subtitle: "对必须先看到整体结构才能行动的人来说，AI 可以把问题连接到真正的理解和解题练习。"
 description: "为什么必须先看到整体结构才开始理解的学生，在过去的考试中容易吃亏；AI 又如何把这些问题连接到真正的理解和分数。"
-seoTitle: "问题很多的人的救命绳：AI 如何改变学习方式"
+seoTitle: "AI 如何帮助问题很多的学生理解和练习"
 image: /images/col-questions-lifeline-opt.jpg
 reviewStatus: "done"
 ---
@@ -50,7 +50,7 @@ reviewStatus: "done"
 
 在最顶端的考试竞争里，这个差异会被放大。有些学生即使说明不完整，也能直接看出题目的结构。式子的形状、条件怎么变化、图像的样子，他们的手会先动。过去的考试更有利于这种直觉型学生。
 
-![问题很多的人的救命绳](/images/inline/column-questions-lifeline.jpg)
+![AI 如何帮助问题很多的学生学习](/images/inline/column-questions-lifeline.jpg)
 
 <p class="inline-image-caption">熟悉公式的人不是只记住答案，而是会先确认解题过程在哪一步容易出错。</p>
 

@@ -1,11 +1,11 @@
 ---
-title: "Navegador fiscal para estudiantes en EE. UU.: completa el 1040-NR y el 8843 en tu navegador"
+title: "Navegador fiscal para estudiantes coreanos F-1/J-1: completa el 1040-NR y el 8843"
 seoTitle: "App de impuestos para estudiantes internacionales: 1040-NR, Form 8843 y el impuesto estatal para F-1/J-1"
 date: 2026-07-11
 categories: ["Herramientas"]
 tags: ["estudiar en el extranjero", "impuestos", "1040-NR", "F-1", "app"]
-subtitle: "Responde seis pasos para calcular tu impuesto y rellenar los PDF oficiales del IRS. Lo que ingresas nunca se envía a un servidor."
-description: "Navegador fiscal para estudiantes es una app web gratuita que calcula el 1040-NR federal, el Form 8843 y el impuesto estatal para estudiantes F-1/J-1 del año fiscal 2026, y rellena los PDF oficiales del IRS. Todo lo que ingresas se queda en este navegador."
+subtitle: "Completa seis pasos para calcular tu impuesto y rellenar los PDF oficiales del IRS. Lo que ingresas nunca se envía a un servidor."
+description: "Esta aplicación está diseñada para estudiantes F-1/J-1 procedentes de Corea que se encuentran en EE. UU. Ayuda con la residencia fiscal, el 1040-NR, el Form 8843 y algunos impuestos estatales; no está configurada para residentes de otros países con tratado."
 image: /images/us-tax-card.svg
 reviewStatus: "done"
 hidden: true
@@ -16,12 +16,13 @@ build: {list: never, render: always}
   <div class="appcard__body">
     <span class="appcard__free">App web gratuita</span>
     <h3>Navegador fiscal para estudiantes</h3>
-    <p>Calcula en seis pasos el 1040-NR, el Form 8843 y el impuesto estatal para estudiantes F-1/J-1, y rellena los PDF oficiales del IRS. Todo lo que ingresas se guarda solo en este navegador y nunca se envía a un servidor.</p>
+    <p>Para estudiantes F-1/J-1 procedentes de Corea que están en EE. UU. Calcula en seis pasos el 1040-NR, el Form 8843 y algunos impuestos estatales. No está configurada para residentes de otros países con tratado.</p>
+    <p><small>La interfaz de la aplicación está disponible actualmente solo en coreano.</small></p>
     <a class="cta" href="/us-tax/" target="_blank" rel="noopener">Abrir la app →</a>
   </div>
 </div>
 
-Los estudiantes internacionales con visa F-1 o J-1 declaran impuestos con formularios distintos a los de los ciudadanos. En la mayoría de los casos deben presentar el 1040-NR en lugar del Form 1040, y el Form 8843 es obligatorio incluso sin ingresos. La mayoría del software de impuestos para consumidores no admite el 1040-NR. Por eso construí una calculadora que resuelve todo dentro del navegador, desde la determinación de residencia hasta el llenado de formularios.
+El formulario fiscal estadounidense no se determina solo por el nombre de la visa. Primero hay que calcular los días de presencia y los periodos exceptuados para establecer la residencia fiscal. Cuando existe obligación de declarar como no residente suele utilizarse el Form 1040-NR. Las personas F-1 o J-1 que excluyen días de presencia en esa prueba también pueden tener que presentar el Form 8843 aunque no tengan ingresos. Esta herramienta ayuda a revisar esa primera decisión y a completar los cálculos en el navegador.
 
 ## Calcula en seis pasos
 
@@ -29,11 +30,11 @@ El primer paso es la residencia. Ingresa tu tipo de visa, el año de entrada y l
 
 ## Compatible con el tratado fiscal y con CSV de corredores
 
-Si seleccionas nacionalidad coreana, la app sugiere automáticamente las partidas exentas por el tratado fiscal entre Corea y EE. UU. Para los ingresos cubiertos por un artículo del tratado, como las becas, calcula por separado la parte exenta y la parte gravable. Para los ingresos de inversión, sube un CSV descargado de Charles Schwab y la app lo clasifica en dividendos, intereses y resultados de compraventa; los datos de otros corredores se pueden ingresar con un formato CSV genérico o a mano.
+Si eliges Corea como país de residencia a efectos del tratado, la aplicación propone artículos que podrían ser aplicables. El beneficio real no depende solo de la nacionalidad, sino también de la residencia según el tratado, el tipo de ingreso, el propósito de la estancia y los requisitos de cada artículo. La aplicación separa la parte exenta y la parte gravable de ingresos que podrían acogerse al tratado, como ciertas becas, pero el usuario debe verificar los documentos y las condiciones. Los datos de Charles Schwab pueden clasificarse desde un CSV; otros corredores admiten CSV genérico o entrada manual.
 
 ## Los resultados rellenan los PDF oficiales del IRS
 
-En el último paso, ingresa datos personales como tu nombre y tu SSN, y la app escribe los valores calculados en los campos de los PDF oficiales del IRS para descargarlos. Admite el 1040-NR con sus anexos (1, A, NEC, OI) y el Form 8843. Los puntos que no puede decidir automáticamente quedan en blanco, junto con una lista de lo que debes verificar a mano. Como la revisión 2026 de los formularios oficiales aún no se publica, por ahora rellena la revisión 2025 y lo indica en la misma lista.
+En el último paso, la aplicación utiliza datos como el nombre y el SSN para rellenar los PDF del IRS. Admite el 1040-NR con sus anexos (1, A, NEC, OI) y el Form 8843. Los puntos que no puede decidir quedan en blanco y aparecen en una lista de revisión. La vista previa actual usa formularios de 2025, que no pueden presentarse para el año fiscal 2026. Comprueba primero que el IRS haya publicado los formularios de 2026 y que la aplicación se haya actualizado para utilizarlos.
 
 ## Todo lo que ingresas se queda en este navegador
 
@@ -41,4 +42,4 @@ Esta app es una aplicación web estática que funciona sin servidor. Todo lo que
 
 ## Una calculadora de referencia, no asesoría fiscal
 
-Esta app es una calculadora de referencia y no reemplaza la asesoría fiscal profesional. Está dirigida a estudiantes no residentes F-1/J-1 del año fiscal 2026, y para el cálculo del impuesto estatal solo admite Misuri, además de mostrar un aviso de que Florida no tiene impuesto sobre la renta. Si resultas ser residente, debes declarar con el Form 1040, así que toma los números de esta app solo como estimaciones aproximadas. Antes de presentar, revisa directamente los valores escritos en los formularios y consulta a un profesional de impuestos si tu situación es compleja.
+Esta aplicación es una herramienta de referencia y no sustituye el asesoramiento fiscal. Está dirigida principalmente a estudiantes F-1/J-1 no residentes y solo calcula el impuesto estatal de Misuri; para Florida muestra un aviso sobre la ausencia de declaración del impuesto individual sobre la renta. Si resultas residente fiscal o tienes trabajo por cuenta propia, criptoactivos, ingresos de varios estados u otras situaciones no cubiertas, no presentes directamente el resultado. Antes de declarar, compáralo con [IRS Publication 519](https://www.irs.gov/publications/p519), las [instrucciones del Form 1040-NR](https://www.irs.gov/instructions/i1040nr) y los formularios oficiales del año correspondiente. Consulta a un profesional si tu situación es compleja.

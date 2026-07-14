@@ -101,12 +101,12 @@ If you're on regular medication from Korea (for a chronic condition, psychiatric
 
 ### Emergencies: Where to Go
 
-The decision order is SHCC (weekdays, mild) → Urgent Care (mild to moderate) → ER (life-threatening, severe).
+If a condition is life-threatening, call 911 or go to the nearest emergency room immediately. If it is not life-threatening but you need same-day advice, contact SHCC first. Outside business hours, call the SHCC after-hours advice line at (352) 392-1161 and ask whether urgent care or an emergency room is appropriate. Your insurance network may designate different facilities, so check with the insurer as well.
 
 - UF Health Shands ER / Level I trauma center: 1515-1600 SW Archer Rd (24h)
 - Springhill freestanding ER (24/7): 8475 NW 39th Ave, (352) 627-0400
 
-Keep in mind: ER and ambulance are very expensive (hundreds to $1,000+ even after insurance). For mild cases, SHCC or urgent care is far cheaper. Mental health crisis 988 / CWC (352) 392-1575 / 911.
+Emergency-room and ambulance charges vary widely by insurance and treatment. Do not delay care because of cost when a condition is life-threatening. For a mental-health crisis, call 988. Contact CWC at (352) 392-1575, or call 911 when there is immediate danger.
 
 ## Climate, Hurricanes, and Wildlife (TMI)
 

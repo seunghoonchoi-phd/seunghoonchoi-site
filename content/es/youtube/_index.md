@@ -1,5 +1,6 @@
 ---
 title: "YouTube"
+description: "Vídeos que he creado y materiales explicativos relacionados."
 reviewStatus: "done"
 ---
-Lo que dejo guardado en video. Cuando el canal esté en marcha, lo organizaré aquí.
+Reúno aquí los vídeos que he creado y sus materiales explicativos.

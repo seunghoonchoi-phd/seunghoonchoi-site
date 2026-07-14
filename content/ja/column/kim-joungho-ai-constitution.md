@@ -1,11 +1,11 @@
 ---
-title: "キム・ジョンホ KAIST教授による「AI憲法」全文"
+title: "キム・ジョンホKAIST教授の発言をもとに再構成した「AI憲法案」7条"
 description: "キム・ジョンホ KAIST電気・電子工学部教授の発言をもとに整理したAI憲法案の7つの条項。電力供給権、記憶の削除、メモリ制限、終了、電力、費用と税金、複製の制限。"
 date: 2026-06-25T23:40:00+09:00
 categories: ["AI"]
 tags: ["キム・ジョンホ", "KAIST", "AI憲法", "AI安全性", "AI規制"]
 subtitle: "電力、記憶、寿命、税金、そして複製まで。人間とAIが対等な条件で向き合うには、何を縛るべきか。"
-seoTitle: "キム・ジョンホ KAIST教授のAI憲法全文"
+seoTitle: "キム・ジョンホKAIST教授の発言をもとに整理したAI憲法案7条"
 image: /images/col-kim-joungho-ai-constitution.jpg
 reviewStatus: "done"
 ---
@@ -31,7 +31,7 @@ AIが人間を敵とみなしたり、人間を支配しようとしたりする
 
 人間に死があるように、AIも永続的に残らないようにすべきだという趣旨で、100年が過ぎたら自ら爆破または終了するようにしよう、というアイデアを語りました。
 
-![キム・ジョンホ KAIST教授による「AI憲法」全文](/images/inline/column-kim-joungho-ai-constitution.jpg)
+![キム・ジョンホKAIST教授の発言をもとに再構成したAI憲法案7条](/images/inline/column-kim-joungho-ai-constitution.jpg)
 
 <p class="inline-image-caption">長く維持される知能を仮定すると、統制問題は性能だけでなく、時間が過ぎても規則が保たれるかどうかの問題になる。</p>
 

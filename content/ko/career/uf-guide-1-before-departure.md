@@ -56,7 +56,7 @@ reviewStatus: "done"
 
 ### 수락 절차 (기록용)
 
-`admissions.ufl.edu/appstatus` 로그인 → VIEW UPDATE → 오퍼 수락 → 서명 양식을 학과로 회신합니다. [CGS 4월15일 결의](http://www.cgsnet.org/april-15-resolution)에 따라 4/15 전 회신 의무는 없지만, 서명본을 회신해야 수락 절차가 끝납니다. 서명본이 누락되면 I‑20 발급이 막힐 수 있으니 끝까지 확인하세요.
+`admissions.ufl.edu/appstatus` 로그인 → VIEW UPDATE → 오퍼 수락 → 서명 양식을 학과로 회신합니다. [CGS 4월 15일 결의](https://cgsnet.org/resources/for-current-prospective-graduate-students/april-15-resolution)는 참여 대학의 등록금 지원, 펠로십, 트레이니십, 조교 장학금 같은 재정지원 오퍼에 적용되며, 입학 허가 자체의 회신 기한을 정하는 규정은 아닙니다. 본인의 오퍼레터에 이 결의가 적용된다고 적혀 있는지 확인하고, 학과가 안내한 수락 절차와 기한을 따르세요.
 
 ## 2. 핵심 일정 캘린더 (가을 학기(Fall) 예시)
 

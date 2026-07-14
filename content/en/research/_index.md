@@ -1,5 +1,6 @@
 ---
 title: "Research"
+description: "Research on microstructure, interfaces, sensing, battery manufacturing, and computational materials science."
 reviewStatus: "done"
 ---
 I want to make materials and manufacturing processes more predictable. During my master's, I studied how microstructure and interfaces change a sensor's performance. Later, on a battery electrode line, I watched up close how process conditions (slurry, coating, calendering) turn into real quality.

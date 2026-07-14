@@ -17,7 +17,7 @@ aliases: ["/apps/llm-office-qa/"]
     <span class="appcard__free">Open source (MIT)</span>
     <h3>Office File Inspector</h3>
     <p>A checker that verifies obvious defects in AI-made PowerPoint, Excel, and Word files while deliberately not changing style choices.</p>
-    <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">View on GitHub -></a>
+    <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">View on GitHub →</a>
   </div>
 </div>
 
@@ -37,6 +37,6 @@ If you want file-specific checks, use `tools/check_powerpoint.py`, `tools/check_
 
 The GitHub repository URL stays as `llm-office-qa` so old links keep working. The public name, README, and command structure are now organized around Office File Inspector.
 
-[View on GitHub ->](https://github.com/seunghoonchoi-phd/llm-office-qa)
+[View on GitHub →](https://github.com/seunghoonchoi-phd/llm-office-qa)
 
-Why I made it this way, and why a QA layer should never block the possibility of a better result -> [Don't lobotomize the model](/column/dont-lobotomize-the-model/)
+Why I made it this way, and why a QA layer should not lower the quality ceiling during review → [Do not lower the quality ceiling during review](/column/dont-lobotomize-the-model/)

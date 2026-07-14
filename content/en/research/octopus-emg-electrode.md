@@ -1,5 +1,6 @@
 ---
 title: "Octopus-Inspired Adhesive Electrode for EMG: IJIBC"
+subtitle: "A co-first-author study of an octopus-sucker-inspired microstructure that measures EMG signals on dry and wet skin."
 date: 2026-02-28
 categories: ["Publication"]
 tags: ["bio-inspired", "electrode", "EMG", "wearable", "biosignal"]

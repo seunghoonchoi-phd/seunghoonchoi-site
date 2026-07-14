@@ -23,8 +23,8 @@ build: {list: never, render: always}
 
 | 运营商 | 网络 | 大致月费 |
 |---|---|---|
-| Mint Mobile | T-Mobile | 按年付约 $15（性价比第一） |
-| US Mobile | 三网可选 | 不限量约 $16.6 |
+| Mint Mobile | T-Mobile | 价格取决于促销和年度预付条件 |
+| US Mobile | 三网可选 | 价格取决于月付、年付和首年优惠 |
 | Visible (Verizon) | Verizon | $25 不限量 |
 | 大运营商预付费 | 自有网络 | $30~$50 |
 
@@ -36,7 +36,7 @@ build: {list: never, render: always}
 有了美国号码，下一步就是银行。即便还没有 SSN，学生也能开账户，所以没必要为了等 SSN 而把开户往后拖。
 
 - 必须到网点办理。 留学生很多时候没法在线开户。需携带：护照 + I-20 +（有的话）I-94 + 美国地址证明 + 电话号码。
-- 常见选择：Chase College Checking（学生月费 $0，校园附近网点多）、BoA、Wells Fargo。$100~$300 的新开户奖励经常有，记得查一下。
+- 银行产品、月费和开户奖励经常变化。申请前，应向 Chase、Bank of America、Wells Fargo 或其他银行确认学生身份、没有 SSN 时的开户条件和最新免月费要求。
 - 选择标准很简单：按 校园附近网点和 ATM 的密集程度 来挑，日常用起来最方便。
 
 ![美国研究生院落地指南 Part 3：到美后的行政办理顺序（手机、银行、SSN、驾照、信用）](/images/inline/career-uf-guide-3-arrival-setup.jpg)

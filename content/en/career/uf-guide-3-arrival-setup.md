@@ -23,8 +23,8 @@ Get a U.S. number first thing after you land. Bank setup, SSN applications, and 
 
 | Carrier | Network | Approx. monthly |
 |---|---|---|
-| Mint Mobile | T-Mobile | ~$15 if paid annually (best value) |
-| US Mobile | Choice of 3 networks | Unlimited ~$16.6 |
+| Mint Mobile | T-Mobile | Varies by promotion and annual prepayment |
+| US Mobile | Choice of 3 networks | Varies by monthly, annual, and first-year offers |
 | Visible (Verizon) | Verizon | $25 unlimited |
 | Major carrier prepaid | Own network | $30~$50 |
 
@@ -36,7 +36,7 @@ Get a U.S. number first thing after you land. Bank setup, SSN applications, and 
 Once you have a U.S. number, the bank is next. Students can open an account even without an SSN yet, so there's no reason to wait on the SSN first.
 
 - An in-branch visit is required. International students often can't open online. Bring: passport + I-20 + (if available) I-94 + proof of U.S. address + phone number.
-- Common options: Chase College Checking ($0/month for students, many branches near campus), BoA, Wells Fargo. New-account bonuses of $100~$300 are a frequent promotion, so check for them.
+- Bank products, monthly fees, and opening bonuses change frequently. Check the current student and no-SSN account requirements and fee-waiver terms at Chase, Bank of America, Wells Fargo, or another bank before applying.
 - The selection criterion is simple: pick by branch and ATM density near campus, which is what makes daily life easiest.
 
 ![U.S. Grad School Settlement Guide Part 3: Post-Arrival Admin in Order (Phone, Bank, SSN, License, Credit)](/images/inline/career-uf-guide-3-arrival-setup.jpg)

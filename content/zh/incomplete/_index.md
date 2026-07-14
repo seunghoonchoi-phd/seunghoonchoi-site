@@ -1,6 +1,6 @@
 ---
-title: "미완료"
-description: "관리자 전용 초안 보관함입니다."
+title: "未完成"
+description: "仅供网站管理员使用的草稿存档。"
 hidden: true
 sitemap:
   disable: true
@@ -11,4 +11,4 @@ cascade:
   reviewStatus: "none"
 ---
 
-관리자 전용 초안 보관함입니다. 검토 전 글을 임시로 모아두는 곳입니다.
+这里暂存尚未审核的草稿，仅供网站管理员使用。

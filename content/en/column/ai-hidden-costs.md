@@ -1,83 +1,81 @@
 ---
-title: "Company AI Is Not Free: The Token and Subscription Illusion, and the Money Leaking Behind the Wall"
+title: "Why Heavy AI Use Can Slow a Company Down: The Hidden Costs Beyond Tokens"
 date: 2026-06-21T17:56:30+09:00
 categories: ["AI"]
-tags: ["AI cost","token cost","productivity","subscription illusion","decision making","workplace automation"]
-subtitle: "It looks like a flat monthly fee, but the real cost of company AI is the hidden spending you never see on the screen. Tokens, verification time, decisions that arrive late: this piece bundles them all into one number called the AI intervention threshold."
-seoTitle: "Hidden Costs of Company AI: Tokens, the Subscription Illusion, and the AI Intervention Threshold"
+tags: ["AI cost","verification time","productivity","decision making","workplace automation"]
+subtitle: "AI can produce more work in less time, but verification, excess output, and unclear ownership can make an organization slower and harder to manage."
+seoTitle: "Why Heavy AI Use Can Slow a Company Down: Hidden Costs Beyond Tokens"
 image: /images/col-ai-hidden-costs.jpg
 reviewStatus: "done"
 ---
-![Close-up of an old analog electricity meter dial shot in dim light](/images/col-ai-hidden-costs.jpg)
+![Close-up of an old analog electricity meter dial in dim light](/images/col-ai-hidden-costs.jpg)
 
-<p class="inline-image-caption">The cost of AI should include not only usage fees but also human time to read and edit the results.</p>
+<p class="inline-image-caption">The cost of AI includes not only usage fees, but also the time people spend reading and correcting its output.</p>
 
-## Company AI leaks money every time you use it
+When a company starts using AI heavily, everything seems faster at first. Reports appear sooner. Meeting notes are organized. Emails read better. Everyone says productivity has improved.
 
-When you drop a question into the chat box, no sign pops up on the screen to say money is draining away. So you never notice it leaking.
+Then something strange happens. The company produces more, but decisions do not come any faster. Documents multiply, while fewer people take clear ownership. A summary arrives before the meeting, but the meeting lasts just as long. More AI has not made the company faster. It has made the work more complicated.
 
-The AI you use at work behaves differently from the old software. Back then you installed one program per seat and a fixed sum left the account each month. Whether you used it a lot or a little, the bill stayed the same. So cost was almost never something you had to think about.
+The problem is that companies define AI cost too narrowly. Tokens look cheap. A flat monthly subscription can feel almost free. But the largest cost is often not the model. It is the time people spend reading, questioning, correcting, reprompting, and reviewing AI output in meetings.
 
-AI is different. Every single run costs money. Ask a longer question and it costs more. Drop in a long document whole and it costs more again. The more you use it, the higher the cost climbs. The trouble is that none of this is visible.
+## Verification time costs more than tokens
 
-Picture electricity running behind the wall. You can leave the lights on in every room and feel nothing in the moment. Only much later, when the bill arrives, do you realize it was all switched on. Company AI is exactly the same. The instant you throw out a question, nothing shows up on the screen, so it leaks in silence.
+AI can produce an answer quickly. Checking whether that answer is correct takes longer. Business work also carries responsibility. One wrong number, customer name, or contract term can create a real problem.
 
-## When it is the company's money, people burn tokens
+That is why AI output cannot simply be used as it arrives. Someone must read it, compare it with the source, check the context, find missing conditions, review the tone, and screen for legal or security issues.
 
-When the bill runs to the company, people use the resource as if it were free. This is nothing new. It is the same reason the office snack jar empties so fast.
+If AI drafts a document in five minutes and a person spends forty minutes reviewing it, the task did not take five minutes. It took forty-five. Companies often notice the five minutes and call the work faster. Verification time does not appear as a separate item on the invoice, so it disappears into ordinary working hours. That makes it easier to underestimate.
 
-But AI is more dangerous than snacks. Snacks are visible. When the jar is empty, everyone can see it. Tokens vanish silently behind the screen. You cannot watch them drain, so the urge to cut back never even forms.
+## More output does not guarantee faster decisions
 
-On top of that, everyone defends themselves with the very same line: "I was using it for work." At first it is hard to argue with, because it really was for work. But waste in the name of work is still waste. Money you let slip away under the excuse of a job does not mean the job got done.
+AI is good at producing drafts, summaries, comparison tables, checklists, and lists of alternatives. A few clicks can make an organization feel very busy.
 
-## Five habits that leak money
+Output and decisions are not the same. Ten reports do not make a decision ten times faster. More options, more documents to review, and less clarity about who is responsible can slow a decision down. A company should ask what it decided, not only what it produced. If an AI document does not reduce the work required to reach a decision, it may simply add another task.
 
-Waste does not come from grand gestures. It seeps out a little every day from small habits.
+This is how false productivity appears. Everyone is busy. Documents pile up. Meeting packets get thicker. Yet little is decided or carried out.
 
-First, using the most expensive top model for light tasks. Smoothing out a sentence in an email, a two or three line summary: even for these, people summon the heaviest model. The heaviest model costs far more to run, and for these light tasks a cheaper, smaller one would give the same result.
+## A subscription is not free
 
-Second, feeding in the whole thing every time when the key part would do. What you need is one paragraph of a report, but you paste in the entire PDF. You are curious about one line of a meeting, but you throw in the whole transcript. The amount you feed in is the cost, yet everyone loads it all "just in case."
+Many companies pay for AI by the seat. A fixed monthly fee makes unlimited use seem harmless, so employees do not hesitate to ask one more question. The company is paying anyway, they think.
 
-Third, endless regeneration. "A little better." "Again." "Another version too." The first few rounds genuinely raise the quality. But at some point it slides from quality into a game of taste. The output is not getting better, just coming out different, and you keep running it anyway.
+But a subscription is not free. The expense has moved from per-token charges to a recurring fee. The larger problem is how that pricing changes behavior. When each additional request feels free, people call on AI before thinking through the problem themselves.
 
-Fourth, turning an autonomous agent loose for dozens of steps on a task a person could finish in ten minutes. You hand it off because it "does everything for you," but every one of those dozens of round trips is a cost.
+They use AI for small tasks that could be finished with five minutes of focused thought. They write a prompt, read the answer, revise it, and generate another version when they should be making a decision. AI adds steps instead of removing them.
 
-Fifth, talking about "I used a ton of AI" as if it were an achievement. Using a lot is not an achievement. It is just using a lot.
+Tools that appear cheap are easy to overuse. Overuse still creates costs. Subscription AI is no exception.
 
-![Company AI Is Not Free: The Token and Subscription Illusion, and the Money Leaking Behind the Wall](/images/inline/column-ai-hidden-costs.jpg)
+![Why Heavy AI Use Can Slow a Company Down: The Hidden Costs Beyond Tokens](/images/inline/column-ai-hidden-costs.jpg)
 
-<p class="inline-image-caption">Teams that use a lot of AI need to check which tasks are taking the most time, apart from whether they produced results.</p>
+<p class="inline-image-caption">Teams that use AI heavily should measure where time is spent, not just how often the tools are used.</p>
 
-## "It was for work" stops working soon
+## Heavy AI use is not a business result
 
-"You cannot blame me, it was for work" holds up at first. But it does not last. A company that brings in AI tends to walk through the same stages.
+Inside a company, saying that a team uses a lot of AI can sound like an achievement. It is not. It only describes usage.
 
-At first it encourages use. Everyone, give it a try; fall behind if you do not. Then usage explodes. A while later the bill arrives and there is a jolt. From that point the company starts looking at who spends how much, by team, by person, by task.
+The result is what matters. Did the team decide faster? Did the same work require fewer people? Did errors decline? Did customer service improve? Did the company create standards it could reuse?
 
-Next come the rules. Cheap model for this, in house model for that, sign off required for yet another. Finally it looks at outcomes: did spending those tokens actually make the work better? The question changes. From the early "is this really work?" to the later "is this a reasonable use?" In the end the pardon shifts from "was it work related" to "was it spent somewhere worthwhile."
+If a team cannot answer those questions, usage becomes a vanity metric. The dashboard rises while the organization moves at the same speed or even slows down. Companies that use AI well do not boast about volume. They decide where AI belongs and where it does not.
 
-## The cost moved onto people's time
+## Not every task needs AI
 
-Instead of paying for what they use, many companies run a per seat subscription chatbot. There is a trap hidden here. Throw out one more question and the bill does not visibly rise. So the extra cost of one more use looks like zero.
+AI is powerful, but applying it to every task does not guarantee a better result. Sometimes a person can decide more quickly and at lower cost.
 
-But "the extra cost looks like zero" and "the organization's cost is zero" are completely different claims. The cost did not disappear. It only moved.
+AI is most useful when the risk is high, missing something would be costly, several options must be compared, or the resulting standard can be reused. In those cases, the value can justify the cost of verification.
 
-Where did it go? First, it moved into the per seat subscription fee. Then it scattered: into the time to read the answer and verify it is right, the time to tidy up materials to explain the situation to the AI, the decision that runs late because it had to pass through AI once, the work of managing all of it and minding security. A one line cost called a token fee turned into a many line cost called human time. It may even have gotten more expensive.
+AI can be excessive when the risk is low, the answer is obvious, the task must be handled immediately, and a mistake would cause little harm. Calling on AI adds prompting, review, revision, and confirmation. The task becomes heavier, not faster. The test is simple: if checking AI output takes more time than AI saves, do not use it.
 
-## Use AI only when the payoff is big
+## Measure AI cost in the workflow, not only on the invoice
 
-So the slogan "let's use AI for every decision," spelled out honestly, becomes "let's add a cost to every decision." It would help to keep one rule. In this piece I will call it the AI intervention threshold. It is the line that decides whether a given decision should use AI or not. The rule is simple. Use AI only when what you gain from it outweighs what you pay.
+Tokens and subscriptions make AI look inexpensive. Inside an organization, however, attention, decision speed, and clear responsibility can cost more than the software. Once AI enters a workflow, the company must decide who writes the request, who reviews the answer, and who accepts final responsibility. Without that structure, AI does not accelerate the organization. It blurs ownership.
 
-On the gain side: better quality, lower risk, time saved, value you can reuse again and again. On the cost side: tokens, verification time, delay, the prep time to explain the situation, the security burden.
+"AI said so" is not accountability. A person must make the decision. AI can help gather evidence, expand the options, and identify omissions. If people use it to avoid responsibility, the organization becomes overloaded.
 
-Then the answer splits. If the stakes are high, the choices are many, and you will keep reusing the criteria once you set them, using AI is the right call. The other way around, if the risk is small, it has to be decided right now, the answer is already obvious, and being wrong costs little, a person is faster and cheaper.
+Measure what happened after AI entered the workflow. Did meetings get shorter? Did decisions arrive sooner? Did review time decline? Did ownership become clearer? Those answers reveal the real cost.
 
-## If no decision gets made, the output is just noise
+## The companies that use AI precisely will win
 
-The token bill is really only the shadow of a bigger problem. The real problem is fake productivity.
+This is not an argument against AI. Companies need to use it. But volume should not be the goal.
 
-Suppose you spent all day making twenty versions, pulling summaries, tidying up meeting notes. But if not a single decision got made that day, and no work was shipped or executed faster, that is not productivity. It is just a tall pile of digital paper. It looks busy, but it did not change the actual work.
+Good companies do not apply AI indiscriminately. They use it for important decisions, recurring judgments, complex reviews, and standards that can be reused. They do not use it to delay simple decisions or produce documents that let people avoid responsibility.
 
-AI earns its keep only when it shrinks the work. If output grew but decisions did not get any faster, that is not automation. It is louder noise. The volume goes up and the work stays exactly where it was.
-
-So the one who wins in the end is not the person who uses the most AI. It is the one who pulls a better result out of fewer tokens. The strong position is not "I use a lot of AI" but "I design AI for output per cost." The person who stays aware of the electricity leaking behind the wall is the one who ends up working in the brightest room.
+Using AI well is not about sending more prompts. It is about knowing which tasks need AI and which do not, then turning useful output into an accountable decision. The real cost of workplace AI is not the token bill. It is unverified output, delayed decisions, unclear ownership, and extra meetings. The company that uses AI precisely will move faster than the company that merely uses it often.

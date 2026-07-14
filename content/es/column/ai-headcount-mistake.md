@@ -1,9 +1,9 @@
 ---
-title: "Si reduces personal porque la IA hace el trabajo, la empresa se vuelve más lenta: el contexto que solo conoce un animal social"
+title: "Que la IA complete tareas no justifica recortar personal: la revisión y la responsabilidad siguen siendo humanas"
 date: 2026-06-21T17:56:30+09:00
 categories: ["AI"]
 tags: ["adopción de IA", "reducción de personal", "operación organizacional", "revisión de IA", "productividad", "liderazgo"]
-subtitle: "Aunque la IA produzca resultados, la revisión, la responsabilidad y el juicio del contexto político siguen en manos humanas. La reducción de personal debe ser la última pregunta, después de pilotos y medición."
+subtitle: "Aunque la IA produzca resultados, la revisión, la responsabilidad y el contexto de la organización siguen en manos humanas. Cualquier ajuste de personal debe decidirse después de probar y medir."
 seoTitle: "Por qué reducir personal tras adoptar IA puede volver más lenta a la empresa"
 image: /images/col-ai-headcount-mistake.jpg
 reviewStatus: "done"
@@ -36,7 +36,7 @@ Una frase creada por IA puede ser correcta por sí misma y aun así estar mal en
 
 Un documento creado por IA no es solo un resultado. Es un resultado que debe revisarse antes de entrar en la realidad.
 
-## En la empresa, el contexto político suele importar más que tener razón
+## En la empresa no basta con tener razón: también importa el contexto de la organización
 
 En una empresa, el trabajo no se mueve solo por tener la respuesta correcta. Una frase lógica puede ser rechazada en una reunión. Un número correcto puede rechazarse si el orden de reporte está mal. Una propuesta beneficiosa para el cliente puede detenerse si no se resolvió qué área asumirá la responsabilidad. Hoy la IA ha reducido mucho las alucinaciones descaradas. Pero en empresas aparece a menudo un problema más ambiguo y peligroso.
 
@@ -76,7 +76,7 @@ Por fuera, todo funciona. Salen documentos, hay reuniones, continúa la atenció
 
 "¿De verdad podemos reducir personas ahora?" La reducción no debe ser el punto de partida. Debe ser la pregunta final.
 
-![Si reduces personal porque la IA hace el trabajo, la empresa se vuelve más lenta: el contexto que solo conoce un animal social](/images/inline/column-ai-headcount-mistake.jpg)
+![Que la IA complete tareas no justifica recortar personal: la revisión y la responsabilidad siguen siendo humanas](/images/inline/column-ai-headcount-mistake.jpg)
 
 <p class="inline-image-caption">Si el conocimiento necesario se revela sólo después de reducir el personal, la empresa incurre en el costo de recrear ese conocimiento.</p>
 

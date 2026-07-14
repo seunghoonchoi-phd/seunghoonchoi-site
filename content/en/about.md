@@ -1,29 +1,30 @@
 ---
 title: "About"
+description: "An engineer and creator who turns research, preparation, and problem-solving into clear writing and useful tools."
 reviewStatus: "done"
 ---
 <figure class="about-portrait">
   <img src="/images/about-portrait.jpg" alt="Seunghoon Choi" width="975" height="1254" loading="eager">
 </figure>
 
-Before I am an engineer, I am someone who creates content. When I work through complex, tedious problems myself, I turn them into writing and tools so the next person has to wander less. Starting in 2026, I will begin a Ph.D. in Computational Materials Science at the University of Florida (UF).
+I am an engineer and a creator. After solving a complex or tedious problem myself, I document the process and turn useful parts into tools that others can use. In fall 2026, I plan to begin a Ph.D. in Computational Materials Science at the University of Florida (UF).
 
-Degrees and research matter, but I also think there is beauty in recording and organizing a life authentically. I want to solve the bottlenecks I have run into myself, then share the process through essays, apps, and guides.
+Degrees and research matter, but so does keeping an honest record of how I got here. I want to solve problems I have faced firsthand and share what I learn.
 
-I hope the roads I have already walked become a little less difficult for the next person.
+I hope the next person finds the path a little easier because I went first.
 
 ## Career Timeline
 
-- From 2026 · Incoming Ph.D. Student, Computational Materials Science: *University of Florida*, Gainesville, FL
+- Fall 2026 · Incoming Ph.D. Student, Computational Materials Science: *University of Florida*, Gainesville, FL
 - 2025-2026 · Visiting Researcher, Electrical-Electronics and Robotics Engineering: *Korea National University of Transportation*, Chungju, Korea
-- 2023-2025 · Electrode Process Technical Advisor: *EV battery joint venture*, Yancheng, China (premium EV line launch)
+- 2023-2025 · Electrode Process Technical Advisor: *EV cell joint venture*, Yancheng, China (preparing a new production line for mass production)
 - 2021-2023 · Electrode Process Engineer: *leading EV battery manufacturer*, Seosan, Korea (production management)
 - 2017-2019 · M.Eng., Nanoscience & Engineering: *Sungkyunkwan University (SKKU)*, Suwon, Korea
 - 2010-2017 · B.S., Advanced Materials Science & Engineering: *Sungkyunkwan University (SKKU)*, Suwon, Korea
 
 ## Industry Experience
 
-7+ years in lithium-ion battery electrode manufacturing, leading process optimization, production scale-up, and data-driven standardization across production sites in Korea and China. Work spanned the full electrode line (slurry preparation, coating, calendering, slitting), new-line commissioning and mass-production readiness for premium EV programs, and cross-functional systems integration (MES / ERP / QMS) for reliable data flow and traceability.
+From 2021 to 2025, I worked in lithium-ion battery electrode manufacturing in Korea and China, first in process operations and later in a technical advisory role. My work covered slurry preparation, coating, calendering, and slitting, as well as production readiness for a new line and manufacturing-data standardization.
 
 ## Contact
 

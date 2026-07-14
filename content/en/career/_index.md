@@ -1,5 +1,6 @@
 ---
-title: "Career Guide"
+title: "U.S. Study and Settlement Guide"
+description: "Practical guidance on graduate study, life in the United States, and taxes, based on firsthand preparation and verified sources."
 reviewStatus: "done"
 ---
-Information on graduate study abroad, careers, U.S. life, and U.S. tax, organized from direct experience.
+Practical guidance on graduate study, life in the United States, and taxes, based on firsthand preparation and verified sources.

@@ -1,6 +1,6 @@
 ---
 title: "Aplicaciones"
+description: "Aplicaciones y herramientas que he creado para leer, estudiar, trabajar y resolver problemas cotidianos."
 reviewStatus: "done"
 ---
-Mi objetivo es eliminar los cuellos de botella que he vivido en carne propia.<br>
-El camino que yo ya recorrí no debería ser igual de difícil para ti.
+Creo aplicaciones y herramientas para resolver problemas que he encontrado, y documento el proceso para que otras personas puedan utilizarlas.

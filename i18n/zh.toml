@@ -28,13 +28,13 @@ other = "首页"
 [latest]
 other = "最新文章"
 [read_more]
-other = "阅读"
+other = "查看详情"
 [view_all]
 other = "查看全部"
 [no_posts]
-other = "还没有文章，即将更新。"
+other = "暂时没有公开内容。"
 [posted_on]
-other = "撰写"
+other = "发布日期"
 [categories]
 other = "分类"
 [tags]
@@ -42,13 +42,13 @@ other = "标签"
 [all]
 other = "全部"
 [contact]
-other = "联系"
+other = "联系方式"
 [connect_linkedin]
 other = "在 LinkedIn 上联系 ↗"
 [email_university]
-other = "大学"
+other = "学校邮箱"
 [email_personal]
-other = "个人"
+other = "个人邮箱"
 [skip_to_content]
 other = "跳到正文"
 [explore]
@@ -146,7 +146,7 @@ other = "常见问题"
 [written_by]
 other = "作者"
 [author_bio]
-other = "计算材料研究者，现为佛罗里达大学（UF）博士生。经历过电池制造现场和材料研究后，他现在实验并记录个人如何在 AI 时代生存。他相信结构胜过权威，模型胜过直觉，系统胜过努力。"
+other = "材料工程师和研究者，计划于 2026 年秋季在佛罗里达大学（UF）开始计算材料科学博士项目。他曾从事电池电极生产和材料研究，也制作文章与工具，记录实际问题的解决过程。"
 
 [pinned_label]
 other = "推荐"
@@ -155,4 +155,47 @@ other = "推荐"
 other = "Instagram"
 
 [hero_highlighted]
-other = "精选"
+other = "近期研究"
+
+[primary_nav]
+other = "主导航"
+
+[menu]
+other = "打开菜单"
+
+[language]
+other = "选择语言"
+
+[list_number]
+other = "列表序号"
+
+[new_label]
+other = "新内容"
+[review_pending]
+other = "尚未审核"
+[reviewing]
+other = "审核中"
+[review_complete]
+other = "审核完成"
+[admin_incomplete]
+other = "未完成"
+[review_private_title]
+other = "审核状态 · 仅自己可见"
+[admin_panel]
+other = "管理页面"
+[draft_count]
+other = "草稿数量"
+[draft_unit]
+other = "篇"
+[draft_pending]
+other = "待审核草稿"
+[draft_empty]
+other = "暂时还没有草稿。"
+[incomplete_label]
+other = "未完成"
+[draft_fallback]
+other = "草稿"
+[source_label]
+other = "来源"
+[hidden_label]
+other = "隐藏"

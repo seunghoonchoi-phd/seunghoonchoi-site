@@ -1,11 +1,11 @@
 ---
-title: "US Tax Navigator for International Students: Fill Out 1040-NR and 8843 in Your Browser"
+title: "US Tax Navigator for Korean F-1/J-1 Students: Fill Out 1040-NR and 8843 in Your Browser"
 seoTitle: "International Student Tax App: 1040-NR, Form 8843, and State Tax for F-1/J-1"
 date: 2026-07-11
 categories: ["Tools"]
 tags: ["study abroad", "taxes", "1040-NR", "F-1", "app"]
-subtitle: "Answer six steps to calculate your tax and fill official IRS PDFs. What you enter is never sent to a server."
-description: "US Tax Navigator is a free web app that calculates the federal 1040-NR, Form 8843, and state tax for F-1/J-1 students in tax year 2026 and fills official IRS PDFs. Everything you enter stays in this browser."
+subtitle: "Complete six guided steps to calculate your tax and fill official IRS PDFs. What you enter is never sent to a server."
+description: "US Tax Navigator is designed for F-1/J-1 students from Korea who are in the United States. It helps with U.S. tax residency, Form 1040-NR, Form 8843, and selected state-tax calculations; it is not configured for residents of other treaty countries."
 image: /images/us-tax-card.svg
 reviewStatus: "done"
 hidden: true
@@ -16,12 +16,13 @@ build: {list: never, render: always}
   <div class="appcard__body">
     <span class="appcard__free">Free web app</span>
     <h3>US Tax Navigator</h3>
-    <p>Calculates the 1040-NR, Form 8843, and state tax for F-1/J-1 students in six steps and fills official IRS PDFs. Everything you enter is stored only in this browser and never sent to a server.</p>
+    <p>For F-1/J-1 students from Korea who are in the United States. It calculates the 1040-NR, Form 8843, and selected state tax in six steps. It is not configured for residents of other treaty countries. Everything you enter stays in this browser.</p>
+    <p><small>The app interface is currently available in Korean.</small></p>
     <a class="cta" href="/us-tax/" target="_blank" rel="noopener">Open the app →</a>
   </div>
 </div>
 
-International students on an F-1 or J-1 visa file taxes on different forms than citizens. In most cases they must file 1040-NR instead of Form 1040, and Form 8843 is required even with no income. Most consumer tax software does not support 1040-NR. So I built a calculator that handles everything from residency determination to form filling inside the browser.
+An immigration status alone does not determine which U.S. tax form a student should file. The first step is to determine tax residency by counting days of presence and any days that qualify for an exception. A student with a nonresident filing obligation will generally use Form 1040-NR. An F-1 or J-1 student who excludes days from the substantial presence test may also need to file Form 8843 even without income. I built this browser-based calculator to help with that first determination and the forms that may follow.
 
 ## Calculate in six steps
 
@@ -29,11 +30,11 @@ The first step is residency. Enter your visa type, year of entry, and days prese
 
 ## Tax treaty and brokerage CSV support
 
-If you select Korean citizenship, the app automatically suggests items exempted under the Korea-US tax treaty. For income covered by a treaty article, such as scholarships, it calculates the exempt and taxable amounts separately. For investment income, upload a CSV downloaded from Charles Schwab and the app sorts it into dividends, interest, and trading gains and losses; data from other brokers can be entered through a generic CSV format or by hand.
+If you select Korea as your country of residence for treaty purposes, the app suggests provisions that may apply. A treaty benefit is not determined by citizenship alone. It depends on treaty residence, the type of income, the purpose of the stay, and the requirements of the specific article. The app can separate potentially exempt and taxable amounts for income such as scholarships, but the user must verify the evidence and treaty provision before filing. For investment income, a Charles Schwab CSV can be sorted into dividends, interest, and trading gains and losses. Other brokerage data can be entered through a generic CSV format or by hand.
 
 ## The results fill official IRS PDFs
 
-In the last step, enter personal details such as your name and SSN, and the app fills the calculated values into the fields of the official IRS form PDFs for download. It supports 1040-NR with its schedules (1, A, NEC, OI) and Form 8843. Items it cannot decide automatically are left blank, together with a list of what to verify by hand. Because the 2026 revision of the official forms is not yet published, it currently fills the 2025 revision and notes this in the same list.
+In the last step, enter personal details such as your name and SSN, and the app fills calculated values into official IRS form PDFs for download. It supports Form 1040-NR with Schedules 1, A, NEC, and OI, as well as Form 8843. Items the app cannot determine are left blank, and the app lists what must be checked manually. The current preview uses 2025 forms. These PDFs cannot be filed for tax year 2026. First confirm that the IRS has published the 2026 forms and instructions and that the app has been updated to use them.
 
 ## Everything you enter stays in this browser
 
@@ -41,4 +42,4 @@ This app is a static web app that runs without a server. Everything you enter, i
 
 ## A reference calculator, not tax advice
 
-This app is a reference calculator and does not replace professional tax advice. It targets F-1/J-1 nonresident students in tax year 2026, and for state tax it supports Missouri only, while showing a notice that Florida has no income tax. If you are determined to be a resident, you must file Form 1040, so treat this app's numbers as rough estimates only. Before filing, check the filled values directly on the forms, and consult a tax professional if your situation is complex.
+This app is a reference calculator and does not replace professional tax advice. It primarily supports F-1/J-1 students who are nonresidents for tax purposes. State-tax calculations are limited to Missouri, while the app only notes that Florida has no individual income-tax return. Do not file the generated result without further review if you are a resident for tax purposes or have self-employment income, cryptocurrency, income from several states, or another situation the app does not cover. Before filing, compare the result with [IRS Publication 519](https://www.irs.gov/publications/p519), the [Form 1040-NR instructions](https://www.irs.gov/instructions/i1040nr), and the official forms and instructions for the relevant tax year. Consult a tax professional when the facts are complex.

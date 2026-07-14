@@ -1,12 +1,13 @@
 ---
 title: "Domiciliar el alquiler al estudiar en EE. UU.: si aún no tienes cuenta americana, no lo configures con tarjeta"
-description: "Por qué me frené cuando estaba a punto de domiciliar el alquiler antes de llegar a EE. UU. Sin una cuenta bancaria americana solo te queda la tarjeta, y pagar el alquiler con tarjeta supone comisiones, pérdida por el tipo de cambio y riesgo de rechazo. Te cuento el orden correcto: primero abrir la cuenta y luego domiciliar por transferencia bancaria."
+description: "Por qué me frené cuando estaba a punto de domiciliar el alquiler antes de llegar a EE. UU. Pagar con tarjeta puede implicar comisiones del portal, costes de cambio o rechazos. Conviene comprobar los cargos reales y compararlos con la transferencia bancaria."
 date: 2026-06-28
 categories: ["Instalarse"]
 aliases: ["/column/us-rent-autopay/"]
 tags: ["Estudiar en Estados Unidos", "Alquiler", "Domiciliación de pagos", "Cuenta bancaria americana", "ACH", "Vida del estudiante internacional"]
 subtitle: "Quise dejar domiciliado el alquiler antes incluso de mudarme, y acabé descubriendo que era mejor no hacerlo."
 seoTitle: "Domiciliar el alquiler como estudiante en EE. UU.: qué tener en cuenta si no tienes cuenta americana"
+reviewStatus: "done"
 ---
 ![Un abanico de billetes de veinte dólares estadounidenses](/images/uf-rent-autopay.jpg)
 
@@ -14,18 +15,18 @@ Acababa de firmar el contrato de un apartamento en Estados Unidos. Aún faltaba 
 
 ## La domiciliación no es obligatoria
 
-Empecemos por un malentendido. La domiciliación de pagos (AutoPay) casi nunca es obligatoria. Lo que el contrato suele exigir es esto: pagar dentro del plazo, a través del portal indicado, con tarjeta o por transferencia bancaria. Que lo configure de forma automática o que lo pague a mano cada mes es cosa mía. La domiciliación no es "una obligación que, si incumples, te trae un problema grave", sino "un seguro para que no se te olvide". (Los recargos suelen salir caros. Se acumulan por días y, si el pago se rechaza, se añade una comisión por cada intento. Por eso ese seguro resulta tan tentador.)
+Empecemos por un malentendido. La domiciliación (AutoPay) casi nunca es obligatoria. El contrato suele exigir que el alquiler se pague dentro del plazo y a través del portal indicado, con tarjeta o transferencia. Activar el pago automático o pagar a mano cada mes suele ser una elección del inquilino. Los recargos y las comisiones por pagos rechazados dependen del contrato y del portal, así que conviene revisarlos antes de mudarse.
 
-## La trampa: sin cuenta solo te queda la tarjeta, y la tarjeta cobra comisión cada mes
+## Sin una cuenta estadounidense, el pago con tarjeta puede tener comisión
 
 El problema es el medio de pago. Los portales de alquiler estadounidenses suelen aceptar dos opciones.
 
-- Transferencia bancaria (ACH, Automated Clearing House: el sistema con el que los bancos de EE. UU. se mueven dinero entre sí de forma automática): prácticamente no tiene comisión (entre cero y una cantidad mínima).
-- Tarjeta de crédito o débito: suele llevar una comisión por pago (en torno al 3 %).
+- Transferencia bancaria (ACH, Automated Clearing House): según el portal y el banco, puede no tener comisión o tener una comisión pequeña.
+- Tarjeta de crédito o débito: el portal puede cobrar una comisión por pago.
 
-El detalle está aquí: antes de salir del país, si todavía no tienes una cuenta bancaria americana, no puedes usar la transferencia (ACH). Solo te queda la tarjeta. Y si dejas configurada la domiciliación con tarjeta para todo un año, te cobran una comisión cada mes. Si el alquiler es alto, solo en comisiones se te van varios cientos de dólares al año.
+Antes de viajar, quizá todavía no tengas una cuenta estadounidense que puedas registrar para ACH. Antes de activar la domiciliación con tarjeta, comprueba cuánto cobra el portal por cada pago: puede no cobrar nada, aplicar una cantidad fija o calcular un porcentaje.
 
-Si encima es una tarjeta coreana, peor todavía. A la comisión por pago se le suman la comisión por uso en el extranjero y la pérdida por el tipo de cambio al convertir wones a dólares, y existe incluso el riesgo de que el banco bloquee la tarjeta: ve un cargo que sale todos los meses desde el extranjero y sospecha que es un uso fraudulento. Si el pago se bloquea, eso se convierte directamente en un impago, y a la comisión por cada rechazo (suelen ser unos 40 dólares) se le puede sumar el recargo por mora. La domiciliación que configuraste para vivir más tranquilo acaba siendo, en realidad, una estructura que te encarece todo.
+Las comisiones por operación extranjera y el coste de cambio dependen de la tarjeta coreana y de su emisor. Confirma también si admite cargos internacionales recurrentes. Si un pago se rechaza, el portal o el contrato pueden imponer una comisión por devolución y un recargo por mora; consulta los importes reales en el contrato y en la pantalla de pago.
 
 ![Domiciliar el alquiler al estudiar en EE. UU.: si aún no tienes cuenta americana, no lo configures con tarjeta](/images/inline/career-us-rent-autopay.jpg)
 
@@ -33,14 +34,14 @@ Si encima es una tarjeta coreana, peor todavía. A la comisión por pago se le s
 
 Por eso lo más limpio es plantearlo así.
 
-1. Nada más llegar a EE. UU., lo primero es abrir una cuenta bancaria. Los estudiantes internacionales suelen poder abrirla sin demasiada dificultad con el pasaporte y el I-20 (el documento que acredita la admisión y la solvencia económica). Hay muchos bancos y cooperativas de crédito (credit union: una entidad financiera local de tipo cooperativo) que la abren aunque todavía no tengas el SSN (el número de la seguridad social estadounidense).
-2. Una vez tengas la cuenta, regístrala en el portal para pagar por transferencia (ACH) y entonces activa la domiciliación. Comisión: cero.
+1. Al llegar a EE. UU., consulta los documentos exigidos por un banco o una cooperativa de crédito y solicita la cuenta. Pueden pedir el pasaporte, el I-20, una dirección estadounidense y, según la entidad, el SSN.
+2. Cuando tengas la cuenta, regístrala en el portal para pagar por ACH. Comprueba la comisión indicada por el portal antes de activar la domiciliación.
 3. Si la cuenta no está abierta para la fecha del primer alquiler, paga solo ese primer mes con tarjeta de forma "manual", una sola vez, y pásalo a domiciliación por transferencia en cuanto tengas la cuenta.
 
-La clave es no dejar configurada la domiciliación con tarjeta para todo un año. Aunque ese pago urgente del primer mes lo cubras con tarjeta, conviene dejar los pagos recurrentes por transferencia bancaria, que no tiene comisión.
+La clave es no configurar todo un año de pagos con tarjeta antes de comprobar la comisión. ACH también puede variar según el portal y el banco, así que compara el coste mostrado de ambos métodos antes de elegir el pago recurrente.
 
-## La lección, en una línea
+## Un detalle más que conviene comprobar
 
-Automatizar no siempre es lo más acertado. Antes de configurar nada, conviene mirar primero "cuánto dinero voy a gastar de más con esto cada mes". Sobre todo cuando, como justo después de llegar, tu único medio de pago es un apaño temporal: posponer un poco la domiciliación te ahorra dinero. Lo mejor es decidir mirando a la vez la comodidad y el coste.
+Automatizar no siempre es lo más acertado. Antes de configurar el pago, comprueba cuánto costará cada mes. Si acabas de llegar y el único medio disponible es temporal, retrasar la domiciliación puede ahorrar dinero. Conviene valorar a la vez la comodidad y el coste.
 
-Al final, ese día terminé sin configurar la domiciliación. En su lugar dejé apuntado: "al llegar, primero la cuenta y después la domiciliación". Parece una diferencia pequeña, pero en un año es bastante dinero y, sobre todo, es la forma de evitar un impago.
+Ese día no activé la domiciliación. Dejé anotado: “Al llegar, primero la cuenta y después el pago automático”. El cambio de orden puede reducir costes innecesarios y ayudar a evitar un impago.

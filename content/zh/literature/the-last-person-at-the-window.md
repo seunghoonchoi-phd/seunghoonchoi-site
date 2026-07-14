@@ -1,8 +1,8 @@
 ---
 title: "窗前最后的人：当AI带走了所有工作"
 date: 2026-06-21
-categories: ["소설"]
-tags: ["단편소설"]
+categories: ["小说"]
+tags: ["短篇小说"]
 subtitle: "曾是翻译的她，始终没有放手的那一样东西。"
 image: /images/inline/literature-the-last-person-at-window.jpg
 aliases: ["/literature/the-window/"]

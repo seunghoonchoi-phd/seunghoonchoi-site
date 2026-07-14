@@ -56,7 +56,7 @@ STEM PhD students are usually admitted with full funding (GA: graduate assistant
 
 ### Acceptance Procedure (For the Record)
 
-Log in to `admissions.ufl.edu/appstatus` → VIEW UPDATE → accept the offer → return the signed form to the department. Under the [CGS April 15 Resolution](http://www.cgsnet.org/april-15-resolution) you are not obligated to reply before 4/15, but "signing and returning is one complete set." A missing signed copy can block I‑20 issuance, so confirm it through to the end.
+Log in to `admissions.ufl.edu/appstatus` → VIEW UPDATE → accept the offer → return the signed form to the department. The [CGS April 15 Resolution](https://cgsnet.org/resources/for-current-prospective-graduate-students/april-15-resolution) applies to offers of financial support, such as tuition support, fellowships, traineeships, and assistantships, from participating institutions; it does not set the response deadline for admission offers themselves. Check whether your offer letter invokes the resolution, then follow the department's stated deadline and acceptance steps.
 
 ## 2. Key Date Calendar (Fall Semester Example)
 
@@ -123,7 +123,7 @@ Administrative items worth settling in Korea before you leave.
 
 ## 7. Money Transfer (Korea → US)
 
-- The no-documentation limit is USD 50,000 per year (resident, managed cumulatively). *There have been reports of a proposed increase, so confirm the latest before transferring.*
+- As of 2026, Korean residents may send up to USD 100,000 per year without supporting documents across all financial institutions ([Ministry of Economy and Finance announcement](https://www.korea.kr/news/policyNewsView.do?newsId=148956081)). Bank-specific online limits, tax-reporting thresholds, and documented student transfers follow separate rules, so confirm the details with your bank immediately before transferring.
 - Use Wise (favorable rates and fees; small or recurring amounts) / wire transfer via SWIFT (large amounts, tuition) / documented student transfers (outside the limit), as appropriate.
 - Before you have a U.S. account, you can get by withdrawing from local ATMs with a Wise card or travel card.
 

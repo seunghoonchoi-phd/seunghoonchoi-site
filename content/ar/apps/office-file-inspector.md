@@ -17,7 +17,7 @@ aliases: ["/apps/llm-office-qa/"]
     <span class="appcard__free">مفتوح المصدر (MIT)</span>
     <h3>Office File Inspector</h3>
     <p>أداة تلتقط العيوب الواضحة في ملفات PowerPoint وExcel وWord التي يصنعها الذكاء الاصطناعي، وتترك اختيارات الأسلوب كما هي.</p>
-    <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">شاهده على GitHub -></a>
+    <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">شاهده على GitHub ←</a>
   </div>
 </div>
 
@@ -37,6 +37,6 @@ python check_office_file.py proposal.docx
 
 أبقيت عنوان مستودع GitHub باسم `llm-office-qa` حتى تبقى الروابط القديمة صالحة. لكن الاسم العام وREADME وبنية ملفات التشغيل أصبحت منظمة حول Office File Inspector.
 
-[شاهده على GitHub ->](https://github.com/seunghoonchoi-phd/llm-office-qa)
+[شاهده على GitHub ←](https://github.com/seunghoonchoi-phd/llm-office-qa)
 
-لماذا بنيته بهذه الطريقة، ولماذا لا ينبغي لطبقة الفحص أن تمنع احتمال الوصول إلى نتيجة أفضل -> [لا تضعف النموذج](/ar/column/dont-lobotomize-the-model/)
+لماذا بنيته بهذه الطريقة، ولماذا لا ينبغي لطبقة الفحص أن تخفض سقف الجودة أثناء المراجعة ← [لا تخفض سقف الجودة أثناء المراجعة](/ar/column/dont-lobotomize-the-model/)

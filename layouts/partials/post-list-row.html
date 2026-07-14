@@ -6,8 +6,8 @@
 {{ $source := $p.Section }}{{ with $p.CurrentSection }}{{ $source = .Title }}{{ end }}
 {{ $excerpt := "" }}{{ with $p.Params.subtitle }}{{ $excerpt = . }}{{ else }}{{ $excerpt = ($p.Summary | plainify | truncate 128) }}{{ end }}
 <article class="card content-row reveal{{ if $img }} content-row--has-thumb{{ end }}" data-cat="{{ $cat | urlize }}"{{ with $p.File }} data-rk="{{ $p.Section }}/{{ .ContentBaseName }}"{{ end }}>
-  <div class="content-row__num" aria-label="List number">
-    {{ if eq $idx 1 }}<span class="content-row__new">New!</span>{{ end }}
+  <div class="content-row__num" aria-label="{{ i18n "list_number" }}">
+    {{ if eq $idx 1 }}<span class="content-row__new">{{ i18n "new_label" }}</span>{{ end }}
     <span>{{ $idx }}</span>
   </div>
   {{ with $img }}

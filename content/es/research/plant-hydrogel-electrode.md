@@ -1,5 +1,6 @@
 ---
 title: "Electrodo de hidrogel biomimético para registrar señales eléctricas en hojas de plantas (IJASC)"
+subtitle: "Estudio con coautoría principal sobre un electrodo de hidrogel que se adhiere a hojas rugosas con humedad variable y registra sus señales eléctricas."
 date: 2026-02-28
 categories: ["Artículo"]
 tags: ["biomimética", "hidrogel", "bioseñales de plantas", "electrodo", "pulpo"]

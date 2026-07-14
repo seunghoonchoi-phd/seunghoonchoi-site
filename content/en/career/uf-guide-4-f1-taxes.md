@@ -42,10 +42,10 @@ Which forms you owe depends on whether you have income. Here is the breakdown.
 | Documents you receive | W-2 · 1042-S |
 
 - Sprintax: UFIC provides free access for federal filing and Form 8843 starting in early February each year (state filing may be paid, though Florida has no state income tax).
-- Deadlines: If you have income, 4/15; if you have no income and are filing only Form 8843, 6/15. The postmark date governs.
+- Deadlines: The usual deadline is April 15 if you received wages subject to U.S. income-tax withholding. If you did not receive such wages, the usual deadline is June 15 even when Form 1040-NR reports other income such as a scholarship; the deadline is also June 15 when filing only Form 8843. Weekend and holiday adjustments may apply. For mailed returns, the postmark date governs.
 - Assistantship holders are eligible for an SSN, so no ITIN is needed.
 
-In short, F-1 student taxes boil down to one line: "nonresident alien for 5 years → FICA exemption + 0% Florida state tax + Article 21 $2,000 exemption → Form 8843 (everyone) and 1040-NR (if you have income) → deadline 4/15 or 6/15." Get this framework straight and your first filing season will go much more smoothly.
+In short, first determine your U.S. tax residency and whether a treaty provision applies. The usual Form 1040-NR deadline is April 15 when you received wages subject to U.S. income-tax withholding and June 15 when you did not. A Form 8843-only filing is also generally due June 15.
 
 A deeper guide to U.S. taxes and the Enrolled Agent (EA) perspective is coming in the next post.
 

@@ -1,5 +1,5 @@
 ---
-title: "Work with Right Answers Is Replaced First: Stages 1 to 5 of AI Taking Work"
+title: "Tasks with Checkable Answers Are Automated First: Stages 1 to 5"
 date: 2026-06-21T17:44:00+09:00
 draft: false
 categories: ["AI"]
@@ -21,7 +21,7 @@ Is the translation right? Does the code run? Is the calculation correct? Was the
 
 When a person is wrong once, they lose time, lose motivation, and take a while to learn again. AI is different. It tries countless times, corrects itself when wrong, and tries again. The clearer the grading standard, the faster AI catches up with humans and then does the same work cheaper and faster.
 
-This piece covers the first five stages of AI taking work.
+This piece covers the first five stages of AI job automation.
 
 Stage 1 is work with fixed answers. Stage 2 is expert analysis. Stage 3 is predicting public response. Stage 4 is work that connects several steps. Stage 5 is work where human review only slows things down.
 
@@ -59,7 +59,7 @@ So what is replaced at this stage is not the ability to completely understand on
 
 Public response does not have one fixed answer. But click-through rate, purchase rate, watch time, and churn keep feeding back. So the answer increasingly converges. The moment it converges, AI becomes strong.
 
-![Work with Right Answers Is Replaced First: Stages 1 to 5 of AI Taking Work](/images/inline/column-ai-replacement-stages-1.jpg)
+![Tasks with checkable answers are automated first: stages 1 to 5](/images/inline/column-ai-replacement-stages-1.jpg)
 
 <p class="inline-image-caption">In tasks where click behavior can be recorded as a score, AI quickly obtains the data needed for repeat experiments.</p>
 
@@ -93,6 +93,6 @@ So "I am good at my work" is not enough. If the work is one whose answer converg
 
 ## To the next part
 
-This is the front section of AI taking work. First, work with checkable answers is automated. Then expert analysis, public-response prediction, and work that connects several steps are automated in order. Finally, in some areas, even the seat of the person who checks once more shrinks.
+This is the first stage of AI job automation. Tasks with checkable answers are automated first. Expert analysis, public-response prediction, and work connecting several steps follow. In some areas, even the number of people assigned to final review may decline.
 
 The next question is natural. Is work done with the body safe? Can hand skill and field sense resist AI easily? In the next piece, I look at stages 6 to 8: repetitive physical labor, hand skill and field trial and error, and judgment and sense without clear answers.

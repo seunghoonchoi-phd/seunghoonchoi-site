@@ -4,8 +4,8 @@ seoTitle: "Examen de práctica de ciudadanía coreana: app de escrito, redacció
 date: 2026-06-14
 categories: ["Herramientas"]
 tags: ["ciudadanía coreana", "app"]
-subtitle: "Escrito, redacción y oral en un solo lugar"
-description: "App web gratuita e instalable para practicar el examen integral de ciudadanía coreana (escrito, redacción y oral) en un solo lugar. Examen de práctica con 277 preguntas, texto en coreano y chino, y soporte sin conexión."
+subtitle: "Practica varias veces el examen escrito, la redacción y la prueba oral en una sola aplicación."
+description: "Aplicación web gratuita e instalable para preparar la evaluación integral de ciudadanía coreana, con ejercicios escritos, redacción, práctica oral, texto en coreano y chino y uso sin conexión."
 image: /images/gwiwha-card.svg
 reviewStatus: "done"
 ---
@@ -14,16 +14,17 @@ reviewStatus: "done"
   <div class="appcard__body">
     <span class="appcard__free">App web instalable (PWA)</span>
     <h3>Práctica para el examen integral de ciudadanía coreana</h3>
-    <p>Practica el examen integral de ciudadanía coreana (escrito, redacción y oral) en un solo lugar.</p>
+    <p>Practica varias veces el examen escrito, la redacción y la prueba oral en un solo lugar.</p>
     <a class="cta" href="https://seunghoonchoi-phd.github.io/gwiwha/" target="_blank" rel="noopener">Abrir la app →</a>
   </div>
 </div>
 
-Empecé a crear esta app cuando mi esposa se preparaba para obtener la ciudadanía coreana. Las preguntas de exámenes anteriores y de práctica, junto con los ejercicios de redacción y oral, estaban repartidos por todas partes, así que la hice yo mismo para poder resolverlos una y otra vez en un solo lugar. No hace falta pagar ni registrarse.
+Empecé a crear esta aplicación cuando mi esposa se preparaba para obtener la ciudadanía coreana. Las preguntas escritas, los temas de redacción y los ejercicios orales estaban repartidos en distintos lugares, así que los reuní para poder practicarlos varias veces. No hace falta pagar ni registrarse.
 
-- Resuelve una y otra vez las preguntas de escrito, redacción y oral
-- App instalable (PWA): si la añades a la pantalla de inicio del móvil, funciona como una app y también sin conexión
-- Examen de práctica con 277 preguntas, con el texto en coreano y chino
+- Práctica escrita: repite preguntas de opción múltiple y familiarízate con el formato
+- Redacción y prueba oral: practica cómo escribir o responder a partir de temas previstos
+- Texto en coreano y chino: comprueba el significado si todavía estás aprendiendo coreano
+- Aplicación web instalable (PWA): funciona desde la pantalla de inicio del móvil y también sin conexión
 
 [Abrir la app →](https://seunghoonchoi-phd.github.io/gwiwha/)
 

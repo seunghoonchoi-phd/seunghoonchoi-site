@@ -1,11 +1,11 @@
 ---
-title: "The Full Text of KAIST Professor Joungho Kim's 'AI Constitution'"
+title: "Seven Articles of an AI Constitution Reconstructed from KAIST Professor Joungho Kim's Remarks"
 description: "A seven-article AI constitution drafted from remarks by KAIST Professor Joungho Kim: electricity, memory, lifespan, power use, cost, taxes, and copies."
 date: 2026-06-25T23:40:00+09:00
 categories: ["AI"]
 tags: ["Joungho Kim", "KAIST", "AI constitution", "AI safety", "AI regulation"]
 subtitle: "Electricity, memory, lifespan, taxes, and copies. If humans and AI are going to compete, what has to be limited?"
-seoTitle: "The Full Text of KAIST Professor Joungho Kim's AI Constitution"
+seoTitle: "Seven AI Constitution Articles Based on KAIST Professor Joungho Kim's Remarks"
 image: /images/col-kim-joungho-ai-constitution.jpg
 reviewStatus: "done"
 ---
@@ -31,7 +31,7 @@ Humans have limits to memory, while AI tries to expand without limit. Kim treate
 
 Just as humans die, AI should not remain forever. Kim suggested that after 100 years, AI should destroy or shut itself down.
 
-![The Full Text of KAIST Professor Joungho Kim's 'AI Constitution'](/images/inline/column-kim-joungho-ai-constitution.jpg)
+![Seven articles of an AI constitution reconstructed from KAIST Professor Joungho Kim's remarks](/images/inline/column-kim-joungho-ai-constitution.jpg)
 
 <p class="inline-image-caption">Assuming long-lasting intelligence, the control problem becomes not only one of performance but also of whether rules are maintained over time.</p>
 

@@ -23,8 +23,8 @@ build: {list: never, render: always}
 
 | 통신사 | 망 | 대략 월요금 |
 |---|---|---|
-| Mint Mobile | T-Mobile | 연납 시 ~$15 (가성비 1위) |
-| US Mobile | 3망 선택 | Unlimited ~$16.6 |
+| Mint Mobile | T-Mobile | 프로모션·연납 조건에 따라 달라짐 |
+| US Mobile | 3망 선택 | 월납·연납·첫해 프로모션에 따라 달라짐 |
 | Visible (Verizon) | Verizon | $25 무제한 |
 | 대형사 선불 | 자사망 | $30~$50 |
 
@@ -36,7 +36,7 @@ build: {list: never, render: always}
 미국 번호가 생기면 다음은 은행입니다. SSN이 아직 없어도 학생은 계좌를 만들 수 있으니, SSN을 기다리느라 미룰 필요가 없습니다.
 
 - 지점에 직접 가야 합니다. 유학생은 온라인 개설이 안 되는 경우가 많습니다. 챙길 것: 여권 + I-20 + (가능하면) I-94 + 미국 주소 증빙 + 전화번호.
-- 많이 쓰는 곳: Chase College Checking(학생은 월 $0, 캠퍼스 인근에 지점이 많음), BoA, Wells Fargo. 신규 가입 보너스 $100~$300 프로모션이 자주 있으니 확인하세요.
+- 은행 상품과 월 수수료, 신규 가입 보너스는 자주 바뀝니다. Chase, Bank of America, Wells Fargo 등에서 학생 신분과 SSN 유무에 따라 개설할 수 있는 계좌와 최신 수수료 면제 조건을 직접 확인하세요.
 - 고르는 기준은 단순합니다. 캠퍼스 인근에 지점·ATM이 얼마나 많은지로 고르면 일상에서 가장 편합니다.
 
 ![미국 대학원 정착 가이드 Part 3: 도착 후 행정 절차 순서, 휴대폰·은행·SSN·면허·신용](/images/inline/career-uf-guide-3-arrival-setup.jpg)

@@ -20,7 +20,7 @@ La expresión oficial de UF International Center es F-1 Status Requirements, es 
 2. Trabajo dentro del campus: máximo 20 horas semanales. Durante el semestre, sumando todos tus empleos dentro del campus, no puedes pasar de 20 horas a la semana. El nombramiento como GA (asistente) también funciona dentro de este límite. Durante las vacaciones sí puedes trabajar a tiempo completo.
 3. Prohibido trabajar fuera del campus sin autorización. No puedes trabajar fuera del campus sin la aprobación previa de CPT/OPT.
 4. Reporta el cambio de dirección dentro de los 10 días. Si te mudas, debes actualizar tu dirección en [ONE.UF](https://one.uf.edu/) dentro de los 10 días.
-5. Mantén vigentes tu I-20 y tu pasaporte. El pasaporte siempre debe tener al menos 6 meses de validez restante.
+5. Mantén vigentes tu I-20 y tu pasaporte. El pasaporte debe ser válido. Como regla general, al entrar en Estados Unidos debe seguir vigente durante al menos seis meses después de la fecha de entrada, pero existen excepciones según la nacionalidad. Comprueba antes de viajar las indicaciones de CBP y del Centro Internacional de UF.
 
 Puedes consultar más detalles en las páginas [Maintaining F-1 Status](https://internationalcenter.ufl.edu/iss/maintaining-f-1-status/) y [Requisitos de matrícula](https://internationalcenter.ufl.edu/iss/maintaining-f-1-status/registration-requirements/) del Centro Internacional de UF.
 
@@ -30,9 +30,9 @@ Debes cumplir las reglas con exactitud desde el momento de la entrada. Solo pued
 
 Lleva estos documentos sí o sí en el avión. No los pongas en el equipaje facturado.
 
-- Pasaporte (con al menos 6 meses de validez)
+- Pasaporte (por regla general, válido durante al menos seis meses después de la entrada; comprueba las excepciones por nacionalidad)
 - Visa F-1
-- I-20 impreso y firmado (firma en tinta azul en la primera página)
+- I-20 impreso y firmado en la primera página
 - Recibo de la tasa I-901 SEVIS
 - Comprobante de fondos (carta de oferta)
 - Carta de admisión
@@ -53,8 +53,8 @@ Hay algunos puntos más que debes tener en cuenta.
 Llegar a Estados Unidos no es el final. Los nuevos estudiantes F-1 deben completar el check-in en línea de ISSS dentro de los 30 días desde la fecha de inicio del programa indicada en el I-20. El orden es el siguiente.
 
 1. Imprime tu I-94. De 1 a 2 días después de entrar, ingresa a [i94.cbp.dhs.gov](https://i94.cbp.dhs.gov) e imprímelo con la opción *Get Most Recent I-94*.
-2. Check-in en el portal de ISSS. Ingresa a [isss.internationalcenter.ufl.edu](https://isss.internationalcenter.ufl.edu/), sube tu I-20, el recibo del I-901, el PDF del DS-160, el pasaporte, la visa F-1, el sello del POE, el I-94 de tu entrada más reciente y tu historial de viajes, y luego haz clic en SUBMIT.
-   - Conviene guardar el PDF completo del DS-160 y la página de confirmación justo después de la entrevista de la visa. Más adelante puede ser difícil volver a descargarlos, y la escuela puede pedirlos para el check-in.
+2. Check-in en el portal de ISSS. Ingresa a [isss.internationalcenter.ufl.edu](https://isss.internationalcenter.ufl.edu/) y sube el I-20 firmado, el recibo del I-901, el pasaporte, la visa F-1, el I-94 más reciente y el historial de viajes. Si completaste el DS-160 para solicitar la visa, sube también su PDF.
+   - UF recomienda guardar una copia del DS-160 al solicitar la visa. Si ya no dispones del archivo o no estabas obligado a completar el formulario, las instrucciones de check-in de UF permiten continuar sin subirlo.
 3. Registra tu dirección en Estados Unidos. Los apartados postales (P.O. Box) no se aceptan. Si todavía no tienes una dirección definitiva, registra la dirección del alojamiento del primer día y debes actualizarla dentro de los 10 días después de mudarte.
 4. Cuando se procese el check-in y pase el cierre de Drop/Add, dentro de los 30 días se emite el Continued Attendance I-20. No deseches ningún I-20: consérvalos todos.
 

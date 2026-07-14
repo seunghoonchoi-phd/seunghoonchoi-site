@@ -17,7 +17,7 @@ aliases: ["/apps/llm-office-qa/"]
     <span class="appcard__free">オープンソース（MIT）</span>
     <h3>Office File Inspector</h3>
     <p>AIが作ったPowerPoint・Excel・Wordの明らかな欠陥だけを確認し、スタイルの選択はあえて変えない検査ツール。</p>
-    <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">GitHubで見る -></a>
+    <a class="cta" href="https://github.com/seunghoonchoi-phd/llm-office-qa" target="_blank" rel="noopener">GitHubで見る →</a>
   </div>
 </div>
 
@@ -37,6 +37,6 @@ python check_office_file.py proposal.docx
 
 既存リンクを保つために、GitHubリポジトリのURLは`llm-office-qa`のまま残しています。ただし公開名、README、実行ファイルの構成はOffice File Inspectorを基準に整理しました。
 
-[GitHubで見る ->](https://github.com/seunghoonchoi-phd/llm-office-qa)
+[GitHubで見る →](https://github.com/seunghoonchoi-phd/llm-office-qa)
 
-なぜこう作ったのか、検査ツールがより良い結果の可能性を邪魔してはいけない理由 -> [モデルをロボトミーにするな](/ja/column/dont-lobotomize-the-model/)
+なぜこう作ったのか、検査ツールがレビュー中に品質の上限を下げてはいけない理由 → [レビュー中に品質の上限を下げない](/ja/column/dont-lobotomize-the-model/)

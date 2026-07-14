@@ -1,5 +1,6 @@
 ---
 title: "研究登上 MaterialsViewsChina 中文报道"
+subtitle: "MaterialsViews China 用中文介绍了我们发表于 Advanced Functional Materials 的纤维传感器研究。"
 date: 2019-12-15
 categories: ["获奖·消息"]
 tags: ["传感器"]

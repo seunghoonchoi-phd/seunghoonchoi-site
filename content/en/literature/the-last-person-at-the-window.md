@@ -1,8 +1,8 @@
 ---
 title: "The Last Person at the Window: After AI Took All the Work"
 date: 2026-06-21
-categories: ["소설"]
-tags: ["단편소설"]
+categories: ["Fiction"]
+tags: ["Short fiction"]
 subtitle: "The one thing a former translator never let go of."
 image: /images/inline/literature-the-last-person-at-window.jpg
 aliases: ["/literature/the-window/"]

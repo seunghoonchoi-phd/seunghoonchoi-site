@@ -1,11 +1,11 @@
 ---
-title: "Texto completo de la 'Constitución de la IA' del profesor Joungho Kim de KAIST"
+title: "Siete artículos para una Constitución de la IA, reconstruidos a partir de comentarios del profesor Joungho Kim"
 description: "Siete artículos de una constitución de la IA basada en comentarios del profesor Joungho Kim de KAIST: electricidad, memoria, vida útil, consumo, coste, impuestos y copias."
 date: 2026-06-25T23:40:00+09:00
 categories: ["IA"]
 tags: ["Joungho Kim", "KAIST", "constitución de la IA", "seguridad de la IA", "regulación de la IA"]
 subtitle: "Electricidad, memoria, vida útil, impuestos y copias. Si la IA va a competir con los humanos, ¿qué habría que limitar?"
-seoTitle: "Texto completo de la Constitución de la IA del profesor Joungho Kim de KAIST"
+seoTitle: "Siete artículos para una Constitución de la IA basados en comentarios de Joungho Kim"
 image: /images/col-kim-joungho-ai-constitution.jpg
 reviewStatus: "done"
 ---
@@ -31,7 +31,7 @@ La memoria humana tiene límites, mientras que la IA intenta expandirse sin lím
 
 Así como los humanos mueren, la IA no debería permanecer para siempre. Kim planteó la idea de que, después de 100 años, la IA debería autodestruirse o apagarse.
 
-![Texto completo de la 'Constitución de la IA' del profesor Joungho Kim de KAIST](/images/inline/column-kim-joungho-ai-constitution.jpg)
+![Siete artículos para una Constitución de la IA, reconstruidos a partir de comentarios del profesor Joungho Kim](/images/inline/column-kim-joungho-ai-constitution.jpg)
 
 <p class="inline-image-caption">Suponiendo una inteligencia duradera, el problema del control pasa a ser no sólo un problema de desempeño sino también de si las reglas se mantienen a lo largo del tiempo.</p>
 

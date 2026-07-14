@@ -18,7 +18,7 @@ reviewStatus: "done"
   </div>
 </div>
 
-Empecé con un puntaje de TOEFL de cero. Mientras trabajaba, sin nadie cerca que ya hubiera recorrido ese camino, me preparé solo durante 18 meses. Y conseguí entrar al doctorado en Ciencia de Materiales de la Universidad de Florida (UF), en Estados Unidos, con financiación completa, y obtuve también la visa F-1.
+Al principio solo sabía que necesitaba una puntuación de TOEFL. Durante 18 meses, mientras trabajaba y sin nadie cercano que hubiera recorrido ese camino, preparé por mi cuenta la solicitud. Conseguí la admisión con financiación completa al doctorado en Ciencia de Materiales de la Universidad de Florida (UF) y obtuve la visa F-1.
 
 Este libro es un registro de ese proceso ordenado paso a paso, sin adornarlo. No es un relato de éxito, sino más bien un mapa que la siguiente persona puede seguir tal cual.
 
@@ -26,10 +26,9 @@ Este libro es un registro de ese proceso ordenado paso a paso, sin adornarlo. No
 
 - Una lista de verificación de 11 pasos hasta la admisión y una cronología de 18 meses
 - Cómo buscar universidades y especialidad, la estrategia para contactar a profesores y los correos de contacto que envié de verdad
-- El SOP (plan de investigación) con el que fui admitido y una plantilla de CV
 - Estrategias para la entrevista por Zoom, las cartas de recomendación, la postulación y la lista de espera
 - Desde la recepción del I-20 tras la admisión hasta los documentos de la visa F-1 y la entrevista en el consulado
-- 8 plantillas de flujo de trabajo para usar un agente de IA como asistente, y 11 documentos de muestra reales que se descargan con un código QR
+- Plantillas de flujo de trabajo para utilizar un agente de IA como asistente
 
 ## Para quién es este libro
 

@@ -9,6 +9,6 @@
       <a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">LinkedIn ↗</a>
       <a href="{{ "youtube/" | relLangURL }}">{{ i18n "youtube" }}</a>
     </div>
-    <div class="foot__legal"><a href="{{ "admin/" | relURL }}" title="관리자">© {{ now.Year }} {{ .Site.Title }}. {{ i18n "footer_rights" }}</a></div>
+    <div class="foot__legal"><a href="{{ "admin/" | relURL }}" title="{{ i18n "admin_panel" }}">© {{ now.Year }} {{ .Site.Title }}. {{ i18n "footer_rights" }}</a></div>
   </div>
 </footer>

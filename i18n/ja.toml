@@ -18,7 +18,7 @@ other = "YouTube"
 [apps]
 other = "アプリ・ツール"
 [career]
-other = "留学・定住"
+other = "留学・現地生活"
 [about]
 other = "紹介"
 
@@ -43,6 +43,28 @@ other = "タグ"
 other = "すべて"
 [contact]
 other = "お問い合わせ"
+[primary_nav]
+other = "メインナビゲーション"
+[menu]
+other = "メニュー"
+[language]
+other = "言語"
+[list_number]
+other = "リスト番号"
+[new_label]
+other = "新着"
+[review_pending]
+other = "未確認"
+[reviewing]
+other = "確認中"
+[review_complete]
+other = "確認済み"
+[admin_incomplete]
+other = "未完了"
+[review_private_title]
+other = "確認状況 · 自分だけに表示"
+[admin_panel]
+other = "管理画面"
 [connect_linkedin]
 other = "LinkedInでつながる ↗"
 [email_university]
@@ -58,7 +80,7 @@ other = "日本語で閲覧中"
 [switch_lang]
 other = "한국어"
 [footer_rights]
-other = "All rights reserved."
+other = "無断転載を禁じます。"
 [search_placeholder]
 other = "検索…"
 [search_label]
@@ -70,7 +92,7 @@ other = "一致する結果がありません。"
 [search_count_suffix]
 other = " 件"
 [by]
-other = "文"
+other = "執筆"
 [author_name]
 other = "Seunghoon Choi"
 [cite_this]
@@ -146,7 +168,7 @@ other = "よくある質問"
 [written_by]
 other = "執筆者"
 [author_bio]
-other = "計算材料の研究者で、フロリダ大学（UF）の博士課程に在籍。バッテリー製造の現場と材料研究を経て、いまはAI時代に個人がどう生き残れるかを実験し、記録している。権威より構造を、勘よりモデルを、努力よりシステムを信じる。"
+other = "計算材料の研究者で、2026年秋からフロリダ大学（UF）の博士課程に進学予定。2021年から2025年まで、韓国と中国で電極製造の工程運営と技術アドバイザリーを担当した。製造現場と材料研究で解決した問題を、実用的な文章とツールにまとめている。"
 
 [pinned_label]
 other = "おすすめ"
@@ -156,3 +178,19 @@ other = "Instagram"
 
 [hero_highlighted]
 other = "ハイライト"
+[draft_count]
+other = "下書きの数"
+[draft_unit]
+other = "件"
+[draft_pending]
+other = "未確認の下書き"
+[draft_empty]
+other = "下書きはまだありません。"
+[incomplete_label]
+other = "未完了"
+[draft_fallback]
+other = "下書き"
+[source_label]
+other = "出典"
+[hidden_label]
+other = "非表示"

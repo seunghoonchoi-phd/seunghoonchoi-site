@@ -1,5 +1,6 @@
 ---
 title: "Electrodo adhesivo inspirado en el pulpo para control por EMG en piel seca y húmeda (IJIBC)"
+subtitle: "Estudio con coautoría principal sobre una microestructura inspirada en ventosas de pulpo que mide señales EMG en piel seca y húmeda."
 date: 2026-02-28
 categories: ["Artículo"]
 tags: ["biomimética", "electrodo", "EMG", "wearable", "señales biológicas"]

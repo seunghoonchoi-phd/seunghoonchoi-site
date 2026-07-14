@@ -32,7 +32,7 @@ other = "읽기"
 [view_all]
 other = "전체 보기"
 [no_posts]
-other = "아직 글이 없습니다. 곧 채워집니다."
+other = "아직 공개된 글이 없습니다."
 [posted_on]
 other = "작성"
 [categories]
@@ -42,7 +42,29 @@ other = "태그"
 [all]
 other = "전체"
 [contact]
-other = "연락하기"
+other = "연락처"
+[primary_nav]
+other = "주요 메뉴"
+[menu]
+other = "메뉴"
+[language]
+other = "언어 선택"
+[list_number]
+other = "목록 번호"
+[new_label]
+other = "새 글"
+[review_pending]
+other = "검수 전"
+[reviewing]
+other = "검수 중"
+[review_complete]
+other = "검수 완료"
+[admin_incomplete]
+other = "미완료"
+[review_private_title]
+other = "검수 상태 · 나에게만 보임"
+[admin_panel]
+other = "관리자 화면"
 [connect_linkedin]
 other = "링크드인에서 연결 ↗"
 [email_university]
@@ -58,7 +80,7 @@ other = "한국어로 보는 중"
 [switch_lang]
 other = "English"
 [footer_rights]
-other = "All rights reserved."
+other = "모든 권리를 보유합니다."
 [search_placeholder]
 other = "검색…"
 [search_label]
@@ -146,7 +168,7 @@ other = "자주 묻는 질문"
 [written_by]
 other = "글쓴이"
 [author_bio]
-other = "계산재료 연구자이자 플로리다대(UF) 박사과정 재학 중. 배터리 제조 현장과 재료 연구를 거쳐, 지금은 AI 시대에 개인이 어떻게 살아남을 수 있을지 실험하고 기록합니다. 권위보다 구조, 감보다 모델, 노력보다 시스템을 믿습니다."
+other = "계산재료 연구자이며 2026년 가을 플로리다대(UF) 박사과정 진학을 앞두고 있습니다. 전극 제조 현장과 재료 연구에서 직접 해결한 문제를 글과 도구로 정리합니다."
 
 [pinned_label]
 other = "추천"
@@ -155,4 +177,20 @@ other = "추천"
 other = "Instagram"
 
 [hero_highlighted]
-other = "하이라이트"
+other = "대표 연구"
+[draft_count]
+other = "초안 수"
+[draft_unit]
+other = "개"
+[draft_pending]
+other = "검토 전 초안"
+[draft_empty]
+other = "아직 들어간 초안이 없습니다."
+[incomplete_label]
+other = "미완료"
+[draft_fallback]
+other = "초안"
+[source_label]
+other = "출처"
+[hidden_label]
+other = "숨김"

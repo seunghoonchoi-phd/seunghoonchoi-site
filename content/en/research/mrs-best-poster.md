@@ -1,5 +1,6 @@
 ---
 title: "Best Poster Award: 2018 MRS Fall Meeting"
+subtitle: "Our bioelectrical-signal sensor inspired by octopus suckers received a Best Poster Award at the 2018 MRS Fall Meeting."
 date: 2018-11-25
 categories: ["Recognition"]
 tags: ["bio-inspired"]

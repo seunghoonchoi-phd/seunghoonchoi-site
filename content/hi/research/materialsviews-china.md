@@ -1,12 +1,13 @@
 ---
-title: "चीन के MaterialsViewsChina में शोध का परिचय"
+title: "चीन के MaterialsViews China में शोध का परिचय"
+subtitle: "MaterialsViews China ने Advanced Functional Materials में प्रकाशित फाइबर सेंसर अनुसंधान का चीनी भाषा में परिचय दिया।"
 date: 2019-12-15
 categories: ["पुरस्कार और समाचार"]
 tags: ["सेंसर"]
 reviewStatus: "done"
 ---
-![MaterialsViewsChina परिचय](/images/materialsviews.png)
+![MaterialsViews China परिचय](/images/materialsviews.png)
 
-*Advanced Functional Materials* में प्रकाशित मेरा शोध MaterialsViews China में चीनी भाषा में पेश किया गया, जिससे यह चीनी-भाषी विज्ञान पाठकों तक भी पहुँचा। यह एक सेंसर है जिसमें महीन रोएँ जैसे पतले रेशों (हेयरी फाइबर) को परतों में जमाकर उन पर बिजली की चालकता दी गई है। यह आसानी से खिंचता है, पानी के संपर्क में आने पर भी टिका रहता है, और बहुत छोटे संकेतों को भी पकड़ लेता है। इसी एक सेंसर से शरीर की गतिविधियों और हाथ की हरकतों को कई तरीकों से एक साथ पढ़ा जा सकता है।
+MaterialsViews China ने *Advanced Functional Materials* में प्रकाशित शोध का चीनी भाषा में परिचय दिया। इस शोध में परतदार सूक्ष्म-फाइबर संरचना पर चालक पदार्थ की परत चढ़ाई गई। सेंसर बहुत खिंचने और नमी के संपर्क में आने पर भी हल्के यांत्रिक संकेत मापता है और शरीर व हाथ की कई गतिविधियों में अंतर करता है।
 
 [परिचय देखें ↗](https://mp.weixin.qq.com/s/r0QAnvMYlBQvqXosUhBiEA)

@@ -1,5 +1,5 @@
 ---
-title: "اختيار غلاف خلفي في مجلة Advanced Functional Materials"
+title: "اختيار البحث للغلاف الخلفي لمجلة Advanced Functional Materials"
 seoTitle: "مستشعر متعدد الوسائط من ألياف موصلة مشعرة: بحث مختار كغلاف خلفي في AFM"
 date: 2019-12-10
 categories: ["جوائز وأخبار"]

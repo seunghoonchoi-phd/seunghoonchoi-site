@@ -35,23 +35,23 @@
   </section>
 
   <section class="hsec reveal">
-    <div class="hsec__head"><h2 class="hsec__h">Writing</h2><a class="hsec__more" href="{{ "column/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
+    <div class="hsec__head"><h2 class="hsec__h">{{ i18n "writing" }}</h2><a class="hsec__more" href="{{ "column/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
     {{ $writingPages := partial "sort-by-ko-order.html" (where .Site.RegularPages "Section" "in" (slice "column" "books" "literature")) }}
     <div class="cards hsec__grid">{{ range first 6 $writingPages }}{{ partial "post-card.html" . }}{{ end }}</div>
   </section>
 
   <section class="hsec reveal">
-    <div class="hsec__head"><h2 class="hsec__h">Apps <span class="amp">&amp;</span> Tools</h2><a class="hsec__more" href="{{ "apps/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
+    <div class="hsec__head"><h2 class="hsec__h">{{ i18n "apps" }}</h2><a class="hsec__more" href="{{ "apps/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
     <div class="cards hsec__grid">{{ range (where .Site.RegularPages "Section" "apps").ByDate.Reverse }}{{ partial "post-card.html" . }}{{ end }}</div>
   </section>
 
   <section class="hsec reveal">
-    <div class="hsec__head"><h2 class="hsec__h">Career</h2><a class="hsec__more" href="{{ "career/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
+    <div class="hsec__head"><h2 class="hsec__h">{{ i18n "career" }}</h2><a class="hsec__more" href="{{ "career/" | relLangURL }}">{{ i18n "view_all" }} ›</a></div>
     <div class="cards hsec__grid">{{ range first 6 (where .Site.RegularPages "Section" "career").ByDate.Reverse }}{{ partial "post-card.html" . }}{{ end }}</div>
   </section>
 
   <section class="hsec reveal hsec--contact" id="contact">
-    <div class="hsec__head"><h2 class="hsec__h">Contact</h2></div>
+    <div class="hsec__head"><h2 class="hsec__h">{{ i18n "contact" }}</h2></div>
     <ul class="contact-list">
       <li><span>{{ i18n "email_university" }}</span><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
       <li><span>{{ i18n "email_personal" }}</span><a href="mailto:{{ .Site.Params.emailPersonal }}">{{ .Site.Params.emailPersonal }}</a></li>
