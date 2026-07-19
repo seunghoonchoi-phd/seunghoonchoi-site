@@ -8,8 +8,6 @@ subtitle: "Completa seis pasos para calcular tu impuesto y rellenar los PDF ofic
 description: "Esta aplicación está diseñada para estudiantes F-1/J-1 procedentes de Corea que se encuentran en EE. UU. Ayuda con la residencia fiscal, el 1040-NR, el Form 8843 y algunos impuestos estatales; no está configurada para residentes de otros países con tratado."
 image: /images/us-tax-card.svg
 reviewStatus: "done"
-hidden: true
-build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/us-tax/icon.svg" alt="Ícono de la app Navegador fiscal para estudiantes">

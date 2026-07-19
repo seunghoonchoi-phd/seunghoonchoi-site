@@ -8,8 +8,6 @@ subtitle: "使える表現をその場で保存し、今日使い、忘れる前
 description: "外国語フレーズ想起マップは、英語と中国語の表現を2つの欄だけで保存してその日の復習に入れ、保存した表現の一覧を見直して修正できる公開デモアプリです。"
 image: /images/language-recall-card.svg
 reviewStatus: "done"
-hidden: true
-build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/language-recall/icon.svg" alt="外国語フレーズ想起マップのアプリアイコン">

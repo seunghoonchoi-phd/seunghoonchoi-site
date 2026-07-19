@@ -7,8 +7,6 @@ tags: ["open-source", "ai", "Office File Inspector"]
 subtitle: "Detecta errores claros sin bajar el techo del resultado"
 description: "Office File Inspector es un comprobador open source que detecta defectos evidentes en PowerPoint, Excel y Word creados con IA: texto fuera de la diapositiva, errores #REF! y Markdown residual."
 image: /images/llm-office-qa-card.svg
-hidden: true
-build: {list: never, render: always}
 aliases: ["/apps/llm-office-qa/"]
 ---
 <div class="appcard">

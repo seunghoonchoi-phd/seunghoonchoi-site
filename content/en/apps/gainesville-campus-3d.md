@@ -8,8 +8,6 @@ subtitle: "The app displays Gainesville campus buildings and public room informa
 description: "Gainesville Campus 3D is a free independent web prototype for searching selected University of Florida buildings and public room numbers, then previewing campus routes and verified indoor paths in 3D."
 image: /images/gainesville-campus-3d-card.svg
 reviewStatus: "done"
-hidden: true
-build: {list: never, render: always}
 ---
 <div class="appcard" contenteditable="false"><img class="appcard__icon" src="/images/gainesville-campus-3d-card.svg" alt="Gainesville Campus 3D app icon"><div class="appcard__body"><span class="appcard__free">Free web prototype</span><h3>Gainesville Campus 3D</h3><p>Search UF campus buildings and public room numbers, then preview an approximate 3D route to the selected destination.</p><a class="cta" href="/gainesville-campus-3d/" target="_blank" rel="noopener">Open the 3D map →</a></div></div>
 

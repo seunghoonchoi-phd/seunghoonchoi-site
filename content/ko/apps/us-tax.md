@@ -8,8 +8,6 @@ subtitle: "여섯 단계의 질문에 답하면 세액을 계산해 IRS 공식 P
 description: "미국 유학생 세금 내비게이터는 미국에 있는 한국 출신 F-1/J-1 유학생의 세법상 거주자 여부를 확인하고 1040-NR과 Form 8843, 일부 주 세금 계산을 돕는 무료 웹앱입니다. 다른 조세조약 거주국에는 맞지 않습니다."
 image: /images/us-tax-card.svg
 reviewStatus: "done"
-hidden: true
-build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/us-tax/icon.svg" alt="미국 유학생 세금 내비게이터 앱 아이콘">

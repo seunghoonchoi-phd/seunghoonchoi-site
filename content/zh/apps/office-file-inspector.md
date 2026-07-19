@@ -7,8 +7,6 @@ tags: ["开源", "AI", "Office File Inspector"]
 subtitle: "抓住明显错误，但不降低成果的上限"
 description: "Office File Inspector 是一个开源检查器，用来发现 AI 生成的 PowerPoint、Excel、Word 文件中的明显缺陷，例如文字跑出幻灯片、#REF! 错误、残留 Markdown。"
 image: /images/llm-office-qa-card.svg
-hidden: true
-build: {list: never, render: always}
 aliases: ["/apps/llm-office-qa/"]
 ---
 <div class="appcard">

@@ -8,8 +8,6 @@ subtitle: "完成六步问答即可计算税额，并填入 IRS 官方 PDF。输
 description: "这款报税助手面向在美国的韩国籍 F-1/J-1 留学生，可帮助判断税务居民身份并计算 1040-NR、Form 8843 和部分州税，不适用于其他税收协定居民国。"
 image: /images/us-tax-card.svg
 reviewStatus: "done"
-hidden: true
-build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/us-tax/icon.svg" alt="美国留学生报税助手应用图标">

@@ -8,8 +8,6 @@ subtitle: "يعرض التطبيق مباني الحرم في Gainesville ومع
 description: "Gainesville Campus 3D نموذج ويب مجاني ومستقل للبحث عن بعض مباني University of Florida وأرقام الغرف العامة، ثم معاينة مسارات الحرم والمسارات الداخلية الموثقة بتقنية ثلاثية الأبعاد."
 image: /images/gainesville-campus-3d-card.svg
 reviewStatus: "done"
-hidden: true
-build: {list: never, render: always}
 ---
 <div class="appcard" contenteditable="false"><img class="appcard__icon" src="/images/gainesville-campus-3d-card.svg" alt="أيقونة تطبيق Gainesville Campus 3D"><div class="appcard__body"><span class="appcard__free">نموذج ويب مجاني</span><h3>Gainesville Campus 3D</h3><p>ابحث عن مباني حرم UF وأرقام الغرف العامة، ثم عاين مساراً تقريبياً ثلاثي الأبعاد إلى الوجهة المختارة.</p><a class="cta" href="/gainesville-campus-3d/" target="_blank" rel="noopener">افتح الخريطة ثلاثية الأبعاد ←</a></div></div>
 

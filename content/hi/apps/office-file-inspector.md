@@ -7,8 +7,6 @@ tags: ["ओपन-सोर्स", "ai", "Office File Inspector"]
 subtitle: "साफ दिखने वाली गलतियां पकड़ें, लेकिन परिणाम की ऊंचाई कम न करें"
 description: "Office File Inspector एक ओपन-सोर्स चेकर है जो AI से बने PowerPoint, Excel और Word में स्लाइड से बाहर गया टेक्स्ट, #REF! त्रुटि और बचा हुआ Markdown जैसी साफ दिखने वाली खराबियां पकड़ता है।"
 image: /images/llm-office-qa-card.svg
-hidden: true
-build: {list: never, render: always}
 aliases: ["/apps/llm-office-qa/"]
 ---
 <div class="appcard">

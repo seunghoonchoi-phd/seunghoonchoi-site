@@ -8,8 +8,6 @@ subtitle: "Complete six guided steps to calculate your tax and fill official IRS
 description: "US Tax Navigator is designed for F-1/J-1 students from Korea who are in the United States. It helps with U.S. tax residency, Form 1040-NR, Form 8843, and selected state-tax calculations; it is not configured for residents of other treaty countries."
 image: /images/us-tax-card.svg
 reviewStatus: "done"
-hidden: true
-build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/us-tax/icon.svg" alt="US Tax Navigator app icon">

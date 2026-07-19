@@ -7,8 +7,6 @@ tags: ["オープンソース", "AI", "Office File Inspector"]
 subtitle: "明らかなミスだけを拾い、成果物の上限は下げない"
 description: "Office File Inspectorは、AIが作ったPowerPoint・Excel・Wordから、スライド外にはみ出た文字、#REF!エラー、残ったMarkdownなどの明らかな欠陥だけを拾うオープンソースの検査ツールです。"
 image: /images/llm-office-qa-card.svg
-hidden: true
-build: {list: never, render: always}
 aliases: ["/apps/llm-office-qa/"]
 ---
 <div class="appcard">

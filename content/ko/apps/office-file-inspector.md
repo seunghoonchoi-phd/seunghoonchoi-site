@@ -7,8 +7,6 @@ tags: ["오픈소스", "ai", "Office File Inspector"]
 subtitle: "명백한 오류는 잡고, 결과물의 상한은 낮추지 않는다"
 description: "Office File Inspector는 AI가 만든 PPT·엑셀·워드에서 슬라이드 이탈, #REF! 오류, 잔여 마크다운 같은 명백한 결함만 잡는 오픈소스 검사기입니다."
 image: /images/llm-office-qa-card.svg
-hidden: true
-build: {list: never, render: always}
 aliases: ["/apps/llm-office-qa/"]
 ---
 <div class="appcard">

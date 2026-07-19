@@ -8,8 +8,6 @@ subtitle: "有用的表达当场保存，当天用一次，再在忘记前复习
 description: "外语表达回忆地图是一款公开演示应用。它用两个输入框直接保存英语和中文表达并放入当天复习，还能在我的表达列表中查看和修改所有保存内容。"
 image: /images/language-recall-card.svg
 reviewStatus: "done"
-hidden: true
-build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/language-recall/icon.svg" alt="外语表达回忆地图应用图标">

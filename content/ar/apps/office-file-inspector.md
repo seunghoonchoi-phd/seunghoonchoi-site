@@ -7,8 +7,6 @@ tags: ["مفتوح المصدر", "ai", "Office File Inspector"]
 subtitle: "يلتقط الأخطاء الواضحة من دون خفض سقف جودة النتيجة"
 description: "Office File Inspector أداة مفتوحة المصدر تلتقط العيوب الواضحة في ملفات PowerPoint وExcel وWord التي يصنعها الذكاء الاصطناعي، مثل النص الخارج من الشريحة وأخطاء #REF! وبقايا Markdown."
 image: /images/llm-office-qa-card.svg
-hidden: true
-build: {list: never, render: always}
 aliases: ["/apps/llm-office-qa/"]
 ---
 <div class="appcard">

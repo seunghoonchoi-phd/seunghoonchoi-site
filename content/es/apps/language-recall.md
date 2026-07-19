@@ -8,8 +8,6 @@ subtitle: "Guarda una expresión útil al momento, úsala hoy y repásala antes 
 description: "Mapa de repaso de expresiones es una app de demostración pública que guarda expresiones en inglés y chino con solo dos campos, las coloca en el repaso de hoy y permite revisar y corregir todo lo guardado en una lista."
 image: /images/language-recall-card.svg
 reviewStatus: "done"
-hidden: true
-build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/language-recall/icon.svg" alt="Ícono de la app Mapa de repaso de expresiones">

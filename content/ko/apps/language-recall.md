@@ -8,8 +8,6 @@ subtitle: "쓸 만한 표현을 그 자리에서 저장하고, 오늘 말한 뒤
 description: "외국어 회상지도는 영어와 중국어 표현을 두 칸 입력으로 바로 저장해 그날 복습에 넣고, 저장한 표현 전체를 내 표현 목록에서 검색하고 고치게 돕는 공개 데모 앱입니다."
 image: /images/language-recall-card.svg
 reviewStatus: "done"
-hidden: true
-build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/language-recall/icon.svg" alt="외국어 회상지도 앱 아이콘">

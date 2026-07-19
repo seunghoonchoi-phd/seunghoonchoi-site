@@ -8,8 +8,6 @@ subtitle: "قيّم النموذج الجديد بموجهات قياسية من
 description: "اختبار الانطباع عن نماذج الذكاء الاصطناعي تطبيق ويب مجاني يقدم 24 سؤال اختبار قياسيًا في 8 مجالات لتتحقق بنفسك من الفرق بين النموذج الجديد والنموذج السابق عند صدور نموذج ذكاء اصطناعي جديد. سجلات التقييم لكل نموذج تُحفظ في هذا المتصفح فقط."
 image: /images/ai-vibe-check-card.svg
 reviewStatus: "done"
-hidden: true
-build: {list: never, render: always}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/ai-vibe-check/icon.svg" alt="أيقونة تطبيق اختبار الانطباع عن نماذج الذكاء الاصطناعي">
