@@ -34,3 +34,22 @@ I started building this while my wife was preparing for Korean citizenship. Writ
 I collected the app overview, test information, evaluation types, essay topics, and expected questions on the guide page → [Korean citizenship comprehensive evaluation mock test guide](/gwiwha/)
 
 > Install: open the link on your phone browser and tap "Add to Home Screen", or click the install icon in your desktop browser's address bar.
+
+## Update Notes
+
+**2026-07-19**
+
+- Expanded the question bank from 921 to 1,611 questions (1,474 multiple-choice, 60 essay, 77 oral), broadening coverage across every section
+- Rebuilt the mock tests to match the real exam structure: the comprehensive test is now 36 multiple-choice questions (matching the real per-section ratio), 1 essay (a four-part combined prompt on a 200-character manuscript grid), and 5 oral questions. The pre-evaluation is 48 multiple-choice, 2 short-answer, and 5 oral questions
+- Added a manuscript-writing guide to the essay screen, in all four languages
+- Re-verified the exam guidance against the official rules (kiiptest.org, the Ministry of Justice, the Nationality Act enforcement rules): the 85-point residency threshold, the naturalization exam's three-attempts-per-year limit, TOPIK-linked placement, and more
+- Reordered the evaluation track tabs to match exam order (pre-evaluation, then residency, then naturalization). The pre-evaluation tab now opens first by default
+- Resynced the Korean typing practice passages with the new question bank (22 long and 38 short passages)
+
+**2026-07-12**
+
+- Reworked the app's design around a blue color scheme
+
+**2026-06-14** First release:
+
+- Launched with written, essay, and oral practice and an installable web app (PWA)

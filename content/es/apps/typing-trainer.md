@@ -31,3 +31,17 @@ La hice para que mi esposa pudiera practicar escribiendo ella misma las redaccio
 Funciona muy bien junto con la app de práctica de ciudadanía → [Guía del examen integral de ciudadanía coreana](/gwiwha/)
 
 > Instalación: abre el enlace en el navegador del móvil y pulsa "Añadir a pantalla de inicio", o haz clic en el icono de instalación de la barra de direcciones en el ordenador.
+
+## Notas de actualización
+
+**2026-07-19**
+
+- Se regeneraron por completo los textos de redacción modelo para que coincidan con el nuevo banco de preguntas de la app de ciudadanía: 22 textos largos y 38 cortos, 60 en total
+
+**2026-06-29**
+
+- Se añadió la reproducción de pronunciación (TTS) y un ejercicio de distinción de palabras
+
+**2026-06-28** Lanzamiento inicial:
+
+- Se lanzó con práctica por etapas, desde la posición de las teclas hasta la mecanografía de textos largos

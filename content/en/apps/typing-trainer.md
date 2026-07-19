@@ -31,3 +31,17 @@ I built this so my wife could practice typing the citizenship essay model answer
 Works well alongside the citizenship practice app → [Korean citizenship comprehensive evaluation guide](/gwiwha/)
 
 > Install: open the link on your phone browser and tap "Add to Home Screen", or click the install icon in your desktop browser's address bar.
+
+## Update Notes
+
+**2026-07-19**
+
+- Regenerated the essay model-answer passages to match the citizenship app's new question bank - 22 long and 38 short passages, 60 in total
+
+**2026-06-29**
+
+- Added pronunciation playback (TTS) and a word-matching drill
+
+**2026-06-28** First release:
+
+- Launched with step-by-step practice from key position to long-form typing

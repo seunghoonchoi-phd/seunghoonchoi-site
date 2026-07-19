@@ -34,3 +34,22 @@ Empecé a crear esta aplicación cuando mi esposa se preparaba para obtener la c
 La presentación de la app y la información del examen (diferencias entre los tipos de evaluación, temas de redacción y preguntas de práctica) están reunidas en la página de guía → [Guía del examen de práctica de ciudadanía coreana](/es/gwiwha/)
 
 > Cómo instalarla: abre el enlace de arriba en el navegador del móvil (Chrome o Safari) y pulsa "Añadir a la pantalla de inicio" para instalarla como app. En el ordenador, pulsa el icono de instalación que aparece en la barra de direcciones.
+
+## Notas de actualización
+
+**2026-07-19**
+
+- Se amplió el banco de preguntas de 921 a 1611 (1474 de opción múltiple, 60 de redacción, 77 orales), ampliando la cobertura de todas las áreas
+- Se rediseñaron los simulacros para que coincidan con la estructura real del examen: la evaluación integral ahora tiene 36 preguntas de opción múltiple (según la proporción real por área), 1 de redacción (un enunciado combinado de cuatro partes en una cuadrícula de 200 caracteres) y 5 orales. La evaluación previa tiene 48 de opción múltiple, 2 de respuesta corta y 5 orales
+- Se añadió una guía de escritura en cuadrícula a la pantalla de redacción, en los cuatro idiomas
+- Se verificó de nuevo la información del examen con las normas oficiales (kiiptest.org, el Ministerio de Justicia, el reglamento de la Ley de Nacionalidad): el umbral de 85 puntos para residencia, el límite de tres intentos por año para la naturalización, la asignación vinculada a TOPIK, entre otros datos
+- Se reordenaron las pestañas de los itinerarios de evaluación según el orden del examen (evaluación previa, luego residencia, luego naturalización). La pestaña de evaluación previa se abre primero de forma predeterminada
+- Se actualizaron los textos de mecanografía en coreano según el nuevo banco de preguntas (22 textos largos y 38 cortos)
+
+**2026-07-12**
+
+- Se reorganizó el diseño de la app en torno a un tono azul
+
+**2026-06-14** Lanzamiento inicial:
+
+- Se lanzó con práctica escrita, de redacción y oral, y como app web instalable (PWA)
