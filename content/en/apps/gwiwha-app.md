@@ -1,11 +1,11 @@
 ---
 title: "Korean Citizenship Comprehensive Evaluation Practice - Written, Essay, and Oral Mock Training"
 seoTitle: "Korean Citizenship Comprehensive Evaluation Practice App: Written, Essay, and Oral Training"
-date: 2026-06-14
+date: 2026-07-19
 categories: ["Tools"]
 tags: ["Korean citizenship", "app"]
 subtitle: "Practice the written, essay, and oral sections repeatedly in one place."
-description: "A free installable web app for preparing for Korea's citizenship comprehensive evaluation. It supports written, essay, and oral practice, Korean-Chinese side-by-side text, and offline use."
+description: "A free installable web app for preparing for Korea's naturalization, permanent residency, and social integration evaluations. Practice 1,611 questions across the written, essay, and oral sections in four languages (Korean, Chinese, Vietnamese, and Thai), with mock tests that mirror the real exam structure."
 image: /images/gwiwha-card.svg
 reviewStatus: "done"
 ---
@@ -21,9 +21,12 @@ reviewStatus: "done"
 
 I started building this while my wife was preparing for Korean citizenship. Written questions, essay topics, and oral practice materials were scattered everywhere, so I built one place where she could practice them repeatedly. No payment, no sign-up.
 
-- Written practice - repeat multiple-choice questions until they feel familiar
-- Essay and oral practice - look at expected topics and practice writing or speaking your own answers
-- Korean-Chinese side-by-side text - easier for users who are still building Korean fluency
+- Written, essay, and oral practice - 1,474 multiple-choice, 60 essay, and 77 oral questions, 1,611 in total, covering all 1,464 knowledge points from two official workbooks
+- Three evaluation tracks - prepare for the social integration pre-evaluation, the permanent-residency comprehensive evaluation, and the naturalization comprehensive evaluation
+- Mock tests that mirror the real exam - the comprehensive test has 36 multiple-choice questions, 1 essay (a four-part combined prompt on a 200-character manuscript grid), and 5 oral questions. The pre-evaluation has 48 multiple-choice, 2 short-answer, and 5 oral questions, reproducing the real question mix. A manuscript-writing guide is built into the essay screen
+- Four languages - read meanings in Korean, Chinese, Vietnamese, and Thai, so you can prepare even while your Korean is still developing
+- Checked against official rules - the exam guidance follows kiiptest.org, the Ministry of Justice, and the Nationality Act enforcement rules, including the 85-point residency threshold, the three-attempt naturalization limit, and TOPIK-linked placement
+- Wrong-answer notes, study statistics, and Korean typing practice (22 long and 38 short passages) - review your weak spots repeatedly
 - Installable web app (PWA, Progressive Web App) - add it to your phone's home screen and use it like an app, even offline
 
 [Open the app →](https://seunghoonchoi-phd.github.io/gwiwha/)

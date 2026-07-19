@@ -1,11 +1,11 @@
 ---
 title: "Práctica para el examen integral de ciudadanía coreana"
 seoTitle: "Examen de práctica de ciudadanía coreana: app de escrito, redacción y oral"
-date: 2026-06-14
+date: 2026-07-19
 categories: ["Herramientas"]
 tags: ["ciudadanía coreana", "app"]
 subtitle: "Practica varias veces el examen escrito, la redacción y la prueba oral en una sola aplicación."
-description: "Aplicación web gratuita e instalable para preparar la evaluación integral de ciudadanía coreana, con ejercicios escritos, redacción, práctica oral, texto en coreano y chino y uso sin conexión."
+description: "Aplicación web gratuita e instalable para preparar las evaluaciones de naturalización, residencia permanente e integración social de Corea. Practica 1611 preguntas de las secciones escrita, de redacción y oral en cuatro idiomas (coreano, chino, vietnamita y tailandés), con simulacros que reproducen la estructura real del examen."
 image: /images/gwiwha-card.svg
 reviewStatus: "done"
 ---
@@ -21,10 +21,13 @@ reviewStatus: "done"
 
 Empecé a crear esta aplicación cuando mi esposa se preparaba para obtener la ciudadanía coreana. Las preguntas escritas, los temas de redacción y los ejercicios orales estaban repartidos en distintos lugares, así que los reuní para poder practicarlos varias veces. No hace falta pagar ni registrarse.
 
-- Práctica escrita: repite preguntas de opción múltiple y familiarízate con el formato
-- Redacción y prueba oral: practica cómo escribir o responder a partir de temas previstos
-- Texto en coreano y chino: comprueba el significado si todavía estás aprendiendo coreano
-- Aplicación web instalable (PWA): funciona desde la pantalla de inicio del móvil y también sin conexión
+- Práctica escrita, de redacción y oral: 1474 preguntas de opción múltiple, 60 de redacción y 77 orales, 1611 en total, que cubren los 1464 puntos de conocimiento de dos cuadernos oficiales
+- Tres itinerarios de evaluación: prepara la evaluación previa de integración social, la evaluación integral de residencia permanente y la evaluación integral de naturalización
+- Simulacros que reproducen el examen real: la evaluación integral tiene 36 preguntas de opción múltiple, 1 de redacción (un enunciado combinado de cuatro partes en una cuadrícula de 200 caracteres) y 5 orales. La evaluación previa tiene 48 de opción múltiple, 2 de respuesta corta y 5 orales, reproduciendo la proporción real de preguntas. La pantalla de redacción incluye una guía de escritura en cuadrícula
+- Cuatro idiomas: consulta el significado en coreano, chino, vietnamita y tailandés, para prepararte aunque tu coreano aún esté en desarrollo
+- Verificado con las normas oficiales: la información del examen sigue kiiptest.org, el Ministerio de Justicia y el reglamento de la Ley de Nacionalidad, e incluye el umbral de 85 puntos para residencia, el límite de tres intentos para naturalización y la asignación vinculada a TOPIK
+- Notas de errores, estadísticas de estudio y práctica de mecanografía en coreano (22 textos largos y 38 cortos): repasa tus puntos débiles
+- Aplicación web instalable (PWA, Progressive Web App): funciona desde la pantalla de inicio del móvil y también sin conexión
 
 [Abrir la app →](https://seunghoonchoi-phd.github.io/gwiwha/)
 
