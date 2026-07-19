@@ -45,7 +45,7 @@ Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificia
 2.  Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial Intelligence. Seunghoon Choi†, Junwon Jang†, Junho Lee, Da Wan Kim\*. _Biomimetics_ 2025, 10(12), 813. 공동 1저자
 3.  Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry and Wet Conditions. Subi Jeon†, Seunghoon Choi†, Junwon Jang, Jun Young Shim, Da Wan Kim\*. _International Journal of Internet, Broadcasting and Communication_ 18(1), 2026, 274~284. 공동 1저자
 4.  Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves. Subi Jeon†, Seunghoon Choi†, Da Wan Kim\*. _International Journal of Advanced Smart Convergence_ 15(1), 2026, 241~253. 공동 1저자
-5.  Pilot Clinical Study of a Biomimetic Suction Patch for Improving Wrinkles, Elasticity, Hydration, and Pigmentation via Enhanced Topical Delivery. Seunghoon Choi, Hyung-ki Park, Jaehwan Ahn, Keun Ho Lee, Da Wan Kim\*. _Journal of Cosmetic Dermatology_ (게재 승인), 2026. 제1저자
+5.  A Pilot Clinical Study of a Biomimetic Suction Patch for Improving Wrinkles, Elasticity, Hydration, and Pigmentation via Enhanced Topical Delivery. Seunghoon Choi, Hyung-ki Park, Jaehwan Ahn, Dong-Hyun Ko, Jin-Hyun Kim, Byung Woo Hwang, Seongmin Noh, Wonkyu Hong, Keun Ho Lee, Da Wan Kim\*. _Journal of Cosmetic Dermatology_ 25(7), 2026, e71074. 제1저자
 
 ## 특허
 

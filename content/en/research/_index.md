@@ -51,8 +51,8 @@ A review of soft grippers inspired by the octopus, its arms, suction cups, and p
    Subi Jeon†, Seunghoon Choi†, Junwon Jang, Jun Young Shim, Da Wan Kim\*. *International Journal of Internet, Broadcasting and Communication* 18(1), 2026, 274-284. Co-first author
 4. Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.
    Subi Jeon†, Seunghoon Choi†, Da Wan Kim\*. *International Journal of Advanced Smart Convergence* 15(1), 2026, 241-253. Co-first author
-5. Pilot Clinical Study of a Biomimetic Suction Patch for Improving Wrinkles, Elasticity, Hydration, and Pigmentation via Enhanced Topical Delivery.
-   Seunghoon Choi, Hyung-ki Park, Jaehwan Ahn, Keun Ho Lee, Da Wan Kim\*. *Journal of Cosmetic Dermatology* (accepted), 2026. First author
+5. A Pilot Clinical Study of a Biomimetic Suction Patch for Improving Wrinkles, Elasticity, Hydration, and Pigmentation via Enhanced Topical Delivery.
+   Seunghoon Choi, Hyung-ki Park, Jaehwan Ahn, Dong-Hyun Ko, Jin-Hyun Kim, Byung Woo Hwang, Seongmin Noh, Wonkyu Hong, Keun Ho Lee, Da Wan Kim\*. *Journal of Cosmetic Dermatology* 25(7), 2026, e71074. First author
 
 ## Patents
 
