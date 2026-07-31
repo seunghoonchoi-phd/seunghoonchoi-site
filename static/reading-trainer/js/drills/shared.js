@@ -402,7 +402,7 @@ const RATIONALES = {
     en: ['Recognize phrase units that carry meaning in long English sentences.', 'The app first displays phrase boundaries, then reduces or removes them. Results with visible boundaries remain separate from no-help results.', [SOURCES.speed, SOURCES.comprehension]],
   },
   zhchar: {
-    ko: ['사용자는 느리거나 자주 틀리는 중국어 글자를 다시 확인합니다.', '앱은 오답과 느린 글자를 다시 섞어 제시하고, 같은 항목을 한 번에 몰아 내지 않고 다음 연습에 다시 배치합니다.', [SOURCES.spacing]],
+    ko: ['사용자는 느리거나 자주 틀리는 중국어 글자를 다시 확인합니다.', '앱은 오답과 느린 글자를 다시 섞어 제시하고, 같은 항목을 한꺼번에 내지 않고 다음 연습에 다시 배치합니다.', [SOURCES.spacing]],
     en: ['Revisit Chinese characters that are slow or often missed.', 'The app brings back missed and slow characters in later practice instead of presenting all repetitions at once.', [SOURCES.spacing]],
   },
   zhseg: {

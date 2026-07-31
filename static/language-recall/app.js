@@ -504,7 +504,7 @@ function onQuickSaved(data) {
   updateQuickSaveLanguage();
   loadState();
   showToast("오늘 복습에 추가했습니다.", {
-    label: "지금 말해보기",
+    label: "지금 말해 보기",
     onAction: () => startInstantReview({ card, review }),
   });
 }
@@ -791,7 +791,7 @@ function renderDiscover() {
   const card = normalizeCard(items[0]);
   const article = createCardShell("discover-card");
   const header = element("div", "card-header");
-  header.append(element("span", "source-label", APP_IS_DEMO ? "합성 노트 원문" : "Notion 원문"), statusChip(card));
+  header.append(element("span", "source-label", APP_IS_DEMO ? "합성 노트 원문" : "노션 원문"), statusChip(card));
   article.append(header);
   article.append(element("p", "discover-text", sourceRawText(card) || displayExpression(card) || "표시할 원문이 없습니다."));
   appendSourceBlock(article, card, { includeRaw: false });
@@ -1094,7 +1094,7 @@ function renderNotionSync() {
   dom.notionSyncSummary.textContent = sync.lastSuccessAt
     ? `마지막 성공 ${formatDateTime(sync.lastSuccessAt)}`
     : status === "not-configured"
-      ? "현재 저장된 원문으로 사용할 수 있습니다. Notion 연결 후 새 내용이 자동 반영됩니다."
+      ? "현재 저장된 원문으로 사용할 수 있습니다. 노션 연결 후 새 내용이 자동 반영됩니다."
       : "아직 성공한 동기화 기록이 없습니다.";
   const error = typeof sync.error === "string"
     ? sync.error.trim()
@@ -1102,7 +1102,7 @@ function renderNotionSync() {
   dom.notionSyncError.textContent = error;
   dom.notionSyncError.hidden = !error;
   dom.notionSyncButton.disabled = status === "syncing";
-  dom.notionSyncButton.textContent = status === "syncing" ? "새로고침 중…" : "Notion 새로고침";
+  dom.notionSyncButton.textContent = status === "syncing" ? "새로고침 중…" : "노션 새로고침";
 }
 
 function renderNotionSyncError(message) {
@@ -1126,7 +1126,7 @@ async function onNotionSync() {
   dom.notionSyncError.textContent = "";
   try {
     await api("/api/sync/notion", { method: "POST" });
-    showToast("Notion 원문과 받은함을 새로 가져왔습니다.");
+    showToast("노션 원문과 받은함을 새로 가져왔습니다.");
     await loadState();
   } catch (error) {
     const message = friendlyError(error);
@@ -1544,7 +1544,7 @@ function appendSourceBlock(container, card, { includeRaw = true } = {}) {
   block.append(element(
     "span",
     "detail-label",
-    APP_IS_DEMO ? (includeRaw ? "합성 노트 원문" : "합성 노트 출처") : (includeRaw ? "실제 Notion 원문" : "Notion 출처")
+    APP_IS_DEMO ? (includeRaw ? "합성 노트 원문" : "합성 노트 출처") : (includeRaw ? "실제 노션 원문" : "노션 출처")
   ));
   if (includeRaw && rawText) block.append(element("p", "raw-text", rawText));
   const pathLabel = Array.isArray(source.path) ? source.path.filter(Boolean).join(" › ") : source.path;
@@ -1553,12 +1553,12 @@ function appendSourceBlock(container, card, { includeRaw = true } = {}) {
     const originalUrl = validHttpUrl(source.originalUrl) ? source.originalUrl : "";
     const pageUrl = validHttpUrl(source.pageUrl) ? source.pageUrl : "";
     if (originalUrl) {
-      block.append(sourceLink(originalUrl, APP_IS_DEMO ? "합성 원본 보기" : "원본 Notion 페이지 열기"));
+      block.append(sourceLink(originalUrl, APP_IS_DEMO ? "합성 원본 보기" : "원본 노션 페이지 열기"));
       if (pageUrl && !sameUrl(pageUrl, originalUrl)) {
         block.append(sourceLink(pageUrl, APP_IS_DEMO ? "합성 받은함 항목 보기" : "받은함 항목 열기"));
       }
     } else if (pageUrl) {
-      block.append(sourceLink(pageUrl, APP_IS_DEMO ? "합성 노트 출처 보기" : "Notion 출처 페이지 열기"));
+      block.append(sourceLink(pageUrl, APP_IS_DEMO ? "합성 노트 출처 보기" : "노션 출처 페이지 열기"));
     }
     container.append(block);
   }
@@ -1693,7 +1693,7 @@ function matchedFieldLabel(field) {
     aliases: "검색 별칭",
     targetText: "학습 표현",
     learnedText: "검수 학습본",
-    source: APP_IS_DEMO ? "합성 노트 원문" : "Notion 원문",
+    source: APP_IS_DEMO ? "합성 노트 원문" : "노션 원문",
     scene: "장면",
     purpose: "말의 목적",
   };

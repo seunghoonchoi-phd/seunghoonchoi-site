@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="noindex, nofollow" />
-  <title>관리자 — 글 편집</title>
+  <title>관리자 · 글 편집</title>
   <script src="https://accounts.google.com/gsi/client" async></script>
   <script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
   <style>
@@ -133,7 +133,7 @@
           <button class="btn-primary" id="saveCfg">저장</button>
         </div>
         <details class="help" open>
-          <summary>처음 한 번만 — 설정하는 법</summary>
+          <summary>처음 한 번만: 설정하는 법</summary>
           <div>
             이 두 값은 <b>1회 배포</b> 뒤 얻습니다. 저장소의 <code>worker/README.md</code> 가이드를 따라
             ① Cloudflare Worker(무료) 배포 → ② 거기에 GitHub 토큰·구글 클라이언트 ID를 <b>Secret</b>으로 저장하면,
@@ -203,7 +203,7 @@
 
         <!-- raw mode -->
         <div id="rawMode" class="hidden">
-          <label for="rawEditor" style="margin-top:0">전체 원문 (front-matter 포함) — 고급</label>
+          <label for="rawEditor" style="margin-top:0">전체 원문 (front-matter 포함) · 고급</label>
         </div>
 
         <div class="ed-body" id="edBody">
@@ -314,7 +314,7 @@
       try{
         const c = decodeJwt(resp.credential);
         if ((c.email||'').toLowerCase() !== ALLOWED_EMAIL){
-          $('#deny').textContent = `이 계정(${c.email||'?'})은 권한이 없습니다. ${ALLOWED_EMAIL} 로 로그인하세요.`;
+          $('#deny').textContent = `이 계정(${c.email||'?'})은 권한이 없습니다. ${ALLOWED_EMAIL}로 로그인하세요.`;
           $('#deny').classList.add('show');
           if (window.google) google.accounts.id.disableAutoSelect();
           return;
@@ -354,7 +354,7 @@
     }
     $('#saveCfg').addEventListener('click', () => {
       const w = $('#wurl').value.trim(), c = $('#cid').value.trim();
-      if (!/^https:\/\/.+/.test(w)){ alert('Worker 주소가 올바르지 않습니다 (https:// 로 시작).'); return; }
+      if (!/^https:\/\/.+/.test(w)){ alert('Worker 주소가 올바르지 않습니다 (https://로 시작).'); return; }
       if (!/apps\.googleusercontent\.com$/.test(c)){ alert('클라이언트 ID 형식이 올바르지 않습니다 (…apps.googleusercontent.com).'); return; }
       localStorage.setItem(WKEY, w); localStorage.setItem(CKEY, c); showGateStage();
     });
@@ -444,7 +444,7 @@
           const order = LANGS.filter(l=>p.langs[l]);
           const lbtns = order.map(l=>`<button class="lbtn" data-idx="${idx}" data-lang="${l}">${l.toUpperCase()} 편집</button>`).join('');
           const RVA = {none:'미검수', reviewing:'검수중', done:'검수완료'};
-          const revbtns = order.map(l=>{ const s=p.langs[l].status||'none'; return `<button class="lbtn rev rv-${s}" data-rev="${idx}" data-rlang="${l}" title="${l.toUpperCase()} 검수상태 — 클릭하면 미검수→검수중→검수완료 순환">${l.toUpperCase()}: ${RVA[s]}</button>`; }).join('');
+          const revbtns = order.map(l=>{ const s=p.langs[l].status||'none'; return `<button class="lbtn rev rv-${s}" data-rev="${idx}" data-rlang="${l}" title="${l.toUpperCase()} 검수상태 · 클릭하면 미검수→검수중→검수완료 순환">${l.toUpperCase()}: ${RVA[s]}</button>`; }).join('');
           const doneN = order.filter(l=>(p.langs[l].status||'none')==='done').length;
           const revBadge = doneN===order.length ? '<span class="badge-rev">검수완료</span>' : (doneN===0 ? '<span class="badge-unrev">미검수</span>' : `<span class="badge-partial">검수완료 ${doneN}/${order.length}</span>`);
           const isHome = p.rel === '_index.md';
@@ -481,7 +481,7 @@
           if(!pr.ok) throw new Error(l.toUpperCase()+' 저장 실패('+pr.status+')');
         }
         p.hidden = hide;
-        setStatus((hide?'🙈 숨김 처리했습니다':'👁 다시 공개했습니다')+' — 1~2분 뒤 사이트에 반영됩니다.','ok');
+        setStatus((hide?'🙈 숨김 처리했습니다':'👁 다시 공개했습니다')+'. 1~2분 뒤 사이트에 반영됩니다.','ok');
         render();
       }catch(e){ if(e.message!=='401') setStatus(e.message,'err'); btn.disabled=false; btn.innerHTML=old; }
     }
@@ -595,7 +595,7 @@
         $('#fSubWrap').classList.toggle('hidden', d.hasFm && getField(d.fmFull,'subtitle')===null);
         $('#editor').value = d.hasFm ? d.body : raw;
         $('#rawEditor').value = raw;
-        $('#editorTitle').textContent = `— ${p.title||p.rel} · ${lang.toUpperCase()}`;
+        $('#editorTitle').textContent = `${p.title||p.rel} · ${lang.toUpperCase()}`;
         $('#editorPath').textContent = f.path;
         clearDirty(); setView('edit'); updateCount();
         $('#editorCard').classList.remove('hidden'); clearStatus();
@@ -631,7 +631,7 @@
         const d2 = splitDoc(content); CUR.hasFm=d2.hasFm; CUR.fmFull=d2.fmFull;
         const nt = titleFromMd(content); if (nt && POSTS[CUR.idx]){ POSTS[CUR.idx].title=nt; render(); }
         clearDirty(); dropDraft();
-        setStatus(`저장 완료: <b>${escapeHtml(CUR.path)}</b> — 1~2분 뒤 사이트에 반영됩니다.`,'ok');
+        setStatus(`저장 완료: <b>${escapeHtml(CUR.path)}</b>. 1~2분 뒤 사이트에 반영됩니다.`,'ok');
       }catch(e){ if (e.message!=='401') setStatus(e.message,'err'); }
       finally{ btn.disabled=false; btn.textContent='저장 (커밋)'; }
     }
@@ -650,7 +650,7 @@
         }
         if (CUR && CUR.idx===idx){ $('#editorCard').classList.add('hidden'); CUR=null; clearDirty(); }
         POSTS.splice(idx,1); render();
-        setStatus(`삭제 완료: <b>${escapeHtml(p.title||p.rel)}</b> — 1~2분 뒤 반영됩니다.`,'ok');
+        setStatus(`삭제 완료: <b>${escapeHtml(p.title||p.rel)}</b>. 1~2분 뒤 반영됩니다.`,'ok');
       }catch(e){ if (e.message!=='401'){ btn.disabled=false; btn.textContent='삭제'; setStatus(e.message,'err'); } }
     }
 

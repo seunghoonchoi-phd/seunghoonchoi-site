@@ -896,7 +896,7 @@
     });
     var headline = el("p", "compare-headline");
     if (bestCat) {
-      headline.textContent = "가장 크게 좋아진 분야: " + bestCat.ko + " (+" + bestDelta.toFixed(2) + "점, 0~2 척도) — " +
+      headline.textContent = "가장 크게 좋아진 분야: " + bestCat.ko + " (+" + bestDelta.toFixed(2) + "점, 0~2 척도) · " +
         a.model + " 대비 " + b.model + " 기준.";
     } else {
       headline.textContent = "두 세션 모두에서 채점된 분야 중 점수가 오른 분야가 없거나, 겹치는 채점 분야가 아직 없습니다.";

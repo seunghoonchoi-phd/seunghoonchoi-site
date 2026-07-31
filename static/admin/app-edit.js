@@ -93,7 +93,7 @@
       var c = decodeJwt(resp.credential);
       if (!((c.email || '').toLowerCase() === ALLOWED && String(c.email_verified) === 'true')) {
         hideLogin();
-        if (pendingAuth) { pendingAuth.reject(new Error('이 계정(' + (c.email || '?') + ')은 권한이 없습니다. ' + ALLOWED + ' 로 로그인하세요')); pendingAuth = null; }
+        if (pendingAuth) { pendingAuth.reject(new Error('이 계정(' + (c.email || '?') + ')은 권한이 없습니다. ' + ALLOWED + '로 로그인하세요')); pendingAuth = null; }
         return;
       }
       var done = function () { hideLogin(); if (pendingAuth) { pendingAuth.resolve(); pendingAuth = null; } };
@@ -321,7 +321,7 @@
       } else if (act === 'cancel') {
         if (!dirty || confirm('저장하지 않은 변경을 버리고 닫을까요?')) exit(dirty > 0);
       } else if (act === 'reset') {
-        if (!confirm('이 앱의 UI 편집을 전부 초기화할까요?\n(저장된 ui-edits.json 도 비웁니다)')) return;
+        if (!confirm('이 앱의 UI 편집을 전부 초기화할까요?\n(저장된 ui-edits.json도 비웁니다)')) return;
         OV = { rootScale: 100, text: [], style: [] }; buildMaps();
         saveFile('admin: reset app UI edits (' + APP + ')').then(function () { exit(true); }).catch(function (err) { alert('초기화 실패: ' + err.message); });
       } else if (act === 'save') {
@@ -341,7 +341,7 @@
   function saveFile(message) {
     return ensureAuth().then(function () {
       return api('GET', 'file', { path: FILE }).then(function (r) {
-        if (r.status === 401) { clearToken(); throw new Error('세션 만료 — 다시 저장하세요'); }
+        if (r.status === 401) { clearToken(); throw new Error('세션 만료. 다시 저장하세요'); }
         if (r.status === 404) return null;
         if (!r.ok) throw new Error('읽기 실패 (' + r.status + ')');
         return r.json();
@@ -352,7 +352,7 @@
         version: 1,
         app: APP,
         updatedAt: new Date().toISOString(),
-        note: '관리자 UI 편집 오버레이 — Claude가 소스에 반영(AGENTS.md: App UI Edit Overrides) 후 비웁니다',
+        note: '관리자 UI 편집 오버레이 · Claude가 소스에 반영(AGENTS.md: App UI Edit Overrides) 후 비웁니다',
         rootScale: OV.rootScale || 100,
         text: OV.text || [],
         style: OV.style || []
@@ -361,7 +361,7 @@
       if (j && j.sha) payload.sha = j.sha;
       return api('PUT', 'file', { path: FILE, body: payload });
     }).then(function (r) {
-      if (r.status === 401) { clearToken(); throw new Error('세션 만료 — 다시 저장하세요'); }
+      if (r.status === 401) { clearToken(); throw new Error('세션 만료. 다시 저장하세요'); }
       if (!r.ok) return r.json().catch(function () { return {}; }).then(function (j) { throw new Error('커밋 실패 (' + r.status + ') ' + (j.message || '')); });
     });
   }

@@ -62,7 +62,7 @@
     try { var c = decodeJwt(resp.credential);
       if (!((c.email||'').toLowerCase()===ALLOWED && String(c.email_verified)==='true')){
         hideLogin();
-        if (pendingAuth){ pendingAuth.reject(new Error('이 계정('+(c.email||'?')+')은 권한이 없습니다. '+ALLOWED+' 로 로그인하세요')); pendingAuth=null; }
+        if (pendingAuth){ pendingAuth.reject(new Error('이 계정('+(c.email||'?')+')은 권한이 없습니다. '+ALLOWED+'로 로그인하세요')); pendingAuth=null; }
         return;
       }
       var done = function(){ hideLogin(); onReady(); if (pendingAuth){ pendingAuth.resolve(); pendingAuth=null; } };
@@ -145,7 +145,7 @@
       var job = jobs[i++];
       msg('카드 설명 저장 중 ' + i + '/' + jobs.length + '…');
       return api('GET','file',{path:job.path}).then(function(r){
-        if (r.status===401){ clearToken(); throw new Error('세션 만료 — 다시 저장하세요'); }
+        if (r.status===401){ clearToken(); throw new Error('세션 만료. 다시 저장하세요'); }
         if (!r.ok) throw new Error('카드 원문 읽기 실패 ('+r.status+') '+job.path);
         return r.json();
       }).then(function(j){
@@ -201,7 +201,7 @@
       var lang=langs[i++], path='content/'+lang+'/'+rk+'.md';
       api('GET','file',{path:path}).then(function(r){
         if (r.status===404){ step(); return; }
-        if (r.status===401){ clearToken(); throw new Error('세션 만료 — 다시 누르세요'); }
+        if (r.status===401){ clearToken(); throw new Error('세션 만료. 다시 누르세요'); }
         if (!r.ok) throw new Error('읽기 '+r.status);
         return r.json().then(function(j){
           var raw=b64utf8(j.content), next=setHiddenRaw(raw, hide);
@@ -216,7 +216,7 @@
     if (!tokenValid()){ ensureAuth().then(function(){ rvSet(rk, lang, status, badge); }).catch(function(e){ if(e&&e.message) alert('로그인 필요: '+e.message); }); return; }
     rvStyle(badge, status); // optimistic
     var path='content/'+lang+'/'+rk+'.md';
-    api('GET','file',{path:path}).then(function(r){ if(r.status===401){ clearToken(); throw new Error('세션 만료 — 배지를 다시 클릭'); } if(!r.ok) throw new Error('읽기 '+r.status); return r.json(); }).then(function(j){
+    api('GET','file',{path:path}).then(function(r){ if(r.status===401){ clearToken(); throw new Error('세션 만료. 배지를 다시 클릭'); } if(!r.ok) throw new Error('읽기 '+r.status); return r.json(); }).then(function(j){
       var next=rvSetStatusRaw(b64utf8(j.content), status);
       return api('PUT','file',{ path:path, body:{ content:utf8b64(next), sha:j.sha, message:'admin: review '+status+' '+path } });
     }).then(function(r){ if(!r.ok) throw new Error('저장 '+r.status); var map=rvCache(); (map[rk]=map[rk]||{})[lang]=status; rvSave(map); }).catch(function(e){ alert('검수 상태 저장 실패: '+e.message); });
@@ -259,7 +259,7 @@
       var rk=card.getAttribute('data-rk'), meta=card.querySelector('.card__meta'); if(!meta) return;
       var old=card.querySelector('.rv-badge'); if(old) old.remove(); // main.js 표시본 제거하고 인터랙티브로 교체
       var status=(map[rk]&&map[rk][lang])||'none';
-      var b=document.createElement('span'); b.className='rv-badge'; rvStyle(b, status); b.title='검수 상태 — 클릭해서 변경(나만 보임)';
+      var b=document.createElement('span'); b.className='rv-badge'; rvStyle(b, status); b.title='검수 상태 · 클릭해서 변경(나만 보임)';
       b.addEventListener('click', function(e){ e.preventDefault(); e.stopPropagation(); rvMenu(b, rk, lang); });
       meta.appendChild(b);
       rvSyncFromSource(rk, lang, b);
@@ -291,7 +291,7 @@
       g.style.cssText='opacity:.66;border:1px dashed #B7E4C7;border-radius:14px;padding:8px 6px';
       var body=document.createElement('div'); body.className='card__body';
       var meta=document.createElement('div'); meta.className='card__meta';
-      var lbl=document.createElement('span'); lbl.textContent='숨김됨(나만 보임)'; lbl.style.cssText='font-size:.66rem;font-weight:700;color:#1b7a3d;background:#E7F6EC;border:1px solid #B7E4C7;border-radius:6px;padding:2px 8px';
+      var lbl=document.createElement('span'); lbl.textContent='숨겨짐(나만 보임)'; lbl.style.cssText='font-size:.66rem;font-weight:700;color:#1b7a3d;background:#E7F6EC;border:1px solid #B7E4C7;border-radius:6px;padding:2px 8px';
       var hb=document.createElement('span'); hb.className='sc-hide'; hideBtnStyle(hb, true);
       hb.addEventListener('click', function(e){ e.preventDefault(); e.stopPropagation(); setCardHidden(rk, g, hb, false, info); });
       meta.appendChild(lbl); meta.appendChild(hb);
@@ -319,7 +319,7 @@
     bar();
     msg('불러오는 중…'); document.getElementById('scBar').classList.add('show');
     api('GET','file',{path:CFG.path}).then(function(r){
-      if (r.status===401){ clearToken(); throw new Error('세션 만료 — 편집을 다시 시작'); }
+      if (r.status===401){ clearToken(); throw new Error('세션 만료. 편집을 다시 시작'); }
       if (!r.ok) throw new Error('불러오기 실패 ('+r.status+')');
       return r.json();
     }).then(function(j){
