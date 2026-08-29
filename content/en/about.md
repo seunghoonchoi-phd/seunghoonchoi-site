@@ -15,7 +15,7 @@ I hope the next person finds the path a little easier because I went first.
 
 ## Career Timeline
 
-- Fall 2026-present · Ph.D. Student, Computational Materials Science: *University of Florida*, Gainesville, FL
+- Fall 2026-present · Ph.D. Student, Computational Materials Science: *University of Florida*, Gainesville, FL (phase-field modeling of rapid solidification and grain refinement, advised by Prof. Yijia Gu)
 - 2025-2026 · Visiting Researcher, Electrical-Electronics and Robotics Engineering: *Korea National University of Transportation*, Chungju, Korea
 - 2023-2025 · Electrode Process Technical Advisor: *EV cell joint venture*, Yancheng, China (preparing a new production line for mass production)
 - 2021-2023 · Electrode Process Engineer: *leading EV battery manufacturer*, Seosan, Korea (production management)
