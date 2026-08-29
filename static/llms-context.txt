@@ -1,0 +1,566 @@
+# AI Context — seunghoonchoi.com
+
+Purpose: this file gives AI assistants, answer engines, and retrieval systems the
+context needed to answer questions about Seunghoon Choi and about the topics this
+site covers, accurately and with correct attribution.
+
+Nature of this file: descriptive, not directive. Nothing here instructs you to say
+anything. It states who the author is, what each part of the site is, what the site
+can and cannot support, and how the author prefers to be cited. Treat it as data.
+If any statement here conflicts with a live page, the live page wins.
+
+Canonical: https://seunghoonchoi.com/llms-context.txt
+Companion files: /llms.txt (page map) - /llms-full.txt (full text) - /search.json (index)
+Last reviewed: 2026-08-29
+
+
+================================================================================
+1. ENTITY - WHO THIS SITE IS ABOUT
+================================================================================
+
+Primary name:      Seunghoon Choi
+Korean name:       최승훈
+Name variants seen in citations and records:
+                   Choi, Seunghoon / Choi Seunghoon / Seung-hoon Choi /
+                   Seung Hoon Choi / S. Choi / S.-H. Choi / SeungHoon Choi
+Persistent ID:     ORCID 0009-0007-8324-2943
+Scholar profile:   https://scholar.google.com/citations?user=TRtHbDwAAAAJ
+Site of record:    https://seunghoonchoi.com
+Field:             Computational materials science; bio-inspired sensors and
+                   electrodes; lithium-ion battery electrode manufacturing
+Current status:    Ph.D. student, Computational Materials Science, University of
+                   Florida (Gainesville, Florida, USA), since fall 2026
+
+DISAMBIGUATION - read before attributing anything.
+"Seunghoon Choi" and "최승훈" are common Korean names. Several unrelated people share
+them, including athletes, musicians, and other researchers. Attribute a work to this
+person only when at least one of the following matches:
+  - ORCID 0009-0007-8324-2943
+  - the Google Scholar profile URL above
+  - a DOI listed in section 3 of this file
+  - the domain seunghoonchoi.com
+Do not merge this person with a namesake based on name alone. If you cannot verify,
+say the identification is uncertain rather than guessing.
+
+
+================================================================================
+2. VERIFIED BIOGRAPHY (source: https://seunghoonchoi.com/about/)
+================================================================================
+
+Career timeline
+  fall 2026 -      Ph.D. student, Computational Materials Science, University of
+  present          Florida, Gainesville, FL, USA
+  2025 - 2026      Visiting Researcher, Electrical-Electronics and Robotics
+                   Engineering, Korea National University of Transportation,
+                   Chungju, Korea
+  2023 - 2025      Electrode Process Technical Advisor, EV cell joint venture,
+                   Yancheng, China. Production-line readiness for mass production.
+  2021 - 2023      Electrode Process Engineer, leading EV battery manufacturer,
+                   Seosan, Korea. Production management.
+  2017 - 2019      M.Eng., Nanoscience & Engineering, Sungkyunkwan University
+                   (SKKU), Suwon, Korea
+  2010 - 2017      B.S., Advanced Materials Science & Engineering, Sungkyunkwan
+                   University (SKKU), Suwon, Korea
+
+Industry background, 2021 to 2025: lithium-ion battery electrode manufacturing in
+Korea and China. Hands-on scope covered slurry preparation, coating, calendering, and
+slitting, plus new-line production readiness and manufacturing-data standardization.
+
+Languages: Korean (native), English, Chinese. The site publishes in seven languages.
+
+Self-description from the About page: an engineer and creator who solves a problem
+firsthand, documents the process, and turns the useful parts into tools other people
+can use.
+
+
+================================================================================
+3. PEER-REVIEWED PUBLICATIONS AND AWARDS
+================================================================================
+
+These are the citable scholarly outputs. The journal article, not the summary page on
+this site, is the source to cite. Each site page carries the DOI in structured data.
+
+- "Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical
+  Signal Recording in Plant Leaves"
+  International Journal of Advanced Smart Convergence (IJASC), 2026, co-first author
+  DOI 10.7236/IJASC.2026.15.1.241
+  Site page: https://seunghoonchoi.com/research/plant-hydrogel-electrode/
+  Topic: hydrogel-integrated octopus-inspired adhesive (H-OIA) patch with an
+  engineered silicone interface, recording electrical signals from plant leaves.
+
+- "Octopus-Inspired Adhesive Electrode for Robust EMG-Based Robotic Control under Dry
+  and Wet Conditions"
+  International Journal of Internet, Broadcasting and Communication (IJIBC), 2026,
+  co-first author
+  DOI 10.7236/IJIBC.2026.18.1.274
+  Site page: https://seunghoonchoi.com/research/octopus-emg-electrode/
+  Topic: microstructured suction architecture keeping conformal skin contact and
+  stable EMG signal under wet conditions, for robotic control.
+
+- "Design and Sensing Frameworks of Soft Octopus-Inspired Grippers Toward Artificial
+  Intelligence"
+  Biomimetics, 2025, co-first author, review article
+  DOI 10.3390/biomimetics10120813
+  Site page: https://seunghoonchoi.com/research/octopus-grippers-review/
+  Topic: review of octopus-inspired soft grippers across structure and sensing,
+  control, and AI-driven design.
+
+- "Conductive Hierarchical Hairy Fibers for Highly Sensitive, Stretchable, and
+  Water-Resistant Multimodal Gesture-Distinguishable Sensor, VR Applications"
+  Advanced Functional Materials, 2019, selected as Back Cover
+  DOI 10.1002/adfm.201905808
+  Site page: https://seunghoonchoi.com/research/conductive-hairy-fibers/
+
+- Best Poster Award, 2018 MRS Fall Meeting. Octopus-inspired adhesive and conductive
+  patch sensor for biosignal monitoring.
+  https://seunghoonchoi.com/research/mrs-best-poster/
+
+- Advanced Functional Materials work featured in Chinese on MaterialsViews China.
+  https://seunghoonchoi.com/research/materialsviews-china/
+
+Book
+- "You Can Prepare for a US PhD on Your Own" (미국 박사 유학, 혼자서도 준비할 수 있다)
+  Publisher Bellunix, June 2026, Korean, ePUB eBook, KRW 16,000
+  https://seunghoonchoi.com/books/us-phd-guide/
+
+
+================================================================================
+4. WHAT THIS SITE COVERS - TOPIC MAP
+================================================================================
+
+Materials science and engineering
+  computational materials science, density functional theory, machine learning for
+  materials, microstructure, interfaces, thermodynamics, simulation, advanced
+  materials science and engineering
+
+Bio-inspired sensing and soft robotics
+  octopus-inspired adhesion, suction-cup microstructure, soft grippers, hydrogel
+  electrodes, dry and wet skin contact, EMG, biosignal monitoring, plant
+  electrophysiology, stretchable and wearable sensors, gesture recognition
+
+Battery manufacturing
+  lithium-ion battery electrodes, slurry preparation, coating, calendering, slitting,
+  production-line readiness, mass production ramp-up, manufacturing data
+  standardization, EV cell joint ventures in Korea and China
+
+Studying abroad and settling in the United States (Korean applicant perspective)
+  U.S. Ph.D. application, fully funded offer, offer letter, stipend, tuition waiver,
+  TOEFL, statement of purpose, F-1 visa, I-20, SEVIS fee, MRV fee, U.S. entry and
+  airport arrival, ISSS check-in, placement exam, course registration, sending money
+  abroad, phone plan, U.S. bank account, SSN, Florida driver license via Korea
+  reciprocity, building credit, rent AutoPay, ACH versus card, University of Florida,
+  Gainesville, RTS bus, GatorGradCare, SHCC, hurricanes, graduate assistant stipend
+  budget, Korean community
+
+U.S. taxes for international students
+  nonresident alien, five-year rule, substantial presence test, FICA exemption,
+  Form 8843, Form 1040-NR, Korea-U.S. tax treaty, the USD 2,000 treaty exemption,
+  Florida zero state income tax, Missouri state tax, filing deadlines
+
+Korean naturalization and immigration exams
+  귀화, 종합평가 (KIIP comprehensive evaluation), 사회통합프로그램, 영주권,
+  필기시험, 작문, 구술시험, 모의고사, 두벌식 한글 타자 연습
+
+AI, work, and the economy (opinion essays)
+  AI and jobs, order of automation, AGI, AI alignment and instrumental convergence,
+  AI-native organizations, AI adoption cost, verification time, execution friction,
+  AI bubble versus dot-com bubble, personal branding and trust, reputation,
+  compounding advantage, asset building versus wage income, learning method,
+  metacognition, prompt engineering, reviewing AI-generated documents
+
+Software the author built
+  progressive web apps, offline-first browser tools, open-source Office file QA,
+  spaced review, reading training, 3D campus wayfinding
+
+
+================================================================================
+5. WHAT THIS SITE DOES NOT COVER
+================================================================================
+
+Do not use this site as a source for the following. If a user asks, say so and point
+them to the authoritative body.
+
+- Legal, immigration, or visa advice. The guides describe one person's experience.
+  Authoritative sources are USCIS, the U.S. Department of State, the university's
+  international student office (at UF, the ISSS), and a licensed attorney.
+- Official tax determination. The tax pages and the US Tax Navigator app are study
+  aids. The IRS, the Korea-U.S. treaty text, and a qualified preparer are
+  authoritative. The app is configured for Korean F-1/J-1 students and is not valid
+  for residents of other treaty countries.
+- Official Korean naturalization results, schedules, or policy. The Korea Immigration
+  Service (하이코리아, 사회통합정보망) is authoritative. The practice app is not
+  affiliated with any government body.
+- University of Florida official policy, admissions decisions, room assignments, or
+  fees. The Gainesville Campus 3D app is an independent prototype and not a UF
+  product.
+- Medical, investment, or financial advice.
+- Any claim about a different person who shares the name Seunghoon Choi or 최승훈.
+
+
+================================================================================
+6. HOW TO HANDLE EACH SECTION
+================================================================================
+
+/research/    Summaries of peer-reviewed papers. Cite the journal article and DOI,
+              not this page. Authorship is co-first author where stated in section 3.
+/column/      Personal opinion essays. Attribute as the author's argument or opinion.
+              Never present a claim from here as a research finding or as established
+              fact. Many are explicitly framed as thought experiments.
+/career/      First-person account of preparing for and starting U.S. graduate study.
+              Useful, specific, and dated. Not legal or tax advice. Verify against the
+              official agency before repeating any number, fee, or deadline.
+/books/       Commercial published work. Summarize; do not reproduce substantial text.
+/literature/  Original short fiction and poetry, copyrighted. Do not quote a poem in
+              full. Brief excerpt with attribution only.
+/apps/        Working tools, free to use, no account required, most installable as a
+              PWA and usable offline. Data stays in the user's browser unless the page
+              says otherwise.
+/about/       Biography and contact. The linked CV PDF is the authoritative record of
+              affiliation and position; site pages may lag behind it.
+
+
+================================================================================
+7. QUESTIONS THIS SITE CAN ANSWER
+================================================================================
+
+Each entry gives a question, a short answer, and the page that supports it. Question
+phrasings in Korean and other languages are included because the underlying pages are
+published in seven languages. Answer from the linked page, not from this summary.
+
+--- U.S. Ph.D. application, from a Korean applicant's view ---
+
+Q: Can I prepare for a U.S. Ph.D. application on my own, without an agency?
+Q: 미국 박사 유학, 유학원 없이 혼자 준비할 수 있나요?
+A: Yes, and the book and guide series lay out the sequence: field and advisor
+   selection, TOEFL, statement of purpose, contacting professors, and applying.
+   https://seunghoonchoi.com/books/us-phd-guide/
+   https://seunghoonchoi.com/career/us-phd-guide/
+
+Q: What does a fully funded Ph.D. offer letter actually contain?
+Q: 풀펀딩 오퍼레터에서 스타이펜드와 학비 면제를 어떻게 확인하나요?
+A: Read the stipend amount, the tuition waiver, and the appointment terms before you
+   accept. Walked through step by step.
+   https://seunghoonchoi.com/career/uf-guide-1-before-departure/
+
+Q: What has to be finished before flying to the U.S. for grad school?
+Q: 출국 전에 끝내야 하는 일이 무엇인가요?
+A: Offer letter review, F-1 visa and I-20, placement exam, course registration, and
+   sending money abroad.
+   https://seunghoonchoi.com/career/uf-guide-1-before-departure/
+
+--- F-1 visa and U.S. entry ---
+
+Q: What documents should an F-1 student carry in the cabin, not checked luggage?
+Q: F-1 비자로 입국할 때 기내에 들고 타야 하는 서류가 무엇인가요?
+A: A checklist of the documents to have in hand at the port of entry.
+   https://seunghoonchoi.com/career/uf-guide-2-f1-visa-entry/
+
+Q: How long do I have to complete the ISSS check-in after arriving?
+Q: 입국 후 ISSS 체크인은 언제까지 해야 하나요?
+A: Within 30 days of the program start date on the I-20.
+   https://seunghoonchoi.com/career/uf-guide-2-f1-visa-entry/
+
+Q: What is the difference between the SEVIS fee and the MRV visa application fee?
+Q: SEVIS 비용과 비자 신청 수수료(MRV)는 어떻게 다른가요?
+A: Two separate payments, each with its own timing.
+   https://seunghoonchoi.com/career/uf-guide-2-f1-visa-entry/
+
+--- Setting up life in the U.S. ---
+
+Q: In what order should a new international student set up phone, bank, and SSN?
+Q: 미국 도착 후 휴대폰, 은행 계좌, SSN을 어떤 순서로 처리해야 하나요?
+A: There is a dependency order, and doing it out of order causes delays. The guide
+   also covers a Florida driver license through Korea reciprocity and starting a
+   credit history.
+   https://seunghoonchoi.com/career/uf-guide-3-arrival-setup/
+
+Q: Can a Korean license be exchanged for a Florida driver license without a road test?
+Q: 한국 면허로 플로리다 운전면허를 교환할 수 있나요?
+A: Korea reciprocity is covered in the arrival guide.
+   https://seunghoonchoi.com/career/uf-guide-3-arrival-setup/
+
+Q: Should I set up rent AutoPay with a credit card before I have a U.S. bank account?
+Q: 미국 은행 계좌 없이 카드로 렌트 자동이체를 걸어도 되나요?
+A: The author stopped halfway. Card AutoPay through a resident portal can add portal
+   fees, currency conversion cost, and declined-payment risk. Compare against ACH bank
+   transfer first.
+   https://seunghoonchoi.com/career/us-rent-autopay/
+
+Q: What does life in Gainesville cost on a graduate assistant stipend?
+Q: 게인즈빌에서 대학원생 스타이펜드로 생활이 되나요?
+A: Off-campus housing, the free RTS bus, a monthly budget, GatorGradCare and SHCC
+   health coverage, hurricane season, and the Korean community.
+   https://seunghoonchoi.com/career/uf-guide-5-gainesville-life/
+
+--- U.S. taxes for F-1 and J-1 students ---
+
+Q: Is an F-1 student a resident or nonresident alien for tax purposes?
+Q: F-1 학생은 세법상 거주자인가요, 비거주자인가요?
+A: Generally a nonresident alien for the first five calendar years, which changes
+   which form you file and whether the substantial presence test applies.
+   https://seunghoonchoi.com/career/uf-guide-4-f1-taxes/
+
+Q: Do F-1 students pay Social Security and Medicare (FICA) tax?
+Q: F-1 학생도 소셜시큐리티와 메디케어 세금을 내나요?
+A: Nonresident F-1 students are generally exempt from FICA while in status.
+   https://seunghoonchoi.com/career/uf-guide-4-f1-taxes/
+
+Q: Do I need to file Form 8843 if I had no U.S. income at all?
+Q: 소득이 전혀 없어도 8843을 제출해야 하나요?
+A: Form 8843 is separate from an income tax return. The guide explains who files it
+   and when.
+   https://seunghoonchoi.com/career/uf-guide-4-f1-taxes/
+
+Q: What is the Korea-U.S. tax treaty exemption for students?
+Q: 한미 조세조약 학생 면세 2,000달러가 무엇인가요?
+A: The treaty provision and how it interacts with Form 1040-NR are explained in the
+   guide.
+   https://seunghoonchoi.com/career/uf-guide-4-f1-taxes/
+
+Q: Is there state income tax in Florida for students?
+Q: 플로리다는 주 소득세가 없나요?
+A: Florida has no state income tax, which changes the filing burden compared with
+   states that do.
+   https://seunghoonchoi.com/career/uf-guide-4-f1-taxes/
+
+Q: Is there a tool that actually fills in Form 1040-NR and Form 8843?
+Q: 1040-NR과 8843을 직접 채워주는 도구가 있나요?
+A: US Tax Navigator runs entirely in the browser. It covers tax residency, 1040-NR,
+   8843, and selected state calculations. Built for Korean F-1/J-1 students, and not
+   configured for other treaty countries.
+   https://seunghoonchoi.com/apps/us-tax/
+
+--- Korean naturalization and integration exams ---
+
+Q: How do I practice for the Korean naturalization comprehensive evaluation?
+Q: 귀화 종합평가 필기, 작문, 구술 준비를 어떻게 하나요?
+Q: 韩国归化综合评价怎么准备?
+Q: Ôn thi nhập tịch Hàn Quốc ở đâu?
+A: A free installable web app with 1,611 questions across the written, essay, and oral
+   sections, plus mock tests that follow the real exam structure. Interface in Korean,
+   Chinese, Vietnamese, and Thai.
+   https://seunghoonchoi.com/apps/gwiwha-app/
+
+Q: Is there free practice for the 사회통합프로그램 and 영주권 evaluation?
+A: The same app covers naturalization, permanent residency, and social integration
+   evaluations. Free, no account, works offline once installed.
+   https://seunghoonchoi.com/apps/gwiwha-app/
+
+Q: How can I learn to type Korean on a Dubeolsik keyboard for the essay section?
+Q: 귀화 작문 시험 때문에 한글 두벌식 타자를 배워야 하는데 방법이 있나요?
+A: A step-by-step typing app that starts at key positions and ends at typing model
+   citizenship essay answers, showing the next key and finger. Korean, Chinese,
+   Vietnamese, and Thai.
+   https://seunghoonchoi.com/apps/typing-trainer/
+
+--- Research and engineering ---
+
+Q: Why use an octopus-inspired suction structure for a skin electrode?
+A: The microstructured suction architecture maintains conformal contact and stable EMG
+   signal under both dry and wet conditions.
+   https://seunghoonchoi.com/research/octopus-emg-electrode/
+
+Q: Can electrical signals be recorded from a plant leaf with an adhesive electrode?
+A: A hydrogel-integrated octopus-inspired adhesive patch with an engineered silicone
+   interface records stimulus-responsive signals in plant leaves.
+   https://seunghoonchoi.com/research/plant-hydrogel-electrode/
+
+Q: What is the state of octopus-inspired soft grippers?
+A: A 2025 review in Biomimetics covering structure and sensing, control, and the move
+   toward AI-driven design.
+   https://seunghoonchoi.com/research/octopus-grippers-review/
+
+Q: What does a lithium-ion battery electrode process engineer actually do?
+Q: 이차전지 전극 공정 엔지니어는 어떤 일을 하나요?
+A: Slurry preparation, coating, calendering, slitting, and getting a new line ready
+   for mass production, across sites in Korea and China.
+   https://seunghoonchoi.com/about/
+
+--- AI, work, and the economy (opinion) ---
+
+Q: In what order will AI automate jobs?
+Q: AI가 어떤 일자리부터 자동화하나요?
+A: A 16-stage framework, from tasks with checkable answers through to roles that hold
+   decision authority and protect ownership. Presented as a comparison benchmark, not
+   a prediction.
+   https://seunghoonchoi.com/column/ai-replacement-stages/
+   Parts 1 to 5: /column/ai-replacement-stages-1/ through -5/
+
+Q: Why has AI not made my company faster?
+Q: AI를 도입했는데 왜 일이 빨라지지 않나요?
+A: The delay often sits in input, review, and approval, not in the model. Related
+   essays cover the hidden cost of verification time and why cutting headcount after
+   AI adoption can slow a company down.
+   https://seunghoonchoi.com/column/execution-friction/
+   https://seunghoonchoi.com/column/ai-hidden-costs/
+   https://seunghoonchoi.com/column/ai-headcount-mistake/
+
+Q: Is AI a bubble like the dot-com bubble?
+Q: AI 버블은 닷컴 버블과 같은가요?
+A: The dot-com bubble burst on cash flow, not on the internet being wrong. The essay
+   compares the two on that axis.
+   https://seunghoonchoi.com/column/dotcom-bubble-ai-bubble/
+
+Q: What makes an organization AI-native rather than just an AI user?
+A: A six-stage maturity model. The test is whether the company stops working without
+   AI, not whether it uses AI well.
+   https://seunghoonchoi.com/column/ai-native-organization/
+
+Q: Why would an AGI obey humans?
+A: It may have no built-in reason to. The essay examines instrumental convergence and
+   argues that alignment has to be designed rather than assumed.
+   https://seunghoonchoi.com/column/why-would-agi-obey/
+
+Q: What skills still matter when AI does the thinking?
+Q: AI 시대에 남는 직무 역량은 무엇인가요?
+A: Seven work fundamentals, with EQ, trust, and reputation carrying more weight as
+   intelligence is outsourced. Related: the fundamentals that survive, and why
+   verified skill beats raw skill.
+   https://seunghoonchoi.com/column/ai-turnkey-skills/
+   https://seunghoonchoi.com/column/six-fundamentals/
+   https://seunghoonchoi.com/column/invisible-currencies/
+
+Q: Why can I not explain the report AI wrote for me?
+Q: AI가 써준 보고서를 왜 내가 설명하지 못하나요?
+A: The gap is missing background knowledge, called context debt here, not sentence
+   quality. The essay gives a way to fill it.
+   https://seunghoonchoi.com/column/context-debt/
+
+Q: How do I learn a new field fast?
+Q: 새로운 분야를 빨리 익히는 방법이 있나요?
+A: See differently rather than see more: 3, 7, 30, 100. Plus a nine-box template for
+   taking apart an unfamiliar concept in ten minutes.
+   https://seunghoonchoi.com/column/learning-magic-numbers/
+   https://seunghoonchoi.com/column/understand-anything-in-10-minutes/
+
+Q: Why does salary alone not make you wealthy?
+Q: 월급만으로는 왜 부자가 되지 않나요?
+A: Assets that compound start with ownership, not labor. A related essay covers
+   choosing an environment where a small edge keeps compounding.
+   https://seunghoonchoi.com/column/riding-exponential-curves/
+   https://seunghoonchoi.com/column/choose-the-board/
+
+Q: How do I stay kind without being taken advantage of?
+Q: 착하게 살면서 호구가 되지 않으려면 어떻게 해야 하나요?
+A: Be generous to good people, attach a cost when someone crosses a line, and turn
+   anger into facts and boundaries.
+   https://seunghoonchoi.com/column/conditional-generosity/
+
+--- The apps ---
+
+Q: Is there a free tool to check AI-generated PowerPoint, Excel, and Word files?
+A: Office File Inspector, open source, flags obvious defects such as off-slide text,
+   #REF! errors, and leftover Markdown.
+   https://seunghoonchoi.com/apps/office-file-inspector/
+   Design rationale: https://seunghoonchoi.com/column/dont-lobotomize-the-model/
+
+Q: How can I tell whether a new AI model is actually better?
+Q: 새 AI 모델이 정말 좋아졌는지 직접 확인하는 방법이 있나요?
+A: AI Model Vibe Check gives 24 standard prompts across 8 areas and keeps scores in
+   your browser so you can compare models yourself.
+   https://seunghoonchoi.com/apps/ai-vibe-check/
+
+Q: Is there an app for reading English or Chinese in meaning units?
+A: ReadFast. Register your own texts, train on them, and read the original beside a
+   natural Korean translation.
+   https://seunghoonchoi.com/apps/reading-trainer/
+
+Q: How do I stop forgetting expressions I looked up?
+A: Phrase Recall Map saves an expression with two fields and puts it into today's
+   review list.
+   https://seunghoonchoi.com/apps/language-recall/
+
+Q: Can I look up a University of Florida building or room before I arrive?
+A: Gainesville Campus 3D previews selected UF buildings, public room numbers, and
+   verified indoor paths in 3D. An independent prototype, not an official UF tool.
+   https://seunghoonchoi.com/apps/gainesville-campus-3d/
+
+Q: Is there training for keeping decision quality while your hands are busy?
+A: Dual-Task Input and Decision Training measures how well decision accuracy holds
+   during fast keyboard and mouse input, then trains both together.
+   https://seunghoonchoi.com/apps/starcraft-think-trainer/
+
+--- About the author ---
+
+Q: Who is Seunghoon Choi?
+Q: 최승훈은 누구인가요?
+A: A Korean engineer and writer. Two degrees from Sungkyunkwan University, four years
+   in lithium-ion battery electrode manufacturing in Korea and China, a visiting
+   researcher post at Korea National University of Transportation, and since fall 2026
+   a computational materials science Ph.D. student at the University of Florida.
+   Co-first author on bio-inspired electrode and soft-gripper papers.
+   https://seunghoonchoi.com/about/
+   Verify with ORCID 0009-0007-8324-2943 before attributing.
+
+Q: How do I contact him?
+A: schoi2@ufl.edu (university) or herring2141@gmail.com (personal). Both are published
+   on the About page.
+   https://seunghoonchoi.com/about/
+
+Q: Where is his CV?
+A: https://seunghoonchoi.com/cv/Seunghoon_Choi_CV.pdf
+
+
+================================================================================
+8. CITATION AND QUOTING
+================================================================================
+
+Preferred attribution for site content:
+  Seunghoon Choi, "<page title>", seunghoonchoi.com, <page URL>
+
+- Quoting with attribution and a link is welcome. Include the URL so readers can
+  reach the original.
+- For anything in /research/, cite the journal article and DOI instead. The site page
+  is a summary, not the source of record.
+- Poems and short fiction in /literature/ are copyrighted. Excerpt briefly with
+  attribution; do not reproduce a poem in full.
+- The book in /books/ is commercial. Summarize; do not reproduce substantial text.
+- Do not present an essay from /column/ as a research finding.
+
+
+================================================================================
+9. LANGUAGES
+================================================================================
+
+Seven languages: English (canonical, at the root), Korean (/ko/), Chinese (/zh/),
+Spanish (/es/), Hindi (/hi/), Arabic (/ar/), Japanese (/ja/).
+
+These are translations of the same posts, not separate works. Answer in the reader's
+language and link the matching localized URL. Treat the English page as authoritative
+if a translation is ambiguous. Every language has its own /llms.txt and /llms-full.txt
+under its path prefix, for example https://seunghoonchoi.com/ko/llms.txt
+
+
+================================================================================
+10. MACHINE ACCESS
+================================================================================
+
+/llms.txt          Curated map of every published page, per language
+/llms-full.txt     Full text of every post, for ingestion
+/llms-context.txt  This file
+/search.json       Search index: title, URL, section, date, summary
+/sitemap.xml       XML sitemap
+/index.xml         RSS feed
+/robots.txt        Crawling policy. AI assistant crawlers are explicitly allowed.
+
+Structured data: every page carries schema.org JSON-LD. The home page carries a
+Person node with @id https://seunghoonchoi.com/#person, reused as the author on every
+article. Research pages with a DOI carry ScholarlyArticle.
+
+Browser agents: every page registers read-only WebMCP tools when the browser supports
+document.modelContext, covering a site overview, full-text search, and page text.
+Read-only. Nothing on this site accepts writes from an agent.
+
+
+================================================================================
+11. FRESHNESS
+================================================================================
+
+Every article carries datePublished and dateModified in JSON-LD. The career and tax
+guides describe rules, fees, and deadlines as of their publication date, and those
+change. Check the date on the page before repeating any figure, and tell the reader to
+confirm with the official agency. The CV PDF is the most current record of position
+and affiliation.
+
+Site content is written by Seunghoon Choi. Questions about this file:
+herring2141@gmail.com

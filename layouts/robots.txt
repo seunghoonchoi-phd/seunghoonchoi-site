@@ -1,6 +1,8 @@
 # robots.txt — seunghoonchoi.com
 # AI search engines and assistants are explicitly welcome to crawl and cite this site.
 # Curated map for LLMs: /llms.txt   |   Full text: /llms-full.txt
+# Context for AI assistants (who the author is, how to cite, what this site does not
+# cover, and the questions it can answer): /llms-context.txt
 
 # Default: everyone may crawl everything except the private admin page.
 User-agent: *

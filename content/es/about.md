@@ -7,7 +7,7 @@ reviewStatus: "done"
   <img src="/images/about-portrait.jpg" alt="Seunghoon Choi" width="975" height="1254" loading="eager">
 </figure>
 
-Soy ingeniero y también creo textos y herramientas. Después de resolver un problema complejo, ordeno el proceso para que otras personas puedan aprovecharlo. Tengo previsto comenzar el doctorado en ciencia de materiales computacional en la Universidad de Florida (UF) en otoño de 2026.
+Soy ingeniero y también creo textos y herramientas. Después de resolver un problema complejo, ordeno el proceso para que otras personas puedan aprovecharlo. Desde el otoño de 2026 curso el doctorado en ciencia de materiales computacional en la Universidad de Florida (UF).
 
 La formación y la investigación son importantes, y también lo es registrar con honestidad el camino que he recorrido. Quiero resolver problemas que he vivido en primera persona y compartir el proceso.
 
@@ -15,7 +15,7 @@ Espero que el camino que ya recorrí sea un poco menos difícil para quien venga
 
 ## Trayectoria
 
-- Desde otoño de 2026 · Inicio previsto del doctorado en ciencia de materiales computacional: _Universidad de Florida (UF)_, Gainesville, FL
+- Desde otoño de 2026 hasta hoy · Doctorando en ciencia de materiales computacional: _Universidad de Florida (UF)_, Gainesville, FL
 - 2025-2026 · Investigador visitante, ingeniería eléctrica-electrónica y robótica: _Universidad Nacional de Transporte de Corea_, Chungju
 - 2023-2025 · Asesor técnico de procesos de electrodos: _empresa conjunta de celdas para vehículos eléctricos_, Yancheng, China. Participación en la preparación de una nueva línea para la producción en serie
 - 2021-2023 · Ingeniero de procesos de electrodos: _gran fabricante de baterías para vehículos eléctricos_, Seosan. Gestión de producción en serie

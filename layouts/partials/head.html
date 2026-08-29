@@ -82,11 +82,16 @@
   "@type" "Person"
   "@id" (printf "%s#person" .Site.BaseURL)
   "name" "Seunghoon Choi"
-  "alternateName" "최승훈"
+  "alternateName" (slice "최승훈" "Choi Seunghoon" "Seung-hoon Choi" "S. Choi")
+  "givenName" "Seunghoon"
+  "familyName" "Choi"
+  "identifier" (dict "@type" "PropertyValue" "propertyID" "ORCID" "value" "0009-0007-8324-2943")
   "url" .Site.BaseURL
   "jobTitle" "Computational Materials Scientist"
-  "alumniOf" (dict "@type" "Organization" "name" "Sungkyunkwan University")
-  "knowsAbout" (slice "Computational Materials Science" "Materials Engineering" "Density Functional Theory" "Machine Learning for Materials" "Bio-inspired Materials" "Battery Electrode Manufacturing" "Learning Science" "AI and the Future of Work" "Graduate Study Abroad" "Simulation")
+  "affiliation" (dict "@type" "CollegeOrUniversity" "name" "University of Florida" "url" "https://www.ufl.edu/")
+  "alumniOf" (dict "@type" "CollegeOrUniversity" "name" "Sungkyunkwan University" "url" "https://www.skku.edu/")
+  "knowsLanguage" (slice "ko" "en" "zh")
+  "knowsAbout" (slice "Computational Materials Science" "Materials Science and Engineering" "Density Functional Theory" "Machine Learning for Materials" "Microstructure and Interfaces" "Bio-inspired Materials" "Octopus-inspired Adhesion" "Soft Robotics" "Hydrogel Electrodes" "Wearable Biosignal Sensors" "Electromyography" "Lithium-ion Battery Electrode Manufacturing" "Electrode Coating and Calendering" "Learning Science" "AI and the Future of Work" "Graduate Study Abroad" "F-1 Student Visa" "U.S. Nonresident Alien Taxes" "Korean Naturalization Exam Preparation" "Simulation")
   "email" (printf "mailto:%s" .Site.Params.email)
   "image" ("images/og-default.png" | absURL)
   "description" .Site.Params.description

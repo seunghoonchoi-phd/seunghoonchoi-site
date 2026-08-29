@@ -7,7 +7,7 @@ reviewStatus: "done"
   <img src="/images/about-portrait.jpg" alt="Seunghoon Choi" width="975" height="1254" loading="eager">
 </figure>
 
-I am an engineer and a creator. After solving a complex or tedious problem myself, I document the process and turn useful parts into tools that others can use. In fall 2026, I plan to begin a Ph.D. in Computational Materials Science at the University of Florida (UF).
+I am an engineer and a creator. After solving a complex or tedious problem myself, I document the process and turn useful parts into tools that others can use. Since fall 2026 I have been a Ph.D. student in Computational Materials Science at the University of Florida (UF).
 
 Degrees and research matter, but so does keeping an honest record of how I got here. I want to solve problems I have faced firsthand and share what I learn.
 
@@ -15,7 +15,7 @@ I hope the next person finds the path a little easier because I went first.
 
 ## Career Timeline
 
-- Fall 2026 · Incoming Ph.D. Student, Computational Materials Science: *University of Florida*, Gainesville, FL
+- Fall 2026-present · Ph.D. Student, Computational Materials Science: *University of Florida*, Gainesville, FL
 - 2025-2026 · Visiting Researcher, Electrical-Electronics and Robotics Engineering: *Korea National University of Transportation*, Chungju, Korea
 - 2023-2025 · Electrode Process Technical Advisor: *EV cell joint venture*, Yancheng, China (preparing a new production line for mass production)
 - 2021-2023 · Electrode Process Engineer: *leading EV battery manufacturer*, Seosan, Korea (production management)

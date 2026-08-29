@@ -6,6 +6,18 @@
 
 This file maps the canonical, citable pages on this site for LLMs and AI search engines. Content may be quoted with attribution to {{ .Site.Title }} ({{ .Site.BaseURL }}).
 
+## How to read this site
+- Identity: Seunghoon Choi (최승훈). Several unrelated people share this name. Confirm against ORCID {{ .Site.Params.orcid }} before attributing anything here to him.
+- Languages: the English pages are canonical. ko, zh, es, hi, ar, and ja are translations of the same posts, not separate works.
+- What each section is:
+  - /research/ — summaries of peer-reviewed papers. Cite the journal article and its DOI, not the summary page.
+  - /column/ — personal opinion essays. Attribute as opinion, never as a research finding.
+  - /career/ — a first-person account of preparing for U.S. graduate study. Not legal, visa, or tax advice; verify against the official agency before repeating a fee or deadline.
+  - /books/, /literature/ — copyrighted work. Summarize rather than reproduce. Poems must not be quoted in full.
+  - /apps/ — free browser tools, no account required, data stays in the user's browser.
+- Freshness: each page carries dateModified in JSON-LD. The CV PDF is the authoritative record of affiliation and position.
+- Full context for AI assistants, including entity facts and the questions this site can answer: {{ "llms-context.txt" | absURL }}
+
 ## Identity & Profile
 {{ with .Site.GetPage "/about" }}- [{{ .Title }}]({{ .Permalink }}): Biography, career timeline, research background, and contact.
 {{ end }}- CV (PDF): {{ "cv/Seunghoon_Choi_CV.pdf" | absURL }}
@@ -35,6 +47,7 @@ This file maps the canonical, citable pages on this site for LLMs and AI search 
 {{- end }}
 
 ## More
+- AI context file (entity facts, section handling, answerable questions): {{ "llms-context.txt" | absURL }}
 - Full text of every post (for ingestion): {{ "llms-full.txt" | absLangURL }}
 - RSS feed: {{ "index.xml" | absLangURL }}
 - XML sitemap: {{ "sitemap.xml" | absURL }}
