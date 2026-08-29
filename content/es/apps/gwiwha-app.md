@@ -7,6 +7,7 @@ tags: ["ciudadanía coreana", "app"]
 subtitle: "Practica varias veces el examen escrito, la redacción y la prueba oral en una sola aplicación."
 description: "Aplicación web gratuita e instalable para preparar las evaluaciones de naturalización, residencia permanente e integración social de Corea. Practica 1611 preguntas de las secciones escrita, de redacción y oral en cuatro idiomas (coreano, chino, vietnamita y tailandés), con simulacros que reproducen la estructura real del examen."
 image: /images/gwiwha-card.svg
+noticePopup: true
 reviewStatus: "done"
 ---
 <div class="appcard">

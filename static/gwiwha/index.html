@@ -366,5 +366,122 @@
     })();
   </script>
 
+<!-- 귀화시험 앱 공지 팝업: 언어 전환 + 일주일 동안 보지 않기 -->
+<style>
+.scnotice{position:fixed;inset:0;z-index:9000;display:flex;align-items:center;justify-content:center;padding:24px;background:rgba(15,17,21,.5);-webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px)}
+.scnotice[hidden]{display:none}
+.scnotice__card{width:100%;max-width:460px;max-height:82vh;overflow:hidden;display:flex;flex-direction:column;background:#fff;border:1px solid #e5e8eb;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12);padding:20px;direction:ltr;text-align:left;font-family:'Pretendard Variable',Pretendard,-apple-system,BlinkMacSystemFont,system-ui,'Segoe UI','Apple SD Gothic Neo','Noto Sans KR',sans-serif;color:#191f28;line-height:1.6}
+.scnotice__langs{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}
+.scnotice__lang{padding:6px 11px;font:inherit;font-size:.76rem;font-weight:600;color:#6b7684;background:#f4f5f7;border:1px solid #e5e8eb;border-radius:9999px;cursor:pointer}
+.scnotice__lang:hover{border-color:rgba(49,130,246,.35)}
+.scnotice__lang--on{color:#fff;background:#3182f6;border-color:#3182f6}
+.scnotice__title{margin:0 0 10px;font-size:1.06rem;font-weight:700;line-height:1.45;text-align:left}
+.scnotice__body{overflow-y:auto}
+.scnotice__body p{margin:0 0 10px;font-size:.87rem;color:#4e5968;line-height:1.65}
+.scnotice__body p:last-child{margin-bottom:0}
+.scnotice__actions{display:flex;flex-shrink:0;gap:8px;margin-top:18px}
+.scnotice__btn{flex:1;padding:13px 14px;font:inherit;font-size:.9rem;font-weight:600;border-radius:12px;border:1px solid #e5e8eb;background:#f4f5f7;color:#4e5968;cursor:pointer}
+.scnotice__btn--primary{background:#3182f6;border-color:#3182f6;color:#fff}
+@media (max-width:380px){.scnotice__actions{flex-direction:column}}
+</style>
+<div class="scnotice" id="scNotice" role="dialog" aria-modal="true" aria-labelledby="scNoticeTitle" hidden>
+  <div class="scnotice__card" id="scNoticeCard" lang="ko">
+    <div class="scnotice__langs" id="scNoticeLangs"></div>
+    <h2 class="scnotice__title" id="scNoticeTitle"></h2>
+    <div class="scnotice__body" id="scNoticeBody"></div>
+    <div class="scnotice__actions">
+      <button type="button" class="scnotice__btn" id="scNoticeHide"></button>
+      <button type="button" class="scnotice__btn scnotice__btn--primary" id="scNoticeClose"></button>
+    </div>
+  </div>
+</div>
+<script>
+(function () {
+  var KEY = 'gwiwha_notice';
+  var NAME = { ko: '🇰🇷 한국어', en: 'English', zh: '🇨🇳 中文', vi: '🇻🇳 Tiếng Việt', th: '🇹🇭 ภาษาไทย' };
+  var NOTICE = {
+    id: '2026-08-29-scope',
+    days: 7,
+    title: {
+      ko: '이 앱을 쓰기 전에 알아두세요',
+      en: 'Before you use this app',
+      zh: '使用本应用前请先了解',
+      vi: 'Hãy đọc trước khi dùng ứng dụng này',
+      th: 'โปรดอ่านก่อนใช้แอปนี้'
+    },
+    body: {
+      ko: [
+        '이 앱은 제 와이프가 귀화시험을 준비하는 것을 돕기 위해 만들었습니다. 누구나 무료로 쓸 수 있게 열어 두었고, 회원가입도 받지 않습니다.',
+        '와이프는 아직 귀화시험을 치르지 않았고, 저 또한 시험을 내는 기관의 관계자도 아닙니다. 그래서 실제 시험에 정확히 어떤 문제가 나올지는 저도 알지 못합니다.',
+        '대신 모의고사와 문제를 최대한 많이 모으는 방법을 택했습니다. 넓게 많이 풀어 두면 시험장에서 처음 보는 문제를 만나도 답을 찾을 수 있습니다. 문제풀은 지속적으로 늘려서 출제확률을 높일 예정입니다.',
+        '시험 날짜, 응시 자격, 합격 기준 같은 공식 정보는 사회통합정보망(kiiptest.org)과 법무부 안내를 함께 확인해 주세요.'
+      ],
+      en: [
+        'I built this app to help my wife prepare for the Korean naturalization exam. It is free for anyone to use, and there is no sign-up.',
+        'My wife has not taken the exam yet, and I do not work for the agency that writes it. So I do not know exactly which questions the real exam will ask.',
+        'Instead, I chose to gather as many mock exams and questions as possible. If you practice widely and often, you can still work out the answer when an unfamiliar question comes up in the exam room. I keep adding questions so that more of what you meet on the day is already covered here.',
+        'For official information such as exam dates, eligibility, and passing standards, please also check the Social Integration Information Network (kiiptest.org) and the Ministry of Justice announcements.'
+      ],
+      zh: [
+        '这个应用是我为了帮助妻子准备归化考试而做的。我把它免费公开，任何人都可以使用，也不需要注册会员。',
+        '我妻子还没有参加过归化考试，我本人也不是出题机构的相关人员。所以实际考试究竟会出什么题，我同样无法知道。',
+        '因此我选择了另一种办法：尽可能多地收集模拟试题和题目。练得多、练得广，就算在考场上遇到没见过的题，也能找到答案。题库会持续扩充，以提高押中考题的概率。',
+        '考试日期、报考资格、合格标准等官方信息，请同时确认社会统合信息网(kiiptest.org)和法务部的公告。'
+      ],
+      vi: [
+        'Tôi làm ứng dụng này để giúp vợ tôi chuẩn bị cho kỳ thi nhập tịch. Tôi mở miễn phí cho mọi người dùng và không yêu cầu đăng ký thành viên.',
+        'Vợ tôi chưa dự kỳ thi nhập tịch, và tôi cũng không phải người của cơ quan ra đề. Vì vậy tôi cũng không biết chính xác đề thi thật sẽ hỏi những gì.',
+        'Thay vào đó, tôi chọn cách gom càng nhiều đề thi thử và câu hỏi càng tốt. Luyện nhiều và luyện rộng thì dù gặp câu hỏi lạ trong phòng thi, bạn vẫn tìm được đáp án. Tôi sẽ liên tục mở rộng kho câu hỏi để tăng khả năng trúng đề.',
+        'Với thông tin chính thức như ngày thi, điều kiện dự thi và tiêu chuẩn đậu, bạn hãy kiểm tra thêm tại Cổng thông tin Hội nhập xã hội (kiiptest.org) và thông báo của Bộ Tư pháp.'
+      ],
+      th: [
+        'ผมทำแอปนี้ขึ้นเพื่อช่วยภรรยาเตรียมสอบขอสัญชาติเกาหลี และเปิดให้ทุกคนใช้ฟรี โดยไม่ต้องสมัครสมาชิก',
+        'ภรรยาของผมยังไม่ได้เข้าสอบขอสัญชาติ และผมเองก็ไม่ใช่เจ้าหน้าที่ของหน่วยงานที่ออกข้อสอบ ดังนั้นผมจึงไม่ทราบว่าข้อสอบจริงจะออกอะไรบ้าง',
+        'ผมจึงเลือกวิธีรวบรวมข้อสอบจำลองและคำถามให้มากที่สุด ถ้าฝึกไว้มากและกว้าง ต่อให้เจอคำถามที่ไม่เคยเห็นในห้องสอบ ก็ยังหาคำตอบได้ ผมจะเพิ่มคลังคำถามอย่างต่อเนื่องเพื่อเพิ่มโอกาสที่จะตรงกับข้อสอบจริง',
+        'ข้อมูลทางการ เช่น วันสอบ คุณสมบัติผู้สมัคร และเกณฑ์ผ่าน โปรดตรวจสอบเพิ่มเติมที่เว็บไซต์ระบบข้อมูลการบูรณาการทางสังคม (kiiptest.org) และประกาศของกระทรวงยุติธรรมด้วย'
+      ]
+    },
+    hide: { ko: '일주일 동안 보지 않기', en: 'Do not show for a week', zh: '一周内不再显示', vi: 'Không hiện lại trong 1 tuần', th: 'ไม่แสดงอีกใน 1 สัปดาห์' },
+    close: { ko: '확인', en: 'Got it', zh: '知道了', vi: 'Đã hiểu', th: 'รับทราบ' }
+  };
+  var cur = NOTICE.title['ko'] ? 'ko' : 'ko';
+  var el = document.getElementById('scNotice');
+  if (!el) return;
+
+  function hidden() {
+    try {
+      var v = JSON.parse(localStorage.getItem(KEY) || 'null');
+      return !!(v && v.id === NOTICE.id && typeof v.until === 'number' && Date.now() < v.until);
+    } catch (e) { return false; }
+  }
+  function render() {
+    var l = cur;
+    document.getElementById('scNoticeLangs').innerHTML = Object.keys(NAME).map(function (k) {
+      return '<button type="button" class="scnotice__lang' + (k === l ? ' scnotice__lang--on' : '') + '" data-scnotice-lang="' + k + '" lang="' + k + '" aria-pressed="' + (k === l) + '">' + NAME[k] + '</button>';
+    }).join('');
+    document.getElementById('scNoticeCard').lang = l;
+    document.getElementById('scNoticeTitle').textContent = NOTICE.title[l];
+    document.getElementById('scNoticeBody').innerHTML = NOTICE.body[l].map(function (p) { return '<p>' + p + '</p>'; }).join('');
+    document.getElementById('scNoticeHide').textContent = NOTICE.hide[l];
+    document.getElementById('scNoticeClose').textContent = NOTICE.close[l];
+  }
+  function close(week) {
+    if (week) { try { localStorage.setItem(KEY, JSON.stringify({ id: NOTICE.id, until: Date.now() + NOTICE.days * 86400000 })); } catch (e) {} }
+    el.hidden = true;
+  }
+  document.getElementById('scNoticeLangs').addEventListener('click', function (e) {
+    var b = e.target.closest('[data-scnotice-lang]');
+    if (!b) return;
+    cur = b.getAttribute('data-scnotice-lang');
+    render();
+  });
+  document.getElementById('scNoticeHide').addEventListener('click', function () { close(true); });
+  document.getElementById('scNoticeClose').addEventListener('click', function () { close(false); });
+  el.addEventListener('click', function (e) { if (e.target === el) close(false); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !el.hidden) close(false); });
+
+  if (!hidden()) { render(); el.hidden = false; }
+})();
+</script>
 </body>
 </html>

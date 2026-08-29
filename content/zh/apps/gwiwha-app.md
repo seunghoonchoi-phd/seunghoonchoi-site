@@ -7,6 +7,7 @@ tags: ["入籍", "应用"]
 subtitle: "在一个应用里反复练习笔试、作文和口试。"
 description: "为准备韩国归化、永居和社会统合评价制作的免费可安装网页应用。用韩语、中文、越南语、泰语四种语言练习笔试、作文、口试共1,611道题，并按真实考试结构进行模拟考试。"
 image: /images/gwiwha-card.svg
+noticePopup: true
 reviewStatus: "done"
 ---
 

@@ -7,6 +7,7 @@ tags: ["帰化", "アプリ"]
 subtitle: "筆記・作文・口述を一か所で繰り返し練習できます。"
 description: "韓国の帰化・永住・社会統合評価の準備のために作った無料インストール型ウェブアプリです。筆記・作文・口述の全1,611問を、韓国語・中国語・ベトナム語・タイ語の4言語で練習でき、実際の試験構成そのままの模擬試験も受けられます。"
 image: /images/gwiwha-card.svg
+noticePopup: true
 reviewStatus: "done"
 ---
 <div class="appcard">

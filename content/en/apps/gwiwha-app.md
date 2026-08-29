@@ -7,6 +7,7 @@ tags: ["Korean citizenship", "app"]
 subtitle: "Practice the written, essay, and oral sections repeatedly in one place."
 description: "A free installable web app for preparing for Korea's naturalization, permanent residency, and social integration evaluations. Practice 1,611 questions across the written, essay, and oral sections in four languages (Korean, Chinese, Vietnamese, and Thai), with mock tests that mirror the real exam structure."
 image: /images/gwiwha-card.svg
+noticePopup: true
 reviewStatus: "done"
 ---
 <div class="appcard">

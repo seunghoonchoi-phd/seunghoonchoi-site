@@ -7,6 +7,7 @@ tags: ["귀화", "앱"]
 subtitle: "필기·작문·구술을 한 곳에서 반복해서 연습합니다."
 description: "대한민국 귀화·영주·사회통합 평가 준비를 위해 만든 무료 설치형 웹앱입니다. 객관식·작문·구술 1,611문항을 한국어·中文·Tiếng Việt·ภาษาไทย 4개 언어로 풀고, 실제 시험 구성 그대로 모의고사를 볼 수 있습니다."
 image: /images/gwiwha-card.svg
+noticePopup: true
 reviewStatus: "done"
 ---
 <div class="appcard">
