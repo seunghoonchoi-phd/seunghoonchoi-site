@@ -34,11 +34,7 @@ Antes pensaba que el small talk servía de poco. Seguir hablando sin mucho conte
 
 No hace falta que me haga amigo de alguien para conseguir algo de esa persona en el futuro. Puede que no volvamos a vernos nunca. Aun así, puedo desear que los pocos minutos que pasó hablando conmigo le hayan mejorado un poco el ánimo. Puedo saludar con más calidez a alguien que acabo de conocer, hacer una pregunta más porque de verdad siento curiosidad o decirle algo bueno que haya notado. No hace falta hacer nada extraordinario.
 
-Si tuviera que expresar con palabras la actitud con la que quiero tratar a la gente últimamente, sería esta.
-
-Si alguien quiere conocerme y seguir en contacto conmigo, me gustaría que haberme conocido acabara siendo una pequeña suerte en su vida. Si solo hemos hablado un momento, me gustaría que esa conversación le hiciera el día un poco más feliz.
-
-Cuando una relación se vuelve más profunda, lo que deseo para esa persona también se amplía de forma natural. Me resulte útil o no, simplemente quiero que su vida en conjunto vaya bien.
+Si tuviera que expresar con palabras la actitud con la que quiero tratar a la gente últimamente, sería esta. Si alguien quiere conocerme y seguir en contacto conmigo, me gustaría que haberme conocido acabara siendo una pequeña suerte en su vida. Si solo hemos hablado un momento, me gustaría que esa conversación le hiciera el día un poco más feliz. Cuando una relación se vuelve más profunda, lo que deseo para esa persona también se amplía de forma natural. Me resulte útil o no, simplemente quiero que su vida en conjunto vaya bien.
 
 Visto así, el small talk quizá no sea del todo inútil. Una conversación no tiene por qué servir siempre para crear una red o conseguir algo. Si incluso un intercambio breve puede hacer que la otra persona se sienta un poco mejor, ya tiene un valor propio.
 

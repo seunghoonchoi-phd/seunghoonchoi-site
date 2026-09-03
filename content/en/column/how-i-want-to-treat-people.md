@@ -34,11 +34,7 @@ I used to think small talk itself was mostly useless. A long conversation with l
 
 I do not have to become close to someone because I expect to get something from them later. I may never see that person again. Even so, I can hope that the few minutes they spent talking with me left them feeling a little better. I can greet a new person more warmly, ask one more question because I am genuinely curious, or simply say something when I notice a good quality in them. It does not have to be a grand gesture.
 
-If I had to put into words how I want to treat people these days, it would be this.
-
-If someone wants to know me, I hope knowing me turns out to be a piece of good fortune in their life. If we only talk for a moment, I hope that conversation makes their day a little happier.
-
-When a relationship becomes deeper, what I want for that person will naturally become broader. Whether or not the person is useful to me, I simply want their life as a whole to go well.
+If I had to put into words how I want to treat people these days, it would be this. If someone wants to know me, I hope knowing me turns out to be a piece of good fortune in their life. If we only talk for a moment, I hope that conversation makes their day a little happier. When a relationship becomes deeper, what I want for that person will naturally become broader. Whether or not the person is useful to me, I simply want their life as a whole to go well.
 
 Seen this way, small talk may not be entirely pointless. A conversation does not always have to create a network or produce some future benefit. If a short exchange can make someone feel a little better, that has value of its own.
 
