@@ -278,14 +278,14 @@ html[dir="rtl"] .home-hero__qr{right:auto;left:0}
   .nav__link,.nav__toggle{font-size:16.5px;padding-inline:9px}
   .langswitch{font-size:13.5px}
 }
-/* Spanish labels are substantially longer; switch only that locale to the
-   same accessible menu pattern before the centered header can overflow. */
+/* Spanish and Arabic labels are substantially longer; switch those locales to
+   the same accessible menu pattern before the centered header can overflow. */
 @media(max-width:1600px) and (min-width:921px){
-  body.lang-es .topbar{grid-template-columns:minmax(0,1fr) auto;padding-inline:24px;gap:10px}
-  body.lang-es .brand{grid-column:1;grid-row:1;width:100%;min-height:44px;overflow:hidden}
-  body.lang-es .topbar__right{grid-column:2;grid-row:1;justify-self:end;gap:8px}
-  body.lang-es .hamburger{display:flex;width:44px;height:44px;padding:10px}
-  body.lang-es .nav{
+  body.lang-es .topbar,body.lang-ar .topbar{grid-template-columns:minmax(0,1fr) auto;padding-inline:24px;gap:10px}
+  body.lang-es .brand,body.lang-ar .brand{grid-column:1;grid-row:1;width:100%;min-height:44px;overflow:hidden}
+  body.lang-es .topbar__right,body.lang-ar .topbar__right{grid-column:2;grid-row:1;justify-self:end;gap:8px}
+  body.lang-es .hamburger,body.lang-ar .hamburger{display:flex;width:44px;height:44px;padding:10px}
+  body.lang-es .nav,body.lang-ar .nav{
     position:fixed;
     inset:var(--header-h) 0 auto 0;
     flex-direction:column;
@@ -300,15 +300,15 @@ html[dir="rtl"] .home-hero__qr{right:auto;left:0}
     max-height:calc(100vh - var(--header-h));
     overflow-y:auto;
   }
-  body.lang-es .nav.is-open{transform:none}
-  body.lang-es .nav__link,body.lang-es .nav__toggle{width:100%;justify-content:space-between;font-size:16px;padding:13px 14px}
-  body.lang-es .nav__group{display:block;flex-direction:column;align-items:stretch}
-  body.lang-es .nav__caret{display:inline-flex;align-items:center;justify-content:center;margin-inline-start:auto;width:30px;height:30px;color:var(--trace-navy);font-size:0;line-height:1}
-  body.lang-es .nav__caret::before{content:"";width:12px;height:12px;border-right:2.5px solid currentColor;border-bottom:2.5px solid currentColor;transform:rotate(45deg) translate(-2px,-2px)}
-  body.lang-es .nav__menu{position:static;transform:none;opacity:1;visibility:visible;pointer-events:auto;display:none;background:var(--trace-surface);border:0;border-radius:10px;box-shadow:none;padding:0 0 6px;min-width:0}
-  body.lang-es .nav__group.is-open .nav__menu{display:flex}
-  body.lang-es .nav__sublink{padding:11px 28px;text-align:start;color:var(--trace-body)}
-  body.lang-es .nav__sublink.is-active{color:var(--trace-navy);background:rgba(13,27,76,.055)}
+  body.lang-es .nav.is-open,body.lang-ar .nav.is-open{transform:none}
+  body.lang-es .nav__link,body.lang-es .nav__toggle,body.lang-ar .nav__link,body.lang-ar .nav__toggle{width:100%;justify-content:space-between;font-size:16px;padding:13px 14px}
+  body.lang-es .nav__group,body.lang-ar .nav__group{display:block;flex-direction:column;align-items:stretch}
+  body.lang-es .nav__caret,body.lang-ar .nav__caret{display:inline-flex;align-items:center;justify-content:center;margin-inline-start:auto;width:30px;height:30px;color:var(--trace-navy);font-size:0;line-height:1}
+  body.lang-es .nav__caret::before,body.lang-ar .nav__caret::before{content:"";width:12px;height:12px;border-right:2.5px solid currentColor;border-bottom:2.5px solid currentColor;transform:rotate(45deg) translate(-2px,-2px)}
+  body.lang-es .nav__menu,body.lang-ar .nav__menu{position:static;transform:none;opacity:1;visibility:visible;pointer-events:auto;display:none;background:var(--trace-surface);border:0;border-radius:10px;box-shadow:none;padding:0 0 6px;min-width:0}
+  body.lang-es .nav__group.is-open .nav__menu,body.lang-ar .nav__group.is-open .nav__menu{display:flex}
+  body.lang-es .nav__sublink,body.lang-ar .nav__sublink{padding:11px 28px;text-align:start;color:var(--trace-body)}
+  body.lang-es .nav__sublink.is-active,body.lang-ar .nav__sublink.is-active{color:var(--trace-navy);background:rgba(13,27,76,.055)}
 }
 @media(max-width:920px){
   :root{--header-h:64px}

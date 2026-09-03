@@ -1,5 +1,5 @@
 ---
-title: "Cómo quiero tratar a los demás"
+title: "Últimamente he estado pensando en cómo trato a los demás"
 seoTitle: "Lo que pienso últimamente sobre el networking y las relaciones"
 date: 2026-09-03
 draft: false

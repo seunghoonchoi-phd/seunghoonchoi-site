@@ -1,6 +1,6 @@
 ---
-title: "How I Want to Treat People"
-seoTitle: "Networking and Relationships: How I Want to Treat People"
+title: "Some Thoughts I’ve Been Having Lately About How I Treat People"
+seoTitle: "Recent Thoughts on Networking and Relationships"
 date: 2026-09-03
 draft: false
 categories: ["Essay"]
