@@ -57,6 +57,8 @@ other = "浏览"
 other = "正在阅读中文"
 [switch_lang]
 other = "한국어"
+[ai_site_guide]
+other = "AI 网站指南"
 [footer_rights]
 other = "保留所有权利。"
 [search_placeholder]

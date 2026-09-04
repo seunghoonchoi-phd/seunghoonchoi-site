@@ -57,6 +57,8 @@ other = "Explorar"
 other = "Leyendo en español"
 [switch_lang]
 other = "한국어"
+[ai_site_guide]
+other = "Guía del sitio para IA"
 [footer_rights]
 other = "Todos los derechos reservados."
 [search_placeholder]

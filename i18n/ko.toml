@@ -79,6 +79,8 @@ other = "둘러보기"
 other = "한국어로 보는 중"
 [switch_lang]
 other = "English"
+[ai_site_guide]
+other = "AI용 사이트 안내"
 [footer_rights]
 other = "모든 권리를 보유합니다."
 [search_placeholder]

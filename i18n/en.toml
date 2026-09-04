@@ -81,6 +81,8 @@ other = "Reading in English"
 other = "한국어"
 [footer_rights]
 other = "All rights reserved."
+[ai_site_guide]
+other = "Site guide for AI"
 [search_placeholder]
 other = "Search…"
 [search_label]

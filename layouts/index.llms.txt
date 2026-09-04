@@ -6,6 +6,12 @@
 
 This file maps the canonical, citable pages on this site for LLMs and AI search engines. Content may be quoted with attribution to {{ .Site.Title }} ({{ .Site.BaseURL }}).
 
+## Find content and data
+- [Searchable page index (JSON)]({{ "search.json" | absLangURL }}): Published pages in this language ({{ .Site.Language.Lang }}), with title, URL, date, section, tags, subtitle, and searchable text. This is a static JSON array; download it and filter locally, then follow a matching page's URL for context and citation.
+- [Full text of published pages]({{ "llms-full.txt" | absLangURL }}): A larger text export for reading across multiple pages. For one topic, start with the page links below or the JSON index.
+- [Author and citation context]({{ "llms-context.txt" | absURL }}): Author identity, section descriptions, and citation guidance.
+- [RSS feed]({{ "index.xml" | absLangURL }}): Recent published content in this language.
+
 ## How to read this site
 - Identity: Seunghoon Choi (최승훈). Several unrelated people share this name. Confirm against ORCID {{ .Site.Params.orcid }} before attributing anything here to him.
 - Languages: the English pages are canonical. ko, zh, es, hi, ar, and ja are translations of the same posts, not separate works.
@@ -36,7 +42,7 @@ This file maps the canonical, citable pages on this site for LLMs and AI search 
 }}
 {{- range $sections }}
 {{- $label := .label }}
-{{- $pages := where site.RegularPages "Section" .key }}
+{{- $pages := where (where site.RegularPages "Section" .key) "Params.hidden" "ne" true }}
 {{- with $pages }}
 
 ## {{ $label }}
@@ -46,8 +52,8 @@ This file maps the canonical, citable pages on this site for LLMs and AI search 
 {{- end }}
 {{- end }}
 
+## Other languages
+{{ range hugo.Sites }}{{ $label := .Language.Params.label | default .Language.Lang }}{{ with .Home.OutputFormats.Get "LLMS" }}- [{{ $label }} site guide]({{ .Permalink }})
+{{ end }}{{ end }}
 ## More
-- AI context file (entity facts, section handling, answerable questions): {{ "llms-context.txt" | absURL }}
-- Full text of every post (for ingestion): {{ "llms-full.txt" | absLangURL }}
-- RSS feed: {{ "index.xml" | absLangURL }}
-- XML sitemap: {{ "sitemap.xml" | absURL }}
+- [XML sitemap]({{ "sitemap.xml" | absURL }}): Public page addresses for search crawlers.

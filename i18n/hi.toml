@@ -79,6 +79,8 @@ other = "देखें"
 other = "हिंदी में"
 [switch_lang]
 other = "한국어"
+[ai_site_guide]
+other = "AI के लिए साइट गाइड"
 [footer_rights]
 other = "सर्वाधिकार सुरक्षित।"
 [search_placeholder]

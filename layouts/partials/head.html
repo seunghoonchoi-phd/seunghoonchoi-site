@@ -68,6 +68,8 @@
 {{ $traceCss := resources.Get "css/first-trace-preview.css" | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $traceCss.RelPermalink }}">
 {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">{{ end }}
+{{- /* Standard discovery relation recommended by llmstxt.org; works without JavaScript. */ -}}
+{{ with .Site.Home.OutputFormats.Get "LLMS" }}<link rel="describedby" type="text/plain" title="{{ i18n "ai_site_guide" }}" href="{{ .Permalink }}">{{ end }}
 {{- /* Structured data (schema.org) — one disambiguated Person, reused as author everywhere */ -}}
 {{ $same := slice }}
 {{ with .Site.Params.linkedin }}{{ $same = $same | append . }}{{ end }}

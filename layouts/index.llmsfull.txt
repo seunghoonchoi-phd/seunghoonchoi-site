@@ -4,6 +4,9 @@
 > {{ with .Site.Params.role }}{{ . }}. {{ end }}{{ .Site.Params.description }}
 
 Source: {{ .Site.BaseURL }} — content may be quoted with attribution to {{ .Site.Title }}.
+
+- [Site guide and page links]({{ "llms.txt" | absLangURL }})
+- [Searchable page index (JSON)]({{ "search.json" | absLangURL }})
 {{ range sort site.RegularPages "Date" "desc" }}
 {{ if and (not .Params.hidden) (not (in (slice "incomplete") .Section)) }}
 ================================================================================

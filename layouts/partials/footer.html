@@ -8,6 +8,7 @@
       <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
       <a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">LinkedIn ↗</a>
       <a href="{{ "youtube/" | relLangURL }}">{{ i18n "youtube" }}</a>
+      {{ with .Site.Home.OutputFormats.Get "LLMS" }}<a href="{{ .RelPermalink }}" type="text/plain">{{ i18n "ai_site_guide" }}</a>{{ end }}
     </div>
     <div class="foot__legal"><a href="{{ "admin/" | relURL }}" title="{{ i18n "admin_panel" }}">© {{ now.Year }} {{ .Site.Title }}. {{ i18n "footer_rights" }}</a></div>
   </div>

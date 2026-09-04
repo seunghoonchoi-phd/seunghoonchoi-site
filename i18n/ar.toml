@@ -79,6 +79,8 @@ other = "تصفّح"
 other = "تقرأ بالعربية"
 [switch_lang]
 other = "한국어"
+[ai_site_guide]
+other = "دليل الموقع للذكاء الاصطناعي"
 [footer_rights]
 other = "جميع الحقوق محفوظة."
 [search_placeholder]

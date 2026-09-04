@@ -79,6 +79,8 @@ other = "見てまわる"
 other = "日本語で閲覧中"
 [switch_lang]
 other = "한국어"
+[ai_site_guide]
+other = "AI向けサイトガイド"
 [footer_rights]
 other = "無断転載を禁じます。"
 [search_placeholder]
