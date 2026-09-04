@@ -4,7 +4,7 @@ seoTitle: "Lo que pienso últimamente sobre el networking y las relaciones"
 date: 2026-09-03
 draft: false
 categories: ["Ensayo"]
-tags: ["relaciones", "networking", "sinceridad", "crecimiento", "negocios", "fe"]
+tags: ["relaciones", "networking", "sinceridad", "crecimiento", "negocios"]
 subtitle: "Me importa menos conocer a mucha gente que conseguir que incluso una conversación breve deje a la otra persona un poco mejor."
 description: "Lo que observar la cultura del networking en Estados Unidos me hizo pensar sobre interesarme de verdad por los demás, desarrollar la capacidad de ayudar y buscar el éxito sin perder la calidez."
 image: /images/col-how-i-want-to-treat-people.jpg
@@ -81,16 +81,6 @@ Por supuesto, eso no significa que yo vaya a aceptar todas las pérdidas. Debo c
 Lo mismo ocurre con el small talk. Si creo un negocio, conoceré y hablaré con muchas más personas, pero no necesito convertir cada conversación en un proceso para utilizar a alguien. Si vamos a hablar de todos modos, puedo hacerlo deseando que esa persona termine la conversación con un ánimo un poco mejor. Y si luego descubrimos que nos entendemos y encontramos algo que vale la pena hacer juntos, también será algo bueno.
 
 De hecho, una persona competente, que consigue buenos resultados al trabajar con otros y que además los trata con sinceridad, puede ser muy fuerte en los negocios. No creo que haya que elegir entre sinceridad y negocio, ni entre calidez y éxito.
-
-## Entiendo mejor por qué voy a la iglesia
-
-El problema es que mantener esta actitud no es fácil. Por supuesto, yo tampoco viviré así todos los días. A veces la gente me resultará agotadora, querré más dinero y, al competir, habrá momentos en los que ganar me importe más que desear que al otro le vaya bien. Cuando mi propio trabajo se acumule, incluso interesarme por alguien más puede parecerme una molestia.
-
-Probablemente me bastará una semana para desviarme un poco de la dirección que ahora tengo en mente. Por eso, últimamente pienso que ir a la iglesia quizá también tenga este sentido para mí: volver a ajustar una vez por semana la brújula que llevo dentro.
-
-No estoy diciendo que pueda vivir como Jesús. Solo miro cómo trataba Jesús a las personas y recuerdo en qué dirección había querido vivir yo. Entre esas cosas, quiero aprender especialmente a interesarme de verdad por los demás y desear que les vaya bien.
-
-Si durante la semana vuelvo a pensar solo en lo mío y a medir a la gente por lo que puede ofrecerme, puedo corregir la dirección otra vez. Después intento vivir una semana más.
 
 Quiero tener éxito. Quiero hacer buena investigación, ganar mucho dinero y crear un negocio. Quiero ser una persona competente e influyente. Pero no creo que para lograrlo tenga que abandonar también la calidez con la que trato a los demás.
 

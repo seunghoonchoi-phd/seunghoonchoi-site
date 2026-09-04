@@ -4,7 +4,7 @@ seoTitle: "Recent Thoughts on Networking and Relationships"
 date: 2026-09-03
 draft: false
 categories: ["Essay"]
-tags: ["relationships", "networking", "sincerity", "growth", "business", "faith"]
+tags: ["relationships", "networking", "sincerity", "growth", "business"]
 subtitle: "Knowing more people matters less to me than hoping even a brief conversation leaves someone feeling a little better."
 description: "What watching American networking culture taught me about caring for people, building the ability to offer real help, and pursuing success without giving up warmth."
 image: /images/col-how-i-want-to-treat-people.jpg
@@ -81,16 +81,6 @@ Of course, that does not mean I intend to absorb every loss. I should charge wha
 The same applies to small talk. If I run a business, I will meet and speak with many more people, but I do not have to turn every conversation into a process for using someone. If we are going to talk anyway, I can hope that the person feels a little better afterward. If we happen to understand each other and find something worth doing together, that is good too.
 
 In fact, someone who is capable, produces good results with others, and also treats people with genuine care may be very strong in business. I do not think I have to choose between sincerity and business, or between warmth and success.
-
-## I think I understand church a little better now
-
-The difficulty is that maintaining this attitude is not easy. I certainly will not live this way every day. Sometimes people will feel tiresome. I will want more money. When I am competing, winning may matter more to me than hoping the other person does well. When my own work becomes busy, even taking an interest in someone else may feel like a burden.
-
-After only a week, I will probably have drifted a little from the direction I have in mind now. Lately, I have wondered whether this is part of what going to church means for me: resetting my inner compass once a week.
-
-I am not saying that I can live like Jesus. I simply look at how Jesus treated people and remember the direction in which I once wanted to live. In particular, I want to learn from his genuine interest in other people and his desire for them to do well.
-
-If I have spent the week thinking only about what is mine and measuring people by what they can offer me, I can set my direction again. Then I try to live another week.
 
 I want to succeed. I want to do good research, make a lot of money, and build a business. I want to become capable and influential. But I do not think I need to give up treating people warmly along the way.
 
