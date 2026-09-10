@@ -14,8 +14,8 @@
   <script>window.SC={author:{{ i18n "author_name" }},srcLabel:{{ i18n "copy_source" }},title:{{ .Title }},url:{{ .Permalink }},adminIncomplete:{{ i18n "admin_incomplete" }},reviewPending:{{ i18n "review_pending" }},reviewing:{{ i18n "reviewing" }},reviewComplete:{{ i18n "review_complete" }},reviewPrivateTitle:{{ i18n "review_private_title" }}};</script>
   {{ $js := resources.Get "js/main.js" | resources.Minify | resources.Fingerprint }}
   <script src="{{ $js.RelPermalink }}" defer></script>
-  {{ if .IsHome }}{{ $traceJS := resources.Get "js/first-trace-preview.js" | resources.Minify | resources.Fingerprint }}
-  <script src="{{ $traceJS.RelPermalink }}" defer></script>{{ end }}
+  {{ if .IsHome }}{{ $homeJS := resources.Get "js/home-motion.js" | resources.Minify | resources.Fingerprint }}
+  <script src="{{ $homeJS.RelPermalink }}" defer></script>{{ end }}
   {{ $webmcpJS := resources.Get "js/webmcp.js" | resources.Minify | resources.Fingerprint }}
   <script src="{{ $webmcpJS.RelPermalink }}" defer data-search-index="{{ "search.json" | relLangURL }}" data-llms="{{ "llms.txt" | relLangURL }}"></script>
   {{ partial "inline-edit.html" . }}

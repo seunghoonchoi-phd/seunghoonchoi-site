@@ -65,8 +65,6 @@
 {{ if .IsHome }}<script>document.documentElement.classList.add("trace-motion");window.__traceMotionFallback=window.setTimeout(function(){document.documentElement.classList.remove("trace-motion")},2400);</script>{{ end }}
 {{ $css := resources.Get "css/main.css" | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
-{{ $traceCss := resources.Get "css/first-trace-preview.css" | resources.Minify | resources.Fingerprint }}
-<link rel="stylesheet" href="{{ $traceCss.RelPermalink }}">
 {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">{{ end }}
 {{- /* Standard discovery relation recommended by llmstxt.org; works without JavaScript. */ -}}
 {{ with .Site.Home.OutputFormats.Get "LLMS" }}<link rel="describedby" type="text/plain" title="{{ i18n "ai_site_guide" }}" href="{{ .Permalink }}">{{ end }}
