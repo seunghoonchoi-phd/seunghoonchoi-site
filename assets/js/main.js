@@ -423,53 +423,14 @@
     });
   }
 
-  /* Cite-this copy button */
-  var citeBtn = document.querySelector("[data-cite-copy]");
-  var citeText = document.getElementById("cite-text");
-  if (citeBtn && citeText) {
-    citeBtn.addEventListener("click", function () {
-      var t = (citeText.textContent || "").trim();
-      var done = function () {
-        var orig = citeBtn.getAttribute("data-label") || citeBtn.textContent;
-        citeBtn.setAttribute("data-label", orig);
-        citeBtn.textContent = citeBtn.getAttribute("data-copied") || "Copied";
-        setTimeout(function () { citeBtn.textContent = orig; }, 1600);
-      };
-      if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(t).then(done, done);
-      } else {
-        var ta = document.createElement("textarea");
-        ta.value = t; ta.style.position = "fixed"; ta.style.opacity = "0";
-        document.body.appendChild(ta); ta.select();
-        try { document.execCommand("copy"); } catch (err) {}
-        document.body.removeChild(ta); done();
-      }
-    });
-  }
-
   /* Copy email — contact / collaborate button */
   var emailBtn = document.querySelector("[data-copy-email]");
-  var emailToast = document.querySelector("[data-copy-toast]");
   if (emailBtn) {
     emailBtn.addEventListener("click", function () {
       var email = emailBtn.getAttribute("data-copy-email") || "";
       var msg = emailBtn.getAttribute("data-copied") || "Copied";
-      var show = function () {
-        if (!emailToast) return;
-        emailToast.textContent = email + " · " + msg;
-        emailToast.classList.add("is-shown");
-        clearTimeout(emailToast._t);
-        emailToast._t = setTimeout(function () { emailToast.classList.remove("is-shown"); }, 2600);
-      };
-      if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(email).then(show, show);
-      } else {
-        var ta = document.createElement("textarea");
-        ta.value = email; ta.style.position = "fixed"; ta.style.opacity = "0";
-        document.body.appendChild(ta); ta.select();
-        try { document.execCommand("copy"); } catch (err) {}
-        document.body.removeChild(ta); show();
-      }
+      copyTextBestEffort(email);
+      showCopyToast(email + " · " + msg);
     });
   }
 

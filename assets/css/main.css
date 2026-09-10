@@ -28,8 +28,6 @@ img{max-width:100%;height:auto}
 .topbar{position:sticky;top:0;z-index:50;height:var(--header-h);display:grid;grid-template-columns:minmax(max-content,1fr) auto minmax(max-content,1fr);align-items:center;gap:24px;
   padding:0 clamp(20px,5vw,56px);background:rgba(248,246,243,.86);backdrop-filter:blur(10px);border-bottom:1px solid var(--hair)}
 .brand{display:flex;align-items:center;gap:12px;justify-self:start;min-width:0;white-space:nowrap}
-.brand__mark{font-family:var(--serif-en);font-weight:700;font-size:18px;color:var(--navy);
-  width:40px;height:40px;display:grid;place-items:center;border:1.5px solid var(--navy);border-radius:50%}
 .brand__name{font-family:var(--serif-en);font-size:23px;font-weight:600;line-height:1.05;color:var(--ink);white-space:nowrap;word-break:normal;overflow-wrap:normal}
 .brand__logo{width:44px;height:44px;display:block;filter:drop-shadow(0 1px 1.5px rgba(13,27,76,.22));transition:transform .4s var(--ease)}
 .brand:hover .brand__logo{transform:rotate(45deg)}
@@ -95,28 +93,13 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
 .muted{color:var(--muted);font-style:italic}
 
 /* ---------- Hero (home) ---------- */
-.hero{position:relative;max-width:var(--maxw);margin:0 auto;padding:clamp(56px,9vw,120px) clamp(20px,5vw,56px) clamp(40px,6vw,72px);overflow:hidden}
-.hero__molecule{position:absolute;top:48%;right:-6%;transform:translateY(-50%);width:min(54vw,560px);height:min(54vw,560px);opacity:.45;pointer-events:none;z-index:0}
-.mol line{stroke:var(--navy);stroke-width:1;opacity:.28}
-.mol circle{fill:none;stroke:var(--navy);stroke-width:1.4;opacity:.5;animation:pulse 5s var(--ease) infinite}
-.mol circle:nth-child(even){animation-delay:1.6s}
-.mol circle.mol__cu{stroke:var(--copper);fill:var(--copper);opacity:.55}
-@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.16)}}
-.hero__inner{position:relative;z-index:1;max-width:720px}
 .eyebrow{display:flex;align-items:center;gap:14px;margin-bottom:22px;font-size:15px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--copper)}
 .eyebrow__rule{width:42px;height:1.5px;background:var(--copper)}
-.hero__name{font-family:var(--serif);font-weight:700;font-size:clamp(48px,9vw,104px);line-height:.95;letter-spacing:-.02em;color:var(--navy);margin-bottom:18px}
 .hero__name-accent{color:var(--copper)}
-.hero__tagline{font-family:var(--serif);font-style:italic;font-size:clamp(19px,2.8vw,27px);color:var(--navy);margin-bottom:22px}
-.hero__intro{font-size:18px;color:var(--ink-soft);max-width:640px}
-.hero__intro p{margin-bottom:.8em}
 .stats{display:flex;flex-wrap:wrap;justify-content:center;gap:clamp(22px,5vw,52px);margin-top:32px}
 .stat{display:flex;flex-direction:column;align-items:center;gap:3px}
 .stat__num{font-family:var(--serif-en);font-weight:600;font-size:clamp(30px,4vw,42px);color:var(--copper);line-height:1}
 .stat__label{font-size:12px;line-height:1.15;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);white-space:nowrap;word-break:normal;overflow-wrap:normal}
-
-/* ---------- Home sections ---------- */
-.home-sec{max-width:var(--maxw);margin:0 auto;padding:clamp(36px,5vw,60px) clamp(20px,5vw,56px);border-top:1px solid var(--hair)}
 
 /* ---------- Cards ---------- */
 .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
@@ -843,7 +826,6 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
 }
 @media (max-width:760px){
   .cards,.cards--list{grid-template-columns:1fr}
-  .hero__molecule{opacity:.22;right:-25%}
 }
 @media (prefers-reduced-motion:reduce){
   *{animation:none!important;scroll-behavior:auto}
@@ -877,8 +859,6 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
 
 /* ---------- Typographic color & richness ---------- */
 .section__title{color:var(--navy)}
-.home-sec .section__title{color:var(--navy)}
-.contact__title{color:var(--navy)}
 /* rich markdown content (section intros in .lede + posts in .post__body) */
 .lede h2,.post__body h2{font-family:var(--serif);font-weight:600;font-size:clamp(23px,2.8vw,30px);color:var(--navy);letter-spacing:-.01em;margin:1.8em 0 .55em;padding-bottom:.32em;border-bottom:1px solid var(--hair)}
 .lede h3,.post__body h3{font-family:var(--serif);font-weight:600;font-size:20px;color:var(--ink);margin:1.4em 0 .4em}
@@ -1105,21 +1085,19 @@ html[dir="rtl"] .post__body p img[src*="about-portrait"]{float:left;margin:.15em
 .post__body:has(img[src*="about-portrait"]) h2{clear:both}
 /* card titles pick up copper on hover (brand accent) */
 .card__title a:hover{color:var(--copper)}
-.tl__body h4{color:var(--navy)}
 
 /* ---------- Korean-native typography (no Latin italics / serif) ---------- */
 :root{--sans-ko:"Noto Sans KR","Noto Sans",sans-serif}
 body.lang-ko{--serif:var(--sans-ko);--sans:var(--sans-ko)}
 body.lang-zh{--serif:"Noto Sans SC","Noto Sans",sans-serif;--sans:"Noto Sans SC","Noto Sans",sans-serif}
-body.lang-ko .hero__tagline,body.lang-ko .post__subtitle,body.lang-ko blockquote,
+body.lang-ko .post__subtitle,body.lang-ko blockquote,
 body.lang-ko em,body.lang-ko i,body.lang-ko .lede em,body.lang-ko .post__body em,
 body.lang-ko .lede blockquote,body.lang-ko .post__body blockquote{font-style:normal}
-body.lang-ko .hero__tagline{font-weight:600}
 body.lang-ko em,body.lang-ko .lede em,body.lang-ko .post__body em{color:var(--copper);font-weight:600}
 /* Latin wordmark + numbers use the English serif (Playfair) on the ko site too */
-body.lang-ko .hero__name,body.lang-ko .brand__name,body.lang-ko .brand__mark,body.lang-ko .stat__num{font-family:var(--serif-en)}
-body.lang-ko .section__title,body.lang-ko .post__title,body.lang-ko .contact__title,
-body.lang-ko .card__title,body.lang-ko .featured__title,body.lang-ko .pinned__title,
+body.lang-ko .brand__name,body.lang-ko .stat__num{font-family:var(--serif-en)}
+body.lang-ko .section__title,body.lang-ko .post__title,
+body.lang-ko .card__title,body.lang-ko .pinned__title,
 body.lang-ko .lede h2,body.lang-ko .post__body h2{font-weight:700;letter-spacing:-.02em}
 body.lang-ko .post__title,body.lang-ko .post__subtitle{word-break:keep-all;overflow-wrap:break-word}
 body.lang-ko .appcard__body h3{word-break:keep-all;overflow-wrap:break-word}
@@ -1127,8 +1105,8 @@ body.lang-ja .post__title,body.lang-ja .post__subtitle,
 body.lang-zh .post__title,body.lang-zh .post__subtitle,
 body.lang-ja .appcard__body h3,body.lang-zh .appcard__body h3{word-break:normal;line-break:strict;overflow-wrap:normal;word-break:auto-phrase;text-wrap:balance}
 body.lang-ja .post__body,body.lang-zh .post__body{word-break:normal;line-break:strict;overflow-wrap:normal}
-body.lang-ko .lede h3,body.lang-ko .post__body h3,body.lang-ko .tl__body h4{font-weight:600;letter-spacing:-.01em}
-body.lang-ko .eyebrow,body.lang-ko .stat__label,body.lang-ko .subhead,body.lang-ko .appcard__free,body.lang-ko .featured__tag,body.lang-ko .pinned__tag{letter-spacing:.01em}
+body.lang-ko .lede h3,body.lang-ko .post__body h3{font-weight:600;letter-spacing:-.01em}
+body.lang-ko .eyebrow,body.lang-ko .stat__label,body.lang-ko .appcard__free,body.lang-ko .pinned__tag{letter-spacing:.01em}
 body.lang-ko .nav__link{font-weight:500}
 
 /* ---------- App promo card: keep light text inside .post__body ---------- */
@@ -1151,35 +1129,6 @@ body.lang-ko .poem p{word-break:keep-all}
 .post__author{color:var(--muted)}
 .post__author a{color:var(--copper);border-bottom:1px solid transparent}
 .post__author a:hover{border-bottom-color:var(--copper)}
-.cite{margin:52px 0 4px;padding:20px 22px;border:1px solid var(--hair);border-left:3px solid var(--copper);background:var(--paper-2);border-radius:4px}
-.cite__head{font-size:.8rem;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
-.cite__text{color:var(--ink-soft);font-size:.92rem;line-height:1.65;margin:0 0 14px;word-break:break-word}
-.cite__btn{font:inherit;font-size:.85rem;color:var(--navy);background:transparent;border:1px solid var(--navy-soft);border-radius:3px;padding:6px 14px;cursor:pointer;transition:background .15s,color .15s}
-.cite__btn:hover{background:var(--navy);color:#fff}
-body.lang-ko .cite__text{word-break:keep-all}
-
-/* ---------- Home: selected research strip ---------- */
-.home-research{margin:8px 0 4px}
-.home-research__more{display:inline-block;font-size:.82rem;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin:0 0 14px;border-bottom:0}
-.home-research__more:hover{color:var(--copper)}
-.home-research__grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
-.rfig{display:block;border-bottom:0;position:relative;border-radius:6px;overflow:hidden;background:var(--paper-2)}
-.rfig img{width:100%;aspect-ratio:4/3;object-fit:cover;display:block;transition:transform .45s ease}
-.rfig:hover img{transform:scale(1.04)}
-.rfig__cap{position:absolute;left:0;right:0;bottom:0;padding:18px 12px 10px;font-size:.86rem;color:#fff;background:linear-gradient(transparent,rgba(13,27,76,.85))}
-@media(max-width:680px){.home-research__grid{grid-template-columns:1fr}}
-
-/* ---------- Home: site directory (what's here, at a glance) ---------- */
-.home-dir{margin:8px 0 36px}
-.home-dir__grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
-.dircard{display:flex;flex-direction:column;gap:5px;padding:18px 20px;border:1px solid var(--hair);border-radius:9px;background:var(--paper-2);position:relative;transition:border-color .2s,transform .2s,box-shadow .2s}
-.dircard:hover{border-color:var(--copper);transform:translateY(-2px);box-shadow:var(--shadow)}
-.dircard__label{font-size:1.22rem;font-weight:700;color:var(--navy);letter-spacing:-.01em}
-.dircard__desc{font-size:.9rem;color:var(--ink-soft);line-height:1.45}
-.dircard__arrow{position:absolute;top:17px;right:18px;color:var(--muted);transition:color .2s,transform .25s}
-.dircard:hover .dircard__arrow{color:var(--copper);transform:translateX(3px)}
-@media(max-width:760px){.home-dir__grid{grid-template-columns:1fr 1fr}}
-@media(max-width:460px){.home-dir__grid{grid-template-columns:1fr}}
 
 /* ---------- Home: hero (identity only, first screen) ---------- */
 .home-hero{position:relative;max-width:var(--maxw);margin:0 auto;padding:clamp(36px,6vw,72px) clamp(20px,5vw,56px) clamp(48px,7vw,88px);min-height:calc(85vh - var(--header-h));display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center}
@@ -1189,13 +1138,10 @@ body.lang-ko .cite__text{word-break:keep-all}
 .home-hero__intro{font-size:clamp(1.08rem,2vw,1.36rem);color:var(--ink-soft);line-height:1.45;max-width:min(760px,100%);margin:0 auto}
 .home-hero__intro p{margin:0}
 .home-hero__intro .stats{margin-top:clamp(24px,4.5vw,44px)}
-.home-hero__cta{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:26px}
 .btn{display:inline-flex;align-items:center;font-family:"Kumbh Sans","Gothic A1",var(--sans);font-size:15px;font-weight:600;letter-spacing:.02em;padding:13px 30px;border-radius:999px;transition:transform .15s,background .2s,border-color .2s}
 .btn:hover{transform:translateY(-2px)}
 .btn--primary{background:var(--navy);color:#fff}
 .btn--primary:hover{background:var(--navy-soft)}
-.btn--ghost{background:transparent;color:var(--navy);border:1.5px solid var(--hair)}
-.btn--ghost:hover{border-color:var(--navy)}
 @media(max-width:560px){.home-hero__name{font-size:clamp(2.6rem,12vw,3.6rem)}}
 /* ---------- Home: full content (clean paper, scroll-reveal) ---------- */
 .home-full{position:relative;z-index:1;background:var(--paper);border-top:1px solid var(--hair)}
@@ -1294,27 +1240,6 @@ html[dir="rtl"] .home-hero__qr{right:auto;left:calc(608px - 50vw);padding:10px 1
   .home-hero__cv{gap:0 6px}
   .home-hero__cv a,.home-hero__contact{font-size:11px}
 }
-/* FAQ block (front-matter `faq` → FAQPage schema + visible accordion) */
-.post__faq{margin:48px 0 0;padding-top:26px;border-top:1px solid var(--hair)}
-.post__faq-h{font-family:var(--sans);font-weight:700;font-size:1.15rem;color:var(--navy);margin:0 0 16px}
-.post__faq-item{border:1px solid var(--hair);border-radius:8px;padding:0 16px;margin:0 0 10px;background:var(--paper-2)}
-.post__faq-item summary{cursor:pointer;font-weight:600;color:var(--navy);padding:14px 0;list-style:none}
-.post__faq-item summary::-webkit-details-marker{display:none}
-.post__faq-item summary::before{content:"+";color:var(--copper);font-weight:700;margin-right:10px}
-.post__faq-item[open] summary::before{content:"–"}
-.post__faq-a{padding:0 0 16px;color:var(--ink-soft);line-height:1.7}
-.post__faq-a p{margin:0 0 .6em}
-.post__faq-a p:last-child{margin-bottom:0}
-/* Author authority box — E-E-A-T signal under every post */
-.post__authorbox{margin:48px 0 0;padding:22px 24px;border:1px solid var(--hair);border-left:3px solid var(--copper);border-radius:6px;background:var(--paper-2)}
-.post__authorbox-label{font-size:.74rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:6px}
-.post__authorbox-name{display:inline-block;font-family:var(--sans);font-size:1.25rem;font-weight:700;color:var(--navy);text-decoration:none}
-.post__authorbox-name:hover{color:var(--copper)}
-.post__authorbox-bio{color:var(--ink-soft);font-size:.92rem;line-height:1.65;margin:8px 0 14px}
-.post__authorbox-links{display:flex;flex-wrap:wrap;gap:16px}
-.post__authorbox-links a{color:var(--copper);font-size:.88rem;font-weight:500;text-decoration:none}
-.post__authorbox-links a:hover{text-decoration:underline}
-body.lang-ko .post__faq-a,body.lang-ko .post__authorbox-bio{word-break:keep-all}
 
 @media(max-width:760px){
   /* On touch, dropdown submenus are always expanded inline. When a header is tapped

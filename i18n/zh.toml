@@ -4,8 +4,6 @@ other = "研究成果"
 # parent dropdown labels
 [writing]
 other = "文章与书"
-[resources]
-other = "资料"
 # leaf sections
 [column]
 other = "专栏"
@@ -25,16 +23,12 @@ other = "关于"
 # UI
 [home]
 other = "首页"
-[latest]
-other = "最新文章"
 [read_more]
 other = "查看详情"
 [view_all]
 other = "查看全部"
 [no_posts]
 other = "暂时没有公开内容。"
-[posted_on]
-other = "发布日期"
 [categories]
 other = "分类"
 [tags]
@@ -43,20 +37,12 @@ other = "标签"
 other = "全部"
 [contact]
 other = "联系方式"
-[connect_linkedin]
-other = "在 LinkedIn 上联系 ↗"
 [email_university]
 other = "学校邮箱"
 [email_personal]
 other = "个人邮箱"
 [skip_to_content]
 other = "跳到正文"
-[explore]
-other = "浏览"
-[reading_in]
-other = "正在阅读中文"
-[switch_lang]
-other = "한국어"
 [ai_site_guide]
 other = "AI 网站指南"
 [footer_rights]
@@ -75,44 +61,10 @@ other = " 个结果"
 other = "作者"
 [author_name]
 other = "崔胜勋"
-[cite_this]
-other = "引用本文"
-[cite_copy]
-other = "复制引用"
-[cite_copied]
-other = "已复制！"
 [copy_source]
 other = "出处"
-[rf_heading]
-other = "代表性研究"
-[rf_gripper]
-other = "章鱼启发软体夹爪"
-[rf_electrode]
-other = "干湿环境 EMG 粘附电极"
-[rf_plant]
-other = "植物叶片水凝胶电极"
-[dir_research]
-other = "论文、专利和计算材料研究"
-[dir_writing]
-other = "专栏、随笔、书籍和文学作品"
-[dir_youtube]
-other = "视频"
-[dir_apps]
-other = "我做的免费工具"
-[dir_career]
-other = "留学和美国定居实战指南"
-[dir_about]
-other = "履历、经历和联系"
-
 [profile]
 other = "个人主页"
-
-[cta_writing]
-other = "阅读文章"
-[cta_tools]
-other = "我做的工具"
-[cta_research]
-other = "研究成果"
 
 [toc_title]
 other = "目录"
@@ -142,13 +94,6 @@ other = "Instagram 主页二维码"
 
 [hero_qr_aria]
 other = "打开 Seunghoon Choi 的 Instagram 主页"
-
-[faq_title]
-other = "常见问题"
-[written_by]
-other = "作者"
-[author_bio]
-other = "材料工程师和研究者，计划于 2026 年秋季在佛罗里达大学（UF）开始计算材料科学博士项目。他曾从事电池电极生产和材料研究，也制作文章与工具，记录实际问题的解决过程。"
 
 [pinned_label]
 other = "推荐"

@@ -4,8 +4,6 @@ other = "Research"
 # parent dropdown labels
 [writing]
 other = "Writing"
-[resources]
-other = "Resources"
 # leaf sections
 [column]
 other = "Columns"
@@ -25,16 +23,12 @@ other = "About"
 # UI
 [home]
 other = "Home"
-[latest]
-other = "Recent Posts"
 [read_more]
 other = "Read"
 [view_all]
 other = "View all"
 [no_posts]
 other = "No posts yet. More coming soon."
-[posted_on]
-other = "Published on"
 [categories]
 other = "Categories"
 [tags]
@@ -65,20 +59,12 @@ other = "Incomplete"
 other = "Review status · visible only to you"
 [admin_panel]
 other = "Admin panel"
-[connect_linkedin]
-other = "Connect on LinkedIn ↗"
 [email_university]
 other = "University"
 [email_personal]
 other = "Personal"
 [skip_to_content]
 other = "Skip to content"
-[explore]
-other = "Explore"
-[reading_in]
-other = "Reading in English"
-[switch_lang]
-other = "한국어"
 [footer_rights]
 other = "All rights reserved."
 [ai_site_guide]
@@ -97,44 +83,10 @@ other = " results"
 other = "By"
 [author_name]
 other = "Seunghoon Choi"
-[cite_this]
-other = "Cite this"
-[cite_copy]
-other = "Copy citation"
-[cite_copied]
-other = "Copied!"
 [copy_source]
 other = "Source"
-[rf_heading]
-other = "Featured Research"
-[rf_gripper]
-other = "Octopus-inspired soft gripper"
-[rf_electrode]
-other = "EMG adhesive electrode for dry and wet environments"
-[rf_plant]
-other = "Plant-leaf hydrogel electrode"
-[dir_research]
-other = "Papers, patents, and computational materials research"
-[dir_writing]
-other = "Columns, essays, books, and literary works"
-[dir_youtube]
-other = "Video"
-[dir_apps]
-other = "Free tools I built"
-[dir_career]
-other = "Practical guides to studying abroad and settling in the U.S."
-[dir_about]
-other = "Background, career, and contact"
-
 [profile]
 other = "Profile"
-
-[cta_writing]
-other = "Read writing"
-[cta_tools]
-other = "Tools I built"
-[cta_research]
-other = "Research & Achievements"
 
 [toc_title]
 other = "Contents"
@@ -164,13 +116,6 @@ other = "QR code for Seunghoon Choi's Instagram profile"
 
 [hero_qr_aria]
 other = "Open Seunghoon Choi's Instagram profile"
-
-[faq_title]
-other = "Frequently asked questions"
-[written_by]
-other = "Written by"
-[author_bio]
-other = "Computational materials researcher preparing to begin a Ph.D. at the University of Florida (UF) in fall 2026. From 2021 to 2025, he worked in electrode manufacturing operations and technical advisory roles in Korea and China. He turns problems he has solved in manufacturing and materials research into practical writing and tools."
 
 [pinned_label]
 other = "Recommended"

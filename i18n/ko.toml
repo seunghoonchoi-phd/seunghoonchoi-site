@@ -4,8 +4,6 @@ other = "연구·성과"
 # parent dropdown labels
 [writing]
 other = "글·책"
-[resources]
-other = "자료"
 # leaf sections
 [column]
 other = "칼럼"
@@ -25,16 +23,12 @@ other = "소개"
 # UI
 [home]
 other = "홈"
-[latest]
-other = "최근 글"
 [read_more]
 other = "읽기"
 [view_all]
 other = "전체 보기"
 [no_posts]
 other = "아직 공개된 글이 없습니다."
-[posted_on]
-other = "작성"
 [categories]
 other = "카테고리"
 [tags]
@@ -65,20 +59,12 @@ other = "미완료"
 other = "검수 상태 · 나에게만 보임"
 [admin_panel]
 other = "관리자 화면"
-[connect_linkedin]
-other = "링크드인에서 연결 ↗"
 [email_university]
 other = "대학"
 [email_personal]
 other = "개인"
 [skip_to_content]
 other = "본문으로 건너뛰기"
-[explore]
-other = "둘러보기"
-[reading_in]
-other = "한국어로 보는 중"
-[switch_lang]
-other = "English"
 [ai_site_guide]
 other = "AI용 사이트 안내"
 [footer_rights]
@@ -97,44 +83,10 @@ other = "개 결과"
 other = "글쓴이"
 [author_name]
 other = "최승훈"
-[cite_this]
-other = "이 글 인용하기"
-[cite_copy]
-other = "인용 복사"
-[cite_copied]
-other = "복사됨!"
 [copy_source]
 other = "출처"
-[rf_heading]
-other = "대표 연구"
-[rf_gripper]
-other = "문어 영감 소프트 그리퍼"
-[rf_electrode]
-other = "건·습 환경 EMG 점착 전극"
-[rf_plant]
-other = "식물 잎 하이드로젤 전극"
-[dir_research]
-other = "논문·특허·계산재료 연구"
-[dir_writing]
-other = "칼럼·에세이·책·문학"
-[dir_youtube]
-other = "영상"
-[dir_apps]
-other = "직접 만든 무료 도구"
-[dir_career]
-other = "유학·미국 정착 실전 가이드"
-[dir_about]
-other = "이력·경력·연락"
-
 [profile]
 other = "프로필"
-
-[cta_writing]
-other = "글 읽기"
-[cta_tools]
-other = "만든 도구"
-[cta_research]
-other = "연구·성과"
 
 [toc_title]
 other = "목차"
@@ -164,13 +116,6 @@ other = "Instagram 프로필 QR 코드"
 
 [hero_qr_aria]
 other = "최승훈 Instagram 프로필 열기"
-
-[faq_title]
-other = "자주 묻는 질문"
-[written_by]
-other = "글쓴이"
-[author_bio]
-other = "계산재료 연구자이며 2026년 가을 플로리다대(UF) 박사과정 진학을 앞두고 있습니다. 전극 제조 현장과 재료 연구에서 직접 해결한 문제를 글과 도구로 정리합니다."
 
 [pinned_label]
 other = "추천"

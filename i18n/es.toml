@@ -4,8 +4,6 @@ other = "Investigación y logros"
 # parent dropdown labels
 [writing]
 other = "Escritos y libros"
-[resources]
-other = "Recursos"
 # leaf sections
 [column]
 other = "Columnas"
@@ -25,16 +23,12 @@ other = "Sobre mí"
 # UI
 [home]
 other = "Inicio"
-[latest]
-other = "Artículos recientes"
 [read_more]
 other = "Ver detalles"
 [view_all]
 other = "Ver todo"
 [no_posts]
 other = "Todavía no hay contenido publicado."
-[posted_on]
-other = "Publicado el"
 [categories]
 other = "Categorías"
 [tags]
@@ -43,20 +37,12 @@ other = "Etiquetas"
 other = "Todos"
 [contact]
 other = "Datos de contacto"
-[connect_linkedin]
-other = "Conéctate en LinkedIn ↗"
 [email_university]
 other = "Correo universitario"
 [email_personal]
 other = "Correo personal"
 [skip_to_content]
 other = "Ir al contenido"
-[explore]
-other = "Explorar"
-[reading_in]
-other = "Leyendo en español"
-[switch_lang]
-other = "한국어"
 [ai_site_guide]
 other = "Guía del sitio para IA"
 [footer_rights]
@@ -75,44 +61,10 @@ other = " resultados"
 other = "Por"
 [author_name]
 other = "Seunghoon Choi"
-[cite_this]
-other = "Citar este texto"
-[cite_copy]
-other = "Copiar la cita"
-[cite_copied]
-other = "¡Copiado!"
 [copy_source]
 other = "Fuente"
-[rf_heading]
-other = "Investigación representativa"
-[rf_gripper]
-other = "Pinza blanda inspirada en el pulpo"
-[rf_electrode]
-other = "Electrodo adhesivo de EMG para piel seca y húmeda"
-[rf_plant]
-other = "Electrodo de hidrogel para hojas de plantas"
-[dir_research]
-other = "Artículos científicos, patentes e investigación en materiales computacionales"
-[dir_writing]
-other = "Columnas, ensayos, libros y textos literarios"
-[dir_youtube]
-other = "Vídeos"
-[dir_apps]
-other = "Herramientas gratuitas que he creado"
-[dir_career]
-other = "Guías prácticas para estudiar fuera y asentarse en Estados Unidos"
-[dir_about]
-other = "Trayectoria, experiencia y contacto"
-
 [profile]
 other = "Perfil"
-
-[cta_writing]
-other = "Leer textos"
-[cta_tools]
-other = "Herramientas que creé"
-[cta_research]
-other = "Investigación y logros"
 
 [toc_title]
 other = "Índice"
@@ -142,13 +94,6 @@ other = "Código QR del perfil de Instagram"
 
 [hero_qr_aria]
 other = "Abrir el perfil de Instagram de Seunghoon Choi"
-
-[faq_title]
-other = "Preguntas frecuentes"
-[written_by]
-other = "Escrito por"
-[author_bio]
-other = "Ingeniero de materiales e investigador. Tiene previsto comenzar el doctorado en ciencia de materiales computacional en la Universidad de Florida (UF) en otoño de 2026. Ha trabajado en producción de electrodos e investigación de materiales, y crea textos y herramientas que documentan cómo resuelve problemas reales."
 
 [pinned_label]
 other = "Recomendado"

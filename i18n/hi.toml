@@ -4,8 +4,6 @@ other = "शोध और उपलब्धियाँ"
 # parent dropdown labels
 [writing]
 other = "लेख और किताबें"
-[resources]
-other = "संसाधन"
 # leaf sections
 [column]
 other = "कॉलम"
@@ -25,16 +23,12 @@ other = "परिचय"
 # UI
 [home]
 other = "होम"
-[latest]
-other = "हाल के लेख"
 [read_more]
 other = "पढ़ें"
 [view_all]
 other = "सभी देखें"
 [no_posts]
 other = "अभी कोई प्रकाशित लेख नहीं है।"
-[posted_on]
-other = "प्रकाशित"
 [categories]
 other = "श्रेणियाँ"
 [tags]
@@ -65,20 +59,12 @@ other = "अधूरा"
 other = "समीक्षा स्थिति · केवल आपको दिखाई देती है"
 [admin_panel]
 other = "व्यवस्थापक पैनल"
-[connect_linkedin]
-other = "LinkedIn पर जुड़ें ↗"
 [email_university]
 other = "विश्वविद्यालय"
 [email_personal]
 other = "निजी"
 [skip_to_content]
 other = "मुख्य सामग्री पर जाएँ"
-[explore]
-other = "देखें"
-[reading_in]
-other = "हिंदी में"
-[switch_lang]
-other = "한국어"
 [ai_site_guide]
 other = "AI के लिए साइट गाइड"
 [footer_rights]
@@ -97,44 +83,10 @@ other = " परिणाम"
 other = "लेखक"
 [author_name]
 other = "Seunghoon Choi"
-[cite_this]
-other = "इस लेख का उद्धरण दें"
-[cite_copy]
-other = "उद्धरण कॉपी करें"
-[cite_copied]
-other = "कॉपी हो गया!"
 [copy_source]
 other = "स्रोत कॉपी करें"
-[rf_heading]
-other = "प्रमुख शोध"
-[rf_gripper]
-other = "ऑक्टोपस से प्रेरित सॉफ्ट ग्रिपर"
-[rf_electrode]
-other = "सूखे और गीले माहौल के लिए EMG चिपकने वाला इलेक्ट्रोड"
-[rf_plant]
-other = "पौधे की पत्ती पर हाइड्रोजेल इलेक्ट्रोड"
-[dir_research]
-other = "शोधपत्र, पेटेंट और कंप्यूटेशनल मैटेरियल्स अनुसंधान"
-[dir_writing]
-other = "कॉलम, निबंध, किताबें और साहित्य"
-[dir_youtube]
-other = "वीडियो"
-[dir_apps]
-other = "मेरे बनाए मुफ़्त टूल"
-[dir_career]
-other = "विदेश में पढ़ाई और अमेरिका में बसने की व्यावहारिक गाइड"
-[dir_about]
-other = "बायोडाटा, करियर और संपर्क"
-
 [profile]
 other = "प्रोफ़ाइल"
-
-[cta_writing]
-other = "लेख पढ़ें"
-[cta_tools]
-other = "मेरे बनाए टूल"
-[cta_research]
-other = "शोध और उपलब्धियाँ"
 
 [toc_title]
 other = "विषय सूची"
@@ -164,13 +116,6 @@ other = "Instagram प्रोफ़ाइल के लिए QR कोड"
 
 [hero_qr_aria]
 other = "Seunghoon Choi की Instagram प्रोफ़ाइल खोलें"
-
-[faq_title]
-other = "अक्सर पूछे जाने वाले सवाल"
-[written_by]
-other = "लेखक"
-[author_bio]
-other = "कंप्यूटेशनल मैटेरियल्स के शोधकर्ता, जो 2026 की शरद ऋतु में फ्लोरिडा विश्वविद्यालय (UF) में पीएचडी शुरू करने की तैयारी कर रहे हैं। 2021 से 2025 तक उन्होंने कोरिया और चीन में इलेक्ट्रोड निर्माण की प्रक्रिया चलाने और तकनीकी सलाह देने का काम किया। निर्माण और सामग्री अनुसंधान में हल की गई समस्याओं को वे उपयोगी लेखों और टूल में बदलते हैं।"
 
 [pinned_label]
 other = "सुझाया गया"

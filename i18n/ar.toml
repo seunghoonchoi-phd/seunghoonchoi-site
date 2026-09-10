@@ -4,8 +4,6 @@ other = "الأبحاث والإنجازات"
 # parent dropdown labels
 [writing]
 other = "كتابات وكتب"
-[resources]
-other = "الموارد"
 # leaf sections
 [column]
 other = "مقالات"
@@ -25,16 +23,12 @@ other = "نبذة"
 # UI
 [home]
 other = "الرئيسية"
-[latest]
-other = "أحدث المقالات"
 [read_more]
 other = "اقرأ"
 [view_all]
 other = "عرض الكل"
 [no_posts]
 other = "لا توجد مقالات منشورة بعد."
-[posted_on]
-other = "نُشر"
 [categories]
 other = "التصنيفات"
 [tags]
@@ -65,20 +59,12 @@ other = "غير مكتمل"
 other = "حالة المراجعة · تظهر لك وحدك"
 [admin_panel]
 other = "لوحة الإدارة"
-[connect_linkedin]
-other = "تواصل على LinkedIn ↗"
 [email_university]
 other = "الجامعة"
 [email_personal]
 other = "شخصي"
 [skip_to_content]
 other = "تخطَ إلى المحتوى"
-[explore]
-other = "تصفّح"
-[reading_in]
-other = "تقرأ بالعربية"
-[switch_lang]
-other = "한국어"
 [ai_site_guide]
 other = "دليل الموقع للذكاء الاصطناعي"
 [footer_rights]
@@ -97,44 +83,10 @@ other = " نتيجة"
 other = "بقلم"
 [author_name]
 other = "Seunghoon Choi"
-[cite_this]
-other = "الاستشهاد بهذا المقال"
-[cite_copy]
-other = "نسخ الاستشهاد"
-[cite_copied]
-other = "تم النسخ!"
 [copy_source]
 other = "نسخ المصدر"
-[rf_heading]
-other = "أبرز الأبحاث"
-[rf_gripper]
-other = "ماسك ليّن مستوحى من الأخطبوط"
-[rf_electrode]
-other = "قطب EMG لاصق للبيئات الجافة والرطبة"
-[rf_plant]
-other = "قطب هيدروجيل لأوراق النباتات"
-[dir_research]
-other = "أوراق علمية وبراءات اختراع وأبحاث مواد حاسوبية"
-[dir_writing]
-other = "مقالات وخواطر وكتب ونصوص أدبية"
-[dir_youtube]
-other = "فيديو"
-[dir_apps]
-other = "أدوات مجانية صنعتها"
-[dir_career]
-other = "أدلة عملية للدراسة في الخارج والاستقرار في أمريكا"
-[dir_about]
-other = "السيرة والخبرة والتواصل"
-
 [profile]
 other = "الملف الشخصي"
-
-[cta_writing]
-other = "اقرأ المقالات"
-[cta_tools]
-other = "أدوات صنعتها"
-[cta_research]
-other = "الأبحاث والإنجازات"
 
 [toc_title]
 other = "المحتويات"
@@ -164,13 +116,6 @@ other = "رمز QR لملف Instagram الشخصي"
 
 [hero_qr_aria]
 other = "افتح ملف Seunghoon Choi على Instagram"
-
-[faq_title]
-other = "أسئلة شائعة"
-[written_by]
-other = "كتبه"
-[author_bio]
-other = "باحث في المواد الحاسوبية يستعد لبدء الدكتوراه في جامعة فلوريدا (UF) في خريف 2026. عمل من 2021 إلى 2025 في تشغيل عمليات تصنيع الأقطاب والاستشارات التقنية في كوريا والصين. ويحوّل المشكلات التي حلها في التصنيع وأبحاث المواد إلى مقالات وأدوات عملية."
 
 [pinned_label]
 other = "موصى به"
