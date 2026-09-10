@@ -11,65 +11,15 @@
 //   node tools/report-language-matrix.js --full    # add the full check mark matrix
 //   node tools/report-language-matrix.js --strict   # exit 1 if any gap (hook-friendly)
 
-const fs = require("fs");
-const path = require("path");
+const { root, read, parseLanguages, walkMarkdown } = require("./lib/content.js");
 
-const root = process.cwd();
 const sourceLang = "ko";
 const args = new Set(process.argv.slice(2));
 const showFull = args.has("--full");
 const strict = args.has("--strict");
 
-function read(rel) {
-  return fs.readFileSync(path.join(root, rel), "utf8");
-}
-
 // Mirror parseLanguages() in check-language-sync.js: declaration order, honoring
 // an explicit contentDir override when present.
-function parseLanguages() {
-  const text = read("hugo.toml");
-  const langs = [];
-  let current = null;
-
-  for (const line of text.split(/\r?\n/)) {
-    const section = line.match(/^\s*\[languages\.([A-Za-z0-9_-]+)\]\s*$/);
-    if (section) {
-      current = { lang: section[1], contentDir: `content/${section[1]}` };
-      langs.push(current);
-      continue;
-    }
-
-    if (/^\s*\[/.test(line) && !/^\s*\[languages\.[A-Za-z0-9_-]+\.params\]\s*$/.test(line)) {
-      current = null;
-      continue;
-    }
-
-    const contentDir = line.match(/^\s*contentDir\s*=\s*"([^"]+)"/);
-    if (current && contentDir) current.contentDir = contentDir[1].replace(/\\/g, "/");
-  }
-
-  return langs;
-}
-
-function walkMarkdown(dir) {
-  const abs = path.join(root, dir);
-  if (!fs.existsSync(abs)) return null;
-  const out = [];
-
-  function visit(current) {
-    for (const entry of fs.readdirSync(current, { withFileTypes: true })) {
-      const p = path.join(current, entry.name);
-      if (entry.isDirectory()) visit(p);
-      else if (entry.isFile() && entry.name.endsWith(".md")) {
-        out.push(path.relative(abs, p).replace(/\\/g, "/"));
-      }
-    }
-  }
-
-  visit(abs);
-  return out.sort();
-}
-
 function pad(text, width) {
   const str = String(text);
   return str.length >= width ? str : str + " ".repeat(width - str.length);

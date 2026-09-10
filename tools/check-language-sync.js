@@ -2,8 +2,8 @@
 
 const fs = require("fs");
 const path = require("path");
+const { root, read, parseLanguages, walkMarkdown } = require("./lib/content.js");
 
-const root = process.cwd();
 const errors = [];
 // Structural flags must hold the same VALUE across languages.
 const parityFrontMatterKeys = ["draft", "hidden", "build", "pinned", "series", "weight"];
@@ -11,56 +11,8 @@ const parityFrontMatterKeys = ["draft", "hidden", "build", "pinned", "series", "
 // but the value may differ so non-Korean pages can carry a language-appropriate image.
 const imageParityKeys = ["image", "ogimage"];
 
-function read(rel) {
-  return fs.readFileSync(path.join(root, rel), "utf8");
-}
-
 function exists(rel) {
   return fs.existsSync(path.join(root, rel));
-}
-
-function parseLanguages() {
-  const text = read("hugo.toml");
-  const langs = [];
-  let current = null;
-
-  for (const line of text.split(/\r?\n/)) {
-    const section = line.match(/^\s*\[languages\.([A-Za-z0-9_-]+)\]\s*$/);
-    if (section) {
-      current = { lang: section[1], contentDir: `content/${section[1]}` };
-      langs.push(current);
-      continue;
-    }
-
-    if (/^\s*\[/.test(line) && !/^\s*\[languages\.[A-Za-z0-9_-]+\.params\]\s*$/.test(line)) {
-      current = null;
-      continue;
-    }
-
-    const contentDir = line.match(/^\s*contentDir\s*=\s*"([^"]+)"/);
-    if (current && contentDir) current.contentDir = contentDir[1].replace(/\\/g, "/");
-  }
-
-  return langs;
-}
-
-function walkMarkdown(dir) {
-  const abs = path.join(root, dir);
-  if (!fs.existsSync(abs)) return null;
-  const out = [];
-
-  function visit(current) {
-    for (const entry of fs.readdirSync(current, { withFileTypes: true })) {
-      const p = path.join(current, entry.name);
-      if (entry.isDirectory()) visit(p);
-      else if (entry.isFile() && entry.name.endsWith(".md")) {
-        out.push(path.relative(abs, p).replace(/\\/g, "/"));
-      }
-    }
-  }
-
-  visit(abs);
-  return out.sort();
 }
 
 function parseFrontMatter(rel) {

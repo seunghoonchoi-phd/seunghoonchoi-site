@@ -2,61 +2,11 @@
 
 const fs = require("fs");
 const path = require("path");
+const { root, read, parseLanguages, walkMarkdown, bodyOnly } = require("./lib/content.js");
 
-const root = process.cwd();
 const fix = process.argv.includes("--fix");
 const errors = [];
 const changed = [];
-
-function read(rel) {
-  return fs.readFileSync(path.join(root, rel), "utf8");
-}
-
-function parseLanguages() {
-  const text = read("hugo.toml");
-  const langs = [];
-  let current = null;
-
-  for (const line of text.split(/\r?\n/)) {
-    const section = line.match(/^\s*\[languages\.([A-Za-z0-9_-]+)\]\s*$/);
-    if (section) {
-      current = { lang: section[1], contentDir: `content/${section[1]}` };
-      langs.push(current);
-      continue;
-    }
-
-    if (/^\s*\[/.test(line) && !/^\s*\[languages\.[A-Za-z0-9_-]+\.params\]\s*$/.test(line)) {
-      current = null;
-      continue;
-    }
-
-    const contentDir = line.match(/^\s*contentDir\s*=\s*"([^"]+)"/);
-    if (current && contentDir) current.contentDir = contentDir[1].replace(/\\/g, "/");
-  }
-
-  return langs;
-}
-
-function walkMarkdown(dir) {
-  const abs = path.join(root, dir);
-  if (!fs.existsSync(abs)) return [];
-  const out = [];
-
-  function visit(current) {
-    for (const entry of fs.readdirSync(current, { withFileTypes: true })) {
-      const p = path.join(current, entry.name);
-      if (entry.isDirectory()) visit(p);
-      else if (entry.isFile() && entry.name.endsWith(".md")) out.push(p);
-    }
-  }
-
-  visit(abs);
-  return out.sort();
-}
-
-function bodyOnly(text) {
-  return text.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
-}
 
 function splitFrontMatter(text) {
   const match = text.match(/^(---\r?\n[\s\S]*?\r?\n---\r?\n)/);
@@ -333,7 +283,7 @@ function normalizeBody(tokens, eol) {
 }
 
 for (const lang of parseLanguages()) {
-  for (const file of walkMarkdown(lang.contentDir)) {
+  for (const file of walkMarkdown(lang.contentDir, { absolute: true }) || []) {
     const rel = path.relative(root, file).replace(/\\/g, "/");
     const original = fs.readFileSync(file, "utf8");
     const body = bodyOnly(original);

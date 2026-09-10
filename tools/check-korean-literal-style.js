@@ -2,6 +2,7 @@
 
 const fs = require("fs");
 const path = require("path");
+const { bodyOnly } = require("./lib/content.js");
 
 const root = process.cwd();
 const koContent = path.join(root, "content", "ko");
@@ -288,10 +289,6 @@ function stripFrontMatter(text) {
       .map((line) => (/^(title|subtitle|description|seoTitle):/.test(line) ? line : ""))
       .join("\n");
   });
-}
-
-function bodyOnly(text) {
-  return text.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
 }
 
 function shouldSkip(rel) {
