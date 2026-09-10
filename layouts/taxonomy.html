@@ -1,0 +1,14 @@
+{{ define "main" }}
+{{- /* The index of every tag or category, ordered by how many posts carry it. */ -}}
+<section class="section">
+  <header class="section__head section__head--page reveal">
+    <h1 class="section__title">{{ i18n (cond (eq .Data.Plural "tags") "tags" "categories") }}</h1>
+  </header>
+
+  <div class="post__tags">
+    {{ range .Data.Terms.ByCount }}
+      <a class="tag" href="{{ .Page.RelPermalink }}">#{{ .Page.Title }} <span class="tag__count">{{ .Count }}</span></a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

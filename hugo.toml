@@ -44,6 +44,10 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
 [outputs]
   home = ["HTML", "RSS", "LLMS", "LLMSFULL", "SEARCH"]
   section = ["HTML", "RSS"]
+  # Tag and category pages are jump lists, not feeds. Dropping their RSS removes
+  # roughly 1,750 files per build that nothing subscribed to.
+  taxonomy = ["HTML"]
+  term = ["HTML"]
 
 [params]
   author = "Seunghoon Choi"

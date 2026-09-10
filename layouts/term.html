@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{- /* One tag or category. Kept deliberately light: a term page is a jump list, not a
+       section front page, so it skips the filter bar, the search module, and pagination.
+       Those three are what made every one of the ~250 term pages per language as
+       expensive to build as a full section listing. */ -}}
+<section class="section">
+  <header class="section__head section__head--page reveal">
+    <h1 class="section__title">#{{ .Title }}</h1>
+    <p class="lede">{{ i18n (cond (eq .Data.Plural "tags") "tags" "categories") }} · {{ len .Pages }}</p>
+  </header>
+
+  <div class="cards cards--list content-list">
+    {{ range $i, $page := .Pages.ByDate.Reverse }}
+      {{ partial "post-list-row.html" (dict "page" $page "index" (add $i 1)) }}
+    {{ else }}
+      <p class="muted">{{ i18n "no_posts" }}</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

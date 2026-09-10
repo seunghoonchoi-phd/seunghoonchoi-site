@@ -768,6 +768,7 @@ html[dir="rtl"] .langswitch__opt{text-align:right}
 .post__body pre code{background:none;padding:0}
 .post__tags{display:flex;flex-wrap:wrap;gap:10px;margin-top:36px;padding-top:22px;border-top:1px solid var(--hair)}
 .tag{font-family:var(--mono);font-size:13px;color:var(--copper)}.tag:hover{color:var(--navy)}
+.tag__count{color:var(--muted)}
 
 /* ---------- Pagination (internal template) ---------- */
 .pagination{display:flex;justify-content:center;gap:6px;list-style:none;margin:48px 0 0;padding:0;flex-wrap:wrap}
