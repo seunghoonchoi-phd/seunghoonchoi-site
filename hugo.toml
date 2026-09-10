@@ -12,6 +12,17 @@ buildFuture = true   # publish same-day/future-dated posts (avoid timezone-bound
 [pagination]
   pagerSize = 8
 
+# static/images keeps publishing its originals untouched, so every /images/...
+# URL in an article body stays exactly as it is. Mounting the same folder into
+# assets as well lets the card templates generate small thumbnails from those
+# originals instead of sending a 1600px photo to a 104px box.
+[[module.mounts]]
+  source = "assets"
+  target = "assets"
+[[module.mounts]]
+  source = "static/images"
+  target = "assets/images"
+
 [taxonomies]
   category = "categories"
   tag = "tags"

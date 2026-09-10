@@ -18,7 +18,7 @@
   <div class="pinned-wrap">
     {{ range . }}
     <a class="pinned reveal" href="{{ .RelPermalink }}">
-      {{ with .Params.image }}<span class="pinned__thumb"><img src="{{ . }}" alt="" loading="lazy"></span>{{ end }}
+      {{ with .Params.image }}{{ $t := partial "thumb.html" (dict "src" . "width" 440) }}<span class="pinned__thumb"><img src="{{ $t.src }}"{{ if $t.width }} width="{{ $t.width }}" height="{{ $t.height }}"{{ end }} alt="" loading="lazy" decoding="async"></span>{{ end }}
       <span class="pinned__body">
         <span class="pinned__tag">{{ i18n "pinned_label" }}</span>
         <span class="pinned__title">{{ .Title }}</span>

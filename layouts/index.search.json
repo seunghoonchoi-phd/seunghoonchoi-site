@@ -6,6 +6,8 @@
       {{- $mm := findRESubmatch `<img[^>]+?src=["']([^"']+)["']` .Content -}}
       {{- if gt (len $mm) 0 }}{{ $img = index (index $mm 0) 1 }}{{ end -}}
     {{- end -}}
+    {{- /* Result rows show an 86x54 thumb, so ship the small one, not the original. */ -}}
+    {{- with $img }}{{ $img = (partial "thumb.html" (dict "src" . "width" 160)).src }}{{ end -}}
     {{- $tags := slice -}}{{ with .Params.tags }}{{ $tags = . }}{{ end -}}
     {{- $cats := slice -}}{{ with .Params.categories }}{{ $cats = . }}{{ end -}}
     {{- $cat := "" -}}{{ with $cats }}{{ $cat = index . (sub (len .) 1) }}{{ end -}}

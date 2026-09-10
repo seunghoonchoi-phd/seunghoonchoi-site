@@ -3,8 +3,9 @@
 {{ $cat := "" }}{{ with .Params.categories }}{{ $cat = index . (sub (len .) 1) }}{{ end }}
 <article class="card reveal{{ if $img }} card--has-thumb{{ end }}" data-cat="{{ $cat | urlize }}"{{ with .File }} data-rk="{{ $.Section }}/{{ .ContentBaseName }}"{{ end }}>
   {{ with $img }}
+  {{ $t := partial "thumb.html" (dict "src" . "width" 480) }}
   <a class="card__thumb" href="{{ $.RelPermalink }}" tabindex="-1" aria-hidden="true">
-    <img src="{{ . }}" alt="" loading="lazy">
+    <img src="{{ $t.src }}"{{ with $t.srcset }} srcset="{{ . }}" sizes="(max-width:760px) 92vw, 360px"{{ end }}{{ if $t.width }} width="{{ $t.width }}" height="{{ $t.height }}"{{ end }} alt="" loading="lazy" decoding="async">
   </a>
   {{ end }}
   <div class="card__body">

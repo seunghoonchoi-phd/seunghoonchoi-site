@@ -5,9 +5,9 @@
     <h1 class="section__title">{{ i18n (cond (eq .Data.Plural "tags") "tags" "categories") }}</h1>
   </header>
 
-  <div class="post__tags">
+  <div class="taxo-list">
     {{ range .Data.Terms.ByCount }}
-      <a class="tag" href="{{ .Page.RelPermalink }}">#{{ .Page.Title }} <span class="tag__count">{{ .Count }}</span></a>
+      <a class="taxo-chip" href="{{ .Page.RelPermalink }}">#{{ .Page.Title }}<span class="taxo-chip__count">{{ .Count }}</span></a>
     {{ end }}
   </div>
 </section>

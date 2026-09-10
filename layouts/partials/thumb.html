@@ -1,0 +1,35 @@
+{{- /* Card thumbnail for a site image.
+
+  Call with (dict "src" "/images/foo.jpg" "width" 720).
+
+  Returns a dict:
+    src    — the URL to use in <img src>
+    srcset — a srcset string, or "" when the image cannot be resized
+    width  — intrinsic width of `src`
+    height — intrinsic height of `src`
+
+  Anything the pipeline cannot resize (SVG, an external URL, a missing file)
+  comes back untouched with no dimensions, so the caller renders it as before.
+*/ -}}
+{{- $src := .src -}}
+{{- $width := .width | default 720 -}}
+{{- $out := dict "src" $src "srcset" "" "width" 0 "height" 0 -}}
+
+{{- if and $src (hasPrefix $src "/images/") (not (hasSuffix (lower $src) ".svg")) -}}
+  {{- with resources.Get (strings.TrimPrefix "/" $src) -}}
+    {{- if ge .Width $width -}}
+      {{- $one := .Resize (printf "%dx q80" $width) -}}
+      {{- $two := "" -}}
+      {{- if ge .Width (mul $width 2) -}}
+        {{- $two = .Resize (printf "%dx q70" (mul $width 2)) -}}
+      {{- end -}}
+      {{- $set := printf "%s %dw" $one.RelPermalink $width -}}
+      {{- with $two -}}{{- $set = printf "%s, %s %dw" $set .RelPermalink (mul $width 2) -}}{{- end -}}
+      {{- $out = dict "src" $one.RelPermalink "srcset" $set "width" $one.Width "height" $one.Height -}}
+    {{- else -}}
+      {{- $out = dict "src" $src "srcset" "" "width" .Width "height" .Height -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return $out -}}

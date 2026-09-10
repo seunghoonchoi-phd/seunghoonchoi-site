@@ -11,8 +11,9 @@
     <span>{{ $idx }}</span>
   </div>
   {{ with $img }}
+  {{ $t := partial "thumb.html" (dict "src" . "width" 160) }}
   <a class="content-row__thumb" href="{{ $p.RelPermalink }}" tabindex="-1" aria-hidden="true">
-    <img src="{{ . }}" alt="" loading="lazy">
+    <img src="{{ $t.src }}"{{ with $t.srcset }} srcset="{{ . }}" sizes="104px"{{ end }}{{ if $t.width }} width="{{ $t.width }}" height="{{ $t.height }}"{{ end }} alt="" loading="lazy" decoding="async">
   </a>
   {{ else }}
   <a class="content-row__thumb content-row__thumb--fallback" href="{{ $p.RelPermalink }}" tabindex="-1" aria-hidden="true">
