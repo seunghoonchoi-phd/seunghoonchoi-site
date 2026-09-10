@@ -87,3 +87,13 @@ Follow the global user instructions first. These rules apply to this website rep
 - Do not hide skip links or screen-reader helpers with `left:-9999px`; in RTL pages that creates huge horizontal overflow. Use clipping (`clip-path:inset(50%)`) instead.
 - After changing CSS, layout templates, Hugo language direction config, or Arabic content that contains wide blocks, run `node tools/check-rtl-layout.cjs` and `hugo --minify`.
 - For visual changes touching Arabic pages, render and inspect `/ar/column/questions-lifeline/` or the affected Arabic page before publishing.
+
+## Site Build Conventions
+
+These describe the Hugo site itself, not the apps under `static/`.
+
+- **One stylesheet.** `assets/css/main.css` is the only site stylesheet. The home presentation layer lives at the end of the file and wins by source order, not specificity, so keep new base rules above that banner and home overrides below it. Do not add a second `<link rel="stylesheet">` to `head.html`.
+- **Thumbnails.** Never point a card, list row, pinned entry, or search result at a full-size image. Call `partial "thumb.html" (dict "src" <path> "width" <css px * 2>)` and render `src`, `srcset`, `width`, `height`. `static/images` is mounted into `assets` (see `[[module.mounts]]` in `hugo.toml`) so the pipeline can resize the same files that `static/` publishes untouched; article body images stay full size on purpose.
+- **Identity facts.** Job title, affiliations, `knowsAbout`, and name spellings belong in `data/person.toml`, which `head.html` turns into the schema.org Person node. Profile URLs stay in `[params]` in `hugo.toml`. Do not retype either into a template.
+- **Checker helpers.** `tools/lib/content.js` holds `read`, `parseLanguages`, `walkMarkdown`, and `bodyOnly`. A new checker requires them; it does not copy them.
+- **Tag and category pages.** `layouts/term.html` and `layouts/taxonomy.html` render them, deliberately without the filter bar, search module, or pagination — that combination is what made them the most expensive pages in the build. They also emit no RSS.
