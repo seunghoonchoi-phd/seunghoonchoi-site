@@ -14,7 +14,7 @@ const report = {
   generatedAt: new Date().toISOString(),
   root,
   scope: {
-    source: ["content", "i18n", "layouts", "hugo.toml", "index.html", "uf-guide.html"],
+    source: ["content", "i18n", "layouts", "hugo.toml"],
     rendered: includeRendered ? path.relative(root, renderedDir).replace(/\\/g, "/") || "." : null,
   },
   totals: {
@@ -636,11 +636,6 @@ for (const lang of parseLanguages()) {
 for (const file of walk(path.join(root, "i18n"), (item) => item.endsWith(".toml"))) auditTomlFile(file, "i18n");
 if (exists(path.join(root, "hugo.toml"))) auditHugoConfig(path.join(root, "hugo.toml"));
 for (const file of walk(path.join(root, "layouts"), (item) => item.endsWith(".html"))) auditHtmlSource(file, "layout");
-for (const name of ["index.html", "uf-guide.html"]) {
-  const file = path.join(root, name);
-  if (exists(file)) auditHtmlSource(file, "static-html");
-}
-
 if (includeRendered && exists(renderedDir)) {
   const renderedFiles = walk(renderedDir, (item) => item.endsWith(".html"));
   for (const file of renderedFiles) auditRenderedHtml(file);
