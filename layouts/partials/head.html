@@ -32,10 +32,12 @@
 {{- /* Default link-preview image (1200x630). Pages may override via front-matter `ogimage`. */ -}}
 {{ $ogimg := "images/og-default.png" }}{{ with .Params.ogimage }}{{ $ogimg = . }}{{ end }}
 {{ $ogimgURL := $ogimg | absURL }}
+{{ $ogimgType := cond (hasSuffix (lower $ogimg) ".png") "image/png" (cond (hasSuffix (lower $ogimg) ".webp") "image/webp" "image/jpeg") }}
 <meta property="og:image" content="{{ $ogimgURL }}">
-<meta property="og:image:width" content="1200">
+{{- /* Only the default card is known to be 1200x630; a page override declares no size rather than a wrong one. */ -}}
+{{ if not .Params.ogimage }}<meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:type" content="image/png">
+{{ end }}<meta property="og:image:type" content="{{ $ogimgType }}">
   <meta property="og:image:alt" content="{{ .Site.Title }}, {{ .Site.Params.role }}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ if .IsHome }}{{ i18n "brand" }}{{ if ne (i18n "brand") .Site.Title }} ({{ .Site.Title }}){{ end }}{{ else }}{{ .Title }}{{ end }}">
@@ -78,20 +80,22 @@
 {{ with .Site.Params.instagram }}{{ $same = $same | append . }}{{ end }}
 {{ with .Site.Params.twitter }}{{ $same = $same | append . }}{{ end }}
 {{ with .Site.Params.threads }}{{ $same = $same | append . }}{{ end }}
+{{- /* Identity facts live in data/person.toml so the entity is described in one place. */ -}}
+{{ $p := hugo.Data.person }}
 {{ $person := dict
   "@type" "Person"
   "@id" (printf "%s#person" .Site.BaseURL)
-  "name" "Seunghoon Choi"
-  "alternateName" (slice "최승훈" "Choi Seunghoon" "Seung-hoon Choi" "S. Choi")
-  "givenName" "Seunghoon"
-  "familyName" "Choi"
-  "identifier" (dict "@type" "PropertyValue" "propertyID" "ORCID" "value" "0009-0007-8324-2943")
+  "name" $p.name
+  "alternateName" $p.alternateName
+  "givenName" $p.givenName
+  "familyName" $p.familyName
+  "identifier" (dict "@type" "PropertyValue" "propertyID" "ORCID" "value" $p.orcidId)
   "url" .Site.BaseURL
-  "jobTitle" "Computational Materials Scientist"
-  "affiliation" (dict "@type" "CollegeOrUniversity" "name" "University of Florida" "url" "https://www.ufl.edu/")
-  "alumniOf" (dict "@type" "CollegeOrUniversity" "name" "Sungkyunkwan University" "url" "https://www.skku.edu/")
-  "knowsLanguage" (slice "ko" "en" "zh")
-  "knowsAbout" (slice "Computational Materials Science" "Materials Science and Engineering" "Density Functional Theory" "Machine Learning for Materials" "Microstructure and Interfaces" "Bio-inspired Materials" "Octopus-inspired Adhesion" "Soft Robotics" "Hydrogel Electrodes" "Wearable Biosignal Sensors" "Electromyography" "Lithium-ion Battery Electrode Manufacturing" "Electrode Coating and Calendering" "Learning Science" "AI and the Future of Work" "Graduate Study Abroad" "F-1 Student Visa" "U.S. Nonresident Alien Taxes" "Korean Naturalization Exam Preparation" "Simulation")
+  "jobTitle" $p.jobTitle
+  "affiliation" (dict "@type" "CollegeOrUniversity" "name" $p.affiliation.name "url" $p.affiliation.url)
+  "alumniOf" (dict "@type" "CollegeOrUniversity" "name" $p.alumniOf.name "url" $p.alumniOf.url)
+  "knowsLanguage" $p.knowsLanguage
+  "knowsAbout" $p.knowsAbout
   "email" (printf "mailto:%s" .Site.Params.email)
   "image" ("images/og-default.png" | absURL)
   "description" .Site.Params.description
@@ -115,6 +119,25 @@
   "author" $person
   "publisher" $person
   "mainEntityOfPage" .Permalink
+  | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{ end }}
+{{- /* FAQPage — front-matter `faq` (a list of q/a pairs) written in every language. */ -}}
+{{ with .Params.faq }}
+{{ $qa := slice }}
+{{ range . }}
+  {{ $qa = $qa | append (dict
+    "@type" "Question"
+    "name" .q
+    "acceptedAnswer" (dict "@type" "Answer" "text" .a)) }}
+{{ end }}
+<script type="application/ld+json">
+{{ dict
+  "@context" "https://schema.org"
+  "@type" "FAQPage"
+  "inLanguage" $.Site.Language.Lang
+  "mainEntityOfPage" $.Permalink
+  "mainEntity" $qa
   | jsonify (dict "indent" "  ") | safeJS }}
 </script>
 {{ end }}

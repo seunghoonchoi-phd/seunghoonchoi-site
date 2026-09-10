@@ -1,0 +1,41 @@
+# Identity facts for the schema.org Person node used across every page.
+# head.html builds the JSON-LD from this file plus the profile links in hugo.toml,
+# so the entity is described in one place instead of inside a template.
+name = "Seunghoon Choi"
+givenName = "Seunghoon"
+familyName = "Choi"
+alternateName = ["최승훈", "Choi Seunghoon", "Seung-hoon Choi", "S. Choi"]
+jobTitle = "Computational Materials Scientist"
+orcidId = "0009-0007-8324-2943"
+knowsLanguage = ["ko", "en", "zh"]
+
+[affiliation]
+name = "University of Florida"
+url = "https://www.ufl.edu/"
+
+[alumniOf]
+name = "Sungkyunkwan University"
+url = "https://www.skku.edu/"
+
+knowsAbout = [
+  "Computational Materials Science",
+  "Materials Science and Engineering",
+  "Density Functional Theory",
+  "Machine Learning for Materials",
+  "Microstructure and Interfaces",
+  "Bio-inspired Materials",
+  "Octopus-inspired Adhesion",
+  "Soft Robotics",
+  "Hydrogel Electrodes",
+  "Wearable Biosignal Sensors",
+  "Electromyography",
+  "Lithium-ion Battery Electrode Manufacturing",
+  "Electrode Coating and Calendering",
+  "Learning Science",
+  "AI and the Future of Work",
+  "Graduate Study Abroad",
+  "F-1 Student Visa",
+  "U.S. Nonresident Alien Taxes",
+  "Korean Naturalization Exam Preparation",
+  "Simulation",
+]

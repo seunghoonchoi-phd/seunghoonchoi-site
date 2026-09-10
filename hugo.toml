@@ -4,6 +4,9 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 enableEmoji = true
+# Real modification dates for JSON-LD dateModified. CI checks out full history
+# (fetch-depth: 0), so every page reports when its file last changed.
+enableGitInfo = true
 buildFuture = true   # publish same-day/future-dated posts (avoid timezone-boundary skips)
 
 [pagination]
