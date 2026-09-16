@@ -52,7 +52,7 @@ Es una reseña que resume la investigación sobre pinzas blandas inspiradas en l
 4. Bio-Inspired Hydrogel Adhesive Electrode Enabling Stimulus-Responsive Electrical Signal Recording in Plant Leaves.
    Subi Jeon†, Seunghoon Choi†, Da Wan Kim\*. *International Journal of Advanced Smart Convergence* 15(1), 2026, 241-253. · Coprimer autor
 5. A Pilot Clinical Study of a Biomimetic Suction Patch for Improving Wrinkles, Elasticity, Hydration, and Pigmentation via Enhanced Topical Delivery.
-   Seunghoon Choi, Hyung-ki Park, Jaehwan Ahn, Dong-Hyun Ko, Jin-Hyun Kim, Byung Woo Hwang, Seongmin Noh, Wonkyu Hong, Keun Ho Lee, Da Wan Kim\*. *Journal of Cosmetic Dermatology* 25(7), 2026, e71074. · Primer autor
+   Seunghoon Choi†, Hyung-ki Park†, Jaehwan Ahn, Dong-Hyun Ko, Jin-Hyun Kim, Byung Woo Hwang, Seongmin Noh, Wonkyu Hong, Keun Ho Lee\*, Da Wan Kim\*. *Journal of Cosmetic Dermatology* 25(7), 2026, e71074. · Coprimer autor
 
 ## Patentes
 
