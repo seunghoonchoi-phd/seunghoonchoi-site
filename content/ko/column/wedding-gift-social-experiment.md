@@ -1,6 +1,6 @@
 ---
-title: "축의금으로 해본 사회실험"
-seoTitle: "축의금으로 해본 사회실험"
+title: "축의금의 사회실험"
+seoTitle: "축의금의 사회실험"
 date: 2026-10-03T12:00:00-04:00
 draft: false
 categories: ["인간관계"]
