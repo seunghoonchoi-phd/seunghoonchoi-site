@@ -9,6 +9,8 @@ description: "대한민국 귀화·영주·사회통합 평가 준비를 위해 
 image: /images/gwiwha-card.svg
 noticePopup: true
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/gwiwha-card.svg" alt="귀화시험 연습 앱 아이콘">

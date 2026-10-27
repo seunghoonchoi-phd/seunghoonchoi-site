@@ -28,8 +28,6 @@ I built this so my wife could practice typing the citizenship essay model answer
 
 [Open the app →](https://seunghoonchoi-phd.github.io/gwiwha/typing/)
 
-Works well alongside the citizenship practice app → [Korean citizenship comprehensive evaluation guide](/gwiwha/)
-
 > Install: open the link on your phone browser and tap "Add to Home Screen", or click the install icon in your desktop browser's address bar.
 
 ## Update Notes

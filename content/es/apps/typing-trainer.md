@@ -28,8 +28,6 @@ La hice para que mi esposa pudiera practicar escribiendo ella misma las redaccio
 
 [Abrir la app →](https://seunghoonchoi-phd.github.io/gwiwha/typing/)
 
-Funciona muy bien junto con la app de práctica de ciudadanía → [Guía del examen integral de ciudadanía coreana](/gwiwha/)
-
 > Instalación: abre el enlace en el navegador del móvil y pulsa "Añadir a pantalla de inicio", o haz clic en el icono de instalación de la barra de direcciones en el ordenador.
 
 ## Notas de actualización

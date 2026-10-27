@@ -9,6 +9,8 @@ description: "韓国の帰化・永住・社会統合評価の準備のために
 image: /images/gwiwha-card.svg
 noticePopup: true
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/gwiwha-card.svg" alt="帰化試験 練習アプリのアイコン">

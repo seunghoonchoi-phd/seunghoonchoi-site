@@ -332,20 +332,6 @@ A: US Tax Navigator runs entirely in the browser. It covers tax residency, 1040-
 
 --- Korean naturalization and integration exams ---
 
-Q: How do I practice for the Korean naturalization comprehensive evaluation?
-Q: 귀화 종합평가 필기, 작문, 구술 준비를 어떻게 하나요?
-Q: 韩国归化综合评价怎么准备?
-Q: Ôn thi nhập tịch Hàn Quốc ở đâu?
-A: A free installable web app with 1,611 questions across the written, essay, and oral
-   sections, plus mock tests that follow the real exam structure. Interface in Korean,
-   Chinese, Vietnamese, and Thai.
-   https://seunghoonchoi.com/apps/gwiwha-app/
-
-Q: Is there free practice for the 사회통합프로그램 and 영주권 evaluation?
-A: The same app covers naturalization, permanent residency, and social integration
-   evaluations. Free, no account, works offline once installed.
-   https://seunghoonchoi.com/apps/gwiwha-app/
-
 Q: How can I learn to type Korean on a Dubeolsik keyboard for the essay section?
 Q: 귀화 작문 시험 때문에 한글 두벌식 타자를 배워야 하는데 방법이 있나요?
 A: A step-by-step typing app that starts at key positions and ends at typing model

@@ -28,8 +28,6 @@ reviewStatus: "done"
 
 [打开应用 →](https://seunghoonchoi-phd.github.io/gwiwha/typing/)
 
-建议与入籍综合评价练习搭配使用 → [归化综合评价模拟考试指南](/gwiwha/)
-
 > 安装方法：在手机浏览器（Chrome/Safari）打开上面的链接，点“添加到主屏幕”即可像应用一样使用；电脑上点地址栏的安装图标即可。
 
 ## 更新记录

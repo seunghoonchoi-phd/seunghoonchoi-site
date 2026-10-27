@@ -9,6 +9,8 @@ description: "Aplicación web gratuita e instalable para preparar las evaluacion
 image: /images/gwiwha-card.svg
 noticePopup: true
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/gwiwha-card.svg" alt="Icono de la app de práctica para el examen de ciudadanía coreana">

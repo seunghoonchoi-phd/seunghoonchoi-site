@@ -28,4 +28,3 @@ Allow: /
 Disallow: /admin/
 
 Sitemap: https://seunghoonchoi.com/sitemap.xml
-Sitemap: https://seunghoonchoi.com/gwiwha-sitemap.xml

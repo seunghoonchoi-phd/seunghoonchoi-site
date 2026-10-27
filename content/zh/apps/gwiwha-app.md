@@ -9,6 +9,8 @@ description: "为准备韩国归化、永居和社会统合评价制作的免费
 image: /images/gwiwha-card.svg
 noticePopup: true
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 
 <div class="appcard">

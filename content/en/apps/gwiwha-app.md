@@ -9,6 +9,8 @@ description: "A free installable web app for preparing for Korea's naturalizatio
 image: /images/gwiwha-card.svg
 noticePopup: true
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/gwiwha-card.svg" alt="Korean citizenship practice app icon">

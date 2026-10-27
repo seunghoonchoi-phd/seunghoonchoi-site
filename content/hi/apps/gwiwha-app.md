@@ -9,6 +9,8 @@ description: "दक्षिण कोरिया की नागरिकत
 image: /images/gwiwha-card.svg
 noticePopup: true
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/gwiwha-card.svg" alt="नागरिकता परीक्षा अभ्यास ऐप का आइकन">

@@ -28,8 +28,6 @@ reviewStatus: "done"
 
 [アプリを開く ->](https://seunghoonchoi-phd.github.io/gwiwha/typing/)
 
-帰化総合評価の練習と一緒に使うと便利です -> [帰化総合評価 模擬試験の案内](/ja/gwiwha/)
-
 > インストール方法：上のリンクをスマホのブラウザ（Chrome／Safari）で開き、「ホーム画面に追加」を押すとアプリのように使えます。PCでは、アドレスバーのインストールアイコンを押せば大丈夫です。
 
 ## 更新履歴

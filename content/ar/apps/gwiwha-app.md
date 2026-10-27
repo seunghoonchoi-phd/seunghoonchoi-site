@@ -9,6 +9,8 @@ description: "تطبيق ويب مجاني قابل للتثبيت أعددته 
 image: /images/gwiwha-card.svg
 noticePopup: true
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/gwiwha-card.svg" alt="أيقونة تطبيق التدريب على اختبار التجنيس">
