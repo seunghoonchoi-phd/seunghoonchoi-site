@@ -8,6 +8,8 @@ subtitle: "أول مرة مع لوحة المفاتيح الكورية؟ فقط 
 description: "تطبيق ويب مجاني قابل للتثبيت لتمرين لوحة المفاتيح الكورية (دوبيولسيك) خطوة بخطوة، من تمارين مواضع المفاتيح إلى كتابة النماذج الإجابية لمقالات التجنيس أثناء قراءتها. يدلّك على المفتاح والإصبع التاليين، ويدعم الكورية والصينية والفيتنامية والتايلاندية."
 image: /images/typing-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/typing-card.svg" alt="أيقونة تطبيق تمرين الكتابة بالكورية">

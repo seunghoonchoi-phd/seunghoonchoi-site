@@ -8,6 +8,8 @@ subtitle: "韓国語キーボードが初めてでも、画面が示すキーを
 description: "韓国語2ボル式キーボードの位置練習から、帰化作文の模範解答を見ながら入力する練習まで段階的に進められる無料のインストール型ウェブアプリ。次に押すキーと指を表示し、韓国語・中文・Tiếng Việt・ภาษาไทยに対応しています。"
 image: /images/typing-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/typing-card.svg" alt="韓国語タイピング練習アプリのアイコン">

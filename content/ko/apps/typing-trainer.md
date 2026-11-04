@@ -8,6 +8,8 @@ subtitle: "한글 자판이 처음이어도, 화면이 알려주는 키만 누�
 description: "한글 두벌식 자판 자모음 연습부터 귀화시험 작문 모범답안 장문 타자연습까지 단계별로 진행하는 무료 설치형 웹앱. 다음에 누를 키와 손가락을 알려 주고, 한국어·中文·Tiếng Việt·ภาษาไทย를 지원합니다."
 image: /images/typing-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/typing-card.svg" alt="한글 타자 연습 앱 아이콘">

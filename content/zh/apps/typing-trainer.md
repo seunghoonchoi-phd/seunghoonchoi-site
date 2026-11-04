@@ -8,6 +8,8 @@ subtitle: "第一次用韩文键盘也没关系，按屏幕提示的键就行。
 description: "免费可安装网页应用，分阶段练习韩文二式键盘，从指位练习到看着入籍作文范文输入。提示下一个要按的键和手指，支持韩语·中文·越南语·泰语。"
 image: /images/typing-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/typing-card.svg" alt="韩文打字练习应用图标">

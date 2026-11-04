@@ -8,6 +8,8 @@ subtitle: "¿Primera vez con el teclado coreano? Solo pulsa la tecla que te mues
 description: "App web gratuita e instalable para practicar el teclado coreano Dubeolsik paso a paso, desde la posición de las teclas hasta escribir redacciones modelo del examen de ciudadanía mientras las lees. Indica la siguiente tecla y el dedo, y admite coreano, chino, vietnamita y tailandés."
 image: /images/typing-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/typing-card.svg" alt="Icono de la app de mecanografía en coreano">

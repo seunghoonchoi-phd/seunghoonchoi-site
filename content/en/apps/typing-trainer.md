@@ -8,6 +8,8 @@ subtitle: "New to the Korean keyboard? Just press the key the screen shows you."
 description: "A free installable web app to practice the Korean Dubeolsik keyboard step by step, from key-position drills to typing citizenship essay model answers while reading them. It shows the next key and finger, and supports Korean, Chinese, Vietnamese, and Thai."
 image: /images/typing-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/typing-card.svg" alt="Korean typing practice app icon">

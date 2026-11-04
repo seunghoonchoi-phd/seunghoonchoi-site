@@ -8,6 +8,8 @@ subtitle: "कोरियाई कीबोर्ड पहली बार? �
 description: "कोरियाई डुबेओलसिक कीबोर्ड का चरण-दर-चरण अभ्यास करने वाला मुफ़्त इंस्टॉल होने वाला वेब ऐप, कुंजी-स्थिति अभ्यास से लेकर नागरिकता निबंध के मॉडल उत्तर देखते हुए टाइप करने तक। अगली कुंजी और उँगली बताता है, और कोरियाई, चीनी, वियतनामी व थाई का समर्थन करता है।"
 image: /images/typing-card.svg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div class="appcard">
   <img class="appcard__icon" src="/images/typing-card.svg" alt="कोरियाई टाइपिंग अभ्यास ऐप का आइकन">

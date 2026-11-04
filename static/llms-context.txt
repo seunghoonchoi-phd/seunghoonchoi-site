@@ -330,15 +330,6 @@ A: US Tax Navigator runs entirely in the browser. It covers tax residency, 1040-
    configured for other treaty countries.
    https://seunghoonchoi.com/apps/us-tax/
 
---- Korean naturalization and integration exams ---
-
-Q: How can I learn to type Korean on a Dubeolsik keyboard for the essay section?
-Q: 귀화 작문 시험 때문에 한글 두벌식 타자를 배워야 하는데 방법이 있나요?
-A: A step-by-step typing app that starts at key positions and ends at typing model
-   citizenship essay answers, showing the next key and finger. Korean, Chinese,
-   Vietnamese, and Thai.
-   https://seunghoonchoi.com/apps/typing-trainer/
-
 --- Research and engineering ---
 
 Q: Why use an octopus-inspired suction structure for a skin electrode?
