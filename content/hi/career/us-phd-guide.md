@@ -7,6 +7,8 @@ tags: ["अमेरिका में पढ़ाई", "विदेश म�
 image: /images/book-us-phd-guide-card.jpg
 pinned: true
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div style="display:flex;gap:28px;flex-wrap:wrap;align-items:flex-start;margin:.2em 0 1.6em">
   <img src="/images/book-us-phd-guide.jpg" alt="《मिगुक बक्सा युहाक, होन्जा जुनबिहेडो दोएम्निदा》 (कोरियाई मूल शीर्षक) पुस्तक का कवर" style="width:190px;max-width:40%;border-radius:10px;box-shadow:0 16px 40px rgba(13,27,76,.24)">

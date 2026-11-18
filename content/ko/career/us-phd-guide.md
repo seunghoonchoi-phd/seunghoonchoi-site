@@ -7,6 +7,8 @@ tags: ["미국유학", "박사유학", "토플", "SOP", "F-1비자", "대학원"
 image: /images/book-us-phd-guide-card.jpg
 pinned: true
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div style="display:flex;gap:28px;flex-wrap:wrap;align-items:flex-start;margin:.2em 0 1.6em">
   <img src="/images/book-us-phd-guide.jpg" alt="《미국 박사 유학, 혼자 준비해도 됩니다》 표지" style="width:190px;max-width:40%;border-radius:10px;box-shadow:0 16px 40px rgba(13,27,76,.24)">

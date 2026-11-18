@@ -6,6 +6,8 @@ categories: ["留学"]
 tags: ["アメリカ留学", "博士留学", "TOEFL", "SOP", "F-1ビザ", "大学院"]
 image: /images/book-us-phd-guide-card.jpg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 ![『アメリカ博士留学、ひとりで準備しても大丈夫です』表紙](/images/book-us-phd-guide.jpg)
 

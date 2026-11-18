@@ -6,6 +6,8 @@ categories: ["留学"]
 tags: ["美国留学", "博士留学", "TOEFL", "SOP", "F-1 签证", "研究生院"]
 image: /images/book-us-phd-guide-card.jpg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 <div style="display:flex;gap:30px;flex-wrap:wrap;align-items:flex-start;margin:.4em 0 1.4em">
   <img src="/images/book-us-phd-guide.jpg" alt="《미국 박사 유학, 혼자 준비해도 됩니다》（韩语原版）封面" style="width:230px;max-width:44%;border-radius:10px;box-shadow:0 16px 40px rgba(13,27,76,.24)">

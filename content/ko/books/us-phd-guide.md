@@ -6,6 +6,8 @@ categories: ["유학"]
 tags: ["미국유학", "박사유학", "토플", "SOP", "F-1비자", "대학원"]
 image: /images/book-us-phd-guide-card.jpg
 reviewStatus: "done"
+hidden: true
+build: {list: never, render: never}
 ---
 ![《미국 박사 유학, 혼자 준비해도 됩니다》 표지](/images/book-us-phd-guide.jpg)
 
