@@ -1,0 +1,57 @@
+name: Take site offline
+
+# 수동 실행 전용. 사이트 전체를 빈 안내 페이지 하나로 바꿔 배포한다.
+# 다시 켜기: "Deploy Hugo site to Pages"(hugo.yml) 워크플로를 enable한 뒤 수동 실행.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Write offline page
+        run: |
+          mkdir -p offline
+          cat > offline/index.html <<'EOF'
+          <!doctype html>
+          <html lang="en">
+          <head>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <meta name="robots" content="noindex, nofollow">
+          <title>Offline</title>
+          <style>
+          html,body{height:100%;margin:0}
+          body{display:flex;align-items:center;justify-content:center;font-family:system-ui,sans-serif;background:#f8f6f3;color:#333}
+          p{margin:.3em 0;text-align:center}
+          </style>
+          </head>
+          <body><div><p>This site is temporarily offline.</p><p>사이트를 잠시 닫아 두었습니다.</p></div></body>
+          </html>
+          EOF
+          cp offline/index.html offline/404.html
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ./offline
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
